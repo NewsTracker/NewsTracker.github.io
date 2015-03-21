@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>NewsTracker: alabama running death</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.alabama_running_death.html" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Convicted in granddaughter's running death, Alabama woman faces potential death penalty</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/297116011.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T08:00:22Z</updated>
+    <published>2015-03-21T08:00:22Z</published>
+    <summary type="html">&lt;p&gt;- Jurors who convicted an Alabama woman in the running death of her 9-year-old granddaughter soon must decide whether to recommend she should die for the crime or spend the rest of her life in prison.&lt;/p&gt;</summary>
+    <dc:date>2015-03-21T08:00:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Alabama woman convicted of running granddaughter to death</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/21/alabama-woman-convicted-of-running-granddaughter-to-death" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T05:20:48Z</updated>
+    <published>2015-03-21T05:20:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-21T05:20:48Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297678008464_ORIGINAL.jpg?quality=80&amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Closing argument scheduled in grandmother's trial over Alabama girl's running death</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/296909361.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T18:10:49Z</updated>
+    <published>2015-03-19T18:10:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T18:10:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Defense expert: Alabama girl's running death not a homicide, but exertion still the cause</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/03/17/defense-expert-alabama-girl-running-death-not-homicide-but-exertion-still-cause/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T22:32:09Z</updated>
+    <published>2015-03-17T22:32:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-17T22:32:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>1 word could help decide fate of Alabama woman charged in granddaughter's running death</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/296368141.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T17:40:06Z</updated>
+    <published>2015-03-15T17:40:06Z</published>
+    <summary type="html">&lt;p&gt;- One word on a 911 recording could help decide the fate of an Alabama woman accused of making her granddaughter run until she died.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T17:40:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Public barred from jury selection in girl's running death</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/us/article/Public-barred-from-jury-selection-in-girl-s-6110151.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-02T17:59:14Z</updated>
+    <published>2015-03-02T17:59:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-02T17:59:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Grandfather could testify in Alabama girl's running death</title>
+    <link rel="alternate" href="http://news.yahoo.com/grandfather-could-testify-alabama-girls-running-death-201203070.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-20T20:12:03Z</updated>
+    <published>2015-02-20T20:12:03Z</published>
+    <summary type="html">&lt;p&gt;(AP) - The husband of an Alabama woman charged in her granddaughter's running death could be a witness in her upcoming capital murder trial.&lt;/p&gt;</summary>
+    <dc:date>2015-02-20T20:12:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Jury selection begins in Alabama girl's running death</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/02/17/jury-selection-begins-in-alabama-girls-running-death" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-17T17:38:50Z</updated>
+    <published>2015-02-17T17:38:50Z</published>
+    <summary type="html">&lt;p&gt;(AP) - Jury selection began Tuesday in the capital murder trial of an Alabama woman accused of making her granddaughter run until she collapsed and died.&lt;/p&gt;</summary>
+    <dc:date>2015-02-17T17:38:50Z</dc:date>
+  </entry>
+</feed>

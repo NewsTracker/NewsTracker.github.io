@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>NewsTracker: yahoo</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.html" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Serena Williams withdraws from Indian Wells with knee injury (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/federer-rolls-past-berdych-reach-indian-wells-semifinals-203832225--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T08:31:47Z</updated>
+    <published>2015-03-21T08:31:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-21T08:31:47Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Just like home: Dayton beats Providence 66-53 in tournament (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/just-home-dayton-beats-providence-66-53-tournament-052954830--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T06:39:25Z</updated>
+    <published>2015-03-21T06:39:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-21T06:39:25Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/IDp0BQjU0TmWaPp20OljvA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtpbD1wbGFuZTtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.pd2upload.com/video.yahoosports.com@33dd8e8c-06f6-3ba2-9850-071feddde0a2_FULL.jpg" />
+  </entry>
+  <entry>
+    <title>Gonzaga moves on with 86-76 win over ND State (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/gonzaga-moves-86-76-win-over-nd-state-042248299--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T05:39:26Z</updated>
+    <published>2015-03-21T05:39:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-21T05:39:26Z</dc:date>
+    <media:content url="https://sp.yimg.com/j/assets/i/us/sp/v/ncaab/teams/83/70x70/gaj.png" />
+  </entry>
+  <entry>
+    <title>Westbrook posts another triple-double; Thunder beat Hawks (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/westbrook-posts-another-triple-double-thunder-beat-hawks-024304900--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T04:19:37Z</updated>
+    <published>2015-03-21T04:19:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-21T04:19:37Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>LeBron shakes off cold, scores 29 as Cavs edge Pacers 95-92 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/lebron-james-scores-29-points-cavs-edge-pacers-021736492--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T03:31:25Z</updated>
+    <published>2015-03-21T03:31:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-21T03:31:25Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/NbyDbOeaes7ox.bNKZmKqQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/97fee4623d7cca1bf211ce10173d6b84" />
+  </entry>
+  <entry>
+    <title>Blood clots again sideline NASCAR driver Brian Vickers (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/blood-clots-again-sideline-nascar-driver-brian-vickers-161737806--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T18:17:31Z</updated>
+    <published>2015-03-20T18:17:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-20T18:17:31Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/_Whns_ioyHhHnbjKYZYJzg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503201120408068932" />
+  </entry>
+  <entry>
+    <title>Suns survive for ugly 74-72 win over Davis-less New Orleans (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/suns-survive-ugly-74-72-win-over-davis-043256742--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T05:46:28Z</updated>
+    <published>2015-03-20T05:46:28Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-20T05:46:28Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Yahoo closing China office, cutting more than 200 jobs</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/article/Yahoo-closing-China-office-cutting-more-than-200-6146483.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T01:01:33Z</updated>
+    <published>2015-03-20T01:01:33Z</published>
+    <summary type="html">&lt;p&gt;"An R&amp;D facility like this is a huge cost, and for a company as weak as Yahoo is now, it doesn't make sense," said Shaun Rein, managing director of China Market Research in Shanghai.&lt;/p&gt;&lt;p&gt;Yahoo shares have gained 13 percent in the past year, buoyed in part by the company's stake of about 15 percent in Alibaba, China's largest e-commerce company.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T01:01:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russell rallies Ohio State past VCU 75-72 in OT (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/russell-rallies-ohio-state-past-vcu-75-72-233939928--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T00:57:44Z</updated>
+    <published>2015-03-20T00:57:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-20T00:57:44Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/MUgaLCrOjOjg1dPorBKhgQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503191834668457055" />
+  </entry>
+  <entry>
+    <title>No. 11 UCLA stuns No. 6 SMU 60-59 on rare 3-pointer (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/no-11-ucla-stuns-no-6-smu-60-215022981--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T21:52:32Z</updated>
+    <published>2015-03-19T21:52:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T21:52:32Z</dc:date>
+    <media:content url="https://sp.yimg.com/j/assets/i/us/sp/v/ncaab/teams/83/70x70/uaa.png" />
+  </entry>
+  <entry>
+    <title>Jaguars claim Pierce off waivers after release from Ravens (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/jaguars-claim-pierce-off-waivers-release-ravens-213854829--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T21:38:54Z</updated>
+    <published>2015-03-19T21:38:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T21:38:54Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/YHQa1.yIuyU1ZkMaXYYjqA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503180942349501439" />
+  </entry>
+  <entry>
+    <title>Brewers exercise 2016 option on manager Ron Roenicke (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/brewers-exercise-2016-option-manager-ron-roenicke-173357021--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T18:23:25Z</updated>
+    <published>2015-03-19T18:23:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T18:23:25Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/smAVWfX_C7fR02GpamdwBg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503191208436965448" />
+  </entry>
+  <entry>
+    <title>Yahoo bets on TV-style comedies to grow its video business</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/19/yahoo-bets-on-tv-style-comedies-to-grow-its-video-business" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T17:02:04Z</updated>
+    <published>2015-03-19T17:02:04Z</published>
+    <summary type="html">&lt;p&gt;It wasn't exactly languishing -- but Wall Street was champing at the bit for Yahoo to show growth in the fast-growing video sector, as overall ad revenue continued to stagnate.&lt;/p&gt;&lt;p&gt;In any case, analysts say Yahoo had no choice but to move forward more decisively in the video space.&lt;/p&gt;&lt;p&gt;Yahoo plans to sell its 15.4% remaining stake in Alibaba, valued at about $40 billion, in the fourth quarter of 2015.&lt;/p&gt;&lt;p&gt;But even with $10.2 billion in cash and equivalents at the end of 2014, Yahoo has been cautious about its expansion into original online video.&lt;/p&gt;&lt;p&gt;But Braun left after two years, and Yahoo ultimately retreated from its premium-content strategy.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T17:02:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Yahoo closing last China operation in Beijing</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/tech/2015/03/19/yahoo-closing-china-operation/25006905/?utm_source=feedblitz&amp;utm_medium=FeedBlitzRss&amp;utm_campaign=usatoday-techtopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T10:19:25Z</updated>
+    <published>2015-03-19T10:19:25Z</published>
+    <summary type="html">&lt;p&gt;Yahoo closing last China operation in Beijing BEIJING (AP) - Yahoo Inc. is closing its Beijing research and development center and leaving China in a new cost-cutting move.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T10:19:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Job Losses Expected As Yahoo Leaves China</title>
+    <link rel="alternate" href="http://news.sky.com/story/1448207/job-losses-expected-as-yahoo-leaves-china" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T09:45:52Z</updated>
+    <published>2015-03-19T09:45:52Z</published>
+    <summary type="html">&lt;p&gt;There is no confirmation of how many people will lose their jobs, but Yahoo said they would be "treated with respect and fairness".&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T09:45:52Z</dc:date>
+    <media:content url="http://media.skynews.com/media/images/generated/2014/8/11/328649/default/v2/148470916-1-362x204.jpg" />
+  </entry>
+  <entry>
+    <title>Yahoo closing Beijing office and leaving China in new cost-cutting move</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/03/19/yahoo-closing-beijing-office-and-leaving-china-in-new-cost-cutting-move/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T08:54:18Z</updated>
+    <published>2015-03-19T08:54:18Z</published>
+    <summary type="html">&lt;p&gt;Yahoo turned over control of its China operations to its partner Alibaba Group in 2005 as part of a corporate tie-up.&lt;/p&gt;&lt;p&gt;Yahoo stopped offering services in China in 2013.&lt;/p&gt;&lt;p&gt;Yahoo's profit for the quarter ending in December fell 52 percent from a year earlier while revenue dipped 1 percent.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T08:54:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Yahoo closing last China operation in Beijing</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/19/yahoo-closing-last-china-operation-in-beijing/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T08:54:18Z</updated>
+    <published>2015-03-19T08:54:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T08:54:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Yahoo pulls the plug on China office</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/business-31957704#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T06:39:34Z</updated>
+    <published>2015-03-19T06:39:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T06:39:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Dayton rallies for 56-55 win over Boise State on home court (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/dayton-rallies-56-55-win-over-boise-state-035033786--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T04:39:18Z</updated>
+    <published>2015-03-19T04:39:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T04:39:18Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Robert Morris gets balanced scoring to top N. Florida 81-77 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/robert-morris-gets-balanced-scoring-top-n-florida-010412738--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T03:10:25Z</updated>
+    <published>2015-03-19T03:10:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T03:10:25Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Cavaliers shake off poor start, roll Nets 117-92 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/cavaliers-shake-off-poor-start-roll-nets-117-012108425--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T03:54:53Z</updated>
+    <published>2015-03-19T03:54:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T03:54:53Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/s/eed4eed/playlistIcon.png" />
+  </entry>
+  <entry>
+    <title>Cowboys agree to deal with pass rusher Greg Hardy (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/cowboys-agree-deal-pass-rusher-greg-hardy-201211477--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T00:23:48Z</updated>
+    <published>2015-03-19T00:23:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T00:23:48Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/1Ez9ESM0xWU8r_6X1ytGGQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/e816585b9472ffb6fd1d322932693709" />
+  </entry>
+  <entry>
+    <title>Knicks surprise Spurs with 104-100 victory in OT (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/knicks-surprise-spurs-104-100-victory-ot-023049968--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T03:42:38Z</updated>
+    <published>2015-03-18T03:42:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-18T03:42:38Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/KAqyLXAII1Z4kuLlnO5KsA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201503172020732250223" />
+  </entry>
+  <entry>
+    <title>Johnson, Chievous score 15 to keep Pirates alive, 74-64 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/johnson-chievous-score-15-keep-pirates-alive-74-011546030--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T03:38:22Z</updated>
+    <published>2015-03-18T03:38:22Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-18T03:38:22Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/ncaab/teams/83/70x70/hay.png" />
+  </entry>
+  <entry>
+    <title>'Community' is back in session &amp;#239;&amp;#191;&amp;#189; this time on Yahoo Screen</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/tv/article15003146.html#storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T15:28:11Z</updated>
+    <published>2015-03-17T15:28:11Z</published>
+    <summary type="html">&lt;p&gt;It returns to the world this week via Yahoo Screen, which is something you need the Internet to watch.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T15:28:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Led by Wade, Heat stun James and Cavaliers, 106-92 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/led-wade-heat-stun-james-cavaliers-106-92-024408664--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T03:39:08Z</updated>
+    <published>2015-03-17T03:39:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-17T03:39:08Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/nba/teams/83/70x70/mia.png" />
+  </entry>
+  <entry>
+    <title>Former Patriots nose tackle Wilfork joins Texans (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/former-patriots-nose-tackle-wilfork-joins-texans-205757118--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T22:19:00Z</updated>
+    <published>2015-03-16T22:19:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-16T22:19:00Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/ELvNvjFzznuYTfF98Jq7VQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503161558575296848" />
+  </entry>
+  <entry>
+    <title>Community debuts new trailer for Yahoo that spoofs Avengers: Age of Ultron after being canceled by NBC</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/tvshowbiz/article-2978022/Community-debuts-new-trailer-Yahoo-spoofs-Avengers-Age-Ultron-canceled-NBC.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T21:32:18Z</updated>
+    <published>2015-03-03T21:32:18Z</published>
+    <summary type="html">&lt;p&gt;Season six of Community will air on Yahoo!&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T21:32:18Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/03/264952A600000578-2978022-Out_of_this_world_Fans_will_likely_be_happy_to_see_the_trailer_h-a-34_1425418332822.jpg" />
+  </entry>
+</feed>
