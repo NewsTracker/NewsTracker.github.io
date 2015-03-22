@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>NewsTracker: volcano</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.html" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Over 3000 people evacuated as Chile's Villarrica volcano erupts</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/over-3000-people-evacuated-as-chiles-villarrica-volcano-erupts-20150303-13u9xa.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:14:35Z</updated>
+    <published>2015-03-03T14:14:35Z</published>
+    <summary type="html">&lt;p&gt;After day broke on Tuesday morning, TV pictures showed intermittent steam and gases spewing from a fumarole, or opening, on a side of the volcano and rivulets of lava coursing down the mountain slopes.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T14:14:35Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/3/u/9/z/2/image.related.articleLeadwide.620x349.13u9xa.png/1425412284935.jpg" />
+  </entry>
+  <entry>
+    <title>Chile forest fire rages near Valparaiso, thousands evacuated</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Chile-forest-fire-rages-near-Valparaiso-thousands-evacuated/articleshow/46561964.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T04:48:37Z</updated>
+    <published>2015-03-14T04:48:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-14T04:48:37Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46561994,width-217,resizemode-4/Chile-forest-fire-rages-thousands-evacuated.jpg" />
+  </entry>
+  <entry>
+    <title>&lt;p&gt;The Turrialba volcano erupted three times Thursday and state observers recorded a smaller eruption Friday morning.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T18:54:01Z</updated>
+    <published>2015-03-13T18:54:01Z</published>
+    <dc:date>2015-03-13T18:54:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>?NBC Nightly News' wins February sweep despite Brian Williams suspension</title>
+    <link rel="alternate" href="http://www.foxnews.com/entertainment/2015/03/03/nbc-nightly-news-wins-february-sweep-in-all-metrics-despite-brian-williams/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+foxnews%2Fentertainment+%28Internal+-+Entertainment+-+Mixed%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T19:28:14Z</updated>
+    <published>2015-03-03T19:28:14Z</published>
+    <summary type="html">&lt;p&gt;"The volcano is quiet now, very calm. You wouldn't know anything had happened,"he said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T19:28:14Z</dc:date>
+  </entry>
+  <entry>
+    <title />
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T17:23:18Z</updated>
+    <published>2015-03-03T17:23:18Z</published>
+    <dc:date>2015-03-03T17:23:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>&lt;p&gt;The volcano, located near the popular tourist resort of Pucon around 750 km (460 miles) south of the capital Santiago, is one of South America's most active.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T16:34:41Z</updated>
+    <published>2015-03-03T16:34:41Z</published>
+    <dc:date>2015-03-03T16:34:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>&lt;p&gt;Santiago: A volcano in southern Chile has begun erupting, forcing the evacuation of some 3385 people in nearby villages.&lt;/p&gt;&lt;p&gt;The 2800m Villarrica volcano, one of Chile's most active, began erupting around 3am local time, prompting authorities to declare a red alert and cancel classes in schools, the National Emergency Office said.&lt;/p&gt;&lt;p&gt;As sirens sounded, Chilean TV footage showed lava spilling from the volcano near the popular tourist resort of Pucon, about 800 kilometres south of the capital Santiago.&lt;/p&gt;&lt;p&gt;People leave their houses after Villarica volcano erupted near Pucon, Chile, early on Tuesday morning.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:14:35Z</updated>
+    <published>2015-03-03T14:14:35Z</published>
+    <dc:date>2015-03-03T14:14:35Z</dc:date>
+  </entry>
+  <entry>
+    <title />
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:49:17Z</updated>
+    <published>2015-03-03T14:49:17Z</published>
+    <dc:date>2015-03-03T14:49:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>&lt;p&gt;President Michelle Bachelet announced that she will travel to the volcano-hit area to check on safety preparations and asked residents to remain calm.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:59:10Z</updated>
+    <published>2015-03-03T14:59:10Z</published>
+    <dc:date>2015-03-03T14:59:10Z</dc:date>
+  </entry>
+  <entry>
+    <title>&lt;p&gt;Chilean authorities had issued an orange alert on Monday because of increased activity at the volcano.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T12:55:20Z</updated>
+    <published>2015-03-03T12:55:20Z</published>
+    <dc:date>2015-03-03T12:55:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>China to publish records of Japan?s past militarism for WWII anniversary</title>
+    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/03/03/national/politics-diplomacy/china-publish-records-japans-past-militarism-wwii-anniversary/?utm_source=feedburner&amp;amp%3Butm_medium=rss&amp;amp%3Butm_campaign=china-publish-records-japans-past-militarism-wwii-anniversary&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T12:27:05Z</updated>
+    <published>2015-03-03T12:27:05Z</published>
+    <summary type="html">&lt;p&gt;The 2,847-metre volcano in Chile's central valley, 670 kilometres south of Santiago, sits above the small city of Pucon, which has a population of about 22,000 people.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T12:27:05Z</dc:date>
+    <media:content url="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/logo-japan-times.png" />
+  </entry>
+  <entry>
+    <title>&lt;p&gt;Local media showed images of the volcano bursting at the top, glowing in the dark amid heavy smoke and rivers of lava.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T11:49:50Z</updated>
+    <published>2015-03-03T11:49:50Z</published>
+    <dc:date>2015-03-03T11:49:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Earthquake measuring 6.4 magnitude strikes off Indonesia: USGS</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/03/us-quake-indonesia-idUSKBN0LZ12B20150303?feedType=RSS&amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T11:45:03Z</updated>
+    <published>2015-03-03T11:45:03Z</published>
+    <summary type="html">&lt;p&gt;"I've never seen a volcano erupt and it was spewing lava and ash hundreds of meters into the air. Lightning was striking down at the volcano from the ash cloud that formed from the eruption."&lt;/p&gt;&lt;p&gt;Penailillo warned that the eruption was causing numerous rivers in the area to rise as snow along the sides of the volcano began melting.&lt;/p&gt;&lt;p&gt;Tourists flock to the area around Villarrica for outdoor activities like kayaking, horseback riding, fishing and hiking around the volcano, which last had a major eruption in 1984.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T11:45:03Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources_v2/images/masthead-logo.gif" />
+  </entry>
+  <entry>
+    <title>Simon Rattle to lead London Symphony Orchestra</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/celebritynews/11446347/Simon-Rattle-to-lead-London-Symphony-Orchestra.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T10:30:07Z</updated>
+    <published>2015-03-03T10:30:07Z</published>
+    <summary type="html">&lt;p&gt;The Villarica volcano erupted Tuesday around 3 a.m. local time (0600 GMT), according to the National Emergency Office, which issued a red alert and ordered evacuations.&lt;/p&gt;&lt;p&gt;The 9,000 foot (2,847-meter) volcano is located in Chile's central valley about 400 miles (670 kilometers) south of Santiago.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T10:30:07Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/01927/simon-rattle_1927575b.jpg" />
+  </entry>
+  <entry>
+    <title>Hogwarts Express joins Potter tour</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/entertainment/film-tv/news/hogwarts-express-joins-potter-tour-31035875.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T10:29:34Z</updated>
+    <published>2015-03-03T10:29:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-03T10:29:34Z</dc:date>
+    <media:content url="http://cdn1.belfasttelegraph.co.uk/entertainment/film-tv/news/article31035874.ece/dfc1e/ALTERNATES/h342/PANews%20BT_P-a01bff91-1477-44ee-bff1-aa9e58667443_I1.jpg" />
+  </entry>
+  <entry>
+    <title>&lt;p&gt;More than 3,000 people have been evacuated from the volcano's vicinity.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T10:23:31Z</updated>
+    <published>2015-03-03T10:23:31Z</published>
+    <dc:date>2015-03-03T10:23:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>&lt;p&gt;The Villarica volcano erupts near Pucon, Chile, early Tuesday, March 3, 2015.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T09:58:15Z</updated>
+    <published>2015-03-03T09:58:15Z</published>
+    <dc:date>2015-03-03T09:58:15Z</dc:date>
+  </entry>
+</feed>
