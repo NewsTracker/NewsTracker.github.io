@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.html" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt investigating tourist porn film made at the Pyramids</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/egypt-investigating-tourist-porn-film-made-at-the-pyramids-20150307-13y42h.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T15:03:47Z</updated>
+    <published>2015-03-07T15:03:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-07T15:03:47Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/3/y/4/3/a/image.related.articleLeadwide.620x349.13y42h.png/1425766538149.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt wants UN coalition on Libya</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/un-set-for-emergency-libya-meeting-30998970.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-17T13:51:12Z</updated>
+    <published>2015-02-17T13:51:12Z</published>
+    <summary type="html">&lt;p&gt;The meeting comes as Egypt presses the council to take action after the Islamic State group posted a video of the beheading of 21 Egyptian Coptic Christians.&lt;/p&gt;</summary>
+    <dc:date>2015-02-17T13:51:12Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article30998969.ece/bca0b/ALTERNATES/h342/PANews%20BT_P-777c4353-e222-4518-905f-809f33f1e37b_I1.jpg" />
+  </entry>
+  <entry>
     <title>Shark kills German tourist on Egypt's Red Sea Coast</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/shark-kills-german-tourist-egypt-red-sea-coast/" />
     <author>
