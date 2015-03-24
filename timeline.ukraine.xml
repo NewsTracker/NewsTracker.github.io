@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.html" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | House passes resolution urging Obama to send arms to Ukraine</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/House-passes-resolution-urging-Obama-to-send-arms-to-Ukraine-20150324" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T07:37:17Z</updated>
+    <published>2015-03-24T07:37:17Z</published>
+    <summary type="html">&lt;p&gt;US State Department officials say Obama administration officials are discussing lethal assistance to Ukraine but are waiting to see whether the agreements that led to February's cease-fire are implemented.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T07:37:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>Clashes rage in Ukraine coastal town, threatening ceasefire</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/ukraine-town-skirmishes-could-threaten-ceasefire-1.3005953?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-23T20:08:12Z</updated>
+    <published>2015-03-23T20:08:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-23T20:08:12Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3006027.1427141165!/cpImage/httpImage/image.jpg_gen/derivatives/original_300/ukraine-frayed-truce.jpg" />
+  </entry>
+  <entry>
+    <title>Heavy clashes rage in Ukraine coastal town, threatening prospects for long-lasting cease-fire</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/03/23/heavy-clashes-rage-in-ukraine-coastal-town-threatening-prospects-for-long/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-23T15:48:08Z</updated>
+    <published>2015-03-23T15:48:08Z</published>
+    <summary type="html">&lt;p&gt;Still, the enduring unrest arouses deep anxieties that a conflict which has already claimed more than 6,000 in eastern Ukraine could flare up again across the entire 450-kilometer (280-mile) front line.&lt;/p&gt;</summary>
+    <dc:date>2015-03-23T15:48:08Z</dc:date>
+  </entry>
+  <entry>
     <title>UEFA: Block on Russia-Ukraine draw could be lifted for Euros</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;objectid=11421591&amp;ref=rss" />
     <author>

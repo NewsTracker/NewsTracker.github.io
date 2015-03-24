@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: van morrison</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.van_morrison.html" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Van Morrison on 'Re-Working the Catalogue' with an all-star lineup</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article16170860.html#storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T15:17:04Z</updated>
+    <published>2015-03-24T15:17:04Z</published>
+    <summary type="html">&lt;p&gt;That number increased with Monday's release of Morrison's new album, "Duets: Re-Working the Catalogue."&lt;/p&gt;&lt;p&gt;For Morrison, "There were two parts to it," the 69-year-old artist told The Times in an exclusive email interview.&lt;/p&gt;&lt;p&gt;Morrison has spent the vast majority of his career looking ahead, writing and recording a string of studio albums that now numbers more than three dozen; "Duets: Re-Working the Catalogue" represents a rare dip into his past.&lt;/p&gt;&lt;p&gt;During that event, Morrison invited Staples, Womack and Cole to go into a recording studio to get the ball rolling.&lt;/p&gt;&lt;p&gt;"I first heard him in the '60s at a show with Aretha Franklin and Dr. John and I thought then, 'Who is this guy?'" Mahal told The Times at a performance Morrison gave last summer outside his hometown of Belfast.&lt;/p&gt;&lt;p&gt;Most of the tracks were done with the singers together in the studio, though for a couple - including "These Are the Days" with Cole - scheduling required Morrison to lay down the basic track and his vocal, with his collaborator adding her or his part later.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T15:17:04Z</dc:date>
+  </entry>
 </feed>
