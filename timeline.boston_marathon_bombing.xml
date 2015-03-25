@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.html" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boston Marathon Bombing: Tale of the Gun</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/boston-marathon-bombing-tale-gun/story?id=29898790" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T17:08:00Z</updated>
+    <published>2015-03-25T17:08:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-25T17:08:00Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/US/ht_boston_gun_evidence_lf_150325_16x9_992.jpg" />
+  </entry>
+  <entry>
     <title>1st phase of Boston Marathon bombing trial winding down</title>
     <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/03/20/1st-phase-of-boston-marathon-bombing-trial-winding-down" />
     <author>

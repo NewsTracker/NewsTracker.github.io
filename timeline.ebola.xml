@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.html" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New Ebola infections continue to drop, Guinea still a concern</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/25/us-health-ebola-who-idUSKBN0ML2C820150325?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T18:59:33Z</updated>
+    <published>2015-03-25T18:59:33Z</published>
+    <summary type="html">&lt;p&gt;Seventy-nine new confirmed cases of Ebola were reported in the three countries during the week.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T18:59:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Guinea starts testing Merck vaccine in Ebola hotspots</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/25/us-health-ebola-vaccine-idUSKBN0ML1QT20150325?feedType=RSS&amp;amp;feedName=healthNews" />
     <author>
