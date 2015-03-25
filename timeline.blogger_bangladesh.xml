@@ -4,18 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blogger_bangladesh.html" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Bangladesh court indicts 8 in killing of atheist blogger</title>
-    <link rel="alternate" href="http://news.yahoo.com/bangladesh-court-indicts-8-killing-atheist-blogger-095213534.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T11:30:24Z</updated>
-    <published>2015-03-18T11:30:24Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-18T11:30:24Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
-  </entry>
-  <entry>
     <title>Bangladesh court indicts Islamist group head, 7 students in hacking death of atheist blogger</title>
     <link rel="alternate" href="http://www.startribune.com/world/296693461.html" />
     <author>
@@ -27,8 +15,31 @@
     <dc:date>2015-03-18T09:55:13Z</dc:date>
   </entry>
   <entry>
+    <title>Bangladesh court indicts 8 in killing of atheist blogger</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/18/bangladesh-court-indicts-8-in-killing-of-atheist/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T09:52:08Z</updated>
+    <published>2015-03-18T09:52:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-18T09:52:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Bangladesh police stood close by during US blogger attack: Wife</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/south-asia/Bangladesh-police-stood-close-by-during-US-blogger-attack-Wife/articleshow/46526143.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-11T06:56:57Z</updated>
+    <published>2015-03-11T06:56:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-11T06:56:57Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46526201,width-217,resizemode-4/Unidentified-attackers-hack-US-blogger-to-death-in-Dhaka.jpg" />
+  </entry>
+  <entry>
     <title>FBI to help investigate U.S. citizen blogger killing in Bangladesh</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/03/03/us-bangladesh-blogger-fbi-idUSKBN0LZ1PO20150303?feedType=RSS&amp;feedName=worldNews" />
+    <link rel="alternate" href="http://news.yahoo.com/fbi-help-investigate-u-citizen-blogger-killing-bangladesh-152503142.html" />
     <author>
       <name />
     </author>
@@ -62,15 +73,14 @@
     <media:content url="http://www.abc.net.au/news/image/6275540-3x2-340x227.jpg" />
   </entry>
   <entry>
-    <title>Protests after US blogger hacked to death in Bangladesh</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-02-28/bangladesh-activists-protest-us-bloggers-murder/6270558" />
+    <title>American blogger hacked to death in Bangladesh</title>
+    <link rel="alternate" href="http://www.mercurynews.com/crime-courts/ci_27610023/american-blogger-hacked-death-bangladesh?source=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-02-27T15:43:20Z</updated>
-    <published>2015-02-27T15:43:20Z</published>
+    <updated>2015-02-27T15:36:02Z</updated>
+    <published>2015-02-27T15:36:02Z</published>
     <summary type="html" />
-    <dc:date>2015-02-27T15:43:20Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/6270426-3x2-340x227.jpg" />
+    <dc:date>2015-02-27T15:36:02Z</dc:date>
   </entry>
 </feed>

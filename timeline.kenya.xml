@@ -4,8 +4,19 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.html" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>'No blacks' Chinese restaurant shut down in Kenya</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3010690/No-blacks-Chinese-restaurant-shut-Kenya.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T08:30:57Z</updated>
+    <published>2015-03-25T08:30:57Z</published>
+    <summary type="html">&lt;p&gt;Reports said the restaurant's Chinese owners and managers had also been summoned by Kenya's immigration authorities.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T08:30:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Pentagon: Drone killed mastermind of Kenya mall attack</title>
-    <link rel="alternate" href="http://www.usatoday.com/story/news/2015/03/19/drone-westgate-mall-attack-garar/25001451/?utm_source=feedblitz&amp;utm_medium=FeedBlitzRss&amp;utm_campaign=usatoday-newstopstories" />
+    <link rel="alternate" href="http://www.usatoday.com/story/news/2015/03/19/drone-westgate-mall-attack-garar/25001451/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-newstopstories" />
     <author>
       <name />
     </author>
@@ -13,18 +24,18 @@
     <published>2015-03-19T09:33:53Z</published>
     <summary type="html" />
     <dc:date>2015-03-19T09:33:53Z</dc:date>
-    <media:content url="http://www.gannett-cdn.com/-mm-/9f6feb625ea4e1a458da68d133ac46e7f8907ee1/c=137-0-3127-2248&amp;amp;r=x404&amp;amp;c=534x401/local/-/media/2015/03/19/USATODAY/USATODAY/635623200910201514-kenya100113-007.jpg" />
+    <media:content url="http://www.gannett-cdn.com/-mm-/9f6feb625ea4e1a458da68d133ac46e7f8907ee1/c=137-0-3127-2248&amp;amp;amp;r=x404&amp;amp;amp;c=534x401/local/-/media/2015/03/19/USATODAY/USATODAY/635623200910201514-kenya100113-007.jpg" />
   </entry>
   <entry>
     <title>Al-Shabab claim responsibility for 4 dead in Kenya</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11419529&amp;ref=rss" />
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article15237161.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-03-18T15:11:11Z</updated>
-    <published>2015-03-18T15:11:11Z</published>
-    <summary type="html">&lt;p&gt;Kenya's northern and eastern region border Somalia and a significant number of inhabitants there are Kenyan-Somalis.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T15:11:11Z</dc:date>
+    <updated>2015-03-18T15:02:56Z</updated>
+    <published>2015-03-18T15:02:56Z</published>
+    <summary type="html">&lt;p&gt;Kenya's northern and eastern region border Somalia and a significant number of inhabitants there are Kenyan-Somalis.&lt;/p&gt;&lt;p&gt;Police statistics show that 312 people have been killed in al-Shabab attacks in Kenya from 2012 to 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T15:02:56Z</dc:date>
   </entry>
   <entry>
     <title>Al-Shabab claim attack which killed 4 people, wounded 3 northern Kenya</title>
@@ -34,12 +45,12 @@
     </author>
     <updated>2015-03-18T14:25:59Z</updated>
     <published>2015-03-18T14:25:59Z</published>
-    <summary type="html">&lt;p&gt;"The attack is part of a series of attacks targeting the Northern Frontier District region under Kenya's occupation," said al-Shabab's radio Andulus."The Mujahideen forces who carried out the attack safely returned to base."&lt;/p&gt;&lt;p&gt;Al-Shabab has been attacking Kenya since Kenyan troops were deployed to Somalia in Oct 2011 to fight the militants.&lt;/p&gt;&lt;p&gt;Police statistics show that 312 people have been killed in al-Shabab attacks in Kenya from 2012 to 2014.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;"The attack is part of a series of attacks targeting the Northern Frontier District region under Kenya's occupation," said al-Shabab's radio Andulus."The Mujahideen forces who carried out the attack safely returned to base."&lt;/p&gt;&lt;p&gt;Al-Shabab has been attacking Kenya since Kenyan troops were deployed to Somalia in Oct 2011 to fight the militants.&lt;/p&gt;</summary>
     <dc:date>2015-03-18T14:25:59Z</dc:date>
   </entry>
   <entry>
     <title>New Shebab attack in northeast Kenya kills four</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3000307/New-Shebab-attack-northeast-Kenya-kills-four.html?ITO=1490&amp;ns_mchannel=rss&amp;ns_campaign=1490" />
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3000307/New-Shebab-attack-northeast-Kenya-kills-four.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
     </author>
@@ -56,12 +67,23 @@
     </author>
     <updated>2015-03-15T21:40:19Z</updated>
     <published>2015-03-15T21:40:19Z</published>
-    <summary type="html">&lt;p&gt;Adan Duale, a Kenyan Somali who is majority leader in parliament, was quoted on the BBC Somali Service on Saturday telling al-Shabab to leave Kenya alone.&lt;/p&gt;&lt;p&gt;"If you wish to, we shall send you elders, religious leaders and politicians. We shall come, tell us your whereabouts. Leave Kenya alone," Duale said in a statement that many in Kenya interpreted as a call for negotiations with al-Shabab.&lt;/p&gt;&lt;p&gt;But Duale said Sunday on his Twitter account that Kenya will never negotiate with "terrorists."&lt;/p&gt;&lt;p&gt;Kenya has experienced a string of attacks since it sent troops into Somalia in October 2011.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Adan Duale, a Kenyan Somali who is majority leader in parliament, was quoted on the BBC Somali Service on Saturday telling al-Shabab to leave Kenya alone.&lt;/p&gt;</summary>
     <dc:date>2015-03-15T21:40:19Z</dc:date>
   </entry>
   <entry>
+    <title>Al-Shabab suspected in Kenya attack that kills 1, wounds 3</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11417957&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T21:40:15Z</updated>
+    <published>2015-03-15T21:40:15Z</published>
+    <summary type="html">&lt;p&gt;"If you wish to, we shall send you elders, religious leaders and politicians. We shall come, tell us your whereabouts. Leave Kenya alone," Duale said in a statement that many in Kenya interpreted as a call for negotiations with al-Shabab.&lt;/p&gt;&lt;p&gt;But Duale said Sunday on his Twitter account that Kenya will never negotiate with "terrorists."&lt;/p&gt;&lt;p&gt;Kenya has experienced a string of attacks since it sent troops into Somalia in October 2011.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T21:40:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Death toll four in attack on Kenya governor convoy, says official</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/03/14/us-kenya-somalia-idUSKBN0MA0EE20150314?feedType=RSS&amp;feedName=worldNews" />
+    <link rel="alternate" href="http://news.yahoo.com/death-toll-four-attack-kenya-governor-convoy-says-105126940.html" />
     <author>
       <name />
     </author>
@@ -72,7 +94,7 @@
   </entry>
   <entry>
     <title>Kenya Police: 3 people killed in attack on governors convoy</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=11417090&amp;ref=rss" />
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11417090&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
@@ -105,7 +127,7 @@
   </entry>
   <entry>
     <title>Kenya: Businessmen, ex-officials charged for fraud</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/kenya-businessmen-ex-officials-charged-for-fraud/nkNWm/" />
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/04/kenya-businessmen-ex-officials-charged-for-fraud" />
     <author>
       <name />
     </author>
@@ -150,15 +172,15 @@
     <media:content url="http://www.abc.net.au/news/image/6278672-3x2-700x467.jpg" />
   </entry>
   <entry>
-    <title>Kenya burns 15 tonnes of ivory in anti-poaching fight, to destroy its stockpile by year-end [Photos]</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/03/03/kenya-burns-15-tonnes-of-ivory-in-anti-poaching-fight-to-destroy-its-stockpile-by-year-end" />
+    <title>Kenya burns 15 tonnes of ivory in anti-poaching fight</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/03/03/22266576.html?cid=rssnewsworld" />
     <author>
       <name />
     </author>
-    <updated>2015-03-03T20:34:05Z</updated>
-    <published>2015-03-03T20:34:05Z</published>
+    <updated>2015-03-03T19:03:54Z</updated>
+    <published>2015-03-03T19:03:54Z</published>
     <summary type="html">&lt;p&gt;"As part of Kenya's continued policy to put ivory beyond economic use ... I will today burn 15 tonnes of ivory at this historic site in Nairobi National Park," President Uhuru Kenyatta said during a ceremony at the park.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T20:34:05Z</dc:date>
+    <dc:date>2015-03-03T19:03:54Z</dc:date>
   </entry>
   <entry>
     <title>Kenya destroy 15 tons of ivory taken from poachers</title>
@@ -174,14 +196,15 @@
   </entry>
   <entry>
     <title>Kenya destroy 15 tons of ivory taken from poachers</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/kenya-destroy-15-tons-of-ivory-taken-from-poachers/nkMsF/" />
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Kenya-destroy-15-tons-of-ivory-taken-from-poachers-6112146.php" />
     <author>
       <name />
     </author>
     <updated>2015-03-03T16:12:10Z</updated>
     <published>2015-03-03T16:12:10Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;NAIROBI, Kenya (AP) - Kenya's president set fire to 15 tons of elephant tusks during World Wildlife Day Tuesday to discourage poaching and trade in ivory.&lt;/p&gt;&lt;p&gt;The years 2011, 2012 and 2013 witnessed the highest levels of poaching since a poaching crisis in the 1980s, Kenya's Wildlife Service has said.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T16:12:10Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/34/77/37/7600110/5/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Kenya destroy 15 tons of ivory taken from poachers</title>
@@ -191,7 +214,7 @@
     </author>
     <updated>2015-03-03T16:12:10Z</updated>
     <published>2015-03-03T16:12:10Z</published>
-    <summary type="html">&lt;p&gt;NAIROBI, Kenya (AP) - Kenya's president set fire to 15 tons of elephant tusks during World Wildlife Day Tuesday to discourage poaching and trade in ivory.&lt;/p&gt;&lt;p&gt;The years 2011, 2012 and 2013 witnessed the highest levels of poaching since a poaching crisis in the 1980s, Kenya's Wildlife Service has said.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-03-03T16:12:10Z</dc:date>
   </entry>
 </feed>

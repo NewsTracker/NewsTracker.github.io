@@ -5,7 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Pop music reviews: Courtney Barnett offers incisive, cutting songs in 'Sometimes I Sit and Think, and Sometimes I Just Sit'</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article16171211.html#storylink=rss" />
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article16171211.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T15:22:05Z</updated>
+    <published>2015-03-24T15:22:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-24T15:22:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Pop music reviews: Courtney Barnett offers incisive, cutting songs in 'Sometimes I Sit and Think, and Sometimes I Just Sit'</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/music-news-reviews/article16171211.html%23storylink=rss" />
     <author>
       <name />
     </author>
@@ -15,15 +26,15 @@
     <dc:date>2015-03-24T15:22:05Z</dc:date>
   </entry>
   <entry>
-    <title>Courtney Barnett, Live In Concert: SXSW 2015</title>
-    <link rel="alternate" href="http://www.npr.org/event/music/394032983/courtney-barnett-live-in-concert-sxsw-2015?utm_medium=RSS&amp;utm_campaign=storiesfromnpr" />
+    <title>Courtney Barnett, Bachman, Shania Twain top this week's new music</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/21/courtney-barnett-bachman-shania-twain-top-this-weeks-new-music" />
     <author>
       <name />
     </author>
-    <updated>2015-03-21T19:35:32Z</updated>
-    <published>2015-03-21T19:35:32Z</published>
+    <updated>2015-03-21T12:00:00Z</updated>
+    <published>2015-03-21T12:00:00Z</published>
     <summary type="html" />
-    <dc:date>2015-03-21T19:35:32Z</dc:date>
-    <media:content url="http://media.npr.org/assets/img/2015/03/19/courtney-barnett-1_wide-7619f1489bc7dfc189fbd28e9d08ad3a5790f286-s800-c15.png" />
+    <dc:date>2015-03-21T12:00:00Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297676684357_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
 </feed>
