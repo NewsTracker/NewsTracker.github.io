@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Muslim Brotherhood leader sentenced to death in Egypt</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/muslim-brotherhood-leader-sentenced-to-death-in-egypt/article23487676/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T00:45:46Z</updated>
+    <published>2015-03-17T00:45:46Z</published>
+    <summary type="html">&lt;p&gt;On March 7, Egypt carried out the first execution of a man involved in violent clashes two days after Mr. Morsi's ouster.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T00:45:46Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/09d/news/world/article23487675.ece/ALTERNATES/w220/egypt-brotherhood16nw1.JPG" />
+  </entry>
+  <entry>
     <title>Egypt strikes back at Islamic State militants after beheading video, killing dozens</title>
     <link rel="alternate" href="http://www.smh.com.au/world/egypt-strikes-back-at-islamic-state-militants-after-beheading-video-killing-dozens-20150216-13ghv2.html" />
     <author>

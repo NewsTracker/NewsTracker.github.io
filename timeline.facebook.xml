@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Penn State frat suspended for year over nude Facebook pics</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2015-03-17-US--Penn%20State%20Fraternity-Nude%20Photos/id-d6d55327c8124ffbaedd5d4e5664ce47" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T14:47:00Z</updated>
+    <published>2015-03-17T14:47:00Z</published>
+    <summary type="html">&lt;p&gt;"The evidence offered by the Facebook postings is appalling, offensive and inconsistent with the university community's values and expectations," Damon Sims, Penn State's vice president for student affairs, said in a news release.&lt;/p&gt;&lt;p&gt;Facebook was contacted to disable the site and to obtain more information for the investigation, Robb said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T14:47:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Women pictured on Penn St. frat's Facebook page talk to cops</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3012913/Women-pictured-Penn-St-frats-Facebook-page-talk-cops.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -429,17 +440,6 @@
     <summary type="html">&lt;p&gt;Police say some Facebook posts also related to hazing and drug deals.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T18:15:51Z</dc:date>
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/penn_state_fraternity_nude_photos_37039207.jpg?w=620" />
-  </entry>
-  <entry>
-    <title>Penn State frat suspended for year over nude Facebook pics</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2015-03-17-US--Penn%20State%20Fraternity-Nude%20Photos/id-d6d55327c8124ffbaedd5d4e5664ce47" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T14:47:00Z</updated>
-    <published>2015-03-17T14:47:00Z</published>
-    <summary type="html">&lt;p&gt;"The evidence offered by the Facebook postings is appalling, offensive and inconsistent with the university community's values and expectations," Damon Sims, Penn State's vice president for student affairs, said in a news release.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T14:47:00Z</dc:date>
   </entry>
   <entry>
     <title>Penn State frat suspended over Facebook page with nude pics of sleeping, passed-out women</title>

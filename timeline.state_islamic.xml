@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Shiite militias quit siege of Islamic State in Tikrit over US role</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/shiite-militias-quit-siege-of-islamic-state-in-tikrit-over-us-role-20150326-1m8uq2.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T20:49:06Z</updated>
+    <published>2015-03-26T20:49:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-26T20:49:06Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/8/v/o/x/image.related.articleLeadwide.620x349.1m8uq2.png/1427402936694.jpg" />
+  </entry>
+  <entry>
+    <title>U.S. Air Force veteran arrested after plotting to join Islamic State in Syria</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/u-s-air-force-veteran-arrested-after-plotting-to-join-islamic-state-in-syria-1.2284023" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T18:35:00Z</updated>
+    <published>2015-03-17T18:35:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-17T18:35:00Z</dc:date>
+  </entry>
+  <entry>
     <title>US drops graphic leaflet to possible Islamic State recruits</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/us-drops-graphic-leaflet-to-possible-islamic-state/nkf4y/" />
     <author>
