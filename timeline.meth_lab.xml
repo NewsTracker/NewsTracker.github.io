@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>NewsTracker: meth lab</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.meth_lab.html" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Backpack meth lab discovered in Indiana Walmart bathroom</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/walmart-bathroom-closed-after-backpack-meth-lab-discovery-1.2995494?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T20:26:02Z</updated>
+    <published>2015-03-14T20:26:02Z</published>
+    <summary type="html">&lt;p&gt;A restroom at a Walmart in eastern Indiana has been closed indefinitely after an employee discovered a working meth lab inside.&lt;/p&gt;</summary>
+    <dc:date>2015-03-14T20:26:02Z</dc:date>
+  </entry>
+  <entry>
+    <title>Restroom at an Indiana Wal-Mart closed indefinitely after backpack meth lab is found inside</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/296321461.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T17:50:27Z</updated>
+    <published>2015-03-14T17:50:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-14T17:50:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Meth lab discovered at Wal-Mart restroom in Indiana</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/strange/backpack-meth-lab-discovered-at-walmart-restroom-i/nkWyD/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T17:45:21Z</updated>
+    <published>2015-03-14T17:45:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-14T17:45:21Z</dc:date>
+  </entry>
+</feed>
