@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: blogger bangladesh</title>
-  <link rel="alternate" href="http://newstracker.github.io/timeline.blogger_bangladesh.html" />
+  <link rel="alternate" href="http://newstracker.github.io/timeline.blogger_bangladesh.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Father of slain U.S. blogger says no progress in Bangladesh probe</title>
+    <link rel="alternate" href="http://news.yahoo.com/father-slain-u-blogger-says-no-progress-bangladesh-161640376.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T16:16:40Z</updated>
+    <published>2015-03-26T16:16:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-26T16:16:40Z</dc:date>
+    <media:content url="http://l.yimg.com/a/p/us/news/editorial/d/0c/d0c3eb8ca18907492a4b337b5cec5193.jpeg" />
+  </entry>
   <entry>
     <title>Bangladesh court indicts Islamist group head, 7 students in hacking death of atheist blogger</title>
     <link rel="alternate" href="http://www.startribune.com/world/296693461.html" />
