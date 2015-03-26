@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo says it will buy back $2 billion in stock</title>
+    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/03/26/yahoo-says-it-will-buy-back-2-billion-in-stock" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T22:43:30Z</updated>
+    <published>2015-03-26T22:43:30Z</published>
+    <summary type="html">&lt;p&gt;Shares of Yahoo rose 93 cents, or 2 percent, to $45.40 in aftermarket trading.&lt;/p&gt;&lt;p&gt;Yahoo has $726 million remaining on previous stock buyback plan, which was approved in 2013 and expires at the end of 2016.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T22:43:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Yahoo says it will buy back $2 billion in stock</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Yahoo-says-it-will-buy-back-2-billion-in-stock-6161633.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T22:04:50Z</updated>
+    <published>2015-03-26T22:04:50Z</published>
+    <summary type="html">&lt;p&gt;Investors were pushing Yahoo to use some of the proceeds from the Alibaba spinoff to buy back stock, and the company had said it would keep buying back stock to return cash to shareholders.&lt;/p&gt;&lt;p&gt;The move will allow the new entity to pay lower taxes on Alibaba stock sales than Yahoo would have.&lt;/p&gt;&lt;p&gt;Yahoo owns 384 million shares of Alibaba, and as of Thursday's close its stake is worth about $32 billion.&lt;/p&gt;&lt;p&gt;More recently it has called for Yahoo to spin off its Japanese business, cut costs, and get cash for its intellectual property and real estate holdings.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T22:04:50Z</dc:date>
+  </entry>
+  <entry>
     <title>NHL concussion lawsuit plaintiffs want Bettman to testify (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/nhl-concussion-lawsuit-plaintiffs-want-bettman-testify-195249166--nhl.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Two experimental Ebola vaccines pass safety test in African trial</title>
+    <link rel="alternate" href="http://news.yahoo.com/two-experimental-ebola-vaccines-pass-safety-test-african-214424319--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T22:15:41Z</updated>
+    <published>2015-03-26T22:15:41Z</published>
+    <summary type="html">&lt;p&gt;"Now we must move forward to adapt and expand the study so that ultimately we can determine whether these experimental vaccines can protect against Ebola virus disease and therefore be used in future Ebola outbreaks."&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T22:15:41Z</dc:date>
+  </entry>
+  <entry>
     <title>Study finds no sign Ebola virus is mutating out of control</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/26/us-health-ebola-mutation-idUSKBN0MM2J020150326?feedType=RSS&amp;amp;feedName=healthNews" />
     <author>
