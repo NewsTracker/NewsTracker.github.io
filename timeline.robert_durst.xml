@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.robert_durst.html" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>What is Robert Durst really worth?</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102507985" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T15:24:00Z</updated>
+    <published>2015-03-16T15:24:00Z</published>
+    <summary type="html">&lt;p&gt;In this Aug. 15, 2014 file photo, real estate heir Robert Durst leaves a Houston courtroom.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T15:24:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/03/16/102507698-AP157839336743r.530x298.jpg?v=1426510494" />
+  </entry>
+  <entry>
     <title>Robert Durst linked to missing Vermont student Lynne Schulze</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3008112/Robert-Durst-linked-Vermont-cold-case-missing-teenage-girl.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
