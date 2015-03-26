@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt strikes back at Islamic State militants after beheading video, killing dozens</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/egypt-strikes-back-at-islamic-state-militants-after-beheading-video-killing-dozens-20150216-13ghv2.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-16T11:51:00Z</updated>
+    <published>2015-02-16T11:51:00Z</published>
+    <summary type="html">&lt;p&gt;It was the first time Egypt confirmed launching air strikes against the group in Libya, suggesting President Abdel Fattah al-Sisi is ready to escalate his battle against militants seeking to topple his government.&lt;/p&gt;&lt;p&gt;Egypt's military said the dawn strike hit Islamic State camps, training sites and weapons storage areas.&lt;/p&gt;&lt;p&gt;In a phone call to Al Arabiya television, Brigadier Saqer al-Joroushi, the commander of the air force loyal to Libya's official government, said more air strikes would be carried out in co-ordination with Egypt.&lt;/p&gt;&lt;p&gt;Egypt, the most populous Arab state, has not taken part directly in the US-led air strikes against Islamic State targets in Iraq and Syria, focusing instead on the increasingly complex insurgency within its own borders.&lt;/p&gt;&lt;p&gt;Security officials say militants based in Libya have established ties with Sinai Province, a group operating from Egypt's Sinai Peninsula that has pledged allegiance to Islamic State.&lt;/p&gt;&lt;p&gt;The United Arab Emirates, a close ally of President Sisi, said it "would put all its capabilities to support ... Egypt's efforts to eradicate terrorism and the violence against its citizens".&lt;/p&gt;</summary>
+    <dc:date>2015-02-16T11:51:00Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/3/f/w/s/l/image.related.articleLeadwide.620x349.13ghv2.png/1424736393055.jpg" />
+  </entry>
+  <entry>
     <title>Emirates forges special relationship with el-Sissi's Egypt</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-03-06-ML--Emirates-Supporting%20Egypt/id-19a0a248fd2b476182da6db157c715c3" />
     <author>
@@ -1121,18 +1133,6 @@
     <summary type="html">&lt;p&gt;"More air strikes will be carried out today and tomorrow in coordination with Egypt," he said.&lt;/p&gt;</summary>
     <dc:date>2015-02-16T15:02:21Z</dc:date>
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/1/6/160215m_ISEgypt_800x600.jpg?itok=LCV-YmUT" />
-  </entry>
-  <entry>
-    <title>Egypt strikes back at Islamic State militants after beheading video, killing dozens</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/egypt-strikes-back-at-islamic-state-militants-after-beheading-video-killing-dozens-20150216-13ghv2.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-16T11:51:00Z</updated>
-    <published>2015-02-16T11:51:00Z</published>
-    <summary type="html">&lt;p&gt;It was the first time Egypt confirmed launching air strikes against the group in Libya, suggesting President Abdel Fattah al-Sisi is ready to escalate his battle against militants seeking to topple his government.&lt;/p&gt;&lt;p&gt;Egypt's military said the dawn strike hit Islamic State camps, training sites and weapons storage areas.&lt;/p&gt;&lt;p&gt;In a phone call to Al Arabiya television, Brigadier Saqer al-Joroushi, the commander of the air force loyal to Libya's official government, said more air strikes would be carried out in co-ordination with Egypt.&lt;/p&gt;&lt;p&gt;Egypt, the most populous Arab state, has not taken part directly in the US-led air strikes against Islamic State targets in Iraq and Syria, focusing instead on the increasingly complex insurgency within its own borders.&lt;/p&gt;&lt;p&gt;Security officials say militants based in Libya have established ties with Sinai Province, a group operating from Egypt's Sinai Peninsula that has pledged allegiance to Islamic State.&lt;/p&gt;</summary>
-    <dc:date>2015-02-16T11:51:00Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/3/f/w/s/l/image.related.articleLeadwide.620x349.13ghv2.png/1424736393055.jpg" />
   </entry>
   <entry>
     <title>Egypt strikes back at Islamic State militants after beheading video, killing dozens</title>

@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: cia</title>
-  <link rel="alternate" href="http://newstracker.github.io/timeline.cia.html" />
+  <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Arm Wrestling the CIA</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/mitch-ditkoff/arm-wrestling-the-cia_b_6944926.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T18:48:04Z</updated>
+    <published>2015-03-26T18:48:04Z</published>
+    <summary type="html">&lt;p&gt;"CIA! I'm with the CIA".&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T18:48:04Z</dc:date>
+  </entry>
   <entry>
     <title>CIA director: Iran general 'destabilizing' efforts in Iraq</title>
     <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/22/cia-director-iran-general-destabilizing-efforts-in-iraq" />

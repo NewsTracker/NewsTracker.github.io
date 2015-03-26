@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>National Guardsman Held Over Alleged IS Plot</title>
+    <link rel="alternate" href="http://news.sky.com/story/1453310/national-guardsman-held-over-alleged-is-plot" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T17:42:46Z</updated>
+    <published>2015-03-26T17:42:46Z</published>
+    <summary type="html">&lt;p&gt;A US Army National Guard soldier and his cousin have been arrested on charges of conspiring to support the Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T17:42:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>2 suburban Chicago men arrested on charges of trying to help the Islamic State group</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/03/26/2-suburban-chicago-men-arrested-on-charges-trying-to-help-islamic-state-group/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T17:02:28Z</updated>
+    <published>2015-03-26T17:02:28Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-26T17:02:28Z</dc:date>
+  </entry>
+  <entry>
     <title>Tunisians assure Star Wars sets safe from Islamic State</title>
     <link rel="alternate" href="http://www.seattlepi.com/news/world/article/Tunisians-assure-Star-Wars-sets-safe-from-Islamic-6160329.php" />
     <author>

@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Study finds no sign Ebola virus is mutating out of control</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/26/us-health-ebola-mutation-idUSKBN0MM2J020150326?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T18:02:45Z</updated>
+    <published>2015-03-26T18:02:45Z</published>
+    <summary type="html">&lt;p&gt;Fauci said the findings also allay concerns raised by some last year that a rapidly changing virus could change how Ebola is transmitted, becoming airborne or respiratory.&lt;/p&gt;&lt;p&gt;They called it a safe, inactivated whole-virus vaccine that primes the recipient's immune system with the full complement of Ebola viral proteins and genes.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T18:02:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Study finds no sign Ebola virus is mutating out of control</title>
+    <link rel="alternate" href="http://news.yahoo.com/study-finds-no-sign-ebola-virus-mutating-control-180245434.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T18:02:45Z</updated>
+    <published>2015-03-26T18:02:45Z</published>
+    <summary type="html">&lt;p&gt;The routine genetic changes observed indicate the viral mutations are not likely to affect diagnostic testing or the effectiveness of experimental Ebola vaccines or drugs, the researchers said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T18:02:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. Ebola Patient Upgraded to Serious Condition</title>
+    <link rel="alternate" href="http://www.nbcnews.com/storyline/ebola-virus-outbreak/us-ebola-patient-improves-serious-condition-n330626" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T16:33:03Z</updated>
+    <published>2015-03-26T16:33:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-26T16:33:03Z</dc:date>
+  </entry>
+  <entry>
     <title>New Ebola infections continue to drop, Guinea still a concern</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/25/us-health-ebola-who-idUSKBN0ML2C820150325?feedType=RSS&amp;amp;feedName=healthNews" />
     <author>

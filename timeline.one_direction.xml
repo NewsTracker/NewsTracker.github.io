@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.one_direction.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New direction: 1D says Zayn Malik has left the group</title>
+    <link rel="alternate" href="http://news.yahoo.com/direction-1d-says-zayn-malik-left-group-181752000.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T18:17:52Z</updated>
+    <published>2015-03-25T18:17:52Z</published>
+    <summary type="html">&lt;p&gt;One Direction, which is currently on a world tour, said it would continue with the four remaining members and would record a new album later this year.&lt;/p&gt;&lt;p&gt;The next scheduled date on One Direction's "On the Road Again" tour is in Johannesburg, South Africa, on Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T18:17:52Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/j9a5YFFnMN2iBxQCRBeDfA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_US/News/TheWrap/Zayn_Malik_s_One_Direction_Departure-0ca73e36a08040c79da1c93809761242.cf.jpg" />
+  </entry>
+  <entry>
     <title>Zayn Malik Quits Boy Band One Direction: ‘I Want to Be a Normal 22 Year Old’</title>
     <link rel="alternate" href="http://www.startribune.com/entertainment/music/297542041.html" />
     <author>
