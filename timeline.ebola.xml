@@ -5,15 +5,38 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Sierra Leoneans to stay home in final push to stop Ebola</title>
-    <link rel="alternate" href="http://www.chron.com/news/medical/article/Sierra-Leoneans-stay-home-in-final-push-to-stop-6162535.php" />
+    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Sierra-Leoneans-stay-home-in-final-push-to-stop-6162535.php" />
     <author>
       <name />
     </author>
-    <updated>2015-03-27T14:47:03Z</updated>
-    <published>2015-03-27T14:47:03Z</published>
+    <updated>2015-03-27T17:37:12Z</updated>
+    <published>2015-03-27T17:37:12Z</published>
     <summary type="html">&lt;p&gt;A Sierra Leone Policeman guards a road block forming part of a three day country wide lockdown on movement of people due to the Ebola virus in the city of Freetown, Sierra Leone, Friday, March.&lt;/p&gt;</summary>
-    <dc:date>2015-03-27T14:47:03Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/35/36/01/7725169/7/622x350.jpg" />
+    <dc:date>2015-03-27T17:37:12Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/35/36/01/7725169/7/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>British Ebola patient cured following experimental treatment</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/british-ebola-patient-cured-following-experimental-treatment/article23664470/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T17:26:06Z</updated>
+    <published>2015-03-27T17:26:06Z</published>
+    <summary type="html">&lt;p&gt;She was brought back to Britain and successfully treated at the Royal Free in north London, Britain's main centre for Ebola treatment.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T17:26:06Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/8e2/news/world/article23664469.ece/ALTERNATES/w220/-539237870.JPG" />
+  </entry>
+  <entry>
+    <title>British Ebola patient cured after experimental treatment</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/27/us-health-ebola-britain-idUSKBN0MN27F20150327?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T17:20:28Z</updated>
+    <published>2015-03-27T17:20:28Z</published>
+    <summary type="html">&lt;p&gt;The Chinese-made MIL 77 is a close relative of another experimental medicine ZMapp - which British nurse William Pooley received when he was treated at the Royal Free for Ebola last year.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T17:20:28Z</dc:date>
   </entry>
   <entry>
     <title>Ebola 'supervirus' is unlikely, experts say</title>
