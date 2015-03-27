@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings flight 4U9525 crash: captain reportedly tried to force way through cockpit door with axe</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/germanwings-flight-4u9525-crash-captain-reportedly-tried-to-force-way-through-cockpit-door-with-axe-20150327-1m9oda.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T09:04:17Z</updated>
+    <published>2015-03-27T09:04:17Z</published>
+    <summary type="html">&lt;p&gt;Germanwings has confirmed an axe was on board the aircraft.&lt;/p&gt;&lt;p&gt;Germanwings planes require an access code to open the door but the airline, which is owned by Lufthansa, did not wish on Thursday to give details "for security reasons".&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T09:04:17Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/8/y/k/0/image.related.thumbnail.90x60.1m94qw.png/1427437360856.jpg" />
+  </entry>
+  <entry>
+    <title>Germanwings co-pilot had serious depressive episode: Bild newspaper</title>
+    <link rel="alternate" href="http://news.yahoo.com/germanwings-co-pilot-had-serious-depressive-episode-bild-071238516--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T07:33:32Z</updated>
+    <published>2015-03-27T07:33:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T07:33:32Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Airlines introduce two-person cockpit rule after Germanwings crash</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/storystream/aust-authorities-consider-two-person-cockpit-rule-after-germanwings-crash" />
     <author>
