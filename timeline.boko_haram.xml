@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigerian Military Claim to Destroy Boko Haram Headquarters</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nigerian-military-claim-destroy-boko-haram-headquarters-29946750" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T11:58:51Z</updated>
+    <published>2015-03-27T11:58:51Z</published>
+    <summary type="html">&lt;p&gt;This comes after months of defeat at the hands of Boko Haram, with soldiers fleeing the battlefield after they ran out of ammunition.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T11:58:51Z</dc:date>
+  </entry>
+  <entry>
+    <title>Footage shows Boko Haram's destruction of Nigerian town Bama - dead bodies and burnt out buildings are all that's left</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/footage-shows-boko-harams-destruction-of-nigerian-town-bama-dead-bodies-and-burnt-out-buildings-are-all-thats-left-31099419.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T11:45:19Z</updated>
+    <published>2015-03-27T11:45:19Z</published>
+    <summary type="html">&lt;p&gt;As Nigerian soldiers patrolled the town, many covered their faces to protect themselves from the stench of dead bodies, while the military vehicles had to avoid the roadblocks left behind by Boko Haram.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T11:45:19Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/incoming/article31099380.ece/5743a/ALTERNATES/h342/Par8130858_2.jpg" />
+  </entry>
+  <entry>
+    <title>Nigerian military claim to destroy Boko Haram headquarters</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/27/nigerian-military-claim-to-destroy-boko-haram-headquarters" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T11:32:34Z</updated>
+    <published>2015-03-27T11:32:34Z</published>
+    <summary type="html">&lt;p&gt;The forest starts about 30 kilometers (20 miles) from Gwoza town, which is 130 kilometers (80 miles) southeast of Maiduguri, the capital of Borno state and birthplace of Boko Haram.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T11:32:34Z</dc:date>
+  </entry>
+  <entry>
     <title>Nigerian military, with new weapons, attacks Boko Haram ahead of elections</title>
     <link rel="alternate" href="http://www.startribune.com/world/297679521.html" />
     <author>

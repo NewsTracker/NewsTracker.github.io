@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings co-pilot battled depression: Media</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102540454" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T11:46:00Z</updated>
+    <published>2015-03-27T11:46:00Z</published>
+    <summary type="html">&lt;p&gt;French investigators, who are in charge of the probe into the plane crash, believe the 27-year-old locked himself inside the cockpit and then intentionally smashed the Germanwings plane into a mountainside on Tuesday during a flight from Barcelona to Duesseldorf.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T11:46:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/03/26/102539713-be9cef26c03d7c57c5092925e3ae10bc504ca89b.80x60.jpg?v=1427425485" />
+  </entry>
+  <entry>
+    <title>The Latest: Co-pilot may have hid illness from employers</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/The-Latest-German-police-seize-items-from-6162503.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T11:41:12Z</updated>
+    <published>2015-03-27T11:41:12Z</published>
+    <summary type="html">&lt;p&gt;After the media reports, a prosecutor announced that cockpit recordings indicate the co-pilot of the Germanwings A320 jet intentionally flew the plane into a mountain on Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T11:41:12Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/35/65/7724387/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>German prosecutors: Germanwings co-pilot hid illness from employers</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/chi-germanwings-copilot-depression-20150327-story.html?track=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T11:29:00Z</updated>
+    <published>2015-03-27T11:29:00Z</published>
+    <summary type="html">&lt;p&gt;"In these dark hours our full attention belongs to the emotional support of the relatives and friends of the victims of Flight 9525," Germanwings CEO Thomas Winkelmann said in a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T11:29:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Germanwings flight 4U9525 crash: captain reportedly tried to force way through cockpit door with axe</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/germanwings-flight-4u9525-crash-captain-reportedly-tried-to-force-way-through-cockpit-door-with-axe-20150327-1m9oda.html" />
     <author>

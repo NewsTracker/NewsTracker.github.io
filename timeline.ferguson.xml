@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Scathing report finds patterns of racial bias in Ferguson</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/u-s-clears-officer-in-ferguson-shooting-but-criticizes-police-force-1.2262183" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T19:56:00Z</updated>
+    <published>2015-03-03T19:56:00Z</published>
+    <summary type="html">&lt;p&gt;A boy walks past a memorial for Michael Brown, who was shot and killed by Ferguson, Mo., Police Officer Darren Wilson last summer, in Ferguson, Mo., Tuesday, March 3, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T19:56:00Z</dc:date>
+  </entry>
+  <entry>
     <title>No ill feelings toward Ferguson: Raiders</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/03/27/pearce-going-bash-raider-nuuausala" />
     <author>

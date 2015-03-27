@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Photo of Myanmar’s reclusive former dictator surfaces on Facebook</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/27/us-myanmar-dictator-idUSKBN0MN14920150327?feedType=RSS&amp;amp;feedName=lifestyleMolt" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T10:38:43Z</updated>
+    <published>2015-03-27T10:38:43Z</published>
+    <summary type="html">&lt;p&gt;The Facebook photo garnered more than 4,500 "likes", including one by Ye Htut, Myanmar's information minister.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T10:38:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook talks up need for virtual reality, big tech bets</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/03/26/facebook-f8-developer-conference" />
     <author>

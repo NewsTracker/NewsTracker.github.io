@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boston woman charged with fraudulently accepting benefits for marathon bombing injuries</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/297766101.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T11:35:25Z</updated>
+    <published>2015-03-27T11:35:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T11:35:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Boston woman charged with marathon injury fraud</title>
+    <link rel="alternate" href="http://news.yahoo.com/boston-woman-charged-marathon-injury-fraud-113312075.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T11:33:12Z</updated>
+    <published>2015-03-27T11:33:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T11:33:12Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/4ymsD_.8ixCdG1fIuLWZyQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/video/video.hearstnews.com/1427322422_1_9t3e56hq_1_4im26grp_11.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Boston Marathon Bombing: Tale of the Gun</title>
     <link rel="alternate" href="http://abcnews.go.com/US/boston-marathon-bombing-tale-gun/story?id=29898790" />
     <author>
