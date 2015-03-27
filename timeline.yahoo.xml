@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tennessee fires men's basketball coach Donnie Tyndall (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/tennessee-fires-basketball-coach-donnie-tyndall-130627414--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T15:56:50Z</updated>
+    <published>2015-03-27T15:56:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T15:56:50Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/qsMnqW_rKRa_y0Vsk06_sg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM1NTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201503270823302060678" />
+  </entry>
+  <entry>
     <title>Arizona outlasts Xavier 68-60 to reach West region finals (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/arizona-outlasts-xavier-68-60-reach-west-region-045714379--ncaab.html" />
     <author>

@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: courtney barnett</title>
-  <link rel="alternate" href="http://newstracker.github.io/timeline.courtney_barnett.html" />
+  <link rel="alternate" href="http://newstracker.github.io/timeline.courtney_barnett.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Album review: Courtney Barnett album just an everyday triumph</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article16473320.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T15:56:04Z</updated>
+    <published>2015-03-27T15:56:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T15:56:04Z</dc:date>
+  </entry>
   <entry>
     <title>Pop music reviews: Courtney Barnett offers incisive, cutting songs in 'Sometimes I Sit and Think, and Sometimes I Just Sit'</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article16171211.html%23storylink=rss" />

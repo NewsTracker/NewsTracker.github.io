@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine rebels hand over bodies of 22 govt soldiers</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/27/ukraine-rebels-hand-over-bodies-of-22-govt/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T14:59:45Z</updated>
+    <published>2015-03-27T14:59:45Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T14:59:45Z</dc:date>
+  </entry>
+  <entry>
     <title>Crimea exiles fight to keep Ukraine unity message alive</title>
     <link rel="alternate" href="http://news.yahoo.com/crimea-exiles-fight-keep-ukraine-unity-message-alive-073841583.html" />
     <author>

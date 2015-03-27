@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigerian troops recapture Boko Haram 'headquarters'</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nigerian-troops-recapture-boko-haram-headquarters-20150327-1m9rj6.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T15:43:13Z</updated>
+    <published>2015-03-27T15:43:13Z</published>
+    <summary type="html">&lt;p&gt;Nigeria's national security spokesman Mike Omeri said last week troops had begun the "final onslaught" against Boko Haram, saying Gwoza was one of three areas yet to be retaken.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T15:43:13Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/9/r/k/b/image.related.articleLeadwide.620x349.1m9rj6.png/1427470889622.jpg" />
+  </entry>
+  <entry>
+    <title>Nigeria recaptures Boko Haram 'HQ' Gwoza</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Nigeria-recaptures-Boko-Haram-HQ-Gwoza/articleshow/46717120.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T13:45:19Z</updated>
+    <published>2015-03-27T13:45:19Z</published>
+    <summary type="html">&lt;p&gt;Boko Haram leader Abubakar Shekau declared on August 24 last year that Gwoza was "part of the Islamic caliphate", adding to speculation the militants were imitating the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T13:45:19Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46717203,width-300,resizemode-4/Nigeria-recaptures-Boko-Haram-HQ-Gwoza.jpg" />
+  </entry>
+  <entry>
     <title>Nigerian Military Claim to Destroy Boko Haram Headquarters</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nigerian-military-claim-destroy-boko-haram-headquarters-29946750" />
     <author>
