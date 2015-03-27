@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Apple's Tim Cook will give away all his money: Fortune</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/26/us-apple-ceo-tim-cook-idUSKBN0MM2YM20150326?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T23:27:19Z</updated>
+    <published>2015-03-26T23:27:19Z</published>
+    <summary type="html">&lt;p&gt;(Reuters) - Apple Inc (AAPL.O) Chief Executive Tim Cook is joining the roster of the very rich who are giving away their wealth.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T23:27:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple's Tim Cook will give away all his money: Fortune</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/apples-tim-cook-donate-wealth-220612776.html" />
     <author>
       <name />
