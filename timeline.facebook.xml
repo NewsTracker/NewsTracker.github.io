@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook talks up need for virtual reality, big tech bets</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/26/facebook-f8-developer-conference" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T23:31:21Z</updated>
+    <published>2015-03-26T23:31:21Z</published>
+    <summary type="html">&lt;p&gt;While virtual reality headsets such as the Oculus Rift suggest video games and entertainment, the gadgets could transform how people communicate on Facebook, they said.&lt;/p&gt;&lt;p&gt;Events such as a birthday party or a child's first bike ride could be shared on Facebook so that users in different parts of the world felt as if they were taking part.&lt;/p&gt;&lt;p&gt;Facebook had never made clear its virtual reality plans, Vlada Bortnik, the founder of app-maker Happy Bits, said at the conference.&lt;/p&gt;&lt;p&gt;Facebook and Google Inc are building Internet-beaming satellites and drones to connect billions of people who lack Internet access, as the companies compete to become the go-to online hub for consumers and marketers.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T23:31:21Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297615617024_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
+    <title>Facebook moves ahead toward Internet drone air fleet</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3013790/Facebook-moves-ahead-Internet-drone-air-fleet.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T23:20:59Z</updated>
+    <published>2015-03-26T23:20:59Z</published>
+    <summary type="html">&lt;p&gt;"Aircraft like these will help connect the whole world because they can affordably serve the 10 percent of the world's population that live in remote communities without existing Internet infrastructure," Zuckerberg said in a post on his Facebook timeline.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T23:20:59Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/26/article-doc-1d85n-6XKNf5cZZHSK2-953_634x438.jpg" />
+  </entry>
+  <entry>
+    <title>Facebook lets friends send cash over Messenger</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/tech/2015/03/17/facebook-messenger-send-cash/24913255/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-techtopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T19:45:16Z</updated>
+    <published>2015-03-17T19:45:16Z</published>
+    <summary type="html">&lt;p&gt;Last summer Facebook hired PayPal President David Marcus to run all of its messaging products.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T19:45:16Z</dc:date>
+    <media:content url="http://www.gannett-cdn.com/-mm-/0b72fa1621a785527172d904a035d1c85c54cf1c/c=76-0-949-655&amp;amp;amp;r=x404&amp;amp;amp;c=534x401/local/-/media/USATODAY/usatsports/2015/03/13/ap_earns_facebook_68326070.jpg" />
+  </entry>
+  <entry>
     <title>Penn State frat suspended for year over nude Facebook pics</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2015-03-17-US--Penn%20State%20Fraternity-Nude%20Photos/id-d6d55327c8124ffbaedd5d4e5664ce47" />
     <author>

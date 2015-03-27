@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt?s curious plan to abandon Cairo as its capital and build a new $45-billion city in the desert</title>
+    <link rel="alternate" href="http://news.nationalpost.com/2015/03/17/egypt-new-capital-why/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T16:19:12Z</updated>
+    <published>2015-03-17T16:19:12Z</published>
+    <summary type="html">&lt;p&gt;Cairo, Egypt's teeming capital of 18 million people, is routinely criticized for its creaking infrastructure and horrendous traffic.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T16:19:12Z</dc:date>
+    <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/466184680.jpg?w=620" />
+  </entry>
+  <entry>
+    <title>Emirates forges special relationship with el-Sissi's Egypt</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Emirates-forges-special-relationship-with-6118336.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T06:42:38Z</updated>
+    <published>2015-03-06T06:42:38Z</published>
+    <summary type="html">&lt;p&gt;Egypt's prime minister, Ibrahim Mahlab, had a prime speaking spot, which he used to praise the Emirates' "wise leadership" and the two nations' friendship.&lt;/p&gt;&lt;p&gt;A UAE government report shows that Egypt is by far the biggest single recipient of donor cash from the Emirates, with $4.6 billion distributed just in 2013, the most recent year for which data is available.&lt;/p&gt;&lt;p&gt;Emirati construction giant Arabtec Holding has ambitious plans for a $40 billion project to build 1 million middle-income homes across Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T06:42:38Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/03/21/7615580/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Muslim Brotherhood leader sentenced to death in Egypt</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/muslim-brotherhood-leader-sentenced-to-death-in-egypt/article23487676/?cmpid=rss1" />
     <author>
@@ -771,18 +795,6 @@
     <published>2015-03-06T07:50:15Z</published>
     <summary type="html">&lt;p&gt;In addition to providing direct cash aid, the OPEC member has been building schools, clinics, wheat silos and tens of thousands of homes as part of at least $10 billion earmarked for Egypt since Morsi's ouster.&lt;/p&gt;</summary>
     <dc:date>2015-03-06T07:50:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Emirates forges special relationship with el-Sissi's Egypt</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Emirates-forges-special-relationship-with-6118336.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-06T06:42:38Z</updated>
-    <published>2015-03-06T06:42:38Z</published>
-    <summary type="html">&lt;p&gt;Egypt's prime minister, Ibrahim Mahlab, had a prime speaking spot, which he used to praise the Emirates' "wise leadership" and the two nations' friendship.&lt;/p&gt;&lt;p&gt;A UAE government report shows that Egypt is by far the biggest single recipient of donor cash from the Emirates, with $4.6 billion distributed just in 2013, the most recent year for which data is available.&lt;/p&gt;</summary>
-    <dc:date>2015-03-06T06:42:38Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/35/03/21/7615580/7/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Emirates forges special relationship with el-Sissi's Egypt</title>

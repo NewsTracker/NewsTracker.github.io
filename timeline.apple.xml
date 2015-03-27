@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple's Tim Cook will give away all his money: Fortune</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/apples-tim-cook-donate-wealth-220612776.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T23:27:19Z</updated>
+    <published>2015-03-26T23:27:19Z</published>
+    <summary type="html">&lt;p&gt;While Cook's largesse could not begin to approach the scale of a Gates or Zuckerberg, both worth billions of dollars, the Apple CEO told Fortune he hopes to make a difference.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T23:27:19Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/ZOaqqlK7hCNaT5Xv8nVsWA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-03-26T220612Z_1_LYNXMPEB2P1CM_RTROPTP_3_APPLE-WATCH_original.jpg" />
+  </entry>
+  <entry>
+    <title>Will the Apple Watch finally move the needle in the smartwatch industry? Here's why &amp; why not</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/295450771.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T05:05:20Z</updated>
+    <published>2015-03-07T05:05:20Z</published>
+    <summary type="html">&lt;p&gt;The stakes are big for Apple CEO Tim Cook: the watch is the first brand-new Apple product to be launched without legendary co-founder Steve Jobs.&lt;/p&gt;&lt;p&gt;MORE FEATURES THAN RIVALS: Along with email, texts and phone calls, Apple says its watch will present news, health readings and other notifications in creative ways that can be read at a glance.&lt;/p&gt;&lt;p&gt;While affluent consumers might pay that for a watch they can wear for years, or even hand down to their children, it's a lot of money for something that could become outdated if Apple releases a new model every year or so - as it does with smartphones.&lt;/p&gt;&lt;p&gt;Apple is working with outside companies to create more apps; Cook has talked about using the watch as an electronic "key" for hotel doors or even cars.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T05:05:20Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple's Tim Cook to donate his wealth - Fortune</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3013710/Apples-Tim-Cook-donate-wealth--Fortune.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -432,17 +455,6 @@
     <summary type="html">&lt;p&gt;How much actual gold will be in the Apple Watch Edition?&lt;/p&gt;</summary>
     <dc:date>2015-03-08T06:09:00Z</dc:date>
     <media:content url="http://blogs-images.forbes.com/anthonykosner/files/2015/03/Apple-Watch-Edition-value-of-gold.jpg" />
-  </entry>
-  <entry>
-    <title>Will the Apple Watch finally move the needle in the smartwatch industry? Here's why &amp; why not</title>
-    <link rel="alternate" href="http://www.startribune.com/nation/295450771.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-07T05:05:20Z</updated>
-    <published>2015-03-07T05:05:20Z</published>
-    <summary type="html">&lt;p&gt;The stakes are big for Apple CEO Tim Cook: the watch is the first brand-new Apple product to be launched without legendary co-founder Steve Jobs.&lt;/p&gt;&lt;p&gt;MORE FEATURES THAN RIVALS: Along with email, texts and phone calls, Apple says its watch will present news, health readings and other notifications in creative ways that can be read at a glance.&lt;/p&gt;&lt;p&gt;While affluent consumers might pay that for a watch they can wear for years, or even hand down to their children, it's a lot of money for something that could become outdated if Apple releases a new model every year or so - as it does with smartphones.&lt;/p&gt;</summary>
-    <dc:date>2015-03-07T05:05:20Z</dc:date>
   </entry>
   <entry>
     <title>3 reasons Apple's watch will _ or won't _ change the game</title>
