@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Airlines introduce two-person cockpit rule after Germanwings crash</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/storystream/aust-authorities-consider-two-person-cockpit-rule-after-germanwings-crash" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T03:39:08Z</updated>
+    <published>2015-03-27T03:39:08Z</published>
+    <summary type="html">&lt;p&gt;Among the companies that did not announce such a policy change was Germanwings parent Lufthansa, whose CEO Carsten Spohr said he believed it was unnecessary.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T03:39:08Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/full/public/andreas_lubitz.jpg?itok=hC9RLeKw&amp;amp;amp;mtime=1427396572" />
+  </entry>
+  <entry>
     <title>Few precedents seen as Germanwings investigation points to deliberate crash</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/few-precedents-seen-as-germanwings-investigation-points-to-deliberate-crash-20150327-1m95xr.html" />
     <author>

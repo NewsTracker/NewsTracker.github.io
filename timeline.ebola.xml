@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>4 more aid workers flown back to US for Ebola monitoring</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/4-more-aid-workers-flown-back-to-US-for-Ebola-6139065.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T21:44:07Z</updated>
+    <published>2015-03-17T21:44:07Z</published>
+    <summary type="html">&lt;p&gt;None of them have been diagnosed with Ebola, but they will be isolated and monitored during the next three weeks for signs of the disease.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T21:44:07Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/20/52/7670447/5/622x350.jpg" />
+  </entry>
+  <entry>
     <title>Two experimental Ebola vaccines pass safety test in African trial</title>
     <link rel="alternate" href="http://news.yahoo.com/two-experimental-ebola-vaccines-pass-safety-test-african-214424319--finance.html" />
     <author>

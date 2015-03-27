@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Wrong kitty litter led to radiation leak at New Mexico nuke waste dump</title>
+    <link rel="alternate" href="http://news.yahoo.com/wrong-kitty-litter-led-radiation-leak-mexico-nuke-051352066.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T05:13:52Z</updated>
+    <published>2015-03-27T05:13:52Z</published>
+    <summary type="html">&lt;p&gt;New Mexico slapped the Energy Department with $54 million in fines in December for violations of state hazardous waste permits tied to WIPP and the Los Alamos lab.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T05:13:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico march marks 6 months since 43 students disappeared</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Mexico-marks-6-months-since-43-students-6161340.php" />
     <author>

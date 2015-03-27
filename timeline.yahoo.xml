@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Arizona outlasts Xavier 68-60 to reach West region finals (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/arizona-outlasts-xavier-68-60-reach-west-region-045714379--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T05:11:01Z</updated>
+    <published>2015-03-27T05:11:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T05:11:01Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/ncaab/teams/83/70x70/aaq.png" />
+  </entry>
+  <entry>
     <title>Yahoo says it will buy back $2 billion in stock</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article16448177.html%23storylink=rss" />
     <author>
