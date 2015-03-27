@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Prosecutors: Evidence Germanwings co-pilot hid illness, but no suicide note found</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/03/27/prosecutors-evidence-germanwings-co-pilot-hid-illness-but-no-suicide-note-found/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T12:00:53Z</updated>
+    <published>2015-03-27T12:00:53Z</published>
+    <summary type="html">&lt;p&gt;People in Montabaur who knew Lubitz told AP they were shocked at the allegations that he could have intentionally crashed the plane, saying he had been thrilled with his job at Germanwings and seemed to be "very happy."&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T12:00:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Germanwings co-pilot battled depression: Media</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102540454" />
     <author>
@@ -241,7 +252,7 @@
     <media:content url="http://www.usnews.com/dims4/USNEWS/a152a50/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fa3%2F5cad89f4598ffe0fdcbb3db8f7d033%2Fmedia%3A434add9c9ccc4b579b8c8c5472429232GermanyFrancePlaneCrash.JPEG" />
   </entry>
   <entry>
-    <title>Co-pilot was ‘very happy' with Germanwings job</title>
+    <title>Co-pilot was ?very happy' with Germanwings job</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article16363961.html%23storylink=rss" />
     <author>
       <name />
