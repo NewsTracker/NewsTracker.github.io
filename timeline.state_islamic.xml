@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>China says Muslim Uighurs have joined Islamic State group</title>
+    <link rel="alternate" href="http://tvnz.co.nz/world-news/china-says-muslim-uighurs-have-joined-islamic-state-group-6252836?ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-11T03:32:00Z</updated>
+    <published>2015-03-11T03:32:00Z</published>
+    <summary type="html">&lt;p&gt;"There are Uighurs that have fled overseas and joined the Islamic State," Zhang Chunxian, Communist Party secretary of Xinjiang, said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-11T03:32:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Iraqi Sunni tribe wages costly battle against IS group</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3014160/Iraqi-Sunni-tribe-wages-costly-battle-against-IS-group.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1579,17 +1590,6 @@
     <summary type="html">&lt;p&gt;Video posted online by Islamic State shows a boy killing an Israeli Arab accused by IS as working for Mossad.&lt;/p&gt;&lt;p&gt;The mother and father of Muhammad Musallam, an Israeli Arab held by Islamic State in Syria as an alleged spy, hold pictures of him in their Jerusalem home in February.&lt;/p&gt;&lt;p&gt;An image from a video reportedly released by the Islamic State through Al-Furqan, one of the Jihadist platforms used by the militant organisation on the web, shows a youth identifying himself as 19-year-old Mohammed Said Ismail Musallam from Jerusalem.&lt;/p&gt;&lt;p&gt;"I tell my father and my son: Repent to God. I say to the spies who spy on Islamic State: You will not be successful, they will expose you," Musallam said in the latest video, in Arabic.&lt;/p&gt;</summary>
     <dc:date>2015-03-11T03:45:29Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/1/4/0/p/g/q/image.related.articleLeadwide.620x349.140o7g.png/1426074861799.jpg" />
-  </entry>
-  <entry>
-    <title>China says Muslim Uighurs have joined Islamic State group</title>
-    <link rel="alternate" href="http://tvnz.co.nz/world-news/china-says-muslim-uighurs-have-joined-islamic-state-group-6252836?ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-11T03:32:00Z</updated>
-    <published>2015-03-11T03:32:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-11T03:32:00Z</dc:date>
   </entry>
   <entry>
     <title>French boy, 13, youngest foreigner to die for Islamic State</title>
