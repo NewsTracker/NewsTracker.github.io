@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple CEO Tim Cook plans to give away most of his fortune</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Apple-CEO-Tim-Cook-plans-to-give-away-most-of-his-6163260.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T16:58:49Z</updated>
+    <published>2015-03-27T16:58:49Z</published>
+    <summary type="html">&lt;p&gt;Most of Cook's wealth is tied up in an Apple stock grant he received in 2011 when he succeeded Steve Jobs as Apple Inc.'s CEO.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T16:58:49Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/34/34/25/7456075/13/landscape_32.jpg" />
+  </entry>
+  <entry>
     <title>Apple's Tim Cook will give away all his money: Fortune</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/26/us-apple-ceo-tim-cook-idUSKBN0MM2YM20150326?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
