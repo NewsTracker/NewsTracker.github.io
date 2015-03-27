@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Notre Dame races by Wichita State 81-70 for Elite Eight spot (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/notre-dame-races-wichita-state-81-70-elite-012641989--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T01:39:29Z</updated>
+    <published>2015-03-27T01:39:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T01:39:29Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Yahoo Boosts Share Buyback by $2 Billion</title>
     <link rel="alternate" href="http://www.wsj.com/articles/yahoo-boosts-buyback-authorization-by-2-billion-1427408405?mod=rss_Technology" />
     <author>

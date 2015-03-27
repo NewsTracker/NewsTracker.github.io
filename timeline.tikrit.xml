@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tikrit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Advancing Iraq troops enter strategic town on edge of Tikrit</title>
+    <link rel="alternate" href="http://news.yahoo.com/advancing-iraq-troops-enter-strategic-town-edge-tikrit-154611945.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T15:46:11Z</updated>
+    <published>2015-03-06T15:46:11Z</published>
+    <summary type="html">&lt;p&gt;But Hadi al-Amiri, leader of the largest Shi'ite militia group taking part in the operation, said al-Dour had been "totally liberated" and that the advance on another key town north of Tikrit, al-Alam, would take place on Saturday.&lt;/p&gt;&lt;p&gt;The assault by the Shi'ite-led army and its militia allies on Tikrit in Iraq's Sunni heartland has symbolic importance for both sides.&lt;/p&gt;&lt;p&gt;Officials said on Friday they had captured a farm to the east of Tikrit that belonged to Saddam's deputy Ezzat Ibrahim al-Douri, now a prominent ally of the jihadist fighters.&lt;/p&gt;&lt;p&gt;The United States, by contrast, says it has played no role in the Tikrit offensive despite an air campaign against Islamic State fighters in both Iraq and Syria.&lt;/p&gt;&lt;p&gt;To the south of Tikrit, Islamic State militants attacked soldiers and militia fighters east of the city of Samarra with an explosives-laden tanker, killing four people and wounding 28, a source at Samarra hospital said.&lt;/p&gt;&lt;p&gt;Those fears have been fueled by calls for revenge among some Shi'ites for the June killing of up to 1,700 Iraqi soldiers captured by Islamic State at the Speicher military base just outside Tikrit.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T15:46:11Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/k64Q5ejim4AMKZwHrgHbCw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6431414-1-1-0.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Iraq special forces advance in Tikrit, U.S. coalition joins fight</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3013518/Iraq-special-forces-advance-Tikrit-U-S-coalition-joins-fight.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -824,18 +836,6 @@
     <summary type="html">&lt;p&gt;The offensive is not what the Americans would consider textbook military tactics, he said, describing a hodge-podge of Iraqi Humvees, trucks and other vehicles surging toward Tikrit like "rush hour on the Washington Beltway".&lt;/p&gt;&lt;p&gt;The general said that while Iran is getting credit for enabling the Tikrit offensive, the full story of how it was made possible has not been told.&lt;/p&gt;&lt;p&gt;Isis forces had surged into Beyji, which lies just north of Tikrit, in hopes of controlling a key oil refinery there.&lt;/p&gt;&lt;p&gt;The mostly Sunni population of Tikrit must be allow to returned to their homes, and the Shiite-dominated government in Baghdad must step in with reconstruction and humanitarian aid, he said.&lt;/p&gt;</summary>
     <dc:date>2015-03-07T06:37:47Z</dc:date>
     <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/3/7/1425711053115/4e6d510a-0e0e-47c1-91bd-f4dd8d04d882-300x180.jpeg" />
-  </entry>
-  <entry>
-    <title>Advancing Iraq troops enter strategic town on edge of Tikrit</title>
-    <link rel="alternate" href="http://news.yahoo.com/advancing-iraq-troops-enter-strategic-town-edge-tikrit-154611945.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-06T15:46:11Z</updated>
-    <published>2015-03-06T15:46:11Z</published>
-    <summary type="html">&lt;p&gt;But Hadi al-Amiri, leader of the largest Shi'ite militia group taking part in the operation, said al-Dour had been "totally liberated" and that the advance on another key town north of Tikrit, al-Alam, would take place on Saturday.&lt;/p&gt;&lt;p&gt;The assault by the Shi'ite-led army and its militia allies on Tikrit in Iraq's Sunni heartland has symbolic importance for both sides.&lt;/p&gt;&lt;p&gt;Officials said on Friday they had captured a farm to the east of Tikrit that belonged to Saddam's deputy Ezzat Ibrahim al-Douri, now a prominent ally of the jihadist fighters.&lt;/p&gt;&lt;p&gt;The United States, by contrast, says it has played no role in the Tikrit offensive despite an air campaign against Islamic State fighters in both Iraq and Syria.&lt;/p&gt;&lt;p&gt;To the south of Tikrit, Islamic State militants attacked soldiers and militia fighters east of the city of Samarra with an explosives-laden tanker, killing four people and wounding 28, a source at Samarra hospital said.&lt;/p&gt;</summary>
-    <dc:date>2015-03-06T15:46:11Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/k64Q5ejim4AMKZwHrgHbCw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6431414-1-1-0.jpg.cf.jpg" />
   </entry>
   <entry>
     <title>Fight for Iraqi city of Tikrit draws Tehran and Washington still closer together</title>
