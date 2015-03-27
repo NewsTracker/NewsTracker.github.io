@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Lockdown bid to stamp out Ebola</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/lockdown-bid-to-stamp-out-ebola-31099093.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T09:31:11Z</updated>
+    <published>2015-03-27T09:31:11Z</published>
+    <summary type="html">&lt;p&gt;Thousands of teams will fan out around the country, knocking on doors to remind people how Ebola is spread and how to prevent it.&lt;/p&gt;&lt;p&gt;In the hot spots - the regions around the capital, Freetown, and in the north - health workers will also search for Ebola cases.&lt;/p&gt;&lt;p&gt;Alfred Palo Conteh, the head of Sierra Leone's Ebola response, said a major goal of the campaign is to fight complacency, more than a year after the outbreak was declared in West Africa.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T09:31:11Z</dc:date>
+    <media:content url="http://cdn1.belfasttelegraph.co.uk/news/world-news/article31099092.ece/76ae1/ALTERNATES/h342/PANews%20BT_P-43096483-5197-4b29-b890-4bc8cc33795d_I1.jpg" />
+  </entry>
+  <entry>
     <title>Ebola vaccines 'appear to be safe' in tests</title>
     <link rel="alternate" href="http://www.euronews.com/2015/03/27/ebola-vaccines-appear-to-be-safe-in-tests/" />
     <author>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine Seeks Resumption of Turkmen Gas Supplies</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/ukraine-seeks-resumption-turkmen-gas-supplies-29945613" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T09:53:15Z</updated>
+    <published>2015-03-27T09:53:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T09:53:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine seeks resumption of gas supplies from Turkmenistan as alternative to Russia</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/03/27/ukraine-seeks-resumption-gas-supplies-from-turkmenistan-as-alternative-to/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T09:51:26Z</updated>
+    <published>2015-03-27T09:51:26Z</published>
+    <summary type="html">&lt;p&gt;Until 2006, Turkmenistan supplied Ukraine with 36 billion cubic meters (1.3 trillion cubic feet) of gas annually in exchange for cash and goods.&lt;/p&gt;&lt;p&gt;Turkmenistan wishes to widen its client base, while Ukraine wants to wean itself off Russian gas, so any deal would be eagerly embraced by both parties.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T09:51:26Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/03/27/876/493/Ukraine-1.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
     <title>France, Germany hold out sanctions if Ukraine accords break</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11405545&amp;amp;ref=rss" />
     <author>
@@ -198,7 +221,7 @@
     <dc:date>2015-03-25T13:19:25Z</dc:date>
   </entry>
   <entry>
-    <title>A Ukraine factory that can’t close, and workers who won’t quit</title>
+    <title>A Ukraine factory that can?t close, and workers who won?t quit</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/A-Ukraine-factory-that-cant-close-and-workers-who-wont-quit/articleshow/46689086.cms" />
     <author>
       <name />
