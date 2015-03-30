@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Coney Island roller coaster mishap briefly strands riders</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article16857302.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T00:31:04Z</updated>
+    <published>2015-03-30T00:31:04Z</published>
+    <summary type="html">&lt;p&gt;Witnesses tell the Daily News (http://nydn.us/1IbCmov ) about 24 passengers on the first run of the Cyclone at Luna Park on Sunday were readying for the initial drop when it suddenly stopped.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T00:31:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Cyclone Pam: Is it time for a category-6 cyclone rating?</title>
     <link rel="alternate" href="http://www.smh.com.au/environment/climate-change/cyclone-pam-is-it-time-for-a-category6-cyclone-rating-20150316-1m04qv.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>14 killed in car crash in Egypt's southern Sohag province</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/30/14-killed-in-car-crash-in-egypts-southern-sohag/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T07:47:48Z</updated>
+    <published>2015-03-30T07:47:48Z</published>
+    <summary type="html">&lt;p&gt;Deadly traffic crashes claim thousands of lives in Egypt every year.&lt;/p&gt;&lt;p&gt;The collisions killed about 13,000 people in Egypt in 2013.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T07:47:48Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt?s curious plan to abandon Cairo as its capital and build a new $45-billion city in the desert</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/17/egypt-new-capital-why/" />
     <author>

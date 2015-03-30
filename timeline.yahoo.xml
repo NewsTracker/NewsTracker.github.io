@@ -4,16 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Tennessee fires men's basketball coach Donnie Tyndall (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/tennessee-fires-basketball-coach-donnie-tyndall-130627414--ncaab.html" />
+    <title>Notre Dame beats Baylor, advances to 5th straight Final Four (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/notre-dame-beats-baylor-advances-5th-straight-final-024758306--ncaaw.html" />
     <author>
       <name />
     </author>
-    <updated>2015-03-27T15:56:50Z</updated>
-    <published>2015-03-27T15:56:50Z</published>
+    <updated>2015-03-30T04:22:19Z</updated>
+    <published>2015-03-30T04:22:19Z</published>
     <summary type="html" />
-    <dc:date>2015-03-27T15:56:50Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/qsMnqW_rKRa_y0Vsk06_sg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM1NTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201503270823302060678" />
+    <dc:date>2015-03-30T04:22:19Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Denny Hamlin races to 25th Cup win, 5th at Martinsville (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/hamlin-wins-25th-time-fifth-time-martinsville-213240278--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-29T23:40:43Z</updated>
+    <published>2015-03-29T23:40:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-29T23:40:43Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/wkTpEtusYzQ29alWKLb64g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503291638599050781" />
+  </entry>
+  <entry>
+    <title>Spartans Final Four-bound after 76-70 OT win over Louisville (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/spartans-final-four-bound-76-70-ot-win-210422981--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-29T23:21:23Z</updated>
+    <published>2015-03-29T23:21:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-29T23:21:23Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/r5amZKYs6CMY7EBIphu8jQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503291614584850645" />
   </entry>
   <entry>
     <title>Arizona outlasts Xavier 68-60 to reach West region finals (Yahoo Sports)</title>
