@@ -4,15 +4,38 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Islamic State group beheads eight Shiites in Syria’s Hama province</title>
-    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/03/30/world/islamic-state-group-beheads-eight-shiites-syrias-hama-province/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=islamic-state-group-beheads-eight-shiites-syrias-hama-province&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
+    <title>Israel charges Palestinian for fighting with Islamic State</title>
+    <link rel="alternate" href="http://news.yahoo.com/israel-charges-palestinian-fighting-islamic-state-114916656.html" />
     <author>
       <name />
     </author>
-    <updated>2015-03-30T04:59:00Z</updated>
-    <published>2015-03-30T04:59:00Z</published>
-    <summary type="html">&lt;p&gt;The Islamic State fighter said in the video that the current military campaign against the group will only make it stronger.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T04:59:00Z</dc:date>
+    <updated>2015-03-30T11:49:16Z</updated>
+    <published>2015-03-30T11:49:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-30T11:49:16Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/XL6ZImG4wGKDi7lQWkPdbA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/409a2d12538f340e720f6a706700fab8.jpg.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Malaysia proposes anti-terror laws to curb Islamic militants</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/30/malaysia-proposes-anti-terror-laws-to-curb/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T10:47:05Z</updated>
+    <published>2015-03-30T10:47:05Z</published>
+    <summary type="html">&lt;p&gt;The government has detained scores of Malaysians suspected of supporting the Islamic State militant group.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T10:47:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State claims responsibility for Tunisia museum attack</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/chi-tunisia-terror-attack-20150319-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T00:06:00Z</updated>
+    <published>2015-03-20T00:06:00Z</published>
+    <summary type="html">&lt;p&gt;Confronted with a poor economy, young Tunisians have disproportionately gone abroad to fight with extremist groups in Libya, Syria and Iraq, including some affiliated with the Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T00:06:00Z</dc:date>
   </entry>
   <entry>
     <title>A history of the Islamic State group's atrocities, gains</title>
