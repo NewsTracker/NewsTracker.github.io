@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>A history of the Islamic State group's atrocities, gains</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11403117&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-16T17:25:11Z</updated>
+    <published>2015-02-16T17:25:11Z</published>
+    <summary type="html">&lt;p&gt;Aug. 8 " The U.S. begins targeting the Islamic State group with airstrikes, citing the humanitarian plight of Iraq's minorities, like the Yazidi.&lt;/p&gt;&lt;p&gt;Feb. 3 " The Islamic State group releases a video of it burning al-Kaseasbeh to death in a cage, sparking outrage in Jordan, which launches new strikes targeting the militants.&lt;/p&gt;</summary>
+    <dc:date>2015-02-16T17:25:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Ancient Petra sees few visitors as Jordan tourism declines</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article16882637.html%23storylink=rss" />
     <author>
@@ -2843,17 +2854,6 @@
     <summary type="html">&lt;p&gt;Libya's internationally recognised Prime Minister, Abdullah al-Thinni, has issued a plea for Western military intervention against Islamic State.&lt;/p&gt;</summary>
     <dc:date>2015-02-16T19:58:15Z</dc:date>
     <media:content url="http://www.theage.com.au/content/dam/images/1/3/g/k/a/k/image.related.articleLeadwide.620x349.13gk70.png/1424119819185.jpg" />
-  </entry>
-  <entry>
-    <title>A history of the Islamic State group's atrocities, gains</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11403117&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-16T17:25:11Z</updated>
-    <published>2015-02-16T17:25:11Z</published>
-    <summary type="html">&lt;p&gt;Aug. 8 " The U.S. begins targeting the Islamic State group with airstrikes, citing the humanitarian plight of Iraq's minorities, like the Yazidi.&lt;/p&gt;</summary>
-    <dc:date>2015-02-16T17:25:11Z</dc:date>
   </entry>
   <entry>
     <title>A history of the Islamic State group's atrocities, gains</title>

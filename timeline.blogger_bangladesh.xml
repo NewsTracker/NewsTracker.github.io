@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blogger_bangladesh.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bangladesh police say blogger hacked to death in capital</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/30/bangladesh-police-say-blogger-hacked-to-death-in/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T08:45:01Z</updated>
+    <published>2015-03-30T08:45:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-30T08:45:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Another blogger hacked to death in Bangladesh, police say</title>
     <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/asia/bangladesh/11503442/Another-blogger-hacked-to-death-in-Bangladesh-police-say.html" />
     <author>
