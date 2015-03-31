@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Patriots owner: Aaron Hernandez told me he was innocent (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/aaron-hernandez-trial-resumes-another-juror-note-132216562--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T17:05:14Z</updated>
+    <published>2015-03-31T17:05:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-31T17:05:14Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Report: Tiger Woods' plane seen at Augusta (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/report-tiger-woods-plane-seen-augusta-162615027--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T16:26:15Z</updated>
+    <published>2015-03-31T16:26:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-31T16:26:15Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/.v0KJFan3YjEw65v2Ud9pQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503251555573246097" />
+  </entry>
+  <entry>
+    <title>Tennessee hires former Texas coach Rick Barnes (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-vols-agree-hire-former-texas-coach-143552485--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T16:25:11Z</updated>
+    <published>2015-03-31T16:25:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-31T16:25:11Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/8DSSoLtirkx3_4Ib6wMiKg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503310923338194087" />
+  </entry>
+  <entry>
     <title>DeRozan scores 42, Raptors beat Rockets 99-96 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/derozan-scores-42-raptors-beat-rockets-99-96-022512018--nba.html" />
     <author>

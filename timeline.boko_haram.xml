@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mass grave found in recaptured Nigerian town</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/03/mass-grave-recaptured-nigerian-town-150320212259942.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T04:43:32Z</updated>
+    <published>2015-03-21T04:43:32Z</published>
+    <summary type="html">&lt;p&gt;Chad and Niger launched a vast air and ground offensive against Boko Haram in the area on March 8, quickly taking Damasak from the group.&lt;/p&gt;</summary>
+    <dc:date>2015-03-21T04:43:32Z</dc:date>
+    <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/3/19/0a41e5759cdc474fb057613c1fc5309f_18.jpg" />
+  </entry>
+  <entry>
     <title>Boko Haram attacks Nigerian town, kills 11</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Boko-Haram-attacks-liberated-Nigerian-town-kills-6147093.php" />
     <author>

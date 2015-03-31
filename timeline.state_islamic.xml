@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraq premier: Troops in center of Islamic State-held Tikrit</title>
+    <link rel="alternate" href="http://news.yahoo.com/syrian-media-islamic-state-attacks-government-held-village-100611768.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T18:48:58Z</updated>
+    <published>2015-03-31T18:48:58Z</published>
+    <summary type="html">&lt;p&gt;Extremists from the Islamic State group seized Saddam Hussein's hometown last summer during its lightning advance across northern and western Iraq.&lt;/p&gt;&lt;p&gt;The Iraqi military has struggled to recover from its collapse against the Islamic State group in June, when commanders disappeared in the face of the extremists' advance.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T18:48:58Z</dc:date>
+    <media:content url="https://s.yimg.com/uu/api/res/1.2/HHEvnB5Yo130UgnwP3KpAQ--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/1a19c4b8bdcb65d2affed44a678bbd34" />
+  </entry>
+  <entry>
+    <title>U.S. carries out more air strikes against Islamic State in Iraq and Syria</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/31/us-mideast-crisis-air-strikes-idUSKBN0MR2EP20150331?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T18:30:06Z</updated>
+    <published>2015-03-31T18:30:06Z</published>
+    <summary type="html">&lt;p&gt;Bombers, fighters and attack aircraft hit Islamic State targets near several cities, including Mosul and Tikrit in seven strikes during a 24-hour period, it said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T18:30:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Syrian media: Islamic State attacks government-held village</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/31/syrian-media-islamic-state-attacks-government-held-village" />
     <author>
