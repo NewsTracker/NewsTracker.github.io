@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tikrit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraq PM: Troops Advance Into Center Of ISIS-Held Tikrit</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/03/31/iraq-tikrit-advance_n_6976330.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T13:15:42Z</updated>
+    <published>2015-03-31T13:15:42Z</published>
+    <summary type="html">&lt;p&gt;Abdul-Wahab al-Saadi, the commander of the Salahuddin operation, says his forces fighting in from the west were still 300 meters (325 yards) from the center of Tikrit.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T13:15:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Iraqi forces take large parts of Tikrit from ISIS, prime minister says</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/03/31/iraqi-forces-take-over-large-parts-tikrit-from-isis-leader-says/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T13:03:43Z</updated>
+    <published>2015-03-31T13:03:43Z</published>
+    <summary type="html">&lt;p&gt;An Associated Press reporter embedded with Iraqi security forces saw soldiers surround the iconic presidential palace in Tikrit on Tuesday, as well as surround the provincial government headquarters there.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T13:03:43Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/U.S./876/493/tikrit-033115.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
     <title>AP PHOTOS: Iraqi forces struggle to take back Tikrit</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/AP-PHOTOS-Iraqi-forces-struggle-to-take-back-6167748.php" />
     <author>

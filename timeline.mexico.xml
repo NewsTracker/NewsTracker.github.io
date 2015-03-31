@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico double-transplant patient gets US humanitarian pass</title>
+    <link rel="alternate" href="http://news.yahoo.com/mexico-double-transplant-patient-gets-us-humanitarian-pass-000722575.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T02:40:31Z</updated>
+    <published>2015-03-31T02:40:31Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (AP) - The U.S. Department of Homeland Security gave a 90-day humanitarian pass to a 20-year-old Mexican man seeking a double heart and liver transplant, his mother said Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T02:40:31Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/rN.8tOMy1Pu4K2b8ZJFtLg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/bd71de9f7c24490e720f6a706700bc1c.jpg" />
+  </entry>
+  <entry>
     <title>New Mexico Senate approves two-tiered driver's license bill</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article15470153.html%23storylink=rss" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple CEO Tim Cook is forging an unusual path as a social activist</title>
+    <link rel="alternate" href="http://www.latimes.com/business/la-fi-tim-cook-20150331-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T12:00:00Z</updated>
+    <published>2015-03-31T12:00:00Z</published>
+    <summary type="html">&lt;p&gt;"Apple is open. Open to everyone, regardless of where they come from, what they look like, how they worship or who they love," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T12:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>New Apple TV Is Coming This Summer: BuzzFeed</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/2015/03/20/new-apple-tv-to-arrive-th_n_6910534.html" />
     <author>

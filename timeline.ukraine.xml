@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US forces to hold exercises in Ukraine</title>
+    <link rel="alternate" href="http://news.yahoo.com/us-forces-hold-exercises-ukraine-111714149.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T11:17:14Z</updated>
+    <published>2015-03-31T11:17:14Z</published>
+    <summary type="html">&lt;p&gt;Avakov said the training will begin April 20 at a base in western Ukraine near the Polish border and would involve about 290 American paratroopers and some 900 Ukrainian guardsmen.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T11:17:14Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/zyPPFTDmjsqPaiyADZbfog--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/e7f7cb0f55d13e0e720f6a706700acda.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Probe into Ukraine plane disaster eyes Buk missile launchers</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3018021/Probe-Ukraine-plane-disaster-eyes-Buk-missile-launchers.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

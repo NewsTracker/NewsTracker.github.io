@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Syrian media: Islamic State attacks government-held village</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/31/syrian-media-islamic-state-attacks-government-held-village" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T10:06:04Z</updated>
+    <published>2015-03-31T10:06:04Z</published>
+    <summary type="html">&lt;p&gt;TIKRIT, Iraq (AP) - Iraqi forces battled Islamic State militants Tuesday holed up in downtown Tikrit as the country's prime minister announced security forces had reached the city's center.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T10:06:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State claims responsibility for Tunisia attack</title>
     <link rel="alternate" href="http://news.yahoo.com/tunisian-pm-1-gunman-known-intelligence-ahead-attack-074633389.html" />
     <author>

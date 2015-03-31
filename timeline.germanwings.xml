@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Psychological profiling, doors focus of French Germanwings probe</title>
+    <link rel="alternate" href="http://news.yahoo.com/psychological-profiling-doors-focus-french-germanwings-probe-123513600--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T12:35:13Z</updated>
+    <published>2015-03-31T12:35:13Z</published>
+    <summary type="html">&lt;p&gt;Lufthansa, parent company of Germanwings, has said Lubitz had passed suitability tests and the annual medical check.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T12:35:13Z</dc:date>
+    <media:content url="http://l.yimg.com/a/p/us/news/editorial/d/0c/d0c3eb8ca18907492a4b337b5cec5193.jpeg" />
+  </entry>
+  <entry>
+    <title>France eyes cockpit entry, psychological screening rules after Germanwings crash</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/germanwings-flight-4u9525-france-eyes-cockpit-entry-rules-change-1.3015984?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T11:29:05Z</updated>
+    <published>2015-03-31T11:29:05Z</published>
+    <summary type="html">&lt;p&gt;BEA said it aims to provide a "detailed analysis" of the Germanwings cockpit voice recorder and any other flight data - but it also plans to widen its search to examine issues that could be problematic for all airlines.&lt;/p&gt;&lt;p&gt;Several airlines and the European aviation regulator have already changed procedures after the Germanwings crash, announcing last week that they now recommend having two people in the cockpit at all times.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T11:29:05Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3013675.1427567880!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/andreas-lubitz.jpg" />
+  </entry>
+  <entry>
+    <title>Lufthansa insurers to set aside $300 million for Germanwings crash</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/business/investigators-to-examine-systemic-weaknesses-in-wake-of-germanwings-crash-1.2305258" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T10:03:06Z</updated>
+    <published>2015-03-31T10:03:06Z</published>
+    <summary type="html">&lt;p&gt;Lufthansa -- Germanwings' parent company -- offered immediate aid last week of up to 50,000 euros ($54,250) per passenger to relatives of the victims.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T10:03:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Families of victims of Germanwings plane crash could face up to four months waiting for loved ones remains to be identified </title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3018926/Families-victims-Germanwings-plane-crash-face-four-months-waiting-loved-ones-remains-identified.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T08:18:18Z</updated>
+    <published>2015-03-31T08:18:18Z</published>
+    <summary type="html">&lt;p&gt;The families of victims of the Germanwings plane crash face a wait of up to four months for the remains of their loved ones to be identified.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T08:18:18Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/31/01/271935AE00000578-0-image-a-3_1427762710450.jpg" />
+  </entry>
+  <entry>
     <title>Crash pilot had been treated for suicidal tendencies</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/30/us-france-crash-idUSKBN0MQ1WJ20150330?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
