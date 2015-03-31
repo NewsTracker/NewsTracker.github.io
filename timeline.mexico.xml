@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New Mexico Senate approves two-tiered driver's license bill</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article15470153.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T23:53:06Z</updated>
+    <published>2015-03-20T23:53:06Z</published>
+    <summary type="html">&lt;p&gt;State officials estimate more than 100,000 licenses have been issued since New Mexico became one of the first states in 2003 to offer licenses to immigrants regardless of status.&lt;/p&gt;&lt;p&gt;"This is a proposal that has already failed the House, isn't Real-ID compliant, and would not require secure IDs in New Mexico," Martinez spokesman Enrique Knell said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T23:53:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Gunfight kills 10 after ambush on Mexican police</title>
+    <link rel="alternate" href="http://news.yahoo.com/gunfight-kills-10-ambush-mexican-police-175348899.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T23:25:27Z</updated>
+    <published>2015-03-20T23:25:27Z</published>
+    <summary type="html">&lt;p&gt;More than 100,000 people have been killed in gang-related violence in Mexico over the past eight years.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T23:25:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Pope's drug war riffs offend 2nd biggest Catholic nation</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/03/20/globalpost-pope-francis-mexico/25073539/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T13:29:49Z</updated>
+    <published>2015-03-20T13:29:49Z</published>
+    <summary type="html">&lt;p&gt;For the pope, Mexico had become the reference point for drug war mayhem.&lt;/p&gt;&lt;p&gt;When the Vatican sent a reply that it meant no offense and Mexico's top diplomat said things were "completely settled," the matter seemed to be over.&lt;/p&gt;&lt;p&gt;Until Pope Francis gave a follow-up interview to Mexico's biggest TV network and made an even more provocative comment.&lt;/p&gt;&lt;p&gt;His successor, Pope Benedict XVI, visited Mexico in 2012 and drew more modest crowds before stepping down because of ill health.&lt;/p&gt;&lt;p&gt;Eighty-two percent of Mexico's 120 million people are Catholic, according to the 2010 census, but the country has secular laws, keeping the church out of politics.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T13:29:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
@@ -440,18 +474,6 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>New Mexico Senate approves two-tiered driver's license bill</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article15470153.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T23:53:06Z</updated>
-    <published>2015-03-20T23:53:06Z</published>
-    <summary type="html">&lt;p&gt;State officials estimate more than 100,000 licenses have been issued since New Mexico became one of the first states in 2003 to offer licenses to immigrants regardless of status.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T23:53:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
     <title>Magnitude-5.3 quake shakes central Mexico; some flee into streets</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/magnitude-5-3-quake-shakes-central-mexico-some-flee-into-streets-1.2290443" />
     <author>
@@ -562,17 +584,6 @@
     <published>2015-03-20T15:01:02Z</published>
     <summary type="html" />
     <dc:date>2015-03-20T15:01:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Pope's drug war riffs offend 2nd biggest Catholic nation</title>
-    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/03/20/globalpost-pope-francis-mexico/25073539/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T13:29:49Z</updated>
-    <published>2015-03-20T13:29:49Z</published>
-    <summary type="html">&lt;p&gt;For the pope, Mexico had become the reference point for drug war mayhem.&lt;/p&gt;&lt;p&gt;When the Vatican sent a reply that it meant no offense and Mexico's top diplomat said things were "completely settled," the matter seemed to be over.&lt;/p&gt;&lt;p&gt;Until Pope Francis gave a follow-up interview to Mexico's biggest TV network and made an even more provocative comment.&lt;/p&gt;&lt;p&gt;His successor, Pope Benedict XVI, visited Mexico in 2012 and drew more modest crowds before stepping down because of ill health.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T13:29:49Z</dc:date>
   </entry>
   <entry>
     <title>New Mexico House OKs gambling compact as deadline draws near</title>

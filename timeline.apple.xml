@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New Apple TV Is Coming This Summer: BuzzFeed</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/03/20/new-apple-tv-to-arrive-th_n_6910534.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T17:02:53Z</updated>
+    <published>2015-03-20T17:02:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-20T17:02:53Z</dc:date>
+  </entry>
+  <entry>
     <title>An apple a day might keep the pharmacist away: study</title>
     <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
     <author>
