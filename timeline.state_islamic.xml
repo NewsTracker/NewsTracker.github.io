@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Iraq premier: Troops in center of Islamic State-held Tikrit</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/31/syrian-media-islamic-state-attacks-government-held-village" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T18:48:37Z</updated>
+    <published>2015-03-31T18:48:37Z</published>
+    <summary type="html">&lt;p&gt;Militiamen make up more than two-thirds of the force fighting in Tikrit against the Islamic State group, also known as ISIL or ISIS.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T18:48:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>Iraq premier: Troops in center of Islamic State-held Tikrit</title>
     <link rel="alternate" href="http://news.yahoo.com/syrian-media-islamic-state-attacks-government-held-village-100611768.html" />
     <author>
       <name />

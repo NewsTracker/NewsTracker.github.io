@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Banana peel hits Dave Chappelle on New Mexico stage</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/banana-peel-hits-dave-chappelle-on-new-mexico-stage/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T20:07:25Z</updated>
+    <published>2015-03-31T20:07:25Z</published>
+    <summary type="html">&lt;p&gt;A man tossed a banana peel at Dave Chappelle during a stand-up show, hitting in the comedian in the leg, police in this northern New Mexico city say.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T20:07:25Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico arrests man wanted in massacre of 72 migrants</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11426246&amp;amp;ref=rss" />
     <author>
