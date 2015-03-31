@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US releases military aid to Egypt, cites national security</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article17038397.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T21:38:08Z</updated>
+    <published>2015-03-31T21:38:08Z</published>
+    <summary type="html">&lt;p&gt;White House spokeswoman Bernadette Meehan said the assistance will help address the growth of a group in Egypt, affiliated with Islamic State militants, that has attacked Egyptian soldiers and civilians.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T21:38:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>US releases military aid to Egypt</title>
+    <link rel="alternate" href="http://www.foxnews.com/politics/2015/03/31/us-releases-military-aid-to-egypt-cites-national-security/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T21:28:04Z</updated>
+    <published>2015-03-31T21:28:04Z</published>
+    <summary type="html">&lt;p&gt;The aid comes as Egypt is trying to play a leading role in forming an Arab military alliance that can fight terrorism in the region.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T21:28:04Z</dc:date>
+    <media:content url="http://global.fncstatic.com/static/v/fn2/img/politics/approval-president.png" />
+  </entry>
+  <entry>
+    <title>US releases military aid to Egypt, cites national security</title>
+    <link rel="alternate" href="http://news.yahoo.com/us-releases-military-aid-egypt-cites-national-security-190036072.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T21:17:28Z</updated>
+    <published>2015-03-31T21:17:28Z</published>
+    <summary type="html">&lt;p&gt;"We will continue to engage with Egypt frankly and directly on its political trajectory and to raise human rights and political reform issues at the highest levels," Meehan said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T21:17:28Z</dc:date>
+  </entry>
+  <entry>
     <title>Obama lifts hold on U.S. military aid to Egypt</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3020262/Obama-lifts-hold-U-S-military-aid-Egypt.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
