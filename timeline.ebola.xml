@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Guinea shuts border with Sierra Leone in effort to end Ebola</title>
+    <link rel="alternate" href="http://www.foxnews.com/health/2015/03/30/guinea-shuts-border-with-sierra-leone-in-effort-to-end-ebola/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fhealth+%28Internal+-+Health+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T19:04:11Z</updated>
+    <published>2015-03-30T19:04:11Z</published>
+    <summary type="html">&lt;p&gt;Guinea sent security forces to the border on Friday night in response to reports that Sierra Leoneans were streaming over to avoid a three-day, nationwide shutdown over the weekend to help end Ebola.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T19:04:11Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Health/876/493/ebola_guinea_market_reuters.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
+    <title>Sierra Leone Ebola lockdown exposes hundreds of suspected cases</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3018493/Sierra-Leone-Ebola-lockdown-exposes-hundreds-suspected-cases.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T18:07:09Z</updated>
+    <published>2015-03-30T18:07:09Z</published>
+    <summary type="html">&lt;p&gt;Reports to authorities of sick people increased by 191 percent in Western Area, which includes the capital, during the lockdown compared with the previous weekend, said Obi Sesay of the National Ebola Response Center.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T18:07:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Guinea closes border with Sierra Leone as it ramps up efforts to end Ebola</title>
+    <link rel="alternate" href="http://www.startribune.com/world/298022881.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T16:55:58Z</updated>
+    <published>2015-03-30T16:55:58Z</published>
+    <summary type="html">&lt;p&gt;By contrast, Liberia currently has no Ebola patients, and Sierra Leone has seen a fairly steady decline in cases.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T16:55:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>American who caught Ebola improves to fair condition</title>
+    <link rel="alternate" href="http://news.yahoo.com/american-caught-ebola-improves-fair-condition-152018088.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T15:20:18Z</updated>
+    <published>2015-03-30T15:20:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-30T15:20:18Z</dc:date>
+  </entry>
+  <entry>
     <title>3 West African countries increase fight to end Ebola</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/29/guinea-president-reinforces-emergency-ebola-measures" />
     <author>

@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>DeRozan scores 42, Raptors beat Rockets 99-96 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/derozan-scores-42-raptors-beat-rockets-99-96-022512018--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T03:31:28Z</updated>
+    <published>2015-03-31T03:31:28Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-31T03:31:28Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Cincinnati's Mick Cronin cleared to resume coaching (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/cincinnatis-mick-cronin-cleared-resume-coaching-184832528--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T21:39:43Z</updated>
+    <published>2015-03-30T21:39:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-30T21:39:43Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/YY.k5D1JpGKiZMLnVSxI2w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQzMztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201503301350498262692" />
+  </entry>
+  <entry>
+    <title>Falcons fined, lose draft pick for pumping in fake noise (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/falcons-fined-lose-draft-pick-pumping-fake-noise-172556954--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T17:35:44Z</updated>
+    <published>2015-03-30T17:35:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-30T17:35:44Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/Ow3LA1zHixCfMBRCWtdq6A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/d553f0c2b546ac2382d98bfe6dca9d66" />
+  </entry>
+  <entry>
     <title>Notre Dame beats Baylor, advances to 5th straight Final Four (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/notre-dame-beats-baylor-advances-5th-straight-final-024758306--ncaaw.html" />
     <author>
