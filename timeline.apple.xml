@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liking Apple too much a big problem for fund managers</title>
+    <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/16/22290616.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T16:44:39Z</updated>
+    <published>2015-03-16T16:44:39Z</published>
+    <summary type="html">&lt;p&gt;Mark Mulholland, whose Matthew 25 fund is classified as a non-diversified fund, has 15.3% of his portfolio's assets in Apple.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T16:44:39Z</dc:date>
+    <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201503/2136/1745097732_4131551703001_5e91846569b6d1692fa3e01bcc98c7a6-tmb1.jpg?pubId=1745097732" />
+  </entry>
+  <entry>
     <title>Apple Now Accepting Trade-Ins on Android, BlackBerry, Windows Phones</title>
     <link rel="alternate" href="https://www.yahoo.com/tech/s/apple-trade-ins-open-android-bb-windows-phones-163627956.html?src=rss" />
     <author>
@@ -476,18 +488,6 @@
     <published>2015-03-16T18:28:00Z</published>
     <summary type="html">&lt;p&gt;Apple did not immediately respond to CNBC's request for comment.&lt;/p&gt;</summary>
     <dc:date>2015-03-16T18:28:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Liking Apple too much a big problem for fund managers</title>
-    <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/16/22290616.html?cid=rsstechnologynews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T16:44:39Z</updated>
-    <published>2015-03-16T16:44:39Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-16T16:44:39Z</dc:date>
-    <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201503/2136/1745097732_4131551703001_5e91846569b6d1692fa3e01bcc98c7a6-tmb1.jpg?pubId=1745097732" />
   </entry>
   <entry>
     <title>Liking Apple too much a big problem for fund managers</title>
