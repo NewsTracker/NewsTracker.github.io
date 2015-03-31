@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Death Toll Rises to 14 in Mexico Gas Tanker Explosion</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/death-toll-rises-14-mexico-gas-tanker-explosion-30036228" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T22:36:06Z</updated>
+    <published>2015-03-31T22:36:06Z</published>
+    <summary type="html">&lt;p&gt;Gasoline theft has been a persistent problem in Mexico, but siphoning directly from pipelines has received the most attention.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T22:36:06Z</dc:date>
+  </entry>
+  <entry>
     <title>At least 4 killed in clash between Mexico vigilante groups</title>
     <link rel="alternate" href="http://news.yahoo.com/mexico-arrests-man-wanted-massacre-72-migrants-182015737.html" />
     <author>
