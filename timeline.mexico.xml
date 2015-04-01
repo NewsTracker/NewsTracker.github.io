@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Flames engulf Mexico oil platform in Gulf, killing 4 workers</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-01-LT--Mexico-Oil%20Platform%20Fire/id-94fbf31a08314324bc73fdb12c2474f1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T23:00:35Z</updated>
+    <published>2015-04-01T23:00:35Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (AP) - A huge ball of flames engulfed an oil platform in the Gulf of Mexico on Wednesday, killing four people and sending terrified workers leaping into the sea.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T23:00:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Flames engulf Mexico oil platform in Gulf, killing 4 workers</title>
+    <link rel="alternate" href="http://news.yahoo.com/mexican-oil-rig-burns-off-coast-155233258.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T22:30:19Z</updated>
+    <published>2015-04-01T22:30:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T22:30:19Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/Ql4pf8PbZIncroK2xjPOog--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/6a6d156657eeebe412d128662f8489c81916fce7.jpg.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Mexico oil platform fire kills 4, injures 16</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/mexico-oil-platform-fire-kills-4-injures-16-1.3017761?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T14:41:27Z</updated>
+    <published>2015-04-01T14:41:27Z</published>
+    <summary type="html">&lt;p&gt;Mexico's Energy Security Agency said the fire "is being extinguished."&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T14:41:27Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3018628.1427927909!/fileImage/httpImage/image.bmp_gen/derivatives/original_620/campeche-mexico.bmp" />
+  </entry>
+  <entry>
     <title>Massive fire engulfs Mexican oil rig, 4 dead</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Mexican-oil-rig-burns-off-coast-6172686.php" />
     <author>
