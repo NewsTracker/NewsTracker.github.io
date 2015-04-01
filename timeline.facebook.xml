@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook ?breaks EU laws? tracking all visitors, even non-users ? report</title>
+    <link rel="alternate" href="http://rt.com/news/245769-facebook-spies-eu-laws/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T03:02:18Z</updated>
+    <published>2015-04-01T03:02:18Z</published>
+    <summary type="html">&lt;p&gt;Facebook allegedly "explained in detail" inaccuracies in the earlier draft report after it was published directly to the Belgian DPA.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T03:02:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Gov. Wolf renews case for his agenda in Facebook session</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article16998476.html%23storylink=rss" />
     <author>
@@ -27,7 +38,7 @@
     <media:content url="http://edition.cnn.com/2015/03/31/living/feat-mothers-facebook-apology-movie-theater/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
   </entry>
   <entry>
-    <title>Photo of Myanmar’s reclusive former dictator surfaces on Facebook</title>
+    <title>Photo of Myanmar?s reclusive former dictator surfaces on Facebook</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/27/us-myanmar-dictator-idUSKBN0MN14920150327?feedType=RSS&amp;amp;feedName=lifestyleMolt" />
     <author>
       <name />
@@ -178,7 +189,7 @@
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297605464011_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
