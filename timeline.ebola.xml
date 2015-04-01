@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ebola vaccine tests show it could 'neutralise' virus: Geneva hospital</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3022231/Ebola-vaccine-tests-neutralise-virus-Geneva-hospital.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T22:07:48Z</updated>
+    <published>2015-04-01T22:07:48Z</published>
+    <summary type="html">&lt;p&gt;There is no licensed treatment or vaccine for Ebola, and the World Health Organization last year endorsed rushing potential ones through trials in a bid to stem the epidemic still simmering in west Africa.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T22:07:48Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/01/article-doc-1i1i0-6XTQNmNL4HSK2-981_634x421.jpg" />
+  </entry>
+  <entry>
+    <title>Merck, NewLink Ebola vaccine appears safe, effective in new studies</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3022125/Merck-NewLink-Ebola-vaccine-appears-safe-effective-new-studies.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T22:00:11Z</updated>
+    <published>2015-04-01T22:00:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T22:00:11Z</dc:date>
+  </entry>
+  <entry>
     <title>10 Ebola cases found during Sierra Leone's shutdown</title>
     <link rel="alternate" href="http://www.chron.com/news/medical/article/10-Ebola-cases-found-during-Sierra-Leone-s-6172886.php" />
     <author>
