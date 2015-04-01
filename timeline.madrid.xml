@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.madrid.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Real Madrid defender Pepe sidelined by thigh injury</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/02/real-madrid-defender-pepe-sidelined-thigh-injury" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T20:10:13Z</updated>
+    <published>2015-04-01T20:10:13Z</published>
+    <summary type="html">&lt;p&gt;"Following medical tests carried out on Pepe by the Real Madrid doctors in the Sanitas La Moraleja Hospital, he has been diagnosed with an injury in the vastus internus muscle in his right thigh," Real said on their website.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T20:10:13Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-04-01T190027Z_1_LYNXMPEB3026H_RTROPTP_2_SOCCER-SPAIN.JPG?itok=MIuqvges" />
+  </entry>
+  <entry>
     <title>Real Madrid agree deal to buy Porto defender Danilo</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3020658/Real-Madrid-agree-deal-buy-Porto-defender-Danilo.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Al-Jazeera journalist awaiting trial in Egypt says Canada refuses to give him new passport</title>
+    <link rel="alternate" href="http://www.startribune.com/world/298339091.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T18:40:29Z</updated>
+    <published>2015-04-01T18:40:29Z</published>
+    <summary type="html">&lt;p&gt;Fahmy, who was born in Egypt and is a naturalized Canadian citizen, was freed from jail in February.&lt;/p&gt;&lt;p&gt;He renounced his Egyptian citizenship last year as a condition of any future release from Egypt.&lt;/p&gt;&lt;p&gt;Under his bail conditions, Fahmy must check in with police every day and cannot leave Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T18:40:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt president welcomes return of US military aid</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/egypt-president-welcomes-return-of-us-military-aid/nkjyx/" />
     <author>

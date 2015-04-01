@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Massive fire engulfs Mexican oil rig, 4 dead</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Mexican-oil-rig-burns-off-coast-6172686.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T19:48:27Z</updated>
+    <published>2015-04-01T19:48:27Z</published>
+    <summary type="html">&lt;p&gt;Mexico's worst major spill in the Gulf was in June 1979, when an offshore drilling rig in Mexican waters - the Ixtoc I - blew up, releasing 140 million gallons of oil.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T19:48:27Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/35/44/32/7751353/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Trinity Test site opening to face protest from some who say bomb hurt New Mexico families</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/298353771.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T19:45:38Z</updated>
+    <published>2015-04-01T19:45:38Z</published>
+    <summary type="html">&lt;p&gt;The explosion was felt for miles in the remote area of southern New Mexico where an estimated 19,000 people lived.&lt;/p&gt;&lt;p&gt;It took days for the radioactive debris to settle over New Mexico's Tularosa Basin.&lt;/p&gt;&lt;p&gt;She wants the federal government to compensate New Mexico families hurt by the test.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T19:45:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>4 dead, 16 injured in Gulf of Mexico oil rig fire</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/world/gulf-mexico-oil-rig-catches-fire-300-workers-evacuated-article-1.2169496" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T18:40:58Z</updated>
+    <published>2015-04-01T18:40:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T18:40:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Business Briefing: Interest in Gulf of Mexico Wanes With Oil Prices</title>
+    <link rel="alternate" href="http://www.nytimes.com/2015/03/19/business/interest-in-gulf-of-mexico-wanes-with-oil-prices.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T00:23:23Z</updated>
+    <published>2015-03-19T00:23:23Z</published>
+    <summary type="html">&lt;p&gt;Only 195 bids were placed Wednesday for leases in an area comprising 41 million acres in the central parts of the Gulf of Mexico off the coasts of Louisiana, Mississippi and Alabama.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T00:23:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexican oil rig burns off coast; 300 workers evacuated</title>
     <link rel="alternate" href="http://www.startribune.com/world/298320471.html" />
     <author>

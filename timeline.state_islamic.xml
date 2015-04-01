@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraq hails victory over Islamic State extremists in Tikrit</title>
+    <link rel="alternate" href="http://news.yahoo.com/iraqi-minister-says-tikrit-recaptured-within-hours-084541123.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T19:13:03Z</updated>
+    <published>2015-04-01T19:13:03Z</published>
+    <summary type="html">&lt;p&gt;Across the border in Syria, however, Islamic State fighters made their deepest foray yet into the capital of Damascus by infiltrating a Palestinian refugee camp, according to opposition activists and Palestinian officials.&lt;/p&gt;&lt;p&gt;In the fighting in Syria, where Islamic State militants control large parts of the north, the extremists entered the Palestinian refugee camp in the capital of Damascus from the nearby Hajar Aswad neighborhood.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T19:13:03Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/jGiA_Es7yyWr8gd3W7.zRg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/436dfbc6a7e46d0e720f6a706700a181.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Iraq declares victory over Islamic State group in Tikrit</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3021111/Iraqi-minister-says-Tikrit-recaptured-hours.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
