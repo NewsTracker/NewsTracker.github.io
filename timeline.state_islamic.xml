@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraqi forces drive Islamic State out of central Tikrit: PM</title>
+    <link rel="alternate" href="http://news.yahoo.com/iraqi-forces-seize-government-headquarters-battle-tikrit-124454581.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T22:50:12Z</updated>
+    <published>2015-03-31T22:50:12Z</published>
+    <summary type="html">&lt;p&gt;Hundreds of insurgents ready to fight to the death are still holed up in Salahuddin province's capital city and at least three neighborhoods remain under Islamic State control, along with a palace complex in the city's north.&lt;/p&gt;&lt;p&gt;The U.S. Defense Department said it could confirm Iraqi security forces' "advancement into Tikrit to liberate the city center as well as other parts of the city" from Islamic State.&lt;/p&gt;&lt;p&gt;In their push from southern Tikrit, security forces and paramilitary fighters retook the governor's headquarters and the main hospital, which had been occupied by Islamic State.&lt;/p&gt;&lt;p&gt;Reuters journalists traveling with the police passed houses scarred by bullets, mortars and rockets as well as five or six corpses that security officers said were Islamic State fighters, adding that they might be rigged with explosives.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T22:50:12Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/CDCxMYS9T_7KIGzxScYZog--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-03-31T225012Z_2_LYNXMPEB2U0R6_RTROPTP_2_MIDEST-CRISIS-IRAQ-TIKRIT-GAINS.JPG" />
+  </entry>
+  <entry>
     <title>Iraq premier: Troops in center of Islamic State-held Tikrit</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/31/syrian-media-islamic-state-attacks-government-held-village" />
     <author>

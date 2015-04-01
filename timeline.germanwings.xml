@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings plane crash: passenger video 'found'</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/germanwings-plane-crash-passenger-video-found-20150401-1mchpk.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T00:14:15Z</updated>
+    <published>2015-04-01T00:14:15Z</published>
+    <summary type="html">&lt;p&gt;London: A video of the last moments on the doomed Germanwings plane has been found on a mobile phone memory card at the crash site in the French Alps, according to reports.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T00:14:15Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/a/1/0/n/image.related.articleLeadwide.620x349.1mchpk.png/1427847243232.jpg" />
+  </entry>
+  <entry>
     <title>Germanwings co-pilot Andreas Lubitz admitted depression</title>
     <link rel="alternate" href="http://www.smh.com.au/world/germanwings-copilot-andreas-lubitz-admitted-depression-20150331-1mce9i.html" />
     <author>

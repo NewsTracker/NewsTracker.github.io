@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Capitals LW Alex Ovechkin reaches 50 goals for 6th time (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/capitals-lw-alex-ovechkin-reaches-50-goals-6th-234448533--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T00:03:48Z</updated>
+    <published>2015-04-01T00:03:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T00:03:48Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/teP_QCOUiuzH_D33Ah5y4w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQzMjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201503311853679995025" />
+  </entry>
+  <entry>
     <title>Patriots owner: Aaron Hernandez told me he was innocent (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/aaron-hernandez-trial-resumes-another-juror-note-132216562--nfl.html" />
     <author>
