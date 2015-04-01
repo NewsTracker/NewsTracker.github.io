@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US lifts arms embargo on Egypt</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/04/lifts-arms-embargo-egypt-150401003510492.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T04:28:50Z</updated>
+    <published>2015-04-01T04:28:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T04:28:50Z</dc:date>
+    <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2015/4/1/2c509786bd0f4509a8bdf9c83a97bf53_18.jpg" />
+  </entry>
+  <entry>
     <title>Report: Egypt, Nigeria Led World in Death Sentences in 2014</title>
     <link rel="alternate" href="http://abcnews.go.com/US/wireStory/report-egypt-nigeria-led-world-death-sentences-2014-30037756" />
     <author>
