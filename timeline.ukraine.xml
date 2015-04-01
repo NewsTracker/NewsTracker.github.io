@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rebels in eastern Ukraine pay pensions in Russian rubles</title>
+    <link rel="alternate" href="http://news.yahoo.com/rebels-eastern-ukraine-pay-pension-russian-rubles-142655745.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T15:32:16Z</updated>
+    <published>2015-04-01T15:32:16Z</published>
+    <summary type="html">&lt;p&gt;A separatist insurgency flared up in eastern Ukraine last April following Russia's annexation of Ukraine's Crimean Peninsula.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T15:32:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Rebels in eastern Ukraine pay pensions in Russian rubles</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/01/rebels-in-eastern-ukraine-pay-pension-in-russian-rubles" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T15:32:02Z</updated>
+    <published>2015-04-01T15:32:02Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's move in November to halt pensions and other social payments to the rebel-controlled territories in the east has hurt the region hard.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T15:32:02Z</dc:date>
+  </entry>
+  <entry>
     <title>US forces to hold exercises in Ukraine</title>
     <link rel="alternate" href="http://news.yahoo.com/us-forces-hold-exercises-ukraine-111714149.html" />
     <author>

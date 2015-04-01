@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: nemtsov</title>
-  <link rel="alternate" href="http://newstracker.github.io/timeline.nemtsov.html" />
+  <link rel="alternate" href="http://newstracker.github.io/timeline.nemtsov.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Suspect charged with killing Putin foe tells court he was beaten, pressured to confess</title>
+    <link rel="alternate" href="http://www.startribune.com/world/298300711.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T14:45:18Z</updated>
+    <published>2015-04-01T14:45:18Z</published>
+    <summary type="html">&lt;p&gt;Many of Nemtsov's allies and colleagues are skeptical about the Chechen theory, arguing that Nemtsov's death in a tightly secured area near the Kremlin wouldn't have been possible without official involvement.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T14:45:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nemtsov Suspects Tells Court He Was Pressured to Confess</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nemtsov-suspects-tells-court-pressured-confess-30044365" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T14:43:08Z</updated>
+    <published>2015-04-01T14:43:08Z</published>
+    <summary type="html">&lt;p&gt;Dadaev's lawyer, Ivan Gerasimov, said after the hearing that his client didn't even know who Nemtsov was before he was arrested.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T14:43:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nemtsov suspects tells court he was pressured to confess</title>
+    <link rel="alternate" href="http://news.yahoo.com/nemtsov-suspects-tells-court-pressured-confess-133823830.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T14:42:26Z</updated>
+    <published>2015-04-01T14:42:26Z</published>
+    <summary type="html">&lt;p&gt;Five people have been detained in connection with Nemtsov's shooting on Feb. 27.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T14:42:26Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/.tYy5TqEq7Q84jmtV9HmIw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/f8ae03f602ae0b0e720f6a706700ae39.jpg" />
+  </entry>
   <entry>
     <title>Mother of 2 suspects in Nemtsov killing defends her sons</title>
     <link rel="alternate" href="http://news.yahoo.com/mother-2-suspects-nemtsov-killing-defends-her-sons-100552093.html" />

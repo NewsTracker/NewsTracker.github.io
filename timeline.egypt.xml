@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt president welcomes return of US military aid</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/egypt-president-welcomes-return-of-us-military-aid/nkjyx/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T10:23:51Z</updated>
+    <published>2015-04-01T10:23:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T10:23:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt, Nigeria led world in reported death sentences last year: report</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/egypt-nigeria-led-world-in-reported-death-sentences-last-year-report-1.2306931" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexican oil rig burns off coast; 300 workers evacuated</title>
+    <link rel="alternate" href="http://www.startribune.com/world/298320471.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T15:55:40Z</updated>
+    <published>2015-04-01T15:55:40Z</published>
+    <summary type="html">&lt;p&gt;According to Pemex's official Twitter account, the platform, called Abkatun Permanente, caught fire early Wednesday in Campeche Sound in the Gulf of Mexico.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T15:55:40Z</dc:date>
+  </entry>
+  <entry>
     <title>Some parents of missing Mexico youths ask help of gang boss</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3020792/Some-parents-missing-Mexico-youths-ask-help-gang-boss.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

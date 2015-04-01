@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigeria will 'spare no effort' against Boko Haram</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0401/691430-nigeria/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T14:44:30Z</updated>
+    <published>2015-04-01T14:44:30Z</published>
+    <summary type="html">&lt;p&gt;"Boko Haram will soon know the strength of our collective will. We should spare no effort," he said in his first formal speech since winning the election.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T14:44:30Z</dc:date>
+    <media:content url="http://img.rasset.ie/000a5eb8-642.jpg" />
+  </entry>
+  <entry>
+    <title>UN rights chief: Boko Haram fighters murdered captive women</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/01/un-rights-chief-boko-haram-fighters-murdered-captive-women" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T09:01:08Z</updated>
+    <published>2015-04-01T09:01:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T09:01:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Niger: Troops prevent Boko Haram attack, destroy base</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/31/niger-troops-prevent-boko-haram-attack-destroy-base" />
     <author>
