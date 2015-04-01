@@ -4,7 +4,19 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Facebook ?breaks EU laws? tracking all visitors, even non-users ? report</title>
+    <title>Facebook apology gripping the world</title>
+    <link rel="alternate" href="http://www.news.com.au/technology/online/a-mothers-public-apology-for-her-daughters-bad-behaviour-towards-a-stranger-at-the-cinemas-goes-viral/story-fnjwnhzf-1227287229330?from=news.com.au_rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T02:23:00Z</updated>
+    <published>2015-04-01T02:23:00Z</published>
+    <summary type="html">&lt;p&gt;Mum Kyesha Smith Wood has been called a great mum after she posted a Facebook apology to a cinema patron on behalf of her daughters.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T02:23:00Z</dc:date>
+    <media:content url="http://resources2.news.com.au/images/2015/04/01/1227287/229222-de6e598c-d7f5-11e4-91d8-f0bc1d307f16.jpg" />
+  </entry>
+  <entry>
+    <title>Facebook ‘breaks EU laws’ tracking all visitors, even non-users – report</title>
     <link rel="alternate" href="http://rt.com/news/245769-facebook-spies-eu-laws/" />
     <author>
       <name />
@@ -38,7 +50,7 @@
     <media:content url="http://edition.cnn.com/2015/03/31/living/feat-mothers-facebook-apology-movie-theater/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
   </entry>
   <entry>
-    <title>Photo of Myanmar?s reclusive former dictator surfaces on Facebook</title>
+    <title>Photo of Myanmar’s reclusive former dictator surfaces on Facebook</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/27/us-myanmar-dictator-idUSKBN0MN14920150327?feedType=RSS&amp;amp;feedName=lifestyleMolt" />
     <author>
       <name />
@@ -189,7 +201,7 @@
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297605464011_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
+    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
