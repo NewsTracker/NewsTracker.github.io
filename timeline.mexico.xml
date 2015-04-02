@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>0-Pemex oil platform fire kills 4 in Gulf of Mexico, 302 evacuated</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3021630/Mexicos-Pemex-fights-fire-oil-platform-300-workers-evacuated.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T03:37:48Z</updated>
+    <published>2015-04-02T03:37:48Z</published>
+    <summary type="html">&lt;p&gt;Pemex has had a number of accidents in recent years and the latest one comes as Mexico seeks to lure private investors to revive its flagging oil industry.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T03:37:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Pemex oil platform fire kills four in Gulf of Mexico, 302 evacuated</title>
+    <link rel="alternate" href="http://news.yahoo.com/oil-platform-fire-kills-four-gulf-mexico-302-000852717.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T02:40:04Z</updated>
+    <published>2015-04-02T02:40:04Z</published>
+    <summary type="html">&lt;p&gt;Last year, Mexico finalized a reform to end Pemex's 75-year-old oil and gas monopoly, but expectations of a boom in private investment have been tempered by the plunge in global crude prices.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T02:40:04Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/Ql4pf8PbZIncroK2xjPOog--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/6a6d156657eeebe412d128662f8489c81916fce7.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Oil platform fire kills 4 in Gulf of Mexico, 302 evacuated</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3021630/Mexicos-Pemex-fights-fire-oil-platform-300-workers-evacuated.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
