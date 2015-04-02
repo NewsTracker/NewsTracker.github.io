@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico says oil spill avoided after deadly offshore blaze</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article17186105.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T05:26:45Z</updated>
+    <published>2015-04-02T05:26:45Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-02T05:26:45Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Oil spill avoided after deadly blaze on offshore platform, Mexico says</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/mexico-oil-platform-fire-did-not-result-in-spill-company-says-1.3018870?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T05:02:47Z</updated>
+    <published>2015-04-02T05:02:47Z</published>
+    <summary type="html">&lt;p&gt;A huge blaze twisted and blackened an oil platform in the Gulf of Mexico, but the state-run Pemex oil company said it managed to avert any significant oil spill.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T05:02:47Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3018875.1427950649!/cpImage/httpImage/image.jpg_gen/derivatives/original_300/mexico-oil-platform-fire.jpg" />
+  </entry>
+  <entry>
     <title>0-Pemex oil platform fire kills 4 in Gulf of Mexico, 302 evacuated</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3021630/Mexicos-Pemex-fights-fire-oil-platform-300-workers-evacuated.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

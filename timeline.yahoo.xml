@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Paul scores 41, Clippers rally to beat Blazers 126-122 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/paul-scores-41-clippers-rally-beat-blazers-126-045609977--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T05:30:03Z</updated>
+    <published>2015-04-02T05:30:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-02T05:30:03Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/7q_myg4ocqPLi5zWwNzxTQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504012159791697512" />
+  </entry>
+  <entry>
     <title>Kansas freshman Kelly Oubre Jr headed for NBA draft (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/kansas-freshman-kelly-oubre-jr-headed-nba-draft-193701182--ncaab.html" />
     <author>
