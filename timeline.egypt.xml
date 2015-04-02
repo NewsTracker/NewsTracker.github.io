@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Militant attacks kill 10 soldiers in Egypt</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/militant-attacks-kill-10-soldiers-in-egypt-1.2308819" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T06:53:29Z</updated>
+    <published>2015-04-02T06:53:29Z</published>
+    <summary type="html">&lt;p&gt;The two attacks, which also wounded 11 soldiers and several civilians, come as Egypt battles a growing insurgency in the northern Sinai, which borders Israel and the Gaza Strip.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T06:53:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Al-Jazeera journalist awaiting trial in Egypt says Canada refuses to give him new passport</title>
     <link rel="alternate" href="http://www.startribune.com/world/298339091.html" />
     <author>

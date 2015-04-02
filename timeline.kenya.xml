@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gunmen attack university in eastern Kenya, 2 dead: Police</title>
+    <link rel="alternate" href="http://ibnlive.in.com/news/gunmen-attack-university-in-eastern-kenya-2-dead-police/537523-2.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T06:47:33Z</updated>
+    <published>2015-04-02T06:47:33Z</published>
+    <summary type="html">&lt;p&gt;Police and military surrounded the buildings and were trying to secure the area in eastern Kenya, police officer Musa Yego said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T06:47:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gunmen attack Kenya university in 'fierce shootout'</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/world/gunmen-attack-kenya-university-fierce-shootout-article-1.2170720?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T06:39:09Z</updated>
+    <published>2015-04-02T06:39:09Z</published>
+    <summary type="html">&lt;p&gt;Kenya's National Police Service said in a written statement that armed attackers forced their way onto the campus by shooting at guards, triggering a "fierce shootout" with police guarding student hostels.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T06:39:09Z</dc:date>
+  </entry>
+  <entry>
     <title>Masked gunmen storm Kenya university</title>
     <link rel="alternate" href="http://www.smh.com.au/world/masked-gunmen-storm-kenya-university-20150402-1mdpbt.html" />
     <author>

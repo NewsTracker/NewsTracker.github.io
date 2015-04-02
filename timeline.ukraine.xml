@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine says signs deal to buy Russian gas at lower price</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3022621/Ukraine-says-signs-deal-buy-Russian-gas-lower-price.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T07:07:33Z</updated>
+    <published>2015-04-02T07:07:33Z</published>
+    <summary type="html">&lt;p&gt;Russia had already said it would extend a gas price discount for Ukraine into the second quarter, though Russian President Vladimir Putin was quoted as saying that any further decisions would be taken in three months and depend on the price of oil.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T07:07:33Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/01/14/2732AABA00000578-0-image-m-83_1427895323124.jpg" />
+  </entry>
+  <entry>
+    <title>UPDATE 1-Ukraine says signs deal to buy Russian gas at lower price</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/02/ukraine-crisis-gas-idUSL6N0WZ06D20150402?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T06:08:33Z</updated>
+    <published>2015-04-02T06:08:33Z</published>
+    <summary type="html">&lt;p&gt;Previous gas disputes between Ukraine and Russia have affected European Union markets, where Gazprom covers a third of gas demand.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T06:08:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine signs new three-month deal to buy Russian gas: energy ministry</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/ukraine-signs-three-month-deal-045026517.html" />
     <author>
