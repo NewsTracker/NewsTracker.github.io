@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Patient evaluated for Ebola at Colorado hospital after seeing symptoms</title>
+    <link rel="alternate" href="http://news.yahoo.com/patient-evaluated-ebola-colorado-hospital-seeing-symptoms-091648207.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T09:31:27Z</updated>
+    <published>2015-04-02T09:31:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-02T09:31:27Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/EQCS43bNVv6lKscDqhmhyg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_ZA/News/Reuters/2015-04-02T060704Z_1007970001_LYNXMPEB3107Y_RTROPTP_2_OZATP-UK-HEALTH-EBOLA-LEONE.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>Guinea trial begins for suspected killers of Ebola workers</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11421932&amp;amp;ref=rss" />
     <author>

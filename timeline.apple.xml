@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>EU regulators probe Apple's music streaming plans in Europe: FT</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/eu-regulators-probe-apples-music-093106544.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T09:31:06Z</updated>
+    <published>2015-04-02T09:31:06Z</published>
+    <summary type="html">&lt;p&gt;The commission has sought details from several music labels and digital streaming companies on their agreements with Apple, as the iPhone maker gears up to launch its own music streaming service this summer, the report said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T09:31:06Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/YiO6AcZXZrsJ0.2a0P7A8Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-04-02T093106Z_1_LYNXMPEB310DS_RTROPTP_3_APPLE-ATTACK_original.jpg" />
+  </entry>
+  <entry>
+    <title>Snowden: CIA tried to hack Apple devices for nearly a decade</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/10/apple-phones.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T13:48:00Z</updated>
+    <published>2015-03-10T13:48:00Z</published>
+    <summary type="html">&lt;p&gt;Efforts to break into Apple products by government security researchers started as early as 2006, a year before Apple introduced its first iPhone and continued through the launch of the iPad in 2010 and beyond, The Intercept said.&lt;/p&gt;&lt;p&gt;Last September, Apple strengthened encryption methods for data stored on iPhones, saying the changes meant the company no longer had any way to extract customer data on the devices, even if a government ordered it to with a search warrant.&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T13:48:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Liking Apple too much a big problem for fund managers</title>
     <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/16/22290616.html?cid=rsstechnologynews" />
     <author>
@@ -546,17 +569,6 @@
     <published>2015-03-10T14:08:13Z</published>
     <summary type="html" />
     <dc:date>2015-03-10T14:08:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Snowden: CIA tried to hack Apple devices for nearly a decade</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/10/apple-phones.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-10T13:48:00Z</updated>
-    <published>2015-03-10T13:48:00Z</published>
-    <summary type="html">&lt;p&gt;Efforts to break into Apple products by government security researchers started as early as 2006, a year before Apple introduced its first iPhone and continued through the launch of the iPad in 2010 and beyond, The Intercept said.&lt;/p&gt;&lt;p&gt;Last September, Apple strengthened encryption methods for data stored on iPhones, saying the changes meant the company no longer had any way to extract customer data on the devices, even if a government ordered it to with a search warrant.&lt;/p&gt;</summary>
-    <dc:date>2015-03-10T13:48:00Z</dc:date>
   </entry>
   <entry>
     <title>CIA allegedly sought to hack Apple iPhones from earliest days</title>

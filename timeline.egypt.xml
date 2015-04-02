@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gunmen kill 15 soldiers, two civilians in Egypt's Sinai</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3022652/Gunmen-kill-seven-soldiers-Egypts-Sinai-security-sources.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T10:01:42Z</updated>
+    <published>2015-04-02T10:01:42Z</published>
+    <summary type="html">&lt;p&gt;Egypt is gradually recovering from years of political turmoil following the ouster of autocrat Hosni Mubarak in 2011 and foreign investors are starting to return.&lt;/p&gt;&lt;p&gt;In January, Islamic State's Egypt wing, Sinai Province, claimed responsibility for a series of attacks that killed at least 30 people.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T10:01:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Series of deadly attacks in Egypt's Sinai Peninsula</title>
+    <link rel="alternate" href="http://www.dw.de/series-of-deadly-attacks-in-egypts-sinai-peninsula/a-18357743?maca=en-rss-en-world-4025-rdf" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T08:46:00Z</updated>
+    <published>2015-04-02T08:46:00Z</published>
+    <summary type="html">&lt;p&gt;Gunmen opened fire on the soldiers at security checkpoints in Sheikh Zuweid and Rafah, the crossing point between Egypt and the Gaza Strip.&lt;/p&gt;&lt;p&gt;This insurgency has spread to other parts of Egypt, though attacks in bigger cities and towns are usually far less dramatic.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T08:46:00Z</dc:date>
+    <media:content url="http://www.dw.de/image/0,,18357638_303,00.jpg" />
+  </entry>
+  <entry>
     <title>Militant attacks kill 7 soldiers in Egypt's Sinai</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3022708/Militant-attacks-kill-7-soldiers-Egypts-Sinai.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

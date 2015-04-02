@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gunmen attack university in northeastern Kenya</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-02-AF--Kenya-University%20Attack/id-5d4d4ed5d53249919a7cbf85ac91976e" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T09:56:28Z</updated>
+    <published>2015-04-02T09:56:28Z</published>
+    <summary type="html">&lt;p&gt;NAIROBI, Kenya (AP) - Gunmen attacked a college campus in northeast Kenya early Thursday, opening fire in dormitories and killing at least 15 people and wounding 29 others, witnesses said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T09:56:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gunmen attack university in northeastern Kenya</title>
+    <link rel="alternate" href="http://news.yahoo.com/police-gunmen-attack-university-eastern-kenya-050041789.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T09:26:14Z</updated>
+    <published>2015-04-02T09:26:14Z</published>
+    <summary type="html">&lt;p&gt;Abass Gulett, head of the Red Cross in Kenya, said fighting was ongoing as the security forces try to retake some university blocks from the gunmen.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T09:26:14Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Gunmen attack university in northeastern Kenya</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Police-Gunmen-attack-university-in-eastern-Kenya-6174037.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T09:26:06Z</updated>
+    <published>2015-04-02T09:26:06Z</published>
+    <summary type="html">&lt;p&gt;Some students without their shirts of the Garissa University College get out of a house where they seek refuge after escaping from an attack by gunmen in Garissa, Kenya, Thursday, April 2, 2015.&lt;/p&gt;&lt;p&gt;Kenya's National Disaster Operations Center said 29 people wounded during the attack have been admitted to a local hospital, four of them in critical condition.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T09:26:06Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/45/14/7754546/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Kenya says 29 people wounded in attack on university, most with gunshot wounds</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11427255&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T09:10:12Z</updated>
+    <published>2015-04-02T09:10:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-02T09:10:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Masked gunmen storm university in Kenya</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/masked-gunmen-storm-university-in-kenya/" />
     <author>
