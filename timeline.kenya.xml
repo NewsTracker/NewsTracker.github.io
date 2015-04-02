@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Police: Gunmen attack university in eastern Kenya</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-02-AF-Kenya-University-Attack/id-1c2875711d87444aa992e3c4fa1ef9b5" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T05:02:52Z</updated>
+    <published>2015-04-02T05:02:52Z</published>
+    <summary type="html">&lt;p&gt;Kenya's northern and eastern regions, which border Somalia, have been most affected by attacks blamed on al-Qaida-linked al-Shabab Islamists from Somalia.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T05:02:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Police: Masked gunmen attack university in Kenya</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/04/02/kenya-university-attack/70815094/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T04:48:50Z</updated>
+    <published>2015-04-02T04:48:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-02T04:48:50Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya Trip Will Fire Up Obama's Critics</title>
     <link rel="alternate" href="http://www.usnews.com/news/blogs/ken-walshs-washington/2015/03/31/kenya-trip-will-fire-up-obamas-critics" />
     <author>
