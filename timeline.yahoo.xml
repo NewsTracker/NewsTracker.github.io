@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Verlander headed to DL for 1st time in big league career (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/verlander-headed-dl-1st-time-big-league-career-151542151--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T17:31:38Z</updated>
+    <published>2015-04-02T17:31:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-02T17:31:38Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/fJSCF8QMOlGqBmb_ZQMjkg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201503280952355685094" />
+  </entry>
+  <entry>
+    <title>RCR appeals penalty against Newman's team for tire bleeding (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/rcr-appeals-penalty-against-newmans-team-tire-bleeding-171129724--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T17:24:14Z</updated>
+    <published>2015-04-02T17:24:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-02T17:24:14Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/90vL.pT3tixz5ytrg1mukg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201503271433524291254" />
+  </entry>
+  <entry>
     <title>Paul scores 41, Clippers rally to beat Blazers 126-122 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/paul-scores-41-clippers-rally-beat-blazers-126-045609977--nba.html" />
     <author>

@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia, Sierra Leone gain in Ebola crisis; Guinea struggles</title>
+    <link rel="alternate" href="http://news.yahoo.com/liberia-sierra-leone-gain-ebola-crisis-guinea-struggles-113027127.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T17:50:14Z</updated>
+    <published>2015-04-02T17:50:14Z</published>
+    <summary type="html">&lt;p&gt;That's primarily because Ebola has yet to explode in a major Guinean city, as it did in the capitals of Sierra Leone and Liberia, said Dr. Dan Jernigan of the U.S. Centers for Disease Control and Prevention.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T17:50:14Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/d_CwjHmeP_jwL67hWFHi9Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/8d2a8b0ad10a840e720f6a7067004144.jpg" />
+  </entry>
+  <entry>
+    <title>Liberia, Sierra Leone gain in Ebola crisis; Guinea struggles</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/02/liberia-sierra-leone-gain-in-ebola-crisis-guinea-struggles" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T17:49:49Z</updated>
+    <published>2015-04-02T17:49:49Z</published>
+    <summary type="html">&lt;p&gt;The West African nations of Sierra Leone and Liberia both appear to be on a steady path to ending the epidemic - the wild card is Guinea, where Ebola hasn't burned as hot but remains stubbornly entrenched.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T17:49:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Liberia, Sierra Leone gain in Ebola crisis; Guinea struggles</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Liberia-Sierra-Leone-gain-in-Ebola-crisis-6174402.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T17:49:49Z</updated>
+    <published>2015-04-02T17:49:49Z</published>
+    <summary type="html">&lt;p&gt;There are currently 62 patients in treatment in Sierra Leone, and a recent nationwide lockdown indicated there aren't hordes of hidden Ebola cases.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T17:49:49Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/42/64/7744791/9/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Patient evaluated for Ebola at Colorado hospital after seeing symptoms</title>
     <link rel="alternate" href="http://news.yahoo.com/patient-evaluated-ebola-colorado-hospital-seeing-symptoms-091648207.html" />
     <author>
