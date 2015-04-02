@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Germanwings co-pilot lied to doctors about sick leave -Bild</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/02/france-crash-pilot-idUSL6N0WZ0KW20150402?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T06:57:04Z</updated>
+    <published>2015-04-02T06:57:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-02T06:57:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Germanwings co-pilot lied to doctors about sick leave -Bild</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3022635/Germanwings-pilot-lied-doctors-sick-leave-Bild.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

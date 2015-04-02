@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Masked gunmen storm university in Kenya</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/masked-gunmen-storm-university-in-kenya/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T08:08:27Z</updated>
+    <published>2015-04-02T08:08:27Z</published>
+    <summary type="html">&lt;p&gt;NAIROBI, Kenya -- Gunmen attacked Garissa University College early Thursday, shooting indiscriminately in campus hostels, killing at least two people and wounding four others, police said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T08:08:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Gunmen attack university in eastern Kenya, 2 dead: Police</title>
     <link rel="alternate" href="http://ibnlive.in.com/news/gunmen-attack-university-in-eastern-kenya-2-dead-police/537523-2.html" />
     <author>
