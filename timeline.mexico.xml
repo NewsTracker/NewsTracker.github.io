@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Oil platform fire kills 4 in Gulf of Mexico, 302 evacuated</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3021630/Mexicos-Pemex-fights-fire-oil-platform-300-workers-evacuated.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T01:08:15Z</updated>
+    <published>2015-04-02T01:08:15Z</published>
+    <summary type="html">&lt;p&gt;In 2013, at least 37 people were killed by a blast at Pemex's Mexico City headquarters, and another 26 people died in a fire at a Pemex natural gas facility in northern Mexico in September 2012.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T01:08:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Flames engulf Mexico oil platform in Gulf, killing 4 workers</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-01-LT--Mexico-Oil%20Platform%20Fire/id-94fbf31a08314324bc73fdb12c2474f1" />
     <author>
