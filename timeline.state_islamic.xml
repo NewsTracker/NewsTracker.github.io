@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Philadelphia Woman Arrested For Trying To Support ISIS</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/03/philadelphia-arrest-isis_n_7000598.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T17:19:19Z</updated>
+    <published>2015-04-03T17:19:19Z</published>
+    <summary type="html">&lt;p&gt;Turkey is a common transit point for people traveling from Europe to enter Syria and join Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T17:19:19Z</dc:date>
+    <media:content url="http://i.huffpost.com/gadgets/slideshows/406072/slide_406072_5072268_sq50.jpg" />
+  </entry>
+  <entry>
+    <title>Philadelphia woman arrested for trying to support Islamic State</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/03/us-usa-security-islamicstate-idUSKBN0MU17220150403?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T16:28:11Z</updated>
+    <published>2015-04-03T16:28:11Z</published>
+    <summary type="html">&lt;p&gt;Prosecutors allege that Thomas communicated with an Islamic State fighter in Syria, who asked her whether she wanted to take part in what was termed a martyrdom operation, to which she responded: "that would be amazing... a girl can only wish."&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T16:28:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt's Islamic State Branch Claims Deadly Sinai Attack</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypts-islamic-state-branch-claims-deadly-sinai-attack-30082295" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T14:35:51Z</updated>
+    <published>2015-04-03T14:35:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-03T14:35:51Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/logo/AP_logo_update_20130709.gif" />
+  </entry>
+  <entry>
     <title>Iraqi bomb squads comb Tikrit for booby traps, bombs left behind by Islamic State militants</title>
     <link rel="alternate" href="http://www.startribune.com/world/298484741.html" />
     <author>

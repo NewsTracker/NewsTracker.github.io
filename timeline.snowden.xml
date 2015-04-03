@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: snowden</title>
-  <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.html" />
+  <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Britain spied on Argentina over Falklands: Snowden</title>
+    <link rel="alternate" href="http://news.yahoo.com/britain-spied-argentina-over-falklands-snowden-165747819.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T16:57:47Z</updated>
+    <published>2015-04-03T16:57:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-03T16:57:47Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/D94GDOMth_NH2aKRUMeCvA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8915387-1-1-0.jpg.cf.jpg" />
+  </entry>
   <entry>
     <title>ACLU: Snowden proved NSA Internet spying harms Americans</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/human-rights-media-groups-sue-nsa-over-web-surveil/nkSLM/" />

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's Islamic State Branch Claims Deadly Sinai Attack</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypts-islamic-state-branch-claims-deadly-sinai-attack-30082295" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T14:35:51Z</updated>
+    <published>2015-04-03T14:35:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-03T14:35:51Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/logo/AP_logo_update_20130709.gif" />
+  </entry>
+  <entry>
     <title>Militant attacks in Egypt's volatile Sinai kills 15 Egyptian troops, 3 civilians</title>
     <link rel="alternate" href="http://www.startribune.com/world/298416951.html" />
     <author>
