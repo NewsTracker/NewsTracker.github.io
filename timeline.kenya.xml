@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya mourns 148 dead in university attack by militants</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Kenya-attack-survivor-says-gunmen-had-scouted-the-6176801.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T20:58:26Z</updated>
+    <published>2015-04-03T20:58:26Z</published>
+    <summary type="html">&lt;p&gt;Kenyan Muslims demonstrate against Thursday's attack and in solidarity with non-Muslims who were targeted, on a street in Garissa, Kenya Friday, April 3, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T20:58:26Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/35/46/52/7760537/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Kenya attack survivor says gunmen had scouted the campus</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Kenya-attack-survivor-says-gunmen-had-scouted-the-6176801.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T18:42:33Z</updated>
+    <published>2015-04-03T18:42:33Z</published>
+    <summary type="html">&lt;p&gt;A mother, second right, grieves after discovering her son was amongst those killed, as she leaves a center set up for relatives and survivors in Garissa, Kenya, Friday, April 3, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T18:42:33Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/35/46/52/7760537/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Shock, defiance in Kenya after Shebab massacre 148 at university</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3024276/Kenya-not-intimidated-terrorists.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

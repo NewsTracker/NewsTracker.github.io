@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kentucky's John Calipari chosen AP Coach of the Year (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kentuckys-john-calipari-chosen-ap-coach-181827594--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T19:12:26Z</updated>
+    <published>2015-04-03T19:12:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-03T19:12:26Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/zr2zilmvQ1Vcvbi9M3ffLQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504031338490989819" />
+  </entry>
+  <entry>
     <title>Josh Hamilton won't be disciplined under MLB drug program (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/hamilton-wont-disciplined-violating-program-160757365--mlb.html" />
     <author>

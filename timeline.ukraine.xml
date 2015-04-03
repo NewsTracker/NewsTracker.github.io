@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia's role in Ukraine seen shifting to training rebels</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/03/russias-role-in-ukraine-seen-shifting-to-training-rebels" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T09:04:09Z</updated>
+    <published>2015-04-03T09:04:09Z</published>
+    <summary type="html">&lt;p&gt;YENAKIEYEVE, Ukraine (AP) - On a recent spring morning, an important visitor watched Russian-backed rebels conduct infantry maneuvers in eastern Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T09:04:09Z</dc:date>
+  </entry>
+  <entry>
     <title>Russian forces shift from fighting alongside Ukraine rebels to training them</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/04/03/russian-military-forces-shift-from-fighting-alongside-ukraine-rebels-to/" />
     <author>

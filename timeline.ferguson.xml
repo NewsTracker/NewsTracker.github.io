@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>2 Men Accused of Bomb Plot During Ferguson Protests</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/men-accused-bomb-plot-ferguson-protests-30087888" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T18:47:03Z</updated>
+    <published>2015-04-03T18:47:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-03T18:47:03Z</dc:date>
+  </entry>
+  <entry>
     <title>2 St. Louis men accused of plot to obtain bombs for use during Ferguson protests</title>
     <link rel="alternate" href="http://www.foxnews.com/us/2015/04/02/2-st-louis-men-accused-plot-to-obtain-bombs-for-use-during-ferguson-protests/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
     <author>
