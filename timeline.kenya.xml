@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Three days of mourning as Kenya grapples with Garissa massacre</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/05/three-days-mourning-kenya-grapples-garissa-massacre" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T21:01:35Z</updated>
+    <published>2015-04-04T21:01:35Z</published>
+    <summary type="html">&lt;p&gt;Along Kenya's palm-fringed coastline, where several resort towns cater mainly for Western tourists, police have deployed armed officers in major public buildings.&lt;/p&gt;&lt;p&gt;"Officers are everywhere both on the ground and in the air. We have two helicopters that will be patrolling the entire coastal area," Robert Kitur, police chief for Kenya's Indian Ocean coast region, told Reuters.&lt;/p&gt;&lt;p&gt;Garissa Governor Nathif Jama said the region has a number of security "soft spots", including schools and hospitals, and asked for more boots on the ground in his county, which forms part of Kenya's porous 700km border with Somalia.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T21:01:35Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150405001118798836-original.jpg?itok=-TteVTsU" />
+  </entry>
+  <entry>
     <title>Kenya: Extremists vow more attacks; president responds</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article17376776.html%23storylink=rss" />
     <author>
