@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Calipari, Kaminsky take top honors from The Associated Press (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/calipari-kaminsky-top-honors-associated-press-202948164--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T20:29:48Z</updated>
+    <published>2015-04-03T20:29:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-03T20:29:48Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/dsYCBPCMNEnQr2mO2L1Dmw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.campusinsiders.com/7117aa7134064ecba09c9104f9de1a37" />
+  </entry>
+  <entry>
     <title>Kentucky's John Calipari chosen AP Coach of the Year (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/kentuckys-john-calipari-chosen-ap-coach-181827594--ncaab.html" />
     <author>

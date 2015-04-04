@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson releases racist emails from clerk to 2 officers</title>
+    <link rel="alternate" href="http://news.yahoo.com/ferguson-releases-racist-emails-clerk-2-officers-230218810.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T00:58:01Z</updated>
+    <published>2015-04-04T00:58:01Z</published>
+    <summary type="html">&lt;p&gt;(AP) - Racist emails released Friday by the city of Ferguson indicate most were sent by a former city court clerk to two police officers, and there's no indication other city employees were involved.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T00:58:01Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Ferguson releases racist emails from clerk to 2 officers</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/us/article/Ferguson-releases-racist-emails-from-clerk-to-2-6178151.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T23:02:11Z</updated>
+    <published>2015-04-03T23:02:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-03T23:02:11Z</dc:date>
+  </entry>
+  <entry>
     <title>2 Men Accused of Bomb Plot During Ferguson Protests</title>
     <link rel="alternate" href="http://abcnews.go.com/US/wireStory/men-accused-bomb-plot-ferguson-protests-30087888" />
     <author>

@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fleeing Boko Haram kill seven in attack on village in Chad</title>
+    <link rel="alternate" href="http://news.yahoo.com/fleeing-boko-haram-kill-seven-attack-village-chad-234336583.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T23:43:36Z</updated>
+    <published>2015-04-03T23:43:36Z</published>
+    <summary type="html">&lt;p&gt;"Some Boko Haram militants fleeing Malam Fatori towards Lake Chad attacked Maidogo, near Ngouboua, on Thursday, killing seven people," said a Chadian security source.&lt;/p&gt;&lt;p&gt;A military offensive by Nigeria and neighboring countries has succeeded in driving Boko Haram, which has killed thousands in its push to create an Islamic caliphate, from most of the positions it held in northeastern Nigeria.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T23:43:36Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/0X4hRkjwn1PiT0d9FaYwuQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-04-03T213837Z_1_LYNXMPEB320LU_RTROPTP_2_HARVARD-NIGER.JPG.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Niger President: Boko Haram, 'Islam's worst enemy,' will be beaten</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Niger-President-Boko-Haram-Islams-worst-enemy-will-be-beaten/articleshow/46801444.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T23:21:33Z</updated>
+    <published>2015-04-03T23:21:33Z</published>
+    <summary type="html">&lt;p&gt;"There is nothing Islamic about Boko Haram," Issoufou told students and faculty at the Harvard Institute of Politics John F. Kennedy Forum in Cambridge, Massachusetts, during a trip to the United States.&lt;/p&gt;&lt;p&gt;Niger is taking part in a regional operation against Boko Haram in northern Nigeria, a militant group which has launched repeated bloody attacks and abductions in Nigeria and an increasing number of raids into neighboring countries.&lt;/p&gt;&lt;p&gt;Issoufou said Niger's mostly Muslim population broadly supported the alliance, which he said had notched recent successes fighting Boko Haram, and rejected Boko Haram's attempts to carve out its own state in the border region.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T23:21:33Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46801455,width-300,resizemode-4/ana-s.jpg" />
+  </entry>
+  <entry>
+    <title>Displaced fear Boko Haram violence as elections approach</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3008100/Displaced-fear-Boko-Haram-violence-elections-approach.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-23T18:06:44Z</updated>
+    <published>2015-03-23T18:06:44Z</published>
+    <summary type="html">&lt;p&gt;Now, it is feared that internally displaced people (IDP) could be next, after Boko Haram leader Abubakar Shekau vowed to disrupt this Saturday's elections, which the group views as "un-Islamic".&lt;/p&gt;&lt;p&gt;Scores of IDP camps dot Maiduguri following a huge influx of people fleeing towns and villages seized by Boko Haram, doubling the population of the Borno state capital to at least two million.&lt;/p&gt;&lt;p&gt;The discovery backs up previous claims about the danger of Boko Haram infiltrating the camps, including from the Roman Catholic Diocese of Maiduguri last August.&lt;/p&gt;&lt;p&gt;The Kano state government also shut a camp it had opened for people displaced from the town of Mubi in Adamawa, after a Boko Haram insurgent was uncovered.&lt;/p&gt;&lt;p&gt;"One cannot dismiss the political element in the Boko Haram insurgency and the planting of bombs in an IDP camp could be a ploy by politicians averse to holding elections in camps because it doesn't favour their political interest," said Wase.&lt;/p&gt;</summary>
+    <dc:date>2015-03-23T18:06:44Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/23/article-doc-1a9rr-6XFU93QB1HSK2-503_634x421.jpg" />
+  </entry>
+  <entry>
+    <title>Boko Haram, 'Islam's worst enemy,' will be beaten: Niger president</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/03/us-harvard-niger-idUSKBN0MU1H320150403?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T22:27:57Z</updated>
+    <published>2015-04-03T22:27:57Z</published>
+    <summary type="html">&lt;p&gt;"It shows the population of our countries reject terrorism, reject extremism. The population of our countries reject Boko Haram as a Muslim organization," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T22:27:57Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150403&amp;amp;t=2&amp;amp;i=1037797220&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB320M9" />
+  </entry>
+  <entry>
     <title>Boko Haram uses children as human bombs, commits 'heinous crimes': UN</title>
     <link rel="alternate" href="http://www.smh.com.au/world/boko-haram-uses-children-as-human-bombs-commits-heinous-crimes-un-20150402-1mddcp.html" />
     <author>
@@ -311,18 +359,6 @@
     <published>2015-03-24T18:25:48Z</published>
     <summary type="html">&lt;p&gt;Boko Haram's abduction last April of nearly 300 schoolgirls in the region stirred international outrage and drew global attention to the group's six-year insurgency.&lt;/p&gt;</summary>
     <dc:date>2015-03-24T18:25:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Displaced fear Boko Haram violence as elections approach</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3008100/Displaced-fear-Boko-Haram-violence-elections-approach.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-23T18:06:44Z</updated>
-    <published>2015-03-23T18:06:44Z</published>
-    <summary type="html">&lt;p&gt;Now, it is feared that internally displaced people (IDP) could be next, after Boko Haram leader Abubakar Shekau vowed to disrupt this Saturday's elections, which the group views as "un-Islamic".&lt;/p&gt;&lt;p&gt;Scores of IDP camps dot Maiduguri following a huge influx of people fleeing towns and villages seized by Boko Haram, doubling the population of the Borno state capital to at least two million.&lt;/p&gt;&lt;p&gt;The discovery backs up previous claims about the danger of Boko Haram infiltrating the camps, including from the Roman Catholic Diocese of Maiduguri last August.&lt;/p&gt;&lt;p&gt;The Kano state government also shut a camp it had opened for people displaced from the town of Mubi in Adamawa, after a Boko Haram insurgent was uncovered.&lt;/p&gt;&lt;p&gt;"One cannot dismiss the political element in the Boko Haram insurgency and the planting of bombs in an IDP camp could be a ploy by politicians averse to holding elections in camps because it doesn't favour their political interest," said Wase.&lt;/p&gt;</summary>
-    <dc:date>2015-03-23T18:06:44Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/23/article-doc-1a9rr-6XFU93QB1HSK2-503_634x421.jpg" />
   </entry>
   <entry>
     <title>Chadian helicopters bomb Boko Haram on Nigeria-Niger border -Niger army</title>
