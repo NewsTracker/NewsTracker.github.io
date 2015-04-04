@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Swiss launch of Apple Watch hit by patent issue</title>
+    <link rel="alternate" href="http://technology.canoe.ca/News/2015/04/04/22326996.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T18:45:27Z</updated>
+    <published>2015-04-04T18:45:27Z</published>
+    <summary type="html">&lt;p&gt;The Apple Watch, the firm's first new device since Tim Cook became CEO, will be available in stores in nine countries on April 24.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T18:45:27Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/04/04/apple_watch_650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Swiss launch of Apple Watch hit by patent issue</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/04/swiss-launch-of-apple-watch-hit-by-patent-issue" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T18:34:29Z</updated>
+    <published>2015-04-04T18:34:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T18:34:29Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297683538472_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>EU regulators probe Apple's music streaming plans in Europe: FT</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/eu-regulators-probe-apples-music-093106544.html" />
     <author>
