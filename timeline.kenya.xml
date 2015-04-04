@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Somali militants threaten more bloody attacks against Kenya</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/04/us-kenya-security-militants-idUSKBN0MV03Z20150404?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T07:14:36Z</updated>
+    <published>2015-04-04T07:14:36Z</published>
+    <summary type="html">&lt;p&gt;MOGADISHU (Reuters) - Somali militants on Saturday threatened to stage more bloody attacks on Kenya after the group's fighters killed nearly 150 people during an assault on a Kenyan university on Thursday.&lt;/p&gt;&lt;p&gt;In the message, directed at the Kenyan public, the group vowed a long and gruesome war, saying Kenya's cities will "run red with blood".&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T07:14:36Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150404&amp;amp;t=2&amp;amp;i=1037869171&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB3301L" />
+  </entry>
+  <entry>
     <title>Five arrested in connection with Kenya attack</title>
     <link rel="alternate" href="http://www.rte.ie/news/2015/0404/692020-kenya/" />
     <author>

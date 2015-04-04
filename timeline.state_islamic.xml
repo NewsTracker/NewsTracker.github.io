@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>General: 8,500 Islamic State fighters killed in Iraq so far</title>
+    <link rel="alternate" href="http://news.yahoo.com/general-8-500-islamic-state-fighters-killed-iraq-153849879.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T15:38:49Z</updated>
+    <published>2015-03-03T15:38:49Z</published>
+    <summary type="html">&lt;p&gt;Austin, the commander of U.S. Central Command, said the Islamic State, which has controlled key parts of northern and western Iraq since last summer, is no longer capable of seizing and holding new territory.&lt;/p&gt;&lt;p&gt;Earlier on Tuesday, the U.S. general overseeing the military coalition fighting in Iraq told a House panel that the campaign has killed more than 8,500 Islamic State fighters since its bombing campaign began in August.&lt;/p&gt;&lt;p&gt;The general was speaking amid new uncertainty about the direction of the battle against the Islamic State as Iraqi forces, including Iranian-supported Shiite militias, opened a counteroffensive against the Islamic State in the city of Tikrit.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T15:38:49Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/reroPigniebTKgXeonWn.g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/f75788f2fddfb8096f0f6a7067008e28.jpg" />
+  </entry>
+  <entry>
     <title>Iraq struggles with devastation in Tikrit after it was freed from the Islamic State group</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/04/04/iraq-struggles-with-devastation-in-tikrit-after-it-was-freed-from-islamic-state/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
@@ -2458,18 +2470,6 @@
     <published>2015-03-03T15:57:56Z</published>
     <summary type="html">&lt;p&gt;After taking over swathes on Iraq and Syria, Islamic State gained further notoriety by posting a video showing the beheading of American journalist James Foley in August followed by several more similar executions.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T15:57:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>General: 8,500 Islamic State fighters killed in Iraq so far</title>
-    <link rel="alternate" href="http://news.yahoo.com/general-8-500-islamic-state-fighters-killed-iraq-153849879.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T15:38:49Z</updated>
-    <published>2015-03-03T15:38:49Z</published>
-    <summary type="html">&lt;p&gt;Austin, the commander of U.S. Central Command, said the Islamic State, which has controlled key parts of northern and western Iraq since last summer, is no longer capable of seizing and holding new territory.&lt;/p&gt;&lt;p&gt;Earlier on Tuesday, the U.S. general overseeing the military coalition fighting in Iraq told a House panel that the campaign has killed more than 8,500 Islamic State fighters since its bombing campaign began in August.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T15:38:49Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/reroPigniebTKgXeonWn.g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/f75788f2fddfb8096f0f6a7067008e28.jpg" />
   </entry>
   <entry>
     <title>Man arrested in Islamic State plot due in Florida court</title>
