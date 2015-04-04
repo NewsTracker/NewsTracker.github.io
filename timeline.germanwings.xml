@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>France halts search for bodies at Germanwings crash site</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/04/22326861.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T16:56:47Z</updated>
+    <published>2015-04-04T16:56:47Z</published>
+    <summary type="html">&lt;p&gt;Lufthansa is the parent company of the lowcost Germanwings carrier.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T16:56:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>France halts search for bodies at Germanwings crash site</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3025678/France-halts-search-bodies-Germanwings-crash-site.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.one_direction.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>One Direction determined to continue without Zayn Malik</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/04/one-direction-determined-to-continue-without-zayn-malik" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T15:38:53Z</updated>
+    <published>2015-04-04T15:38:53Z</published>
+    <summary type="html">&lt;p&gt;Tomlinson tells British newspaper The Sun, "All four of us are 100% committed to One Direction. We want to thank the fans for being so incredible."&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T15:38:53Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297683496914_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Zayn Malik song is old One Direction demo</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/04/01/zayn-malik-song-is-old-one-direction-demo" />
     <author>
