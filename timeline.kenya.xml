@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Somali militants vow to turn Kenyan cities 'red with blood'</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/04/us-kenya-security-militants-idUSKBN0MV03Z20150404?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T08:57:36Z</updated>
+    <published>2015-04-04T08:57:36Z</published>
+    <summary type="html">&lt;p&gt;Along Kenya's palm-fringed coastline, police have put armed officers in major public buildings.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T08:57:36Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150404&amp;amp;t=2&amp;amp;i=1037869171&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB3301L" />
+  </entry>
+  <entry>
+    <title>Somali militants threaten more attacks against Kenya</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102560557" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T07:45:00Z</updated>
+    <published>2015-04-04T07:45:00Z</published>
+    <summary type="html">&lt;p&gt;The al Qaeda aligned group said the attack was retribution for Kenya's presence in Somalia and mistreatment of Muslims within Kenya.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T07:45:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/04/102560558-kenya_attack.530x298.jpg?v=1428133565" />
+  </entry>
+  <entry>
     <title>Somali militants threaten more bloody attacks against Kenya</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/04/us-kenya-security-militants-idUSKBN0MV03Z20150404?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
