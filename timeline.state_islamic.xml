@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Video: Islamic State group shot, hammered away Iraq's Hatra</title>
+    <link rel="alternate" href="http://news.yahoo.com/video-islamic-state-group-shot-hammered-away-iraqs-081113126.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T11:56:25Z</updated>
+    <published>2015-04-04T11:56:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T11:56:25Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Somali Islamic extremists al-Shabab warn of more attacks in Kenya like Garissa college assault</title>
     <link rel="alternate" href="http://www.startribune.com/world/298659841.html" />
     <author>

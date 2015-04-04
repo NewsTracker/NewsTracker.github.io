@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rights group urges Egypt to halt executions of 6 men</title>
+    <link rel="alternate" href="http://news.yahoo.com/rights-group-urges-egypt-halt-executions-6-men-120110279.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T12:01:10Z</updated>
+    <published>2015-04-04T12:01:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T12:01:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt's Islamic State Branch Claims Deadly Sinai Attack</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypts-islamic-state-branch-claims-deadly-sinai-attack-30082295" />
     <author>
