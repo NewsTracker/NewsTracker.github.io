@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Judge orders Facebook's Mark Zuckerberg to turn over emails</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3025268/Judge-orders-Facebook-Zuckerberg-turn-documents.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T14:02:27Z</updated>
+    <published>2015-04-04T14:02:27Z</published>
+    <summary type="html">&lt;p&gt;A lawyer for Facebook and Zuckerberg did not immediately respond to a request for comment Friday on the judge's order.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T14:02:27Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/04/article-urn:publicid:ap.org:d5488a9ea5e44f6ba6951af774fa15cc-6XWuFsfFaHSK2-101_87x84.jpg" />
+  </entry>
+  <entry>
     <title>Judge orders Facebook and Zuckerberg to turn over documents</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Judge-orders-Facebook-and-Zuckerberg-to-turn-over-6178527.php" />
     <author>
