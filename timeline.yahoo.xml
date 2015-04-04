@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Breanna Stewart and Sue Semrau are AP Player, Coach of Year (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/breanna-stewart-sue-semrau-ap-player-coach-204251751--ncaaw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T22:09:33Z</updated>
+    <published>2015-04-04T22:09:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T22:09:33Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/B.8Q3FKz6R0CjpZwCpV98g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504041600576432730" />
+  </entry>
+  <entry>
+    <title>Foligno's 3 goals help Jackets beat Pens for 9th straight (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/folignos-3-goals-help-jackets-beat-pens-9th-210329108--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T21:59:00Z</updated>
+    <published>2015-04-04T21:59:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T21:59:00Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/MAsIS.51JLmmp6hLdvX8Ow--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-us/video/video.nhlgamehighlights.com/9599fdda5d620050e51546e118b7518a" />
+  </entry>
+  <entry>
     <title>Serena wins 8th Key Biscayne title by beating Suarez Navarro (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/serena-wins-8th-key-biscayne-title-beating-suarez-182200543--ten.html" />
     <author>
