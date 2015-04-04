@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt police raid radio station, detain rights advocate</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egypt-police-raid-radio-station-detain-rights-6179188.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T19:38:53Z</updated>
+    <published>2015-04-04T19:38:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T19:38:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Kerry promotes US investment in Egypt; no new military aid</title>
     <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/13/kerry-promotes-us-investment-in-egypt-no-new-military-aid" />
     <author>

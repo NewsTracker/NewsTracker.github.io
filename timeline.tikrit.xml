@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tikrit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Shiite fighters leave Tikrit</title>
+    <link rel="alternate" href="http://www.dw.de/shiite-fighters-leave-tikrit/a-18361982?maca=en-rss-en-world-4025-rdf" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T21:14:00Z</updated>
+    <published>2015-04-04T21:14:00Z</published>
+    <summary type="html">&lt;p&gt;"The situation now is calm," a police major in Tikrit said, speaking on condition of anonymity.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T21:14:00Z</dc:date>
+    <media:content url="http://www.dw.de/image/0,,18361966_303,00.jpg" />
+  </entry>
+  <entry>
     <title>Shiite Militias Pulled Out Of Tikrit After Looting: Iraqi Officials</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/04/shiite-militias-tikrit-pull-out_n_7004366.html" />
     <author>
