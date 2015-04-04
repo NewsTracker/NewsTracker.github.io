@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson, Missouri, releases racist emails from former officials</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/Ferguson-Missouri-releases-racist-emails-from-former-officials/articleshow/46807045.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T14:35:01Z</updated>
+    <published>2015-04-04T14:35:01Z</published>
+    <summary type="html">&lt;p&gt;The emails, although dating back years before the shooting, were among evidence presented by the Justice Department in a report in March that concluded that racism pervaded the Ferguson Police Department.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T14:35:01Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46807059,width-300,resizemode-4/Ferguson.jpg" />
+  </entry>
+  <entry>
+    <title>Ferguson, Missouri, releases racist emails from former officials</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/04/us-usa-missouri-shooting-idUSKBN0MV0GD20150404?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T14:28:59Z</updated>
+    <published>2015-04-04T14:28:59Z</published>
+    <summary type="html">&lt;p&gt;They were sent and received by Mary Ann Twitty, who was Ferguson's court clerk, as well as former Ferguson police Captain Rick Henke and former police Sergeant William Mudd.&lt;/p&gt;&lt;p&gt;Ferguson Mayor James Knowles condemned the emails when the Justice Department report was released, saying, "These actions taken by these individuals are in no way representative of the employees of the city of Ferguson."&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T14:28:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Ferguson releases racist emails from clerk to 2 officers</title>
     <link rel="alternate" href="http://news.yahoo.com/ferguson-releases-racist-emails-clerk-2-officers-230218810.html" />
     <author>
