@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>NSW health worker undergoes Ebola testing</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-national/nsw-health-worker-cleared-of-ebola-20150404-3th2s.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T03:30:18Z</updated>
+    <published>2015-04-04T03:30:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T03:30:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Liberia, Sierra Leone gain in Ebola crisis; Guinea struggles</title>
     <link rel="alternate" href="http://news.yahoo.com/liberia-sierra-leone-gain-ebola-crisis-guinea-struggles-113027127.html" />
     <author>
