@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Five arrested in connection with Kenya attack</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0404/692020-kenya/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T06:45:44Z</updated>
+    <published>2015-04-04T06:45:44Z</published>
+    <summary type="html">&lt;p&gt;Kenya's biggest-selling Daily Nation newspaper, citing sources, said the death toll would be significantly higher.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T06:45:44Z</dc:date>
+    <media:content url="http://img.rasset.ie/000a63b7-180.jpg" />
+  </entry>
+  <entry>
     <title>Kenya mourns 148 dead in university attack by militants</title>
     <link rel="alternate" href="https://news.yahoo.com/kenya-attack-survivor-says-gunmen-had-scouted-campus-093746289.html" />
     <author>
