@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson releases racist emails cited by Justice Department</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ferguson-releases-racist-emails-cited-by-justice-department-20150405-1mer7m.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T03:18:15Z</updated>
+    <published>2015-04-05T03:18:15Z</published>
+    <summary type="html">&lt;p&gt;Los Angeles: Police and a city official in Ferguson, Missouri, sent racially charged emails comparing minority welfare recipients to dogs and made insensitive comments about Muslims, copies of the emails released by the city show.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T03:18:15Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/4/4/k/b/2/image.related.articleLeadwide.620x349.1mer7m.png/1426395787685.jpg" />
+  </entry>
+  <entry>
     <title>Focus in Ferguson shifts to election of City Council members</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11428060&amp;amp;ref=rss" />
     <author>

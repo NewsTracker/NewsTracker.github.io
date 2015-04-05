@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>First Ebola-infected U.S. nurse plans to sue, says hospital didn't train her properly</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/health/nina-pham-1st-ebola-infected-u-s-nurse-plans-to-sue-hospital-1.2977824?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-01T22:47:42Z</updated>
+    <published>2015-03-01T22:47:42Z</published>
+    <summary type="html">&lt;p&gt;Pham, 26, told the newspaper that chaos hit the Dallas hospital when it admitted Thomas Duncan, the first person diagnosed with Ebola in the United States after he contracted it in Liberia.&lt;/p&gt;</summary>
+    <dc:date>2015-03-01T22:47:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Dallas hospital seeks dismissal of nurse's suit over Ebola</title>
     <link rel="alternate" href="http://news.yahoo.com/dallas-hospital-seeks-dismissal-nurses-suit-over-ebola-015317177.html" />
     <author>

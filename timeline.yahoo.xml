@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kentucky's perfect season ends with 71-64 loss to Wisconsin (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kentuckys-perfect-season-ends-71-64-loss-wisconsin-032206754--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T03:54:35Z</updated>
+    <published>2015-04-05T03:54:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T03:54:35Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/azyGkzPVZ8mIDwyY8UUxfw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504042231810774695" />
+  </entry>
+  <entry>
     <title>AP source: Indians, Kluber closing in on multiyear contract (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-indians-kluber-closing-multiyear-contract-011647016--mlb.html" />
     <author>
