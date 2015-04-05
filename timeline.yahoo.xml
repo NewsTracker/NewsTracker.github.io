@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>LeBron gets triple-double, Cavs win 18th straight at home (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/lebron-gets-triple-double-cavs-win-18th-straight-221804933--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T22:24:23Z</updated>
+    <published>2015-04-05T22:24:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T22:24:23Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/HNKTEMY7XOEPInZOuXxofw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504051639599475924" />
+  </entry>
+  <entry>
     <title>Mason makes 46 saves, Flyers beat Penguins 4-1 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/mason-makes-46-saves-flyers-beat-penguins-4-202221694--nhl.html" />
     <author>
