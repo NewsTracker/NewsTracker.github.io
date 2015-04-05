@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Australian questioned after helping fight Islamic State: report</title>
+    <link rel="alternate" href="http://news.yahoo.com/australian-held-return-fighting-islamic-state-report-060945765.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T07:52:19Z</updated>
+    <published>2015-04-05T07:52:19Z</published>
+    <summary type="html">&lt;p&gt;The Australian government has increasingly been sounding the alarm over radicalised citizens, with about 90 thought to be fighting with the Islamic State group in Iraq and Syria.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T07:52:19Z</dc:date>
+  </entry>
+  <entry>
     <title>U.S. fears Islamic State is making serious inroads in Libya</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/20/us-libya-security-idUSKBN0MG2G520150320?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
