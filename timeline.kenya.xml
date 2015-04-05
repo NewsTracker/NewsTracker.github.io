@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya says son of a government official was among gunmen in Garissa attack</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3026241/After-Islamist-attack-armed-guards-shield-Kenyan-churches.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T12:01:30Z</updated>
+    <published>2015-04-05T12:01:30Z</published>
+    <summary type="html">&lt;p&gt;The Garissa assault has further strained the historically cordial relations between Kenya's Christian and Muslim communities, which have deteriorated due to frequent Islamist attacks on Christian priests and churches.&lt;/p&gt;&lt;p&gt;A dusk-to-dawn curfew is in force along Kenya's 700km border with Somalia and helicopters monitor its palm-fringed coast, popular with Western tourists and the scene of Islamist attacks in the past.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T12:01:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Pope Francis prays for Kenya students, decries persecution</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/pope-francis-prays-for-kenya-students-decries-persecution-20150405-1mex7t.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T11:05:56Z</updated>
+    <published>2015-04-05T11:05:56Z</published>
+    <summary type="html">&lt;p&gt;"May constant prayer rise up from all people of goodwill for those who lost their lives - I think in particular of the young people who were killed last Thursday at Garissa University College in Kenya - for all who have been kidnapped, and for those forced to abandon their homes and their dear ones."&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T11:05:56Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/e/x/9/s/image.related.articleLeadwide.620x349.1mex7t.png/1428230373453.jpg" />
+  </entry>
+  <entry>
     <title>Kenya police: 1 gunman identified in attack that killed 148</title>
     <link rel="alternate" href="http://news.yahoo.com/prayers-fear-mark-easter-services-garissa-kenya-075349803.html" />
     <author>
