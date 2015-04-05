@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mason makes 46 saves, Flyers beat Penguins 4-1 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/mason-makes-46-saves-flyers-beat-penguins-4-202221694--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T20:38:11Z</updated>
+    <published>2015-04-05T20:38:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T20:38:11Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Harden's 41 points helps Houston beat Oklahoma City 115-112 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/hardens-41-points-helps-houston-beat-oklahoma-city-200737091--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T20:14:59Z</updated>
+    <published>2015-04-05T20:14:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T20:14:59Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/DDA.a6N30A6xA.rcBHrwtw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504051347496775562" />
+  </entry>
+  <entry>
+    <title>Familiar faces, star players, veteran coaches in Final Four (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/familiar-faces-star-players-veteran-coaches-final-four-070636528--ncaaw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T07:06:36Z</updated>
+    <published>2015-04-05T07:06:36Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T07:06:36Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/CkwF0.7csJ4XrDiUy9JOhQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQxODtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504041154428552220" />
+  </entry>
+  <entry>
     <title>AP source: MLB's Manfred plans to give DC '18 All-Star Game (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-mlbs-manfred-plans-dc-18-star-164254825--mlb.html" />
     <author>

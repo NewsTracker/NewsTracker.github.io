@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico's Pemex begins to restore production at fire-damaged gulf platform</title>
+    <link rel="alternate" href="http://www.startribune.com/world/298715871.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T20:55:19Z</updated>
+    <published>2015-04-05T20:55:19Z</published>
+    <summary type="html">&lt;p&gt;Hernandez said the Abkatun fire won't affect international confidence in Pemex just as the company is its first rounds of bidding after the country's energy reform, which opened Mexico's oil sector to foreign investment.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T20:55:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico non-violence art features guns with knotted barrels</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article17455550.html%23storylink=rss" />
     <author>
