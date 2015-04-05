@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Militant group al-Shabab threatens more attacks on Kenya</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/militant-group-alshabab-threatens-more-attacks-on-kenya-20150405-1mer42.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T02:46:14Z</updated>
+    <published>2015-04-05T02:46:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T02:46:14Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/e/q/8/e/image.related.articleLeadwide.620x349.1mer42.png/1428201965202.jpg" />
+  </entry>
+  <entry>
     <title>Kenya university death toll seen rising; anger over security failures</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/03/us-kenya-security-college-idUSKBN0MT0CK20150403?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
