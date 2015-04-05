@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Ronaldo scores 5 in Madrid's 9-1 rout of Granada</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/sports/article17441369.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T18:58:06Z</updated>
+    <published>2015-04-05T18:58:06Z</published>
+    <summary type="html">&lt;p&gt;Only Alfredo Di Stefano with 308 goals in 396 games and Raul Gonzalez with 323 in 741 have more goals in Madrid's history.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T18:58:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Ronaldo scores 5 in Madrid's 9-1 rout of Granada</title>
     <link rel="alternate" href="http://news.yahoo.com/ronaldo-scores-5-madrids-9-1-rout-granada-115314975.html" />
     <author>
       <name />
