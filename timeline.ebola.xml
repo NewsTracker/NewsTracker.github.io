@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dallas hospital seeks dismissal of nurse's suit over Ebola</title>
+    <link rel="alternate" href="http://news.yahoo.com/dallas-hospital-seeks-dismissal-nurses-suit-over-ebola-015317177.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T01:53:17Z</updated>
+    <published>2015-04-05T01:53:17Z</published>
+    <summary type="html">&lt;p&gt;"Nina Pham has gone through the unprecedented challenge of being the first nurse to whom the Ebola virus was transmitted while caring for a patient with Ebola in the U.S.," the statement said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T01:53:17Z</dc:date>
+  </entry>
+  <entry>
     <title>Eastern Sierra Leone records first Ebola case in months</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3025957/Eastern-Sierra-Leone-records-Ebola-case-months.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
