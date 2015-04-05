@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya's Easter prayers mark start of official mourning for university attacks</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/apr/05/kenyas-easter-prayers-mark-start-of-official-mourning-for-university-attacks" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T06:01:39Z</updated>
+    <published>2015-04-05T06:01:39Z</published>
+    <summary type="html">&lt;p&gt;Earlier on Saturday, al-Shabaab warned of a "long, gruesome war" unless Kenya withdrew its troops from Somalia, and threatened "another bloodbath".&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T06:01:39Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/4/5/1428213660162/53a48611-4930-4f9b-ae9a-6d8edf967417-300x180.jpeg" />
+  </entry>
+  <entry>
+    <title>Kenyatta says campus attackers 'embedded' in Kenya's Muslim community</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/05/us-kenya-security-militants-idUSKBN0MV03Z20150405?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T00:08:42Z</updated>
+    <published>2015-04-05T00:08:42Z</published>
+    <summary type="html">&lt;p&gt;In a message directed at Kenyans, the al Qaeda aligned group said the raid on Garissa was revenge for Kenya's military presence in Somalia and mistreatment of Muslims within Kenya.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T00:08:42Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150404&amp;amp;i=106371322&amp;amp;w=240&amp;amp;r=106371322-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Militant group al-Shabab threatens more attacks on Kenya</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/militant-group-alshabab-threatens-more-attacks-on-kenya-20150405-1mer42.html" />
     <author>
