@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ronaldo scores 5 goals in Madrid's 9-1 rout of Granada (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/ronaldo-scores-5-goals-madrids-9-1-rout-161021201--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T16:10:21Z</updated>
+    <published>2015-04-05T16:10:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T16:10:21Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/XKpipYUtlu2P_28std2PQw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504050735273195144" />
+  </entry>
+  <entry>
     <title>Diamondbacks send Tomas to minors, release Ross (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/diamondbacks-4-roster-moves-final-spring-game-004218104--mlb.html" />
     <author>

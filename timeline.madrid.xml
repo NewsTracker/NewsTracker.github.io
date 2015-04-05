@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Ronaldo scores 5 in Madrid's 9-1 rout of Granada</title>
+    <link rel="alternate" href="http://news.yahoo.com/ronaldo-scores-5-madrids-9-1-rout-granada-115314975.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T17:01:28Z</updated>
+    <published>2015-04-05T17:01:28Z</published>
+    <summary type="html">&lt;p&gt;Ronaldo's 28th game with three-or-more goals for Madrid increased his career tally with the club to 300 goals in 287 games.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T17:01:28Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/bRD.D1yAELVx78RIqvvU7w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/68fcc6684c4fcb0f720f6a7067007761.jpg" />
+  </entry>
+  <entry>
+    <title>Ronaldo scores 5 in Madrid's 9-1 rout of Granada</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/sports/article17441369.html%23storylink=rss" />
     <author>
       <name />
