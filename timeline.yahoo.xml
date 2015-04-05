@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Spieth holds one-shot lead over Cook at Houston Open (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/spieth-holds-one-shot-lead-over-cook-houston-225223802--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T23:38:51Z</updated>
+    <published>2015-04-04T23:38:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T23:38:51Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/08c4YWzU9vfZT58bYI27RQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504041732631202911" />
+  </entry>
+  <entry>
+    <title>Alex Rodriguez booed, Ks 3 times; Yankees beat Nationals 4-3 (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/alex-rodriguez-booed-ks-3-times-yankees-beat-195758111--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T22:43:35Z</updated>
+    <published>2015-04-04T22:43:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T22:43:35Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/nD0STH1FVIo0R5W.ZvpdMw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504041319479882428" />
+  </entry>
+  <entry>
     <title>Breanna Stewart and Sue Semrau are AP Player, Coach of Year (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/breanna-stewart-sue-semrau-ap-player-coach-204251751--ncaaw.html" />
     <author>
