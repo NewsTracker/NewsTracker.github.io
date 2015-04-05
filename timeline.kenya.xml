@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya police: 1 gunman identified in attack that killed 148</title>
+    <link rel="alternate" href="http://news.yahoo.com/prayers-fear-mark-easter-services-garissa-kenya-075349803.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T10:42:20Z</updated>
+    <published>2015-04-05T10:42:20Z</published>
+    <summary type="html">&lt;p&gt;Somalia's al-Shabab Islamic militants claimed responsibility for the attack on Garissa college Thursday saying it is retribution for Kenya deploying troops to Somalia to fight the extremist rebels.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T10:42:20Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/T2FNuVoSXqW1izyvXps9iA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/5198bb4324c2bb0f720f6a7067005399.jpg" />
+  </entry>
+  <entry>
+    <title>After Islamist attack, armed guards shield Kenyan churches</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/05/us-kenya-security-idUSKBN0MW03H20150405?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T09:35:16Z</updated>
+    <published>2015-04-05T09:35:16Z</published>
+    <summary type="html">&lt;p&gt;In Nairobi's Holy Family Basilica cathedral, nestled between the City Hall and Kenya's parliament, two uniformed police officers armed with AK-47 rifles manned the entrance gate.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T09:35:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya's religions unite in national mourning for massacre victims</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3026171/Kenya-mourns-victims-student-massacre-Easter-prayers.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
