@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Watch: Techbytes: A Guided Tour of the Apple Watch</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/video/techbytes-guided-tour-upcoming-apple-watch-30113734" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T11:24:57Z</updated>
+    <published>2015-04-06T11:24:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T11:24:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Swiss launch of Apple Watch hit by patent issue</title>
     <link rel="alternate" href="http://technology.canoe.ca/News/2015/04/04/22326996.html?cid=rsstechnologynews" />
     <author>
