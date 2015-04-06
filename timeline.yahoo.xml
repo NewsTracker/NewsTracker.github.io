@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Notre Dame edges South Carolina 66-65 in women's Final Four (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/notre-dame-edges-south-carolina-66-65-womens-004533032--ncaaw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T01:05:15Z</updated>
+    <published>2015-04-06T01:05:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T01:05:15Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/u6q2gBENvX8RuAoFQlq3bQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504051943710126484" />
+  </entry>
+  <entry>
+    <title>AP source: Alabama offers job to ex-NBA coach Avery Johnson (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/ap-source-alabama-offers-job-ex-nba-coach-233220109--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T00:21:50Z</updated>
+    <published>2015-04-06T00:21:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T00:21:50Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/W9FbnLtx9HVuE52SP2oG4Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504051837670766309" />
+  </entry>
+  <entry>
     <title>Padres obtain Kimbrel, Melvin Upton from Braves (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/padres-obtain-kimbrel-melvin-upton-braves-225725516--mlb.html" />
     <author>
