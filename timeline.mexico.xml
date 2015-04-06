@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Death toll rises to 18 in attempt to take gasoline from crashed tanker truck in Mexico</title>
+    <link rel="alternate" href="http://www.startribune.com/world/298800991.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T19:25:59Z</updated>
+    <published>2015-04-06T19:25:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T19:25:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico's Pemex begins to restore production at fire-damaged gulf platform</title>
     <link rel="alternate" href="http://www.startribune.com/world/298715871.html" />
     <author>
