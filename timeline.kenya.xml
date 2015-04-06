@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Al-Shabaab camps bombed in retaliation by Kenyan air force</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/kenyan-air-force-bombs-al-shabaab-camps-in-retaliation-for-garissa-attack-1.3022109?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T09:50:55Z</updated>
+    <published>2015-04-06T09:50:55Z</published>
+    <summary type="html">&lt;p&gt;Kenya has struggled to stop the flow of al-Shabaab militants and weapons across its porous 700 kilometres border with Somalia.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T09:50:55Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3020328.1428016688!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/kenya-attack.jpg" />
+  </entry>
+  <entry>
+    <title>Kenya bombed al Shabaab camps in Somalia on Sunday: military source</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/06/us-kenya-security-military-idUSKBN0MX0EA20150406?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T09:28:47Z</updated>
+    <published>2015-04-06T09:28:47Z</published>
+    <summary type="html">&lt;p&gt;Jets pounded the camps in Gondodowe and Ismail, both in the Gedo region bordering Kenya, the military source said on Monday.&lt;/p&gt;&lt;p&gt;"We targeted the two areas because according to information we have, those (al Shabaab) fellows are coming from there to attack Kenya," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T09:28:47Z</dc:date>
+  </entry>
+  <entry>
     <title>At Kenya college, Christian students foretold massacre</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article17487008.html%23storylink=rss" />
     <author>
