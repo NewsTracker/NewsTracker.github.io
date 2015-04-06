@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Leonard has 26, Spurs snap Warriors 12-game streak, 107-92 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/leonard-26-spurs-snap-warriors-12-game-streak-011859241--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T02:45:29Z</updated>
+    <published>2015-04-06T02:45:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T02:45:29Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Pacers use George's return to spur 112-89 rout over Heat (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/pacers-georges-return-spur-112-89-rout-over-010300611--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T02:20:04Z</updated>
+    <published>2015-04-06T02:20:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T02:20:04Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/QKF1aCK9YYjCKzYOxeYlMw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/5e73af5da0b40ceb52f7985263e61b3c" />
+  </entry>
+  <entry>
     <title>Notre Dame edges South Carolina 66-65 in women's Final Four (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/notre-dame-edges-south-carolina-66-65-womens-004533032--ncaaw.html" />
     <author>
