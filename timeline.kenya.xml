@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya destroys 2 al Shabaab camps in Somalia</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/06/kenya-says-destroys-2-al-shabaab-camps-in-somalia" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T13:23:09Z</updated>
+    <published>2015-04-06T13:23:09Z</published>
+    <summary type="html">&lt;p&gt;The mission was part of efforts to stop al Shabaab fighters from those camps carrying out cross-border raids into Kenya, Obonyo said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T13:23:09Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297684002925_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Kenya says destroys two al Shabaab camps in Somalia</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/06/us-kenya-security-military-idUSKBN0MX0EA20150406?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T12:41:16Z</updated>
+    <published>2015-04-06T12:41:16Z</published>
+    <summary type="html">&lt;p&gt;Jets pounded the camps in the Gedo region on the other side of the border on Sunday, Kenya Defence Forces spokesman David Obonyo said.&lt;/p&gt;&lt;p&gt;Kenya has struggled to stop the flow of militants and weapons across its 700 km (450 mile) border with Somalia, and the violence has also damaged the economy by scaring away tourists and investors.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T12:41:16Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?d=20150405&amp;amp;i=106392557&amp;amp;w=240&amp;amp;r=106392557-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Kenya bombs al-Shabab camps in Somalia after Garissa attack</title>
     <link rel="alternate" href="http://www.smh.com.au/world/kenya-bombs-alshabab-camps-in-somalia-after-garissa-attack-20150406-1mfimk.html" />
     <author>

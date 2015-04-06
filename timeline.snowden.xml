@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>John Oliver interviews Edward Snowden, and real journalism breaks out</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/tv/article17497196.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T13:52:05Z</updated>
+    <published>2015-04-06T13:52:05Z</published>
+    <summary type="html">&lt;p&gt;Oliver pushed hard against Snowden, whom he described as "the most famous hero and/or traitor in recent American history," with a particular focus on Snowden's decision to leak unredacted documents.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T13:52:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>John Oliver grills Edward Snowden over potentially harmful NSA leaks</title>
+    <link rel="alternate" href="http://news.yahoo.com/edward-snowden-john-oliver-interview-video-114438027.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T11:44:29Z</updated>
+    <published>2015-04-06T11:44:29Z</published>
+    <summary type="html">&lt;p&gt;"The good news is there's no program named 'The D--- Pic program,'" Snowden said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T11:44:29Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/sJwHM53Uq3umE1jI.fMjHA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://l.yimg.com/os/publish-images/news/2015-04-06/1940e4b0-dc5d-11e4-9a65-83fe19549761_snowden-oliver.jpg" />
+  </entry>
+  <entry>
     <title>John Oliver grills Edward Snowden</title>
     <link rel="alternate" href="http://thehill.com/blogs/blog-briefing-room/news/237953-john-oliver-grills-edward-snowden" />
     <author>
