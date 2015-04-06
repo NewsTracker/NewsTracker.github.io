@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Padres obtain Kimbrel, Melvin Upton from Braves (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/padres-obtain-kimbrel-melvin-upton-braves-225725516--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T23:22:53Z</updated>
+    <published>2015-04-05T23:22:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T23:22:53Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/qLTe3Dc31VXnLuJKK6rarg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504051816657746186" />
+  </entry>
+  <entry>
+    <title>Pacers' Paul George gets warm reception in season debut (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/pacers-paul-george-gets-warm-reception-season-debut-213300983--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T22:35:20Z</updated>
+    <published>2015-04-05T22:35:20Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T22:35:20Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/QKF1aCK9YYjCKzYOxeYlMw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/5e73af5da0b40ceb52f7985263e61b3c" />
+  </entry>
+  <entry>
     <title>LeBron gets triple-double, Cavs win 18th straight at home (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/lebron-gets-triple-double-cavs-win-18th-straight-221804933--nba.html" />
     <author>

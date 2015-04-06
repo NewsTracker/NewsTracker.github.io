@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt sacks 41 judges for supporting Muslim Brotherhood: judicial sources</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-15/egypt-sacks-41-judges-for-supporting-muslim-brotherhood/6320528" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T03:57:10Z</updated>
+    <published>2015-03-15T03:57:10Z</published>
+    <summary type="html">&lt;p&gt;Another 10 were removed from their posts for joining the Judges for Egypt group which supported the Brotherhood even before Morsi's removal, the sources added.&lt;/p&gt;&lt;p&gt;Separately, security forces arrested 63 middle-level Brotherhood leaders who face charges of attacking police headquarters and inciting violence, Egypt's interior ministry said in a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T03:57:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Militants attack church and police in Egypt, one policeman dead</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3026307/Bomb-kills-policeman-Cairo-security-sources.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -923,17 +934,6 @@
     <published>2015-03-15T10:05:32Z</published>
     <summary type="html">&lt;p&gt;At the end, the participants join el-Sissi in a chant of his oft-used slogan "long live Egypt!"&lt;/p&gt;</summary>
     <dc:date>2015-03-15T10:05:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt sacks 41 judges for supporting Muslim Brotherhood: judicial sources</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-15/egypt-sacks-41-judges-for-supporting-muslim-brotherhood/6320528" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-15T03:57:10Z</updated>
-    <published>2015-03-15T03:57:10Z</published>
-    <summary type="html">&lt;p&gt;Another 10 were removed from their posts for joining the Judges for Egypt group which supported the Brotherhood even before Morsi's removal, the sources added.&lt;/p&gt;</summary>
-    <dc:date>2015-03-15T03:57:10Z</dc:date>
   </entry>
   <entry>
     <title>Egypt sacks 41 judges for 'supporting' Brotherhood</title>
