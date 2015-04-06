@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya launches airstrikes on Islamic extremists in Somalia after massacre</title>
+    <link rel="alternate" href="http://www.latimes.com/world/africa/la-fg-kenya-somalia-20150406-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T10:43:00Z</updated>
+    <published>2015-04-06T10:43:00Z</published>
+    <summary type="html">&lt;p&gt;Kenya launched air strikes against Islamic militants in Somalia following an extremist attack on a Kenyan college that killed 148 people, a military spokesman said Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T10:43:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Al-Shabaab camps bombed in retaliation by Kenyan air force</title>
     <link rel="alternate" href="http://www.cbc.ca/news/world/kenyan-air-force-bombs-al-shabaab-camps-in-retaliation-for-garissa-attack-1.3022109?cmp=rss" />
     <author>

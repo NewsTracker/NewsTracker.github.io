@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Poroshenko lifts vote objections</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/poroshenko-lifts-vote-objections-31121033.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T10:26:14Z</updated>
+    <published>2015-04-06T10:26:14Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's eastern industrial heartland was the support base for Kremlin-friendly president Viktor Yanukovych, who was ousted in February last year after months of protests.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T10:26:14Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31121032.ece/e408b/ALTERNATES/h342/PANews%20BT_P-77e57901-63bf-43bc-8031-571822b5abe8_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Czech president, US envoy in rare public spat over Ukraine</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11428593&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T10:05:12Z</updated>
+    <published>2015-04-06T10:05:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T10:05:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>News24.com | EU, UK 'sleepwalked' into Ukraine crisis - lawmakers</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/EU-UK-sleepwalked-into-Ukraine-crisis-lawmakers-20150220" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-20T20:16:16Z</updated>
+    <published>2015-02-20T20:16:16Z</published>
+    <summary type="html">&lt;p&gt;"There has been a strong element of 'sleepwalking' into the current crisis, with Member States being taken by surprise by events in Ukraine," the report said, saying the EU's absence of political oversight over trade talks with Kiev had been glaring.&lt;/p&gt;&lt;p&gt;"A loss of collective analytical capacity has weakened Member States' ability to read the political shifts in Russia and to offer an authoritative response," it added, saying the EU had failed to appreciate "the exceptional nature" of Ukraine.&lt;/p&gt;&lt;p&gt;In their report, lawmakers from the upper house of Britain's parliament heaped criticism on Moscow, which they said had been gradually turning away from Europe and had misread Ukraine's appetite for a trade deal with the EU.&lt;/p&gt;</summary>
+    <dc:date>2015-02-20T20:16:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Russia's Lavrov calls for pull-back of more weapons in Ukraine</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3025525/Russias-Lavrov-calls-pull-weapons-Ukraine.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1857,17 +1891,6 @@
     <summary type="html">&lt;p&gt;"The United States condemns continuing attacks by Russia-backed separatists in and around Debaltseve, Mariupol and other locations in eastern Ukraine which violate the ceasefire and flout the Minsk agreements," Jen Psaki, State Department spokesperson, said.&lt;/p&gt;</summary>
     <dc:date>2015-02-21T04:06:35Z</dc:date>
     <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2014/9/8//20149892311699580_20.jpg" />
-  </entry>
-  <entry>
-    <title>News24.com | EU, UK 'sleepwalked' into Ukraine crisis - lawmakers</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/EU-UK-sleepwalked-into-Ukraine-crisis-lawmakers-20150220" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-20T20:16:16Z</updated>
-    <published>2015-02-20T20:16:16Z</published>
-    <summary type="html">&lt;p&gt;"There has been a strong element of 'sleepwalking' into the current crisis, with Member States being taken by surprise by events in Ukraine," the report said, saying the EU's absence of political oversight over trade talks with Kiev had been glaring.&lt;/p&gt;&lt;p&gt;"A loss of collective analytical capacity has weakened Member States' ability to read the political shifts in Russia and to offer an authoritative response," it added, saying the EU had failed to appreciate "the exceptional nature" of Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-02-20T20:16:16Z</dc:date>
   </entry>
   <entry>
     <title>Russia is sending more tanks and troops into Ukraine to take the next battlefront, Kiev says</title>
