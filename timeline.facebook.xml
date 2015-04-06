@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Turkey blocks Facebook, YouTube and Twitter over Istanbul prosecutor siege images</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/technology/turkey-blocks-facebook-youtube-and-twitter-over-istanbul-prosecutor-siege-images-31121591.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T14:32:37Z</updated>
+    <published>2015-04-06T14:32:37Z</published>
+    <summary type="html">&lt;p&gt;On Monday morning users reported difficulties accessing Twitter, Facebook and YouTube according to the AFP News Agency.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T14:32:37Z</dc:date>
+    <media:content url="http://cdn4.belfasttelegraph.co.uk/incoming/article31121551.ece/b0c74/ALTERNATES/h342/turkey%20ban.jpg" />
+  </entry>
+  <entry>
     <title>Fin24.com | Woman to serve divorce via Facebook</title>
     <link rel="alternate" href="http://www.fin24.com/Tech/News/Woman-to-serve-divorce-via-Facebook-20150406" />
     <author>

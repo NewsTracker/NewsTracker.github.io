@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Pope calls on world to defend modern Christian martyrs</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Pope-calls-on-world-to-defend-modern-Christian-martyrs-20150406-6" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T14:59:37Z</updated>
+    <published>2015-04-06T14:59:37Z</published>
+    <summary type="html">&lt;p&gt;The Vatican's official preacher, Father Raniero Cantalamessa, said on Friday there was a "disturbing indifference" among world institutions and in public opinion to the killing of Christians, mentioning the bloodshed in Kenya and Libya.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T14:59:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya destroys 2 al Shabaab camps in Somalia</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/04/06/kenya-says-destroys-2-al-shabaab-camps-in-somalia" />
     <author>
