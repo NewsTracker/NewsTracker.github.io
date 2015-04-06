@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State blows up Syrian church - state news agency</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3027166/Islamic-State-blows-Syrian-church--state-news-agency.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T08:01:31Z</updated>
+    <published>2015-04-06T08:01:31Z</published>
+    <summary type="html">&lt;p&gt;SANA, which did not report any casualties, said the militants had planted explosives inside the Church of the Virgin Mary in Tel Nasri, an Assyrian village in an area where Christian and Kurdish militia have been battling Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T08:01:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State blows up Syrian church: state news agency</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/06/us-mideast-crisis-syria-church-idUSKBN0MX0BG20150406?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T07:45:19Z</updated>
+    <published>2015-04-06T07:45:19Z</published>
+    <summary type="html">&lt;p&gt;Islamic State controls the village, the news agency said on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T07:45:19Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources_v2/images/rcom-logo-hdr.png" />
+  </entry>
+  <entry>
     <title>After Tikrit victory over Islamic State group, Iraq faces new challenge: Winning Sunni support</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/04/05/after-tikrit-victory-over-islamic-state-group-iraq-faces-new-challenge-winning/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
