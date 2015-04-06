@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Encarnacion HR off Tanaka, Blue Jays beat Yankees in opener (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/encarnacion-hr-off-tanaka-blue-jays-beat-yankees-203021712--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T20:46:22Z</updated>
+    <published>2015-04-06T20:46:22Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T20:46:22Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/_O9F5RnW6ocfRKmIvTPwLg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504061349497987683" />
+  </entry>
+  <entry>
+    <title>Braves designate Quinten for assignment; Grilli new closer (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/braves-designate-quinten-assignment-grilli-closer-182958915--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T18:54:18Z</updated>
+    <published>2015-04-06T18:54:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T18:54:18Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/G20hZkdJvH0qClXzWOlrVg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504061335489087628" />
+  </entry>
+  <entry>
     <title>Price falls 1 out short of shutout, Tigers beat Twins 4-0 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/price-falls-1-short-shutout-tigers-beat-twins-195434352--mlb.html" />
     <author>
