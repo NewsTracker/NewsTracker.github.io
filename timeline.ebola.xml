@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sierra Leone's Kailahun district records first Ebola case in months</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/04/us-health-ebola-leone-idUSKBN0MV0Q320150404?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T23:20:26Z</updated>
+    <published>2015-04-04T23:20:26Z</published>
+    <summary type="html">&lt;p&gt;A ministry of health official expressed serious concern over the case, which came as the focus of local and international health officials is on the north and west of the country, the latest areas affected by Ebola.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T23:20:26Z</dc:date>
+  </entry>
+  <entry>
     <title>First Ebola-infected U.S. nurse plans to sue, says hospital didn't train her properly</title>
     <link rel="alternate" href="http://www.cbc.ca/news/health/nina-pham-1st-ebola-infected-u-s-nurse-plans-to-sue-hospital-1.2977824?cmp=rss" />
     <author>
