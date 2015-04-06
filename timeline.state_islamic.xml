@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Official: South African teen stopped from leaving to join IS</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/06/official-south-african-teen-stopped-from-leaving-to-join-is" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T18:36:10Z</updated>
+    <published>2015-04-06T18:36:10Z</published>
+    <summary type="html">&lt;p&gt;South Africa's State Security Minister David Mahlobo said in local media that the girl's social media accounts showed she was interested in joining the Islamic extremist group.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T18:36:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Framework for Iran nuclear deal may sideline hard-liners</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/06/framework-for-iran-nuclear-deal-may-sideline-hard-liners" />
     <author>

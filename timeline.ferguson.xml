@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FBI investigating 2 attacks with alleged Ferguson references</title>
+    <link rel="alternate" href="http://news.yahoo.com/fbi-investigating-2-attacks-alleged-ferguson-references-180136605.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T18:43:24Z</updated>
+    <published>2015-04-06T18:43:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T18:43:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Pair of Ferguson-area incidents investigated by FBI as hate crimes</title>
+    <link rel="alternate" href="http://www.theguardian.com/us-news/2015/apr/06/fbi-investigating-attacks-ferguson-references" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T18:36:50Z</updated>
+    <published>2015-04-06T18:36:50Z</published>
+    <summary type="html">&lt;p&gt;Police said Street, who is white, shouted racial slurs and told Ford, who is black, "Go back to Ferguson."&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T18:36:50Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/55b771f801fb8faa4315c46057f3fad94b900f15/0_174_3000_1800/500.jpg" />
+  </entry>
+  <entry>
     <title>Ferguson releases racist emails cited by Justice Department</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ferguson-releases-racist-emails-cited-by-justice-department-20150405-1mer7m.html" />
     <author>
