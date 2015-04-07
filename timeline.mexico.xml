@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Attack in western Mexico leaves police officers wounded</title>
+    <link rel="alternate" href="http://news.yahoo.com/attack-western-mexico-leaves-police-officers-wounded-150745857.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T15:07:45Z</updated>
+    <published>2015-04-07T15:07:45Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-07T15:07:45Z</dc:date>
+  </entry>
+  <entry>
     <title>Death toll rises to 18 in attempt to take gasoline from crashed tanker truck in Mexico</title>
     <link rel="alternate" href="http://www.startribune.com/world/298800991.html" />
     <author>

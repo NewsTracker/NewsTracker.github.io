@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt photojournalist describes detention of over 600 days</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-photojournalist-describes-detention-over-600-days-151243696.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T15:12:43Z</updated>
+    <published>2015-04-07T15:12:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-07T15:12:43Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/b.X3hSHKb8uP8qCw2D8JOg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/0b8ecae09f88ff0f720f6a706700ab59.jpg" />
+  </entry>
+  <entry>
     <title>AP PHOTOS: Powder-covered workers toil in Egypt's quarries</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-06-ML--Egypt-Quarry%20Workers-Photo%20Essay/id-26dbe0a3344d401dbdb62b11c18d20f0" />
     <author>
