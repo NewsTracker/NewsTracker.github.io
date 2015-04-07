@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>HBO Now streaming service launches on Apple products</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/tv/article17681228.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T17:57:07Z</updated>
+    <published>2015-04-07T17:57:07Z</published>
+    <summary type="html">&lt;p&gt;HBO Now, the stand-alone streaming service, launched Tuesday morning on Apple products, HBO said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T17:57:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Watch: Techbytes: A Guided Tour of the Apple Watch</title>
     <link rel="alternate" href="http://abcnews.go.com/Technology/video/techbytes-guided-tour-upcoming-apple-watch-30113734" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>A-Rod returns from drug ban to cheers and small ball (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/rod-cheered-walks-return-long-drug-ban-181825601--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T00:31:17Z</updated>
+    <published>2015-04-07T00:31:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-07T00:31:17Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/QLgKf7CVbdla6y5oTrQVLQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504061357502317703" />
+  </entry>
+  <entry>
     <title>Sonny Gray takes no-hit bid into 8th, A's blank Rangers 8-0 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/sonny-gray-takes-no-hit-bid-8th-blank-051030705--mlb.html" />
     <author>

@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Moody's raises Egypt's credit rating, says economy improved</title>
+    <link rel="alternate" href="http://news.yahoo.com/moodys-raises-egypts-credit-rating-says-economy-improved-172144262.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T17:21:44Z</updated>
+    <published>2015-04-07T17:21:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-07T17:21:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Moody's raises Egypt's credit rating, says economy improved</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/07/moodys-raises-egypts-credit-rating-says-economy-improved" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T17:20:31Z</updated>
+    <published>2015-04-07T17:20:31Z</published>
+    <summary type="html">&lt;p&gt;In a statement, it ranked Egypt at B3 on its scale - speculative and subject to high credit risk - with a stable outlook, an improvement from its previous classification of Caa1.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T17:20:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt photojournalist describes detention of over 600 days</title>
     <link rel="alternate" href="http://news.yahoo.com/egypt-photojournalist-describes-detention-over-600-days-151243696.html" />
     <author>
