@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson voters go to polls to elect 3 City Council members</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article17604512.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T06:49:24Z</updated>
+    <published>2015-04-07T06:49:24Z</published>
+    <summary type="html">&lt;p&gt;In this photo made in March 2015, Ferguson Ward 3 city council candidate Wesley Bell poses for a portrait in Ferguson, Mo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T06:49:24Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Ferguson voters go to polls to elect 3 City Council members</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/us/article/Ferguson-voters-go-to-polls-to-elect-3-to-council-6182900.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T06:34:52Z</updated>
+    <published>2015-04-07T06:34:52Z</published>
+    <summary type="html">&lt;p&gt;(AP) - The next Ferguson City Council will face the daunting task of remaking much of the beleaguered town's leadership, a process that will begin soon after Tuesday's municipal election.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T06:34:52Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/52/72/7777951/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Ferguson voters, black candidates to make history in council election</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ferguson-voters-black-candidates-to-make-history-in-council-election-20150406-1mfjum.html" />
     <author>
