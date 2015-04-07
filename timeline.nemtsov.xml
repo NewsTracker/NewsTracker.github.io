@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nemtsov.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Video reports conflict in probe of Putin critic's slaying</title>
+    <link rel="alternate" href="http://news.yahoo.com/russian-opposition-leader-asks-early-release-072058237.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-02T15:29:20Z</updated>
+    <published>2015-03-02T15:29:20Z</published>
+    <summary type="html">&lt;p&gt;TV Center, a station controlled by the Moscow city government, broadcast a poor-resolution video from a web camera that it said showed Nemtsov and Duritskaya shortly before he was killed.&lt;/p&gt;</summary>
+    <dc:date>2015-03-02T15:29:20Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/dyHkXr4Pk_JeYgPw4Vh_MA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1NztpbD1wbGFuZTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/ap_webfeeds/dd303fd9d3c29c096f0f6a706700d9b2.jpg" />
+  </entry>
+  <entry>
     <title>Suspect charged with killing Putin foe tells court he was beaten, pressured to confess</title>
     <link rel="alternate" href="http://www.startribune.com/world/298300711.html" />
     <author>

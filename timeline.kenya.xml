@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Law graduate named as Kenya university massacre killer</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/storystream/kenyans-march-national-security" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T21:11:40Z</updated>
+    <published>2015-04-05T21:11:40Z</published>
+    <summary type="html">&lt;p&gt;Militant attacks on Christians have damaged Kenya's traditionally cordial Christian-Muslim relations, and priests said they feared churches could be targeted on the main liturgical feast in the Christian calendar.&lt;/p&gt;&lt;p&gt;Kenyatta is under heavy pressure to halt Islamist attacks that have ravaged Kenya's tourist industry and the Daily Nation newspaper questioned in an editorial why it took nearly 15 hours to end the siege.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T21:11:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>Law graduate named as Kenya university massacre killer</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/storystream/somali-militants-bombed-kenya" />
     <author>
       <name />

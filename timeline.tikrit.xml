@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tikrit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Exhumation of Iraq's Camp Speicher victim mass graves begins</title>
+    <link rel="alternate" href="http://news.yahoo.com/exhumation-iraqs-camp-speicher-victim-mass-graves-begins-110413074.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T11:04:13Z</updated>
+    <published>2015-04-07T11:04:13Z</published>
+    <summary type="html">&lt;p&gt;"The only positive thing is the victory in Tikrit," said, Ali Hamad, whose cousin Kamal went missing at Speicher.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T11:04:13Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/hPPD_8fSHHaFv0pWiT4g9Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-04-07T110413Z_1_LYNXMPEB360DF_RTROPTP_2_MIDEAST-CRISIS-IRAQ.JPG" />
+  </entry>
+  <entry>
+    <title>Iraqi troops advance on two fronts in battle against Islamic State group to win back Tikrit</title>
+    <link rel="alternate" href="http://www.startribune.com/world/296027951.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T00:28:12Z</updated>
+    <published>2015-03-13T00:28:12Z</published>
+    <summary type="html">&lt;p&gt;Recapturing Tikrit is seen as a key step toward rolling back the gains of the extremist Islamic State group, which seized much of northern and western Iraq in a blitz last summer and now controls about a third of both Iraq and Syria.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T00:28:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Iraqi teams start exhuming mass grave of soldiers in Tikrit</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/07/iraqi-teams-start-exhuming-mass-grave-of-soldiers-in-tikrit" />
     <author>
