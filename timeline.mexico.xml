@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Attack in Western Mexico Kills 15 Police Officers, 5 Wounded</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/attack-western-mexico-leaves-police-officers-wounded-30136873" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T19:55:09Z</updated>
+    <published>2015-04-07T19:55:09Z</published>
+    <summary type="html">&lt;p&gt;Raul Benitez, a security expert at Mexico's National Autonomous University, "the serious thing about this attack was that it was very well planned and orchestrated, with a military-style strategy."&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T19:55:09Z</dc:date>
+  </entry>
+  <entry>
     <title>15 state police killed in ambush in western Mexico</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3029266/15-state-police-killed-ambush-western-Mexico.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
