@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tikrit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraq starts opening mass graves in Tikrit</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/iraq-starts-opening-mass-graves-in-tikrit-20150407-1mgb4d.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T22:33:03Z</updated>
+    <published>2015-04-07T22:33:03Z</published>
+    <summary type="html">&lt;p&gt;So far, he said, officials had found 11 mass graves, each containing dozens of bodies, all located in the sprawling complex of palaces in Tikrit, along the Tigris River, north of Baghdad.&lt;/p&gt;&lt;p&gt;When extremists of the so-called Islamic State, also known as ISIS, overran Tikrit in June, officials at the air force academy at Camp Speicher ordered 1,700 cadets to return to their homes.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T22:33:03Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/g/c/g/f/image.related.articleLeadwide.620x349.1mgb4d.png/1428446241302.jpg" />
+  </entry>
+  <entry>
     <title>Exhumation of Iraq's Camp Speicher victim mass graves begins</title>
     <link rel="alternate" href="http://news.yahoo.com/exhumation-iraqs-camp-speicher-victim-mass-graves-begins-110413074.html" />
     <author>

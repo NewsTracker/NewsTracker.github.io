@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson election could reshape City Council</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article17604512.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T22:14:07Z</updated>
+    <published>2015-04-07T22:14:07Z</published>
+    <summary type="html">&lt;p&gt;Rich Baranowski, second from left, and Tracy Hardy, second from right, vote as poll workers sit nearby during Ferguson's municipal election Tuesday, April 7, 2015, in Ferguson, Mo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T22:14:07Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Ferguson voters head to polls to reshape City Council</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article17604512.html%23storylink=rss" />
     <author>
