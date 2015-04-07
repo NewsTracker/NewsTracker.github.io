@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Red Sox, Porcello agree to 4-year, $82.5 million contract (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/red-sox-porcello-agree-4-82-5-million-022921540--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T02:37:47Z</updated>
+    <published>2015-04-07T02:37:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-07T02:37:47Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/Js3RMWli1y8wpWVnL.p.SA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQwNDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504062051750798717" />
+  </entry>
+  <entry>
     <title>Hernandez dominant as Mariners beat Angels 4-1 to open 2015 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/hernandez-dominant-mariners-beat-angels-4-1-open-225429375--mlb.html" />
     <author>
