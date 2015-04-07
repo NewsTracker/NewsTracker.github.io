@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Militant ambush kills 2 soldiers in Tunisia near border</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/07/militant-ambush-kills-2-soldiers-in-tunisia-near/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T14:16:39Z</updated>
+    <published>2015-04-07T14:16:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-07T14:16:39Z</dc:date>
+  </entry>
+  <entry>
     <title>Tunisia trial of deadly ambush suspects adjourned</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3027769/Tunisia-trial-deadly-ambush-suspects-adjourned.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
