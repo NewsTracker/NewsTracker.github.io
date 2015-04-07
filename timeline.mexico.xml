@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Attack in western Mexico kills 15 police officers, wounds 5</title>
+    <link rel="alternate" href="http://news.yahoo.com/attack-western-mexico-leaves-police-officers-wounded-150745857.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T20:57:14Z</updated>
+    <published>2015-04-07T20:57:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-07T20:57:14Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/i0Fi4KRWd8skjPEHo0zT6w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-MVD-Mvd6670938-1-1-0.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Attack in Western Mexico Kills 15 Police Officers, 5 Wounded</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/attack-western-mexico-leaves-police-officers-wounded-30136873" />
     <author>

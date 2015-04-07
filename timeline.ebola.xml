@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sierra Leone police raid funeral, arrest 13 for organising unsafe burial</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-04-08/police-raid-funeral-in-sierra-leone/6376494" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T20:58:10Z</updated>
+    <published>2015-04-07T20:58:10Z</published>
+    <summary type="html">&lt;p&gt;Alimamy Kamara, head of the National Ebola Response Centre (NERC) in charge of Freetown and the surrounding area, said last week that people organising unsafe burials risked two-year jail terms.&lt;/p&gt;&lt;p&gt;"People should adhere to the government policy of safe and dignified burials so that we can end the high rate of transmission of the Ebola virus," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T20:58:10Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/5636480-16x9-220x124.jpg" />
+  </entry>
+  <entry>
     <title>Sierra Leone's Kailahun district records first Ebola case in months</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/04/us-health-ebola-leone-idUSKBN0MV0Q320150404?feedType=RSS&amp;amp;feedName=healthNews" />
     <author>

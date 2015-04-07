@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple joins blue-chip Dow index; AT&amp;T gets booted</title>
+    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/03/07/business/financial-markets/apple-joins-blue-chip-dow-index-att-gets-booted/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=apple-joins-blue-chip-dow-index-att-gets-booted&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T03:23:00Z</updated>
+    <published>2015-03-07T03:23:00Z</published>
+    <summary type="html">&lt;p&gt;S&amp;P Dow Jones Indices said the decision to fold in Apple won't alter the overall level of the index, which stood at 17,856 Friday.&lt;/p&gt;&lt;p&gt;Apple won't get top billing in the Dow, though.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T03:23:00Z</dc:date>
+  </entry>
+  <entry>
     <title>HBO Now streaming service launches on Apple products</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/tv/article17696318.html%23storylink=rss" />
     <author>
@@ -673,17 +684,6 @@
     <summary type="html">&lt;p&gt;Apple plans to sell three models, starting at $349, but Piper Jaffray's Gene Munster predicts the average buyer will pay $550 for a watch and extra, interchangeable bands.&lt;/p&gt;</summary>
     <dc:date>2015-03-07T05:03:00Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/NXUq37naGTa0peiinAOoeQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/homerun/racked.vox.com/b463588138db499b232baa9f2509c32d.cf.jpg" />
-  </entry>
-  <entry>
-    <title>Apple joins blue-chip Dow index; AT&amp;T gets booted</title>
-    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/03/07/business/financial-markets/apple-joins-blue-chip-dow-index-att-gets-booted/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=apple-joins-blue-chip-dow-index-att-gets-booted&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-07T03:23:00Z</updated>
-    <published>2015-03-07T03:23:00Z</published>
-    <summary type="html">&lt;p&gt;S&amp;P Dow Jones Indices said the decision to fold in Apple won't alter the overall level of the index, which stood at 17,856 Friday.&lt;/p&gt;</summary>
-    <dc:date>2015-03-07T03:23:00Z</dc:date>
   </entry>
   <entry>
     <title>Apple to replace AT&amp;T on Dow Jones</title>
