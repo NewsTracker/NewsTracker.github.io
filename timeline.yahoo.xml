@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hernandez dominant as Mariners beat Angels 4-1 to open 2015 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/hernandez-dominant-mariners-beat-angels-4-1-open-225429375--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T22:57:50Z</updated>
+    <published>2015-04-06T22:57:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T22:57:50Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/mlb/teams/83/70x70/sea.png" />
+  </entry>
+  <entry>
     <title>Encarnacion HR off Tanaka, Blue Jays beat Yankees in opener (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/encarnacion-hr-off-tanaka-blue-jays-beat-yankees-203021712--mlb.html" />
     <author>
