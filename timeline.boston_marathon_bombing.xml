@@ -4,6 +4,62 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The latest on the Boston Marathon bombing trial: Dzhokhar Tsarnaev convicted on all 30 counts</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/299085451.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T18:45:18Z</updated>
+    <published>2015-04-08T18:45:18Z</published>
+    <summary type="html">&lt;p&gt;Dzhokhar Tsarnaev (joh-HAHR' tsahr-NEYE'-ehv) has been convicted in the 2013 bombing of the Boston Marathon.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T18:45:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Dzhokhar Tsarnaev convicted in Boston Marathon bombing</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Jurors-to-deliberate-for-2nd-day-in-Boston-6185528.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T18:43:38Z</updated>
+    <published>2015-04-08T18:43:38Z</published>
+    <summary type="html">&lt;p&gt;BOSTON (AP) - Dzhokhar Tsarnaev was convicted on all charges Wednesday in the Boston Marathon bombing by a federal jury that now must decide whether the 21-year-old former college student should be executed.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T18:43:38Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/21/12/12/4498084/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Dzhokhar Tsarnaev guilty in Boston Marathon bombing; jury to weigh possible death sentence</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11429843&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T18:15:14Z</updated>
+    <published>2015-04-08T18:15:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T18:15:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Verdict reached in Boston Marathon bombing trial</title>
+    <link rel="alternate" href="http://nypost.com/2015/04/08/verdict-reached-in-boston-marathon-bombing-trial/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T17:44:08Z</updated>
+    <published>2015-04-08T17:44:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T17:44:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Jury Reaches Verdict in Boston Bombing Trial</title>
+    <link rel="alternate" href="http://www.nbcnews.com/storyline/boston-bombing-trial/boston-bombing-trial-jury-reaches-verdict-trial-dzhokhar-tsarnaev-n337946" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T17:29:38Z</updated>
+    <published>2015-04-08T17:29:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T17:29:38Z</dc:date>
+  </entry>
+  <entry>
     <title>Jurors to deliberate for 2nd day in Boston Marathon trial</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/sports/jurors-to-deliberate-for-2nd-day-in-boston-maratho/nkpgz/" />
     <author>
