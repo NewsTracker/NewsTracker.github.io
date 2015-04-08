@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya shuts down Somali remittance firms</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/8/kenya-shuts-down-somali-remittance-firms.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T11:52:00Z</updated>
+    <published>2015-04-08T11:52:00Z</published>
+    <summary type="html">&lt;p&gt;Somalia's central bank governor Bashir Issa Ali told Reuters that 13 Somali money transfer firms have been officially notified by Central Bank of Kenya (CBK) about the closure of accounts.&lt;/p&gt;&lt;p&gt;"It's going to hurt Somalis in Kenya more than Somalis in Somalia. The amount of money sent from abroad to Kenya is huge," Ali said, pointing out that many Somalis in Kenya rely on relatives abroad for basics including school fees.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T11:52:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/4/4/kenya-school-survivor/_jcr_content/image.adapt.480.low.garissa_survivor_040415.jpg" />
+  </entry>
+  <entry>
     <title>Kenya shuts money transfer firms</title>
     <link rel="alternate" href="http://www.bbc.co.uk/news/world-africa-32216498%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
     <author>
@@ -762,7 +774,7 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Al-Shabaab Kenya attack: death toll rises to 147 ? live updates</title>
+    <title>Al-Shabaab Kenya attack: death toll rises to 147 – live updates</title>
     <link rel="alternate" href="http://www.theguardian.com/world/live/2015/apr/02/al-shabaab-seize-hostages-in-standoff-at-kenya-college-live-updates" />
     <author>
       <name />
