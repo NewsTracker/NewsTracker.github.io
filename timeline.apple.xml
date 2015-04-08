@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Watch review round-up</title>
+    <link rel="alternate" href="http://www.techradar.com/news/wearables/apple-watch-review-round-up-1290572?src=rss&amp;amp;attr=all" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T18:41:00Z</updated>
+    <published>2015-04-08T18:41:00Z</published>
+    <summary type="html">&lt;p&gt;"Apple Watch is light-years better than any of the feeble, clunky efforts that have come before it."&lt;/p&gt;&lt;p&gt;"But among smartwatches, Apple Watch is second to none."&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T18:41:00Z</dc:date>
+    <media:content url="http://cdn.mos.techradar.com/art/Watches/Apple%20Watch/Third%20option/Apple%20Watch%20review022-320-80.jpg" />
+  </entry>
+  <entry>
     <title>Apple's iOS 8.3 Update Is Here</title>
     <link rel="alternate" href="http://abcnews.go.com/Technology/apples-ios-83-update-includes-diverse-emoji/story?id=30163051" />
     <author>
