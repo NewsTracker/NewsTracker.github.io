@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Police: Pacers' Copeland stabbed outside NYC nightclub (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/pacers-copeland-wife-stabbed-outside-nyc-nightclub-141554421--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T20:42:56Z</updated>
+    <published>2015-04-08T20:42:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T20:42:56Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/i6gChqZM5A0jWKkmy8FOgw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504080924338691568" />
+  </entry>
+  <entry>
+    <title>Bearing down: Jack Nicklaus makes hole-in-one at Par-3 (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/bearing-down-jack-nicklaus-makes-hole-one-par-201415969--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T20:14:15Z</updated>
+    <published>2015-04-08T20:14:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T20:14:15Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/aeWEC8kJ7IzWYHm331VvVQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504081455537562307" />
+  </entry>
+  <entry>
     <title>Verlander heads to DL officially, Tigers call up Lobstein (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/verlander-heads-dl-officially-tigers-call-lobstein-155349744--mlb.html" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook Messenger is now a standalone web app</title>
+    <link rel="alternate" href="http://money.cnn.com/2015/04/08/technology/facebook-messenger-standalone-web-app/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fmoney_latest+%28CNNMoney%3A+Latest+News%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T20:49:05Z</updated>
+    <published>2015-04-08T20:49:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T20:49:05Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/money/dam/assets/150408153825-facebook-messenger-website-standalone-576x324.jpg" />
+  </entry>
+  <entry>
     <title>Facebook unveils plans for more office space</title>
     <link rel="alternate" href="http://www.latimes.com/business/la-fi-tn-facebook-expansion-20150407-story.html" />
     <author>

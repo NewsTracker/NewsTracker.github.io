@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>North Korea says Mexico holding ship; kept under sanctions</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/North-Korea-says-Mexico-forcibly-holding-ship-6186393.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T20:50:07Z</updated>
+    <published>2015-04-08T20:50:07Z</published>
+    <summary type="html">&lt;p&gt;Hun said Mexico has "forcibly detained" one of its ships months after it ran aground off Mexico's Gulf coast and that his country will take unspecified "necessary measures to make the ship leave immediately."&lt;/p&gt;&lt;p&gt;The head of a U.N. panel of experts, however, said the ship, the Mu Du Bong, is owned by a North Korean company that is under U.N. sanctions and should be "frozen," and that the panel has received excellent cooperation from Mexico in tracking the company and its assets.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T20:50:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>North Korea says Mexico holding ship; kept under sanctions</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/08/north-korea-says-mexico-holding-ship-kept-under-sanctions" />
     <author>
       <name />
