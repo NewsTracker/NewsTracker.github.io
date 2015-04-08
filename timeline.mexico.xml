@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ambush that killed 15 police in Mexico a 'response to arrests'</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/ambush-that-killed-15-police-in-mexico-a-response-to-arrests-1.2316581" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T04:26:37Z</updated>
+    <published>2015-04-08T04:26:37Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - An ambush that killed 15 state police officers in western Mexico appears to be a drug cartel's revenge attack and could herald a military-style offensive against government authorities.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T04:26:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Attack in western Mexico kills 15 police officers, wounds 5</title>
     <link rel="alternate" href="http://news.yahoo.com/attack-western-mexico-leaves-police-officers-wounded-150745857.html" />
     <author>

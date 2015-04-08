@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson election triples number of blacks on City Council</title>
+    <link rel="alternate" href="http://news.yahoo.com/ferguson-voters-polls-elect-3-council-members-062933570.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T04:20:49Z</updated>
+    <published>2015-04-08T04:20:49Z</published>
+    <summary type="html">&lt;p&gt;Bell is a lawyer and a criminology professor who had to defend himself because of a third job - municipal judge in a neighboring town of Velda City that, like Ferguson, derives a large percentage of its budget from municipal court fines.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T04:20:49Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/6ASSexT9YPyY8sksDt_LJA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/ebc176389fb1ff0f720f6a7067007d32.jpg" />
+  </entry>
+  <entry>
     <title>Ferguson election could reshape City Council</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article17604512.html%23storylink=rss" />
     <author>
