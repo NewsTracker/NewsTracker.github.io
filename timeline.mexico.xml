@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>North Korea warns will act to get back ship held by Mexico</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/08/22333976.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T21:04:36Z</updated>
+    <published>2015-04-08T21:04:36Z</published>
+    <summary type="html">&lt;p&gt;Ricardo Alday, spokesman for Mexico's U.N. mission, said his country was fulfilling its international obligations by abiding by U.N. Security Council resolutions and that it was not "forcibly detaining" the ship.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T21:04:36Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/World/2015/04/08/North-Korea.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>North Korea says Mexico holding ship; kept under sanctions</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/North-Korea-says-Mexico-forcibly-holding-ship-6186393.php" />
     <author>
