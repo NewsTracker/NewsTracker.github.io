@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple, Google, Microsoft cop tax audit</title>
+    <link rel="alternate" href="http://www.smh.com.au/business/the-economy/apple-google-microsoft-cop-tax-audit-20150408-1mgsma.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T08:51:34Z</updated>
+    <published>2015-04-08T08:51:34Z</published>
+    <summary type="html">&lt;p&gt;Technology giants Apple, Google and Microsoft have told the federal inquiry into corporate tax avoidance that they are being audited by the tax office for alleged tax avoidance.&lt;/p&gt;&lt;p&gt;Apple Australia managing director Tony King.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T08:51:34Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/g/t/v/z/image.related.articleLeadwide.620x349.1mgsma.png/1428483086797.jpg" />
+  </entry>
+  <entry>
     <title>Review: New Apple Photos app makes fixing, cropping easy</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Review-New-Apple-Photos-app-makes-fixing-6185567.php" />
     <author>
