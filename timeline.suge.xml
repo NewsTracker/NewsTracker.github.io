@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: suge</title>
-  <link rel="alternate" href="http://newstracker.github.io/timeline.suge.html" />
+  <link rel="alternate" href="http://newstracker.github.io/timeline.suge.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>'Suge' Knight comes to court for robbery case in wheelchair</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3030805/Suge-Knight-comes-court-robbery-case-wheelchair.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T17:01:39Z</updated>
+    <published>2015-04-08T17:01:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T17:01:39Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/08/07/275D1CC200000578-0-image-m-104_1428475962654.jpg" />
+  </entry>
   <entry>
     <title>Suge Knight collapses after bail is set at $25 million</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article15496253.html%23storylink=rss" />

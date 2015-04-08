@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Verlander heads to DL officially, Tigers call up Lobstein (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/verlander-heads-dl-officially-tigers-call-lobstein-155349744--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T15:53:49Z</updated>
+    <published>2015-04-08T15:53:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T15:53:49Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/UuvEzf5DpyhuowtwFSrY1w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504021029377848136" />
+  </entry>
+  <entry>
     <title>Rangers beat Devils, win NHL's President's Trophy (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/rangers-beat-devils-win-nhls-presidents-trophy-014204484--nhl.html" />
     <author>
