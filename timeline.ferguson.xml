@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson, Missouri voters select two black candidates for City Council</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/07/race-reforms-eyed-as-ferguson-missouri-voters-head-to-polls" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T05:26:23Z</updated>
+    <published>2015-04-08T05:26:23Z</published>
+    <summary type="html">&lt;p&gt;Ferguson has about 21,000 residents but has had only two black council members since its incorporation in 1894, including current Councilman Dwayne James, who was not up for re-election Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T05:26:23Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297684604036_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Ferguson election triples number of blacks on City Council</title>
     <link rel="alternate" href="http://news.yahoo.com/ferguson-voters-polls-elect-3-council-members-062933570.html" />
     <author>
