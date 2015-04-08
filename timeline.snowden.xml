@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Snowden says he'd like to return to Geneva</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Snowden-says-hed-like-to-return-to-Geneva-20150306" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T07:09:23Z</updated>
+    <published>2015-03-07T07:09:23Z</published>
+    <summary type="html">&lt;p&gt;Snowden said he had appealed to 21 countries, "the majority in central and Western Europe", for asylum after the United States cancelled his passport and he was stopped from going to Ecuador.&lt;/p&gt;&lt;p&gt;Snowden currently has asylum in Russia.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T07:09:23Z</dc:date>
+    <media:content url="http://cdn.24.co.za/files/Cms/General/d/294/d3cc69b5d71c48cfa3032f6cda12ec4e.jpg" />
+  </entry>
+  <entry>
     <title>Oliver Stone's 'Snowden' filming at locations around DC</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article17620706.html%23storylink=rss" />
     <author>
@@ -267,18 +279,6 @@
     <published>2015-03-10T11:35:00Z</published>
     <summary type="html">&lt;p&gt;Both companies said the moves were aimed at protecting the privacy of users of their products and that this was partly a response to wide-scale U.S. government spying on Internet users revealed by Snowden in 2013.&lt;/p&gt;</summary>
     <dc:date>2015-03-10T11:35:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>News24.com | Snowden says he'd like to return to Geneva</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/Snowden-says-hed-like-to-return-to-Geneva-20150306" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-07T07:09:23Z</updated>
-    <published>2015-03-07T07:09:23Z</published>
-    <summary type="html">&lt;p&gt;Snowden said he had appealed to 21 countries, "the majority in central and Western Europe", for asylum after the United States cancelled his passport and he was stopped from going to Ecuador.&lt;/p&gt;</summary>
-    <dc:date>2015-03-07T07:09:23Z</dc:date>
-    <media:content url="http://cdn.24.co.za/files/Cms/General/d/294/d3cc69b5d71c48cfa3032f6cda12ec4e.jpg" />
   </entry>
   <entry>
     <title>?Edward Snowden ?would love to return? to Geneva, makes public appeal</title>
