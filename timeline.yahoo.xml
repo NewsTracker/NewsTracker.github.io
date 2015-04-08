@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>3-Peat: UConn beats Notre Dame 63-53 for 3rd straight title (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/3-peat-uconn-beats-notre-dame-63-53-023701850--ncaaw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T03:38:24Z</updated>
+    <published>2015-04-08T03:38:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T03:38:24Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/QUQunAbfKvwlcdyAQqVUtQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504072158790880936" />
+  </entry>
+  <entry>
+    <title>Pelicans beat Warriors 103-100, move into 8th spot (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/pelicans-beat-warriors-103-100-move-8th-spot-024752067--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T03:11:27Z</updated>
+    <published>2015-04-08T03:11:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T03:11:27Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/ipt/70x70.1.png" />
+  </entry>
+  <entry>
     <title>Cameron Crazy: Duke returns home for latest title party (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/duke-krzyzewski-heading-home-celebrate-ncaa-title-081645542--ncaab.html" />
     <author>
