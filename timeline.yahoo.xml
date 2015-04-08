@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rangers beat Devils, win NHL's President's Trophy (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/rangers-beat-devils-win-nhls-presidents-trophy-014204484--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T02:48:55Z</updated>
+    <published>2015-04-08T02:48:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T02:48:55Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/Ulp.T1yynCvv_O8yGgVFWg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-us/video/video.nhlgamehighlights.com/3226bdaaac841165230c642db191ee6d" />
+  </entry>
+  <entry>
+    <title>Small plane crashes after NCAA title game, killing ISU coach (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/illinois-state-athletic-staffers-among-7-dead-plane-191002067--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T00:15:51Z</updated>
+    <published>2015-04-08T00:15:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T00:15:51Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/tNtohwg6yUB5.xdJv4aGVQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504071419515969611" />
+  </entry>
+  <entry>
     <title>3-Peat: UConn beats Notre Dame 63-53 for 3rd straight title (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/3-peat-uconn-beats-notre-dame-63-53-023701850--ncaaw.html" />
     <author>
