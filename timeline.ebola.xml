@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama discusses Ebola outbreak in West Africa with advisers</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/08/obama-discusses-ebola-outbreak-in-west-africa/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T19:50:08Z</updated>
+    <published>2015-04-08T19:50:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T19:50:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Sierra Leone police raid funeral, arrest 13 for organising unsafe burial</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-04-08/police-raid-funeral-in-sierra-leone/6376494" />
     <author>

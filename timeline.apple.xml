@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple's iOS 8.3 Update Is Here</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/apples-ios-83-update-includes-diverse-emoji/story?id=30163051" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T19:44:37Z</updated>
+    <published>2015-04-08T19:44:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T19:44:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple Watch stylish but not for everyone, reviewers say</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/04/08/apple-watch-stylish-but-not-for-everyone-reviewers-say" />
     <author>
