@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Early Apple Watch reviews are mixed</title>
+    <link rel="alternate" href="http://www.latimes.com/business/technology/la-fi-tn-apple-watch-reviews-20150408-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T15:44:00Z</updated>
+    <published>2015-04-08T15:44:00Z</published>
+    <summary type="html">&lt;p&gt;Wall Street Journal: "After over a week of living with Apple's latest gadget on my wrist, I realized the company isn't just selling some wrist-worn computer, it's selling good looks and coolness, with some bonus computer features. Too many features that are too hard to find, if you ask me."&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T15:44:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple Watch pros and cons: What reviewers are saying</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/technology/apple-watch-pros-and-cons-what-reviewers-are-saying-1.3024789?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T14:56:41Z</updated>
+    <published>2015-04-08T14:56:41Z</published>
+    <summary type="html">&lt;p&gt;Apple Inc's smartwatch is a "beautiful", "stylish" and "elegantly made" piece of technology that could make life easier for people on the move, reviewers said, but it also has shortcomings and a price that could limit its appeal.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T14:56:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple Watch sleek and stylish but not for everyone, reviewers say</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/apple-watch-sleek-stylish-not-141208902.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T14:20:00Z</updated>
+    <published>2015-04-08T14:20:00Z</published>
+    <summary type="html">&lt;p&gt;"For now, the Apple Watch is for pioneers," the Wall Street Journal's Geoffrey Fowler wrote.&lt;/p&gt;&lt;p&gt;Most reviews, while praising the watch's sleek design, highlighted its relatively short battery life - up to 18 hours, according to Apple.&lt;/p&gt;&lt;p&gt;CNET's Stein said Apple wants people to see the Apple Watch as "fine jewelry."&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T14:20:00Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/IKCqgvzK6smEwwN4nRMhtw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-04-08T142000Z_2_LYNXMPEB370KG_RTROPTP_3_APPLE-WATCH_original.jpg" />
+  </entry>
+  <entry>
     <title>The first wearable you'll actually want to wear - and the answer to obsessively checking your mobile: Dailymail.com's verdict on the Apple Watch</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-3029763/The-wearable-ll-actually-want-wear-answer-obsessively-checking-mobile-Dailymail-com-s-verdict-Apple-Watch.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
