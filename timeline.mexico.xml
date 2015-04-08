@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Armed robbers steal $11million of gold from refinery in Mexico</title>
+    <link rel="alternate" href="http://tvnz.co.nz/world-news/armed-robbers-steal-11million-gold-refinery-in-mexico-6279509?ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T10:49:00Z</updated>
+    <published>2015-04-08T10:49:00Z</published>
+    <summary type="html">&lt;p&gt;The Toronto-based company has operations in Mexico, Nevada and Argentina.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T10:49:00Z</dc:date>
+    <media:content url="http://images.tvnz.co.nz/tvnz_site_images/seven_sharp/2015/03/_640_per_day_for_pm_s_flag_committee_members_1978523505.jpg" />
+  </entry>
+  <entry>
     <title>Ambush that killed 15 police in Mexico a 'response to arrests'</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/ambush-that-killed-15-police-in-mexico-a-response-to-arrests-1.2316581" />
     <author>
@@ -589,7 +601,7 @@
     <dc:date>2015-03-20T13:29:49Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -601,7 +613,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -1002,7 +1014,7 @@
     <dc:date>2015-03-21T18:47:58Z</dc:date>
   </entry>
   <entry>
-    <title>‘Lucha libre’ wrestler dies from hit in the ring</title>
+    <title>?Lucha libre? wrestler dies from hit in the ring</title>
     <link rel="alternate" href="http://nypost.com/2015/03/21/mexico-lucha-libre-wrestler-dies-from-hit-in-the-ring/" />
     <author>
       <name />

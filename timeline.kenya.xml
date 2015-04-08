@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya shuts money transfer firms</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/world-africa-32216498%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T10:45:52Z</updated>
+    <published>2015-04-08T10:45:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T10:45:52Z</dc:date>
+    <media:content url="http://ichef.bbci.co.uk/news/200/media/images/82182000/jpg/_82182128_somalia.jpg" />
+  </entry>
+  <entry>
     <title>Kenya seeks more Western help after university attack</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3029249/Kenya-seeks-Western-help-university-attack.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -750,7 +762,7 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Al-Shabaab Kenya attack: death toll rises to 147 – live updates</title>
+    <title>Al-Shabaab Kenya attack: death toll rises to 147 ? live updates</title>
     <link rel="alternate" href="http://www.theguardian.com/world/live/2015/apr/02/al-shabaab-seize-hostages-in-standoff-at-kenya-college-live-updates" />
     <author>
       <name />
