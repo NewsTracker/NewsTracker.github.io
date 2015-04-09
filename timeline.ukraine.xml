@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Amnesty accuses Ukraine separatists of executing soldiers</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/amnesty-accuses-ukraine-separatists-of-executing-soldiers-1.2318452" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T07:49:18Z</updated>
+    <published>2015-04-09T07:49:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-09T07:49:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Amnesty says Ukraine rebels executed government soldiers</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Amnesty-says-Ukraine-rebels-executed-government-6188377.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T07:27:05Z</updated>
+    <published>2015-04-09T07:27:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-09T07:27:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Misery, tuberculosis in prisons of war-torn east Ukraine</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3030393/Misery-tuberculosis-prisons-war-torn-east-Ukraine.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
