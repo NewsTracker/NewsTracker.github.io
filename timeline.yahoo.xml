@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bauer, 3 Indians relievers lose no-hit bid in 9th vs Astros (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bauer-3-indians-relievers-lose-no-hit-bid-213825221--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T22:03:54Z</updated>
+    <published>2015-04-09T22:03:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-09T22:03:54Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/ipt/70x70.png" />
+  </entry>
+  <entry>
     <title>Lowrie homers with 1 out in 9th, 1st Houston hit vs Indians (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/indians-trevor-bauer-takes-no-hit-bid-6-203444911--mlb.html" />
     <author>
