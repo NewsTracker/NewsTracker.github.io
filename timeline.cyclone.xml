@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cyclone Nathan hits the Northern Territory</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/03/22/cyclone-nathan-intensifies-nt-coast" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-22T01:23:07Z</updated>
+    <published>2015-03-22T01:23:07Z</published>
+    <summary type="html">&lt;p&gt;The cyclone has been lashing the NT with wind gusts reaching up to 140km/h in some areas.&lt;/p&gt;</summary>
+    <dc:date>2015-03-22T01:23:07Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/idd65001.png?itok=A80qh0LJ" />
+  </entry>
+  <entry>
     <title>Coney Island Cyclone gets stuck during inaugural run on opening day</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3017119/Coney-Island-Cyclone-gets-stuck-opening-day-summer-season.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

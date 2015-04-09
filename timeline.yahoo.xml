@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gonzalez homers 3 times to lead Dodgers past Padres 7-4 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/gonzalez-homers-3-times-lead-dodgers-past-padres-053625736--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T06:38:54Z</updated>
+    <published>2015-04-09T06:38:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-09T06:38:54Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/sFXbUzInNVqsKoMCIIDBtg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504082322841584560" />
+  </entry>
+  <entry>
     <title>Jury to resume deliberations in Aaron Hernandez murder trial (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/jury-resume-deliberations-aaron-hernandez-murder-trial-052301334--nfl.html" />
     <author>
