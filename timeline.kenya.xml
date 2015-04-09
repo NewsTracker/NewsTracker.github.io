@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T09:53:59Z</updated>
+    <published>2015-04-09T09:53:59Z</published>
+    <summary type="html">&lt;p&gt;Nganyi RANET - it stands for "Radio Internet" - is a community radio station set up by the Kenya Meteorological Service to target communities particularly vulnerable to climate extremes.&lt;/p&gt;&lt;p&gt;There are now five RANET radio stations in Kenya where the climate change impacts are particularly strong.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T09:53:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya freezes key money transfers to Somalia over terror suspicion</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3030309/Kenya-lists-money-transfer-companies-suspected-terror-links.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Red Cross demands access to Islamic State-held Yarmouk camp in Syria</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3031737/Red-Cross-demands-access-Islamic-State-held-Yarmouk-camp-Syria.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T10:01:58Z</updated>
+    <published>2015-04-09T10:01:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-09T10:01:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Red Cross demands access to Islamic State-held Palestinian refugee camp in Syria</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/red-cross-demands-access-to-islamic-state-held-palestinian-refugee-camp-in-syria/article23854278/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T09:34:59Z</updated>
+    <published>2015-04-09T09:34:59Z</published>
+    <summary type="html">&lt;p&gt;Islamic State has taken most of Yarmouk from rival groups while the Syrian army surrounds the district, according to the Syrian Observatory for Human Rights.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T09:34:59Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/7e5/news/world/article23854277.ece/ALTERNATES/w220/BEI505-Mideast+Syria+Fight-1.JPG" />
+  </entry>
+  <entry>
+    <title>Red Cross calls for immediate aid for Syria's Yarmouk camp</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/09/red-cross-calls-for-immediate-aid-for-syrias-yarmouk-camp" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T09:33:37Z</updated>
+    <published>2015-04-09T09:33:37Z</published>
+    <summary type="html">&lt;p&gt;The ICRC says emergency medical care is "urgently needed" for the estimated 18,000 people still inside the Yarmouk camp, which has been engulfed by fighting since Islamic State militants last week overran much of the sprawling camp.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T09:33:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Sweden to send troops to Iraq to support fight against Islamic State</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/sweden-to-send-troops-to-iraq-to-support-fight-against-islamic-state/article23854242/?cmpid=rss1" />
     <author>

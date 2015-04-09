@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Class action privacy lawsuit filed against Facebook in Austria</title>
+    <link rel="alternate" href="http://www.theguardian.com/technology/2015/apr/09/class-action-privacy-lawsuit-filed-against-facebook-in-austria" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T10:37:16Z</updated>
+    <published>2015-04-09T10:37:16Z</published>
+    <summary type="html">&lt;p&gt;Among other issues, judges will have to rule on Facebook's objection that the class action is inadmissible under Austrian law - an objection dismissed by Schrems' lawyer as lacking "any substance".&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T10:37:16Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/4/9/1428573344342/a89aedd3-6e87-455f-8810-d24f5e16fe2c-300x180.jpeg" />
+  </entry>
+  <entry>
     <title>Facebook Sued By 25,000 Users Over Privacy</title>
     <link rel="alternate" href="http://news.sky.com/story/1461461/facebook-sued-by-25000-users-over-privacy" />
     <author>
