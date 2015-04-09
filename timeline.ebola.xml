@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>American with Ebola released from U.S. hospital, aid group says</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3032778/American-Ebola-released-U-S-hospital-aid-group-says.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T22:01:54Z</updated>
+    <published>2015-04-09T22:01:54Z</published>
+    <summary type="html">&lt;p&gt;According to the group, their colleague was declared Ebola free after two consecutive negative tests, and has been declared no longer contagious and able to return home.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T22:01:54Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif" />
+  </entry>
+  <entry>
+    <title>American with Ebola released from U.S. hospital, aid group says</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-health-ebola-usa-idUSKBN0N02BS20150409?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T21:30:57Z</updated>
+    <published>2015-04-09T21:30:57Z</published>
+    <summary type="html">&lt;p&gt;Sheila Davis, chief of Ebola response for Boston-based Partners In Health, said the group is "heartened by the news that our colleague is heading home, free of Ebola, and making his way toward a full recovery."&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T21:30:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Liberia watchdog says some Ebola funds unaccounted for</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3032573/Liberia-watchdog-says-Ebola-funds-unaccounted-for.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
