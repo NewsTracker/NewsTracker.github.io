@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>French international broadcaster TV5Monde hacked by "Islamic State"</title>
+    <link rel="alternate" href="http://www.dw.de/french-international-broadcaster-tv5monde-hacked-by-islamic-state/a-18370971?maca=en-rss-en-world-4025-rdf" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T01:34:00Z</updated>
+    <published>2015-04-09T01:34:00Z</published>
+    <summary type="html">&lt;p&gt;"We are no longer able to broadcast any of our channels. Our websites and social media sites are no longer under our control and are all displaying claims of responsibility by Islamic State," the broadcaster's director general Yves Bigot said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T01:34:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Conditions turn dire after Islamic State group militants overrun Palestinian camp in Syria</title>
     <link rel="alternate" href="http://www.startribune.com/world/299098121.html" />
     <author>
