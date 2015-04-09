@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Austrian court closes jurisdiction hearing on Facebook suit</title>
+    <link rel="alternate" href="http://news.yahoo.com/austrian-court-closes-jurisdiction-hearing-facebook-suit-123829088--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T12:38:29Z</updated>
+    <published>2015-04-09T12:38:29Z</published>
+    <summary type="html">&lt;p&gt;The Austria Press Agency says the court on Thursday ordered Facebook to give representatives of the plaintiffs translations of documents before the court within three weeks and for the plaintiffs' lawyers to respond within an additional three weeks.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T12:38:29Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/8cnuJf9Ukd1WJkxK9oycbQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2001733-1-1-0.jpg.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Austrian court closes jurisdiction hearing on Facebook suit</title>
+    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/04/09/austrian-court-closes-jurisdiction-hearing-on-facebook-suit" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T12:38:19Z</updated>
+    <published>2015-04-09T12:38:19Z</published>
+    <summary type="html">&lt;p&gt;The suit is being brought by Austrian law student Max Schrems and 25,000 Facebook users.&lt;/p&gt;&lt;p&gt;They claim Facebook is illegally tracking their data, including through alleged involvement in the PRISM surveillance program of the U.S. National Security Agency.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T12:38:19Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png" />
+  </entry>
+  <entry>
     <title>Class action privacy lawsuit filed against Facebook in Austria</title>
     <link rel="alternate" href="http://www.theguardian.com/technology/2015/apr/09/class-action-privacy-lawsuit-filed-against-facebook-in-austria" />
     <author>
