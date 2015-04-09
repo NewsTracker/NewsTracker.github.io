@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook Sued By 25,000 Users Over Privacy</title>
+    <link rel="alternate" href="http://news.sky.com/story/1461461/facebook-sued-by-25000-users-over-privacy" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T08:27:49Z</updated>
+    <published>2015-04-09T08:27:49Z</published>
+    <summary type="html">&lt;p&gt;He said: "Basically, we are asking Facebook to stop mass surveillance, to (have) a proper privacy policy that people can understand, but also to stop collecting data of people that are not even Facebook users.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T08:27:49Z</dc:date>
+    <media:content url="http://media.skynews.com/media/images/generated/2014/11/5/347291/default/v2/rtr47hvx-1-362x204.jpg" />
+  </entry>
+  <entry>
     <title>Facebook Messenger is now a standalone web app</title>
     <link rel="alternate" href="http://money.cnn.com/2015/04/08/technology/facebook-messenger-standalone-web-app/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fmoney_latest+%28CNNMoney%3A+Latest+News%29" />
     <author>
