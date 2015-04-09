@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.robert_durst.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Robert Durst pleads not guilty to firearm charges</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/real-estate-heir-robert-durst-pleads-not-guilty-to-firearm-charges/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T17:11:58Z</updated>
+    <published>2015-04-09T17:11:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-09T17:11:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Durst pleads not guilty to gun charges in New Orleans</title>
+    <link rel="alternate" href="http://nypost.com/2015/04/09/durst-pleads-not-guilty-to-gun-charges-in-new-orleans/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T16:43:57Z</updated>
+    <published>2015-04-09T16:43:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-09T16:43:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Real estate scion Robert Durst indicted on weapons charges in New Orleans</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-usa-durst-idUSKBN0MZ1PS20150408?feedType=RSS&amp;amp;feedName=domesticNews" />
     <author>

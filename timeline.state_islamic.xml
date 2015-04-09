@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dutch hostage rescued from Islamic militants in Mali thanks French troops</title>
+    <link rel="alternate" href="http://www.startribune.com/world/299206451.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T17:05:53Z</updated>
+    <published>2015-04-09T17:05:53Z</published>
+    <summary type="html">&lt;p&gt;It remains unclear who was holding Rijke, but the Dutchman appeared in a video posted in November by al-Qaida in the Islamic Maghreb.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T17:05:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Wisconsin man accused of trying to join Islamic State group</title>
     <link rel="alternate" href="http://news.yahoo.com/wisconsin-man-accused-trying-join-islamic-state-group-142319849.html" />
     <author>

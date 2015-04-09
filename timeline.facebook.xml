@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook tries to halt privacy class action suit</title>
+    <link rel="alternate" href="http://technology.canoe.ca/News/2015/04/09/22335371.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T16:03:29Z</updated>
+    <published>2015-04-09T16:03:29Z</published>
+    <summary type="html">&lt;p&gt;Facebook's lawyers did not address the details of the privacy concerns mentioned in his suit and declined to comment further outside of the court room.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T16:03:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook seeks to halt privacy case in Austria</title>
     <link rel="alternate" href="http://www.rte.ie/news/2015/0409/693035-facebook-austria/" />
     <author>
