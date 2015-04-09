@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Wisconsin man accused of trying to join Islamic State group</title>
+    <link rel="alternate" href="http://news.yahoo.com/wisconsin-man-accused-trying-join-islamic-state-group-142319849.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T14:54:57Z</updated>
+    <published>2015-04-09T14:54:57Z</published>
+    <summary type="html">&lt;p&gt;(AP) - A Wisconsin man traveled to the Middle East in a failed attempt to join the Islamic State group, federal authorities said Thursday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T14:54:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. man accused of trying to support to Islamic State</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-usa-security-islamicstate-idUSKBN0N01I620150409?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T14:39:26Z</updated>
+    <published>2015-04-09T14:39:26Z</published>
+    <summary type="html">&lt;p&gt;While there, he exchanged a series of Facebook messages with friends and interacted through the social network with other alleged Islamic State supporters, according to prosecutors.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T14:39:26Z</dc:date>
+  </entry>
+  <entry>
     <title>French network's 11 channels blacked out by group claiming Islamic State ties</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/french-network-s-11-channels-blacked-out-by-group-claiming-islamic-state-ties-1.2318657" />
     <author>

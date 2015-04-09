@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya freezes key money transfers to Somalia after university terror attack</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/kenya-freezes-key-money-transfers-to-somalia-after-university-terror-attack-20150409-1mh310.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T18:45:12Z</updated>
+    <published>2015-04-08T18:45:12Z</published>
+    <summary type="html">&lt;p&gt;Kenya has frozen key money transfer companies vital for Somalia after the police chief issued a list of 85 people and businesses with suspected links to the Al-Qaeda-linked group al-Shabab.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T18:45:12Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/h/3/2/r/image.related.articleLeadwide.620x349.1mh310.png/1428589001359.jpg" />
+  </entry>
+  <entry>
     <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>

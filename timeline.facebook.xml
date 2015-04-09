@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook tries to halt privacy class action suit</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/09/facebook-tries-to-halt-privacy-class-action-suit" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T14:52:09Z</updated>
+    <published>2015-04-09T14:52:09Z</published>
+    <summary type="html">&lt;p&gt;In the first hearing, attorneys for Schrems and Facebook battled on technical grounds about whether the student has the status of a private Facebook consumer and if the 25,000 plaintiffs are legally allowed to confer their rights on him.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T14:52:09Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297685455955_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Lawsuit aimed at 'ending Facebook's surveillance' is filed by student</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3031996/Lawsuit-aimed-ending-Facebook-s-mass-surveillance-members-filed-law-student-representing-80-000-people-say-data-used-illegally.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
