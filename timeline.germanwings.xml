@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>German police probe whether woman faked link to crash victim</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Police-probe-if-woman-faked-link-to-crash-victim-6189018.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T17:11:35Z</updated>
+    <published>2015-04-09T17:11:35Z</published>
+    <summary type="html">&lt;p&gt;At the crash site itself, Germanwings and Lufthansa now have responsibility for organizing the removal of the wreckage and clearing up any environmental damage, Lufthansa spokesman Boris Ogursky said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T17:11:35Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/52/06/7774622/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Airline official: Germanwings probe shouldn't set precedent</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article17866919.html%23storylink=rss" />
     <author>
@@ -313,7 +325,7 @@
     <dc:date>2015-03-31T10:03:06Z</dc:date>
   </entry>
   <entry>
-    <title>Families of victims of Germanwings plane crash could face up to four months waiting for loved ones remains to be identified </title>
+    <title>Families of victims of Germanwings plane crash could face up to four months waiting for loved ones remains to be identified?</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3018926/Families-victims-Germanwings-plane-crash-face-four-months-waiting-loved-ones-remains-identified.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
