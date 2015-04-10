@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya official compares Garissa University terror victims to 'cockroaches'</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/kenya-official-compares-garissa-university-terror-victims-to-cockroaches-20150409-1mhy5c.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T23:59:15Z</updated>
+    <published>2015-04-09T23:59:15Z</published>
+    <summary type="html">&lt;p&gt;Another government official expressed irritation that Kenya's media were "negative" in their accounts of the handling of the attack.&lt;/p&gt;&lt;p&gt;President Uhuru Kenyatta has been criticised in Kenya's media for failing to meet with grieving parents or surviving students in the wake of the attack.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T23:59:15Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/e/r/j/5/image.related.articleLeadwide.620x349.1mhy5c.png/1428623947356.jpg" />
+  </entry>
+  <entry>
     <title>Kenya freezes key money transfers to Somalia after university terror attack</title>
     <link rel="alternate" href="http://www.smh.com.au/world/kenya-freezes-key-money-transfers-to-somalia-after-university-terror-attack-20150409-1mh310.html" />
     <author>
@@ -16,7 +28,7 @@
     <media:content url="http://www.smh.com.au/content/dam/images/1/m/h/3/2/r/image.related.articleLeadwide.620x349.1mh310.png/1428589001359.jpg" />
   </entry>
   <entry>
-    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
+    <title>Community radio brings forecasts to Kenya?s most climate vulnerable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
       <name />
@@ -844,7 +856,7 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Al-Shabaab Kenya attack: death toll rises to 147 – live updates</title>
+    <title>Al-Shabaab Kenya attack: death toll rises to 147 ? live updates</title>
     <link rel="alternate" href="http://www.theguardian.com/world/live/2015/apr/02/al-shabaab-seize-hostages-in-standoff-at-kenya-college-live-updates" />
     <author>
       <name />
