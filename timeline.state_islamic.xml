@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>After Damascus move, Islamic State attacks rivals near Aleppo</title>
+    <link rel="alternate" href="http://news.yahoo.com/damascus-move-islamic-state-attacks-rivals-near-aleppo-135529612.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T14:17:52Z</updated>
+    <published>2015-04-10T14:17:52Z</published>
+    <summary type="html">&lt;p&gt;Islamic State remains the single most powerful insurgent group in the country, where most of the territory it holds has been seized from weaker anti-Assad factions.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T14:17:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>After Damascus move, Islamic State attacks rivals near Aleppo</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3033775/After-Damascus-Islamic-State-attacks-rivals-near-Aleppo.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

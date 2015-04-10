@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Louis Oosthuizen makes early move in 2nd round of Masters (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/els-course-spieth-set-start-masters-2nd-round-140537126--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T14:29:53Z</updated>
+    <published>2015-04-10T14:29:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T14:29:53Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/DbM_rJ4PebW5BvnePliVkg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504100856322177294" />
+  </entry>
+  <entry>
     <title>Curry breaks 3-point record, Warriors beat Blazers 116-105 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/curry-breaks-3-point-record-warriors-beat-blazers-051247306--nba.html" />
     <author>
