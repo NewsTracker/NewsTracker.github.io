@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Grief counselors on hand to help families after Kenya attack</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Unsung-heroes-Kenya-counselors-help-relatives-of-6191333.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T18:51:49Z</updated>
+    <published>2015-04-10T18:51:49Z</published>
+    <summary type="html">&lt;p&gt;NAIROBI, Kenya (AP) - There was sobbing and silent grief.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T18:51:49Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/60/03/7798992/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Grief counselors on hand to help families after Kenya attack</title>
     <link rel="alternate" href="http://news.yahoo.com/unsung-heroes-kenya-counselors-help-relatives-dead-134519965.html" />
     <author>
       <name />
