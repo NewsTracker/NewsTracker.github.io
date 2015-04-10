@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt militants behind Cairo blast name new leader</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-militants-behind-cairo-blast-name-leader-122512300.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T12:25:12Z</updated>
+    <published>2015-04-10T12:25:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T12:25:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Civilians killed as Egypt launches air strikes in Libya</title>
     <link rel="alternate" href="http://www.aljazeera.com/news/2015/02/egypt-bombs-isil-targets-libya-mass-beheadings-150216063339037.html" />
     <author>
