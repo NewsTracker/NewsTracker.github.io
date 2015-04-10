@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Curry breaks 3-point record, Warriors beat Blazers 116-105 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/curry-breaks-3-point-record-warriors-beat-blazers-051247306--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T05:35:04Z</updated>
+    <published>2015-04-10T05:35:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T05:35:04Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Report: Steelers safety Troy Polamalu retiring (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/report-steelers-safety-troy-polamalu-retiring-030406378--nfl.html" />
     <author>
