@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Man in hospital for possible Ebola</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3033268/Man-hospital-possible-Ebola.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T08:01:33Z</updated>
+    <published>2015-04-10T08:01:33Z</published>
+    <summary type="html">&lt;p&gt;ACT Health Acting Chief Health Officer Dr Andrew Pengilley said he worked as a medical professional in Liberia where there had been a large number of Ebola cases.&lt;/p&gt;&lt;p&gt;"Due to the low number of cases in Liberia recently, the person did not treat any cases of Ebola," he said in a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T08:01:33Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif" />
+  </entry>
+  <entry>
+    <title>Man in hospital for possible Ebola</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-national/man-in-hospital-for-possible-ebola-20150410-3tuki.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T07:22:24Z</updated>
+    <published>2015-04-10T07:22:24Z</published>
+    <summary type="html">&lt;p&gt;Dr Pengilley said he would be treated for Ebola and until that proved negative, it would be handled as a worst-case scenario.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T07:22:24Z</dc:date>
+  </entry>
+  <entry>
     <title>American with Ebola released from U.S. hospital, aid group says</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3032778/American-Ebola-released-U-S-hospital-aid-group-says.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
