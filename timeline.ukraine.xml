@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia slams Ukrainian law banning Communist-era symbols</title>
+    <link rel="alternate" href="http://news.yahoo.com/russia-slams-ukrainian-law-banning-communist-era-symbols-193058244.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T19:30:58Z</updated>
+    <published>2015-04-10T19:30:58Z</published>
+    <summary type="html">&lt;p&gt;A ministry statement said Friday that the laws "match the distorted ideas that are being propagated by the incumbent authorities in Ukraine" and that they are a pretext for "introducing totalitarian methods to liquidate unsuitable parties."&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T19:30:58Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine military, rebels accuse each other of increased attacks</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/10/us-ukraine-crisis-idUSKBN0N10Z720150410?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
