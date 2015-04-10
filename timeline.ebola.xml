@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Risk of Ebola spreading to other countries appears to lessen: WHO</title>
+    <link rel="alternate" href="http://news.yahoo.com/risk-ebola-spreading-other-countries-seen-less-120519767.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T13:30:43Z</updated>
+    <published>2015-04-10T13:30:43Z</published>
+    <summary type="html">&lt;p&gt;The WHO's Emergency Committee, comprising independent experts who held talks on Thursday, was "absolutely firm" in maintaining that view, said Dr. Bruce Aylward, WHO Special Representative for the Ebola Response.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T13:30:43Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/dnKrNI.6aqnemyJquqLfSQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_ZA/News/Reuters/2015-04-08T144957Z_1007970001_LYNXMPEB370ME_RTROPTP_2_OZATP-UK-LIBERIA-POLITICS.JPG.cf.jpg" />
+  </entry>
+  <entry>
+    <title>FDA modifies partial clinical hold on Tekmira Ebola study</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/10/us-health-ebola-tekmira-idUSKBN0N11AF20150410?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T13:16:07Z</updated>
+    <published>2015-04-10T13:16:07Z</published>
+    <summary type="html">&lt;p&gt;The company's application to study the treatment, TKM-Ebola, remains on partial clinical hold for doses above 0.24 mg/kg per day, Tekmira said on Friday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T13:16:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Risk of Ebola spreading to other countries seen as less - WHO</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3033615/Risk-Ebola-spreading-countries-seen--WHO.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
