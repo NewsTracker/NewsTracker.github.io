@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boko Haram killing men, tribes linked to Chad, witnesses say</title>
+    <link rel="alternate" href="http://www.sfgate.com/world/article/Boko-Haram-killing-men-tribes-linked-to-Chad-6117423.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-05T22:15:25Z</updated>
+    <published>2015-03-05T22:15:25Z</published>
+    <summary type="html">&lt;p&gt;"They gathered the people in the market, and then separated the Kanuris from the Shuwa Arabs; then they informed the Shuwa Arabs that it was your tribesmen of Chad that are tormenting (Boko Haram)," he said.&lt;/p&gt;&lt;p&gt;Nigeria's neighbor, Chad, has spearheaded a regional offensive and seized back major towns bordering Cameroon from Boko Haram in recent weeks.&lt;/p&gt;</summary>
+    <dc:date>2015-03-05T22:15:25Z</dc:date>
+  </entry>
+  <entry>
     <title>Boko Haram still killing and burning in face of offensive despite ouster from towns, camps</title>
     <link rel="alternate" href="http://www.startribune.com/world/299339471.html" />
     <author>
@@ -1147,17 +1158,6 @@
     <published>2015-03-06T07:55:57Z</published>
     <summary type="html">&lt;p&gt;Officials say that several thousand had arrived in Chad by the end of 2015 as Boko Haram intensified its attacks in the area.&lt;/p&gt;</summary>
     <dc:date>2015-03-06T07:55:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Boko Haram killing men, tribes linked to Chad, witnesses say</title>
-    <link rel="alternate" href="http://www.sfgate.com/world/article/Boko-Haram-killing-men-tribes-linked-to-Chad-6117423.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-05T22:15:25Z</updated>
-    <published>2015-03-05T22:15:25Z</published>
-    <summary type="html">&lt;p&gt;"They gathered the people in the market, and then separated the Kanuris from the Shuwa Arabs; then they informed the Shuwa Arabs that it was your tribesmen of Chad that are tormenting (Boko Haram)," he said.&lt;/p&gt;</summary>
-    <dc:date>2015-03-05T22:15:25Z</dc:date>
   </entry>
   <entry>
     <title>Boko Haram refugees risk lives to cross lake to Chad camps</title>

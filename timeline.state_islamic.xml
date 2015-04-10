@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State attacks Iraqi provincial capital</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/10/us-mideast-crisis-iraq-idUSKBN0N11OR20150410?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T16:17:46Z</updated>
+    <published>2015-04-10T16:17:46Z</published>
+    <summary type="html">&lt;p&gt;Security forces and Shi'ite Muslim paramilitaries have since regained some ground in Iraq, although core Sunni territories remain under Islamic State control including Anbar and the northern province of Nineveh.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T16:17:46Z</dc:date>
+  </entry>
+  <entry>
     <title>After Damascus move, Islamic State attacks rivals near Aleppo</title>
     <link rel="alternate" href="http://news.yahoo.com/damascus-move-islamic-state-attacks-rivals-near-aleppo-135529612.html" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>West African leaders urge Ebola 'Marshall Plan'</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/3/african-leaders-urge-ebola-marshall-plan.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T19:15:00Z</updated>
+    <published>2015-03-03T19:15:00Z</published>
+    <summary type="html">&lt;p&gt;The countries at the center of the Ebola epidemic are forecast to lose 12 percent of their combined gross domestic product this year, according to World Bank estimates.&lt;/p&gt;&lt;p&gt;Ebola, one of the deadliest pathogens known to man, is spread through direct contact with the bodily fluids of an infected person showing symptoms such as fever or vomiting.&lt;/p&gt;&lt;p&gt;The conference's lead participants stressed in their closing statements the "importance of maintaining international engagement with the recovery and development process in the Ebola-affected countries."&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T19:15:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/3/20/who-warns-of-measles-in-ebola-countries/_jcr_content/image.adapt.480.low.WHO_Ebola_032015.jpg" />
+  </entry>
+  <entry>
     <title>'Progress' in Ebola fight, but 'substantial risks' remain: WHO</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3033872/Progress-Ebola-fight-substantial-risks-remain-WHO.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1816,18 +1828,6 @@
     <published>2015-03-05T06:25:08Z</published>
     <summary type="html">&lt;p&gt;Even though no cases of Ebola had been reported anywhere near North Korea, the country shut out foreign tourists in October with some of the strictest Ebola regulations in the world, including saying that only local runners would be allowed into the marathon in April.&lt;/p&gt;</summary>
     <dc:date>2015-03-05T06:25:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>West African leaders urge Ebola 'Marshall Plan'</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/3/african-leaders-urge-ebola-marshall-plan.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T19:15:00Z</updated>
-    <published>2015-03-03T19:15:00Z</published>
-    <summary type="html">&lt;p&gt;The countries at the center of the Ebola epidemic are forecast to lose 12 percent of their combined gross domestic product this year, according to World Bank estimates.&lt;/p&gt;&lt;p&gt;Ebola, one of the deadliest pathogens known to man, is spread through direct contact with the bodily fluids of an infected person showing symptoms such as fever or vomiting.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T19:15:00Z</dc:date>
-    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/3/20/who-warns-of-measles-in-ebola-countries/_jcr_content/image.adapt.480.low.WHO_Ebola_032015.jpg" />
   </entry>
   <entry>
     <title>Ohio bridal shop linked to Ebola survivor will sell building</title>

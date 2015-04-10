@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Israel's Netanyahu says no Palestinian state if he remains PM</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/benjamin-netanyahu-says-no-palestinian-state-if-he-remains-israeli-pm-1.2996413?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T09:31:32Z</updated>
+    <published>2015-03-16T09:31:32Z</published>
+    <summary type="html">&lt;p&gt;Netanyahu dissolved his government in December and ordered the new election, two years ahead of schedule, in the belief that he would cruise to a new term.&lt;/p&gt;&lt;p&gt;Kahlon, who broke off from Netanyahu's Likud, is demanding to become finance minister in the next government and has given no indication as to whom he would prefer as prime minister.&lt;/p&gt;&lt;p&gt;He accused both Netanyahu and Herzog of working outside deals with special interest groups and said that only he was tackling the real issues facing the Israeli middle class.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T09:31:32Z</dc:date>
+  </entry>
+  <entry>
     <title>Walker says he expects to meet with Netanyahu in Israel</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3033753/Walker-says-expects-meet-Netanyahu-Israel.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -485,17 +496,6 @@
     <summary type="html">&lt;p&gt;Israeli law does not oblige the president to assign the task of forming the government to the party that won the largest share of votes, in this case Mr Netanyahu's Likud.&lt;/p&gt;&lt;p&gt;Mr Netanyahu said that "Israel's hand remains extended in peace to our Palestinian neighbours" but that security was the basis for hope of a genuine peace.&lt;/p&gt;&lt;p&gt;Referring to relations with the US, Mr Netanyahu said: "We deeply value the alliance with our greatest of friends and will act to preserve it."&lt;/p&gt;&lt;p&gt;Mr Netanyahu will have several weeks to negotiate with potential members of his coalition to reconcile demands over appointments and ideological positions and ensure a stable government.&lt;/p&gt;&lt;p&gt;In addition to the widening gap between the White House and Mr Netanyahu, Israel may be facing pressure from the European Union concerning policies in East Jerusalem.&lt;/p&gt;&lt;p&gt;Accepting Mr Rivlin's appointment to form the next coalition, Mr Netanyahu thanked Israeli citizens for their trust, pledged to "mend the rifts" between different segments of society and called for the nation to put election divisions behind it.&lt;/p&gt;</summary>
     <dc:date>2015-03-25T23:46:57Z</dc:date>
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/7/r/1/f/image.related.articleLeadwide.620x349.1m7wa5.png/1427292518658.jpg" />
-  </entry>
-  <entry>
-    <title>Israel's Netanyahu says no Palestinian state if he remains PM</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/world/benjamin-netanyahu-says-no-palestinian-state-if-he-remains-israeli-pm-1.2996413?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T09:31:32Z</updated>
-    <published>2015-03-16T09:31:32Z</published>
-    <summary type="html">&lt;p&gt;Netanyahu dissolved his government in December and ordered the new election, two years ahead of schedule, in the belief that he would cruise to a new term.&lt;/p&gt;&lt;p&gt;Kahlon, who broke off from Netanyahu's Likud, is demanding to become finance minister in the next government and has given no indication as to whom he would prefer as prime minister.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T09:31:32Z</dc:date>
   </entry>
   <entry>
     <title>Netanyahu makes last attempt for rightwing vote at Tel Aviv rally</title>
