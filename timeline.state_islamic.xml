@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Lebanese police kill prominent Islamic militant in shootout</title>
+    <link rel="alternate" href="http://news.yahoo.com/lebanese-police-kill-prominent-islamic-militant-shootout-101615981.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T10:16:15Z</updated>
+    <published>2015-04-10T10:16:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T10:16:15Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/5Sgf2iwSlgH9wq4UE6ZTLA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/video/video.reutersnews.com/2015-04-09T220057Z_1_LOVEB381P5KXF_RTRMADP_BASEIMAGE-960X540_USA-POLICE-SHOOTING-DASH-CAM-ROUGH-CUT-O.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>Wisconsin man charged with trying to join Islamic State group in the Middle East</title>
     <link rel="alternate" href="http://www.startribune.com/world/299190411.html" />
     <author>
