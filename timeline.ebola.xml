@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Woman isolated for possible Ebola</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/10/woman-isolated-possible-ebola" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T09:01:35Z</updated>
+    <published>2015-04-10T09:01:35Z</published>
+    <summary type="html">&lt;p&gt;The unnamed woman returned to Australia on April 5 after working in an Ebola treatment centre in Liberia.&lt;/p&gt;&lt;p&gt;That country hasn't had any cases recently and she hadn't actually treated any Ebola patients.&lt;/p&gt;&lt;p&gt;Health officials say it's most unlikely she has Ebola and her symptoms - a fever and stomach upset - are consistent with many other conditions.&lt;/p&gt;&lt;p&gt;"We believe that this patient has an extremely low risk of having Ebola," he told reporters.&lt;/p&gt;&lt;p&gt;"Ebola is not a particularly transmissible infection under normal circumstances. It's transmitted by direct contact with bodily fluids so we are confident there is no risk to the wider community," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T09:01:35Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/1/0/100415m_EbolaCanberra_800x600.jpg?itok=I_puMz8j" />
+  </entry>
+  <entry>
+    <title>Woman isolated for possible Ebola</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3033268/Man-hospital-possible-Ebola.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T09:01:33Z</updated>
+    <published>2015-04-10T09:01:33Z</published>
+    <summary type="html">&lt;p&gt;"Here where the patient has an extremely low risk of Ebola, we know there is no risk to the public of Ebola."&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T09:01:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Man in hospital for possible Ebola</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3033268/Man-hospital-possible-Ebola.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
