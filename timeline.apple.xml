@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Strong turnout in Australia for first glimpse at Apple Watch</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3032788/Apple-expects-strong-demand-smartwatch-consumer-debut.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T02:08:36Z</updated>
+    <published>2015-04-10T02:08:36Z</published>
+    <summary type="html">&lt;p&gt;"I feel naked without a watch. I think I will buy the Apple watch with the sports band ... I'm working very hard right now so I can buy this watch," Bock told Reuters.&lt;/p&gt;&lt;p&gt;"This is just Apple's interpretation of the watch, I don't think watch makers should be worried at all," Stephen Fenech, editor of the Tech Guide website, told Reuters.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T02:08:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple expects strong demand in smartwatch consumer debut</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/10/us-apple-watch-idUSKBN0N01BT20150410?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
@@ -360,7 +371,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/09/2676E1D100000578-2986641-The_Apple_Watch_is_available_in_three_models_the_Apple_Watch_App-a-33_1425926709082.jpg" />
   </entry>
   <entry>
-    <title>Apple Watch review: You?ll want one, but you don?t need one</title>
+    <title>Apple Watch review: You’ll want one, but you don’t need one</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-watch-review-youll-want-one-but-you-dont-need-one" />
     <author>
       <name />
@@ -715,7 +726,7 @@
     <dc:date>2015-03-26T22:03:40Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Plans?China IPhone Trade-In Program With Foxconn</title>
+    <title>Apple Plans China IPhone Trade-In Program With Foxconn</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/video-apple-plans-china-iphone-055938135.html" />
     <author>
       <name />
@@ -726,7 +737,7 @@
     <dc:date>2015-03-26T05:59:38Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Plans?China IPhone Trade-In Program With Foxconn</title>
+    <title>Apple Plans China IPhone Trade-In Program With Foxconn</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/video-apple-plans-china-iphone-055938216.html" />
     <author>
       <name />

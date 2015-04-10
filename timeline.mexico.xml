@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Crash of band's tour bus in Mexico kills 4, injures 10</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11430708&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T01:50:12Z</updated>
+    <published>2015-04-10T01:50:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T01:50:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico says only holding North Korea ship to comply with U.N. rules</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3032973/Mexico-says-holding-North-Korea-ship-comply-U-N-rules.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -747,7 +758,7 @@
     <dc:date>2015-03-20T13:29:49Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -759,7 +770,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -1160,7 +1171,7 @@
     <dc:date>2015-03-21T18:47:58Z</dc:date>
   </entry>
   <entry>
-    <title>?Lucha libre? wrestler dies from hit in the ring</title>
+    <title>‘Lucha libre’ wrestler dies from hit in the ring</title>
     <link rel="alternate" href="http://nypost.com/2015/03/21/mexico-lucha-libre-wrestler-dies-from-hit-in-the-ring/" />
     <author>
       <name />
