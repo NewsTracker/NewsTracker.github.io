@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Civilians killed as Egypt launches air strikes in Libya</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/02/egypt-bombs-isil-targets-libya-mass-beheadings-150216063339037.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-16T19:22:51Z</updated>
+    <published>2015-02-16T19:22:51Z</published>
+    <summary type="html">&lt;p&gt;Egypt later confirmed it had signed a $5.8bn deal to buy French weaponry, including 24 Rafale combat jets, a multi-mission naval frigate and air-to-air missiles.&lt;/p&gt;</summary>
+    <dc:date>2015-02-16T19:22:51Z</dc:date>
+    <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/2/16/f8483ce9da7b4092b36a3bb1289ec947_18.jpg" />
+  </entry>
+  <entry>
     <title>Egypt to try another 379 Brotherhood members over sit-in violence</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3031179/Egypt-try-379-Brotherhood-members-sit-violence.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

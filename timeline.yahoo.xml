@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: Steelers safety Troy Polamalu retiring (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/report-steelers-safety-troy-polamalu-retiring-030406378--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T03:26:40Z</updated>
+    <published>2015-04-10T03:26:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T03:26:40Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/Pr423d4q9wrKRv4rOJKOww--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/c1a3e8c096d43ddb0e65b2d80fdfa0b6" />
+  </entry>
+  <entry>
     <title>Hawks' Thabo Sefolosha hurt in arrest, to miss playoffs (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/hawks-thabo-sefolosha-hurt-arrest-miss-playoffs-224441526--nba.html" />
     <author>
