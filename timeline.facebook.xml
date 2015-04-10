@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook responds to Belgian tracking allegations</title>
+    <link rel="alternate" href="http://www.upi.com/Top_News/World-News/2015/04/10/Facebook-responds-to-Belgian-tracking-allegations/7631428683927/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T17:34:34Z</updated>
+    <published>2015-04-10T17:34:34Z</published>
+    <summary type="html">&lt;p&gt;"The researchers did find a bug that may have sent cookies (code stored in web browsers) to some people when they weren't on Facebook," Allen said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T17:34:34Z</dc:date>
+    <media:content url="http://www.upi.com/img/clear.gif" />
+  </entry>
+  <entry>
     <title>Italian right-wing leader says Facebook blocks his personal page</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3032598/Italian-right-wing-leader-says-Facebook-blocks-personal-page.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
