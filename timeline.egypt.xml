@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court sentences US-Egyptian citizen to life in prison</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article18258626.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T11:10:05Z</updated>
+    <published>2015-04-11T11:10:05Z</published>
+    <summary type="html">&lt;p&gt;Since Morsi's ouster, Egypt has faced international criticism for conducting mass trials with judges issuing severe sentences.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T11:10:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Egypt Court Sentences US-Egyptian Citizen to Life in Prison</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/report-court-sentences-us-egypt-citizen-life-prison-30244233" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T11:09:09Z</updated>
+    <published>2015-04-11T11:09:09Z</published>
+    <summary type="html">&lt;p&gt;Last year he sentenced three journalists from Al-Jazeera English to jail terms ranging from seven to 10 years, a verdict that exposed Egypt to global complaints of suppressing media freedom.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T11:09:09Z</dc:date>
+  </entry>
+  <entry>
     <title>Report: Court sentences US-Egypt citizen to life in prison</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Report-Court-sentences-US-Egypt-citizen-to-life-6193232.php" />
     <author>
