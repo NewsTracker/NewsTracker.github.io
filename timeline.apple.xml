@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>China’s knock-off Apple Watch fans</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102578223" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T04:07:00Z</updated>
+    <published>2015-04-11T04:07:00Z</published>
+    <summary type="html">&lt;p&gt;No queues stretched down the street as they normally do for Apple product launches.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T04:07:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/10/102576379-RTR4WS9F.80x60.jpg?v=1428670320" />
+  </entry>
+  <entry>
     <title>Latest on Apple Watch release: Where to try on gold watch</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article18048599.html%23storylink=rss" />
     <author>
