@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya: Hero's burial for officer who helped stop attack</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/11/kenya-heros-burial-for-officer-who-helped-stop/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T14:24:20Z</updated>
+    <published>2015-04-11T14:24:20Z</published>
+    <summary type="html">&lt;p&gt;Corporal Benard Kipkemoi Tonui was part of the police department's Recce Company which stopped the April 2 attack on Garissa University College in eastern Kenya in less than half an hour.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T14:24:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenya: Hero's burial for officer who helped stop attack</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/11/kenya-heros-burial-for-officer-who-helped-stop-attack" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T14:24:20Z</updated>
+    <published>2015-04-11T14:24:20Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-11T14:24:20Z</dc:date>
+  </entry>
+  <entry>
     <title>Grief counselors on hand to help families after Kenya attack</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Unsung-heroes-Kenya-counselors-help-relatives-of-6191333.php" />
     <author>
