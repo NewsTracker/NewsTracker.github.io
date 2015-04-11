@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Woman returns negative Ebola test</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3034437/Woman-returns-negative-Ebola-test.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T00:11:43Z</updated>
+    <published>2015-04-11T00:11:43Z</published>
+    <summary type="html">&lt;p&gt;The woman, who has not been named, did not treat any cases of Ebola during her time in Liberia.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T00:11:43Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/sitelogos/logo_mol.gif" />
+  </entry>
+  <entry>
+    <title>Woman returns negative Ebola test</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-national/woman-returns-negative-ebola-test-20150411-3tvla.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T23:20:20Z</updated>
+    <published>2015-04-10T23:20:20Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T23:20:20Z</dc:date>
+  </entry>
+  <entry>
     <title>Ebola: The Fight To Reach Zero And The Road To Recovery</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/lindsay-coates/ebola-the-fight-to-reach_b_7042988.html" />
     <author>
