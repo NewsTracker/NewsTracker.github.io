@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Senators cap sizzling 2nd-half rally with East playoff spot (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/senators-cap-sizzling-2nd-half-rally-east-playoff-192155544--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T19:27:50Z</updated>
+    <published>2015-04-11T19:27:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-11T19:27:50Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
     <title>AP Source: QB Johnny Manziel released from rehab (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-qb-johnny-manziel-released-rehab-182959191--nfl.html" />
     <author>

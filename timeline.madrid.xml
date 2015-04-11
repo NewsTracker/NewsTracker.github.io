@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.madrid.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Barcelona stumbles 2-2 at Sevilla, Madrid cuts lead with win</title>
+    <link rel="alternate" href="http://news.yahoo.com/ronaldo-strikes-again-madrid-wins-pressure-barcelona-155700890.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T20:25:33Z</updated>
+    <published>2015-04-11T20:25:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-11T20:25:33Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/NxO8_4K10eQLryPC76wmDg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/f0ec9bb2446b5f10730f6a706700b1ec.jpg" />
+  </entry>
+  <entry>
     <title>Cristiano Ronaldo scores first free-kick in 31 attempts and more than a year as Real Madrid beat Eibar 3-0 to keep pressure on Barcelona</title>
     <link rel="alternate" href="http://www.independent.co.uk/sport/football/european/cristiano-ronaldo-scores-first-freekick-in-a-year-as-real-madrid-beat-eibar-30-10169895.html" />
     <author>
