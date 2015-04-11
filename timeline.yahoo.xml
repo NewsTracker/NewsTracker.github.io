@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Old rivals Red Sox and Yankees tied at 5 in 19th inning (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/red-sox-yankees-tied-17th-inning-power-outage-052459401--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T06:16:30Z</updated>
+    <published>2015-04-11T06:16:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-11T06:16:30Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/7vwoQ77XotR4QurpJ5sU3g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504102359863990387" />
+  </entry>
+  <entry>
     <title>Felton lifts Mavs to 144-143 win over Nuggets in 2 OTs (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/felton-lifts-mavs-144-143-win-over-nuggets-042549173--nba.html" />
     <author>
