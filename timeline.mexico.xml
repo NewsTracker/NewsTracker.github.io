@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Latest on Americas Summit: Mexico backs US-Cuba talks</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/11/latest-on-americas-summit-formal-summit-session-starts-late" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T19:51:17Z</updated>
+    <published>2015-04-11T19:51:17Z</published>
+    <summary type="html">&lt;p&gt;President Enrique Pena Nieto of Mexico is expressing support for negotiations to improve relations between Cuba and the United States, countries he describes as "two great friends of Mexico."&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T19:51:17Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/4a2c21b/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2F56%2Fbd%2F53c7917345d3a14110a1d1a64a0a%2Fresizes%2F500%2Fap278800513483-9.jpg" />
+  </entry>
+  <entry>
     <title>Mexico reports bird flu outbreaks in Puebla, Oaxaca states</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-mexico-birdflu-idUSKBN0N01UA20150409?feedType=RSS&amp;amp;feedName=healthNews" />
     <author>
