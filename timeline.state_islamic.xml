@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State attacks Iraqi provincial capital</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/11/us-mideast-crisis-iraq-idUSKBN0N11OR20150411?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T10:23:12Z</updated>
+    <published>2015-04-11T10:23:12Z</published>
+    <summary type="html">&lt;p&gt;Hundreds of families were fleeing Albu Faraj, just north of Ramadi, after Islamic State militants broke into the homes of policemen and soldiers in the area and killed 15 members of their families.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T10:23:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Kansas man arrested in bomb plot in support of Islamic State -U.S.</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3034108/U-S-man-arrested-car-bombing-plot-Kansas-army-base.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

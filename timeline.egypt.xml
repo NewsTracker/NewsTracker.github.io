@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: Court sentences US-Egypt citizen to life in prison</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Report-Court-sentences-US-Egypt-citizen-to-life-6193232.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T09:54:33Z</updated>
+    <published>2015-04-11T09:54:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-11T09:54:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt court confirms death sentence for Brotherhood chief, 11 others</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-court-confirms-death-sentence-brotherhood-chief-11-084533549.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T09:18:47Z</updated>
+    <published>2015-04-11T09:18:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-11T09:18:47Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/6YPem.u96rHxxEfj6khiug--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/97b86283b8ce05efbcdb25dccdde4ee384845f92.jpg" />
+  </entry>
+  <entry>
     <title>Egypt sentences Muslim Brotherhood leader, others to death</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3034695/Egypt-sentences-Muslim-Brotherhood-leader-death.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
