@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya: Hero's burial for officer who helped stop attack</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/11/kenya-heros-burial-for-officer-who-helped-stop-attack" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T18:01:47Z</updated>
+    <published>2015-04-11T18:01:47Z</published>
+    <summary type="html">&lt;p&gt;Thousands gathered in the remote village in Kenya's Rift Valley to give a hero's burial to the police officer who died fighting to end the Islamic extremist attack which killed 148 people.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T18:01:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya: Hero's Burial for Officer Who Helped Stop Attack</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/kenya-heros-burial-officer-helped-stop-attack-30246138" />
     <author>

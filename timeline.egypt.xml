@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court sentences US-Egyptian citizen to life in prison</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article18258626.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T18:45:07Z</updated>
+    <published>2015-04-11T18:45:07Z</published>
+    <summary type="html">&lt;p&gt;Mohamed Elmessiry, the Egypt researcher for rights group Amnesty International, said in a phone interview that Saturday's verdicts were "politically motivated."&lt;/p&gt;&lt;p&gt;Egypt's official news agency said the court upheld death sentences for 14 people, including the leader of the country's banned Muslim Brotherhood, and sentenced 37 others to life in prison.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T18:45:07Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Egypt Sentences Muslim Brotherhood Leader To Death, US-Egyptian Citizen To Life</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/11/egypt-death-sentences_n_7045932.html" />
     <author>
