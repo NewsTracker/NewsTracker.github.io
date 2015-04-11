@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya: Hero's Burial for Officer Who Helped Stop Attack</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/kenya-heros-burial-officer-helped-stop-attack-30246138" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T16:49:19Z</updated>
+    <published>2015-04-11T16:49:19Z</published>
+    <summary type="html">&lt;p&gt;The success of Recce Company has given a much needed boost to the image of the Kenya police force, which many deride as ineffective and corrupt.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T16:49:19Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>Kenya demands UN removes massive Somali refugee camp</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3034933/Kenya-demands-UN-removes-massive-Somali-refugee-camp.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

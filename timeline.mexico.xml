@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico reports bird flu outbreaks in Puebla, Oaxaca states</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-mexico-birdflu-idUSKBN0N01UA20150409?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T22:24:52Z</updated>
+    <published>2015-04-09T22:24:52Z</published>
+    <summary type="html">&lt;p&gt;Mexico's agriculture ministry said in a statement on Thursday that the reported cases were immediately controlled and that animal health authorities had not found any other infected birds.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T22:24:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Mining company director: We have 'good relationship' with cartels to maintain operations</title>
     <link rel="alternate" href="http://www.startribune.com/world/299351941.html" />
     <author>
