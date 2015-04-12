@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings plane evacuated after bomb threat received</title>
+    <link rel="alternate" href="http://news.yahoo.com/germanwings-plane-evacuated-police-receive-bomb-threat-181115652.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T19:58:41Z</updated>
+    <published>2015-04-12T19:58:41Z</published>
+    <summary type="html">&lt;p&gt;The tower in Cologne alerted the pilot of the Airbus A320, which was taxiing toward the runway at the time, Germanwings said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T19:58:41Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/keZ8PRiUSZ3a_mqYFWhbqA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-04-12T203230Z_1007000003_LYNXMPEB3B0F5_RTROPTP_2_CNEWS-US-GERMANWINGS-EVACUATION.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>Germanwings says plane evacuated at Cologne-Bonn airport after bomb threat received</title>
     <link rel="alternate" href="http://www.startribune.com/world/299496551.html" />
     <author>

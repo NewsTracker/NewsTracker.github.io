@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Blasts kill 13 in Egypt's Sinai peninsula</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/12/sinai-attack-kills-13.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T17:50:00Z</updated>
+    <published>2015-04-12T17:50:00Z</published>
+    <summary type="html">&lt;p&gt;Egypt's military said a roadside bomb detonated by the fighters killed six soldiers and wounded two others in an attack on an armored military vehicle in the town of Sheikh Zuweid.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T17:50:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/4/2/egyptian-soldiers-killed-in-sinai-ambush/_jcr_content/image.adapt.480.low.Egypt_Sinai_blast_map_07132014.jpg" />
+  </entry>
+  <entry>
     <title>Egypt imposes life jail penalty for cross-border tunnel use</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3035995/Egypt-imposes-life-jail-penalty-cross-border-tunnel-use.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
