@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Blast in Egypt's North Sinai kills five soldiers: security source</title>
+    <link rel="alternate" href="http://news.yahoo.com/blast-egypts-north-sinai-kills-five-soldiers-security-095317114.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T09:53:17Z</updated>
+    <published>2015-04-12T09:53:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T09:53:17Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt court confirms death sentence for Brotherhood head, 13 others</title>
     <link rel="alternate" href="http://news.yahoo.com/egypt-court-confirms-death-sentence-brotherhood-head-11-184812186.html" />
     <author>
