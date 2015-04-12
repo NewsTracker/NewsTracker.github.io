@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt Security Officials: Large Explosion Hits a Main Sinai Police Station</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-security-officials-large-explosion-hits-main-sinai-30261691" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T14:23:08Z</updated>
+    <published>2015-04-12T14:23:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T14:23:08Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>Officials: Roadside bomb kills 6 soldiers in Egypt's Sinai</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3035597/Officials-Roadside-bomb-kills-5-soldiers-Egypts-Sinai.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.N. calls for safe passage from Damascus refugee camp under Islamic State attack</title>
+    <link rel="alternate" href="http://news.yahoo.com/u-n-calls-safe-passage-damascus-refugee-camp-112048159.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T11:20:48Z</updated>
+    <published>2015-04-12T11:20:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T11:20:48Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/QaJXp5Hmh23fP5H2VZ1OrA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIxMztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-04-12T112048Z_1007000001_LYNXMPEB3B06C_RTROPTP_2_CNEWS-US-MIDEAST-CRISIS-SYRIA-YARMOUK.JPG" />
+  </entry>
+  <entry>
     <title>UN Calls For Safe Passage From Yarmouk Refugee Camp Under ISIS Attack</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/12/yarmouk-camp-un-safe-passage_n_7049122.html" />
     <author>
