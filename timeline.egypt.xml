@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Two bomb attacks in Egypt's Sinai kill 13, wound dozens</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3035596/Bomb-Egypts-North-Sinai-kills-five-soldiers-security-sources.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T17:01:36Z</updated>
+    <published>2015-04-12T17:01:36Z</published>
+    <summary type="html">&lt;p&gt;Gunmen also attacked a checkpoint near Rafah, along Egypt's border with the Gaza Strip, wounding at least three soldiers, medical and security sources said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T17:01:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Suicide attack kills two on Egypt's Sinai Peninsula</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/suicide-attack-kills-two-on-egypts-sinai-peninsula-20150412-1mjl51.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T16:05:17Z</updated>
+    <published>2015-04-12T16:05:17Z</published>
+    <summary type="html">&lt;p&gt;Cairo: A suicide car bomb targeting a police station in Egypt's restive Sinai Peninsula has killed two people and wounded 30 others, police and medics say.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T16:05:17Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/j/l/5/0/image.related.articleLeadwide.620x349.1mjl51.png/1428854704765.jpg" />
+  </entry>
+  <entry>
     <title>Huge explosion hits Sinai police station; 1 killed</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Officials-Roadside-bomb-kills-5-soldiers-in-6194512.php" />
     <author>
