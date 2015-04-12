@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Huge explosion hits Sinai police station; 1 killed</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Officials-Roadside-bomb-kills-5-soldiers-in-6194512.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T15:27:00Z</updated>
+    <published>2015-04-12T15:27:00Z</published>
+    <summary type="html">&lt;p&gt;Egypt is currently a main member of the Saudi-led military coalition launching airstrikes against Shiite rebels who have conquered the Yemeni capital, Sanaa, and forced out the Western-backed president.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T15:27:00Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/61/20/7803910/7/landscape_32.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt police says it has arrested critical journalist</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/12/egypt-police-says-it-has-arrested-critical/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T15:23:36Z</updated>
+    <published>2015-04-12T15:23:36Z</published>
+    <summary type="html">&lt;p&gt;An evolving crackdown on dissent in Egypt has landed thousands of government critics behind bars and silenced many critical voices.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T15:23:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt Security Officials: Large Explosion Hits a Main Sinai Police Station</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-security-officials-large-explosion-hits-main-sinai-30261691" />
     <author>
