@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple trying to entice musicians including Taylor Swift into deals for Beats streaming</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3035864/Apple-trying-entice-musicians-including-Taylor-Swift-exclusive-deals-Beats-streaming.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T18:01:36Z</updated>
+    <published>2015-04-12T18:01:36Z</published>
+    <summary type="html">&lt;p&gt;Apple has also approached Taylor Swift and others about partnerships, the report said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T18:01:36Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/16/276824FA00000578-0-image-a-6_1428851668812.jpg" />
+  </entry>
+  <entry>
     <title>Backlogged orders as shoppers get close-up look at Apple Watch</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/10/us-apple-watch-idUSKBN0N01BT20150410?feedType=RSS&amp;amp;feedName=topNews" />
     <author>
@@ -63,7 +75,7 @@
     <dc:date>2015-04-11T10:15:34Z</dc:date>
   </entry>
   <entry>
-    <title>China’s knock-off Apple Watch fans</title>
+    <title>China?s knock-off Apple Watch fans</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102578223" />
     <author>
       <name />
