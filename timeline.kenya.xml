@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>One killed, 150 hurt in Kenya stampede after power cable blast</title>
+    <link rel="alternate" href="http://news.yahoo.com/one-killed-150-hurt-kenya-university-stampede-blast-150037306.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T19:10:37Z</updated>
+    <published>2015-04-12T19:10:37Z</published>
+    <summary type="html">&lt;p&gt;In another response, Kenya also last week shut down 14 money transfer companies -- vital for impoverished Somalia -- over their suspected links to Shebab.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T19:10:37Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/tfnS7eA.gpWGxOr.sa9CHQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8145759-1-1-0.jpg" />
+  </entry>
+  <entry>
+    <title>One killed, 150 hurt in Kenya stampede after power cable blast</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3035891/One-killed-150-hurt-Kenya-university-stampede-blast.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

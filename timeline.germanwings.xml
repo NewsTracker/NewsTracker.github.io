@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings says plane evacuated at Cologne-Bonn airport after bomb threat received</title>
+    <link rel="alternate" href="http://www.startribune.com/world/299496551.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T20:00:53Z</updated>
+    <published>2015-04-12T20:00:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T20:00:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Germanwings plane crash: 'Fake relative' claims free flights to French Alps</title>
     <link rel="alternate" href="http://www.smh.com.au/world/germanwings-plane-crash-fake-relative-claims-free-flights-to-french-alps-20150410-1miazq.html" />
     <author>
