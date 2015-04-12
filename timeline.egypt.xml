@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court confirms death sentence for Brotherhood head, 13 others</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-court-confirms-death-sentence-brotherhood-head-11-184812186.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T04:12:18Z</updated>
+    <published>2015-04-12T04:12:18Z</published>
+    <summary type="html">&lt;p&gt;So far Egypt has executed one Islamist sentenced to death after Morsi's overthrow, following his conviction of involvement in the murder of a youth during violent protests in July 2013.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T04:12:18Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/fVrKaDOHy1dAwhyN3ONivQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6422810-1-1-0.jpg" />
+  </entry>
+  <entry>
     <title>Muslim Brotherhood leader sentenced to death in Egypt</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/04/11/muslim-brotherhood-leader-sentenced-to-death-in-egypt" />
     <author>
