@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings plane evacuated after bomb scare</title>
+    <link rel="alternate" href="http://news.yahoo.com/germanwings-plane-evacuated-bomb-scare-195923947--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T22:28:26Z</updated>
+    <published>2015-04-12T22:28:26Z</published>
+    <summary type="html">&lt;p&gt;Germanwings said the pilot of Flight 4U 826 to Milan was taxiing to the runway when he received a call from the air traffic tower at Cologne/Bonn airport to abort the flight.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T22:28:26Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/FxlXdFMOstT1PcIpSNaLJQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-04-12T203230Z_3_LYNXMPEB3B0F5_RTROPTP_2_GERMANY-STRIKE-LUFTHANSA.JPG" />
+  </entry>
+  <entry>
     <title>Germanwings plane evacuated after bomb threat received</title>
     <link rel="alternate" href="http://news.yahoo.com/germanwings-plane-evacuated-police-receive-bomb-threat-181115652.html" />
     <author>
