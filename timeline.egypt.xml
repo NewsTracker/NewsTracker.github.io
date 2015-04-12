@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Muslim Brotherhood leader sentenced to death in Egypt</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/11/muslim-brotherhood-leader-sentenced-to-death-in-egypt" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T01:03:24Z</updated>
+    <published>2015-04-12T01:03:24Z</published>
+    <summary type="html">&lt;p&gt;Rights groups say Egypt, where a popular uprising toppled veteran autocrat Hosni Mubarak in 2011 and started years of political turmoil, is now cracking down on all dissent.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T01:03:24Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297686599756_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Egypt court sentences US-Egyptian citizen to life in prison</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article18258626.html%23storylink=rss" />
     <author>
