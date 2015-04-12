@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Pujols hits 522nd HR, passes Williams, McCovey, Thomas (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/pujols-hits-522nd-hr-passes-williams-mccovey-thomas-204143574--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T20:44:56Z</updated>
+    <published>2015-04-12T20:44:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T20:44:56Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/FGtzJQjQ7njxrtIcYsmZzQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504082126771653897" />
+  </entry>
+  <entry>
     <title>Maple Leafs clean house, firing GM, interim coach, staff (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/maple-leafs-clean-house-firing-gm-interim-coach-162711907--nhl.html" />
     <author>
