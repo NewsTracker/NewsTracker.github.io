@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State message on hacked Hobart Airport website</title>
+    <link rel="alternate" href="http://www.smh.com.au/national/islamic-state-message-on-hacked-hobart-airport-website-20150412-1mji8s.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T10:36:12Z</updated>
+    <published>2015-04-12T10:36:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T10:36:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Video: Islamic State Group Destroys Ancient Ruins of Nimrud</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/video-islamic-state-group-destroys-ancient-ruins-nimrud-30259653" />
     <author>
