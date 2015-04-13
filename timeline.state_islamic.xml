@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: Iran suspends hajj trips to Saudi Arabia amid spat</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Report-Iran-suspends-hajj-trips-to-Saudi-Arabia-6195732.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T09:23:10Z</updated>
+    <published>2015-04-13T09:23:10Z</published>
+    <summary type="html">&lt;p&gt;The U.S., Western countries and Sunni Arab nations involved in the Saudi-led coalition have accused Iran of supporting the Houthis militarily, something both the rebels and the Islamic Republic deny.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T09:23:10Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/35/62/61/7810129/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>State television in Iran says Islamic Republic suspends hajj trips to Saudi Arabia amid spat</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/04/13/state-television-in-iran-says-islamic-republic-suspends-hajj-trips-to-saudi/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T08:55:19Z</updated>
+    <published>2015-04-13T08:55:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-13T08:55:19Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/04/13/876/493/Mideast%20Iran%20Saudi%20Arabia-2.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
     <title>Vast Iraqi Shiite cemetery grows with Islamic State war dead</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/12/vast-iraqi-shiite-cemetery-grows-with-islamic/" />
     <author>

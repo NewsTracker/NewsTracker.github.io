@@ -4,6 +4,63 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Clinton already uniting prospective GOP presidential field</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18375464.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T07:50:07Z</updated>
+    <published>2015-04-13T07:50:07Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this April 2, 2013, file photo Vice President Joe Biden and former Secretary of State Hillary Rodham Clinton are seen in Washington.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T07:50:07Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Clinton campaign to focus on economic security, opportunity</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/89ae8247abe8493fae24405546e9a1aa/Article_2015-04-11-US-DEM-2016-Clinton/id-394e96ba21234f52b857836b2ca7507a" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T17:25:00Z</updated>
+    <published>2015-04-11T17:25:00Z</published>
+    <summary type="html">&lt;p&gt;They provided the first preview of the message that Clinton planned to convey when she launches her long-anticipated campaign on Sunday with an online video.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T17:25:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Clinton aides used personal emails to communicate with her: NYT</title>
+    <link rel="alternate" href="http://news.yahoo.com/clinton-aides-used-personal-emails-communicate-her-nyt-131012522.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-23T13:10:12Z</updated>
+    <published>2015-03-23T13:10:12Z</published>
+    <summary type="html">&lt;p&gt;Last week Republicans asked the State Department to hand over numerous documents related to Clinton's use of private email while she was secretary of state and have called on her to hand over her email server to a third party.&lt;/p&gt;&lt;p&gt;The Times report is the latest revelation in the saga over Clinton and her use of a personal email address to conduct government business, as well as a private computer server to store that correspondence.&lt;/p&gt;</summary>
+    <dc:date>2015-03-23T13:10:12Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Bill Clinton Defends Foreign Donations To Foundation</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/03/07/bill-clinton-defends-fore_n_6824190.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T23:50:37Z</updated>
+    <published>2015-03-07T23:50:37Z</published>
+    <summary type="html">&lt;p&gt;In an interview Saturday with CBS News, Obama says he's glad that Clinton has instructed that those emails about official business be disclosed.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T23:50:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kerry: State Department will move quickly to review emails Clinton has sought to make public</title>
+    <link rel="alternate" href="http://www.startribune.com/world/295171391.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-05T14:40:16Z</updated>
+    <published>2015-03-05T14:40:16Z</published>
+    <summary type="html">&lt;p&gt;Kerry was questioned a day after Clinton sent urged the department to make the emails public.&lt;/p&gt;</summary>
+    <dc:date>2015-03-05T14:40:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Clinton's decision: The long road to a second campaign</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3036588/Clintons-Decision-The-long-road-second-campaign.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -557,18 +614,6 @@
     <summary type="html">&lt;p&gt;Clinton intends to sell herself as being able to work with Congress, businesses and world leaders, the advisers said Saturday.&lt;/p&gt;&lt;p&gt;"All Hillary Clinton is offering is a continuation of the same big government ideas that have grown Washington instead of the middle class," RNC spokesman Michael Short said in a statement Saturday.&lt;/p&gt;</summary>
     <dc:date>2015-04-12T07:03:16Z</dc:date>
     <media:content url="http://media.utsandiego.com/img/photos/2015/04/11/876627ca45a16510730f6a7067008b48_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
-  </entry>
-  <entry>
-    <title>Clinton aides used personal emails to communicate with her: NYT</title>
-    <link rel="alternate" href="http://news.yahoo.com/clinton-aides-used-personal-emails-communicate-her-nyt-131012522.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-23T13:10:12Z</updated>
-    <published>2015-03-23T13:10:12Z</published>
-    <summary type="html">&lt;p&gt;Last week Republicans asked the State Department to hand over numerous documents related to Clinton's use of private email while she was secretary of state and have called on her to hand over her email server to a third party.&lt;/p&gt;</summary>
-    <dc:date>2015-03-23T13:10:12Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
   </entry>
   <entry>
     <title>O'Malley works to position himself as Clinton alternative</title>
@@ -1264,17 +1309,6 @@
     <summary type="html">&lt;p&gt;Clinton's extensive use of private emails heightened security risks for her communications, chiefly the potential for inadvertent disclosure of such sensitive information and danger from hackers, several information security experts told The Associated Press.&lt;/p&gt;</summary>
     <dc:date>2015-03-06T03:19:45Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/hbsPOb95VlBfE.SRAwiKKg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/5d11aab72789d20a6f0f6a706700a14d.jpg" />
-  </entry>
-  <entry>
-    <title>Kerry: State Department will move quickly to review emails Clinton has sought to make public</title>
-    <link rel="alternate" href="http://www.startribune.com/world/295171391.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-05T14:40:16Z</updated>
-    <published>2015-03-05T14:40:16Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-05T14:40:16Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton: Release emails</title>

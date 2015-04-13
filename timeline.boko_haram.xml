@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>800,000 children forced from homes in Boko Haram violence</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/13/800-000-children-forced-from-homes-in-boko-haram-violence" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T09:29:18Z</updated>
+    <published>2015-04-13T09:29:18Z</published>
+    <summary type="html">&lt;p&gt;Children account for about half of all the 1.5 million made homeless in the Boko Haram conflict that has spilled across the borders of northeast Nigeria.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T09:29:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>800,000 children forced from homes in Boko Haram violence</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/800-000-children-forced-from-homes-in-Boko-Haram-6195757.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T09:29:18Z</updated>
+    <published>2015-04-13T09:29:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-13T09:29:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Nigeria's Boko Haram reportedly pledges allegiance to Islamic State</title>
     <link rel="alternate" href="http://www.latimes.com/world/africa/la-fg-boko-haram-islamic-state-20150307-story.html" />
     <author>
