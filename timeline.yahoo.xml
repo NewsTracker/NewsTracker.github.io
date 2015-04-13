@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Urban Meyer's contract extended through 2020 season (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/urban-meyers-contract-extended-2020-season-203714528--ncaaf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T20:37:14Z</updated>
+    <published>2015-04-13T20:37:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-13T20:37:14Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/2aF1fHtMBJFEMZ3ToqfGkg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQyOTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504091100396585136" />
+  </entry>
+  <entry>
     <title>Duncan leads Spurs to rout of Suns for 11th straight win (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/duncan-leads-spurs-rout-suns-11th-straight-win-014832977--nba.html" />
     <author>

@@ -4,6 +4,74 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Starting small: Clinton goes for low-key events, fundraising</title>
+    <link rel="alternate" href="http://news.yahoo.com/clinton-aims-cultivate-small-dollar-donations-online-224744029--election.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T22:55:02Z</updated>
+    <published>2015-04-13T22:55:02Z</published>
+    <summary type="html">&lt;p&gt;Clinton's campaign intends to slowly ramp up its fundraising efforts, focusing first on online fundraising and building a network of donors who the campaign will be able to return to in the weeks and months ahead.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T22:55:02Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Starting small: Clinton goes for low-key events, fundraising</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/13/clinton-aims-to-cultivate-small-dollar-donations-online" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T22:54:54Z</updated>
+    <published>2015-04-13T22:54:54Z</published>
+    <summary type="html">&lt;p&gt;"Everyone knows that over time Hillary Clinton will raise enough to be competitive," said Tom Nides, a top Wall Street supporter and former State Department adviser to Clinton.&lt;/p&gt;&lt;p&gt;Clinton retains deep ties to the party's top fundraisers, including those cultivated by her husband, former President Bill Clinton, during the 1990s.&lt;/p&gt;&lt;p&gt;During its first call with donors on Monday, Hillary Clinton's team noted some listening helped President Barack Obama's campaigns, while others had raised money for Clinton's own White House bid in 2008.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T22:54:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>Starting small: Clinton goes for low-key events, fundraising</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Clinton-aims-to-cultivate-small-dollar-donations-6197330.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T22:54:54Z</updated>
+    <published>2015-04-13T22:54:54Z</published>
+    <summary type="html">&lt;p&gt;"I want you with me on this. Chip in what you can today to help build our campaign," Clinton wrote in her first fundraising email, sent Monday, asking for donations ranging from $5 and $25 to the maximum of $2,700 per individual during the primary.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T22:54:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>First Draft: Fueling Up for a Long Campaign: Hillary Clinton Lunches at Chipotle</title>
+    <link rel="alternate" href="http://www.nytimes.com/politics/first-draft/2015/04/13/fueling-up-for-a-long-campaign-hillary-clinton-lunches-at-chipotle/?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T22:10:07Z</updated>
+    <published>2015-04-13T22:10:07Z</published>
+    <summary type="html">&lt;p&gt;Manager Charles Wright at Chipotle wasn't aware clinton was There till I called him.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T22:10:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Clinton trying to put emails to rest _ and prepare for 2016</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11415709&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-11T07:43:51Z</updated>
+    <published>2015-03-11T07:43:51Z</published>
+    <summary type="html">&lt;p&gt;Instead, questions about Clinton's email habits have dominated her activities in the past week, following revelations that she used a personal email account at the State Department and did so via a private server kept at her home in suburban New York.&lt;/p&gt;&lt;p&gt;"The server contains personal communications from my husband and me, and I believe I have met all of my responsibilities, and the server will remain private," Clinton told reporters who crammed into a hallway to ask questions at her first news conference in more than two years.&lt;/p&gt;</summary>
+    <dc:date>2015-03-11T07:43:51Z</dc:date>
+  </entry>
+  <entry>
+    <title>Clinton's second act: Her long road to 2016 decision</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Clinton-s-Decision-The-long-road-to-a-second-6195617.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T19:08:44Z</updated>
+    <published>2015-04-13T19:08:44Z</published>
+    <summary type="html">&lt;p&gt;Clinton confidantes view her four years at the helm of the State Department as her golden era _ a chance for one of the country's most polarizing figures to jump off the political treadmill.&lt;/p&gt;&lt;p&gt;The meeting was as much an opportunity for Clinton to gauge the mood of progressives as it was a chance to size up the seriousness of Warren's repeated denials of a White House run.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T19:08:44Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/62/57/7810039/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Hillary Clinton surprises with early attack on CEO pay</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3037481/Hillary-Clinton-surprises-early-attack-CEO-pay.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1292,17 +1360,6 @@
     <published>2015-03-13T16:31:29Z</published>
     <summary type="html" />
     <dc:date>2015-03-13T16:31:29Z</dc:date>
-  </entry>
-  <entry>
-    <title>Clinton trying to put emails to rest _ and prepare for 2016</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11415709&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-11T07:43:51Z</updated>
-    <published>2015-03-11T07:43:51Z</published>
-    <summary type="html">&lt;p&gt;Instead, questions about Clinton's email habits have dominated her activities in the past week, following revelations that she used a personal email account at the State Department and did so via a private server kept at her home in suburban New York.&lt;/p&gt;</summary>
-    <dc:date>2015-03-11T07:43:51Z</dc:date>
   </entry>
   <entry>
     <title>Clinton trying to put emails to rest ? and prepare for 2016</title>

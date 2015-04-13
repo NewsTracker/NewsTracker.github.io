@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nicaragua asks US to remove embassy worker who had been in Liberia over Ebola concern</title>
+    <link rel="alternate" href="http://www.startribune.com/world/299611721.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T21:31:49Z</updated>
+    <published>2015-04-13T21:31:49Z</published>
+    <summary type="html">&lt;p&gt;The U.S. embassy in Managua said in a statement that the employee was in Liberia, but denied there had been any contact with Ebola patients.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T21:31:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nicaragua Asks US to Remove Embassy Worker Over Ebola Worry</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nicaragua-asks-us-remove-embassy-worker-ebola-worry-30292844" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T21:24:43Z</updated>
+    <published>2015-04-13T21:24:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-13T21:24:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Empty Ebola Clinics in Liberia Are Seen as Misstep in U.S. Relief Effort</title>
     <link rel="alternate" href="http://www.nytimes.com/2015/04/12/world/africa/idle-ebola-clinics-in-liberia-are-seen-as-misstep-in-us-relief-effort.html?partner=rss&amp;amp;emc=rss" />
     <author>
