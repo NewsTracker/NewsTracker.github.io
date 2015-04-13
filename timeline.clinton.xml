@@ -4,6 +4,63 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton surprises with early attack on CEO pay</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3037481/Hillary-Clinton-surprises-early-attack-CEO-pay.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T20:02:20Z</updated>
+    <published>2015-04-13T20:02:20Z</published>
+    <summary type="html">&lt;p&gt;In a tightly scripted campaign launch in which there were few surprises, the comments were unexpected, at least by progressives, who saw them as an early sign she may shift away from the centrist economic policies pursued by her husband, former President Bill Clinton.&lt;/p&gt;&lt;p&gt;In the social media blitz that kicked off her campaign, Clinton, the prohibitive frontrunner to become the Democratic nominee, expressed concerns about economic inequality.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T20:02:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tea Party Republican Marco Rubio starts White House bid, takes aim at Hillary Clinton</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/us-election/tea-party-republican-marco-rubio-starts-white-house-bid-takes-aim-at-hillary-clinton-20150413-1mkdsx.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T16:55:22Z</updated>
+    <published>2015-04-13T16:55:22Z</published>
+    <summary type="html">&lt;p&gt;During a conference call with donors, Rubio criticised Democratic front-runner Hillary Clinton as a leader from yesterday and said the 2016 race will be a choice between the past and the future, the source said.&lt;/p&gt;&lt;p&gt;Rubio will be competing for the limelight with Clinton, who grabbed worldwide media attention with the declaration of her candidacy for the Democratic presidential nomination in a video announcement on Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T16:55:22Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/k/d/t/8/image.related.articleLeadwide.620x349.1mkdsx.png/1428943334754.jpg" />
+  </entry>
+  <entry>
+    <title>President Obama says Hillary Clinton would make 'an excellent president'</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3035413/President-Obama-says-Hillary-Clinton-make-excellent-president.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T02:01:35Z</updated>
+    <published>2015-04-12T02:01:35Z</published>
+    <summary type="html">&lt;p&gt;The wife of former president Bill Clinton leads opinion polls among Democrats, some 60 percent of whom say they would vote for her in the primaries, according to the website RealClearPolitics.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T02:01:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Clinton campaign to focus on economic security, opportunity</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article18282287.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T00:00:06Z</updated>
+    <published>2015-04-12T00:00:06Z</published>
+    <summary type="html">&lt;p&gt;The strategy described by Clinton's advisers has echoes of Obama's 2012 re-election campaign.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T00:00:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>GOP lawmaker: Clinton email server key to Benghazi inquiry</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/14/gop-lawmaker-clinton-email-server-key-to-benghazi-inquiry" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T10:26:52Z</updated>
+    <published>2015-03-14T10:26:52Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - A member of the House committee investigating the deadly attacks against Americans in Benghazi, Libya, says Hillary Rodham Clinton's email server could help lawmakers answer vital questions.&lt;/p&gt;&lt;p&gt;GOP leaders have not ruled out a House vote to force Clinton to turn over the server, setting up a possible confrontation between the GOP-led Congress and the person who could be the Democratic front-runner for president in 2016.&lt;/p&gt;</summary>
+    <dc:date>2015-03-14T10:26:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Hillary Clinton's long road back into presidential politics</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3037323/Hillary-Clintons-long-road-presidential-politics.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1213,17 +1270,6 @@
     <summary type="html">&lt;p&gt;He irked some old Clinton operatives by bringing in a mostly new campaign staff to help with McAuliffe's second attempt at the governor's office.&lt;/p&gt;</summary>
     <dc:date>2015-03-15T05:12:40Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>GOP lawmaker: Clinton email server key to Benghazi inquiry</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/14/gop-lawmaker-clinton-email-server-key-to-benghazi-inquiry" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-14T10:26:52Z</updated>
-    <published>2015-03-14T10:26:52Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - A member of the House committee investigating the deadly attacks against Americans in Benghazi, Libya, says Hillary Rodham Clinton's email server could help lawmakers answer vital questions.&lt;/p&gt;</summary>
-    <dc:date>2015-03-14T10:26:52Z</dc:date>
   </entry>
   <entry>
     <title>Clinton takes campaign step with New Hampshire hiring</title>
