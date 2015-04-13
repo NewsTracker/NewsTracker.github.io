@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Duncan leads Spurs to rout of Suns for 11th straight win (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/duncan-leads-spurs-rout-suns-11th-straight-win-014832977--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T01:51:42Z</updated>
+    <published>2015-04-13T01:51:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-13T01:51:42Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/nba/teams/83/70x70/sas.png" />
+  </entry>
+  <entry>
     <title>Ventura helps Royals sweep Angels again with 9-2 win (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ventura-helps-royals-sweep-angels-again-9-2-224846753--mlb.html" />
     <author>
