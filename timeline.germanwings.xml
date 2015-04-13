@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Germanwings plane evacuated after bomb scare</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/12/us-germanwings-evacuation-idUSKBN0N30UB20150412?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T22:28:26Z</updated>
+    <published>2015-04-12T22:28:26Z</published>
+    <summary type="html">&lt;p&gt;Lufthansa has faced questions about its pilot screening process since the March 24 Germanwings crash which appears to have been caused by a co-pilot who suffered from depression and deliberately steered the plane into a mountain.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T22:28:26Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150412&amp;amp;t=2&amp;amp;i=1039879746&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB3B0F5" />
+  </entry>
+  <entry>
+    <title>Germanwings plane evacuated after bomb scare</title>
     <link rel="alternate" href="http://news.yahoo.com/germanwings-plane-evacuated-bomb-scare-195923947--finance.html" />
     <author>
       <name />
