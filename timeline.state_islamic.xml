@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>How strong is the Islamic State in Libya?</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/02/20/islamic-state-libya/23728623/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-newstopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-20T08:46:10Z</updated>
+    <published>2015-02-20T08:46:10Z</published>
+    <summary type="html">&lt;p&gt;The images are clearly aimed as a show of force - an announcement that the Islamic State is now a power in Libya.&lt;/p&gt;&lt;p&gt;Since the beginning of the year, the Islamic State has launched increasingly high-profile attacks, beginning with an assault on Tripoli's Corinthian Hotel that left nine dead, including an American contractor.&lt;/p&gt;</summary>
+    <dc:date>2015-02-20T08:46:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State militants claim attacks on embassies in Libya</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3036359/Islamic-State-militants-claim-attacks-embassies-Libya.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -3960,17 +3971,6 @@
     <summary type="html">&lt;p&gt;The official said the timing of the offensive would ultimately depend on the readiness of Iraqi forces, which collapsed last summer as Islamic State conquered Mosul, the country's second-largest city, and raced across northern Iraq.&lt;/p&gt;</summary>
     <dc:date>2015-02-20T09:00:16Z</dc:date>
     <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2014-September/islamic_state_militant_2014_09_12.jpg" />
-  </entry>
-  <entry>
-    <title>How strong is the Islamic State in Libya?</title>
-    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/02/20/islamic-state-libya/23728623/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-newstopstories" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-20T08:46:10Z</updated>
-    <published>2015-02-20T08:46:10Z</published>
-    <summary type="html">&lt;p&gt;The images are clearly aimed as a show of force - an announcement that the Islamic State is now a power in Libya.&lt;/p&gt;</summary>
-    <dc:date>2015-02-20T08:46:10Z</dc:date>
   </entry>
   <entry>
     <title>Pro-Islamic State militants seize Libyan university, say residents</title>
