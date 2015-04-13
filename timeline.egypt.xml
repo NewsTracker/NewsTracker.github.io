@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt official: Sniper kills soldier in north Sinai</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article18386093.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T11:49:51Z</updated>
+    <published>2015-04-13T11:49:51Z</published>
+    <summary type="html">&lt;p&gt;Egyptians gather at the scene following a bombing that struck a main police station in the capital of the northern Sinai province in el-Arish, Egypt, Sunday, April 12, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T11:49:51Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Blasts kill 13 in Egypt's Sinai peninsula</title>
     <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/12/sinai-attack-kills-13.html" />
     <author>
