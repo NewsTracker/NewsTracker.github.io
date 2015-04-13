@@ -4,7 +4,19 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Apple trying to entice musicians including Taylor Swift into deals for Beats streaming</title>
+    <title>Apple Watch US pre-orders estimated at 1M</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/apple-watch-us-pre-orders-075135746.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T07:51:35Z</updated>
+    <published>2015-04-13T07:51:35Z</published>
+    <summary type="html">&lt;p&gt;Using e-receipt data, the company said that 957,000 people in the U.S. placed orders for an Apple Watch on the first day it became available.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T07:51:35Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/e0OhLik5DNnAqNc2Y2_4Pg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/2076c3d08835d5c61f280d664fd1716f" />
+  </entry>
+  <entry>
+    <title>Apple trying to entice musicians?including Taylor Swift into deals for Beats streaming</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3035864/Apple-trying-entice-musicians-including-Taylor-Swift-exclusive-deals-Beats-streaming.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
