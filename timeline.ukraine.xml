@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Fighting picks up in war-torn eastern Ukraine</title>
+    <link rel="alternate" href="http://news.yahoo.com/fighting-picks-war-torn-eastern-ukraine-080057903.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T13:25:51Z</updated>
+    <published>2015-04-13T13:25:51Z</published>
+    <summary type="html">&lt;p&gt;DONETSK, Ukraine (AP) - Fighting has picked up in eastern Ukraine, after more than a month of relative calm, as diplomats gathered in Berlin Monday to discuss the Ukraine crisis.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T13:25:51Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/7WNOwHLqPwJjGzsN1963hQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/8f747b4396448d10730f6a706700f92e.jpg" />
+  </entry>
+  <entry>
+    <title>Fighting picks up in war-torn eastern Ukraine</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article18375506.html%23storylink=rss" />
     <author>
       <name />
