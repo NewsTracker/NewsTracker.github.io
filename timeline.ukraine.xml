@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Both sides claim violations after Ukraine cease-fire starts</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/both-sides-claim-violations-after-ukraine-cease-fire-starts/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-15T08:50:05Z</updated>
+    <published>2015-02-15T08:50:05Z</published>
+    <summary type="html">&lt;p&gt;German Foreign Minister Frank-Walter Steinmeier said failure to maintain the peace would cost the region and the people of eastern Ukraine "a high price."&lt;/p&gt;</summary>
+    <dc:date>2015-02-15T08:50:05Z</dc:date>
+    <media:content url="http://cbsnews2.cbsistatic.com/hub/i/2015/02/15/557ee392-9503-45ca-a557-e7f985e3daa8/78e6f711290669c8974abcc9607f84f5/ukraine-satellite.jpg" />
+  </entry>
+  <entry>
     <title>German FM: Russia's return to G-8 depends on Ukraine deal</title>
     <link rel="alternate" href="http://news.yahoo.com/german-fm-russias-return-g-8-depends-ukraine-151745400.html" />
     <author>
@@ -2745,18 +2757,6 @@
     <published>2015-02-15T15:14:41Z</published>
     <summary type="html" />
     <dc:date>2015-02-15T15:14:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Both sides claim violations after Ukraine cease-fire starts</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/both-sides-claim-violations-after-ukraine-cease-fire-starts/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-15T08:50:05Z</updated>
-    <published>2015-02-15T08:50:05Z</published>
-    <summary type="html" />
-    <dc:date>2015-02-15T08:50:05Z</dc:date>
-    <media:content url="http://cbsnews2.cbsistatic.com/hub/i/2015/02/15/557ee392-9503-45ca-a557-e7f985e3daa8/78e6f711290669c8974abcc9607f84f5/ukraine-satellite.jpg" />
   </entry>
   <entry>
     <title>Shelling halts in Ukraine's Donetsk as Poroshenko orders ceasefire</title>
