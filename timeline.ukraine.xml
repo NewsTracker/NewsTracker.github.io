@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Intense fighting in eastern Ukraine reported overnight</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/intense-fighting-in-eastern-ukraine-reported-overnight-1.2325918" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T08:06:43Z</updated>
+    <published>2015-04-14T08:06:43Z</published>
+    <summary type="html">&lt;p&gt;DONETSK, Ukraine - Fighting raged overnight and in the early hours on Tuesday on the outskirts of the rebel stronghold of Donetsk in eastern Ukraine despite an agreement reached by the Ukrainian and Russian foreign ministers a day earlier.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T08:06:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Fighting in eastern Ukraine rages on overnight despite talks</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11432594&amp;amp;ref=rss" />
     <author>

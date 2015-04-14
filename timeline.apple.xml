@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>IBM teams with Apple on artificial intelligence health program</title>
+    <link rel="alternate" href="http://news.yahoo.com/ibm-teams-apple-artificial-intelligence-health-program-084240247.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T08:42:40Z</updated>
+    <published>2015-04-14T08:42:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T08:42:40Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/IYKRC7bELfTRxoFi1.s26Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_US/News/US-AFPRelax/000_was3699279.fc552100622.original.jpg" />
+  </entry>
+  <entry>
     <title>Apple expected to quickly ramp up smartwatch production</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/13/us-apple-watch-idUSKBN0N410Z20150413?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
