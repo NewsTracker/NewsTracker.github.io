@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Starting small: Clinton goes for low-key events, fundraising</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18444545.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T02:43:08Z</updated>
+    <published>2015-04-14T02:43:08Z</published>
+    <summary type="html">&lt;p&gt;"It's not going to be the big event rollout right now. The idea is to get people involved," said Miami attorney Ira Leesfield, a longtime Clinton friend and fundraiser.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T02:43:08Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Hollywood stars back Clinton 2016 bid</title>
+    <link rel="alternate" href="https://news.yahoo.com/hollywood-stars-back-clinton-2016-bid-200114711.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T20:51:22Z</updated>
+    <published>2015-04-13T20:51:22Z</published>
+    <summary type="html">&lt;p&gt;Lena Dunham, creator and star of HBO's hit series "Girls" posted an image of Clinton on Instagram scrutinizing a cellphone.&lt;/p&gt;&lt;p&gt;Actress America Ferrera, best known as the star of the sitcom "Ugly Betty" posted a picture on Twitter of her campaigning for Clinton in 2008.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T20:51:22Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/1ikKtF6jH_8BSUGRB9TSAQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8913500-1-1-0.jpg" />
+  </entry>
+  <entry>
+    <title>Clinton's 2016 White House launch contrasts with her 2008 bid</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/12/us-usa-election-clinton-idUSKBN0N305B20150412?feedType=RSS&amp;amp;feedName=politicsNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T23:58:32Z</updated>
+    <published>2015-04-12T23:58:32Z</published>
+    <summary type="html">&lt;p&gt;While Clinton enters the race as prohibitive favorite to be her party's presidential nominee, a crowd of potential candidates are vying for the Republican nomination.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T23:58:32Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150411&amp;amp;i=106679201&amp;amp;w=240&amp;amp;r=106679201-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Hillary Clinton email trove reviewed for release, security</title>
+    <link rel="alternate" href="http://news.yahoo.com/experts-clinton-email-practices-risked-data-disclosures-081106082--election.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T03:19:45Z</updated>
+    <published>2015-03-06T03:19:45Z</published>
+    <summary type="html">&lt;p&gt;Clinton's extensive use of private emails heightened security risks for her communications, chiefly the potential for inadvertent disclosure of such sensitive information and danger from hackers, several information security experts told The Associated Press.&lt;/p&gt;&lt;p&gt;The official said the department would review 55,000 pages of emails amassed from Clinton's personal files to determine if there were any instances where she improperly transmitted sensitive information.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T03:19:45Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/hbsPOb95VlBfE.SRAwiKKg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/5d11aab72789d20a6f0f6a706700a14d.jpg" />
+  </entry>
+  <entry>
     <title>Hillary Clinton hires Google executive as tech chief</title>
     <link rel="alternate" href="http://ibnlive.in.com/news/hillary-clinton-hires-google-executive-as-tech-chief/539705-2.html" />
     <author>
@@ -1570,18 +1618,6 @@
     <summary type="html">&lt;p&gt;Washington: Hillary Clinton is suddenly a weaker presidential candidate.&lt;/p&gt;&lt;p&gt;The furore over foreign money and secret emails may be urging Ms Clinton to engage politically more quickly than she planned.&lt;/p&gt;&lt;p&gt;Ms Clinton strove to defuse the latest controversy with a late-night tweet that tried, likely without success, to turn the tide of the email stories and make it appear she was the one demanding transparency.&lt;/p&gt;&lt;p&gt;"The fact Hillary Clinton set up a 'home-brewed' email system in her house to skirt federal record-keeping regulations is a pretty good indicator of just how transparent she's interested in being."&lt;/p&gt;</summary>
     <dc:date>2015-03-06T04:23:00Z</dc:date>
     <media:content url="http://www.theage.com.au/content/dam/images/1/3/x/9/0/6/image.related.articleLeadwide.620x349.13wqnv.png/1425615767683.jpg" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton email trove reviewed for release, security</title>
-    <link rel="alternate" href="http://news.yahoo.com/experts-clinton-email-practices-risked-data-disclosures-081106082--election.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-06T03:19:45Z</updated>
-    <published>2015-03-06T03:19:45Z</published>
-    <summary type="html">&lt;p&gt;Clinton's extensive use of private emails heightened security risks for her communications, chiefly the potential for inadvertent disclosure of such sensitive information and danger from hackers, several information security experts told The Associated Press.&lt;/p&gt;</summary>
-    <dc:date>2015-03-06T03:19:45Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/hbsPOb95VlBfE.SRAwiKKg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/5d11aab72789d20a6f0f6a706700a14d.jpg" />
   </entry>
   <entry>
     <title>Hillary Clinton: Release emails</title>

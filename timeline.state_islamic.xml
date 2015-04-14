@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Australia to deploy 300 additional troops to Iraq</title>
+    <link rel="alternate" href="http://news.yahoo.com/australia-deploy-300-additional-troops-iraq-053339146.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T05:33:39Z</updated>
+    <published>2015-04-14T05:33:39Z</published>
+    <summary type="html">&lt;p&gt;Australia's government says the combined force isn't being deployed in a combat role but rather to train Iraqi forces to fight the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T05:33:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>Obama, Iraq's Abadi to discuss Islamic State fight in White House meeting</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/14/us-usa-iraq-idUSKBN0N50A820150414?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T05:09:07Z</updated>
+    <published>2015-04-14T05:09:07Z</published>
+    <summary type="html">&lt;p&gt;In his first U.S. trip since becoming prime minister, Abadi is expected to seek billions of dollars in drones and other U.S. weapons to combat Islamic State, which seized much of northern and central Iraq last year.&lt;/p&gt;&lt;p&gt;Concern over Iran's role in the fight against Islamic State may also feature in the Obama-Abadi talks.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T05:09:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Obama, Iraq's Abadi to discuss Islamic State fight in White House meeting</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/14/us-usa-iraq-idUSKBN0N50A820150414?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T05:09:07Z</updated>
+    <published>2015-04-14T05:09:07Z</published>
+    <summary type="html">&lt;p&gt;A senior U.S. general told Congress last month that the United States conditioned its entry into Iraq's battle to retake Tikrit from Islamic State on the withdrawal of the Shi'ite militias from the clearing operation.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T05:09:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Officials react after concerns over Islamic law nix proposal</title>
     <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/13/idaho-officials-scramble-after-sharia-law-foes-kill-proposal" />
     <author>
