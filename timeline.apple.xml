@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple is facing a very awkward lawsuit</title>
+    <link rel="alternate" href="http://www.news.com.au/finance/business/artist-romero-britto-sues-apple-over-colourful-designs/story-fnkgdftz-1227304239626?from=public_rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T20:45:00Z</updated>
+    <published>2015-04-14T20:45:00Z</published>
+    <summary type="html">&lt;p&gt;ARTIST Romero Britto is suing Apple Inc. and a design firm in federal court, accusing them of misusing his colour-splashed images and distinctive style in marketing campaigns.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T20:45:00Z</dc:date>
+    <media:content url="http://resources0.news.com.au/images/2015/04/15/1227304/239572-e24fb5b8-e228-11e4-b60a-424ceb2f883c.jpg" />
+  </entry>
+  <entry>
     <title>Florida artist claims Apple stole his style</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3038530/Florida-artist-claims-Apple-stole-style.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama to meet West African presidents on Wednesday to discuss Ebola</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/14/us-health-ebola-obama-idUSKBN0N523W20150414?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T18:43:27Z</updated>
+    <published>2015-04-14T18:43:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T18:43:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Sierra Leone schools reopen after nine-month Ebola shutdown</title>
     <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/14/thousands-of-sierra-leone-schools-reopen.html" />
     <author>

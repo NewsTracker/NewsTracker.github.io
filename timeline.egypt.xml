@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court upholds ban on Libyan from country for being gay</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-court-upholds-ban-libyan-country-being-gay-183037894.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T18:30:37Z</updated>
+    <published>2015-04-14T18:30:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T18:30:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt official: Sniper kills soldier in north Sinai</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article18386093.html%23storylink=rss" />
     <author>
