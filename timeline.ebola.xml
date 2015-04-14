@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sierra Leone schools re-open after Ebola closed for 9 months</title>
+    <link rel="alternate" href="http://news.yahoo.com/sierra-leone-schools-open-ebola-closed-9-months-115811856.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T13:33:39Z</updated>
+    <published>2015-04-14T13:33:39Z</published>
+    <summary type="html">&lt;p&gt;More than 8,000 schools are to reopen for about 1.8 million students and the government and U.N. children's agency promise to check temperatures regularly and will promote hand washing to discourage the spread of Ebola in the schools.&lt;/p&gt;&lt;p&gt;Since October 2014, UNICEF has supported the government in running daily emergency radio education programs to allow children to continue learning at home during the Ebola crisis.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T13:33:39Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/kmODf7GoCcVdp3TDCkmpbw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/650cc249c46500b5494482c3b22ad0389b8f76ce.jpg.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Sierra Leone schools re-open after Ebola closed for 9 months</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/Sierra-Leone-schools-re-open-after-Ebola-closed-6198379.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T13:33:31Z</updated>
+    <published>2015-04-14T13:33:31Z</published>
+    <summary type="html">&lt;p&gt;"It is important that all children get into school including those who were out of school before the Ebola outbreak. Education for all is a key part of the recovery process for the country."&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T13:33:31Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/34/74/03/7586003/3/headline_list_thumb137.jpg" />
+  </entry>
+  <entry>
+    <title>Sierra Leone schools re-open after Ebola closed for 9 months</title>
+    <link rel="alternate" href="http://health.usnews.com/health-news/news/articles/2015/04/14/sierra-leone-schools-re-open-after-ebola-closed-for-9-months" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T11:58:02Z</updated>
+    <published>2015-04-14T11:58:02Z</published>
+    <summary type="html">&lt;p&gt;UNICEF Sierra Leone says it has facilitated the training of 9,000 teachers in Ebola prevention, safety guidelines and psycho-social support.&lt;/p&gt;&lt;p&gt;The Ebola crisis is estimated to have infected more than 25,500 people and killed 10,587.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T11:58:02Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/c4d4ea1/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F99%2Ff6%2F9a426cda41ee8d10f88becc0cddc%2F141230-10000stepsbadge-stock.jpg" />
+  </entry>
+  <entry>
     <title>Nicaragua asks US to remove embassy worker who had been in Liberia over Ebola concern</title>
     <link rel="alternate" href="http://www.startribune.com/world/299611721.html" />
     <author>

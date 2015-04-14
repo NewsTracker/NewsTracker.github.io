@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Pew Research Center: Teens still use Facebook</title>
+    <link rel="alternate" href="http://news.yahoo.com/pew-research-center-teens-still-facebook-133020367.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T13:30:20Z</updated>
+    <published>2015-04-14T13:30:20Z</published>
+    <summary type="html">&lt;p&gt;Facebook remains the most used social media site among American teens ages 13 to 17, according to a new study from the Pew Research Center.&lt;/p&gt;&lt;p&gt;Aided hugely by smartphones and other mobile devices, 71 percent of teens surveyed said they use Facebook, with the same percentage saying they use more than one social network of seven options they were asked about.&lt;/p&gt;&lt;p&gt;Among 22 percent of teens who use just one site, 66 percent use Facebook, 13 percent use Google Plus, 13 percent are Instagram users and 3 percent use Snapchat.&lt;/p&gt;&lt;p&gt;The latest study points to Facebook as a dominant force in teens' online lives even as Instagram and Snapchat have gained momentum.&lt;/p&gt;&lt;p&gt;Facebook was the site they used most frequently, at 41 percent, followed by Instagram at 20 percent and Snapchat at 11 percent.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T13:30:20Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/gQxulKfIHdd2BxUto.DKmQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/8673867dbf51a410730f6a70670058a0.jpg" />
+  </entry>
+  <entry>
     <title>Facebook responds to Belgian tracking allegations</title>
     <link rel="alternate" href="http://www.upi.com/Top_News/World-News/2015/04/10/Facebook-responds-to-Belgian-tracking-allegations/7631428683927/" />
     <author>
