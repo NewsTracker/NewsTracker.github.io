@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton goes unnoticed in Ohio Chipotle</title>
+    <link rel="alternate" href="http://www.upi.com/Top_News/US/2015/04/14/Hillary-Clinton-goes-unnoticed-in-Ohio-Chipotle/3411429006469/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T10:38:59Z</updated>
+    <published>2015-04-14T10:38:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T10:38:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>News24.com | Hillary Clinton surprises with early attack on CEO pay</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Hillary-Clinton-surprises-with-early-attack-on-CEO-pay-20150414" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T09:46:10Z</updated>
+    <published>2015-04-14T09:46:10Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T09:46:10Z</dc:date>
+    <media:content url="http://cdn.24.co.za/files/Cms/General/d/3053/87430aaf97f2480bafb8cebc858d39e4.jpg" />
+  </entry>
+  <entry>
     <title>Hillary Clinton spotted at Chipotle in Ohio on way to Iowa</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-spotted-chipotle-ohio-iowa-article-1.2183907?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
     <author>
