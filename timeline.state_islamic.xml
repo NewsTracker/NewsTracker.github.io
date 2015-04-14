@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Australia to deploy 300 additional troops to Iraq</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11432553&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T05:40:12Z</updated>
+    <published>2015-04-14T05:40:12Z</published>
+    <summary type="html">&lt;p&gt;Another 400 Australian air force personnel are supporting air strikes against Islamic State targets from a base outside Dubai.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T05:40:12Z</dc:date>
+    <media:content url="http://www.nzherald.co.nz/themes/1/img/printLogo.png" />
+  </entry>
+  <entry>
+    <title>Australia to deploy 300 additional troops to Iraq</title>
     <link rel="alternate" href="http://news.yahoo.com/australia-deploy-300-additional-troops-iraq-053339146.html" />
     <author>
       <name />
