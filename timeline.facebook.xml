@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Pew Research Center reports teens have not moved on from Facebook after all</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/299680961.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T13:35:25Z</updated>
+    <published>2015-04-14T13:35:25Z</published>
+    <summary type="html">&lt;p&gt;Boys are more likely than girls to report they visit Facebook most often - at 45 percent versus 36 percent of girls.&lt;/p&gt;&lt;p&gt;Teens from households with earnings of less than $50,000 are more likely to use Facebook the most - 49 percent compared with 37 percent of teens from households with earnings of $50,000 or more.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T13:35:25Z</dc:date>
+    <media:content url="http://stmedia.startribune.com/designimages/shareBarIconFacebook_122112.png" />
+  </entry>
+  <entry>
     <title>Pew Research Center: Teens still use Facebook</title>
     <link rel="alternate" href="http://news.yahoo.com/pew-research-center-teens-still-facebook-133020367.html" />
     <author>

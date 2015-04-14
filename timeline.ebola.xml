@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sierra Leone schools reopen after long closure due to Ebola</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3038513/Sierra-Leone-schools-reopen-long-closure-Ebola.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T15:01:49Z</updated>
+    <published>2015-04-14T15:01:49Z</published>
+    <summary type="html">&lt;p&gt;Unicef has supplied schools with soap and water and thermometers to check for fever, an Ebola symptom.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T15:01:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Sierra Leone schools re-open after Ebola closed for 9 months</title>
     <link rel="alternate" href="http://news.yahoo.com/sierra-leone-schools-open-ebola-closed-9-months-115811856.html" />
     <author>
