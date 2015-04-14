@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | US, Iran resume nuclear talks after Netanyahu speech</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/US-Iran-resume-nuclear-talks-after-Netanyahu-speech-20150304" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T13:06:13Z</updated>
+    <published>2015-03-04T13:06:13Z</published>
+    <summary type="html">&lt;p&gt;On Tuesday in Washington, Netanyahu told Congress that the agreement taking shape is dangerous and would allow Iran the ability to develop nuclear weapons.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T13:06:13Z</dc:date>
+    <media:content url="http://cdn.24.co.za/files/Cms/General/d/2809/a4d9b0e34d954f7c83ce38442bfa1237.jpg" />
+  </entry>
+  <entry>
     <title>Israel's Netanyahu speaks to Putin, protests Russian plans to sell advanced missiles to Iran</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/04/14/israel-netanyahu-speaks-to-putin-protests-russian-plans-to-sell-advanced/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
