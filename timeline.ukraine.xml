@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Canada to send 200 military trainers to Ukraine, says risk low</title>
+    <link rel="alternate" href="http://news.yahoo.com/canada-send-around-200-military-trainers-ukraine-145150021.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T15:47:58Z</updated>
+    <published>2015-04-14T15:47:58Z</published>
+    <summary type="html">&lt;p&gt;Harper has taken a hard line in public against President Vladimir Putin over what he calls blatant Russian interference in Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T15:47:58Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/DQxANXJIYgGeiHtaCHqgDQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-04-14T145235Z_2_LYNXMPEB3D0OF_RTROPTP_2_CANADA-POLITICS.JPG" />
+  </entry>
+  <entry>
+    <title>Ukraine crisis: Canada sending 200 trainers for Ukraine military</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/politics/ukraine-crisis-canada-sending-200-trainers-for-ukraine-military-1.3031806?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T09:31:50Z</updated>
+    <published>2015-04-14T09:31:50Z</published>
+    <summary type="html">&lt;p&gt;Training will also take place at the Ukrainian Ministry of Defence Demining Centre in Kamyanets-Podilsky in western Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T09:31:50Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3031813.1429003363!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/ukraine-crisis.jpg" />
+  </entry>
+  <entry>
     <title>Canada to send around 200 military trainers to Ukraine</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3038506/Canada-send-200-military-trainers-Ukraine.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
