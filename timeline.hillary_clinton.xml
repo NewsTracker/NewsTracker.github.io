@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gravestone of Hillary Clinton's dad toppled in Pennsylvania, maybe by vandals, police say</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/299782081.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T00:30:26Z</updated>
+    <published>2015-04-15T00:30:26Z</published>
+    <summary type="html">&lt;p&gt;- The gravestone of Hillary Rodham Clinton's father has been found toppled over at a Pennsylvania cemetery.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T00:30:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>In speech, Bill Clinton makes no mention of wife's campaign</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/article/In-speech-Bill-Clinton-makes-no-mention-of-6200063.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T23:51:57Z</updated>
+    <published>2015-04-14T23:51:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T23:51:57Z</dc:date>
+  </entry>
+  <entry>
     <title>In NYC speech, Bill Clinton does not mention Hillary Rodham Clinton's presidential campaign</title>
     <link rel="alternate" href="http://www.startribune.com/politics/299779501.html" />
     <author>
