@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico oil spill affects drinking water for Tabasco city</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11433019&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T23:20:13Z</updated>
+    <published>2015-04-14T23:20:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T23:20:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico oil spill cuts off drinking water for capital of Gulf coast state of Tabasco</title>
+    <link rel="alternate" href="http://www.startribune.com/world/299775561.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T23:15:23Z</updated>
+    <published>2015-04-14T23:15:23Z</published>
+    <summary type="html">&lt;p&gt;Illegal pipeline taps have caused fires, explosions and spills in Mexico in the past.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T23:15:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico Groups Ask UN to List Monarch Reserve as in Danger</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-groups-list-monarch-reserve-danger-30316999" />
     <author>

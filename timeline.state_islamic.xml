@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Defence Minister Kevin Andrews unable to name Islamic State leader</title>
+    <link rel="alternate" href="http://www.smh.com.au/federal-politics/political-news/defence-minister-kevin-andrews-unable-to-name-islamic-state-leader-20150414-1ml5lc.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T23:24:08Z</updated>
+    <published>2015-04-14T23:24:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T23:24:08Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/3/8/5/w/9/image.related.articleLeadwide.620x349.1ml5lc.png/1429050363907.jpg" />
+  </entry>
+  <entry>
     <title>Boehner says Obama request for authority to counter Islamic State stalled in Congress</title>
     <link rel="alternate" href="http://www.startribune.com/nation/299734251.html" />
     <author>
