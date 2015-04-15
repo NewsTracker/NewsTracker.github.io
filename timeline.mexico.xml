@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Toyota to move Corolla production to Mexico to cut costs: Globe and Mail</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/toyota-move-corolla-production-mexico-054053348.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T05:40:53Z</updated>
+    <published>2015-04-15T05:40:53Z</published>
+    <summary type="html">&lt;p&gt;Sources told Reuters that Toyota will spend $1 billion to build a car factory in Mexico, which is expected to begin functioning from the summer of 2019, ending a self-imposed three-year freeze on new investments.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T05:40:53Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/EtjUlgzt3M6i0j2cnEK_HA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-04-15T054053Z_1_LYNXMPEB3E05V_RTROPTP_3_TOYOTA_original.jpg" />
+  </entry>
+  <entry>
     <title>Central American migrants hope to re-start protest convoy stymied by checkpoints in Mexico</title>
     <link rel="alternate" href="http://www.startribune.com/world/299786341.html" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Paul, Griffin shoot Clippers past Suns, 112-101 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/paul-griffin-shoot-clippers-past-suns-112-101-052013928--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T05:23:27Z</updated>
+    <published>2015-04-15T05:23:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-15T05:23:27Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/USdYPIy264sF4pSBZwFn9g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504142348856881801" />
+  </entry>
+  <entry>
     <title>Harvey wins in return to Citi Field; Mets beat Phillies 6-5 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/harvey-wins-return-citi-field-mets-beat-phillies-024108552--mlb.html" />
     <author>
