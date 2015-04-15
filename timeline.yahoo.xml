@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Indians' pitcher Carlos Carrasco hit in face with line drive (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/indians-pitcher-carlos-carrasco-hit-face-line-drive-004304491--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T01:44:11Z</updated>
+    <published>2015-04-15T01:44:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-15T01:44:11Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Big score: College bowl game payouts surpass $500 million (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/big-score-college-bowl-game-payouts-surpass-500-135756815--ncaaf.html" />
     <author>
