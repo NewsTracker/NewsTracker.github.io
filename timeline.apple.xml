@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>6% of US adults plan to buy Apple Watch: Poll</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102590135" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T20:04:00Z</updated>
+    <published>2015-04-15T20:04:00Z</published>
+    <summary type="html">&lt;p&gt;"I already have the iPhone, the iPad, pretty much everything that Apple offers," said poll respondent Sefu Grady, a 37-year- old counselor living in Clinton, Mississippi.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T20:04:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/10/102576379-RTR4WS9F.530x298.jpg?v=1428670320" />
+  </entry>
+  <entry>
     <title>Exclusive: Six percent of U.S. adults plan to buy Apple Watch - Reuters/Ipsos poll</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/15/us-apple-watch-idUSKBN0N628820150415?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>

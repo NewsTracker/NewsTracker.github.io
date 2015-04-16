@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Flynn scores winner, Canadiens take Senators 4-3 in Game 1 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/flynn-scores-winner-canadiens-senators-3-1-game-021218977--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T03:54:00Z</updated>
+    <published>2015-04-16T03:54:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T03:54:00Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/e_zYugupIv7e_uNxmhXx.Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-us/video/video.nhlgamehighlights.com/1ef8c138654d262605cfe03eadee7646" />
+  </entry>
+  <entry>
+    <title>Young forwards, Halak lift Islanders past Caps 4-1 in Game 1 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/young-forwards-halak-lift-islanders-past-caps-4-015506685--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T03:10:16Z</updated>
+    <published>2015-04-16T03:10:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T03:10:16Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/_QvI0zB7W_kNtOtB2HmEUA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-us/video/video.nhlgamehighlights.com/b56c1ab85051e662fc59b7fddd634fef" />
+  </entry>
+  <entry>
+    <title>Mets put 3B David Wright on 15-day DL, recall Eric Campbell (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/mets-putting-david-wright-15-day-disabled-list-191857454--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T23:32:54Z</updated>
+    <published>2015-04-15T23:32:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-15T23:32:54Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/cEFYqQPS9N.oYVEhGu2TUA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504142122769421419" />
+  </entry>
+  <entry>
     <title>Bruins fire GM Chiarelli 4 years after Stanley Cup (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/bruins-fire-gm-chairelli-4-years-stanley-cup-152058691--nhl.html" />
     <author>
