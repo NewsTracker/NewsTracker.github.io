@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.N. envoy to Yemen announces resignation: Facebook statement</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/16/us-yemen-security-un-idUSKBN0N62O020150416?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T08:42:21Z</updated>
+    <published>2015-04-16T08:42:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T08:42:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Yahoo and Facebook shares outperform Google in Frankfurt</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/16/us-google-eu-shares-idUSKBN0N60SB20150416?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>

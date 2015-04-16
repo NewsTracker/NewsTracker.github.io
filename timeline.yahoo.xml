@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Davis leads Pelicans past Spurs, 108-103 and into playoffs (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/davis-leads-pelicans-past-spurs-108-103-playoffs-023341132--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T04:33:12Z</updated>
+    <published>2015-04-16T04:33:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T04:33:12Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/.yZwVA4XcMLoz.3vgRZGWA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/98d0bbb94db55fcf9578bffbef98de4d" />
+  </entry>
+  <entry>
     <title>Yahoo and Facebook shares outperform Google in Frankfurt</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/16/us-google-eu-shares-idUSKBN0N60SB20150416?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Mexico issues alert over stolen radioactive material</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Mexico-issues-alert-over-stolen-radioactive-material-20150416" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T07:10:59Z</updated>
+    <published>2015-04-16T07:10:59Z</published>
+    <summary type="html">&lt;p&gt;It was the latest case of radioactive material being stolen in Mexico.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T07:10:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Morris scores in 1st US start in 2-0 win over Mexico</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/sports/article18649746.html%23storylink=rss" />
     <author>
