@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bruins fire GM Chiarelli 4 years after Stanley Cup (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bruins-fire-gm-chairelli-4-years-stanley-cup-152058691--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T15:55:46Z</updated>
+    <published>2015-04-15T15:55:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-15T15:55:46Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/ekRmU1hbkWvMJRhp9cjtbw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504131251462627744" />
+  </entry>
+  <entry>
+    <title>Duke guard Tyus Jones latest Blue Devil to enter NBA draft (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/duke-guard-tyus-jones-latest-blue-devil-enter-140716380--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T15:15:42Z</updated>
+    <published>2015-04-15T15:15:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-15T15:15:42Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/6V5.w3lx_i4ZbQVDQ.7UbQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ0NDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504150949353752007" />
+  </entry>
+  <entry>
     <title>Paul, Griffin shoot Clippers past Suns, 112-101 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/paul-griffin-shoot-clippers-past-suns-112-101-052013928--nba.html" />
     <author>

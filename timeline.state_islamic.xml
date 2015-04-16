@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State militants seize villages near Ramadi in Iraq</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3039516/Fierce-clashes-Iraq-IS-seizes-villages-near-Ramadi.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T19:03:33Z</updated>
+    <published>2015-04-15T19:03:33Z</published>
+    <summary type="html">&lt;p&gt;Al-Abadi said Iraqi forces will follow their victory in Tikrit with campaigns against Islamic State in the oil town of Beiji and western Anbar province.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T19:03:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State militants seize villages near Ramadi in Iraq</title>
+    <link rel="alternate" href="http://news.yahoo.com/fierce-clashes-iraq-seizes-villages-near-ramadi-085410660.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T18:53:34Z</updated>
+    <published>2015-04-15T18:53:34Z</published>
+    <summary type="html">&lt;p&gt;The militants' push comes after the Islamic State was dealt a major blow earlier this month, when Iraqi troops routed the group from Tikrit, Saddam Hussein's hometown.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T18:53:34Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/k0wzVvuQ2YkSYzf0F.gRvQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/088b5eafe88ebc10730f6a7067004695.jpg" />
+  </entry>
+  <entry>
     <title>Indonesian Islamic parties seek ban on alcohol consumption</title>
     <link rel="alternate" href="http://news.yahoo.com/indonesian-islamic-parties-seek-ban-alcohol-consumption-021727576--finance.html" />
     <author>

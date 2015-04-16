@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia criticizes Canada for sending troops to Ukraine</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11433435&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T18:25:15Z</updated>
+    <published>2015-04-15T18:25:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-15T18:25:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russia Criticizes Canada for Sending Troops to Ukraine</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/russia-criticizes-canada-sending-troops-ukraine-30340844" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T18:21:33Z</updated>
+    <published>2015-04-15T18:21:33Z</published>
+    <summary type="html">&lt;p&gt;Canada announced Tuesday 200 trainers will be posted in western Ukraine, joining U.S. and British soldiers early this summer.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T18:21:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Canada to send 200 military trainers to Ukraine, says risk low</title>
     <link rel="alternate" href="http://news.yahoo.com/canada-send-around-200-military-trainers-ukraine-145150021.html" />
     <author>

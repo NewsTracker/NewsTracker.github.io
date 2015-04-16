@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Toyota Building Plants in Mexico, China; Seeks Growth Again</title>
+    <link rel="alternate" href="http://abcnews.go.com/Business/wireStory/toyota-building-plants-mexico-china-seeks-growth-30330092" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T18:01:33Z</updated>
+    <published>2015-04-15T18:01:33Z</published>
+    <summary type="html">&lt;p&gt;A Toyota executive, briefing reporters in Tokyo over a video connection from Nagoya in central Japan, said Mexico and China were chosen because they are two markets where auto demand is expected to rise in coming years.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T18:01:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Toyota to move Corolla production to Mexico to cut costs: Globe and Mail</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/toyota-move-corolla-production-mexico-054053348.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Are teens really quitting Facebook? No way, poll finds</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/technology/facebook-still-used-by-71-per-cent-of-u-s-teens-survey-finds-1.3033990?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T16:15:04Z</updated>
+    <published>2015-04-15T16:15:04Z</published>
+    <summary type="html">&lt;p&gt;Remember those declarations that teens are done with Facebook?&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T16:15:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Pew Research Center reports teens have not moved on from Facebook after all</title>
     <link rel="alternate" href="http://www.startribune.com/nation/299680961.html" />
     <author>
