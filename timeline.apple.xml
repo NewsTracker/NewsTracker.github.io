@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Pay Plans to Launch in Canada</title>
+    <link rel="alternate" href="http://www.wsj.com/articles/apple-pay-plans-to-launch-in-canada-this-fall-1429280816?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-17T22:18:37Z</updated>
+    <published>2015-04-17T22:18:37Z</published>
+    <summary type="html">&lt;p&gt;A base case for Canadian banks could be in the range of 15 to 25 basis points on credit card transactions to Apple, according to one of those people.&lt;/p&gt;</summary>
+    <dc:date>2015-04-17T22:18:37Z</dc:date>
+    <media:content url="http://si.wsj.net/public/resources/images/BN-HE983_APPLEP_P_20150302192013.jpg" />
+  </entry>
+  <entry>
     <title>Don't plan to line up for Apple Watch next week</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article18767085.html%23storylink=rss" />
     <author>
