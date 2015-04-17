@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US Troops Arrive in Ukraine for Training Exercises</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/us-troops-arrive-ukraine-training-exercises-30388937" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-17T19:54:40Z</updated>
+    <published>2015-04-17T19:54:40Z</published>
+    <summary type="html">&lt;p&gt;Lukashevich said the U.S. troops' presence violates the section of the Minsk agreement that bans foreign "armed formations" from Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-17T19:54:40Z</dc:date>
+  </entry>
+  <entry>
     <title>US troops arrive in Ukraine for training exercises</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/17/us-troops-arrive-in-ukraine-for-training-exercises" />
     <author>
