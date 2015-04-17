@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Roadside bombing kills officer in Egypt's restive Sinai</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/16/roadside-bombing-kills-officer-in-egypts-restive-sinai" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T10:53:56Z</updated>
+    <published>2015-04-16T10:53:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T10:53:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>Bomb kills soldier, wounds another in Egypt's Sinai: sources</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/16/us-egypt-violence-sinai-idUSKBN0N70X220150416?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T09:43:42Z</updated>
+    <published>2015-04-16T09:43:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T09:43:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt, Saudi mull drills as pressure builds on Yemen rebels</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3039567/Egypt-Saudi-mull-joint-exercise-amid-Yemen-air-war.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

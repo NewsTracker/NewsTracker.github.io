@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: georgia execution</title>
-  <link rel="alternate" href="http://newstracker.github.io/timeline.georgia_execution.html" />
+  <link rel="alternate" href="http://newstracker.github.io/timeline.georgia_execution.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Cloudy execution drug was too cold, not tainted, Georgia officials say</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3042842/Cloudy-execution-drug-cold-not-tainted-Georgia-officials-say.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-17T00:01:19Z</updated>
+    <published>2015-04-17T00:01:19Z</published>
+    <summary type="html">&lt;p&gt;Georgia has also suspended the execution of another condemned inmate, Brian Keith Terrell, while an analysis of the drug supply was conducted.&lt;/p&gt;</summary>
+    <dc:date>2015-04-17T00:01:19Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/17/10/27A8A98900000578-0-image-m-44_1429261468247.jpg" />
+  </entry>
+  <entry>
+    <title>Pharmacy expert: Problem with Georgia execution drug caused by storage at low temperature</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/300181061.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T21:45:40Z</updated>
+    <published>2015-04-16T21:45:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T21:45:40Z</dc:date>
+    <media:content url="http://stmedia.startribune.com/designimages/playBackIcon.png" />
+  </entry>
+  <entry>
+    <title>Expert: Georgia execution drug problem cause by low temp</title>
+    <link rel="alternate" href="http://news.yahoo.com/expert-georgia-execution-drug-problem-cause-low-temp-214207557.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T21:42:07Z</updated>
+    <published>2015-04-16T21:42:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T21:42:07Z</dc:date>
+  </entry>
   <entry>
     <title>Georgia waffles on execution with cloudy drug, lawyers say</title>
     <link rel="alternate" href="http://www.washingtontimes.com/news/2015/mar/4/lawyers-georgia-waffles-on-execution-with-cloudy-d/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS" />
