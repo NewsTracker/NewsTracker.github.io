@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tikrit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>'Saddam deputy' killed near Tikrit</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/saddam-deputy-killed-near-tikrit-31151015.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-17T14:16:09Z</updated>
+    <published>2015-04-17T14:16:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-17T14:16:09Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31151014.ece/3523f/ALTERNATES/h342/PANews%20BT_P-0f0ab7b2-d5dd-4ab1-bfc0-4c3b67dbe747_I1.jpg" />
+  </entry>
+  <entry>
     <title>Iraq exhumes remains of 164 from Tikrit graves</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3036865/Iraq-exhumes-remains-164-Tikrit-graves.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
