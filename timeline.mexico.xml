@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico confirms capture of Gulf Cartel leader</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/18/mexico-confirms-capture-of-gulf-cartel-leader" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T20:21:55Z</updated>
+    <published>2015-04-18T20:21:55Z</published>
+    <summary type="html">&lt;p&gt;Reynosa has been one of the most violent cities in Mexico over the past year, racked by turf wars among the Gulf Cartel and the Zetas, two drug gangs fighting for control of border smuggling routes and crime rackets.&lt;/p&gt;</summary>
+    <dc:date>2015-04-18T20:21:55Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297689578216_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Arrest of Mexico's Gulf Cartel chief, others sparks gunfights, blockades on Mexico-US border</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/04/18/arrest-mexico-gulf-cartel-chief-others-sparks-gunfights-blockades-on-mexico-us/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Pay coming to Canada?</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/17/apple-pay-coming-to-canada-2" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-17T17:04:53Z</updated>
+    <published>2015-04-17T17:04:53Z</published>
+    <summary type="html">&lt;p&gt;Apple Inc is planning to launch its electronic payments service in Canada in November, the first international expansion of Apple Pay, the Wall Street Journal reported, citing people familiar with the matter.&lt;/p&gt;</summary>
+    <dc:date>2015-04-17T17:04:53Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297689107441_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>SunPower, Apple to build solar projects in China</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/16/us-sunpower-apple-solar-idUSKBN0N71L020150416?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
