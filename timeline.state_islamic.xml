@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>An Iraqi offensive to dislodge the Islamic State from Tikrit seems to have stalled</title>
+    <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/middle-east/iraq/150313/iraqi-offensive-dislodge-islamic-state-tikrit-seems-ha" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T16:12:00Z</updated>
+    <published>2015-03-13T16:12:00Z</published>
+    <summary type="html">&lt;p&gt;Islamic State is on the back foot in the north, where Shi'ite militia and Kurdish forces known as peshmerga went on the offensive around the oil-rich city of Kirkuk on Friday.&lt;/p&gt;&lt;p&gt;The Shi'ite militia are accused of committing abuses against Sunnis in other territory they have retaken from Islamic State - charges they deny.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T16:12:00Z</dc:date>
+    <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2015-March/iraqi-fighters-tikrit-2015-3-13.jpg" />
+  </entry>
+  <entry>
     <title>Attorneys seek dismissal of charges in Islamic State case</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11434843&amp;amp;ref=rss" />
     <author>
@@ -3384,18 +3396,6 @@
     <published>2015-03-13T19:24:12Z</published>
     <summary type="html">&lt;p&gt;Agents interviewed Juraboev in August, when he acknowledged wanting to fight for Islamic State in Syria and told them about a friend, Saidakhmetov, who shared similar views, prosecutors said.&lt;/p&gt;&lt;p&gt;Initially charged through a criminal complaint, the men were indicted by a grand jury Monday for attempting and conspiring to provide material support to Islamic State.&lt;/p&gt;</summary>
     <dc:date>2015-03-13T19:24:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>An Iraqi offensive to dislodge the Islamic State from Tikrit seems to have stalled</title>
-    <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/middle-east/iraq/150313/iraqi-offensive-dislodge-islamic-state-tikrit-seems-ha" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-13T16:12:00Z</updated>
-    <published>2015-03-13T16:12:00Z</published>
-    <summary type="html">&lt;p&gt;Islamic State is on the back foot in the north, where Shi'ite militia and Kurdish forces known as peshmerga went on the offensive around the oil-rich city of Kirkuk on Friday.&lt;/p&gt;</summary>
-    <dc:date>2015-03-13T16:12:00Z</dc:date>
-    <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2015-March/iraqi-fighters-tikrit-2015-3-13.jpg" />
   </entry>
   <entry>
     <title>Islamic State group accepts Boko Haram pledge of allegiance</title>
