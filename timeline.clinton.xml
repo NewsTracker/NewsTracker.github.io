@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Clinton aides used personal emails to communicate with her: NYT</title>
+    <link rel="alternate" href="http://news.yahoo.com/clinton-aides-used-personal-emails-communicate-her-nyt-131012522.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-23T13:10:12Z</updated>
+    <published>2015-03-23T13:10:12Z</published>
+    <summary type="html">&lt;p&gt;Last week Republicans asked the State Department to hand over numerous documents related to Clinton's use of private email while she was secretary of state and have called on her to hand over her email server to a third party.&lt;/p&gt;&lt;p&gt;The Times report is the latest revelation in the saga over Clinton and her use of a personal email address to conduct government business, as well as a private computer server to store that correspondence.&lt;/p&gt;&lt;p&gt;Clinton has said she gave copies of all work-related emails to the State Department, but Republicans, who see her as their top target in the run-up to the 2016 election, continued to press for more records.&lt;/p&gt;</summary>
+    <dc:date>2015-03-23T13:10:12Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Clinton faces early test on U.S.-Pacific Rim trade deal fight</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3044237/Clinton-faces-early-test-U-S-Pacific-Rim-trade-deal-fight.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1038,18 +1050,6 @@
     <published>2015-04-11T17:25:00Z</published>
     <summary type="html">&lt;p&gt;They provided the first preview of the message that Clinton planned to convey when she launches her long-anticipated campaign on Sunday with an online video.&lt;/p&gt;</summary>
     <dc:date>2015-04-11T17:25:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Clinton aides used personal emails to communicate with her: NYT</title>
-    <link rel="alternate" href="http://news.yahoo.com/clinton-aides-used-personal-emails-communicate-her-nyt-131012522.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-23T13:10:12Z</updated>
-    <published>2015-03-23T13:10:12Z</published>
-    <summary type="html">&lt;p&gt;Last week Republicans asked the State Department to hand over numerous documents related to Clinton's use of private email while she was secretary of state and have called on her to hand over her email server to a third party.&lt;/p&gt;&lt;p&gt;The Times report is the latest revelation in the saga over Clinton and her use of a personal email address to conduct government business, as well as a private computer server to store that correspondence.&lt;/p&gt;</summary>
-    <dc:date>2015-03-23T13:10:12Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
   </entry>
   <entry>
     <title>Bill Clinton Defends Foreign Donations To Foundation</title>
