@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Mexico confirms capture of Gulf Cartel leader</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/18/22351891.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T21:34:18Z</updated>
+    <published>2015-04-18T21:34:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-18T21:34:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico confirms capture of Gulf Cartel leader</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/04/18/mexico-confirms-capture-of-gulf-cartel-leader" />
     <author>
       <name />
