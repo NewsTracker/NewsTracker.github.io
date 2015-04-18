@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Afghan suicide bombing claimed by the Islamic State group kills at least 33 people</title>
+    <link rel="alternate" href="http://www.startribune.com/world/300431571.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T13:40:19Z</updated>
+    <published>2015-04-18T13:40:19Z</published>
+    <summary type="html">&lt;p&gt;FAIZABAD, Afghanistan - A motorcycle-riding suicide bomber attacked a bank branch Saturday in eastern Afghanistan, killing at least 33 people in a deadly attack the country's president said was claimed by the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-04-18T13:40:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Afghan suicide bombing claimed by Islamic State kills 33</title>
+    <link rel="alternate" href="http://news.yahoo.com/official-least-22-killed-suicide-motorcycle-bombing-eastern-051027372.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T13:34:31Z</updated>
+    <published>2015-04-18T13:34:31Z</published>
+    <summary type="html">&lt;p&gt;Hours after the attack, President Ashraf Ghani blamed the Islamic State group for the attack.&lt;/p&gt;&lt;p&gt;Ghani warned before that the Islamic State group was starting to establish a presence in Afghanistan.&lt;/p&gt;&lt;p&gt;He called on the Taliban to join with the Kabul government, and said that any Taliban who switched allegiance to Islamic State group would earn the wrath of Afghanistan's religious leaders.&lt;/p&gt;</summary>
+    <dc:date>2015-04-18T13:34:31Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/XtMP.HeXesLz__u3XBZ85g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/cb08f9d762e6fe11730f6a7067009da8.jpg" />
+  </entry>
+  <entry>
+    <title>Afghan president says Islamic State group has claimed suicide bombing that killed at least 33</title>
+    <link rel="alternate" href="http://news.yahoo.com/afghan-president-says-islamic-state-group-claimed-suicide-123412087.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T12:34:13Z</updated>
+    <published>2015-04-18T12:34:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-18T12:34:13Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
     <title>An Iraqi offensive to dislodge the Islamic State from Tikrit seems to have stalled</title>
     <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/middle-east/iraq/150313/iraqi-offensive-dislodge-islamic-state-tikrit-seems-ha" />
     <author>

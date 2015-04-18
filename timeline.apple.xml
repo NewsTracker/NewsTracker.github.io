@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>SunPower, Apple to build solar projects in China</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/16/us-sunpower-apple-solar-idUSKBN0N71L020150416?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T14:06:41Z</updated>
+    <published>2015-04-16T14:06:41Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T14:06:41Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple Pay Plans to Launch in Canada</title>
     <link rel="alternate" href="http://www.wsj.com/articles/apple-pay-plans-to-launch-in-canada-this-fall-1429280816?mod=rss_Technology" />
     <author>
