@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State blamed for Afghan suicide bombing killing 35</title>
+    <link rel="alternate" href="http://news.yahoo.com/official-least-22-killed-suicide-motorcycle-bombing-eastern-051027372.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T19:36:23Z</updated>
+    <published>2015-04-18T19:36:23Z</published>
+    <summary type="html">&lt;p&gt;Local Afghan media quoted a previously unknown man who identified himself as a spokesman for the Islamic State group's affiliate in the country, claiming responsibility for the attack.&lt;/p&gt;&lt;p&gt;The Islamic State group, currently targeted by a U.S.-led coalition's airstrikes and an Iraqi ground offensive, has seen its public image rise dramatically since it seized much of Iraq last summer.&lt;/p&gt;&lt;p&gt;In recent days, Ismail Khan, long a dominant figure in Afghanistan's western province of Herat, told The Associated Press that the numbers of Islamic State supporters are growing because of divisions in Ghani's government.&lt;/p&gt;</summary>
+    <dc:date>2015-04-18T19:36:23Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/mWCMCZ3mmhH_ZIAOmx8LGA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-04-18T094111Z_2_LYNXMPEB3H02T_RTROPTP_2_AFGHANISTAN-BLAST.JPG.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Afghan blast kills 33; president blames Islamic State</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/south-asia/Afghan-blast-kills-33-president-blames-Islamic-State/articleshow/46973134.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T19:02:31Z</updated>
+    <published>2015-04-18T19:02:31Z</published>
+    <summary type="html">&lt;p&gt;Local media said a former spokesman for the Pakistani Taliban had claimed responsibility on behalf of the Islamic State in both Pakistan and Afghanistan.&lt;/p&gt;</summary>
+    <dc:date>2015-04-18T19:02:31Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46973159,width-300,resizemode-4/1e.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State blamed for Afghan suicide bombing killing 35</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-18-AS--Afghanistan/id-0880100293b84ae5a710af24b7186a24" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T15:36:00Z</updated>
+    <published>2015-04-18T15:36:00Z</published>
+    <summary type="html">&lt;p&gt;Analysts and officials say the number of Islamic State supporters in the Afghan-Pakistan region remains small and that the group faces resistance from militants with strong tribal links.&lt;/p&gt;</summary>
+    <dc:date>2015-04-18T15:36:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Afghan suicide bombing claimed by the Islamic State group kills at least 33 people</title>
     <link rel="alternate" href="http://www.startribune.com/world/300431571.html" />
     <author>
