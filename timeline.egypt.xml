@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court seeks death sentence for 11 in soccer stadium case</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/19/22352671.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T12:54:52Z</updated>
+    <published>2015-04-19T12:54:52Z</published>
+    <summary type="html">&lt;p&gt;The judge referred the sentencing to Egypt's Grand Mufti, the country's most senior religious authority, a step towards the death penalty, which could be imposed at a later court hearing on May 30.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T12:54:52Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/World/2015/04/19/cjt2wvk4.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Egypt court sentences 11 to death over 2012 football riot</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3045585/Egypt-court-sentences-11-death-2012-football-riot.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

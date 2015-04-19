@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>IS releases video purportedly showing execution of 30 Ethiopian Christians</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-04-19/is-releases-execution-video-of-30-ethiopian-christians/6404578" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T12:51:01Z</updated>
+    <published>2015-04-19T12:51:01Z</published>
+    <summary type="html">&lt;p&gt;The video bore the logo of Islamic State's (IS) media arm and was similar to footage released in the past, including of a group of 21 Coptic Christians, mainly Egyptians, beheaded on a Libyan beach in February.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T12:51:01Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6404586-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State shot and beheaded 30 people in Libya: Video</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/19/22352661.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T12:43:23Z</updated>
+    <published>2015-04-19T12:43:23Z</published>
+    <summary type="html">&lt;p&gt;Reuters was not able to verify the authenticity of the video but the killings were similar to past violence carried out by Islamic State, which has expanded its reach from strongholds in Iraq and Syria to chaotic Libya.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T12:43:23Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/World/2015/04/19/h8t8dudj.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>ISIS releases video appearing to show killing of Christians</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/world/isis-releases-video-appearing-show-killing-christians-article-1.2190677?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T11:33:19Z</updated>
+    <published>2015-04-19T11:33:19Z</published>
+    <summary type="html">&lt;p&gt;The Islamic State group has been able to gain a foothold amid the chaos in Libya, where two governments backed by rival alliances of militias are battling each other as well as extremist groups.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T11:33:19Z</dc:date>
+  </entry>
+  <entry>
     <title>New Islamic State Video Purportedly Shows Killing of Captured Ethiopian Christians in Libya</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/islamic-state-video-purportedly-shows-killing-captured-ethiopian-30424209" />
     <author>
