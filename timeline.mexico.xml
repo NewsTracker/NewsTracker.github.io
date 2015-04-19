@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fire sends plume of smoke above Mexico City</title>
+    <link rel="alternate" href="http://news.yahoo.com/fire-sends-plume-smoke-above-mexico-city-153917832.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T15:39:17Z</updated>
+    <published>2015-04-19T15:39:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T15:39:17Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
     <title>Parents of students missing in Mexico to visit Boston</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11435243&amp;amp;ref=rss" />
     <author>
@@ -210,7 +222,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -1314,7 +1326,7 @@
     <dc:date>2015-03-20T13:29:49Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -1326,7 +1338,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -1727,7 +1739,7 @@
     <dc:date>2015-03-21T18:47:58Z</dc:date>
   </entry>
   <entry>
-    <title>‘Lucha libre’ wrestler dies from hit in the ring</title>
+    <title>?Lucha libre? wrestler dies from hit in the ring</title>
     <link rel="alternate" href="http://nypost.com/2015/03/21/mexico-lucha-libre-wrestler-dies-from-hit-in-the-ring/" />
     <author>
       <name />
