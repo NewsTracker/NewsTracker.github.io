@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>WHO admits failings during Ebola crisis</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/world-health-organization-admits-ebola-failings-1.3039864?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T22:53:59Z</updated>
+    <published>2015-04-19T22:53:59Z</published>
+    <summary type="html">&lt;p&gt;The statement listed eight lessons learned, including areas where the WHO's response to Ebola could have been better, such as information sharing and communication.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T22:53:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Soldier death feared Ebola-related blamed on synthetic pot</title>
     <link rel="alternate" href="http://www.miamiherald.com/living/health-fitness/article18717534.html%23storylink=rss" />
     <author>

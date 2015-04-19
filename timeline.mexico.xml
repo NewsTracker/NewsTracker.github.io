@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Wes Roach wins in Mexico for first Web.com Tour title</title>
+    <link rel="alternate" href="http://www.miamiherald.com/sports/article18938706.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T22:42:17Z</updated>
+    <published>2015-04-19T22:42:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T22:42:17Z</dc:date>
+    <media:content url="http://www.miamiherald.com//static/codewidgets/dealsaver/images/dealsaver_td_logo.png" />
+  </entry>
+  <entry>
     <title>Mexican officials report capture of alleged Juarez Cartel leader</title>
     <link rel="alternate" href="http://www.startribune.com/world/300589841.html" />
     <author>
