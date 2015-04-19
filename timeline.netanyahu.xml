@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Despite Victory, Netanyahu Is Struggling To Form Coalition</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/19/israel-netanyahu-government_n_7096600.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T21:02:16Z</updated>
+    <published>2015-04-19T21:02:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T21:02:16Z</dc:date>
+    <media:content url="http://i.huffpost.com/gen/2853904/images/n-NETANYAHU-large570.jpg" />
+  </entry>
+  <entry>
     <title>Netanyahu wins Israel election after sharp shift to the right</title>
     <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/middle-east/israel-and-palestine/150318/netanyahu-wins-israel-election-after-s" />
     <author>
