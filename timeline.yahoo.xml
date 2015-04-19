@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Harden has 24 points, Rockets beat Mavs 118-108 in Game 1 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/harden-24-points-rockets-beat-mavs-118-108-042903365--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T04:31:09Z</updated>
+    <published>2015-04-19T04:31:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T04:31:09Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/nba/teams/83/70x70/hou.png" />
+  </entry>
+  <entry>
     <title>Bryant gets 1st hit, reaches 5 times as Cubs beat Padres 7-6 (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/bryant-gets-1st-hit-reaches-5-times-cubs-225315121--mlb.html" />
     <author>
