@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya Official: I Did Not Cause Delay in Ending Attack</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/kenya-official-delay-ending-attack-30428993" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T16:55:45Z</updated>
+    <published>2015-04-19T16:55:45Z</published>
+    <summary type="html">&lt;p&gt;On the day of the attack the helicopter had taken a police commander to northern Kenya and the plane had gone to Mombasa for a training exercise.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T16:55:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenya official: I did not cause delay in ending attack</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/19/kenya-official-i-did-not-cause-delay-in-ending/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T16:09:40Z</updated>
+    <published>2015-04-19T16:09:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T16:09:40Z</dc:date>
+  </entry>
+  <entry>
     <title>Last Male White Rhino Is Under Guard In Kenya</title>
     <link rel="alternate" href="http://www.npr.org/2015/04/17/400285242/last-male-white-rhino-is-under-guard-in-kenya?utm_medium=RSS&amp;amp;utm_campaign=storiesfromnpr" />
     <author>
@@ -348,7 +370,7 @@
     <media:content url="http://www.smh.com.au/content/dam/images/1/m/h/3/2/r/image.related.articleLeadwide.620x349.1mh310.png/1428589001359.jpg" />
   </entry>
   <entry>
-    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
+    <title>Community radio brings forecasts to Kenya?s most climate vulnerable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
       <name />
@@ -1176,7 +1198,7 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Al-Shabaab Kenya attack: death toll rises to 147 – live updates</title>
+    <title>Al-Shabaab Kenya attack: death toll rises to 147 ? live updates</title>
     <link rel="alternate" href="http://www.theguardian.com/world/live/2015/apr/02/al-shabaab-seize-hostages-in-standoff-at-kenya-college-live-updates" />
     <author>
       <name />

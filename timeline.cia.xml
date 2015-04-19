@@ -4,7 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>CIA director says Iran’s economic peril helped drive nuke deal</title>
+    <title>Egypt's president meets CIA director in Cairo for talks</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3046100/Egypts-president-meets-CIA-director-Cairo-talks.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T19:02:08Z</updated>
+    <published>2015-04-19T19:02:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T19:02:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>CIA director says Iran?s economic peril helped drive nuke deal</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/CIA-director-says-Iran-s-economic-peril-helped-6187145.php" />
     <author>
       <name />

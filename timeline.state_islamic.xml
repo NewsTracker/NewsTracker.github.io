@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraqi officer under Saddam masterminded rise of Islamic State: Spiegel</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/19/us-mideast-crisis-is-mastermind-idUSKBN0NA0TW20150419?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T16:42:15Z</updated>
+    <published>2015-04-19T16:42:15Z</published>
+    <summary type="html">&lt;p&gt;The Iraqi national was reportedly killed in a firefight with Syrian rebels in January 2014, but not before he had helped secure swathes of Syria, which in turn strengthened Islamic State's position in neighboring Iraq.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T16:42:15Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150419&amp;amp;t=2&amp;amp;i=1041657771&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB3I0CS" />
+  </entry>
+  <entry>
     <title>A history of the Islamic State group after Ethiopians killed</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article18914811.html%23storylink=rss" />
     <author>
@@ -236,7 +248,7 @@
     <dc:date>2015-04-17T12:45:14Z</dc:date>
   </entry>
   <entry>
-    <title>Security forces battle Islamic State inside Iraq’s largest refinery; militants hit Ramadi again</title>
+    <title>Security forces battle Islamic State inside Iraq?s largest refinery; militants hit Ramadi again</title>
     <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/04/17/world/security-forces-battle-islamic-state-inside-iraqs-largest-refinery-militants-hit-ramadi/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=security-forces-battle-islamic-state-inside-iraqs-largest-refinery-militants-hit-ramadi&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
     <author>
       <name />
