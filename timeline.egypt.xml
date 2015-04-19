@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Egypt court seeks death sentence for 11 in soccer stadium case</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/19/egypt-court-seeks-death-sentence-for-11-in-soccer-stadium-case" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T12:50:14Z</updated>
+    <published>2015-04-19T12:50:14Z</published>
+    <summary type="html">&lt;p&gt;Soccer matches are often a flashpoint for violence in the country but the Port Said incident was Egypt's worst ever soccer disaster, killing more than 70 fans and injuring at least 1,000.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T12:50:14Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297689772945_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Egypt court seeks death sentence for 11 in soccer stadium case</title>
     <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/19/22352671.html?cid=rssnewsworld" />
     <author>
       <name />
