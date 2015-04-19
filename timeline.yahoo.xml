@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Florida football player Jackson arrested for armed robbery (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/florida-football-player-jackson-arrested-armed-robbery-194301001--ncaaf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T20:20:59Z</updated>
+    <published>2015-04-19T20:20:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T20:20:59Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/EbunjYdBPc0PVWBFLo3FiA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504191449533984485" />
+  </entry>
+  <entry>
+    <title>Team Penske cars wreck each other at rain-soaked Bristol (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/team-penske-cars-wreck-other-rain-soaked-bristol-191217707--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T19:14:29Z</updated>
+    <published>2015-04-19T19:14:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T19:14:29Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/30byD37EOPBWhdKBQV8BTQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504180837310288861" />
+  </entry>
+  <entry>
     <title>Harden has 24 points, Rockets beat Mavs 118-108 in Game 1 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/harden-24-points-rockets-beat-mavs-118-108-042903365--nba.html" />
     <author>
