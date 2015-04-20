@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>World Health Organisation admits failings in handling of Ebola crisis</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-04-20/ebola-virus-who-admits-failings-promises-reform/6405130" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T23:43:01Z</updated>
+    <published>2015-04-19T23:43:01Z</published>
+    <summary type="html">&lt;p&gt;The World Health Organisation (WHO) has admitted serious failings in its handling of the Ebola crisis and pledged reforms to enable it to do better next time, its leadership says.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T23:43:01Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6305286-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>WHO admits serious failings over handling of Ebola, promises reform</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/who-admits-serious-failings-over-handling-of-ebola-promises-reform/article24021005/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T23:10:08Z</updated>
+    <published>2015-04-19T23:10:08Z</published>
+    <summary type="html">&lt;p&gt;Some critics have said that its reluctance to declare the outbreak an emergency were major factors in allowing the epidemic to balloon into the worst Ebola crisis on record, with more than 25,000 cases and 10,000 deaths.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T23:10:08Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/095/news/world/article23443473.ece/ALTERNATES/w220/AEBO113-Sierra+Leone+Ebola.JPG" />
+  </entry>
+  <entry>
+    <title>WHO admits failings during Ebola crisis</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/ebola-world-health-organization-admits-failings-in-tackling-crisis-1.3039864?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T22:53:59Z</updated>
+    <published>2015-04-19T22:53:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-19T22:53:59Z</dc:date>
+  </entry>
+  <entry>
     <title>WHO admits failings during Ebola crisis</title>
     <link rel="alternate" href="http://www.cbc.ca/news/world/world-health-organization-admits-ebola-failings-1.3039864?cmp=rss" />
     <author>
