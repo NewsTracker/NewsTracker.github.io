@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hard-right shift delivers upset election win for Netanyahu</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/18/us-israel-election-idUSKBN0MC2G620150318?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T23:37:34Z</updated>
+    <published>2015-03-18T23:37:34Z</published>
+    <summary type="html">&lt;p&gt;Although Netanyahu must still put together a coalition, his victory all but guarantees that Israel's president will give him the first opportunity to form a government, putting him course to become the longest-serving leader in the country's history.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T23:37:34Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150318&amp;amp;t=2&amp;amp;i=1033264669&amp;amp;w=&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=580&amp;amp;pl=378&amp;amp;r=LYNXMPEB2H00D" />
+  </entry>
+  <entry>
+    <title>Final polls say Benjamin Netanyahu is on pace to lose Israel's election</title>
+    <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/middle-east/israel-and-palestine/150313/benjamin-netanyahu-pace-lose-israels-e" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T19:52:00Z</updated>
+    <published>2015-03-13T19:52:00Z</published>
+    <summary type="html">&lt;p&gt;With polls showing Netanyahu's natural allies on the right likely to win the most seats overall, he has a clear advantage in piecing together a coalition and may instead be tasked by President Reuven Rivlin with forming a government.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T19:52:00Z</dc:date>
+    <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2014-December/netanyahu_dec._3_2014.jpg" />
+  </entry>
+  <entry>
     <title>Netanyahu receives two-week extension to form government</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/20/us-israel-politics-idUSKBN0NB0RW20150420?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>

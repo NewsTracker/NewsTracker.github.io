@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sepp Blatter tells World Cup detractors to 'stay at home' (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/sepp-blatter-tells-world-cup-detractors-stay-home-152157293--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-20T15:21:57Z</updated>
+    <published>2015-04-20T15:21:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-20T15:21:57Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/feAj7vs5q9lY_fOqx9UbKg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIzNztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504200959359526585" />
+  </entry>
+  <entry>
     <title>Grizzlies never trail, rout Trail Blazers 100-86 in Game 1 (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/grizzlies-never-trail-rout-trail-blazers-100-86-024256862--nba.html" />
     <author>
