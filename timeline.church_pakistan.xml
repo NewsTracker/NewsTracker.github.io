@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: church pakistan</title>
-  <link rel="alternate" href="http://newstracker.github.io/timeline.church_pakistan.html" />
+  <link rel="alternate" href="http://newstracker.github.io/timeline.church_pakistan.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Pakistan sends in troops to prevent more rioting by Christians after Taliban church attacks</title>
-    <link rel="alternate" href="http://www.startribune.com/world/296533411.html" />
+    <title>Pakistan deploys troops to prevent more rioting after church attacks</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/pakistan-deploys-troops-to-prevent-more-rioting-after-church-attacks-1.2283089" />
     <author>
       <name />
     </author>
-    <updated>2015-03-17T08:25:04Z</updated>
-    <published>2015-03-17T08:25:04Z</published>
+    <updated>2015-03-17T09:08:31Z</updated>
+    <published>2015-03-17T09:08:31Z</published>
     <summary type="html" />
-    <dc:date>2015-03-17T08:25:04Z</dc:date>
+    <dc:date>2015-03-17T09:08:31Z</dc:date>
   </entry>
   <entry>
-    <title>Pakistan mourns for victims of deadly Taliban church attacks, Christian protesters block roads</title>
-    <link rel="alternate" href="http://www.startribune.com/world/296402671.html" />
+    <title>Pakistan mourns for victims of deadly Taliban church attacks</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Pakistan-mourns-for-victims-of-deadly-Taliban-6136160.php" />
     <author>
       <name />
     </author>
-    <updated>2015-03-16T06:15:27Z</updated>
-    <published>2015-03-16T06:15:27Z</published>
+    <updated>2015-03-16T07:41:51Z</updated>
+    <published>2015-03-16T07:41:51Z</published>
+    <summary type="html">&lt;p&gt;Pakistani Christians gather in a church to mourn victims of a pair of Taliban suicide bombings that struck two churches the day before, in Lahore, Pakistan, Monday, March 16, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T07:41:51Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/16/65/7662972/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Pakistan mourns for victims of deadly Taliban church attacks</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/16/pakistan-mourns-for-victims-of-deadly-taliban-church-attacks" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T07:41:51Z</updated>
+    <published>2015-03-16T07:41:51Z</published>
     <summary type="html" />
-    <dc:date>2015-03-16T06:15:27Z</dc:date>
+    <dc:date>2015-03-16T07:41:51Z</dc:date>
   </entry>
   <entry>
     <title>Pakistan church attacks kill 14, spark deadly riots</title>
@@ -33,7 +45,7 @@
     </author>
     <updated>2015-03-15T17:33:20Z</updated>
     <published>2015-03-15T17:33:20Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;Christians, who make up around 2 percent of Pakistan's population of 180 million, have been targeted by attacks and riots in recent years, often over allegations of profanity regarding the Quran or the Prophet Mohammed.&lt;/p&gt;</summary>
     <dc:date>2015-03-15T17:33:20Z</dc:date>
     <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2015-March/pakistan_twin_bombings_church_march_15.jpg" />
   </entry>
@@ -47,17 +59,5 @@
     <published>2015-03-15T09:24:19Z</published>
     <summary type="html" />
     <dc:date>2015-03-15T09:24:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Twin blasts hit Pakistan church</title>
-    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/14-killed-in-pakistan-church-blasts-31067589.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-15T07:56:05Z</updated>
-    <published>2015-03-15T07:56:05Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-15T07:56:05Z</dc:date>
-    <media:content url="http://cdn1.belfasttelegraph.co.uk/news/world-news/article31067588.ece/09f78/ALTERNATES/h342/PANews%20BT_P-f3cff556-c681-4194-8cf5-52a63379c4ae_I1.jpg" />
   </entry>
 </feed>
