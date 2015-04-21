@@ -4,6 +4,84 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Canadian journalist awaiting trial in Egypt signs book deal</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/arts/mohamed-fahmy-al-jazeera-english-journalist-signs-book-deal-1.3027455?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T01:44:22Z</updated>
+    <published>2015-04-10T01:44:22Z</published>
+    <summary type="html">&lt;p&gt;Al-Jazeera English journalist Mohamed Fahmy, who remains in Egypt on bail while awaiting trial on terror charges, has signed a book deal.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T01:44:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nigeria, Egypt paired in Africa Cup of Nations draw</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3030575/Nigeria-Egypt-paired-Africa-Cup-Nations-draw.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T15:01:58Z</updated>
+    <published>2015-04-08T15:01:58Z</published>
+    <summary type="html">&lt;p&gt;Egypt have won the biennial Cup of Nations tournament a record seven times, Cameroon four times, Nigeria three times and South Africa once.&lt;/p&gt;&lt;p&gt;Nigeria and Egypt were drawn together and so were Cameroon and South Africa in the highlights of the 2017 Africa Cup of Nations qualifying draw made Wednesday in Cairo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T15:01:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt to try 48 for killing journalist, two civilians</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3025707/Egypt-try-48-killing-journalist-two-civilians.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T16:03:16Z</updated>
+    <published>2015-04-04T16:03:16Z</published>
+    <summary type="html">&lt;p&gt;Ashraf is among 10 Egyptian journalists killed in Egypt since the 2011 uprising that ousted former president Hosni Mubarak, according to New York-based Committee to Protect Journalist (CPJ).&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T16:03:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt to try 16 over football stadium deaths</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2998976/Egypt-try-16-football-stadium-deaths.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T14:41:12Z</updated>
+    <published>2015-03-17T14:41:12Z</published>
+    <summary type="html">&lt;p&gt;Egypt's state prosecutor Tuesday referred to trial 16 suspects accused of clashing with police that led to a deadly Cairo football stadium stampede, blaming the Islamist opposition for the violence.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T14:41:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt Basks in World Support at Investor Conference</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-conference-investors-commit-107-billion-29647771" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T19:56:38Z</updated>
+    <published>2015-03-15T19:56:38Z</published>
+    <summary type="html">&lt;p&gt;A jubilant Abdel-Fattah el-Sissi acknowledged Egypt's road to recovery will be long and costly, but described the three-day summit as an overwhelming success, recognizing companies and governments for their vote of confidence.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T19:56:38Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/International/WireAP_374029bd9edb4ae5a38b36f3601d64fe_16x9_992.jpg" />
+  </entry>
+  <entry>
+    <title>Kerry promotes US investment in Egypt; no new military aid</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/13/kerry-promotes-us-investment-in-egypt-no-new-military-aid" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T14:58:03Z</updated>
+    <published>2015-03-13T14:58:03Z</published>
+    <summary type="html">&lt;p&gt;SHARM EL-SHEIKH, Egypt (AP) - Secretary of State John Kerry delivered words of encouragement Friday for Egypt's efforts to attract greater foreign investment but no new military assistance as demanded by the country's president.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T14:58:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt names Cuper from Argentina to lead its soccer team</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11410806&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-02T19:30:06Z</updated>
+    <published>2015-03-02T19:30:06Z</published>
+    <summary type="html">&lt;p&gt;Egypt's team has been without a fulltime manager since American Bob Bradley quit in late 2013 after he failed to take the Pharaohs to the World Cup in Brazil.&lt;/p&gt;</summary>
+    <dc:date>2015-03-02T19:30:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Ousted Egypt president Mohamed Mursi sentenced to 20 years</title>
     <link rel="alternate" href="http://www.smh.com.au/world/ousted-egypt-president-mohamed-mursi-sentenced-to-20-years-20150421-1mq9ft.html" />
     <author>
@@ -564,17 +642,6 @@
     <summary type="html" />
     <dc:date>2015-04-08T16:31:05Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/OdzxpkpzZevnPGYEA4m.rA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_ZA/News/Reuters/2015-04-08T132802Z_1007970001_LYNXMPEB370IY_RTROPTP_2_OZATP-UK-EGYPT-COURT.JPG.cf.jpg" />
-  </entry>
-  <entry>
-    <title>Nigeria, Egypt paired in Africa Cup of Nations draw</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3030575/Nigeria-Egypt-paired-Africa-Cup-Nations-draw.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T15:01:58Z</updated>
-    <published>2015-04-08T15:01:58Z</published>
-    <summary type="html">&lt;p&gt;Egypt have won the biennial Cup of Nations tournament a record seven times, Cameroon four times, Nigeria three times and South Africa once.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T15:01:58Z</dc:date>
   </entry>
   <entry>
     <title>In Egypt, ex-military men fire up Islamist insurgency</title>
@@ -1446,17 +1513,6 @@
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/uxPH8yEO4tfJmgcvMq2nAQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/6ece6e909990a70b700f6a706700b82c.jpg" />
   </entry>
   <entry>
-    <title>Kerry promotes US investment in Egypt; no new military aid</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/13/kerry-promotes-us-investment-in-egypt-no-new-military-aid" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-13T14:58:03Z</updated>
-    <published>2015-03-13T14:58:03Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-13T14:58:03Z</dc:date>
-  </entry>
-  <entry>
     <title>Egypt conference to tell world Egypt is ready for investment</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/03/10/egypt-conference-to-tell-world-egypt-is-ready-for-investment" />
     <author>
@@ -1638,17 +1694,6 @@
     <published>2015-03-03T11:50:57Z</published>
     <summary type="html">&lt;p&gt;Egypt has not had an elected legislature since 2012, when the Supreme constitutional Court ruled that parliament's lower chamber was not constitutionally elected.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T11:50:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt names Cuper from Argentina to lead its soccer team</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11410806&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-02T19:30:06Z</updated>
-    <published>2015-03-02T19:30:06Z</published>
-    <summary type="html">&lt;p&gt;Egypt's team has been without a fulltime manager since American Bob Bradley quit in late 2013 after he failed to take the Pharaohs to the World Cup in Brazil.&lt;/p&gt;</summary>
-    <dc:date>2015-03-02T19:30:06Z</dc:date>
   </entry>
   <entry>
     <title>11 wounded, one critically, in bomb blast near Egypt court: medics</title>

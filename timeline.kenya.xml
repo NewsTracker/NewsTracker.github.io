@@ -4,6 +4,64 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T09:53:59Z</updated>
+    <published>2015-04-09T09:53:59Z</published>
+    <summary type="html">&lt;p&gt;Nganyi RANET - it stands for "Radio Internet" - is a community radio station set up by the Kenya Meteorological Service to target communities particularly vulnerable to climate extremes.&lt;/p&gt;&lt;p&gt;There are now five RANET radio stations in Kenya where the climate change impacts are particularly strong.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T09:53:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenya shuts down Somali remittance firms</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/8/kenya-shuts-down-somali-remittance-firms.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T11:52:00Z</updated>
+    <published>2015-04-08T11:52:00Z</published>
+    <summary type="html">&lt;p&gt;Somalia's central bank governor Bashir Issa Ali told Reuters that 13 Somali money transfer firms have been officially notified by Central Bank of Kenya (CBK) about the closure of accounts.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T11:52:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/4/4/kenya-school-survivor/_jcr_content/image.adapt.480.low.garissa_survivor_040415.jpg" />
+  </entry>
+  <entry>
+    <title>Kenya seeks more Western help after university attack</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3029249/Kenya-seeks-Western-help-university-attack.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T19:01:35Z</updated>
+    <published>2015-04-07T19:01:35Z</published>
+    <summary type="html">&lt;p&gt;Mohamed said Kenya was looking at ways it can put up more border posts and improve surveillance along the frontier, an area where foreign allies may be able to help.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T19:01:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenya massacre victims were lined up and shot as they phoned parents</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/kenya-massacre-victims-were-lined-up-and-shot-as-they-phoned-parents-20150404-1mefww.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T21:00:00Z</updated>
+    <published>2015-04-03T21:00:00Z</published>
+    <summary type="html">&lt;p&gt;The gunmen, from the Somali Islamist terrorist group al-Shabaab, stormed Garissa University in north-east Kenya.&lt;/p&gt;&lt;p&gt;Peter Aling'o, senior researcher with the Institute for Security Studies in Nairobi, said al-Shabaab was taking advantage of "gaps" in Kenya's intelligence-led security planning.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T21:00:00Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/e/f/x/8/image.related.articleLeadwide.620x349.1mefww.png/1428108890008.jpg" />
+  </entry>
+  <entry>
+    <title>Kenya burns 15 tonnes of ivory to deter elephant poachers</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/kenya-burns-15-tonnes-of-ivory-to-deter-elephant-poachers-20150304-13uh8b.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T01:58:18Z</updated>
+    <published>2015-03-04T01:58:18Z</published>
+    <summary type="html">&lt;p&gt;A Kenya Wildlife Services officer stands near a burning pile of 15 tonnes of elephant ivory seized in Kenya.&lt;/p&gt;&lt;p&gt;Nairobi:Kenya has burned 15 tonnes of elephant tusks and rhino horns as part of efforts to curb poaching of the mammals in the East African country.&lt;/p&gt;&lt;p&gt;Poachers killed 164 elephants in Kenya last year, compared with 302 in 2013 and 384 in 2012, while 53 rhinos were killed in 2014 compared with 59 and 30 in the previous two years, according to the Kenya Wildlife Service.&lt;/p&gt;&lt;p&gt;"This shows we are committed to save our elephants and we want the world to know that ivory belongs to the elephants," Paul Udoto, spokesman for the Kenya Wildlife Service, said at the ceremony.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T01:58:18Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/3/u/l/q/s/image.related.articleLeadwide.620x349.13uh8b.png/1425479709984.jpg" />
+  </entry>
+  <entry>
     <title>Ethiopia?s Desisa, Kenya?s Rotich winners at Boston Marathon</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/sports/more-sports/ethiopias-desisa-kenyas-rotich-winners-at-boston-marathon/article24029911/?cmpid=rss1" />
     <author>
@@ -344,18 +402,6 @@
     <published>2015-04-08T13:56:25Z</published>
     <summary type="html" />
     <dc:date>2015-04-08T13:56:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>Kenya shuts down Somali remittance firms</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/8/kenya-shuts-down-somali-remittance-firms.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T11:52:00Z</updated>
-    <published>2015-04-08T11:52:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-08T11:52:00Z</dc:date>
-    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/4/4/kenya-school-survivor/_jcr_content/image.adapt.480.low.garissa_survivor_040415.jpg" />
   </entry>
   <entry>
     <title>Kenya shuts money transfer firms</title>
@@ -771,7 +817,7 @@
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150405001118798836-original.jpg?itok=-TteVTsU" />
   </entry>
   <entry>
-    <title>Kenya?s revenge: Naked corpses paraded</title>
+    <title>Kenya’s revenge: Naked corpses paraded</title>
     <link rel="alternate" href="http://www.news.com.au/world/africa/kenya-massacre-police-parade-corpses-of-university-gunmen-through-massacre-town/story-fnh81gzi-1227291754637?from=public_rss" />
     <author>
       <name />
@@ -934,18 +980,6 @@
     <summary type="html">&lt;p&gt;Maureen Manyengo, a 21-year-old Christian from western Kenya, who was training to be a teacher, described how she hid inside her wardrobe after seeing several friends killed.&lt;/p&gt;&lt;p&gt;So far, 147 people have been confirmed dead and 79 injured in Kenya's worst terrorist attack in two decades, but officials have admitted that the number killed could rise as piles of bodies are recounted.&lt;/p&gt;&lt;p&gt;Joseph Nkaissery, Kenya's interior minister, confirmed that the gunmen had been strapped with explosives and blew up "like bombs" as they were shot by a special forces squad.&lt;/p&gt;</summary>
     <dc:date>2015-04-03T21:00:00Z</dc:date>
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/d/x/n/h/image.related.thumbnail.90x60.1mdpbt.png/1428010478446.jpg" />
-  </entry>
-  <entry>
-    <title>Kenya massacre victims were lined up and shot as they phoned parents</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/kenya-massacre-victims-were-lined-up-and-shot-as-they-phoned-parents-20150404-1mefww.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-03T21:00:00Z</updated>
-    <published>2015-04-03T21:00:00Z</published>
-    <summary type="html">&lt;p&gt;The gunmen, from the Somali Islamist terrorist group al-Shabaab, stormed Garissa University in north-east Kenya.&lt;/p&gt;</summary>
-    <dc:date>2015-04-03T21:00:00Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/m/e/f/x/8/image.related.articleLeadwide.620x349.1mefww.png/1428108890008.jpg" />
   </entry>
   <entry>
     <title>Shock, defiance in Kenya after Shebab massacre 148 at university</title>
@@ -1480,18 +1514,6 @@
     <published>2015-03-04T14:00:26Z</published>
     <summary type="html">&lt;p&gt;Al-Shabab extremists from Somalia have carried out 129 attacks in Kenya since Oct. 2011 saying its retribution for the Kenyan troop presence in Somalia.&lt;/p&gt;</summary>
     <dc:date>2015-03-04T14:00:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Kenya burns 15 tonnes of ivory to deter elephant poachers</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/kenya-burns-15-tonnes-of-ivory-to-deter-elephant-poachers-20150304-13uh8b.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-04T01:58:18Z</updated>
-    <published>2015-03-04T01:58:18Z</published>
-    <summary type="html">&lt;p&gt;A Kenya Wildlife Services officer stands near a burning pile of 15 tonnes of elephant ivory seized in Kenya.&lt;/p&gt;&lt;p&gt;Nairobi:Kenya has burned 15 tonnes of elephant tusks and rhino horns as part of efforts to curb poaching of the mammals in the East African country.&lt;/p&gt;&lt;p&gt;Poachers killed 164 elephants in Kenya last year, compared with 302 in 2013 and 384 in 2012, while 53 rhinos were killed in 2014 compared with 59 and 30 in the previous two years, according to the Kenya Wildlife Service.&lt;/p&gt;</summary>
-    <dc:date>2015-03-04T01:58:18Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/3/u/l/q/s/image.related.articleLeadwide.620x349.13uh8b.png/1425479709984.jpg" />
   </entry>
   <entry>
     <title>Kenya burns 15 tonnes of ivory to deter elephant poachers</title>

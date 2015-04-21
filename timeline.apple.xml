@@ -4,6 +4,65 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Karl Lagerfeld and Beyonce show off their exclusive custom Apple Watches</title>
+    <link rel="alternate" href="http://fashion.telegraph.co.uk/article/TMG11551453/Karl-Lagerfeld-and-Beyonce-show-off-their-exclusive-custom-Apple-Watches.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T12:51:11Z</updated>
+    <published>2015-04-21T12:51:11Z</published>
+    <summary type="html">&lt;p&gt;Beyonce showed off her custom Apple Watch at Coachella.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T12:51:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Swiss launch of Apple Watch hit by patent issue</title>
+    <link rel="alternate" href="http://technology.canoe.ca/News/2015/04/04/22326996.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T18:45:27Z</updated>
+    <published>2015-04-04T18:45:27Z</published>
+    <summary type="html">&lt;p&gt;ZURICH - Apple is not able to launch its new smartwatch in Switzerland until at least the end of this year because of an intellectual property rights issue, Swiss broadcaster RTS reported on its website.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T18:45:27Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/04/04/apple_watch_650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>EU regulators probe Apple's music streaming plans in Europe: FT</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/eu-regulators-probe-apples-music-093106544.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T09:31:06Z</updated>
+    <published>2015-04-02T09:31:06Z</published>
+    <summary type="html">&lt;p&gt;The commission has sought details from several music labels and digital streaming companies on their agreements with Apple, as the iPhone maker gears up to launch its own music streaming service this summer, the report said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T09:31:06Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/YiO6AcZXZrsJ0.2a0P7A8Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-04-02T093106Z_1_LYNXMPEB310DS_RTROPTP_3_APPLE-ATTACK_original.jpg" />
+  </entry>
+  <entry>
+    <title>Tag Heuer, Intel challenge Apple with Android smartwatch</title>
+    <link rel="alternate" href="http://technology.canoe.ca/Mobile/News/2015/03/19/22296736.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T15:35:15Z</updated>
+    <published>2015-03-19T15:35:15Z</published>
+    <summary type="html">&lt;p&gt;"With Apple Watch hitting the market it's no longer viable for Swiss watchmakers to bury their heads in the sand. Now Tag Heuer has signalled its intention to enter the smartwatch market we are certain others will follow."&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T15:35:15Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/Microgalleries/2015/03/09/turlington_cook650.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Apple in talks to launch online TV service: Report</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/apple-talks-launch-online-tv-021801813.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T02:18:01Z</updated>
+    <published>2015-03-17T02:18:01Z</published>
+    <summary type="html">&lt;p&gt;Apple is in talks to launch an online TV service, the Wall Street Journal reported late Monday, citing sources familiar with the matter.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T02:18:01Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/2lBDi9KFUffmTJv6t_C6rw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/ea7d17badc314817683bf453968d1a2e" />
+  </entry>
+  <entry>
     <title>Apple Pay Plans to Launch in Canada</title>
     <link rel="alternate" href="http://www.wsj.com/articles/apple-pay-plans-to-launch-in-canada-this-fall-1429280816?mod=rss_Technology" />
     <author>
@@ -1388,18 +1447,6 @@
     <published>2015-03-19T18:53:00Z</published>
     <summary type="html">&lt;p&gt;The Apple Watch will start at $350 when it goes on sale April 24, but ones made with 18-karat gold begin at $10,000.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T18:53:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tag Heuer, Intel challenge Apple with Android smartwatch</title>
-    <link rel="alternate" href="http://technology.canoe.ca/Mobile/News/2015/03/19/22296736.html?cid=rsstechnology" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T15:35:15Z</updated>
-    <published>2015-03-19T15:35:15Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-19T15:35:15Z</dc:date>
-    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/Microgalleries/2015/03/09/turlington_cook650.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
   </entry>
   <entry>
     <title>Tag Heuer to take on Apple with luxury smartwatch</title>

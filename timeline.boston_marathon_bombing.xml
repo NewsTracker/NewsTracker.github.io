@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Things to know about the Boston Marathon bombing trial</title>
+    <link rel="alternate" href="http://news.yahoo.com/things-know-boston-marathon-bombing-trial-153517979.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-16T15:35:17Z</updated>
+    <published>2015-02-16T15:35:17Z</published>
+    <summary type="html">&lt;p&gt;So it goes in the trial of Boston Marathon bombing suspect Dzhokhar Tsarnaev.&lt;/p&gt;&lt;p&gt;Tsarnaev, 21, faces 30 federal charges in connection with the twin explosions at the finish line of the marathon on April 15, 2013.&lt;/p&gt;&lt;p&gt;Tsarnaev's lawyers have argued repeatedly that he cannot get a fair trial in Massachusetts because of the emotional impact the bombings had here and the many people who have personal connections to the marathon, people injured in the attack and the first responders who helped them.&lt;/p&gt;&lt;p&gt;BOSTON (AP) - Picking a jury in a high-profile death penalty trial takes time, especially when a succession of powerful snowstorms forces repeated delays.&lt;/p&gt;</summary>
+    <dc:date>2015-02-16T15:35:17Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/2.6N_FXq_nopcsz4Wtk53g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/1991a844f4a3460a700f6a7067000561.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Boston marks somber second anniversary of deadly marathon bombing</title>
     <link rel="alternate" href="http://news.yahoo.com/boston-marks-somber-second-anniversary-deadly-marathon-bombing-070313793.html" />
     <author>
@@ -417,17 +429,5 @@
     <summary type="html" />
     <dc:date>2015-03-03T06:39:22Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/9jFlrhtoB2i.w1de4EdKOA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/1cd7b567fecebc096f0f6a7067007b3d.jpg" />
-  </entry>
-  <entry>
-    <title>Things to know about the Boston Marathon bombing trial</title>
-    <link rel="alternate" href="http://news.yahoo.com/things-know-boston-marathon-bombing-trial-153517979.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-16T15:35:17Z</updated>
-    <published>2015-02-16T15:35:17Z</published>
-    <summary type="html">&lt;p&gt;So it goes in the trial of Boston Marathon bombing suspect Dzhokhar Tsarnaev.&lt;/p&gt;&lt;p&gt;Tsarnaev, 21, faces 30 federal charges in connection with the twin explosions at the finish line of the marathon on April 15, 2013.&lt;/p&gt;&lt;p&gt;Tsarnaev's lawyers have argued repeatedly that he cannot get a fair trial in Massachusetts because of the emotional impact the bombings had here and the many people who have personal connections to the marathon, people injured in the attack and the first responders who helped them.&lt;/p&gt;</summary>
-    <dc:date>2015-02-16T15:35:17Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/2.6N_FXq_nopcsz4Wtk53g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/1991a844f4a3460a700f6a7067000561.jpg.cf.jpg" />
   </entry>
 </feed>
