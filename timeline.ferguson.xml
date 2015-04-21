@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson shooting: no arrests yet as police continue hunt for gunman</title>
+    <link rel="alternate" href="http://www.theage.com.au/world/ferguson-shooting-no-arrests-yet-as-police-continue-hunt-for-gunman-20150314-1440nv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T03:05:16Z</updated>
+    <published>2015-03-14T03:05:16Z</published>
+    <summary type="html">&lt;p&gt;Ferguson: Nearly 48 hours after two officers were shot in racially charged Ferguson, Missouri, investigators had dozens of leads but no arrests to report in the hunt for the gunman.&lt;/p&gt;&lt;p&gt;One protester stood opposite the Ferguson police department with a sign "Cops Lives Matter," playing on the "Black Lives Matter" slogan that sprang up in the wake of the deaths of Mr Brown and an unarmed black man in New York City.&lt;/p&gt;</summary>
+    <dc:date>2015-03-14T03:05:16Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/4/4/0/s/8/image.related.articleLeadwide.620x349.1440nv.png/1426302303355.jpg" />
+  </entry>
+  <entry>
     <title>Ferguson court clerk fired over racially charged emails insists she's not racist</title>
     <link rel="alternate" href="http://www.startribune.com/nation/299087151.html" />
     <author>
@@ -826,18 +838,6 @@
     <published>2015-03-14T17:57:19Z</published>
     <summary type="html">&lt;p&gt;A Ferguson convenience store that was looted and burned after the fatal shooting of Michael Brown will be rebuilt as a job training center.&lt;/p&gt;</summary>
     <dc:date>2015-03-14T17:57:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ferguson shooting: no arrests yet as police continue hunt for gunman</title>
-    <link rel="alternate" href="http://www.theage.com.au/world/ferguson-shooting-no-arrests-yet-as-police-continue-hunt-for-gunman-20150314-1440nv.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-14T03:05:16Z</updated>
-    <published>2015-03-14T03:05:16Z</published>
-    <summary type="html">&lt;p&gt;Ferguson: Nearly 48 hours after two officers were shot in racially charged Ferguson, Missouri, investigators had dozens of leads but no arrests to report in the hunt for the gunman.&lt;/p&gt;</summary>
-    <dc:date>2015-03-14T03:05:16Z</dc:date>
-    <media:content url="http://www.theage.com.au/content/dam/images/1/4/4/0/s/8/image.related.articleLeadwide.620x349.1440nv.png/1426302303355.jpg" />
   </entry>
   <entry>
     <title>Giuliani blames Obama for Ferguson shootings, other unrest</title>

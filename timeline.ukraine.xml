@@ -4,6 +4,62 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>EU gives Ukraine $267 million in low interest loans</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11436423&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T15:10:12Z</updated>
+    <published>2015-04-21T15:10:12Z</published>
+    <summary type="html">&lt;p&gt;Ukraine received major bailout loans from the International Monetary Fund, European Union and the U.S. last year, but has been requesting more with no clear end in sight to its economic problems.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T15:10:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>EU gives Ukraine $267 million in low interest loans</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11436423&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T15:10:12Z</updated>
+    <published>2015-04-21T15:10:12Z</published>
+    <summary type="html">&lt;p&gt;BRUSSELS (AP) " The European Union has given Ukraine 250 million euros ($267 million) in low interest loans as part of a package to help revive the country's lackluster economy.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T15:10:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>EU gives Ukraine $267 million in low interest loans</title>
+    <link rel="alternate" href="http://news.yahoo.com/eu-gives-ukraine-267-million-low-interest-loans-150517470.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T15:05:17Z</updated>
+    <published>2015-04-21T15:05:17Z</published>
+    <summary type="html">&lt;p&gt;The EU has promised Ukraine a further 1.8 billion euros once it makes clear how it will modernize its economy and fight corruption.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T15:05:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>West should consider all tools, including arms, for Ukraine: NATO general</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/22/us-ukraine-crisis-nato-idUSKBN0MI09K20150322?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-22T11:07:59Z</updated>
+    <published>2015-03-22T11:07:59Z</published>
+    <summary type="html">&lt;p&gt;BRUSSELS (Reuters) - The West should consider using all its tools to help Ukraine, including sending defensive weapons, NATO's top military commander said on Sunday.&lt;/p&gt;&lt;p&gt;"I do not think that any tool of U.S. or any other nation's power should necessarily be off the table," U.S. Air Force General Philip Breedlove told a Brussels conference when asked if he was in favor of sending defensive weapons to Ukraine.&lt;/p&gt;&lt;p&gt;Breedlove also said that NATO intelligence pointed to "disturbing" military developments on the ground in eastern Ukraine and voiced concern about whether a Ukraine ceasefire deal reached in Minsk last month was being complied with.&lt;/p&gt;</summary>
+    <dc:date>2015-03-22T11:07:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine soldiers taken prisoner in fighting for railway hub</title>
+    <link rel="alternate" href="http://news.yahoo.com/ukraine-army-rebels-miss-deadline-start-weapons-pullback-072759225.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-18T02:48:08Z</updated>
+    <published>2015-02-18T02:48:08Z</published>
+    <summary type="html">&lt;p&gt;The Ukrainian presidential office called on the European Union and NATO to condemn the Russia-backed rebels for violating the cease-fire brokered by the leaders of Ukraine, Russia, Germany and France last week.&lt;/p&gt;&lt;p&gt;Vice President Joe Biden condemned violations of the cease-fire in eastern Ukraine which the White House is blaming on pro-Russian separatists and Russian forces.&lt;/p&gt;</summary>
+    <dc:date>2015-02-18T02:48:08Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Russia slams Ukrainian law banning Communist-era symbols</title>
     <link rel="alternate" href="http://news.yahoo.com/russia-slams-ukrainian-law-banning-communist-era-symbols-193058244.html" />
     <author>
@@ -1290,17 +1346,6 @@
     <dc:date>2015-03-22T12:35:21Z</dc:date>
   </entry>
   <entry>
-    <title>West should consider all tools, including arms, for Ukraine: NATO general</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/03/22/us-ukraine-crisis-nato-idUSKBN0MI09K20150322?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-22T11:07:59Z</updated>
-    <published>2015-03-22T11:07:59Z</published>
-    <summary type="html">&lt;p&gt;BRUSSELS (Reuters) - The West should consider using all its tools to help Ukraine, including sending defensive weapons, NATO's top military commander said on Sunday.&lt;/p&gt;&lt;p&gt;"I do not think that any tool of U.S. or any other nation's power should necessarily be off the table," U.S. Air Force General Philip Breedlove told a Brussels conference when asked if he was in favor of sending defensive weapons to Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-03-22T11:07:59Z</dc:date>
-  </entry>
-  <entry>
     <title>Confidence in Ukraine's cease-fire hurt by arms violations</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article15559871.html%23storylink=rss" />
     <author>
@@ -2121,18 +2166,6 @@
     <published>2015-02-18T06:14:01Z</published>
     <summary type="html">&lt;p&gt;Ukraine denied rebel claims to have taken control of the town but acknowledged the separatists had seized parts of it.&lt;/p&gt;</summary>
     <dc:date>2015-02-18T06:14:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ukraine soldiers taken prisoner in fighting for railway hub</title>
-    <link rel="alternate" href="http://news.yahoo.com/ukraine-army-rebels-miss-deadline-start-weapons-pullback-072759225.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-18T02:48:08Z</updated>
-    <published>2015-02-18T02:48:08Z</published>
-    <summary type="html">&lt;p&gt;The Ukrainian presidential office called on the European Union and NATO to condemn the Russia-backed rebels for violating the cease-fire brokered by the leaders of Ukraine, Russia, Germany and France last week.&lt;/p&gt;</summary>
-    <dc:date>2015-02-18T02:48:08Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
   </entry>
   <entry>
     <title>Putin tells Kiev to let troops surrender as Ukraine ceasefire unravels</title>

@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>North Korea warns will act to get back ship held by Mexico</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-northkorea-mexico-un-ship-idUSKBN0MZ21T20150408?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T18:58:22Z</updated>
+    <published>2015-04-08T18:58:22Z</published>
+    <summary type="html">&lt;p&gt;Mexico's U.N. mission had no immediate comment on the North Korean accusations.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T18:58:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gold worth $8.5M stolen from Mexican mine with Canadian connection</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/gold-worth-8-5m-stolen-from-mexican-mine-with-canadian-connection-1.2316772" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T11:50:59Z</updated>
+    <published>2015-04-08T11:50:59Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY -- Canada-based McEwen Mining Inc. says armed robbers took $8.5 million in gold from a refinery at a mine in Mexico's western Sinaloa state.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T11:50:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Two mummified bodies found on Mexico's highest peak</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11413885&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-08T03:00:00Z</updated>
+    <published>2015-03-08T03:00:00Z</published>
+    <summary type="html">&lt;p&gt;Two mummified bodies found on Mexico's highest peak appear to be embracing each other and their discovery could put an end to the mystery of climbers who vanished after an avalanche in 1959, officials said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-08T03:00:00Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201511/AFP150703071809_620x310.jpg" />
+  </entry>
+  <entry>
     <title>Mexico says only holding North Korea ship to comply with U.N. rules</title>
     <link rel="alternate" href="http://news.yahoo.com/mexico-says-only-holding-north-korea-ship-comply-001419061.html" />
     <author>
@@ -2104,18 +2138,6 @@
     <published>2015-03-13T12:35:40Z</published>
     <summary type="html">&lt;p&gt;LOS ANGELES - Ex-"Survivor" producer Bruce Beresford-Redmond has been found guilty in the 2010 murder of his wife in Cancun, Mexico.&lt;/p&gt;&lt;p&gt;The former TV producer was extradited to Mexico in 2012 when a judge ordered him to remain in the country.&lt;/p&gt;</summary>
     <dc:date>2015-03-13T12:35:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Two mummified bodies found on Mexico's highest peak</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11413885&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-08T03:00:00Z</updated>
-    <published>2015-03-08T03:00:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-08T03:00:00Z</dc:date>
-    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201511/AFP150703071809_620x310.jpg" />
   </entry>
   <entry>
     <title>Effort planned to recover mummified body found buried in snow on Mexico's highest peak</title>
