@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo Inc?s revenue misses estimates as CEO?s turnaround sputters</title>
+    <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/yahoo-incs-revenue-misses-estimates-as-ceos-turnaround-sputters" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T21:58:08Z</updated>
+    <published>2015-04-21T21:58:08Z</published>
+    <summary type="html">&lt;p&gt;While shares have almost tripled under Mayer's leadership, much of that added value is tied to Yahoo's stake in Alibaba Group Holding Ltd., the largest Chinese e-commerce company.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T21:58:08Z</dc:date>
+    <media:content url="http://wpmedia.business.financialpost.com/2014/11/yahoo-inc-mozilla.jpg?w=620" />
+  </entry>
+  <entry>
+    <title>Yahoo's 1Q shows company remains mired in revenue rut</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Yahoo-s-1Q-shows-company-remains-mired-in-revenue-6214617.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T21:08:47Z</updated>
+    <published>2015-04-21T21:08:47Z</published>
+    <summary type="html">&lt;p&gt;After accounting for ad commissions, Yahoo's revenue fell 4 percent from the same time last year to $1.04 billion, extending a troubling trend that began before Mayer took over.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T21:08:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Yahoo's revenue drops 4 percent, misses estimates</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/yahoos-quarterly-revenue-drops-4-201714411.html" />
     <author>

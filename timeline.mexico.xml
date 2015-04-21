@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico bans poultry, egg imports from bird flu-hit Iowa</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/21/us-health-birdflu-usa-mexico-idUSKBN0NC2IN20150421?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T21:46:19Z</updated>
+    <published>2015-04-21T21:46:19Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (Reuters) - Mexico, the biggest buyer of U.S. chicken, has halted imports of live birds and eggs from the U.S. state of Iowa due to an outbreak of deadly bird flu there, the Mexican government said on Tuesday.&lt;/p&gt;&lt;p&gt;Mexico and other major countries last month imposed new export restrictions on poultry products from various U.S. states, but the outbreak has since spread to top U.S. egg-producing state Iowa.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T21:46:19Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources_v2/images/rcom-logo-hdr.png" />
+  </entry>
+  <entry>
+    <title>Mining co. in Mexico has 'good relationship' with cartels</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3034097/Mining-Mexico-good-relationship-cartels.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T21:02:02Z</updated>
+    <published>2015-04-10T21:02:02Z</published>
+    <summary type="html">&lt;p&gt;It is the third hit against mining interests in Mexico in recent months.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T21:02:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Low wages, trade deals luring auto plants and jobs to Mexico</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3049181/Low-wages-trade-deals-luring-auto-plants-jobs-Mexico.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -458,7 +481,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -1469,7 +1492,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -1481,7 +1504,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />

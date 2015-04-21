@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>CIA tried to hack Apple devices for nearly a decade, claim Edward Snowden papers</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-2987851/CIA-sought-hack-Apple-iPhones-earliest-days-The-Intercept.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T19:14:55Z</updated>
+    <published>2015-03-10T19:14:55Z</published>
+    <summary type="html">&lt;p&gt;This is according to investigative news site, The Intercept, who today cited documents obtained from NSA whistleblower Edward Snowden.&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T19:14:55Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/10/2648CF8E00000578-2987851-image-a-22_1426012260351.jpg" />
+  </entry>
+  <entry>
+    <title>Snowden: CIA tried to hack Apple devices for nearly a decade</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/10/apple-phones.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T13:48:00Z</updated>
+    <published>2015-03-10T13:48:00Z</published>
+    <summary type="html">&lt;p&gt;Both companies said the moves were aimed at protecting the privacy of users of their products and that this was partly a response to wide scale U.S. government spying on Internet users revealed by Snowden in the summer of 2013.&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T13:48:00Z</dc:date>
+  </entry>
+  <entry>
     <title>John Oliver interviews&amp;#239;&amp;#191;&amp;#189;Edward Snowden, and real journalism breaks out</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/tv/article17540168.html%23storylink=rss" />
     <author>
@@ -210,7 +233,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Edward Snowden Teaches John Oliver How the Government Can Get Your ‘Di*k Pic’ (Video)</title>
+    <title>Edward Snowden Teaches John Oliver How the Government Can Get Your ?Di*k Pic? (Video)</title>
     <link rel="alternate" href="http://www.thewrap.com/edward-snowden-teaches-john-oliver-how-the-government-can-get-your-dik-pic-video/" />
     <author>
       <name />

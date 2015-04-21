@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's former president Mohammed Morsi sentenced to 20 years</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3048223/Egypts-Morsi-faces-likely-death-penalty-verdict.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T20:26:36Z</updated>
+    <published>2015-04-21T20:26:36Z</published>
+    <summary type="html">&lt;p&gt;A life sentence in Egypt is 25 years.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T20:26:36Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/21/article-doc-1u9gz-6XxAtTvOxHSK2-657_634x408.jpg" />
+  </entry>
+  <entry>
     <title>Court sentences ousted Egypt president to 20 years in prison</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19117329.html%23storylink=rss" />
     <author>

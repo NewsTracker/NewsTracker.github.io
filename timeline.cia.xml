@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Officials seek long sentence for ex-CIA officer in leak case</title>
+    <link rel="alternate" href="http://news.yahoo.com/guidelines-call-20-sentence-cia-leak-case-150329599.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T20:57:18Z</updated>
+    <published>2015-04-21T20:57:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-21T20:57:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Officials seek long sentence for ex-CIA officer in leak case</title>
     <link rel="alternate" href="http://news.yahoo.com/guidelines-call-20-sentence-cia-leak-case-145721893.html" />
     <author>
       <name />
@@ -84,7 +95,7 @@
     <dc:date>2015-04-19T18:55:14Z</dc:date>
   </entry>
   <entry>
-    <title>CIA director says Iran’s economic peril helped drive nuke deal</title>
+    <title>CIA director says Iran?s economic peril helped drive nuke deal</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/CIA-director-says-Iran-s-economic-peril-helped-6187145.php" />
     <author>
       <name />
