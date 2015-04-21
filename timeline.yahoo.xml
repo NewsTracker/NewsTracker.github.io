@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Yahoo-s-1Q-shows-company-remains-mired-in-revenue-6214617.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T22:09:36Z</updated>
+    <published>2015-04-21T22:09:36Z</published>
+    <summary type="html">&lt;p&gt;Throw in the nearly $7 billion in cash and marketable securities that Yahoo held at the end of March, and the company's current market value of $42 billion implies investors think Yahoo's ongoing business is worth next to nothing.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T22:09:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Yahoo-s-1Q-shows-company-remains-mired-in-revenue-6214617.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T22:09:36Z</updated>
+    <published>2015-04-21T22:09:36Z</published>
+    <summary type="html">&lt;p&gt;Although Yahoo's stock has nearly tripled under Mayer's leadership, most of the increase has been tied to Yahoo's 24 percent stake in Alibaba Group and 35 percent stake in Yahoo Japan - not Yahoo's core business.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T22:09:36Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/75/74/7855911/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Yahoo Inc?s revenue misses estimates as CEO?s turnaround sputters</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/yahoo-incs-revenue-misses-estimates-as-ceos-turnaround-sputters" />
     <author>
