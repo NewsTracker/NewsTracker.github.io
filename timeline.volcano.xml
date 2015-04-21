@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>NewsTracker: volcano</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>'Volcano of Fire' spews colossal column of ash over Mexican city</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-04-17/volcano-colima-fire-spews-ash-on-mexican-city/6399572" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T22:38:31Z</updated>
+    <published>2015-04-16T22:38:31Z</published>
+    <summary type="html">&lt;p&gt;Mexico's Colima volcano has spewed a giant 3.5-kilometre-high column of ash that rained down on a nearby city, authorities say.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T22:38:31Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6399564-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Costa Rican Airport Reopens After Volcano Eruption</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/costa-rican-airport-reopens-volcano-eruption-29622029" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T04:50:29Z</updated>
+    <published>2015-03-14T04:50:29Z</published>
+    <summary type="html">&lt;p&gt;Smoke and ash spewing high into the sky from the Turrialba volcano led officials to cancel classes in a dozen nearby schools Friday and disrupted operations at Costa Rica's principal airport.&lt;/p&gt;</summary>
+    <dc:date>2015-03-14T04:50:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>Costa Rican airport reopens after volcano eruption</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Costa-Rican-airport-reopens-after-volcano-eruption-6132559.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T04:48:37Z</updated>
+    <published>2015-03-14T04:48:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-14T04:48:37Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/14/21/7652426/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Costa Rica reopens capital airport after volcano eruption</title>
+    <link rel="alternate" href="http://www.startribune.com/world/296241771.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T19:00:44Z</updated>
+    <published>2015-03-13T19:00:44Z</published>
+    <summary type="html">&lt;p&gt;The Turrialba volcano erupted three times Thursday and state observers recorded a smaller eruption Friday morning.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T19:00:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Chile volcano sends spectacular pillar of fire into night sky (VIDEO)</title>
+    <link rel="alternate" href="http://rt.com/news/237361-chile-volcano-eruption-video/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T19:28:14Z</updated>
+    <published>2015-03-03T19:28:14Z</published>
+    <summary type="html">&lt;p&gt;Juan Carlos Rojas, head of air transit at the government's civil aeronautics division, said that ash from the volcano was well under flight paths used by commercial airliners.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T19:28:14Z</dc:date>
+    <media:content url="http://img.rt.com/files/news/39/f3/10/00/villarrica-1.si.jpg" />
+  </entry>
+  <entry>
+    <title>Thousands evacuated after volcano erupts in southern Chile</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/03/03/22266151.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T16:34:41Z</updated>
+    <published>2015-03-03T16:34:41Z</published>
+    <summary type="html">&lt;p&gt;SANTIAGO - Volcano Villarrica in southern Chile went quiet on Tuesday after an eruption that sent a plume of ash and lava high into the sky in the early hours put Chile on high alert.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T16:34:41Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/World/2015/03/03/Volcano-Villarrica.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Thousands flee after volcano erupts in Chile</title>
+    <link rel="alternate" href="http://nypost.com/2015/03/03/thousands-flee-after-volcano-erupts-in-chile/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:59:10Z</updated>
+    <published>2015-03-03T14:59:10Z</published>
+    <summary type="html">&lt;p&gt;Tourists flock to the area around Villarrica for outdoor activities like kayaking, horseback riding, fishing and hiking around the volcano, which last had a major eruption in 1984.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T14:59:10Z</dc:date>
+  </entry>
+  <entry>
+    <title>Villages evacuated as Volcano Villarrica erupts in southern Chile</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-04/volcano-villarrica-erupts-in-southern-chile/6278596" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:49:17Z</updated>
+    <published>2015-03-03T14:49:17Z</published>
+    <summary type="html">&lt;p&gt;Southern Chile's Volcano Villarrica has erupted, sending a plume of ash and lava high into the sky, and forcing the evacuation of nearby communities.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T14:49:17Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6278578-3x2-700x467.jpg" />
+  </entry>
+  <entry>
+    <title>Villarica volcano in southern Chile erupts, thousands evacuated</title>
+    <link rel="alternate" href="http://www.startribune.com/294797691.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T11:25:12Z</updated>
+    <published>2015-03-03T11:25:12Z</published>
+    <summary type="html">&lt;p&gt;Local media showed images of the volcano bursting at the top, glowing in the dark amid heavy smoke and rivers of lava.&lt;/p&gt;&lt;p&gt;The eruption "was something beautiful and amazing. We're still a bit shocked but the volcano has calmed down so I'm going to continue with my vacation," Alejandra Paz Bustos, 29, said as she sunbathed at nearby lake Villarrica.&lt;/p&gt;&lt;p&gt;Officials said late Tuesday that about 15,000 people living in rural areas near the volcano were suffering water shortages after the eruption, and kept the red alert for nearby areas.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T11:25:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Volcano in southern Chile erupts, thousands evacuated</title>
+    <link rel="alternate" href="http://news.yahoo.com/volcano-southern-chile-erupts-thousands-evacuated-112232682.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T11:22:37Z</updated>
+    <published>2015-03-03T11:22:37Z</published>
+    <summary type="html">&lt;p&gt;"I've never seen a volcano erupt and it was spewing lava and ash hundreds of meters into the air. Lightning was striking down at the volcano from the ash cloud that formed from the eruption."&lt;/p&gt;&lt;p&gt;Chilean authorities had issued an orange alert on Monday because of increased activity at the volcano.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T11:22:37Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Volcano in southern Chile erupts, thousands evacuated</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Volcano-in-southern-Chile-erupts-thousands-6111716.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T11:22:27Z</updated>
+    <published>2015-03-03T11:22:27Z</published>
+    <summary type="html">&lt;p&gt;The Villarica volcano erupted Tuesday around 3 a.m. local time, according to the National Emergency Office, which issued a red alert and ordered evacuations.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T11:22:27Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/34/77/22/7599288/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Volcano erupts in southern Chile</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/mar/03/volcano-villarrica-erupts-southern-chile" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T10:29:34Z</updated>
+    <published>2015-03-03T10:29:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-03T10:29:34Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/3/3/1425384993694/df5f3747-c2b0-46f2-a0ff-8c2879f6a00b-300x180.jpeg" />
+  </entry>
+  <entry>
+    <title>VIDEO: Volcano eruption puts Chile on alert</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/world-latin-america-31705977%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T10:27:38Z</updated>
+    <published>2015-03-03T10:27:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-03T10:27:38Z</dc:date>
+    <media:content url="http://ichef.bbci.co.uk/news/270/media/images/72716000/jpg/_72716662_72716661.jpg" />
+  </entry>
+  <entry>
+    <title>Volcano Villarrica erupts in southern Chile, villages evacuated</title>
+    <link rel="alternate" href="http://news.yahoo.com/volcano-villarrica-erupts-southern-chile-villages-evacuated-095815131.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T09:58:15Z</updated>
+    <published>2015-03-03T09:58:15Z</published>
+    <summary type="html">&lt;p&gt;The Villarica volcano erupts near Pucon, Chile, early Tuesday, March 3, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T09:58:15Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+</feed>
