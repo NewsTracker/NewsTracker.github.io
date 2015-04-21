@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bill Clinton says in interview he expects to be a 'backstage adviser' in Hillary Clinton bid</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/298924721.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T17:50:19Z</updated>
+    <published>2015-04-07T17:50:19Z</published>
+    <summary type="html">&lt;p&gt;When Hillary Clinton became President Barack Obama's secretary of state in 2009, the foundation agreed to stop raising money from foreign governments but the Washington Post reported in February that some foreign governments continued to donate while she was in the Obama administration.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T17:50:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton says US-Israel relationship needs to return to 'constructive footing'</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/298010521.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T15:46:49Z</updated>
+    <published>2015-03-30T15:46:49Z</published>
+    <summary type="html">&lt;p&gt;"Secretary Clinton thinks we need to all work together to return the special US-Israel relationship to constructive footing," the group's executive vice chairman, Malcolm Hoenlein, said in the statement quoting Clinton's comments.&lt;/p&gt;&lt;p&gt;Clinton said the U.S. and Israel need to get back to shared concerns and interests, including a negotiated two-state solution, according to the Conference of Presidents of Major American Jewish Organizations.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T15:46:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Rand Paul urges Clinton to return foreign government money</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3003719/Rand-Paul-returns-NH-expanded-staff-state.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T20:17:34Z</updated>
+    <published>2015-03-20T20:17:34Z</published>
+    <summary type="html">&lt;p&gt;MANCHESTER, N.H. (AP) - Sen. Rand Paul on Friday urged Hillary Rodham Clinton to return donations several foreign governments made to her family's philanthropic foundation.&lt;/p&gt;&lt;p&gt;Hillary Clinton, who is building a campaign team, remains the leading Democratic presidential contender if she enters the 2016 campaign.&lt;/p&gt;&lt;p&gt;Campaigning in New Hampshire, the Kentucky Republican and likely 2016 presidential candidate said Clinton should give back money from Saudi Arabia, Brunei and the United Arab Emirates because of their "horrific" rejection of women's rights.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T20:17:34Z</dc:date>
+  </entry>
+  <entry>
     <title>Campaigning Clinton has qualms about trade deal</title>
     <link rel="alternate" href="http://news.yahoo.com/amid-gop-criticism-clinton-defends-family-foundation-070721691--election.html" />
     <author>
@@ -1027,17 +1060,6 @@
     <dc:date>2015-03-30T22:13:01Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton says US-Israel relationship needs to return to 'constructive footing'</title>
-    <link rel="alternate" href="http://www.startribune.com/politics/298010521.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T15:46:49Z</updated>
-    <published>2015-03-30T15:46:49Z</published>
-    <summary type="html">&lt;p&gt;"Secretary Clinton thinks we need to all work together to return the special US-Israel relationship to constructive footing," the group's executive vice chairman, Malcolm Hoenlein, said in the statement quoting Clinton's comments.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T15:46:49Z</dc:date>
-  </entry>
-  <entry>
     <title>Musical about Bill, Hillary Clinton to make off-Broadway debut</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/musical-about-bill-hillary-clinton-to-make-off-broadway-debut/" />
     <author>
@@ -1131,17 +1153,6 @@
     <summary type="html" />
     <dc:date>2015-03-23T22:33:51Z</dc:date>
     <media:content url="http://ww1.hdnux.com/photos/35/22/04/7676212/3/landscape_32.jpg" />
-  </entry>
-  <entry>
-    <title>Rand Paul urges Clinton to return foreign government money</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3003719/Rand-Paul-returns-NH-expanded-staff-state.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T20:17:34Z</updated>
-    <published>2015-03-20T20:17:34Z</published>
-    <summary type="html">&lt;p&gt;MANCHESTER, N.H. (AP) - Sen. Rand Paul on Friday urged Hillary Rodham Clinton to return donations several foreign governments made to her family's philanthropic foundation.&lt;/p&gt;&lt;p&gt;Hillary Clinton, who is building a campaign team, remains the leading Democratic presidential contender if she enters the 2016 campaign.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T20:17:34Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton says House GOP budget plan 'fails Americans' on jobs and economy</title>

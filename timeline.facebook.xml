@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Photo of Myanmar's former dictator Than Shwe appears on Facebook</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3014434/Photo-Myanmars-reclusive-former-dictator-surfaces-Facebook.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T10:39:09Z</updated>
+    <published>2015-03-27T10:39:09Z</published>
+    <summary type="html">&lt;p&gt;YANGON, March 27 (Reuters) - Myanmar's reclusive former military dictator, Than Shwe, appears to have surfaced in public for the first time in almost four years in a photograph on Facebook showing him being taught to use an iPad by a young girl.&lt;/p&gt;&lt;p&gt;The Facebook photo garnered more than 4,500 "likes", including one by Ye Htut, Myanmar's information minister.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T10:39:09Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix//promoboxes/btn_ipadapp_5_308x111.png" />
+  </entry>
+  <entry>
     <title>Facebook seeks to halt privacy case in Austria</title>
     <link rel="alternate" href="http://www.rte.ie/news/2015/0409/693035-facebook-austria/" />
     <author>
@@ -562,18 +574,6 @@
     <summary type="html">&lt;p&gt;"My son later told me, much to my humiliation and embarrassment, that my girls were rude and obnoxious during the movie. The woman I'm looking for addressed them and asked them to be quiet and they were disrespectful," Wood wrote on her Facebook post.&lt;/p&gt;</summary>
     <dc:date>2015-03-31T16:22:05Z</dc:date>
     <media:content url="http://edition.cnn.com/2015/03/31/living/feat-mothers-facebook-apology-movie-theater/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>Photo of Myanmar's former dictator Than Shwe appears on Facebook</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3014434/Photo-Myanmars-reclusive-former-dictator-surfaces-Facebook.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-27T10:39:09Z</updated>
-    <published>2015-03-27T10:39:09Z</published>
-    <summary type="html">&lt;p&gt;YANGON, March 27 (Reuters) - Myanmar's reclusive former military dictator, Than Shwe, appears to have surfaced in public for the first time in almost four years in a photograph on Facebook showing him being taught to use an iPad by a young girl.&lt;/p&gt;</summary>
-    <dc:date>2015-03-27T10:39:09Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix//promoboxes/btn_ipadapp_5_308x111.png" />
   </entry>
   <entry>
     <title>Some women pictured nude or seminude on US fraternity's Facebook page are talking to police</title>

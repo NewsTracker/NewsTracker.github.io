@@ -4,6 +4,74 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Famed Egypt poet El Abnoudy, chronicler of rural life, dies</title>
+    <link rel="alternate" href="http://news.yahoo.com/famed-egypt-poet-el-abnoudy-chronicler-rural-life-173146719.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T17:31:46Z</updated>
+    <published>2015-04-21T17:31:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-21T17:31:46Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/RagzDb.moWsx1RTD1M5BmQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/3a5af21fe0c25111740f6a7067002506.jpg" />
+  </entry>
+  <entry>
+    <title>In Egypt, ex-military men fire up Islamist insurgency</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/in-egypt-ex-military-men-fire-up-islamist-insurgency/article23830553/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T07:57:08Z</updated>
+    <published>2015-04-08T07:57:08Z</published>
+    <summary type="html">&lt;p&gt;They pose a danger to U.S. ally Egypt with their knowledge of the Arab world's biggest army, provide militants with training and strategic direction, and even carry out suicide bomb attacks against government officials.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T07:57:08Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/a35/news/world/article23830552.ece/ALTERNATES/w220/AW02b-EGYPT-SECURITY+.JPG" />
+  </entry>
+  <entry>
+    <title>AP PHOTOS: Powder-covered workers toil in Egypt's quarries</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/06/ap-photos-powder-covered-workers-toil-in-egypts/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T08:01:21Z</updated>
+    <published>2015-04-06T08:01:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-06T08:01:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>US releases military aid to Egypt, cites national security</title>
+    <link rel="alternate" href="http://news.yahoo.com/us-releases-military-aid-egypt-cites-national-security-190036072.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T21:17:28Z</updated>
+    <published>2015-03-31T21:17:28Z</published>
+    <summary type="html">&lt;p&gt;And it comes at a time when Arab nations have expressed concern about Washington's negotiations with Iran over its nuclear program, questioning whether the U.S. is aligning itself with Tehran instead of its long-standing allies in the region, like Egypt.&lt;/p&gt;&lt;p&gt;White House spokeswoman Bernadette Meehan said the assistance will help address the growth of a group in Egypt, affiliated with Islamic State militants, that has attacked Egyptian soldiers and civilians.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T21:17:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt to try policeman over death of female protester</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2998667/Egypt-policeman-face-trial-death-woman-protester.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T22:12:05Z</updated>
+    <published>2015-03-17T22:12:05Z</published>
+    <summary type="html">&lt;p&gt;Egypt's state prosecutor referred on Tuesday a police officer to trial for allegedly shooting dead a leftist female protester during a peaceful rally in central Cairo.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T22:12:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Archaeologists in Egypt discover 3000-year-old tomb in Luxor, beautifully painted</title>
+    <link rel="alternate" href="http://www.startribune.com/world/294827521.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:25:11Z</updated>
+    <published>2015-03-03T14:25:11Z</published>
+    <summary type="html">&lt;p&gt;CAIRO - Egypt's Ministry of Antiquities says American archeologists have discovered a 3000-year-old tomb with beautifully painted walls belonging to a nobleman who guarded the temple of the ancient deity Amun.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T14:25:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt's ousted president Morsi jailed for 20 years</title>
     <link rel="alternate" href="http://news.yahoo.com/egypts-morsi-faces-likely-death-penalty-first-verdict-041043494.html" />
     <author>
@@ -999,17 +1067,6 @@
     <published>2015-03-31T21:38:08Z</published>
     <summary type="html">&lt;p&gt;The White House said Egypt will remain the second-largest recipient of U.S. foreign military financing worldwide.&lt;/p&gt;&lt;p&gt;The aid comes as Egypt is trying to play a leading role in forming an Arab military alliance that can fight terrorism in the region.&lt;/p&gt;</summary>
     <dc:date>2015-03-31T21:38:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>US releases military aid to Egypt, cites national security</title>
-    <link rel="alternate" href="http://news.yahoo.com/us-releases-military-aid-egypt-cites-national-security-190036072.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-31T21:17:28Z</updated>
-    <published>2015-03-31T21:17:28Z</published>
-    <summary type="html">&lt;p&gt;And it comes at a time when Arab nations have expressed concern about Washington's negotiations with Iran over its nuclear program, questioning whether the U.S. is aligning itself with Tehran instead of its long-standing allies in the region, like Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T21:17:28Z</dc:date>
   </entry>
   <entry>
     <title>Obama lifts freeze, ships arms to Egypt</title>

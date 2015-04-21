@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine bans Russian media outlets from official events</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11412528&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-05T11:10:14Z</updated>
+    <published>2015-03-05T11:10:14Z</published>
+    <summary type="html">&lt;p&gt;MOSCOW (AP) " Russian news agency Tass says that Russian media outlets are no longer granted access to official events in Ukraine.&lt;/p&gt;&lt;p&gt;Ukraine has repeatedly accused Russia's state-controlled media of stirring up animosity toward Ukraine and of falsely portraying the conflict in the country's east, where Russia-backed separatists have been fighting Ukrainian troops since April.&lt;/p&gt;</summary>
+    <dc:date>2015-03-05T11:10:14Z</dc:date>
+  </entry>
+  <entry>
     <title>EU gives Ukraine $267 million in low interest loans</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11436423&amp;amp;ref=rss" />
     <author>
@@ -1758,17 +1769,6 @@
     <summary type="html" />
     <dc:date>2015-03-05T13:04:39Z</dc:date>
     <media:content url="http://www.abc.net.au/news/image/6284660-3x2-340x227.jpg" />
-  </entry>
-  <entry>
-    <title>Ukraine bans Russian media outlets from official events</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11412528&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-05T11:10:14Z</updated>
-    <published>2015-03-05T11:10:14Z</published>
-    <summary type="html">&lt;p&gt;MOSCOW (AP) " Russian news agency Tass says that Russian media outlets are no longer granted access to official events in Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-03-05T11:10:14Z</dc:date>
   </entry>
   <entry>
     <title>Ex-Ukraine minister arrested in Spain for embezzlement</title>

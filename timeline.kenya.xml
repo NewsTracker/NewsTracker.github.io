@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gunman in Kenya university massacre ID'd as son of official</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/world/gunman-kenya-university-massacre-id-son-official-article-1.2174345" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T19:55:08Z</updated>
+    <published>2015-04-05T19:55:08Z</published>
+    <summary type="html">&lt;p&gt;Hundreds of Kenyan youths have trained with Al Shabab and then returned to Kenya, posing a major security threat, according to former police chief Mathew Iteere.&lt;/p&gt;&lt;p&gt;Police waited seven hours before sending a special tactical unit into the college to fight the gunmen, Kenya's Daily Nation newspaper reported Sunday.&lt;/p&gt;&lt;p&gt;Kenya's government has said another source of instability is the country's refugee camps, with more than 423,000 Somali refugees.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T19:55:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenya burns 15 tonnes of ivory to deter elephant poachers</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/kenya-burns-15-tonnes-of-ivory-to-deter-elephant-poachers-20150304-13uh8b.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T01:58:18Z</updated>
+    <published>2015-03-04T01:58:18Z</published>
+    <summary type="html">&lt;p&gt;A Kenya Wildlife Services officer stands near a burning pile of 15 tonnes of elephant ivory seized in Kenya.&lt;/p&gt;&lt;p&gt;Nairobi:Kenya has burned 15 tonnes of elephant tusks and rhino horns as part of efforts to curb poaching of the mammals in the East African country.&lt;/p&gt;&lt;p&gt;Poachers killed 164 elephants in Kenya last year, compared with 302 in 2013 and 384 in 2012, while 53 rhinos were killed in 2014 compared with 59 and 30 in the previous two years, according to the Kenya Wildlife Service.&lt;/p&gt;&lt;p&gt;"This shows we are committed to save our elephants and we want the world to know that ivory belongs to the elephants," Paul Udoto, spokesman for the Kenya Wildlife Service, said at the ceremony.&lt;/p&gt;&lt;p&gt;Kenya may have as much as 100 tonnes of contraband ivory in its stockpiles, according to Paula Kahumba, chief executive officer of WildlifeDirect, a Nairobi-based non-governmental conservation organisation.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T01:58:18Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/3/u/l/q/s/image.related.articleLeadwide.620x349.13uh8b.png/1425479709984.jpg" />
+  </entry>
+  <entry>
     <title>U.N. refugee chief to visit Kenya to plan return of Somali refugees</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/21/us-kenya-somalia-refugees-idUSKBN0NC1SO20150421?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
@@ -59,18 +82,6 @@
     <summary type="html">&lt;p&gt;The gunmen, from the Somali Islamist terrorist group al-Shabaab, stormed Garissa University in north-east Kenya.&lt;/p&gt;&lt;p&gt;Peter Aling'o, senior researcher with the Institute for Security Studies in Nairobi, said al-Shabaab was taking advantage of "gaps" in Kenya's intelligence-led security planning.&lt;/p&gt;</summary>
     <dc:date>2015-04-03T21:00:00Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/1/m/e/f/x/8/image.related.articleLeadwide.620x349.1mefww.png/1428108890008.jpg" />
-  </entry>
-  <entry>
-    <title>Kenya burns 15 tonnes of ivory to deter elephant poachers</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/kenya-burns-15-tonnes-of-ivory-to-deter-elephant-poachers-20150304-13uh8b.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-04T01:58:18Z</updated>
-    <published>2015-03-04T01:58:18Z</published>
-    <summary type="html">&lt;p&gt;A Kenya Wildlife Services officer stands near a burning pile of 15 tonnes of elephant ivory seized in Kenya.&lt;/p&gt;&lt;p&gt;Nairobi:Kenya has burned 15 tonnes of elephant tusks and rhino horns as part of efforts to curb poaching of the mammals in the East African country.&lt;/p&gt;&lt;p&gt;Poachers killed 164 elephants in Kenya last year, compared with 302 in 2013 and 384 in 2012, while 53 rhinos were killed in 2014 compared with 59 and 30 in the previous two years, according to the Kenya Wildlife Service.&lt;/p&gt;&lt;p&gt;"This shows we are committed to save our elephants and we want the world to know that ivory belongs to the elephants," Paul Udoto, spokesman for the Kenya Wildlife Service, said at the ceremony.&lt;/p&gt;</summary>
-    <dc:date>2015-03-04T01:58:18Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/3/u/l/q/s/image.related.articleLeadwide.620x349.13uh8b.png/1425479709984.jpg" />
   </entry>
   <entry>
     <title>Ethiopia?s Desisa, Kenya?s Rotich winners at Boston Marathon</title>
@@ -604,17 +615,6 @@
     <published>2015-04-05T21:11:40Z</published>
     <summary type="html">&lt;p&gt;Ali Roba, the governor of Mandera county, said Kenya had "massive radicalisation problems, not only in the northern counties, but across the country."&lt;/p&gt;</summary>
     <dc:date>2015-04-05T21:11:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gunman in Kenya university massacre ID'd as son of official</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/world/gunman-kenya-university-massacre-id-son-official-article-1.2174345" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-05T19:55:08Z</updated>
-    <published>2015-04-05T19:55:08Z</published>
-    <summary type="html">&lt;p&gt;Hundreds of Kenyan youths have trained with Al Shabab and then returned to Kenya, posing a major security threat, according to former police chief Mathew Iteere.&lt;/p&gt;&lt;p&gt;Police waited seven hours before sending a special tactical unit into the college to fight the gunmen, Kenya's Daily Nation newspaper reported Sunday.&lt;/p&gt;</summary>
-    <dc:date>2015-04-05T19:55:08Z</dc:date>
   </entry>
   <entry>
     <title>Law graduate named as Kenya massacre killer as country mourns</title>
