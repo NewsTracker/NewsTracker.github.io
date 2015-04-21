@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's ousted president Morsi jailed for 20 years</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypts-morsi-faces-likely-death-penalty-first-verdict-041043494.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T16:16:09Z</updated>
+    <published>2015-04-21T16:16:09Z</published>
+    <summary type="html">&lt;p&gt;"This verdict shatters any remaining illusion of independence and impartiality in Egypt's criminal justice system," said Hassiba Hadj Sahraoui, Amnesty's deputy Middle East and North Africa director.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T16:16:09Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/RgFZtIsa7EpXRdUpGcegjQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6394736-1-1-0.jpg" />
+  </entry>
+  <entry>
     <title>Gunmen kill 15 soldiers, two civilians in Egypt's Sinai</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3022652/Gunmen-kill-seven-soldiers-Egypts-Sinai-security-sources.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
