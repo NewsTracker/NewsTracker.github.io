@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Standoff at Ferguson home after reports of shooting</title>
+    <link rel="alternate" href="http://news.yahoo.com/standoff-ferguson-home-reports-shooting-194701735.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T19:47:01Z</updated>
+    <published>2015-04-21T19:47:01Z</published>
+    <summary type="html">&lt;p&gt;(AP) - Tactical officers have surrounded a home in the St. Louis County town of Ferguson following reports of a shooting apparently involving two brothers.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T19:47:01Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
     <title>Ferguson shooting: no arrests yet as police continue hunt for gunman</title>
     <link rel="alternate" href="http://www.theage.com.au/world/ferguson-shooting-no-arrests-yet-as-police-continue-hunt-for-gunman-20150314-1440nv.html" />
     <author>
