@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Standoff at Ferguson home ends peacefully, man in custody</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/04/21/ferguson-police-involved-in-standoff-after-reports-shooting/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T23:38:56Z</updated>
+    <published>2015-04-21T23:38:56Z</published>
+    <summary type="html">&lt;p&gt;Ferguson police spokesman Jeff Small says the suspect was taken into custody around 4:15 p.m. Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T23:38:56Z</dc:date>
+  </entry>
+  <entry>
     <title>Standoff at Ferguson home after reports of shooting</title>
     <link rel="alternate" href="http://news.yahoo.com/standoff-ferguson-home-reports-shooting-194701735.html" />
     <author>

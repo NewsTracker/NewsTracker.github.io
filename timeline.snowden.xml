@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Oliver Stone's 'Snowden' filming at locations around DC</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article17620706.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T14:28:59Z</updated>
+    <published>2015-04-07T14:28:59Z</published>
+    <summary type="html">&lt;p&gt;Film crews have been spotted near the White House and in the Tryst coffee shop in Adams Morgan that Snowden frequented.&lt;/p&gt;&lt;p&gt;Stone is adapting the book "The Snowden Files: The Inside Story of the World's Most Wanted Man" by Guardian journalist Luke Harding for the screen.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T14:28:59Z</dc:date>
+  </entry>
+  <entry>
     <title>CIA tried to hack Apple devices for nearly a decade, claim Edward Snowden papers</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-2987851/CIA-sought-hack-Apple-iPhones-earliest-days-The-Intercept.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -11,7 +22,7 @@
     </author>
     <updated>2015-03-10T19:14:55Z</updated>
     <published>2015-03-10T19:14:55Z</published>
-    <summary type="html">&lt;p&gt;This is according to investigative news site, The Intercept, who today cited documents obtained from NSA whistleblower Edward Snowden.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;This is according to investigative news site, The Intercept, who today cited documents obtained from NSA whistleblower Edward Snowden.&lt;/p&gt;&lt;p&gt;The Intercept has in the past published a number of reports from documents released by whistleblower Snowden.&lt;/p&gt;</summary>
     <dc:date>2015-03-10T19:14:55Z</dc:date>
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/10/2648CF8E00000578-2987851-image-a-22_1426012260351.jpg" />
   </entry>
@@ -36,17 +47,6 @@
     <published>2015-04-06T17:37:05Z</published>
     <summary type="html" />
     <dc:date>2015-04-06T17:37:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Oliver Stone's 'Snowden' filming at locations around DC</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article17620706.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-07T14:28:59Z</updated>
-    <published>2015-04-07T14:28:59Z</published>
-    <summary type="html">&lt;p&gt;Film crews have been spotted near the White House and in the Tryst coffee shop in Adams Morgan that Snowden frequented.&lt;/p&gt;</summary>
-    <dc:date>2015-04-07T14:28:59Z</dc:date>
   </entry>
   <entry>
     <title>Artists to NYPD: Return Edward Snowden Bust We Put in Park</title>

@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The last days of Steve Jobs: New biography reveals how ailing Apple CEO invited his successor Tim Cook to watch a sappy football film on the eve of his death and how Bill Gates paid one final visit to talk shop</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3012119/The-days-Steve-Jobs-New-biography-reveals-ailing-Apple-CEO-invited-successor-Tim-Cook-watch-sappy-football-film-eve-death-Bill-Gates-paid-one-final-visit-talk-shop.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T05:51:35Z</updated>
+    <published>2015-03-26T05:51:35Z</published>
+    <summary type="html">&lt;p&gt;Apple CEO Tim Cook still remembers the last movie he ever saw with Steve Jobs before he succumbed to cancer: the sentimental football flick Remember the Titans.&lt;/p&gt;&lt;p&gt;Six days after Cook and Jobs' movie night, the co-founder of Apple passed away at his Palo Alto, California, estate from complications related to pancreatic cancer.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T05:51:35Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/26/01/26FEDDE500000578-0-image-a-18_1427332183262.jpg" />
+  </entry>
+  <entry>
+    <title>Liking Apple too much a big problem for fund managers</title>
+    <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/16/22290616.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T16:44:39Z</updated>
+    <published>2015-03-16T16:44:39Z</published>
+    <summary type="html">&lt;p&gt;David Chiueh, the manager of the Upright Growth fund, has 13.4% in Apple, the second-largest among diversified funds tracked by Lipper, mostly because shares he bought in 2008 have appreciated, he said.&lt;/p&gt;&lt;p&gt;Mark Mulholland, whose Matthew 25 fund is classified as a non-diversified fund, has 15.3% of his portfolio's assets in Apple.&lt;/p&gt;&lt;p&gt;Yet that devotion for Apple is a problem for Burnham and some other managers of so-called diversified funds like his - they want more Apple than they can buy under self-imposed risk-reducing guidelines that typically have them holding no more than 5% of their assets in any one company.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T16:44:39Z</dc:date>
+    <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201503/2136/1745097732_4131551703001_5e91846569b6d1692fa3e01bcc98c7a6-tmb1.jpg?pubId=1745097732" />
+  </entry>
+  <entry>
+    <title>Apple to replace AT&amp;T on Dow Jones</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/business-31761573%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T16:19:13Z</updated>
+    <published>2015-03-06T16:19:13Z</published>
+    <summary type="html">&lt;p&gt;"As the largest corporation in the world and a leader in technology, Apple is the clear choice for the Dow Jones Industrial Average," said David Blitzer, chairman of the Index Committee at S&amp;P Dow Jones Indices.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T16:19:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Backlogged orders as shoppers get close-up look at Apple Watch</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-3032788/Apple-expects-strong-demand-smartwatch-consumer-debut.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1438,18 +1473,6 @@
     <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150326&amp;amp;t=2&amp;amp;i=1035448902&amp;amp;w=580&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB2P08M" />
   </entry>
   <entry>
-    <title>The last days of Steve Jobs: New biography reveals how ailing Apple CEO invited his successor Tim Cook to watch a sappy football film on the eve of his death and how Bill Gates paid one final visit to talk shop</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3012119/The-days-Steve-Jobs-New-biography-reveals-ailing-Apple-CEO-invited-successor-Tim-Cook-watch-sappy-football-film-eve-death-Bill-Gates-paid-one-final-visit-talk-shop.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-26T05:51:35Z</updated>
-    <published>2015-03-26T05:51:35Z</published>
-    <summary type="html">&lt;p&gt;Apple CEO Tim Cook still remembers the last movie he ever saw with Steve Jobs before he succumbed to cancer: the sentimental football flick Remember the Titans.&lt;/p&gt;</summary>
-    <dc:date>2015-03-26T05:51:35Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/26/01/26FEDDE500000578-0-image-a-18_1427332183262.jpg" />
-  </entry>
-  <entry>
     <title>Last days of Steve Jobs: Apple CEO invited Tim Cook to watch Denzel Washington movie week before he died</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&amp;amp;objectid=11423626&amp;amp;ref=rss" />
     <author>
@@ -1642,18 +1665,6 @@
     <published>2015-03-16T18:28:00Z</published>
     <summary type="html">&lt;p&gt;Apple did not immediately respond to CNBC's request for comment.&lt;/p&gt;</summary>
     <dc:date>2015-03-16T18:28:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Liking Apple too much a big problem for fund managers</title>
-    <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/16/22290616.html?cid=rsstechnologynews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T16:44:39Z</updated>
-    <published>2015-03-16T16:44:39Z</published>
-    <summary type="html">&lt;p&gt;David Chiueh, the manager of the Upright Growth fund, has 13.4% in Apple, the second-largest among diversified funds tracked by Lipper, mostly because shares he bought in 2008 have appreciated, he said.&lt;/p&gt;&lt;p&gt;Mark Mulholland, whose Matthew 25 fund is classified as a non-diversified fund, has 15.3% of his portfolio's assets in Apple.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T16:44:39Z</dc:date>
-    <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201503/2136/1745097732_4131551703001_5e91846569b6d1692fa3e01bcc98c7a6-tmb1.jpg?pubId=1745097732" />
   </entry>
   <entry>
     <title>Liking Apple too much a big problem for fund managers</title>

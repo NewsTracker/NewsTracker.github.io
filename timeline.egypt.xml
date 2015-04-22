@@ -4,6 +4,73 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt to try another 379 Brotherhood members over sit-in violence</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-egypt-court-idUSKBN0MZ2EY20150408?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T22:43:59Z</updated>
+    <published>2015-04-08T22:43:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T22:43:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Militants attack church and police in Egypt, one policeman dead</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3026307/Bomb-kills-policeman-Cairo-security-sources.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T23:01:30Z</updated>
+    <published>2015-04-05T23:01:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T23:01:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt to try 48 for killing journalist, two civilians</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3025707/Egypt-try-48-killing-journalist-two-civilians.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T16:03:16Z</updated>
+    <published>2015-04-04T16:03:16Z</published>
+    <summary type="html">&lt;p&gt;Ashraf is among 10 Egyptian journalists killed in Egypt since the 2011 uprising that ousted former president Hosni Mubarak, according to New York-based Committee to Protect Journalist (CPJ).&lt;/p&gt;&lt;p&gt;Egypt on Saturday referred to trial 48 suspects accused of shooting dead a journalist, a boy and a Christian woman during clashes last year between Islamist protesters and police.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T16:03:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt acquits Mubarak-era minister in last graft case</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3002551/Egypt-acquits-Mubarak-era-minister-graft-case.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T17:26:03Z</updated>
+    <published>2015-03-19T17:26:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T17:26:03Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/19/article-doc-1819e-6X9MFq1pDHSK2-57_634x860.jpg" />
+  </entry>
+  <entry>
+    <title>Investors commit $10.7 billion in deals including power, tourism at Egypt economic conference</title>
+    <link rel="alternate" href="http://www.startribune.com/world/296356001.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T10:05:32Z</updated>
+    <published>2015-03-15T10:05:32Z</published>
+    <summary type="html">&lt;p&gt;At the end, the participants join el-Sissi in a chant of his oft-used slogan "long live Egypt!"&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T10:05:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>Analysis: Egypt embarks on ambitious anti-terror campaign</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/02/17/analysis-egypt-embarks-on-ambitious-anti-terror-campaign" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-17T22:59:11Z</updated>
+    <published>2015-02-17T22:59:11Z</published>
+    <summary type="html">&lt;p&gt;Egypt already has military advisers on the Saudi-Yemeni border tasked mainly with developing a joint strategy with the Saudis to confront future hostilities, according to the officials, who have first-hand knowledge of Egypt's plans.&lt;/p&gt;</summary>
+    <dc:date>2015-02-17T22:59:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt's former president Mohammed Morsi sentenced to 20 years</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3048223/Egypts-Morsi-faces-likely-death-penalty-verdict.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -196,17 +263,6 @@
     <published>2015-04-08T15:01:58Z</published>
     <summary type="html">&lt;p&gt;Egypt have won the biennial Cup of Nations tournament a record seven times, Cameroon four times, Nigeria three times and South Africa once.&lt;/p&gt;&lt;p&gt;Nigeria and Egypt were drawn together and so were Cameroon and South Africa in the highlights of the 2017 Africa Cup of Nations qualifying draw made Wednesday in Cairo.&lt;/p&gt;</summary>
     <dc:date>2015-04-08T15:01:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt to try 48 for killing journalist, two civilians</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3025707/Egypt-try-48-killing-journalist-two-civilians.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-04T16:03:16Z</updated>
-    <published>2015-04-04T16:03:16Z</published>
-    <summary type="html">&lt;p&gt;Ashraf is among 10 Egyptian journalists killed in Egypt since the 2011 uprising that ousted former president Hosni Mubarak, according to New York-based Committee to Protect Journalist (CPJ).&lt;/p&gt;</summary>
-    <dc:date>2015-04-04T16:03:16Z</dc:date>
   </entry>
   <entry>
     <title>Egypt to try 16 over football stadium deaths</title>

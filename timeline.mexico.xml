@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico bans poultry, eggs from bird flu-hit Iowa</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102607677" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T23:55:00Z</updated>
+    <published>2015-04-21T23:55:00Z</published>
+    <summary type="html">&lt;p&gt;The ministry emphasized that Mexico is self sufficient in the production of eggs for consumption, and that Mexican producers import fertilized eggs used for breeding.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T23:55:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Latest on Americas Summit: Mexico backs US-Cuba talks</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Latest-on-Americas-Summit-Formal-summit-session-6193396.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T19:51:17Z</updated>
+    <published>2015-04-11T19:51:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-11T19:51:17Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/61/13/7803640/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>GM to make next-generation Chevrolet Cruze in Mexico</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/gm-next-generation-chevrolet-cruze-001332940.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T02:01:47Z</updated>
+    <published>2015-03-24T02:01:47Z</published>
+    <summary type="html">&lt;p&gt;A GM Korea spokesman said the move would not have a major impact on the production of next-generation Cruze, as export volume from Korea to Mexico are small.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T02:01:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico bans poultry, egg imports from bird flu-hit Iowa</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3049635/Mexico-bans-poultry-egg-imports-bird-flu-hit-Iowa.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

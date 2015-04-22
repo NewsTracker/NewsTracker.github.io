@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US awaits Hillary's presidential bid</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au//breaking-news-world/us-awaits-hillarys-presidential-bid-20150412-3tx19.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T06:23:24Z</updated>
+    <published>2015-04-12T06:23:24Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton is expected to announce her candidacy for US president, ending prolonged speculation that she once again seeks to become the first woman elected to the White House.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T06:23:24Z</dc:date>
+  </entry>
+  <entry>
     <title>Bill Clinton says in interview he expects to be a 'backstage adviser' in Hillary Clinton bid</title>
     <link rel="alternate" href="http://www.startribune.com/politics/298924721.html" />
     <author>

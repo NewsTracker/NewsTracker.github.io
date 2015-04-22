@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UN report: ISIS group besieges 228,000 in Syrian city</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11436690&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T23:35:15Z</updated>
+    <published>2015-04-21T23:35:15Z</published>
+    <summary type="html">&lt;p&gt;UNITED NATIONS (AP) " A new United Nations report says the Islamic State group has more than 225,000 Syrians under siege in a single city.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T23:35:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State group has 228,000 under siege in Syrian city, new UN report says</title>
+    <link rel="alternate" href="http://www.startribune.com/world/300861041.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T23:30:46Z</updated>
+    <published>2015-04-21T23:30:46Z</published>
+    <summary type="html">&lt;p&gt;The U.N. has been unable to deliver food and water treatment supplies for months to areas under the Islamic State group's control, including the provincial capital of Raqqa.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T23:30:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State video purports to show Kurdish peshmerga beheadings</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/20/us-mideast-crisis-islamicstate-beheading-idUSKBN0MG0VH20150320?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T09:50:11Z</updated>
+    <published>2015-03-20T09:50:11Z</published>
+    <summary type="html">&lt;p&gt;ERBIL, Iraq (Reuters) - Islamic State has published a video purporting to show the beheading of three Kurdish peshmerga fighters in northern Iraq by militants who threatened to kill "dozens" more of those being held captive.&lt;/p&gt;&lt;p&gt;Another of the militants then directly addressed Kurdish leader Masoud Barzani: "We warned you before that for every rocket you fire on those under the care of the Islamic State, you will kill one of your prisoners with your own hands."&lt;/p&gt;&lt;p&gt;Kurdish forces shelled inside Mosul several days ago in what the peshmerga ministry said was retaliation for an Islamic State missile that landed in a vegetable market outside the regional capital of Erbil on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T09:50:11Z</dc:date>
+  </entry>
+  <entry>
     <title>U.S. carries out more air strikes against Islamic State in Iraq and Syria</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/31/us-mideast-crisis-air-strikes-idUSKBN0MR2EP20150331?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
@@ -272,17 +305,6 @@
     <published>2015-03-20T14:41:43Z</published>
     <summary type="html">&lt;p&gt;WASHINGTON (Reuters) - Officials from the United States, Italy and Saudi Arabia led talks in Rome this week among a group of countries seeking to combat the financial activities of Islamic State militants, the U.S. Treasury said on Friday.&lt;/p&gt;</summary>
     <dc:date>2015-03-20T14:41:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Islamic State video purports to show Kurdish peshmerga beheadings</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/03/20/us-mideast-crisis-islamicstate-beheading-idUSKBN0MG0VH20150320?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T09:50:11Z</updated>
-    <published>2015-03-20T09:50:11Z</published>
-    <summary type="html">&lt;p&gt;ERBIL, Iraq (Reuters) - Islamic State has published a video purporting to show the beheading of three Kurdish peshmerga fighters in northern Iraq by militants who threatened to kill "dozens" more of those being held captive.&lt;/p&gt;&lt;p&gt;Another of the militants then directly addressed Kurdish leader Masoud Barzani: "We warned you before that for every rocket you fire on those under the care of the Islamic State, you will kill one of your prisoners with your own hands."&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T09:50:11Z</dc:date>
   </entry>
   <entry>
     <title>Islamic State group reports Tunisian leader killed in Libya</title>
