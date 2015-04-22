@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Watch US pre-orders estimated at 1M</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102580102" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T08:39:00Z</updated>
+    <published>2015-04-13T08:39:00Z</published>
+    <summary type="html">&lt;p&gt;Apple's first foray into the world of the smartwatch generated nearly 1 million pre-orders in the United States on Friday, according to early estimates by the research firm Slice Intelligence.&lt;/p&gt;&lt;p&gt;Using e-receipt data, the company said that 957,000 people in the U.S. placed orders for an Apple Watch on the first day it became available.&lt;/p&gt;&lt;p&gt;Apple touted the design of the Watch at its launch in March and the devices have a number of interchangeable bands.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T08:39:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/10/102576384-RTR4WS9H.80x60.jpg?v=1428670536" />
+  </entry>
+  <entry>
     <title>CIA tried to hack Apple devices for nearly a decade, claim Edward Snowden papers</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-2987851/CIA-sought-hack-Apple-iPhones-earliest-days-The-Intercept.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -491,18 +503,6 @@
     <summary type="html">&lt;p&gt;Slice Intelligence looked at sample data from 9,080 online shoppers, and said each Apple Watch buyer ordered an average of 1.3 watches and spent an average of $503.83 per device.&lt;/p&gt;&lt;p&gt;Slice Intelligence said that U.S. customers spent an average of $382.83 on the Apple Watch Sport and $707.04 on the Apple Watch.&lt;/p&gt;</summary>
     <dc:date>2015-04-13T08:39:49Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/e0OhLik5DNnAqNc2Y2_4Pg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/2076c3d08835d5c61f280d664fd1716f" />
-  </entry>
-  <entry>
-    <title>Apple Watch US pre-orders estimated at 1M</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102580102" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T08:39:00Z</updated>
-    <published>2015-04-13T08:39:00Z</published>
-    <summary type="html">&lt;p&gt;Apple's first foray into the world of the smartwatch generated nearly 1 million pre-orders in the United States on Friday, according to early estimates by the research firm Slice Intelligence.&lt;/p&gt;&lt;p&gt;Using e-receipt data, the company said that 957,000 people in the U.S. placed orders for an Apple Watch on the first day it became available.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T08:39:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/10/102576384-RTR4WS9H.80x60.jpg?v=1428670536" />
   </entry>
   <entry>
     <title>Review: Many choices, indecision with Apple Watch</title>

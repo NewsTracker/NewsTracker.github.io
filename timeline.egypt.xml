@@ -4,6 +4,64 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Turkey criticizes Egypt's sentencing of ousted leader Morsi</title>
+    <link rel="alternate" href="http://news.yahoo.com/turkey-criticizes-egypts-sentencing-ousted-leader-morsi-093745640.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T09:37:45Z</updated>
+    <published>2015-04-22T09:37:45Z</published>
+    <summary type="html">&lt;p&gt;Turkey's government strongly supports Morsi's Muslim Brotherhood group and relations between Egypt and Turkey soured after Morsi's ouster led by Egyptian President Abdel-Fattah el-Sissi.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T09:37:45Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/IaeLya80w4jtKPUXYugxrg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/268a2aa1e0e05111740f6a706700145d.jpg" />
+  </entry>
+  <entry>
+    <title>Turkey criticizes Egypt's sentencing of ousted leader Morsi</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/turkey-criticizes-egypts-sentencing-of-ousted-lead/nkzbZ/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T09:37:38Z</updated>
+    <published>2015-04-22T09:37:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T09:37:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>14 killed in IS bombings in Egypt's Sinai</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3035623/Five-Egyptian-soldiers-killed-Sinai-bombing.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T07:01:41Z</updated>
+    <published>2015-04-13T07:01:41Z</published>
+    <summary type="html">&lt;p&gt;Egypt is also facing a threat on its western border from a chaotic Libya where the influence of IS -- which has seized chunks of Syria and Iraq -- is growing.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T07:01:41Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/13/07/6Xk0seDHDHSK2-3035623-Deadly_bomb_attack_L_Saubadu_J_Jacobsen_AFP_-m-1_1428907214374.jpg" />
+  </entry>
+  <entry>
+    <title>In Egypt, ex-military men fire up Islamist insurgency</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/in-egypt-ex-military-men-fire-up-islamist-insurgency/article23830553/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T07:57:08Z</updated>
+    <published>2015-04-08T07:57:08Z</published>
+    <summary type="html">&lt;p&gt;They pose a danger to U.S. ally Egypt with their knowledge of the Arab world's biggest army, provide militants with training and strategic direction, and even carry out suicide bomb attacks against government officials.&lt;/p&gt;&lt;p&gt;Men like Ashmawy, who is on the run, are especially troubling for Egypt which is struggling to contain a complex web of militants who roam from the Sinai to Libya, another hub for extremists.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T07:57:08Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/a35/news/world/article23830552.ece/ALTERNATES/w220/AW02b-EGYPT-SECURITY+.JPG" />
+  </entry>
+  <entry>
+    <title>Egypt imposes life jail penalty for cross-border tunnel use</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3035995/Egypt-imposes-life-jail-penalty-cross-border-tunnel-use.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T19:01:36Z</updated>
+    <published>2015-04-12T19:01:36Z</published>
+    <summary type="html">&lt;p&gt;Egypt declared a state of emergency in the border area last year after at least 33 security personnel were killed in attacks in the Sinai Peninsula, a remote but strategic region bordering Israel, Gaza and the Suez Canal.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T19:01:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt-Saudi differences over Syria, Libya raise questions over joint Arab action</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/03/30/egypt-saudi-differences-over-syria-libya-raise-questions-over-joint-arab-action/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
@@ -186,18 +244,6 @@
     <summary type="html" />
     <dc:date>2015-04-21T17:31:46Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/RagzDb.moWsx1RTD1M5BmQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/3a5af21fe0c25111740f6a7067002506.jpg" />
-  </entry>
-  <entry>
-    <title>In Egypt, ex-military men fire up Islamist insurgency</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/in-egypt-ex-military-men-fire-up-islamist-insurgency/article23830553/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T07:57:08Z</updated>
-    <published>2015-04-08T07:57:08Z</published>
-    <summary type="html">&lt;p&gt;They pose a danger to U.S. ally Egypt with their knowledge of the Arab world's biggest army, provide militants with training and strategic direction, and even carry out suicide bomb attacks against government officials.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T07:57:08Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/a35/news/world/article23830552.ece/ALTERNATES/w220/AW02b-EGYPT-SECURITY+.JPG" />
   </entry>
   <entry>
     <title>AP PHOTOS: Powder-covered workers toil in Egypt's quarries</title>
@@ -655,17 +701,6 @@
     <published>2015-04-13T01:01:38Z</published>
     <summary type="html">&lt;p&gt;Sunday is Eastern Orthodox Easter in Egypt, and police have been on high alert against attacks.&lt;/p&gt;</summary>
     <dc:date>2015-04-13T01:01:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt imposes life jail penalty for cross-border tunnel use</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3035995/Egypt-imposes-life-jail-penalty-cross-border-tunnel-use.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T19:01:36Z</updated>
-    <published>2015-04-12T19:01:36Z</published>
-    <summary type="html">&lt;p&gt;Egypt declared a state of emergency in the border area last year after at least 33 security personnel were killed in attacks in the Sinai Peninsula, a remote but strategic region bordering Israel, Gaza and the Suez Canal.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T19:01:36Z</dc:date>
   </entry>
   <entry>
     <title>Egypt Muslim Brotherhood verdicts "blatantly unjust" - Human Rights Watch</title>

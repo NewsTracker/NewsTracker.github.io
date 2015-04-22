@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Thousands of Ethiopians march against violent killings by Islamic State</title>
+    <link rel="alternate" href="http://www.startribune.com/world/300898851.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T10:00:11Z</updated>
+    <published>2015-04-22T10:00:11Z</published>
+    <summary type="html">&lt;p&gt;Ethiopians raised slogans including one that said "We want revenge for our sons' blood," referring to Ethiopians seen being beheaded or shot in a video released by the Islamic extremist group Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T10:00:11Z</dc:date>
+    <media:content url="http://stmedia.startribune.com/designimages/playBackIcon.png" />
+  </entry>
+  <entry>
+    <title>Vast Iraqi Shiite cemetery grows with Islamic State war dead</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/12/vast-iraqi-shiite-cemetery-grows-with-islamic/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T06:04:27Z</updated>
+    <published>2015-04-13T06:04:27Z</published>
+    <summary type="html">&lt;p&gt;And now, its sandy expanse grows again yet with the war dead killed by the country's latest adversary, the extremists of the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T06:04:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nigeria's Boko Haram releases beheading video echoing Islamic State</title>
+    <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/africa/nigeria/150303/nigerias-boko-haram-releases-beheading-video-echoing-isl" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:38:23Z</updated>
+    <published>2015-03-03T14:38:23Z</published>
+    <summary type="html">&lt;p&gt;The footage will stoke concerns that Boko Haram is expanding its scope and seeking inspiration from global militant networks including Al Qaeda and Islamic State.&lt;/p&gt;&lt;p&gt;Nigeria's Islamist sect Boko Haram released a video purporting to show it beheading two men, its first online posting using advanced graphics and editing techniques reminiscent of footage from Islamic State.&lt;/p&gt;&lt;p&gt;The Boko Haram film's use of graphics, the footage of black-clad militants with a black flag, and the editing to show only the aftermath of the beheading, were particularly reminiscent of footage from Islamic state, which has seized large parts of Iraq and Syria and killed several hostages.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T14:38:23Z</dc:date>
+    <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2015-March/boko_haram_nigeria_march_25_2014.jpg" />
+  </entry>
+  <entry>
     <title>Iraqi forces drive Islamic State out of central Tikrit - PM</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3019777/Iraqi-forces-drive-Islamic-State-central-Tikrit-PM.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -4113,18 +4148,6 @@
     <published>2015-03-03T15:35:16Z</published>
     <summary type="html">&lt;p&gt;Earlier Tuesday, the U.S. general overseeing the military coalition fighting in Iraq told a House panel that the campaign has killed more than 8,500 Islamic State fighters since its bombing campaign began in August.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T15:35:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nigeria's Boko Haram releases beheading video echoing Islamic State</title>
-    <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/africa/nigeria/150303/nigerias-boko-haram-releases-beheading-video-echoing-isl" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T14:38:23Z</updated>
-    <published>2015-03-03T14:38:23Z</published>
-    <summary type="html">&lt;p&gt;The footage will stoke concerns that Boko Haram is expanding its scope and seeking inspiration from global militant networks including Al Qaeda and Islamic State.&lt;/p&gt;&lt;p&gt;Nigeria's Islamist sect Boko Haram released a video purporting to show it beheading two men, its first online posting using advanced graphics and editing techniques reminiscent of footage from Islamic State.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T14:38:23Z</dc:date>
-    <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2015-March/boko_haram_nigeria_march_25_2014.jpg" />
   </entry>
   <entry>
     <title>Nigeria?s Boko Haram releases beheading video echoing Islamic State</title>
