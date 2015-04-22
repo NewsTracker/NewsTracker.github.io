@@ -4,6 +4,73 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings plane evacuated after bomb scare</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3036193/Germanwings-plane-evacuated-bomb-scare.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T23:01:32Z</updated>
+    <published>2015-04-12T23:01:32Z</published>
+    <summary type="html">&lt;p&gt;Lufthansa has faced questions about its pilot screening process since the March 24 Germanwings crash which appears to have been caused by a co-pilot who suffered from depression and deliberately steered the plane into a mountain.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T23:01:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>Germanwings crash: Lufthansa defends not reporting depression</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/07/german-pilots-doctors-urge-more-tests" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T20:22:47Z</updated>
+    <published>2015-04-06T20:22:47Z</published>
+    <summary type="html">&lt;p&gt;German aviation industry doctors say that pilots should undergo more extensive medical checks in the wake of the Germanwings crash in the French Alps that killed 150 people.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T20:22:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Germanwings crash: Aviation watchdog unaware of co-pilot Andreas Lubitz's medical history</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/germanwings-crash-aviation-watchdog-unaware-of-copilot-andreas-lubitzs-medical-history-20150406-1mf00c.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T00:22:22Z</updated>
+    <published>2015-04-06T00:22:22Z</published>
+    <summary type="html">&lt;p&gt;Berlin: The German aviation authority did not know about co-pilot Andreas Lubitz's medical background prior to the Germanwings crash that killed 150 people, raising more questions over medical oversight of pilots.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T00:22:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Psychological profiling, doors focus of French investigation [Photos] [Video]</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/31/psychological-profiling-doors-focus-of-french-germanwings-probe" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T12:45:18Z</updated>
+    <published>2015-03-31T12:45:18Z</published>
+    <summary type="html">&lt;p&gt;BERLIN/PARIS - French air accident authority BEA said its probe into the Germanwings crash would study "systemic weaknesses" that might have led to the disaster, such as psychological profiling and cockpit door locks.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T12:45:18Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297681793981_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
+    <title>Australia, after Germanwings disaster, mandates at least two people stay in cockpits</title>
+    <link rel="alternate" href="http://www.startribune.com/world/297951651.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T04:53:06Z</updated>
+    <published>2015-03-30T04:53:06Z</published>
+    <summary type="html">&lt;p&gt;CANBERRA, Australia - Australia on Monday responded to the Germanwings air disaster by mandating that at least two crew members be present at all times in cockpits of larger domestic and international airliners.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T04:53:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Horrifying transcript gives timeline of Germanwings plane crash in Alps</title>
+    <link rel="alternate" href="http://www.latimes.com/world/europe/la-fg-captain-yelled-at-lubitz-20150329-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T02:53:00Z</updated>
+    <published>2015-03-30T02:53:00Z</published>
+    <summary type="html">&lt;p&gt;Germanwings and its parent company, Lufthansa, say they never received a sick note from Lubitz, suggesting he hid his illness from the airline.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T02:53:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Germanwings crash families could seek damages in the US, lawyer says</title>
     <link rel="alternate" href="http://www.smh.com.au/world/germanwings-crash-families-could-seek-damages-in-the-us-lawyer-says-20150419-1moj9c.html" />
     <author>
