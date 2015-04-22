@@ -4,6 +4,50 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Calbuco volcano erupts in southern Chile for first time since 1972; nearby town evacuated</title>
+    <link rel="alternate" href="http://www.startribune.com/world/300985271.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:56:38Z</updated>
+    <published>2015-04-22T21:56:38Z</published>
+    <summary type="html">&lt;p&gt;The National Mining and Geology Service has issued a high alert, barring access to the mountainous area around the volcano in southern Chile.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T21:56:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Calbuco Volcano Erupts in Chile, and Nearby Town Evacuated</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/calbuco-volcano-erupts-chile-nearby-town-evacuated-30512755" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:53:13Z</updated>
+    <published>2015-04-22T21:53:13Z</published>
+    <summary type="html">&lt;p&gt;The Calbuco volcano erupted Wednesday for the first time in more than 42 years, and Chilean authorities ordered the evacuation of the few thousand people living in a town a few miles away.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T21:53:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Calbuco volcano erupts in Chile, and nearby town evacuated</title>
+    <link rel="alternate" href="http://news.yahoo.com/calbuco-volcano-erupts-chile-nearby-town-evacuated-215237066.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:52:37Z</updated>
+    <published>2015-04-22T21:52:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T21:52:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>Volcano erupts in Chile</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/volcano-calbuco-erupts-in-chile-1.3044664?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:40:48Z</updated>
+    <published>2015-04-22T21:40:48Z</published>
+    <summary type="html">&lt;p&gt;Volcano Calbuco erupted on Wednesday in southern Chile, sending a plume of ash and smoke several miles up into the sky, local television images showed.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T21:40:48Z</dc:date>
+  </entry>
+  <entry>
     <title>'Volcano of Fire' spews colossal column of ash over Mexican city</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-04-17/volcano-colima-fire-spews-ash-on-mexican-city/6399572" />
     <author>

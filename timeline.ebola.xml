@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Guinea: 11 accused in Ebola worker deaths get life sentences</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/Guinea-11-accused-in-Ebola-worker-deaths-get-6217332.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:16:15Z</updated>
+    <published>2015-04-22T21:16:15Z</published>
+    <summary type="html">&lt;p&gt;CONAKRY, Guinea (AP) - A Guinea court sentenced 11 people accused of killing eight Ebola health workers and journalists last year to life in prison on Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T21:16:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Tekmira Ebola drug succeeds in small monkey study</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3050992/Tekmira-Ebola-drug-succeeds-small-monkey-study.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.S. says Russia adds air defense systems inside Ukraine</title>
+    <link rel="alternate" href="http://news.yahoo.com/u-says-russia-ramping-military-presence-ukraine-border-205924928.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:26:04Z</updated>
+    <published>2015-04-22T21:26:04Z</published>
+    <summary type="html">&lt;p&gt;"This is the highest amount of Russian air defense equipment in eastern Ukraine since August," State Department spokeswoman Marie Harf said in a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T21:26:04Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/cqh5AyvAUlAjoBU2y.Nqgg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-04-22T131824Z_1007000002_LYNXMPEB3L0NG_RTROPTP_2_CNEWS-US-UKRAINE-CRISIS-POPPY.JPG.cf.jpg" />
+  </entry>
+  <entry>
+    <title>German foreign minister says Russia's return to G-8 depends on Ukraine deal</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/04/13/german-foreign-minister-says-russia-return-to-g-8-depends-on-ukraine-deal/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T15:17:33Z</updated>
+    <published>2015-04-13T15:17:33Z</published>
+    <summary type="html">&lt;p&gt;BERLIN - Germany's foreign minister says Russia's return to the top diplomatic table depends on the success of a peace initiative for Ukraine.&lt;/p&gt;&lt;p&gt;German Foreign Minister Frank-Walter Steinmeier spoke to reporters in Barcelona, Spain, before flying to Berlin for a meeting late Monday with his counterparts from Russia, Ukraine and France.&lt;/p&gt;&lt;p&gt;Russia lost its membership in the Group of Eight major economies last year over its backing for separatists fighting against the government in eastern Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T15:17:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Both sides claim violations after Ukraine cease-fire starts</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/both-sides-claim-violations-after-ukraine-cease-fire-starts/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-15T08:50:05Z</updated>
+    <published>2015-02-15T08:50:05Z</published>
+    <summary type="html">&lt;p&gt;KIEV, Ukraine -- A cease-fire was declared in eastern Ukraine at a minute after midnight Sunday, kindling slender hopes of a reprieve from a conflict that has claimed more than 5,300 lives.&lt;/p&gt;&lt;p&gt;German Foreign Minister Frank-Walter Steinmeier said failure to maintain the peace would cost the region and the people of eastern Ukraine "a high price."&lt;/p&gt;</summary>
+    <dc:date>2015-02-15T08:50:05Z</dc:date>
+    <media:content url="http://cbsnews2.cbsistatic.com/hub/i/2015/02/15/557ee392-9503-45ca-a557-e7f985e3daa8/78e6f711290669c8974abcc9607f84f5/ukraine-satellite.jpg" />
+  </entry>
+  <entry>
     <title>Chechen commander in Ukraine drawn into Russian intrigue</title>
     <link rel="alternate" href="http://news.yahoo.com/chechen-commander-ukraine-drawn-russian-intrigue-084530080.html" />
     <author>
@@ -649,17 +684,6 @@
     <published>2015-04-13T19:43:18Z</published>
     <summary type="html">&lt;p&gt;The comment by Frank-Walter Steinmeier came hours before a meeting with his counterparts from Russia, Ukraine and France aimed at implementing deals struck in the Belarusian capital Minsk in February and September.&lt;/p&gt;&lt;p&gt;"The path from G-7 to G-8 will surely lead via Ukraine and the issue of the implementation of the Minsk Agreement," he said during a visit to Barcelona, Spain, according to remarks released by his office.&lt;/p&gt;</summary>
     <dc:date>2015-04-13T19:43:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>German foreign minister says Russia's return to G-8 depends on Ukraine deal</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/04/13/german-foreign-minister-says-russia-return-to-g-8-depends-on-ukraine-deal/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T15:17:33Z</updated>
-    <published>2015-04-13T15:17:33Z</published>
-    <summary type="html">&lt;p&gt;BERLIN - Germany's foreign minister says Russia's return to the top diplomatic table depends on the success of a peace initiative for Ukraine.&lt;/p&gt;&lt;p&gt;German Foreign Minister Frank-Walter Steinmeier spoke to reporters in Barcelona, Spain, before flying to Berlin for a meeting late Monday with his counterparts from Russia, Ukraine and France.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T15:17:33Z</dc:date>
   </entry>
   <entry>
     <title>Fighting picks up in war-torn eastern Ukraine</title>
@@ -2411,18 +2435,6 @@
     <published>2015-02-15T09:45:12Z</published>
     <summary type="html">&lt;p&gt;Ukraine's financial blockade against the rebels has led to a catastrophic collapse in living standards in eastern Ukraine, depriving the poorest of any immediate means of support.&lt;/p&gt;</summary>
     <dc:date>2015-02-15T09:45:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>Both sides claim violations after Ukraine cease-fire starts</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/both-sides-claim-violations-after-ukraine-cease-fire-starts/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-15T08:50:05Z</updated>
-    <published>2015-02-15T08:50:05Z</published>
-    <summary type="html">&lt;p&gt;KIEV, Ukraine -- A cease-fire was declared in eastern Ukraine at a minute after midnight Sunday, kindling slender hopes of a reprieve from a conflict that has claimed more than 5,300 lives.&lt;/p&gt;</summary>
-    <dc:date>2015-02-15T08:50:05Z</dc:date>
-    <media:content url="http://cbsnews2.cbsistatic.com/hub/i/2015/02/15/557ee392-9503-45ca-a557-e7f985e3daa8/78e6f711290669c8974abcc9607f84f5/ukraine-satellite.jpg" />
   </entry>
   <entry>
     <title>Shelling halts in Ukraine's Donetsk as Poroshenko orders ceasefire</title>

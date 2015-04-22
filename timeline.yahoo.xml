@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hernandez goal puts Real Madrid into Champions League semis (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/hernandez-goal-puts-real-madrid-champions-league-semis-210152590--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:50:37Z</updated>
+    <published>2015-04-22T21:50:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T21:50:37Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Bonds' obstruction conviction thrown out by appeals court (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bonds-obstruction-conviction-thrown-appeals-court-210152051--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:12:40Z</updated>
+    <published>2015-04-22T21:12:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T21:12:40Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/evxUz0Gc14Zn9TAR9YKboQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM5MztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504221602577481474" />
+  </entry>
+  <entry>
     <title>Judge OKs 65-year deal over NFL concussions; could cost $1B (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/judge-oks-65-deal-over-nfl-concussions-could-190656752--nfl.html" />
     <author>
