@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo's 1Q shows company remains mired in revenue rut</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/21/yahoos-1q-shows-company-remains-mired-in-revenue-rut" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T20:59:00Z</updated>
+    <published>2015-04-21T20:59:00Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this Jan. 7, 2014 file photo, Yahoo President and CEO Marissa Mayer speaks during the International Consumer Electronics Show in Las Vegas.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T20:59:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19182630.html%23storylink=rss" />
     <author>

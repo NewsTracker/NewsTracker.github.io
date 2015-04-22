@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.robert_durst.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Robert Durst charged with murder, movie confession likely admissible</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/16/new-york-real-estate-scion-robert-durst-agrees-to-extradition-on-murder-charge" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T05:32:43Z</updated>
+    <published>2015-03-17T05:32:43Z</published>
+    <summary type="html">&lt;p&gt;NEW ORLEANS - New York real estate scion and accused murderer Robert Durst's bathroom muttering that he "killed them all" would likely be admissible evidence in a murder trial, legal experts said on Monday.&lt;/p&gt;&lt;p&gt;Durst, the subject of a six-part HBO documentary series called "The Jinx: The Life and Deaths of Robert Durst," was picked up by a filmmaker's microphone apparently acknowledging his crimes and admitting that he was "caught."&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T05:32:43Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297675795819_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Millionaire Robert Durst pleads not guilty to federal charge</title>
     <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/14/durst-1st-federal-court-appearance-scheduled-tue-afternoon" />
     <author>
@@ -360,18 +372,6 @@
     <summary type="html">&lt;p&gt;"As a result of investigative leads and additional evidence that has come to light in the past year, investigators have identified Robert Durst as the person responsible for Ms. Berman's death," the LAPD said.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T06:42:56Z</dc:date>
     <media:content url="http://a.abcnews.com/images/US/HBO_susan_berman_robert_durst_jt_150315_4x3_992.jpg" />
-  </entry>
-  <entry>
-    <title>Robert Durst charged with murder, movie confession likely admissible</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/03/16/new-york-real-estate-scion-robert-durst-agrees-to-extradition-on-murder-charge" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T05:32:43Z</updated>
-    <published>2015-03-17T05:32:43Z</published>
-    <summary type="html">&lt;p&gt;NEW ORLEANS - New York real estate scion and accused murderer Robert Durst's bathroom muttering that he "killed them all" would likely be admissible evidence in a murder trial, legal experts said on Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T05:32:43Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297675795819_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>Durst heir faces murder charge after documentary broadcast</title>
