@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Eleven handed life sentences over Guinea Ebola worker murders</title>
+    <link rel="alternate" href="http://news.yahoo.com/eleven-handed-life-sentences-over-guinea-ebola-worker-113125092.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T11:31:25Z</updated>
+    <published>2015-04-22T11:31:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T11:31:25Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
     <title>Scientists to share real-time genetic data on deadly MERS, Ebola</title>
     <link rel="alternate" href="http://cnews.canoe.com/CNEWS/Science/2015/04/21/22356231.html?cid=rssnewsscience" />
     <author>

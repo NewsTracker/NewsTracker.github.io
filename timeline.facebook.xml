@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook shifts News Feed, gives priority to friends</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/facebook-shifts-news-feed-gives-priority-to-friends-1.2339033" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T12:02:00Z</updated>
+    <published>2015-04-22T12:02:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T12:02:00Z</dc:date>
+    <media:content url="http://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_bnn.jpg" />
+  </entry>
+  <entry>
     <title>Facebook is making your News Feed more about your actual friends</title>
     <link rel="alternate" href="http://www.techradar.com/news/internet/facebook-is-making-news-feed-more-about-your-actual-friends-1291631?src=rss&amp;amp;attr=all" />
     <author>
