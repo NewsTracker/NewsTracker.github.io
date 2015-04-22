@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Why Apple is likely to boost watch production soon</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102580449" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T11:29:00Z</updated>
+    <published>2015-04-13T11:29:00Z</published>
+    <summary type="html">&lt;p&gt;Apple is likely to quickly ramp production of the Apple Watch after strong pre-orders outstripped limited supply in the first weekend following its launch, some Wall Street analysts said.&lt;/p&gt;&lt;p&gt;The company will sell the gadgets in Apple stores and online as well as in trendy fashion boutiques in Paris, London and Tokyo as part of a strategy to position the wearable computer as a must-have accessory.&lt;/p&gt;&lt;p&gt;Apple is widely expected to disclose weekend pre-order numbers at around 8:30 a.m. ET on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T11:29:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/09/10/101988298-455056638.80x60.jpg?v=1428691443" />
+  </entry>
+  <entry>
     <title>Trader Joe's Sweet Apple Chicken Sausage Is Recalled</title>
     <link rel="alternate" href="http://health.usnews.com/health-news/news/articles/2015/04/22/trader-joes-sweet-apple-chicken-sausage-is-recalled" />
     <author>
@@ -36,18 +48,6 @@
     <summary type="html">&lt;p&gt;The analysts said their checks showed that Apple appeared to be ordering components for the watch that would allow it to build well over 20 million watches this year.&lt;/p&gt;</summary>
     <dc:date>2015-04-13T11:33:35Z</dc:date>
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/apple2.jpg" />
-  </entry>
-  <entry>
-    <title>Why Apple is likely to boost watch production soon</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102580449" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T11:29:00Z</updated>
-    <published>2015-04-13T11:29:00Z</published>
-    <summary type="html">&lt;p&gt;Apple is likely to quickly ramp production of the Apple Watch after strong pre-orders outstripped limited supply in the first weekend following its launch, some Wall Street analysts said.&lt;/p&gt;&lt;p&gt;The company will sell the gadgets in Apple stores and online as well as in trendy fashion boutiques in Paris, London and Tokyo as part of a strategy to position the wearable computer as a must-have accessory.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T11:29:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/09/10/101988298-455056638.80x60.jpg?v=1428691443" />
   </entry>
   <entry>
     <title>Online excitement but no long lines for Apple Watch debut</title>
