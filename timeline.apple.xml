@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Analysts Say Apple Likely to Boost Production Quickly</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/industries/2015/04/13/analysts-say-apple-likely-to-boost-production-quickly/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T11:33:35Z</updated>
+    <published>2015-04-13T11:33:35Z</published>
+    <summary type="html">&lt;p&gt;The analysts said their checks showed that Apple appeared to be ordering components for the watch that would allow it to build well over 20 million watches this year.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T11:33:35Z</dc:date>
+    <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/apple2.jpg" />
+  </entry>
+  <entry>
+    <title>Why Apple is likely to boost watch production soon</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102580449" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T11:29:00Z</updated>
+    <published>2015-04-13T11:29:00Z</published>
+    <summary type="html">&lt;p&gt;Apple is likely to quickly ramp production of the Apple Watch after strong pre-orders outstripped limited supply in the first weekend following its launch, some Wall Street analysts said.&lt;/p&gt;&lt;p&gt;The company will sell the gadgets in Apple stores and online as well as in trendy fashion boutiques in Paris, London and Tokyo as part of a strategy to position the wearable computer as a must-have accessory.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T11:29:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/09/10/101988298-455056638.80x60.jpg?v=1428691443" />
+  </entry>
+  <entry>
+    <title>Online excitement but no long lines for Apple Watch debut</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article18222050.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T22:30:06Z</updated>
+    <published>2015-04-10T22:30:06Z</published>
+    <summary type="html">&lt;p&gt;In this photo taken with a fisheye lens, customers listen as an Apple employee points toward Apple's new watch, in San Francisco, Friday, April 10, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T22:30:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Swiss launch of Apple Watch hit by patent issue</title>
+    <link rel="alternate" href="http://technology.canoe.ca/News/2015/04/04/22326996.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T18:45:27Z</updated>
+    <published>2015-04-04T18:45:27Z</published>
+    <summary type="html">&lt;p&gt;ZURICH - Apple is not able to launch its new smartwatch in Switzerland until at least the end of this year because of an intellectual property rights issue, Swiss broadcaster RTS reported on its website.&lt;/p&gt;&lt;p&gt;The Apple Watch, the firm's first new device since Tim Cook became CEO, will be available in stores in nine countries on April 24.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T18:45:27Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/04/04/apple_watch_650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Apple Watch US pre-orders estimated at 1M</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102580102" />
     <author>
@@ -130,18 +178,6 @@
     <published>2015-04-21T12:51:11Z</published>
     <summary type="html">&lt;p&gt;Beyonce showed off her custom Apple Watch at Coachella.&lt;/p&gt;</summary>
     <dc:date>2015-04-21T12:51:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Swiss launch of Apple Watch hit by patent issue</title>
-    <link rel="alternate" href="http://technology.canoe.ca/News/2015/04/04/22326996.html?cid=rsstechnologynews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-04T18:45:27Z</updated>
-    <published>2015-04-04T18:45:27Z</published>
-    <summary type="html">&lt;p&gt;ZURICH - Apple is not able to launch its new smartwatch in Switzerland until at least the end of this year because of an intellectual property rights issue, Swiss broadcaster RTS reported on its website.&lt;/p&gt;</summary>
-    <dc:date>2015-04-04T18:45:27Z</dc:date>
-    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/04/04/apple_watch_650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
   </entry>
   <entry>
     <title>EU regulators probe Apple's music streaming plans in Europe: FT</title>
@@ -467,18 +503,6 @@
     <published>2015-04-13T12:01:41Z</published>
     <summary type="html">&lt;p&gt;Analysts widely expect the Apple Watch to outsell similar watches offered by Samsung Electronics Co Ltd, Sony Corp and LG Electronics, which have attracted lukewarm interest from consumers.&lt;/p&gt;</summary>
     <dc:date>2015-04-13T12:01:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Why Apple is likely to boost watch production soon</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102580449" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T11:29:00Z</updated>
-    <published>2015-04-13T11:29:00Z</published>
-    <summary type="html">&lt;p&gt;Apple is likely to quickly ramp production of the Apple Watch after strong pre-orders outstripped limited supply in the first weekend following its launch, some Wall Street analysts said.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T11:29:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/09/10/101988298-455056638.80x60.jpg?v=1428691443" />
   </entry>
   <entry>
     <title>Apple likely to boost watch production quickly: analysts</title>

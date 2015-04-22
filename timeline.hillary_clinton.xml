@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Second shot: Hillary Clinton set to run again for president</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3035539/Middle-class-economics-focus-Clintons-bid.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T18:01:34Z</updated>
+    <published>2015-04-12T18:01:34Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this March 10, 2015 file photo, Hillary Rodham Clinton speaks to the reporters at United Nations headquarters.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T18:01:34Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/article-urn:publicid:ap.org:ee04f949c5054149aa3ccdaca2f84565-6Xjqu1bhI-HSK1-717_634x422.jpg" />
+  </entry>
+  <entry>
+    <title>GOP speakers at NRA event take aim at Hillary Clinton</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/10/parade-of-likely-gop-presidential-candidates-to-speak-to-nra" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T19:46:26Z</updated>
+    <published>2015-04-10T19:46:26Z</published>
+    <summary type="html">&lt;p&gt;(AP) - The expected announcement of Hillary Rodham Clinton's presidential campaign has quickly become a center of attention at the National Rifle Association's annual convention.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T19:46:26Z</dc:date>
+  </entry>
+  <entry>
     <title>US awaits Hillary's presidential bid</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au//breaking-news-world/us-awaits-hillarys-presidential-bid-20150412-3tx19.html" />
     <author>
@@ -795,17 +818,6 @@
     <summary type="html">&lt;p&gt;The specter of Hillary Rodham Clinton's imminent presidential campaign dropped like a gift from the heavens at the National Rifle Association's annual convention Friday.&lt;/p&gt;&lt;p&gt;"Hillary Rodham Clinton will bring a permanent darkness of deceit and despair forced upon the American people to endure," LaPierre said.&lt;/p&gt;&lt;p&gt;Former Florida Gov. Jeb Bush decried the "liberal, progressive worldview of Barack Obama and Hillary Clinton and Eric Holder, and all of the other people who want to take the guns out of the hands of the good guys."&lt;/p&gt;</summary>
     <dc:date>2015-04-10T21:25:11Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>GOP speakers at NRA event take aim at Hillary Clinton</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/10/parade-of-likely-gop-presidential-candidates-to-speak-to-nra" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-10T19:46:26Z</updated>
-    <published>2015-04-10T19:46:26Z</published>
-    <summary type="html">&lt;p&gt;(AP) - The expected announcement of Hillary Rodham Clinton's presidential campaign has quickly become a center of attention at the National Rifle Association's annual convention.&lt;/p&gt;</summary>
-    <dc:date>2015-04-10T19:46:26Z</dc:date>
   </entry>
   <entry>
     <title>Clinton expected to announce White House run on Sunday</title>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Los Angeles-area city OKs stadium, puts ball in NFL's hands (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/second-la-area-city-approves-stadium-next-move-075946343--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T13:48:48Z</updated>
+    <published>2015-04-22T13:48:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T13:48:48Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/Tt6Jyf.k4iwfu5ap9QIGcw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE2OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504220834308590771" />
+  </entry>
+  <entry>
     <title>Yahoo's revenue drops 4%</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/04/21/22357306.html?cid=rsstechnologynews" />
     <author>
