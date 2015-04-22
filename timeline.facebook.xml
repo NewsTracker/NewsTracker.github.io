@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook mobile ad intake continues to surge, though overall revenue growth slows</title>
+    <link rel="alternate" href="http://www.startribune.com/business/300976101.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T20:56:00Z</updated>
+    <published>2015-04-22T20:56:00Z</published>
+    <summary type="html">&lt;p&gt;But based on Facebook's failure to take over the home screen with its Home app for Android, users may not be too keen on replacing existing smartphone tools with Facebook-branded versions.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T20:56:00Z</dc:date>
+    <media:content url="http://stmedia.startribune.com/designimages/shareBarIconFacebook_122112.png" />
+  </entry>
+  <entry>
+    <title>Still Got It: Facebook Mobile Ad Revenue Continues to Surge</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/facebook-mobile-ad-revenue-continues-surge-30510616" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T20:50:41Z</updated>
+    <published>2015-04-22T20:50:41Z</published>
+    <summary type="html">&lt;p&gt;Nearly three-quarters of Facebook's advertising revenue now comes from mobile ads, as many more users access the social network on smartphones and other handheld gadgets.&lt;/p&gt;&lt;p&gt;Facebook, which bought the popular photo-sharing app Instagram and the messaging service WhatsApp, has been coming out with its own stand-alone mobile apps to capture more of the time people spend on phones.&lt;/p&gt;&lt;p&gt;The number of users who accessed Facebook on mobile devices at least once a month grew 24 percent to 1.25 billion.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T20:50:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Still got it: Facebook mobile ad revenue continues to surge</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Still-got-it-Facebook-mobile-ad-revenue-6217266.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T20:43:01Z</updated>
+    <published>2015-04-22T20:43:01Z</published>
+    <summary type="html">&lt;p&gt;Facebook, which is based in Menlo Park, California, had 1.44 billion monthly active users as of March, up 13 percent from a year earlier.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T20:43:01Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/30/11/51/6330980/5/landscape_32.jpg" />
+  </entry>
+  <entry>
     <title>Hello? Facebook launches phone-calling app for Android</title>
     <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Hello-Facebook-launches-phone-calling-app-for-6217102.php" />
     <author>
