@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New Mexico has 31st straight month of over-year job gains</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19148316.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T01:42:07Z</updated>
+    <published>2015-04-22T01:42:07Z</published>
+    <summary type="html">&lt;p&gt;Officials say New Mexico has notched its 31st consecutive month of over-the-year employment growth in March.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T01:42:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Some parents of missing Mexico youths ask help of gang boss</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article17072105.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T03:58:05Z</updated>
+    <published>2015-04-01T03:58:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T03:58:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico bans poultry, eggs from bird flu-hit Iowa</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102607677" />
     <author>
