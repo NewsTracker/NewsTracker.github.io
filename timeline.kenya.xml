@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya mourns 148 dead in university attack by militants</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3024309/Kenya-attack-survivor-says-gunmen-scouted-campus.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T22:19:27Z</updated>
+    <published>2015-04-03T22:19:27Z</published>
+    <summary type="html">&lt;p&gt;A woman gestures after she viewed the body of a relative killed in Thursday's attack on a university, at Chiromo funeral home, Nairobi, Kenya, Friday, April 3, 2015.&lt;/p&gt;&lt;p&gt;A mother, second right, grieves after discovering her son was amongst those killed, as she leaves a center set up for relatives and survivors in Garissa, Kenya, Friday, April 3, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T22:19:27Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/03/09/27400F2900000578-0-image-m-61_1428049082160.jpg" />
+  </entry>
+  <entry>
     <title>Kenya &amp;#039;open-minded&amp;#039; on appeal to increase Jeptoo ban</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/23/kenya-open-minded-appeal-increase-jeptoo-ban" />
     <author>
@@ -1060,18 +1072,6 @@
     <summary type="html">&lt;p&gt;Rome: Pope Francis presided at two Good Friday services, praying for persecuted Christians a day after Islamist militants attacked a university in Kenya, killing at least 147 people.&lt;/p&gt;&lt;p&gt;In their attack on the university in Kenya on Thursday, al Shabaab militants initially killed indiscriminately but later freed some Muslims and targeted Christian students during a siege that lasted about 15 hours..&lt;/p&gt;</summary>
     <dc:date>2015-04-03T23:36:36Z</dc:date>
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/e/g/i/e/image.related.articleLeadwide.620x349.1megij.png/1428104185480.jpg" />
-  </entry>
-  <entry>
-    <title>Kenya mourns 148 dead in university attack by militants</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3024309/Kenya-attack-survivor-says-gunmen-scouted-campus.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-03T22:19:27Z</updated>
-    <published>2015-04-03T22:19:27Z</published>
-    <summary type="html">&lt;p&gt;A woman gestures after she viewed the body of a relative killed in Thursday's attack on a university, at Chiromo funeral home, Nairobi, Kenya, Friday, April 3, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-04-03T22:19:27Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/03/09/27400F2900000578-0-image-m-61_1428049082160.jpg" />
   </entry>
   <entry>
     <title>Kenya mourns 148 dead in university attack by militants</title>

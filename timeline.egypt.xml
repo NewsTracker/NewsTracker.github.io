@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's top businessman Naguib Sawiris testifies at al-Jazeera trial</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/apr/22/egypt-sawiris-al-jazeera-journalists-trial" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T19:13:04Z</updated>
+    <published>2015-04-22T19:13:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T19:13:04Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/4/22/1429727049939/32896eeb-f7c4-43c0-b991-875dba3b4e41-300x180.jpeg" />
+  </entry>
+  <entry>
     <title>Turkey criticizes Egypt's sentencing of ousted leader Morsi</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/22/turkey-criticizes-egypts-sentencing-of-ousted-leader-morsi" />
     <author>

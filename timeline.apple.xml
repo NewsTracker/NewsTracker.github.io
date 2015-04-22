@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Watch US pre-orders estimated at 1M</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102580102" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T08:39:00Z</updated>
+    <published>2015-04-13T08:39:00Z</published>
+    <summary type="html">&lt;p&gt;Apple's first foray into the world of the smartwatch generated nearly 1 million pre-orders in the United States on Friday, according to early estimates by the research firm Slice Intelligence.&lt;/p&gt;&lt;p&gt;Using e-receipt data, the company said that 957,000 people in the U.S. placed orders for an Apple Watch on the first day it became available.&lt;/p&gt;&lt;p&gt;Apple touted the design of the Watch at its launch in March and the devices have a number of interchangeable bands.&lt;/p&gt;&lt;p&gt;In an attempt to create exclusivity and capture a high-end, luxury audience, Apple has even released an 18-karat gold version known as the Edition which starts at $10,000.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T08:39:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/10/102576384-RTR4WS9H.80x60.jpg?v=1428670536" />
+  </entry>
+  <entry>
+    <title>Latest on Apple Watch release: Shopping begins</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/personal-finance/article/APPLE-WATCH-LIVE-Try-on-visits-online-orders-6190868.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T15:32:35Z</updated>
+    <published>2015-04-10T15:32:35Z</published>
+    <summary type="html">&lt;p&gt;Employees of the Lenox Square Mall's Apple store in Atlanta clapped and cheered as customers streamed through its glass doors just before 10 a.m. About 20 people had lined up outside the second-floor storefront.&lt;/p&gt;&lt;p&gt;Inside the store, Apple retail workers could be seen through the glass doors setting up displays, including a line of glass-topped cases containing the new watches.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T15:32:35Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/57/33/7796462/3/gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Why Apple is likely to boost watch production soon</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102580449" />
     <author>
@@ -72,18 +96,6 @@
     <summary type="html">&lt;p&gt;ZURICH - Apple is not able to launch its new smartwatch in Switzerland until at least the end of this year because of an intellectual property rights issue, Swiss broadcaster RTS reported on its website.&lt;/p&gt;&lt;p&gt;The Apple Watch, the firm's first new device since Tim Cook became CEO, will be available in stores in nine countries on April 24.&lt;/p&gt;</summary>
     <dc:date>2015-04-04T18:45:27Z</dc:date>
     <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/04/04/apple_watch_650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
-  </entry>
-  <entry>
-    <title>Apple Watch US pre-orders estimated at 1M</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102580102" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T08:39:00Z</updated>
-    <published>2015-04-13T08:39:00Z</published>
-    <summary type="html">&lt;p&gt;Apple's first foray into the world of the smartwatch generated nearly 1 million pre-orders in the United States on Friday, according to early estimates by the research firm Slice Intelligence.&lt;/p&gt;&lt;p&gt;Using e-receipt data, the company said that 957,000 people in the U.S. placed orders for an Apple Watch on the first day it became available.&lt;/p&gt;&lt;p&gt;Apple touted the design of the Watch at its launch in March and the devices have a number of interchangeable bands.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T08:39:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/10/102576384-RTR4WS9H.80x60.jpg?v=1428670536" />
   </entry>
   <entry>
     <title>CIA tried to hack Apple devices for nearly a decade, claim Edward Snowden papers</title>
@@ -689,18 +701,6 @@
     <summary type="html">&lt;p&gt;But soon after online preorders opened on Friday, Apple's website listed shipping times in June for some models of the watch and four to six weeks for others, raising questions about whether Apple underestimated demand for its newest product.&lt;/p&gt;</summary>
     <dc:date>2015-04-10T17:44:22Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/sRbhvkkq_sfp.wj7Ghj9Vg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-04-10T174422Z_2_LYNXMPEB390GK_RTROPTP_3_APPLE-WATCH_original.jpg" />
-  </entry>
-  <entry>
-    <title>Latest on Apple Watch release: Shopping begins</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/personal-finance/article/APPLE-WATCH-LIVE-Try-on-visits-online-orders-6190868.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-10T15:32:35Z</updated>
-    <published>2015-04-10T15:32:35Z</published>
-    <summary type="html">&lt;p&gt;Employees of the Lenox Square Mall's Apple store in Atlanta clapped and cheered as customers streamed through its glass doors just before 10 a.m. About 20 people had lined up outside the second-floor storefront.&lt;/p&gt;</summary>
-    <dc:date>2015-04-10T15:32:35Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/35/57/33/7796462/3/gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Latest on Apple Watch release: Shopping begins</title>

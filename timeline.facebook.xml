@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hello? Facebook launches phone-calling app for Android</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Hello-Facebook-launches-phone-calling-app-for-6217102.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T19:29:26Z</updated>
+    <published>2015-04-22T19:29:26Z</published>
+    <summary type="html">&lt;p&gt;Because it's connected to Facebook, Hello users can see information about their callers' identity even if they don't count them as a contact.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T19:29:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hello? Facebook launches voice-calling app for Android phones</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/04/22/hello-facebook-launches-voice-calling-app-for-android-phones/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T19:29:26Z</updated>
+    <published>2015-04-22T19:29:26Z</published>
+    <summary type="html">&lt;p&gt;Called "Hello," the stand-alone app is the seventh child of Facebook Creative Labs, the company's arm tasked with creating new applications outside of Facebook.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T19:29:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hello? Facebook launches voice-calling app for Android phones</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/04/22/hello-facebook-launches-voice-calling-app-for-android-phones/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Flatest+%28Internal+-+Latest+News+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T19:29:26Z</updated>
+    <published>2015-04-22T19:29:26Z</published>
+    <summary type="html">&lt;p&gt;Facebook unveiled a new voice-calling app for Android phones on Wednesday, the same day that its WhatsApp messaging service introduced voice-calling for iOS devices.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T19:29:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook starts testing mobile calling app Hello</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/22/facebook-starts-testing-mobile-calling-app-hello" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T19:15:54Z</updated>
+    <published>2015-04-22T19:15:54Z</published>
+    <summary type="html">&lt;p&gt;Facebook said in March that it would add a feature to its messaging app that allows friends to send and receive money through it.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T19:15:54Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297691162601_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Facebook tests mobile calling app 'Hello'</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102610850" />
     <author>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chechen commander in Ukraine drawn into Russian intrigue</title>
+    <link rel="alternate" href="http://news.yahoo.com/chechen-commander-ukraine-drawn-russian-intrigue-084530080.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T09:19:50Z</updated>
+    <published>2015-04-12T09:19:50Z</published>
+    <summary type="html">&lt;p&gt;"Watch them try to tie Ukraine to this (murder) in some way," Osmayev added.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T09:19:50Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/HSYBT_U.dOwh3tqDOtNGZw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/00e566a96c407110730f6a706700dd8a.jpg" />
+  </entry>
+  <entry>
+    <title>Georgians hit by fallout from trouble in Russia, Ukraine</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3005297/Georgians-hit-fallout-trouble-Russia-Ukraine.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T09:05:11Z</updated>
+    <published>2015-03-21T09:05:11Z</published>
+    <summary type="html">&lt;p&gt;Now their numbers are shrinking as this former Soviet republic becomes a casualty of the economic turbulence in Russia and Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-03-21T09:05:11Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/25/01/26F70FD100000578-0-image-m-79_1427245835598.jpg" />
+  </entry>
+  <entry>
     <title>Ukraine, in snub to Moscow, to adopt British war-time symbol, ditch Soviet war name</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3050602/Ukraine-snub-Moscow-adopt-British-war-time-symbol-ditch-Soviet-war-name.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1448,18 +1472,6 @@
     <published>2015-03-21T09:10:18Z</published>
     <summary type="html">&lt;p&gt;The 64-year-old woman spends much of her meager pension of 150 lari ($68) a month on medicine and has long lived off selling cheap jewelry at a flea market to tourists, mainly from Russia and Ukraine.&lt;/p&gt;&lt;p&gt;Georgia's currency, the lari, has lost more than 20 percent of its value against the dollar since August - but Ukraine's hryvnia currency has lost about 60 percent against the dollar and the Russian ruble roughly 50 percent.&lt;/p&gt;&lt;p&gt;As the war in eastern Ukraine, international sanctions against Russia and the sinking price of oil price worldwide have ravaged the economies of those two countries, Georgia has become collateral damage.&lt;/p&gt;</summary>
     <dc:date>2015-03-21T09:10:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Georgians hit by fallout from trouble in Russia, Ukraine</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3005297/Georgians-hit-fallout-trouble-Russia-Ukraine.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-21T09:05:11Z</updated>
-    <published>2015-03-21T09:05:11Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-21T09:05:11Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/25/01/26F70FD100000578-0-image-m-79_1427245835598.jpg" />
   </entry>
   <entry>
     <title>Turkey offers $50 million loan to Ukraine, urges protection of Crimean Tatars</title>
