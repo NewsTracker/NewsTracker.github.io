@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Scientists to share real-time genetic data on deadly MERS, Ebola</title>
+    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/Science/2015/04/21/22356231.html?cid=rssnewsscience" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T15:12:58Z</updated>
+    <published>2015-04-21T15:12:58Z</published>
+    <summary type="html">&lt;p&gt;He plans to collect samples from Ebola patients, sequence them in a matter of hours and process the data to make the viral genome sequences in weeks -- a process that could take months if samples were to be bought back to Britain for analysis.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T15:12:58Z</dc:date>
+  </entry>
+  <entry>
     <title>Liberia reports first new case of Ebola in weeks</title>
     <link rel="alternate" href="http://news.yahoo.com/liberia-reports-first-ebola-case-weeks-181812734.html" />
     <author>

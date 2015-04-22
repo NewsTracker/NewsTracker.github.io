@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo's revenue drops 4%</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/04/21/22357306.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T23:08:05Z</updated>
+    <published>2015-04-21T23:08:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-21T23:08:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Yahoo's 1Q shows company remains mired in revenue rut</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/21/yahoos-1q-shows-company-remains-mired-in-revenue-rut" />
     <author>

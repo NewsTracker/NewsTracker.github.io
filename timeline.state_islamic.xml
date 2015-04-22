@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraqi forces drive Islamic State out of central Tikrit - PM</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3019777/Iraqi-forces-drive-Islamic-State-central-Tikrit-PM.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T23:12:28Z</updated>
+    <published>2015-03-31T23:12:28Z</published>
+    <summary type="html">&lt;p&gt;Hundreds of insurgents ready to fight to the death are still holed up in Salahuddin province's capital city and at least three neighbourhoods remain under Islamic State control, along with a palace complex in the city's north.&lt;/p&gt;&lt;p&gt;The Iranian-backed armed factions had opposed U.S.-led strikes, insisting that their paramilitary forces could retake Tikrit, seized last June by Islamic State militants as they raced across northern Iraq.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T23:12:28Z</dc:date>
+  </entry>
+  <entry>
     <title>Would-be extremist recruit from Jamaica detained in Suriname</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3036246/Would-extremist-recruit-Jamaica-detained-Suriname.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -465,17 +476,6 @@
     <summary type="html">&lt;p&gt;The ultra-hardline Islamic State already controls swathes of eastern Syria and Iraq and is being targeted by a U.S.-led campaign of airstrikes.&lt;/p&gt;&lt;p&gt;Mirroring the way Islamic State has grown elsewhere in Syria, its fighters seized control of areas of the camp from other insurgents, helped by rebels from the rival al Qaeda-linked Nusra Front who switched sides, a political activist in the area said.&lt;/p&gt;&lt;p&gt;Nusra Front shares Islamic State's jihadist ideology but does not recognize its rival's declaration last year of its leader Abu Bakr al-Baghdadi as "caliph", or ruler of all Muslims.&lt;/p&gt;</summary>
     <dc:date>2015-04-02T04:11:52Z</dc:date>
     <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150402&amp;amp;i=106282824&amp;amp;w=240&amp;amp;r=106282824-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Iraqi forces drive Islamic State out of central Tikrit - PM</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3019777/Iraqi-forces-drive-Islamic-State-central-Tikrit-PM.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-31T23:12:28Z</updated>
-    <published>2015-03-31T23:12:28Z</published>
-    <summary type="html">&lt;p&gt;Hundreds of insurgents ready to fight to the death are still holed up in Salahuddin province's capital city and at least three neighbourhoods remain under Islamic State control, along with a palace complex in the city's north.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T23:12:28Z</dc:date>
   </entry>
   <entry>
     <title>Syria's Assad says Islamic State has expanded since start of U.S. air strikes</title>
