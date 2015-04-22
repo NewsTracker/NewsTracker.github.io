@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>CIA tried to hack Apple devices for nearly a decade, claim Edward Snowden papers</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-2987851/CIA-sought-hack-Apple-iPhones-earliest-days-The-Intercept.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T19:14:55Z</updated>
+    <published>2015-03-10T19:14:55Z</published>
+    <summary type="html">&lt;p&gt;It said the latest documents, which covered a period from 2006 to 2013, stop short of proving whether U.S. intelligence researchers had succeeded in breaking Apple's encryption coding, which secures user data and communications.&lt;/p&gt;&lt;p&gt;Efforts to break into Apple products by government security researchers started as early as 2006, a year before Apple introduced its first iPhone and continued through the launch of the iPad in 2010 and beyond, The Intercept said.&lt;/p&gt;&lt;p&gt;The report says top-secret documents reveal U.S. government researchers had created a version of XCode, Apple's software application development tool, to create surveillance backdoors.&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T19:14:55Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/10/2648CF8E00000578-2987851-image-a-22_1426012260351.jpg" />
+  </entry>
+  <entry>
     <title>An apple a day might keep the pharmacist away: study</title>
     <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
     <author>
@@ -1699,18 +1711,6 @@
     <published>2015-03-16T14:10:13Z</published>
     <summary type="html">&lt;p&gt;Burnham and the 174 fund managers like him who hold large stakes of their diversified portfolios in Apple are pulled in two directions: hoping to prevent an unforeseen drop in Apple shares from upending their portfolios, while also benefiting from a company whose shares are up 12% this year so far.&lt;/p&gt;&lt;p&gt;Other fund managers with large stakes in Apple who aren't selling say that they didn't set out to have an oversized position in the company.&lt;/p&gt;</summary>
     <dc:date>2015-03-16T14:10:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>CIA tried to hack Apple devices for nearly a decade, claim Edward Snowden papers</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-2987851/CIA-sought-hack-Apple-iPhones-earliest-days-The-Intercept.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-10T19:14:55Z</updated>
-    <published>2015-03-10T19:14:55Z</published>
-    <summary type="html">&lt;p&gt;It said the latest documents, which covered a period from 2006 to 2013, stop short of proving whether U.S. intelligence researchers had succeeded in breaking Apple's encryption coding, which secures user data and communications.&lt;/p&gt;&lt;p&gt;Efforts to break into Apple products by government security researchers started as early as 2006, a year before Apple introduced its first iPhone and continued through the launch of the iPad in 2010 and beyond, The Intercept said.&lt;/p&gt;</summary>
-    <dc:date>2015-03-10T19:14:55Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/10/2648CF8E00000578-2987851-image-a-22_1426012260351.jpg" />
   </entry>
   <entry>
     <title>Apple Watch Edition Will Not Be Worth Its Weight In Gold, But Could Start At $2,999</title>
