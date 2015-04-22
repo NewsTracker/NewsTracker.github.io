@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>NFL suspends DE Greg Hardy for 10 games (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/nfl-suspends-greg-hardy-10-games-214209301--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T21:57:01Z</updated>
+    <published>2015-04-22T21:57:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T21:57:01Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/OqDLRegoq_kvFFRZtQsJDA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504221558575111442" />
+  </entry>
+  <entry>
     <title>Hernandez goal puts Real Madrid into Champions League semis (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/hernandez-goal-puts-real-madrid-champions-league-semis-210152590--sow.html" />
     <author>

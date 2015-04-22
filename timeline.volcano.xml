@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Calbuco volcano erupts in Chile, and nearby town evacuated</title>
+    <link rel="alternate" href="http://news.yahoo.com/calbuco-volcano-erupts-chile-nearby-town-evacuated-215237066.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T22:32:53Z</updated>
+    <published>2015-04-22T22:32:53Z</published>
+    <summary type="html">&lt;p&gt;SANTIAGO, Chile (AP) - The Calbuco volcano erupted Wednesday for the first time in more than 42 years, billowing a huge ash cloud over a sparsely populated, mountainous area in southern Chile.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T22:32:53Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/LUOHdmyBE7AR_WALp78shw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/5926a24edde34311740f6a706700543d.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Calbuco volcano erupts in southern Chile for first time since 1972; nearby town evacuated</title>
     <link rel="alternate" href="http://www.startribune.com/world/300985271.html" />
     <author>
