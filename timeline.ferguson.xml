@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Suspect charged in shooting of Ferguson, Missouri, police officers</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/15/arrest-made-in-shooting-of-ferguson-missouri-police-officers" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T04:27:43Z</updated>
+    <published>2015-03-16T04:27:43Z</published>
+    <summary type="html">&lt;p&gt;The Justice Department report said Ferguson police overwhelmingly arrested and issued traffic citations to black residents to boost city coffers through fines.&lt;/p&gt;&lt;p&gt;FERGUSON, Missouri - A 20-year-old man was charged on Sunday with first-degree assault in last week's shooting of two policemen during a protest rally in Ferguson, Missouri, a crime that shocked a city that has been devastated by months of racial strife.&lt;/p&gt;&lt;p&gt;The gunfire rang out just after midnight at the end of a rally to call for sweeping reforms in Ferguson, where an unarmed black 18-year-old was shot to death by a white officer last summer.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T04:27:43Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297458666742_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
+    <title>Ferguson: suspect arrested in shooting of police officers</title>
+    <link rel="alternate" href="http://www.theage.com.au/world/ferguson-suspect-arrested-in-shooting-of-police-officers-20150316-1lzvyr.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T21:46:36Z</updated>
+    <published>2015-03-15T21:46:36Z</published>
+    <summary type="html">&lt;p&gt;Clayton, Missouri: A 20-year-old man has been charged with first-degree assault in the shooting of two police officers in front of the Ferguson Police Department prosecuting attorney for St Louis County Robert McCulloch said..&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T21:46:36Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/m/0/2/a/l/image.related.articleLeadwide.620x349.1lzvyr.png/1426476231997.jpg" />
+  </entry>
+  <entry>
     <title>Standoff at Ferguson home ends peacefully, man in custody</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19175706.html%23storylink=rss" />
     <author>
@@ -163,18 +187,6 @@
     <summary type="html" />
     <dc:date>2015-03-17T05:28:46Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
-  </entry>
-  <entry>
-    <title>Suspect charged in shooting of Ferguson, Missouri, police officers</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/03/15/arrest-made-in-shooting-of-ferguson-missouri-police-officers" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T04:27:43Z</updated>
-    <published>2015-03-16T04:27:43Z</published>
-    <summary type="html">&lt;p&gt;The Justice Department report said Ferguson police overwhelmingly arrested and issued traffic citations to black residents to boost city coffers through fines.&lt;/p&gt;&lt;p&gt;FERGUSON, Missouri - A 20-year-old man was charged on Sunday with first-degree assault in last week's shooting of two policemen during a protest rally in Ferguson, Missouri, a crime that shocked a city that has been devastated by months of racial strife.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T04:27:43Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297458666742_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
   <entry>
     <title>Ferguson police shooting suspect arrested, charged</title>

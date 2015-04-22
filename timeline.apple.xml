@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>An apple a day might keep the pharmacist away: study</title>
+    <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T19:47:18Z</updated>
+    <published>2015-03-30T19:47:18Z</published>
+    <summary type="html">&lt;p&gt;Limitations of the study include its reliance on self-reports of apple consumption, doctor visits and prescriptions.&lt;/p&gt;&lt;p&gt;An apple a day might not keep the doctor away, but it might help keep the pharmacist at bay, a new study suggests.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T19:47:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple trying to entice musicians?including Taylor Swift into deals for Beats streaming</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3035864/Apple-trying-entice-musicians-including-Taylor-Swift-exclusive-deals-Beats-streaming.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1331,17 +1342,6 @@
     <summary type="html">&lt;p&gt;That's why, on behalf of Apple, I'm standing up to oppose this new wave of legislation - wherever it emerges.&lt;/p&gt;</summary>
     <dc:date>2015-03-31T06:57:45Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/1/3/o/a/3/5/image.related.thumbnail.90x60.1m9x2j.png/1427693916700.jpg" />
-  </entry>
-  <entry>
-    <title>An apple a day might keep the pharmacist away: study</title>
-    <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T19:47:18Z</updated>
-    <published>2015-03-30T19:47:18Z</published>
-    <summary type="html">&lt;p&gt;Limitations of the study include its reliance on self-reports of apple consumption, doctor visits and prescriptions.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T19:47:18Z</dc:date>
   </entry>
   <entry>
     <title>An apple a day may not keep the doctor away, study says</title>
