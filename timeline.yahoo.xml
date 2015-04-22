@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Oklahoma City Thunder fire coach Scott Brooks after 7 years (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/oklahoma-city-thunder-fire-coach-scott-brooks-7-175620581--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T17:56:20Z</updated>
+    <published>2015-04-22T17:56:20Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T17:56:20Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/XHzlIwa.gohfRGzMsTKtmg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504161347496385746" />
+  </entry>
+  <entry>
     <title>Los Angeles-area city OKs stadium, puts ball in NFL's hands (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/second-la-area-city-approves-stadium-next-move-075946343--nfl.html" />
     <author>

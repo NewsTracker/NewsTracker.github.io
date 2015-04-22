@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook tests mobile calling app 'Hello'</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102610850" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T18:20:00Z</updated>
+    <published>2015-04-22T18:20:00Z</published>
+    <summary type="html">&lt;p&gt;Facebook said it started testing its mobile calling app 'Hello' on Android, which allows users to connect with Facebook to see the identity and information about callers even if the number is not saved on the phone.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T18:20:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/22/102610869-coverimage.530x298.jpg?v=1429726086" />
+  </entry>
+  <entry>
     <title>Facebook shifts News Feed, gives priority to friends</title>
     <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/facebook-shifts-news-feed-gives-priority-to-friends-1.2339033" />
     <author>
