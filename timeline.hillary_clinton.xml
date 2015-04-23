@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Senate Republicans: Clinton emails 'probably' broke law</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/02/senate-republicans-clinton-emails-probably-broke-law" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T17:41:54Z</updated>
+    <published>2015-04-02T17:41:54Z</published>
+    <summary type="html">&lt;p&gt;Cornyn says he wants the State Department's inspector general to investigate whether Clinton violated federal law or policy.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T17:41:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton urges Arkansas governor to veto state bill on religious objections</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/298322341.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T16:06:01Z</updated>
+    <published>2015-04-01T16:06:01Z</published>
+    <summary type="html">&lt;p&gt;Her husband, former President Bill Clinton, was Arkansas governor for more than a decade.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T16:06:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Analyzing Hillary Clinton's 2016 campaign: 'It's not about me, it's about you'</title>
     <link rel="alternate" href="http://www.chicagotribune.com/news/chi-hillary-clintons-2016-campaign-its-not-about-me-its-about-you-20150412-story.html?track=rss" />
     <author>
@@ -1047,17 +1069,6 @@
     <summary type="html" />
     <dc:date>2015-04-01T21:16:01Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/35/44/46/7752087/5/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton urges Arkansas governor to veto state bill on religious objections</title>
-    <link rel="alternate" href="http://www.startribune.com/politics/298322341.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-01T16:06:01Z</updated>
-    <published>2015-04-01T16:06:01Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-01T16:06:01Z</dc:date>
   </entry>
   <entry>
     <title>'INTERVIEW' REQUEST: House panel asks Clinton to explain deleted emails</title>

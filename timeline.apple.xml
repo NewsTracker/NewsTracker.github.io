@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Some Apple Watches to come sooner than expected</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102611990" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T23:55:00Z</updated>
+    <published>2015-04-22T23:55:00Z</published>
+    <summary type="html">&lt;p&gt;In a note to clients on Wednesday, FDR analyst Daniel Ives estimated Apple would take over 2 million pre-orders for the watch and ship 20 million of them in 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T23:55:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/13/102581901-RTR4WTY9.80x60.jpg?v=1429544480" />
+  </entry>
+  <entry>
+    <title>IBM joins with Apple, J&amp;J in health data venture</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102582701" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T21:44:00Z</updated>
+    <published>2015-04-13T21:44:00Z</published>
+    <summary type="html">&lt;p&gt;International Business Machines, deepening its partnership with Apple to make use of health information gathered by millions of Apple devices, is creating a unit dedicated to providing data analytics to the healthcare sector.&lt;/p&gt;&lt;p&gt;IBM already has an arrangement to work with Apple on numerous enterprise applications, but is extending its co-operation in the area of health.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T21:44:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/10/09/101099995-132759499.530x298.jpg?v=1428960086" />
+  </entry>
+  <entry>
     <title>Apple Watch US pre-orders estimated at 1M</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102580102" />
     <author>
@@ -457,18 +481,6 @@
     <summary type="html" />
     <dc:date>2015-04-14T17:15:00Z</dc:date>
     <media:content url="http://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/applewatch1-276263.jpg" />
-  </entry>
-  <entry>
-    <title>IBM joins with Apple, J&amp;J in health data venture</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102582701" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T21:44:00Z</updated>
-    <published>2015-04-13T21:44:00Z</published>
-    <summary type="html">&lt;p&gt;International Business Machines, deepening its partnership with Apple to make use of health information gathered by millions of Apple devices, is creating a unit dedicated to providing data analytics to the healthcare sector.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T21:44:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/10/09/101099995-132759499.530x298.jpg?v=1428960086" />
   </entry>
   <entry>
     <title>Artist Britto sues Apple, design firm over use of art, style</title>

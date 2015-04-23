@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>American who contracted Ebola now in critical condition</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/16/american-who-contracted-ebola-now-in-critical-condition.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T18:52:00Z</updated>
+    <published>2015-03-16T18:52:00Z</published>
+    <summary type="html">&lt;p&gt;The latest NIH patient is the 11th person with Ebola to be treated in the U.S. Two patients in the U.S. have died: a man treated in Dallas after contracting the virus in Africa and a doctor evacuated from Africa to Nebraska when he was already critically ill.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T18:52:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/2/27/panel-quarantine-of-ebola-health-workers-returning-to-us-was-mistake/_jcr_content/image.adapt.480.low.Ebola_Kaci-Hickox_nurse_102614.jpg" />
+  </entry>
+  <entry>
+    <title>World Health Organization approves 1st quick test for Ebola</title>
+    <link rel="alternate" href="http://news.yahoo.com/world-health-organization-approves-1st-quick-test-ebola-143136358--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-20T16:48:46Z</updated>
+    <published>2015-02-20T16:48:46Z</published>
+    <summary type="html">&lt;p&gt;BERLIN (AP) - The World Health Organization said Friday it has approved a quick test for Ebola that will dramatically cut the time it takes to determine - with reasonable accuracy - whether someone is infected with the deadly virus.&lt;/p&gt;</summary>
+    <dc:date>2015-02-20T16:48:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Guinea: 11 accused in Ebola worker deaths get life sentences</title>
     <link rel="alternate" href="http://www.chron.com/news/medical/article/Guinea-11-accused-in-Ebola-worker-deaths-get-6217332.php" />
     <author>
@@ -2162,17 +2185,6 @@
     <published>2015-02-20T20:15:38Z</published>
     <summary type="html">&lt;p&gt;MONROVIA, Liberia (AP) - Liberia's president on Friday ordered officials to lift an overnight curfew put in place six months ago to fight the Ebola epidemic and to reopen the country's land border crossings.&lt;/p&gt;&lt;p&gt;In a statement, the White House said President Barack Obama and Sirleaf would discuss the current Ebola response and the region's economic recovery plans during their Feb. 27 meeting.&lt;/p&gt;</summary>
     <dc:date>2015-02-20T20:15:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>World Health Organization approves 1st quick test for Ebola</title>
-    <link rel="alternate" href="http://news.yahoo.com/world-health-organization-approves-1st-quick-test-ebola-143136358--finance.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-20T16:48:46Z</updated>
-    <published>2015-02-20T16:48:46Z</published>
-    <summary type="html" />
-    <dc:date>2015-02-20T16:48:46Z</dc:date>
   </entry>
   <entry>
     <title>World Health Organization approves 1st quick test for Ebola</title>
