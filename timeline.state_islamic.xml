@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Judge orders Minnesota men held for trial on Islamic State charges</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-usa-security-minnesota-idUSKBN0NE2MG20150423?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T21:12:23Z</updated>
+    <published>2015-04-23T21:12:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T21:12:23Z</dc:date>
+  </entry>
+  <entry>
     <title>An Iraqi offensive to dislodge the Islamic State from Tikrit seems to have stalled</title>
     <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/middle-east/iraq/150313/iraqi-offensive-dislodge-islamic-state-tikrit-seems-ha" />
     <author>

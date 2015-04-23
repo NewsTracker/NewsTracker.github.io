@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Michael Brown's family sues Ferguson over shooting death</title>
+    <link rel="alternate" href="http://news.yahoo.com/lawyer-michael-browns-family-claims-evidence-ferguson-shooting-160714329.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T20:33:59Z</updated>
+    <published>2015-04-23T20:33:59Z</published>
+    <summary type="html">&lt;p&gt;The department's report did find racial bias and a pattern of illegal actions against African-Americans by the Ferguson Police Department.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T20:33:59Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Michael Brown's family sues Ferguson over shooting death</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3052505/Family-black-Ferguson-teen-killed-police-sues-city.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
