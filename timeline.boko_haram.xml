@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigeria says troops invade last Boko Haram stronghold</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/04/nigeria-boko-haram-sambisa-forest-150423090548354.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T11:54:20Z</updated>
+    <published>2015-04-23T11:54:20Z</published>
+    <summary type="html">&lt;p&gt;Mohamed Ibn Chambas, UN Special Representative for West Africa, said this month that Boko Haram fighters seeking shelter in the Sambisa Forest may be using some of the captured girls as human shields.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T11:54:20Z</dc:date>
+    <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/3/27/1b7f5c0710b746fead4de01e399cb2c8_18.jpg" />
+  </entry>
+  <entry>
     <title>Nigerian forces invade last known stronghold of Boko Haram</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3051027/Nigerian-forces-invade-known-stronghold-Boko-Haram.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

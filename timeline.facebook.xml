@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook's quarterly revenue growth slows</title>
+    <link rel="alternate" href="http://www.rte.ie/news/business/2015/0423/696101-facebook-results/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T09:54:56Z</updated>
+    <published>2015-04-23T09:54:56Z</published>
+    <summary type="html">&lt;p&gt;As a result, Facebook's operating expenses rose 83% in the first quarter as R&amp;D costs jumped 133% and marketing and sales spending nearly doubled.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T09:54:56Z</dc:date>
+    <media:content url="http://img.rasset.ie/0006c9fe-642.jpg" />
+  </entry>
+  <entry>
+    <title>Facebook's first-quarter sales slightly miss Wall Street's expectations</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_27967421/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T23:35:18Z</updated>
+    <published>2015-04-22T23:35:18Z</published>
+    <summary type="html">&lt;p&gt;Brian Wieser, an analyst for Pivotal Research Group, called Facebook's growth remarkable.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T23:35:18Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0325/20150325__0326facebook2%7E1_300.JPG" />
+  </entry>
+  <entry>
     <title>Facebook revenue growth slows, costs weigh on profit</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-facebook-results-idUSKBN0ND2F020150423?feedType=RSS&amp;amp;feedName=topNews" />
     <author>
