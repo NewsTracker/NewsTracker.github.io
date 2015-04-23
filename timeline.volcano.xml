@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Thousands evacuate after Chile volcano erupts</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/04/red-alert-issued-chile-volcano-erupts-150422220123634.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T06:52:47Z</updated>
+    <published>2015-04-23T06:52:47Z</published>
+    <summary type="html">&lt;p&gt;He urged residents to evacuate and warned of possible lahars, a mix of water and rock fragments that flow down a volcano's slopes and river valleys.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T06:52:47Z</dc:date>
+    <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/images/2014/6/4/201464235554915734_20.jpg" />
+  </entry>
+  <entry>
     <title>Calbuco volcano erupts in Chile, and nearby town evacuated</title>
     <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/04/22/calbuco-volcano-chile/26216651/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
     <author>

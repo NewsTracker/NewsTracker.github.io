@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook revenue growth slows, costs weigh on profit</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-facebook-results-idUSKBN0ND2F020150423?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T08:56:09Z</updated>
+    <published>2015-04-23T08:56:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T08:56:09Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150422&amp;amp;i=107129172&amp;amp;w=240&amp;amp;r=107129172-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Facebook clarifies guidelines on acceptable posts</title>
     <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/16/22289951-relaxnews.html?cid=rsstechnologynews" />
     <author>
@@ -855,7 +867,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
+    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />

@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Grizzlies take 2-0 series lead, beating Trail Blazers 97-82 (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/grizzlies-2-0-series-lead-beating-trail-blazers-023843325--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T04:03:35Z</updated>
+    <published>2015-04-23T04:03:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T04:03:35Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Millsap scores 19, Hawks hold off Nets 96-91 for 2-0 lead (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/millsap-scores-19-hawks-hold-off-nets-96-014612624--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T02:56:47Z</updated>
+    <published>2015-04-23T02:56:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T02:56:47Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Rondo finished with Mavs, knee bumps Parsons from playoffs (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/rondo-mum-benching-mavs-game-2-loss-rockets-150744372--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T00:41:37Z</updated>
+    <published>2015-04-23T00:41:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T00:41:37Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/0qZ8QBMmv4Rx5UrZVN0X5g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/dda22ec8142a9872403ef20587830bb3" />
+  </entry>
+  <entry>
     <title>NFL suspends DE Greg Hardy for 10 games (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/nfl-suspends-greg-hardy-10-games-214209301--nfl.html" />
     <author>
