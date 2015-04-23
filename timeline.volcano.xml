@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Calbuco volcano erupts anew; ash causing concern</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3052318/Calbuco-volcano-erupts-anew-ash-causing-concern.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T18:02:39Z</updated>
+    <published>2015-04-23T18:02:39Z</published>
+    <summary type="html">&lt;p&gt;As the ash cloud spread, "people went into a state of panic," said Miguel Silva Diaz, 28, an engineer who lives in Puerto Montt, a city about 14 miles (22 kilometers) from the volcano.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T18:02:39Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/23/04/27E2BBFF00000578-0-image-m-72_1429758660252.jpg" />
+  </entry>
+  <entry>
+    <title>Calbuco volcano erupts anew in Chile; concerns mount as ash spreads across the region</title>
+    <link rel="alternate" href="http://www.startribune.com/world/301054171.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T18:00:34Z</updated>
+    <published>2015-04-23T18:00:34Z</published>
+    <summary type="html">&lt;p&gt;The volcano erupted Wednesday afternoon for the first time in more than four decades, sending a towering plume of ash more than 6 miles (10 kilometers) into the air.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T18:00:34Z</dc:date>
+  </entry>
+  <entry>
     <title>Incredible images from volcano erupting in Chile</title>
     <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/04/22/calbuco-volcano-chile/26216651/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
     <author>
