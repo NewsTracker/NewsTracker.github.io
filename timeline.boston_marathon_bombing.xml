@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Jurors to deliberate for 2nd day in Boston Marathon trial</title>
+    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/04/08/jurors-to-deliberate-for-2nd-day-in-boston-marathon-trial" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T05:48:32Z</updated>
+    <published>2015-04-08T05:48:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T05:48:32Z</dc:date>
+  </entry>
+  <entry>
     <title>Victims describe devastating injuries, profound loss during Boston Marathon bombing trial</title>
     <link rel="alternate" href="http://www.foxnews.com/us/2015/04/23/victims-describe-devastating-injuries-profound-loss-during-boston-marathon/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
     <author>
@@ -51,7 +62,7 @@
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
   </entry>
   <entry>
-    <title>2 Years After Marathon Bombing, We Are ‘One Boston’</title>
+    <title>2 Years After Marathon Bombing, We Are ?One Boston?</title>
     <link rel="alternate" href="http://www.boston.com/news/nation/2015/04/14/years-after-marathon-bombing-are-one-boston/tXG3B3BHGbom32peICnZCL/story.html" />
     <author>
       <name />

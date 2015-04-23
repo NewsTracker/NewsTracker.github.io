@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US says Russia is building air defence systems in eastern Ukraine</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/apr/23/us-russia-building-air-defence-systems-eastern-ukraine-border" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T06:59:38Z</updated>
+    <published>2015-04-23T06:59:38Z</published>
+    <summary type="html">&lt;p&gt;Fighting has picked up in eastern Ukraine in recent weeks despite the ceasefire agreed in February, with each side accusing the other of violence.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T06:59:38Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/4/23/1429771719316/80da620f-e934-47ad-9d0f-57f07e16493c-300x180.jpeg" />
+  </entry>
+  <entry>
     <title>U.S. says Russia air defense systems inside Ukraine</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/22/us-ukraine-crisis-usa-idUSKBN0ND2J920150422?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>

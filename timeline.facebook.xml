@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook clarifies guidelines on acceptable posts</title>
+    <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/16/22289951-relaxnews.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T17:58:41Z</updated>
+    <published>2015-03-16T17:58:41Z</published>
+    <summary type="html">&lt;p&gt;The move comes with Facebook and other social media struggling with defining acceptable content and freedom of expression.&lt;/p&gt;&lt;p&gt;Facebook at the same time released its report on government requests for user data in the second half of 2014, showing a modest uptick to 35,051 from 34,946 in the prior period.&lt;/p&gt;&lt;p&gt;Facebook said earlier this year it was putting warnings on "graphic content," which would also be banned for users under 18.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T17:58:41Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/03/16/facebook650afp4.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>At Facebook, Big Growth and Bigger Spending</title>
     <link rel="alternate" href="http://www.wsj.com/articles/facebooks-spending-weighs-on-profits-1429733315?mod=rss_Technology" />
     <author>
@@ -843,7 +855,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
@@ -1210,18 +1222,6 @@
     <summary type="html">&lt;p&gt;FILE - In this June 11, 2014 file photo, a man walks past a mural in an office on the Facebook campus in Menlo Park, Calif.&lt;/p&gt;&lt;p&gt;In a blog post Monday, Facebook said it is a challenge to maintain one set of standards that meet the needs of its entire community.&lt;/p&gt;&lt;p&gt;Facebook restricts content in countries where it violates local laws, even if that content does not violate its community standards.&lt;/p&gt;</summary>
     <dc:date>2015-03-16T19:08:52Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png" />
-  </entry>
-  <entry>
-    <title>Facebook clarifies guidelines on acceptable posts</title>
-    <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/16/22289951-relaxnews.html?cid=rsstechnologynews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T17:58:41Z</updated>
-    <published>2015-03-16T17:58:41Z</published>
-    <summary type="html">&lt;p&gt;The move comes with Facebook and other social media struggling with defining acceptable content and freedom of expression.&lt;/p&gt;&lt;p&gt;Facebook at the same time released its report on government requests for user data in the second half of 2014, showing a modest uptick to 35,051 from 34,946 in the prior period.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T17:58:41Z</dc:date>
-    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/03/16/facebook650afp4.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
   </entry>
   <entry>
     <title>Facebook clarifies guidelines on acceptable posts</title>
