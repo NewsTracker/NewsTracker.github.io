@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama meets with Kayla Mueller's family in Arizona</title>
+    <link rel="alternate" href="http://news.yahoo.com/obama-meets-kayla-muellers-family-arizona-213743358.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T21:37:43Z</updated>
+    <published>2015-03-13T21:37:43Z</published>
+    <summary type="html">&lt;p&gt;PHOENIX (AP) - President Barack Obama is paying his condolences to the family of the American aid worker who died after being taken hostage by the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T21:37:43Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/C2SRMG.6oM8YwGwJpfwPqA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_US/News/TheWrap/Fired_Univision_Reporter_s_Lawyer_Takes-7f50132ea104b580df462d18b06f93e4.cf.jpg" />
+  </entry>
+  <entry>
     <title>US plans for anti-Islamic State training drawing skepticism</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/10/us-plans-for-anti-islamic-state-training-drawing/" />
     <author>

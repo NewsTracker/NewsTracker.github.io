@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Study: Drug Cures Monkeys Infected With Ebola</title>
+    <link rel="alternate" href="http://www.rferl.org/content/ebola-cure-virus-us-monkey/26973542.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T04:23:52Z</updated>
+    <published>2015-04-23T04:23:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T04:23:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Guinea starts testing Merck vaccine in Ebola hotspots</title>
     <link rel="alternate" href="http://news.yahoo.com/guinea-starts-testing-merck-vaccine-ebola-hotspots-150136861--finance.html" />
     <author>

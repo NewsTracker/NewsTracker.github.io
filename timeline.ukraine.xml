@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.S. says Russia air defense systems inside Ukraine</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/22/us-ukraine-crisis-usa-idUSKBN0ND2J920150422?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T22:54:36Z</updated>
+    <published>2015-04-22T22:54:36Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T22:54:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Violence escalates in east Ukraine ahead of talks</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3036799/Violence-escalates-east-Ukraine-ahead-talks.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T11:01:41Z</updated>
+    <published>2015-04-13T11:01:41Z</published>
+    <summary type="html">&lt;p&gt;"The rebels have not stopped firing at Ukrainian positions ... Over the past day the enemy used weapons banned under the Minsk agreements," Ukraine military spokesman, Oleksandr Motuzyanyk, said in a televised briefing.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T11:01:41Z</dc:date>
+  </entry>
+  <entry>
     <title>German FM: Russia's return to G-8 depends on Ukraine deal</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/german-fm-russias-return-to-g-8-depends-on-ukraine/nksQs/" />
     <author>
