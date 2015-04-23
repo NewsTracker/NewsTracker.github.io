@@ -5,6 +5,30 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Timeline of events after fatal police shooting in Ferguson</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article19292895.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T12:53:04Z</updated>
+    <published>2015-04-23T12:53:04Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this Friday, Nov. 28, 2014, file photo, police and Missouri National Guardsmen stand guard as protesters gather in front of the Ferguson Police Department, in Ferguson, Mo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T12:53:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Timeline of events after fatal police shooting in Ferguson</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Timeline-of-events-after-fatal-police-shooting-in-6218760.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T12:37:56Z</updated>
+    <published>2015-04-23T12:37:56Z</published>
+    <summary type="html">&lt;p&gt;APRIL 22 -- Lawyers for Brown's family say they will file a civil lawsuit April 23 against the city of Ferguson.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T12:37:56Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/00/13/7865067/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Timeline of events after fatal police shooting in Ferguson</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19292895.html%23storylink=rss" />
     <author>
       <name />

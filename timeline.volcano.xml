@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Calbuco volcano erupts anew; ash causing concern</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/23/calbuco-volcano-erupts-anew-ash-causing-concern" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T13:33:03Z</updated>
+    <published>2015-04-23T13:33:03Z</published>
+    <summary type="html">&lt;p&gt;Authorities have evacuated 4,000 people and closed access to the area around the volcano, which lies near the cities of Puerto Varas and Puerto Montt, some 1,000 kilometers (620 miles) south of Santiago.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T13:33:03Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/25b970b/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fde%2F29%2Fb4d1311243bf8d987aef5582c75e%2Fresizes%2F500%2Fthumb-2.jpg" />
+  </entry>
+  <entry>
+    <title>Chile volcano erupts for first time in decades</title>
+    <link rel="alternate" href="http://news.yahoo.com/chile-volcano-erupts-first-time-decades-024831100.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T00:16:44Z</updated>
+    <published>2015-04-23T00:16:44Z</published>
+    <summary type="html">&lt;p&gt;Smoke and ash rise from the Calbuco volcano as seen from the city of Puerto Montt, April 22, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T00:16:44Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Thousands evacuate after Chile volcano erupts</title>
     <link rel="alternate" href="http://www.aljazeera.com/news/2015/04/red-alert-issued-chile-volcano-erupts-150422220123634.html" />
     <author>
