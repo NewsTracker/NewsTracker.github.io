@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico recovers stolen radioactive material</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/22/mexico-recovers-stolen-radioactive-material/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T00:24:59Z</updated>
+    <published>2015-04-23T00:24:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T00:24:59Z</dc:date>
+  </entry>
+  <entry>
     <title>New Mexico regulators adopt new rules for Lyft, Uber</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19204215.html%23storylink=rss" />
     <author>

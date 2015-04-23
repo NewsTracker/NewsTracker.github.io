@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Calbuco volcano erupts in Chile, and nearby town evacuated</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19262010.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T00:48:04Z</updated>
+    <published>2015-04-23T00:48:04Z</published>
+    <summary type="html">&lt;p&gt;The Calbuco volcano erupts near Puerto Varas, Chile, Wednesday, April 22, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T00:48:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Calbuco volcano erupts in Chile, and nearby town evacuated</title>
     <link rel="alternate" href="http://news.yahoo.com/calbuco-volcano-erupts-chile-nearby-town-evacuated-215237066.html" />
     <author>
       <name />
