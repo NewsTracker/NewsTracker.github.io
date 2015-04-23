@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Calbuco volcano erupts in Chile, and nearby town evacuated</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/04/22/calbuco-volcano-chile/26216651/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T02:14:45Z</updated>
+    <published>2015-04-23T02:14:45Z</published>
+    <summary type="html">&lt;p&gt;Authorities ordered an evacuation for a six-mile radius around the volcano, which is the second in southern Chile to have a substantial eruption since March 3, when the Villarrica volcano emitted a brief but fiery burst of ash and lava.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T02:14:45Z</dc:date>
+    <media:content url="http://www.gannett-cdn.com/media/2015/04/22/USATODAY/USATODAY/635653376193903564-AFP-540008406.jpg" />
+  </entry>
+  <entry>
     <title>Chile declares emergency as Calbuco volcano erupts</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Chile-declares-emergency-as-Calbuco-volcano-erupts/articleshow/47021863.cms" />
     <author>
