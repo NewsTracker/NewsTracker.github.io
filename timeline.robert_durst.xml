@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.robert_durst.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Lawyer: Louisiana gun case against millionaire Durst dropped</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/23/lawyer-louisiana-gun-case-against-millionaire-durst-dropped" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T15:56:09Z</updated>
+    <published>2015-04-23T15:56:09Z</published>
+    <summary type="html">&lt;p&gt;NEW ORLEANS (AP) - An attorney for real estate heir Robert Durst says state weapon charges against him have been dropped, clearing the way for federal proceedings in New Orleans on similar charges.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T15:56:09Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/25b970b/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fde%2F29%2Fb4d1311243bf8d987aef5582c75e%2Fresizes%2F500%2Fthumb-2.jpg" />
+  </entry>
+  <entry>
+    <title>Millionaire Robert Durst returning to court in New Orleans</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-03-23-US--Real%20Estate%20Heir-Weapons%20Charges/id-a20708a699cc44118e564409b16e13ac" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-23T08:38:00Z</updated>
+    <published>2015-03-23T08:38:00Z</published>
+    <summary type="html">&lt;p&gt;Durst is going back to court in New Orleans after nearly a week in a prison mental ward 70 miles away.&lt;/p&gt;</summary>
+    <dc:date>2015-03-23T08:38:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Robert Durst charged with murder, movie confession likely admissible</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/03/16/new-york-real-estate-scion-robert-durst-agrees-to-extradition-on-murder-charge" />
     <author>

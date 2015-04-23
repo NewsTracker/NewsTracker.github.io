@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Spurs' Kawhi Leonard named NBA defensive player of year (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/spurs-kawhi-leonard-named-nba-defensive-player-145130095--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T14:51:30Z</updated>
+    <published>2015-04-23T14:51:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T14:51:30Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/ellLJqRLSaJszQf8SpKloA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/8ad1af0a735c946020d3f94557c0969f" />
+  </entry>
+  <entry>
+    <title>Tigers closer Nathan out for year with torn elbow ligament (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/tigers-closer-nathan-torn-elbow-ligament-144305473--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T14:47:18Z</updated>
+    <published>2015-04-23T14:47:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T14:47:18Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/IYk63AqDGBr4Zn_AbgQaFQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504230946351753481" />
+  </entry>
+  <entry>
     <title>Grizzlies take 2-0 series lead, beating Trail Blazers 97-82 (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/grizzlies-2-0-series-lead-beating-trail-blazers-023843325--nba.html" />
     <author>

@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Incredible images from volcano erupting in Chile</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/04/22/calbuco-volcano-chile/26216651/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T15:50:28Z</updated>
+    <published>2015-04-23T15:50:28Z</published>
+    <summary type="html">&lt;p&gt;Twin blasts from the Calbuco volcano in southern Chile have sent vast clouds of ash into the sky, increasing concerns that it could contaminate water, cause respiratory illnesses and ground more flights.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T15:50:28Z</dc:date>
+    <media:content url="http://www.gannett-cdn.com/media/2015/04/23/USATODAY/USATODAY/635653795724954035-AP-APTOPIX-Chile-Volcano-Erupts.jpg" />
+  </entry>
+  <entry>
+    <title>Calbuco volcano erupts anew; ash causing concern</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19296375.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T15:43:05Z</updated>
+    <published>2015-04-23T15:43:05Z</published>
+    <summary type="html">&lt;p&gt;President Michelle Bachelet declared a state of emergency, saying the eruption of Calbuco is "more serious and unpredictable" than the one last month at the Villarica volcano, which also forced the evacuation of thousands.&lt;/p&gt;&lt;p&gt;In 2011, a volcano in the Caulle Cordon of southern Chile erupted violently, forcing the cancellation of hundreds of flights and the evacuation of more than 3,500 people.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T15:43:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Volcano Calbuco still erupting in Chile, some flights cancelled [Video]</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/23/volcano-calbuco-still-erupting-in-chile-some-flights-cancelled" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T15:28:40Z</updated>
+    <published>2015-04-23T15:28:40Z</published>
+    <summary type="html">&lt;p&gt;SANTIAGO - Volcano Calbuco in southern Chile that erupted unexpectedly on Wednesday was still pouring ash into the sky on Thursday, forcing the cancellation of flights from nearby towns in both Chile and neighbouring Argentina.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T15:28:40Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297691354141_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
     <title>Calbuco volcano erupts anew; ash causing concern</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/23/calbuco-volcano-erupts-anew-ash-causing-concern" />
     <author>

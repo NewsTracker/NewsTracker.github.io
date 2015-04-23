@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>An Iraqi offensive to dislodge the Islamic State from Tikrit seems to have stalled</title>
+    <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/middle-east/iraq/150313/iraqi-offensive-dislodge-islamic-state-tikrit-seems-ha" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T16:12:00Z</updated>
+    <published>2015-03-13T16:12:00Z</published>
+    <summary type="html">&lt;p&gt;Islamic State fighters overran Tikrit last June during a lightning offensive that was halted just outside Baghdad.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T16:12:00Z</dc:date>
+    <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2015-March/iraqi-fighters-tikrit-2015-3-13.jpg" />
+  </entry>
+  <entry>
     <title>Islamic principal says reports untrue</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3051329/Vic-Islamic-college-bans-running-girls.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

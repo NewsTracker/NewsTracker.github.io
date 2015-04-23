@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>As YouTube marks tenth year, Facebook emerges as video threat</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-facebook-video-idUSKBN0NE1N520150423?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T14:22:34Z</updated>
+    <published>2015-04-23T14:22:34Z</published>
+    <summary type="html">&lt;p&gt;The brokerage expects Facebook's revenue from video advertising to reach about $1 billion this year.&lt;/p&gt;&lt;p&gt;Mobile ads accounted for 73 percent of Facebook's total ad revenue in the first quarter, up from 59 percent a year earlier.&lt;/p&gt;&lt;p&gt;"More than 75 percent of global video views on Facebook occur on mobile, and we believe mobile video will become more important to marketers over time," she said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T14:22:34Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" />
+  </entry>
+  <entry>
+    <title>As YouTube marks tenth year, Facebook emerges as video threat</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-facebook-video-idUSKBN0NE1N520150423?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T14:22:34Z</updated>
+    <published>2015-04-23T14:22:34Z</published>
+    <summary type="html">&lt;p&gt;Facebook Inc said on Wednesday that its users were watching 4 billion videos a day, compared with 3 billion in January and just 1 billion in September.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T14:22:34Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" />
+  </entry>
+  <entry>
     <title>Facebook's quarterly revenue growth slows</title>
     <link rel="alternate" href="http://www.rte.ie/news/business/2015/0423/696101-facebook-results/" />
     <author>
