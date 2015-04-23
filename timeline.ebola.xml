@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US regulators recall 10-minute Ebola test</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3052918/US-regulators-recall-10-minute-Ebola-test.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T20:02:32Z</updated>
+    <published>2015-04-23T20:02:32Z</published>
+    <summary type="html">&lt;p&gt;US regulators have issued an international recall for a 10-minute Ebola blood test made by a California-based company, saying it has not been proven to work and could put lives at risk.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T20:02:32Z</dc:date>
+  </entry>
+  <entry>
     <title>Study: Drug Cures Monkeys Infected With Ebola</title>
     <link rel="alternate" href="http://www.rferl.org/content/ebola-cure-virus-us-monkey/26973542.html" />
     <author>

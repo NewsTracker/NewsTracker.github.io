@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Calbuco volcano erupts anew; ash causing concern</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Calbuco-volcano-erupts-anew-ash-causing-concern-6218958.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T17:56:44Z</updated>
+    <published>2015-04-23T17:56:44Z</published>
+    <summary type="html">&lt;p&gt;A bus drives along an ash covered road, caused by the eruption of Chile's Calbuco volcano in Villa La Angostura, in southern Argentina, Thursday, April 23, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T17:56:44Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/00/15/7865208/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Calbuco volcano erupts anew; ash causing concern</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3052318/Calbuco-volcano-erupts-anew-ash-causing-concern.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
