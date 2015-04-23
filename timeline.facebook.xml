@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>At Facebook, Big Growth and Bigger Spending</title>
+    <link rel="alternate" href="http://www.wsj.com/articles/facebooks-spending-weighs-on-profits-1429733315?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T01:20:01Z</updated>
+    <published>2015-04-23T01:20:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T01:20:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Still got it: Facebook mobile ad revenue continues to surge</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Still-got-it-Facebook-mobile-ad-revenue-6217266.php" />
     <author>

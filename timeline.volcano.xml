@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chile declares emergency as Calbuco volcano erupts</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Chile-declares-emergency-as-Calbuco-volcano-erupts/articleshow/47021863.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T00:58:55Z</updated>
+    <published>2015-04-23T00:58:55Z</published>
+    <summary type="html">&lt;p&gt;Southern Chile's Calbuco volcano erupted on Wednesday for the first time in nearly half a century, spewing a giant funnel of ash high into the sky and prompting authorities to declare a state of emergency.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T00:58:55Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47021867,width-300,resizemode-4/Chile-declares-emergency-as-Calbuco-volcano-erupts.jpg" />
+  </entry>
+  <entry>
+    <title>Town evacuated in Chile as volcano erupts</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/southamerica/11556923/Town-evacuated-in-Chile-as-volcano-erupts.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T00:56:43Z</updated>
+    <published>2015-04-23T00:56:43Z</published>
+    <summary type="html">&lt;p&gt;Trevor Moffat, who lives in Ensenada, some 10 km from the volcano, said he and his family fled when the volcano erupted.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T00:56:43Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03277/vol-2_3277645b.jpg" />
+  </entry>
+  <entry>
     <title>Calbuco volcano erupts in Chile, and nearby town evacuated</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19262010.html%23storylink=rss" />
     <author>
