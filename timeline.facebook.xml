@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nasdaq to settle Facebook IPO lawsuit for $26.5M</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102617281" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T09:07:00Z</updated>
+    <published>2015-04-24T09:07:00Z</published>
+    <summary type="html">&lt;p&gt;The lawsuit said Nasdaq violated federal and state laws by not disclosing technology weaknesses in its IPO systems and failing to properly design and test them for the Facebook offering.&lt;/p&gt;&lt;p&gt;Nasdaq said earlier on Thursday that it had set aside $31 million for litigation arising from Facebook's IPO.&lt;/p&gt;&lt;p&gt;Separately, Nasdaq agreed in May 2013 to pay a record $10 million penalty to settle U.S. Securities and Exchange Commission charges over Facebook's IPO.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T09:07:00Z</dc:date>
+  </entry>
+  <entry>
     <title>As YouTube marks tenth year, Facebook emerges as video threat</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-facebook-video-idUSKBN0NE1N520150423?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
@@ -915,7 +926,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
