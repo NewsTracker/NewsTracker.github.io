@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mh17.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dutch expert fired after showing MH17 victim photos</title>
+    <link rel="alternate" href="http://news.yahoo.com/dutch-expert-suspended-showing-mh17-victim-photos-143516869.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T23:03:06Z</updated>
+    <published>2015-04-23T23:03:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T23:03:06Z</dc:date>
+    <media:content url="http://l.yimg.com/os/publish-images/news/2013-08-26/d19448d6-6aaa-4359-a768-eadacf5fbca9_afp-gif_new.gif" />
+  </entry>
+  <entry>
     <title>Police criticize anthropologist for showing images of victims of Malaysia Airlines flight MH17</title>
     <link rel="alternate" href="http://www.startribune.com/world/301032591.html" />
     <author>

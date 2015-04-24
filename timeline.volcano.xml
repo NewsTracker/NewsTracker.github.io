@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Calbuco volcano erupts anew; ash causing concern</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3052318/Calbuco-volcano-erupts-anew-ash-causing-concern.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T23:14:00Z</updated>
+    <published>2015-04-23T23:14:00Z</published>
+    <summary type="html">&lt;p&gt;Men remove ash from a building's roof, left by the Calbuco volcano, in Ensenada, Chile, Thursday, April 23, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T23:14:00Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/23/15/27E7526D00000578-0-image-m-16_1429798227254.jpg" />
+  </entry>
+  <entry>
+    <title>Calbuco volcano erupts anew; ash causing concern</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Calbuco-volcano-erupts-anew-ash-causing-concern-6218958.php" />
     <author>
       <name />
