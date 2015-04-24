@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Ex-CIA chief fined, given probation for divulging secrets</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Ex-CIA-chief-fined-given-probation-for-divulging-secrets-20150424" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T07:17:16Z</updated>
+    <published>2015-04-24T07:17:16Z</published>
+    <summary type="html">&lt;p&gt;In October 2012, FBI agents questioned Petraeus at CIA headquarters while he was still director.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T07:17:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Ex-general, CIA chief Petraeus gets probation, $100,000 fine in leak case</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3052901/Ex-U-S-General-Petraeus-gets-probation--100-000-fine-leak-case.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -199,7 +210,7 @@
     <dc:date>2015-04-19T18:55:14Z</dc:date>
   </entry>
   <entry>
-    <title>CIA director says Iran’s economic peril helped drive nuke deal</title>
+    <title>CIA director says Iran?s economic peril helped drive nuke deal</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/CIA-director-says-Iran-s-economic-peril-helped-6187145.php" />
     <author>
       <name />
