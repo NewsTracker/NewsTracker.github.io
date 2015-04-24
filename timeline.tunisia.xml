@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tunisia Military Says 10 Extremists Killed in Fighting</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/tunisia-military-10-extremists-killed-fighting-30561117" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T17:33:03Z</updated>
+    <published>2015-04-24T17:33:03Z</published>
+    <summary type="html">&lt;p&gt;Tunisia's defense ministry says 10 militants have been killed in fighting along the border with Algeria.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T17:33:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ten militants, three soldiers killed in Tunisia clashes</title>
+    <link rel="alternate" href="http://news.yahoo.com/ten-militants-two-soldiers-killed-tunisia-clashes-official-132702584.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T16:43:50Z</updated>
+    <published>2015-04-24T16:43:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-24T16:43:50Z</dc:date>
+  </entry>
+  <entry>
     <title>Obama pledges security cooperation after Tunisia attack</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article15420293.html%23storylink=rss" />
     <author>
