@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Doping cases cast shadow on Kenya rivalry in London Marathon</title>
+    <link rel="alternate" href="http://news.yahoo.com/doping-cases-cast-shadow-kenya-rivalry-london-marathon-134210624.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T13:42:10Z</updated>
+    <published>2015-04-24T13:42:10Z</published>
+    <summary type="html">&lt;p&gt;Wilson Kipsang, the 2014 winner in London, acknowledged that Kenya's reputation in athletics has been damaged by the positive doping tests, even though he says 99 percent of its athletes are clean.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T13:42:10Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/hCjB4guSSIdsl2aR2l0STA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2992a66631b47a12740f6a706700c440.jpg" />
+  </entry>
+  <entry>
+    <title>Doping cases cast shadow on Kenya rivalry in London Marathon</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/sports/doping-cases-cast-shadow-on-kenya-rivalry-in-londo/nk269/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T13:41:45Z</updated>
+    <published>2015-04-24T13:41:45Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-24T13:41:45Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya kicks out top anti-corruption officials</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3051947/Kenya-kicks-anti-corruption-officials.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -189,7 +212,7 @@
     <dc:date>2015-04-21T15:34:24Z</dc:date>
   </entry>
   <entry>
-    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
+    <title>Community radio brings forecasts to Kenya?s most climate vulnerable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
       <name />
@@ -979,7 +1002,7 @@
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150405001118798836-original.jpg?itok=-TteVTsU" />
   </entry>
   <entry>
-    <title>Kenya’s revenge: Naked corpses paraded</title>
+    <title>Kenya?s revenge: Naked corpses paraded</title>
     <link rel="alternate" href="http://www.news.com.au/world/africa/kenya-massacre-police-parade-corpses-of-university-gunmen-through-massacre-town/story-fnh81gzi-1227291754637?from=public_rss" />
     <author>
       <name />
