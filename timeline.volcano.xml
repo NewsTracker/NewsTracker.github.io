@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chile volcano ash cloud reaches Brazil; some flights canceled</title>
+    <link rel="alternate" href="http://news.yahoo.com/chile-volcano-ash-cloud-reaches-brazil-flights-canceled-145612878--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T16:45:27Z</updated>
+    <published>2015-04-25T16:45:27Z</published>
+    <summary type="html">&lt;p&gt;"The dangerous nature of volcanic activity like this, plus the volcano's current instability that could lead to more intense activity in the short term, indicates we should maintain the perimeter," Chile's national office of emergency said in its latest report.&lt;/p&gt;</summary>
+    <dc:date>2015-04-25T16:45:27Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Chile volcano ash cloud reaches Brazil, flights cancelled</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3055279/Chile-volcano-ash-cloud-reaches-Brazil-flights-cancelled.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
