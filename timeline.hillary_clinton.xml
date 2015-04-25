@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton plans campaign trip to Nevada</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/24/hillary-clinton-plans-campaign-trip-to-nevada" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T01:46:53Z</updated>
+    <published>2015-04-25T01:46:53Z</published>
+    <summary type="html">&lt;p&gt;LAS VEGAS (AP) - Hillary Rodham Clinton is planning to visit Nevada on the third trip of her fledgling presidential campaign.&lt;/p&gt;</summary>
+    <dc:date>2015-04-25T01:46:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Hillary Clinton's long road back into presidential politics</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18406703.html%23storylink=rss" />
     <author>
@@ -990,7 +1001,7 @@
     <media:content url="http://l.yimg.com/bt/api/res/1.2/3sGD4v8muTCNpfLSzsoh5w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8913621-1-1-0.jpg.cf.jpg" />
   </entry>
   <entry>
-    <title>Hillary Clinton’s campaign signs lease for Brooklyn Heights</title>
+    <title>Hillary Clinton?s campaign signs lease for Brooklyn Heights</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-campaign-signs-lease-brooklyn-heights-article-1.2172344" />
     <author>
       <name />

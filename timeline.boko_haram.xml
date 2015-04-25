@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boko Haram retakes NE town from Nigerian army</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3054864/Boko-Haram-retakes-NE-town-Nigerian-army.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T02:02:33Z</updated>
+    <published>2015-04-25T02:02:33Z</published>
+    <summary type="html">&lt;p&gt;Suspected Boko Haram insurgents have forced hundreds of soldiers to flee Marte, a border town along the shores of Lake Chad, a local official and witnesses said.&lt;/p&gt;&lt;p&gt;A senior military official confirmed the attack on Marte, but refused to say whether Boko Haram had retaken the town, describing the army's retreat as "strategic".&lt;/p&gt;</summary>
+    <dc:date>2015-04-25T02:02:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Boko Haram Islamists pose with weapons in first images since aligning with Islamic State</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3052353/Pictured-Boko-Haram-releases-new-images-fighters-brutal-terror-group-pledged-allegiance-ISIS.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -232,7 +243,7 @@
     <media:content url="http://i.cbc.ca/1.3031791.1428995504!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/nigeria-election-usa.jpg" />
   </entry>
   <entry>
-    <title>Nigeria’s new president pledges effort to free girls kidnapped by Boko Haram a year ago</title>
+    <title>Nigeria?s new president pledges effort to free girls kidnapped by Boko Haram a year ago</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/nigerias-new-president-pledges-effort-to-free-girls-kidnapped-by-boko-haram-a-year-ago/article23929086/?cmpid=rss1" />
     <author>
       <name />
@@ -1020,7 +1031,7 @@
     <media:content url="http://ww4.hdnux.com/photos/35/05/15/7623511/7/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>Nigeria’s Boko Haram pledges allegiance to Islamic State</title>
+    <title>Nigeria?s Boko Haram pledges allegiance to Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/Nigeria-s-Boko-Haram-pledges-allegiance-to-6121265.php" />
     <author>
       <name />

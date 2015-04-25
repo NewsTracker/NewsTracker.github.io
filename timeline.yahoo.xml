@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rangers head to 2nd round, await Capitals or Islanders (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/rangers-head-2nd-round-await-capitals-islanders-064714652--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T06:47:14Z</updated>
+    <published>2015-04-25T06:47:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-25T06:47:14Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/jTfWourXsUpqQ2tND4bKTA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-us/video/video.nhlgamehighlights.com/db4144a9f8958eb28d0f232c9ee51862" />
+  </entry>
+  <entry>
+    <title>Teixeira, Pineda help Yanks end Mets' 11-game win streak (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/teixeira-pineda-help-yanks-end-mets-11-game-015357822--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T03:09:40Z</updated>
+    <published>2015-04-25T03:09:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-25T03:09:40Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Warriors erase 20-point hole, beat Pelicans 123-119 in OT (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/warriors-erase-20-point-hole-beat-pelicans-123-045529944--nba.html" />
     <author>

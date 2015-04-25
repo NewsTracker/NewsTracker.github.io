@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Activists Seek Probe of Prosecutor's Role in Ferguson Case</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/activists-sue-prosecutors-role-ferguson-grand-jury-30553881" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T21:40:03Z</updated>
+    <published>2015-04-24T21:40:03Z</published>
+    <summary type="html">&lt;p&gt;The hearing on Friday came a day after Brown's parents filed a wrongful-death lawsuit against the city of Ferguson, Wilson and Ferguson's former police chief.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T21:40:03Z</dc:date>
+  </entry>
+  <entry>
     <title>Robinson pleased with Ferguson progress</title>
     <link rel="alternate" href="http://www.smh.com.au//breaking-news-sport/robinson-pleased-with-ferguson-progress-20150324-3sqml.html" />
     <author>
@@ -429,7 +440,7 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>In Ferguson, race and reform are on voters’ minds in councillors’ election today</title>
+    <title>In Ferguson, race and reform are on voters? minds in councillors? election today</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/in-ferguson-race-and-reform-are-on-voters-minds-in-councillors-election-today/article23819103/?cmpid=rss1" />
     <author>
       <name />
@@ -589,7 +600,7 @@
     <dc:date>2015-04-02T18:14:53Z</dc:date>
   </entry>
   <entry>
-    <title>Mats Hummels 'gave his word' to Sir Alex Ferguson he WILL join Manchester United! </title>
+    <title>Mats Hummels 'gave his word' to Sir Alex Ferguson he WILL join Manchester United!?</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sport/football/article-3019289/Mats-Hummels-gave-word-Sir-Alex-Ferguson-join-Manchester-United.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

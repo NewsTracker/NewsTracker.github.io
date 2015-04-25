@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chile Volcano Prompts New Evacuations, Flights to Argentina Cancelled</title>
+    <link rel="alternate" href="http://www.nytimes.com/reuters/2015/04/24/world/americas/24reuters-chile-volcano.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T20:05:14Z</updated>
+    <published>2015-04-24T20:05:14Z</published>
+    <summary type="html">&lt;p&gt;Television images showed residents in a town close to Lake Chapo quickly driving down ash-laden streets away from the smoldering volcano.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T20:05:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Chile volcano prompts new evacuations, flights to Argentina canceled</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/24/us-chile-volcano-idUSKBN0ND2M320150424?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T20:03:38Z</updated>
+    <published>2015-04-24T20:03:38Z</published>
+    <summary type="html">&lt;p&gt;Some houses and schools located close to the volcano have collapsed under the weight of the ash.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T20:03:38Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150425&amp;amp;i=107238748&amp;amp;w=240&amp;amp;r=107238748-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Chile volcano prompts new evacuations, flights to Argentina canceled</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/24/us-chile-volcano-idUSKBN0ND2M320150424?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T20:03:38Z</updated>
+    <published>2015-04-24T20:03:38Z</published>
+    <summary type="html">&lt;p&gt;Most of the mines in top copper exporter Chile are located in the north of the country, far from the volcano.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T20:03:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Flights canceled as ash cloud pours from Chile volcano</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-chile-volcano-idUSKBN0ND2M320150423?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T21:35:38Z</updated>
+    <published>2015-04-23T21:35:38Z</published>
+    <summary type="html">&lt;p&gt;In 2011, the eruption of Chile's Puyehue volcano sent ash high into the atmosphere, leading to flight cancellations as far away as Australia.&lt;/p&gt;&lt;p&gt;Nearly 4,500 people have been evacuated from the immediate area, authorities said, with the emergency services focusing on the small town of Ensenada, some 15 kilometers from the volcano.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T21:35:38Z</dc:date>
+  </entry>
+  <entry>
     <title>Flights canceled as ash cloud pours from Chile volcano</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/24/us-chile-volcano-idUSKBN0ND2M320150424?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
