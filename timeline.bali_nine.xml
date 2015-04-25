@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.bali_nine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bali nine: drug supply suspect killed in seconds by police</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/bali-nine-drug-supply-suspect-killed-in-seconds-by-police-20150425-1ms3a9.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T13:45:00Z</updated>
+    <published>2015-04-25T13:45:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-25T13:45:00Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/d/e/g/p/image.related.articleLeadwide.620x349.1ms3a9.png/1429884516552.jpg" />
+  </entry>
+  <entry>
+    <title>Bali Nine pair get 72hr execution notice</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/25/bali-nine-pair-get-72hr-execution-notice" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T13:02:19Z</updated>
+    <published>2015-04-25T13:02:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-25T13:02:19Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/1/21Apr_BaliNine_800x600.jpg?itok=S_sHHKcu" />
+  </entry>
+  <entry>
     <title>Frenchman removed from Bali nine execution list</title>
     <link rel="alternate" href="http://www.smh.com.au/world/countdown-to-death-bali-pair-given-final-notice-20150425-1mt4eo.html" />
     <author>
