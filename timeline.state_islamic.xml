@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Putin accuses US of supporting separatists in Russia</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/26/putin-accuses-us-of-supporting-separatists-in-russia" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T20:01:10Z</updated>
+    <published>2015-04-26T20:01:10Z</published>
+    <summary type="html">&lt;p&gt;But in the end, Putin said the Russian intelligence agency FSB received a letter from their "American counterparts" who asserted their right to "support all opposition forces in Russia," including the Islamic separatists in the Caucasus.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T20:01:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Putin accuses U.S. of aiding Islamic separatists</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/putin-accuses-us-aiding-islamic-separatists-russian-caucasus/" />
     <author>

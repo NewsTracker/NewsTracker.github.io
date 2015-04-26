@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Orioles get 20 hits in 18-7 rout of Red Sox (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/orioles-20-hits-18-7-rout-red-sox-210452942--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T21:12:17Z</updated>
+    <published>2015-04-26T21:12:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-26T21:12:17Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/mlb/teams/83/70x70/bal.png" />
+  </entry>
+  <entry>
     <title>Kipchoge wins his 1st London Marathon in Kenyan top 4 (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/kipchoge-wins-1st-london-marathon-kenyan-top-4-124518059--spt.html" />
     <author>
