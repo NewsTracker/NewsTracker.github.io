@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>John Cleese: "I don't understand Facebook"</title>
+    <link rel="alternate" href="http://www.rte.ie/ten/news/2015/0426/696882-john-cleese-i-dont-understand-modern-society/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T15:43:16Z</updated>
+    <published>2015-04-26T15:43:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-26T15:43:16Z</dc:date>
+    <media:content url="http://img.rasset.ie/00054783-630.jpg" />
+  </entry>
+  <entry>
     <title>Nasdaq to settle Facebook IPO lawsuit for $26.5M</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102617281" />
     <author>
