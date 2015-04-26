@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sport24.co.za | Africa hits jackpot at London Marathon</title>
+    <link rel="alternate" href="http://www.sport24.co.za/OtherSport/Athletics/International/Africa-hits-jackpot-at-London-Marathon-20150426" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T11:38:37Z</updated>
+    <published>2015-04-26T11:38:37Z</published>
+    <summary type="html">&lt;p&gt;The 28-year-old Tufa won her first major marathon in 2 hours, 23 minutes, 22 seconds, with two-time winner Mary Keitany of Kenya reaching Buckingham Palace 18 seconds later.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T11:38:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Doping cases cast shadow on Kenya rivalry in London Marathon</title>
     <link rel="alternate" href="http://news.yahoo.com/doping-cases-cast-shadow-kenya-rivalry-london-marathon-134210624.html" />
     <author>

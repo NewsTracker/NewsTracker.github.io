@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sudan's pyramids, nearly as grand as Egypt's, go unvisited</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19579659.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T11:04:04Z</updated>
+    <published>2015-04-26T11:04:04Z</published>
+    <summary type="html">&lt;p&gt;The steep, small pyramids rise over the desert hills, a stunning reminder of the ancient Nubian kingdom that once ruled Egypt _ and ones not nearly as often visited those of its neighbor.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T11:04:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Sudan's pyramids, nearly as grand as Egypt's, go unvisited</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/26/sudans-pyramids-nearly-as-grand-as-egypts-go/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T10:53:50Z</updated>
+    <published>2015-04-26T10:53:50Z</published>
+    <summary type="html">&lt;p&gt;AL-BERGAWIYA, Sudan (AP) - The small, steep pyramids rising up from the desert hills of northern Sudan resemble those in neighboring Egypt, but unlike the famed pyramids of Giza, the Sudanese site is largely deserted.&lt;/p&gt;&lt;p&gt;The pyramids at Meroe, some 200 kilometers (125 miles) north of Sudan's capital, Khartoum, are rarely visited despite being a UNESCO World Heritage site like those in Egypt.&lt;/p&gt;&lt;p&gt;The pyramids bear decorative elements inspired by Pharaonic Egypt, Greece and Rome, according to UNESCO, making them priceless relics.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T10:53:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Sudan's pyramids, nearly as grand as Egypt's, go unvisited</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Sudan-s-pyramids-nearly-as-grand-as-Egypt-s-go-6224588.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T10:53:50Z</updated>
+    <published>2015-04-26T10:53:50Z</published>
+    <summary type="html">&lt;p&gt;The pyramids at Meroe are deserted despite being a UNESCO World Heritage site like those at Giza in Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T10:53:50Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/03/57/7879678/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt Basks in World Support at Investor Conference</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-conference-investors-commit-107-billion-29647771" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T19:56:38Z</updated>
+    <published>2015-03-15T19:56:38Z</published>
+    <summary type="html">&lt;p&gt;A jubilant Abdel-Fattah el-Sissi acknowledged Egypt's road to recovery will be long and costly, but described the three-day summit as an overwhelming success, recognizing companies and governments for their vote of confidence.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T19:56:38Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/International/WireAP_374029bd9edb4ae5a38b36f3601d64fe_16x9_992.jpg" />
+  </entry>
+  <entry>
     <title>Egypt's top businessman Naguib Sawiris testifies at al-Jazeera trial</title>
     <link rel="alternate" href="http://www.theguardian.com/world/2015/apr/22/egypt-sawiris-al-jazeera-journalists-trial" />
     <author>
@@ -389,18 +436,6 @@
     <published>2015-03-17T14:41:12Z</published>
     <summary type="html">&lt;p&gt;Egypt's state prosecutor Tuesday referred to trial 16 suspects accused of clashing with police that led to a deadly Cairo football stadium stampede, blaming the Islamist opposition for the violence.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T14:41:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt Basks in World Support at Investor Conference</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-conference-investors-commit-107-billion-29647771" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-15T19:56:38Z</updated>
-    <published>2015-03-15T19:56:38Z</published>
-    <summary type="html">&lt;p&gt;A jubilant Abdel-Fattah el-Sissi acknowledged Egypt's road to recovery will be long and costly, but described the three-day summit as an overwhelming success, recognizing companies and governments for their vote of confidence.&lt;/p&gt;</summary>
-    <dc:date>2015-03-15T19:56:38Z</dc:date>
-    <media:content url="http://a.abcnews.com/images/International/WireAP_374029bd9edb4ae5a38b36f3601d64fe_16x9_992.jpg" />
   </entry>
   <entry>
     <title>Kerry promotes US investment in Egypt; no new military aid</title>
