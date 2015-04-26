@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Homegrown, gourmet pot on the rise in Mexico</title>
+    <link rel="alternate" href="http://news.yahoo.com/homegrown-gourmet-pot-rise-mexico-042051932.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T04:33:11Z</updated>
+    <published>2015-03-16T04:33:11Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (AP) - Once upon a time, Mexican marijuana was the gold standard for U.S. pot smokers.&lt;/p&gt;&lt;p&gt;In Mexico City, several people said they have seen freezer-size bags of marijuana here labeled as being for medicinal use in Los Angeles.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T04:33:11Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/mvjfY1x1Rr08wPY0ChQ7rw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/5158952d1267e20c700f6a706700c163.jpg" />
+  </entry>
+  <entry>
     <title>North America's largest powwow draws thousands to New Mexico</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article19403307.html%23storylink=rss" />
     <author>
@@ -2488,18 +2500,6 @@
     <summary type="html">&lt;p&gt;One of Mexico's most prominent journalists, whose team revealed a conflict-of-interest scandal ensnaring President Enrique Pena Nieto last year, has been fired, her employer MVS Radio said on Sunday.&lt;/p&gt;</summary>
     <dc:date>2015-03-16T07:45:52Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/2e1/news/world/article23468001.ece/ALTERNATES/w220/SIN003-CNEWS-US-MEXICO-JOUR.JPG" />
-  </entry>
-  <entry>
-    <title>Homegrown, gourmet pot on the rise in Mexico</title>
-    <link rel="alternate" href="http://news.yahoo.com/homegrown-gourmet-pot-rise-mexico-042051932.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T04:33:11Z</updated>
-    <published>2015-03-16T04:33:11Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY (AP) - Once upon a time, Mexican marijuana was the gold standard for U.S. pot smokers.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T04:33:11Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/mvjfY1x1Rr08wPY0ChQ7rw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/5158952d1267e20c700f6a706700c163.jpg" />
   </entry>
   <entry>
     <title>Homegrown, gourmet pot on the rise in Mexico</title>
