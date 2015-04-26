@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Putin accuses U.S. of aiding Islamic separatists</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/putin-accuses-us-aiding-islamic-separatists-russian-caucasus/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T20:02:41Z</updated>
+    <published>2015-04-26T20:02:41Z</published>
+    <summary type="html">&lt;p&gt;Following a disastrous war in the 1990s, Russia fought Islamic insurgents in Chechnya and neighboring regions in the volatile North Caucasus.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T20:02:41Z</dc:date>
+  </entry>
+  <entry>
     <title>Malaysia foils attacks in capital by suspected militants</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3056044/Malaysia-foils-attacks-capital-suspected-militants.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

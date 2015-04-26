@@ -4,6 +4,63 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Man who threatened Ferguson officer must stay off Facebook</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-03-19-US-Ferguson-Facebook-Threats/id-655f209e055f4ba9aa0aaa5c1ef7efd9" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T14:10:00Z</updated>
+    <published>2015-03-19T14:10:00Z</published>
+    <summary type="html">&lt;p&gt;SEATTLE (AP) - A judge says a Washington state man who posted threatening comments on Facebook against a former Ferguson, Missouri, police officer can avoid prison but must stay off from social media sites.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T14:10:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Giuliani blames Obama for Ferguson shootings, other unrest</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article14046791.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T22:39:07Z</updated>
+    <published>2015-03-13T22:39:07Z</published>
+    <summary type="html">&lt;p&gt;Former New York Mayor Rudolph Giuliani (joo-lee-AH'-nee) says President Barack Obama is to blame for the police shootings in Ferguson, Missouri, and other disturbing events because he sets the tone for the nation.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T22:39:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Obama banters with Kimmel, reflects on Ferguson</title>
+    <link rel="alternate" href="http://news.yahoo.com/obama-banters-kimmel-reflects-ferguson-024826936.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T03:28:13Z</updated>
+    <published>2015-03-13T03:28:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-13T03:28:13Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Ferguson police chief resigns</title>
+    <link rel="alternate" href="http://www.mercurynews.com/crime-courts/ci_27691377/ferguson-police-chief-resigns?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-11T21:28:13Z</updated>
+    <published>2015-03-11T21:28:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-11T21:28:13Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0311/20150311__thomasjackson%7E1_300.JPG" />
+  </entry>
+  <entry>
+    <title>Ferguson judge named in DOJ report resigns</title>
+    <link rel="alternate" href="http://www.upi.com/Top_News/US/2015/03/10/Ferguson-judge-named-in-DOJ-report-resigns/2021425979958/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T11:32:43Z</updated>
+    <published>2015-03-10T11:32:43Z</published>
+    <summary type="html">&lt;p&gt;"Mr. Brockmeyer recognizes that the Department of Justice report, as well as recent media reports, regardless of their accuracy or validity, have diminished the public's confidence in the Ferguson Municipal Court."&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T11:32:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Robinson pleased with Ferguson progress</title>
     <link rel="alternate" href="http://www.smh.com.au//breaking-news-sport/robinson-pleased-with-ferguson-progress-20150324-3sqml.html" />
     <author>
@@ -814,17 +871,6 @@
     <dc:date>2015-03-19T16:15:24Z</dc:date>
   </entry>
   <entry>
-    <title>Man who threatened Ferguson officer must stay off Facebook</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-03-19-US-Ferguson-Facebook-Threats/id-655f209e055f4ba9aa0aaa5c1ef7efd9" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T14:10:00Z</updated>
-    <published>2015-03-19T14:10:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-19T14:10:00Z</dc:date>
-  </entry>
-  <entry>
     <title>Ferguson police shooting suspect returns to court</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article14840633.html%23storylink=rss" />
     <author>
@@ -997,17 +1043,6 @@
     <published>2015-03-14T17:57:19Z</published>
     <summary type="html">&lt;p&gt;A Ferguson convenience store that was looted and burned after the fatal shooting of Michael Brown will be rebuilt as a job training center.&lt;/p&gt;</summary>
     <dc:date>2015-03-14T17:57:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Giuliani blames Obama for Ferguson shootings, other unrest</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article14046791.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-13T22:39:07Z</updated>
-    <published>2015-03-13T22:39:07Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-13T22:39:07Z</dc:date>
   </entry>
   <entry>
     <title>Calm prevails in Ferguson after shooting of police officers</title>
