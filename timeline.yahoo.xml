@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mets ace Matt Harvey slows Yankees in 8-2 win (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/mets-ace-matt-harvey-slows-yankees-8-2-231104654--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T23:21:21Z</updated>
+    <published>2015-04-25T23:21:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-25T23:21:21Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/gWF6L2kTUs_3K0IGpyhx1w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM5MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504251554572529288" />
+  </entry>
+  <entry>
+    <title>Rain postpones NASCAR race at Richmond until Sunday (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/rain-postpones-nascar-race-richmond-until-sunday-221101914--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T22:39:03Z</updated>
+    <published>2015-04-25T22:39:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-25T22:39:03Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/APD8G8W196108q7EfSS.kg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504251633596289417" />
+  </entry>
+  <entry>
     <title>Rangers head to 2nd round, await Capitals or Islanders (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/rangers-head-2nd-round-await-capitals-islanders-064714652--nhl.html" />
     <author>
