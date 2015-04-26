@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chilean officials downgrade chance for major eruption at volcano; residents begin clean-up</title>
+    <link rel="alternate" href="http://www.startribune.com/world/301321871.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T01:47:42Z</updated>
+    <published>2015-04-26T01:47:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-26T01:47:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Chile volcano ash cloud reaches Brazil</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/25/chile-volcano-ash-cloud-reaches-brazil" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T00:12:43Z</updated>
+    <published>2015-04-26T00:12:43Z</published>
+    <summary type="html">&lt;p&gt;SANTIAGO - Ash from the Chilean volcano Calbuco, which erupted without warning this week, reached as far as southern Brazil on Saturday and prompted some airlines to cancel flights to the capitals of Chile, Argentina and Uruguay.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T00:12:43Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297692592245_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Volcano Still Active, but Chile No Longer Fears Major Blast</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/volcano-active-chile-longer-expects-3rd-blast-30584389" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FBI Investigating Possible Islamic State Terrorism Plot In U.S.: Report</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/25/islamic-state-us_n_7144242.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T23:04:00Z</updated>
+    <published>2015-04-25T23:04:00Z</published>
+    <summary type="html">&lt;p&gt;A Federal law enforcement official who asked not to be named said there was a known threat to Los Angeles International Airport, but did not say whether this was a new threat or was associated with Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-04-25T23:04:00Z</dc:date>
+  </entry>
+  <entry>
     <title>FBI investigating possible Islamic State terrorism plot in the U.S.: CNN</title>
     <link rel="alternate" href="http://news.yahoo.com/fbi-investigating-possible-islamic-state-terrorism-plot-u-213424817.html" />
     <author>
