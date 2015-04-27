@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama, EU to put more costs on Russia if needed</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102474567" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T00:25:00Z</updated>
+    <published>2015-03-04T00:25:00Z</published>
+    <summary type="html">&lt;p&gt;The top U.S. military officer, Joint Chiefs of Staff Chairman Martin Dempsey, told a Senate hearing on Tuesday the United States should "absolutely" consider providing lethal weapons to Ukraine.&lt;/p&gt;&lt;p&gt;Later this week, Ukraine's parliament is expected to back Ukrainian President Petro Poroshenko's request for international peacekeepers to monitor the conflict.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T00:25:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/02/27/102463527-RTR4Q5RW.530x298.jpg?v=1425994920" />
+  </entry>
+  <entry>
+    <title>News24.com | Battle rages for town where Ukraine rebels reject ceasefire</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Battle-rages-for-town-where-Ukraine-rebels-reject-ceasefire-20150217" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-17T07:02:45Z</updated>
+    <published>2015-02-17T07:02:45Z</published>
+    <summary type="html">&lt;p&gt;Merkel, along with the leaders of France and Ukraine, expressed concern about continued fighting in Debaltseve and said observers from the Organisation for Security and Cooperation in Europe (OSCE) must have "free access" for their work in eastern Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-02-17T07:02:45Z</dc:date>
+    <media:content url="http://cdn.24.co.za/files/Cms/General/d/2979/7d4523ca6159454a9313b97b0087ae09.jpg" />
+  </entry>
+  <entry>
     <title>Ukraine marks 29 years since Chernobyl disaster</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Ukraine-marks-29-years-since-Chernobyl-disaster/articleshow/47064468.cms" />
     <author>
@@ -527,18 +551,6 @@
     <published>2015-03-11T10:40:59Z</published>
     <summary type="html">&lt;p&gt;NATO Secretary-General Jens Stoltenberg said on Wednesday that Russia was still arming and training rebel forces in eastern Ukraine and he called for the warring parties to help foreign monitors to reinforce a ceasefire.&lt;/p&gt;</summary>
     <dc:date>2015-03-11T10:40:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Obama, EU to put more costs on Russia if needed</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102474567" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-04T00:25:00Z</updated>
-    <published>2015-03-04T00:25:00Z</published>
-    <summary type="html">&lt;p&gt;The top U.S. military officer, Joint Chiefs of Staff Chairman Martin Dempsey, told a Senate hearing on Tuesday the United States should "absolutely" consider providing lethal weapons to Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-03-04T00:25:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/02/27/102463527-RTR4Q5RW.530x298.jpg?v=1425994920" />
   </entry>
   <entry>
     <title>Ukraine hikes benchmark interest rate to 30 percent</title>

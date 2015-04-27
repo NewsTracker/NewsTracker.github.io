@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Stock futures up ahead of Apple earnings, Fed meeting later this week</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/stock-futures-ahead-apple-earnings-112704163.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T11:27:04Z</updated>
+    <published>2015-04-27T11:27:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T11:27:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Review: Getting Your Apple Watch? Here's How to Use It</title>
     <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/review-apple-watch-30547349" />
     <author>
