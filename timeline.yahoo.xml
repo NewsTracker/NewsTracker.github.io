@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Wall, Beal lead Wiz past Raptors 125-94 in Game 4 for sweep (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/wall-beal-lead-wiz-past-raptors-125-94-012354458--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T02:57:33Z</updated>
+    <published>2015-04-27T02:57:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T02:57:33Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Busch leads 291 laps in dominating Richmond victory (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/busch-leads-291-laps-dominating-richmond-victory-203857587--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T22:43:14Z</updated>
+    <published>2015-04-26T22:43:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-26T22:43:14Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/VPjO39sOwFfqKivexyoaPA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504261551570902888" />
+  </entry>
+  <entry>
     <title>Orioles get 20 hits in 18-7 rout of Red Sox (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/orioles-20-hits-18-7-rout-red-sox-210452942--mlb.html" />
     <author>
