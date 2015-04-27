@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>A week after Vanuatu cyclone, some homeless still await help</title>
+    <link rel="alternate" href="http://news.yahoo.com/week-vanuatu-cyclone-homeless-still-await-help-101105814.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T10:11:05Z</updated>
+    <published>2015-03-20T10:11:05Z</published>
+    <summary type="html">&lt;p&gt;"People came in on the evening of the cyclone with their own food, water and whatever they need for the night of the cyclone," Regina said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T10:11:05Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/L230lz2zUfe7TQnMdx.qCg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-03-20T101633Z_1_LYNXMPEB2J0EV_RTROPTP_2_WEATHER-VANUATU-CYCLONE.JPG" />
+  </entry>
+  <entry>
+    <title>Cyclone survivors desperate for aid</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/cyclone-survivors-desperate-for-aid-31078978.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T06:16:16Z</updated>
+    <published>2015-03-19T06:16:16Z</published>
+    <summary type="html">&lt;p&gt;With power, phones and Internet still down across much of the country, officials faced logistical headaches in sorting out where to send supplies, particularly in Tanna Island, which was hit hard by Cyclone Pam's 168mph winds.&lt;/p&gt;&lt;p&gt;Many locals rode out the cyclone in larger buildings such as schools and churches - a practice that relief groups have impressed upon Vanuatuans as a life-saving measure during storms.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T06:16:16Z</dc:date>
+    <media:content url="http://cdn2.belfasttelegraph.co.uk/news/world-news/article31078977.ece/6c0ef/ALTERNATES/h342/PANews%20BT_P-0b0c985e-58e1-4edc-b7b5-a39a1102574f_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Vanuatu after Cyclone Pam: Risk of hunger and disease rises</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/vanuatu-after-cyclone-pam-risk-of-hunger-and-disease-rises-20150318-1m2i1t.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T11:19:49Z</updated>
+    <published>2015-03-18T11:19:49Z</published>
+    <summary type="html">&lt;p&gt;A young boy looks at the debris of his home, badly damaged by Cyclone Pam on the Vanuatu island of Tanna on March 18.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T11:19:49Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/2/i/z/o/image.related.articleLeadwide.620x349.1m2i1t.png/1426698611239.jpg" />
+  </entry>
+  <entry>
+    <title>Volvo Ocean Race boats depart Auckland after cyclone delay</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;amp;objectid=11419235&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T01:01:20Z</updated>
+    <published>2015-03-18T01:01:20Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-18T01:01:20Z</dc:date>
+  </entry>
+  <entry>
     <title>U.N. targets shelter, water in $29.9 million appeal for cyclone-hit Vanuatu</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/24/us-weather-vanuatu-aid-unappeal-idUSKBN0MK2AE20150324?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
@@ -59,18 +106,6 @@
     <summary type="html">&lt;p&gt;As Cyclone Pam ripped at the roof of Manua School, a group of men, women and children pulled desperately on electrical cable keeping them from harm.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T11:35:33Z</dc:date>
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/6/z/1/1/image.related.thumbnail.90x60.1m733u.png/1427245753610.jpg" />
-  </entry>
-  <entry>
-    <title>Vanuatu after Cyclone Pam: Risk of hunger and disease rises</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/vanuatu-after-cyclone-pam-risk-of-hunger-and-disease-rises-20150318-1m2i1t.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T11:19:49Z</updated>
-    <published>2015-03-18T11:19:49Z</published>
-    <summary type="html">&lt;p&gt;A young boy looks at the debris of his home, badly damaged by Cyclone Pam on the Vanuatu island of Tanna on March 18.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T11:19:49Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/2/i/z/o/image.related.articleLeadwide.620x349.1m2i1t.png/1426698611239.jpg" />
   </entry>
   <entry>
     <title>Cyclone Pam: At least eight Australians missing in Vanuatu</title>
@@ -211,18 +246,6 @@
     <media:content url="http://ww4.hdnux.com/photos/35/23/12/7680667/7/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>A week after Vanuatu cyclone, some homeless still await help</title>
-    <link rel="alternate" href="http://news.yahoo.com/week-vanuatu-cyclone-homeless-still-await-help-101105814.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T10:11:05Z</updated>
-    <published>2015-03-20T10:11:05Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-20T10:11:05Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/L230lz2zUfe7TQnMdx.qCg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-03-20T101633Z_1_LYNXMPEB2J0EV_RTROPTP_2_WEATHER-VANUATU-CYCLONE.JPG" />
-  </entry>
-  <entry>
     <title>Thousands wait for relief in Vanuatu as death toll hits 13</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/thousands-wait-for-relief-in-vanuatu-as-death-toll-hits-13-1.2289009" />
     <author>
@@ -254,18 +277,6 @@
     <published>2015-03-19T13:16:58Z</published>
     <summary type="html" />
     <dc:date>2015-03-19T13:16:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Cyclone survivors desperate for aid</title>
-    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/cyclone-survivors-desperate-for-aid-31078978.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T06:16:16Z</updated>
-    <published>2015-03-19T06:16:16Z</published>
-    <summary type="html">&lt;p&gt;With power, phones and Internet still down across much of the country, officials faced logistical headaches in sorting out where to send supplies, particularly in Tanna Island, which was hit hard by Cyclone Pam's 168mph winds.&lt;/p&gt;</summary>
-    <dc:date>2015-03-19T06:16:16Z</dc:date>
-    <media:content url="http://cdn2.belfasttelegraph.co.uk/news/world-news/article31078977.ece/6c0ef/ALTERNATES/h342/PANews%20BT_P-0b0c985e-58e1-4edc-b7b5-a39a1102574f_I1.jpg" />
   </entry>
   <entry>
     <title>Great Barrier Reef braces for cyclone hit</title>

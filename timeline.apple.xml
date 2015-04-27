@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Discover discovers Apple Pay for its US cardholders</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Discover-to-have-Apple-Pay-available-for-US-6225920.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T13:24:46Z</updated>
+    <published>2015-04-27T13:24:46Z</published>
+    <summary type="html">&lt;p&gt;With Apple Pay, credit card numbers are not stored on the device or on Apple servers.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T13:24:46Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/00/70/7867905/3/landscape_32.jpg" />
+  </entry>
+  <entry>
+    <title>Discover discovers Apple Pay for its US cardholders</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Discover-to-have-Apple-Pay-available-for-US-6225920.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T13:24:46Z</updated>
+    <published>2015-04-27T13:24:46Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - U.S. users of Discover cards are getting their Apple Pay, the last holdout among major credit card networks in the country.&lt;/p&gt;&lt;p&gt;Discover customers will also be able to use Apple Pay with iPad Air 2 and iPad mini 3 when paying for goods and services within apps starting in the fall.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T13:24:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>US STOCKS-Wall St to open up ahead of Apple earnings, Fed meeting later this week</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/27/markets-stocks-usa-idUSL4N0XO4PW20150427?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T13:09:08Z</updated>
+    <published>2015-04-27T13:09:08Z</published>
+    <summary type="html">&lt;p&gt;April 27 (Reuters) - U.S. stock index futures pointed to a modestly higher open on Monday after the Nasdaq and S&amp;P 500 chalked up record high closes on Friday and ahead of Apple's results after the close.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T13:09:08Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources_v2/images/rcom-logo-hdr.png" />
+  </entry>
+  <entry>
     <title>Stock futures up ahead of Apple earnings, Fed meeting later this week</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/stock-futures-ahead-apple-earnings-112704163.html" />
     <author>
