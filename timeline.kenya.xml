@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Thailand seizes 3 tons of elephant tusks smuggled from Kenya</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/26/thailand-seizes-3-tons-of-elephant-tusks-smuggled/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T05:22:15Z</updated>
+    <published>2015-04-27T05:22:15Z</published>
+    <summary type="html">&lt;p&gt;He said Monday that the ivory was shipped out of Kenya last month and arrived at the Thai port on Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T05:22:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Kipchoge wins his 1st London Marathon in Kenyan top 4</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/sports/article19579680.html%23storylink=rss" />
     <author>
