@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.obamacare.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>16 million Americans gained health coverage under Obamacare, HHS says</title>
+    <link rel="alternate" href="http://rt.com/usa/241321-16-millions-americans-health-insured/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T04:01:47Z</updated>
+    <published>2015-03-17T04:01:47Z</published>
+    <summary type="html">&lt;p&gt;By the first quarter of 2015, that number dropped by just over 12 percent, leaving 29.5 million without insurance.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T04:01:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Obamacare push powers ahead in Montana, fading in other states</title>
     <link rel="alternate" href="http://news.yahoo.com/obamacare-push-powers-ahead-montana-fading-other-states-030005774--sector.html" />
     <author>

@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.aurora.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Northern Lights move south: Magnetic storm reveals aurora borealis in Central Russia</title>
+    <link rel="alternate" href="http://rt.com/news/241845-aurora-borealis-central-russia/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T12:29:25Z</updated>
+    <published>2015-03-18T12:29:25Z</published>
+    <summary type="html">&lt;p&gt;Residents of Moscow and St. Petersburg are likely to see the Northern Lights for a second night.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T12:29:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Aurora borealis? At this time of year? In this part of the country?</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/canada/kitchener-waterloo/did-you-see-the-aurora-borealis-last-night-1.2999494?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T11:49:33Z</updated>
+    <published>2015-03-18T11:49:33Z</published>
+    <summary type="html">&lt;p&gt;Did you see the aurora borealis last night?&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T11:49:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Trial against Aurora theater shooter James Holmes begins</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/crime/trial-aurora-theater-shooter-james-holmes-begins-article-1.2200174" />
     <author>

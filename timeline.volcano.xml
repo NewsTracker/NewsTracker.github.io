@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson Police Showed Racial Bias: Justice Department Report</title>
+    <link rel="alternate" href="http://www.rollingstone.com/culture/news/ferguson-police-showed-racial-bias-justice-department-report-20150303" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T22:13:00Z</updated>
+    <published>2015-03-03T22:13:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-03T22:13:00Z</dc:date>
+    <media:content url="http://assets.rollingstone.com/assets/2015/article/ferguson-police-showed-racial-bias-justice-department-report-20150303/187855/medium_rect/1425415840/720x405-453768628.jpg" />
+  </entry>
+  <entry>
     <title>Soldiers clear ash from around Chile's Calbuco volcano</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3056944/Soldiers-clear-ash-Chiles-Calbuco-volcano.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

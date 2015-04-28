@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Following deadly Nepal quake and avalanche, climbers say Everest season is over</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/301590211.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T19:40:40Z</updated>
+    <published>2015-04-28T19:40:40Z</published>
+    <summary type="html">&lt;p&gt;"The next climbing season is a year away and right now we're more focused on Nepal and taking care of the communities that are there," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T19:40:40Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest on Nepal Quake: Choppers ferry injured to Gorkha</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/The-Latest-on-Nepal-Quake-Death-toll-4-438-in-3-6227773.php" />
     <author>
