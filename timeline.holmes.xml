@@ -1,6 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: holmes</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>The Latest: Courthouse empties after Day 1 of Holmes trial</title>
+    <link rel="alternate" href="http://news.yahoo.com/latest-theater-shooters-parents-arrive-courthouse-145056313.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T02:02:18Z</updated>
+    <published>2015-04-28T02:02:18Z</published>
+    <summary type="html">&lt;p&gt;Court has adjourned for the day in the Colorado theater shooting trial after James Holmes' attorneys completed their opening statement.&lt;/p&gt;&lt;p&gt;An attorney for the man who opened fire in a crowded Colorado movie theater says James Holmes experienced a break with reality months before the shooting, soon after he turned 24.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T02:02:18Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>The Latest: Courthouse empties after Day 1 of Holmes trial</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/crime/article/The-Latest-Theater-shooter-s-parents-arrive-at-6226132.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T00:12:18Z</updated>
+    <published>2015-04-28T00:12:18Z</published>
+    <summary type="html">&lt;p&gt;A defense attorney has showed jurors a video of James Holmes shortly after his arrest in a deadly 2012 rampage at a Colorado movie theater.&lt;/p&gt;&lt;p&gt;During opening statements of the Colorado theater shooting trial, James Holmes' attorney showed home videos of his client as a boy and told jurors that Holmes was a "good kid who tried hard."&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T00:12:18Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/04/63/7884017/3/gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>The Latest: Courthouse empties after Day 1 of Holmes trial</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article19712010.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T00:12:11Z</updated>
+    <published>2015-04-28T00:12:11Z</published>
+    <summary type="html">&lt;p&gt;An attorney for the Colorado theater shooter has cited a history of mental illness on both sides of James Holmes' family, including an aunt with schizophrenic affective disorder.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T00:12:11Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>The Latest: Defender says Holmes was insane during attack</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article19712010.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:44:04Z</updated>
+    <published>2015-04-27T21:44:04Z</published>
+    <summary type="html">&lt;p&gt;A steady stream of people walked into the courthouse on a gray and drizzly morning on the opening day of the trial of James Holmes in the 2012 Colorado theater shooting.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:44:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>The Latest: Defender says Holmes was insane during attack</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article19712010.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:44:04Z</updated>
+    <published>2015-04-27T21:44:04Z</published>
+    <summary type="html">&lt;p&gt;A prosecutor says James Holmes considered other locations and methods for his attack, including biological warfare, before deciding on a mass shooting at a suburban Denver movie theater.&lt;/p&gt;&lt;p&gt;James Holmes acknowledges killing 12 people and wounding 70 more in a packed Aurora theater in July 2012, but he has pleaded not guilty by reason of insanity.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:44:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>The Latest: Defender says Holmes was insane during attack</title>
+    <link rel="alternate" href="http://news.yahoo.com/latest-theater-shooters-parents-arrive-courthouse-145056313.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:41:45Z</updated>
+    <published>2015-04-27T21:41:45Z</published>
+    <summary type="html">&lt;p&gt;An attorney for Colorado theater shooter James Holmes says every doctor who has evaluated his client has found he suffers from a serious psychotic illness, and isn't faking it.&lt;/p&gt;&lt;p&gt;Public defender Daniel King said during his opening statement in Holmes' trial that his client was having a psychotic break and was not in control of his thoughts, his actions or "what he perceived as reality" at the time of the attack.&lt;/p&gt;&lt;p&gt;District Attorney George Brauchler showed jurors photographs of the elaborate booby trap that Colorado theater shooter James Holmes set up in his apartment.&lt;/p&gt;&lt;p&gt;The prosecutor in the Colorado movie theater shooting trial says for four months after his arrest, James Holmes was on no medication and seemed sane.&lt;/p&gt;&lt;p&gt;The prosecutor in the Colorado movie theater shooting trial has played a video recording of one of James Holmes' psychiatric evaluations in which Holmes says he "only counts fatalities" in the attack and those wounded were "collateral damage."&lt;/p&gt;&lt;p&gt;The judge in the Colorado theater shooting trial is explaining to the jury that they must decide whether or not James Holmes was sane at the time of the attack.&lt;/p&gt;&lt;p&gt;The parents of Colorado theater shooter James Holmes have been seen waiting in line to get into the suburban Denver courthouse where Holmes' long-awaited death penalty trial is getting underway.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:41:45Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>The Latest: Defender says Holmes was insane during attack</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/The-Latest-Theater-shooter-s-parents-arrive-at-6226132.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:41:26Z</updated>
+    <published>2015-04-27T21:41:26Z</published>
+    <summary type="html">&lt;p&gt;As the trial begins, the key won't be whether he caused the carnage, but whether Holmes was sane at the time of the killings.&lt;/p&gt;&lt;p&gt;A public defender says James Holmes was insane when he opened fire in a crowded Colorado movie theater in 2012.&lt;/p&gt;&lt;p&gt;A prosecutor says James Holmes' decision to dye his bright hair red before opening fire in a Colorado movie theater had nothing to do with wanting to look like the Joker from Batman.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:41:26Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/04/63/7883969/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>The Latest: Defender says Holmes was insane during attack</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/27/the-latest-theater-shooters-parents-arrive-at-courthouse" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:41:26Z</updated>
+    <published>2015-04-27T21:41:26Z</published>
+    <summary type="html">&lt;p&gt;Holmes has pleaded not guilty by reason of insanity to killing 12 people and injuring 70 in the 2012 attack.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:41:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>James Holmes' Insanity Plea Challenged as Trial Begins</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/aurora-shooting-trial-james-holmes-insanity-plea-challenged/story?id=30619051" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:15:57Z</updated>
+    <published>2015-04-27T21:15:57Z</published>
+    <summary type="html">&lt;p&gt;PHOTO: James Holmes is pictured in court in Centennial, Colo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:15:57Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/US/ap_james_holmes_kb_150427_4x3_992.jpg" />
+  </entry>
+  <entry>
+    <title>James Holmes studied brain disorders before Auroa movie theater mass murder</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3056218/Batman-killer-studied-brain-disorders-mass-murder.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T12:02:30Z</updated>
+    <published>2015-04-27T12:02:30Z</published>
+    <summary type="html">&lt;p&gt;Psychosis is something Holmes knew all about.&lt;/p&gt;&lt;p&gt;They pointed out that Holmes searched online for 'rational insanity,' and took haunting selfies the night of the shooting that show him sticking out his tongue and smiling with a Glock under his face.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T12:02:30Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/26/article-urn:publicid:ap.org:32134cdf4fe14a528a6eb31fb2d2dba1-6Y50JySDu-HSK1-530_634x786.jpg" />
+  </entry>
+  <entry>
+    <title>James Holmes' Movie Theater Massacre Trial Set to Begin</title>
+    <link rel="alternate" href="http://www.nbcnews.com/news/us-news/james-holmes-trial-set-start-nearly-3-years-after-movie-n348676" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T00:42:37Z</updated>
+    <published>2015-04-27T00:42:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T00:42:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tom Cruise, Katie Holmes not on speaking terms: report</title>
+    <link rel="alternate" href="http://jam.canoe.ca/Celebrities/2015/03/19/22297216.html?cid=rssentertainment" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T18:04:44Z</updated>
+    <published>2015-03-19T18:04:44Z</published>
+    <summary type="html">&lt;p&gt;Holmes filed for divorce in 2012.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T18:04:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tom Cruise, Katie Holmes not on speaking terms: report</title>
+    <link rel="alternate" href="http://jam.canoe.ca/Celebrities/2015/03/19/22297216.html?cid=rssentertainmentcelebrities" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T18:04:44Z</updated>
+    <published>2015-03-19T18:04:44Z</published>
+    <summary type="html">&lt;p&gt;Tom Cruise and Katie Holmes are no longer speaking to each other, according to TMZ.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T18:04:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Katie Holmes has been 'seeing Jamie Foxx for more than a year'?</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/tvshowbiz/article-2999245/Katie-Holmes-seeing-Jamie-Foxx-year-s-serious.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T15:16:17Z</updated>
+    <published>2015-03-18T15:16:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-18T15:16:17Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/17/269E9B2F00000578-2999245-image-a-41_1426613388520.jpg" />
+  </entry>
+  <entry>
+    <title>Katie Holmes, Tom Cruise not on speaking terms</title>
+    <link rel="alternate" href="http://pagesix.com/2015/03/18/katie-holmes-and-tom-cruise-are-not-on-speaking-terms/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T13:20:26Z</updated>
+    <published>2015-03-18T13:20:26Z</published>
+    <summary type="html">&lt;p&gt;Things are not good between Katie Holmes and Tom Cruise.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T13:20:26Z</dc:date>
+  </entry>
 </feed>

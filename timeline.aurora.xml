@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: aurora</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.aurora.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Trial against Aurora theater shooter James Holmes begins</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/crime/trial-aurora-theater-shooter-james-holmes-begins-article-1.2200174" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T10:42:41Z</updated>
+    <published>2015-04-27T10:42:41Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T10:42:41Z</dc:date>
+  </entry>
 </feed>

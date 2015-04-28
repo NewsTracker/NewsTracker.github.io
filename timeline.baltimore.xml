@@ -1,6 +1,467 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: baltimore</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Baltimore deploys Guard troops as riots erupt</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3058623/Baltimore-deploys-Guard-troops-riots-erupt.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T07:12:34Z</updated>
+    <published>2015-04-28T07:12:34Z</published>
+    <summary type="html">&lt;p&gt;Thousands of police and National Guard troopers were ordered to back up beleaguered officers in Baltimore on Tuesday after riots triggered by anger over the death of a black man in police custody.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T07:12:34Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/28/article-doc-1z7qf-6Y7USAxgKHSK2-703_634x423.jpg" />
+  </entry>
+  <entry>
+    <title>Baltimore racked by violence; governor calls out National Guard</title>
+    <link rel="alternate" href="http://www.latimes.com/nation/la-na-freddie-gray-funeral-baltimore-20150427-story.html?track=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T06:03:00Z</updated>
+    <published>2015-04-28T06:03:00Z</published>
+    <summary type="html">&lt;p&gt;Rioters in the streets of Baltimore are looting stores.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T06:03:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Riots in Baltimore over man's death in police custody</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19698738.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T03:59:04Z</updated>
+    <published>2015-04-28T03:59:04Z</published>
+    <summary type="html">&lt;p&gt;A brick sits on a street as police standby, Monday, April 27, 2015, during a skirmish with demonstrators after the funeral of Freddie Gray in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T03:59:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Riots in Baltimore over man's death in police custody</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Thousands-expected-at-Monday-s-funeral-for-6225679.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T03:49:31Z</updated>
+    <published>2015-04-28T03:49:31Z</published>
+    <summary type="html">&lt;p&gt;Firefighters battle a blaze, Monday, April 27, 2015, after rioters plunged part of Baltimore into chaos, torching a pharmacy, setting police cars ablaze and throwing bricks at officers.&lt;/p&gt;&lt;p&gt;Residents watch as Baltimore police officers clash with protesters in the streets near Mondawmin Mall April 27, 2015 in Baltimore, Maryland.&lt;/p&gt;&lt;p&gt;A mourner embraces Gloria Darden, left, mother of Freddie Gray, before Gray's funeral, Monday, April 27, 2015, at New Shiloh Baptist Church in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T03:49:31Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/05/27/7886331/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Riot, looting prompt state of emergency, curfew in Baltimore</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19698738.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T01:59:06Z</updated>
+    <published>2015-04-28T01:59:06Z</published>
+    <summary type="html">&lt;p&gt;Rep. Elijah Cummings, D-Md., addresses mourners at a funeral for Freddie Gray, Monday, April 27, 2015, at New Shiloh Baptist Church in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T01:59:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>AP PHOTOS: Riots Hit Baltimore After Freddie Gray Funeral</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/ap-photos-riots-hit-baltimore-freddie-gray-funeral-30630252" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T01:43:13Z</updated>
+    <published>2015-04-28T01:43:13Z</published>
+    <summary type="html">&lt;p&gt;Rioting erupted in Baltimore on Monday evening, following the funeral of the black man who died in police custody after suffering a severe spinal cord injury.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T01:43:13Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
+    <title>AP PHOTOS: Riots hit Baltimore after Freddie Gray funeral</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/us/article/AP-PHOTOS-Riots-hit-Baltimore-after-Freddie-Gray-6227382.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T01:42:10Z</updated>
+    <published>2015-04-28T01:42:10Z</published>
+    <summary type="html">&lt;p&gt;A demonstrator taunts police as they respond to thrown objects, Monday, April 27, 2015, after the funeral of Freddie Gray in Baltimore.&lt;/p&gt;&lt;p&gt;EDS NOTE: OBSCENE GESTURES - People stand on top of a Baltimore police car in Baltimore on Monday, April 27, 2015, during unrest following the funeral of Freddie Gray.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T01:42:10Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/05/27/7886326/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Baltimore erupts in riots after funeral of man who died in police custody</title>
+    <link rel="alternate" href="http://news.yahoo.com/baltimore-erupts-riots-funeral-man-died-police-custody-001935295.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T01:41:38Z</updated>
+    <published>2015-04-28T01:41:38Z</published>
+    <summary type="html">&lt;p&gt;The riots broke out just a few blocks from the funeral of Freddie Gray and then spread through much of West Baltimore in the most violent U.S. demonstrations since arson and shooting in Ferguson, Missouri, last year.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T01:41:38Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Maryland governor declares state of emergency over Baltimore violence</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3058302/Maryland-governor-declares-state-emergency-Baltimore-violence.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T00:01:58Z</updated>
+    <published>2015-04-28T00:01:58Z</published>
+    <summary type="html">&lt;p&gt;April 27 (Reuters) - Maryland Governor Larry Hogan declared a state of emergency and activated the National Guard to address the violence in Baltimore, his office said on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T00:01:58Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/27/09/280D0B3900000578-0-image-m-62_1430124067629.jpg" />
+  </entry>
+  <entry>
+    <title>Baltimore erupts in riots after funeral of man who died in police custody [Photos]</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/27/baltimore-police-threatened-as-funeral-held-for-man-who-died-in-custody" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T23:54:20Z</updated>
+    <published>2015-04-27T23:54:20Z</published>
+    <summary type="html">&lt;p&gt;Protesters hurled bricks, looted businesses and set fires in Baltimore on Monday in violence that injured at least seven police officers following the funeral of a 25-year-old black man who died after he was injured in police custody.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T23:54:20Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297693302107_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
+    <title>Maryland governor declares state of emergency in Baltimore over rioting</title>
+    <link rel="alternate" href="http://www.latimes.com/nation/la-na-freddie-gray-funeral-baltimore-20150427-story.html?track=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T23:35:00Z</updated>
+    <published>2015-04-27T23:35:00Z</published>
+    <summary type="html">&lt;p&gt;A man carries items from a store as police vehicles burn after the funeral of Freddie Gray in Baltimore on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T23:35:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Obama pledges help for Baltimore riots after Gray funeral</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3058249/Obama-pledges-help-Baltimore-riots-Gray-funeral.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T23:32:16Z</updated>
+    <published>2015-04-27T23:32:16Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - President Barack Obama is pledging the federal government's help to respond to riots that have broken out in Baltimore following the funeral of Freddie Gray.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T23:32:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Orioles' game in Baltimore postponed due to safety concerns (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/orioles-game-baltimore-postponed-due-safety-concerns-224004275--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T23:23:27Z</updated>
+    <published>2015-04-27T23:23:27Z</published>
+    <summary type="html">&lt;p&gt;Rioters looted stores and threw rocks and bricks at Baltimore police about three miles from the stadium in the wake of the mysterious death of Gray.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T23:23:27Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/pUIyJ5YzTz4RWi1w2YsAmg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504271740636094865" />
+  </entry>
+  <entry>
+    <title>State of Emergency Declared Amid Violent Clashes in Baltimore</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/hundreds-people-clash-police-baltimore-mall/story?id=30622868" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T23:19:51Z</updated>
+    <published>2015-04-27T23:19:51Z</published>
+    <summary type="html">&lt;p&gt;A man walks past a burning police vehicle, April 27, 2015, during unrest following the funeral of Freddie Gray in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T23:19:51Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/US/AP_baltimore_2_kab_150427_4x3_992.jpg" />
+  </entry>
+  <entry>
+    <title>Riots erupt in Baltimore after Freddie Gray funeral</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/28/state-emergency-declared-over-baltimore-violence" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T23:02:48Z</updated>
+    <published>2015-04-27T23:02:48Z</published>
+    <summary type="html">&lt;p&gt;Baltimore police initially showed restraint on Monday but then began arresting people and prepared to use teargas and pepper spray.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T23:02:48Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/baltimore_4.jpg?itok=xJaJ8EPD" />
+  </entry>
+  <entry>
+    <title>Baltimore clashes: violence flares after Freddie Gray's funeral</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11567160/Baltimore-clashes-violence-flares-after-Freddie-Grays-funeral.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:42:11Z</updated>
+    <published>2015-04-27T21:42:11Z</published>
+    <summary type="html">&lt;p&gt;Seven Baltimore police officers were injured on Monday as rioters threw bricks and stones and burned patrol cars in violent protests after the funeral of a black man who died in police custody.&lt;/p&gt;&lt;p&gt;The riots broke out just a few blocks from the site of the funeral of 25-year-old Freddie Gray in northwest Baltimore and then spread through other parts of the city, after local law enforcement warned of a threat by gangs.&lt;/p&gt;&lt;p&gt;Baltimore Police Captain Eric Kowalczyk said at a police briefing that one of the injured police officers was unresponsive and several had broken bones.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:42:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>US diplomat recalls racial tension in Baltimore</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article19709466.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T14:58:16Z</updated>
+    <published>2015-04-27T14:58:16Z</published>
+    <summary type="html">&lt;p&gt;A U.S. diplomat opened her speech on Iranian nuclear negotiations talking about how she grew up going to civil rights marches and says her father once helped baseball star Frank Robinson find a home in an all-white neighborhood of Baltimore.&lt;/p&gt;&lt;p&gt;The recent case of Freddie Gray, a 25-year-old black man who died after sustaining serious injuries while in the custody of Baltimore police, has intensified a national debate over police treatment of African-Americans.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T14:58:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Barack Obama to send aide to Freddie Gray funeral in Baltimore on Monday</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3056819/Obama-sends-aide-funeral-arrested-Baltimore-man.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T12:01:28Z</updated>
+    <published>2015-04-27T12:01:28Z</published>
+    <summary type="html">&lt;p&gt;The White House says the head of President Barack Obama's initiative for minority males will attend the funeral of a Baltimore man who died after sustaining serious injuries while in police custody.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T12:01:28Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/27/07/2807969700000578-3056819-image-a-54_1430114496734.jpg" />
+  </entry>
+  <entry>
+    <title>Thousands expected to attend Freddie Gray's funeral in Baltimore - Dozens arrested as Freddie Gray protests turn violent in Baltimore - VIDEO: Cops: Gray wasn't buckled into seatbelt</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/04/27/thousands-expected-to-attend-baltimore-funeral-for-freddie-gray/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T10:05:45Z</updated>
+    <published>2015-04-27T10:05:45Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - Thousands were expected Monday at a funeral for a man who died after sustaining serious spinal injuries while in the custody of Baltimore police.&lt;/p&gt;&lt;p&gt;Pastor Jamal Bryant, who was to deliver Gray's eulogy, said he expected Baltimore's New Shiloh Baptist Church to be filled for the service.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T10:05:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Thousands expected to attend Freddie Gray's funeral in Baltimore - Dozens arrested as Freddie Gray protests turn violent in Baltimore - VIDEO: Cops: Gray wasn't buckled into seatbelt</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/04/27/thousands-expected-to-attend-baltimore-funeral-for-freddie-gray/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T09:34:47Z</updated>
+    <published>2015-04-27T09:34:47Z</published>
+    <summary type="html">&lt;p&gt;Broderick Johnson, chairman of the My Brother's Keeper Task Force and a Baltimore native, is to be joined by two other administration officials, a White House statement said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T09:34:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Family, friends in Baltimore mourn death of arrested man</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Freddie-Gray-protests-turn-violent-in-Baltimore-6224531.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T00:18:44Z</updated>
+    <published>2015-04-27T00:18:44Z</published>
+    <summary type="html">&lt;p&gt;The body of Freddie Gray lies inside his casket at Vaughn Greene Funeral Home, during his wake Sunday, April 26, 2015 in Baltimore.&lt;/p&gt;&lt;p&gt;Caira Byrd hold support signs for Freddie Gray outside of Vaughn Greene Funeral Home, during his wake in Baltimore, Md., Sunday, April 26, 2015.&lt;/p&gt;&lt;p&gt;A child accepts a gift of a bag of chips from a police officer outside the Western District before a march to City Hall for Freddie Gray, Saturday, April 25, 2015 in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T00:18:44Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/03/56/7879580/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Family, friends in Baltimore mourn death of arrested man</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19578579.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T21:59:06Z</updated>
+    <published>2015-04-26T21:59:06Z</published>
+    <summary type="html">&lt;p&gt;Fans fill the aisles in the ballpark after being told not to leave for their own safety during the Baltimore Orioles and the Boston Red Sox baseball game, Saturday, April 25, 2015, in Baltimore.&lt;/p&gt;&lt;p&gt;Fredricka Gray, center, the twin sister of Freddie Gray, speaks during a media availability at City Hall, after violence occurred after a march for Freddie Gray, Saturday, April 25, 2015 in Baltimore.&lt;/p&gt;&lt;p&gt;A protestor reacts after breaking a restaurant window after a rally for Freddie Gray, Saturday, April 25, 2015, in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T21:59:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Family, friends in Baltimore mourn death of arrested man</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article19578579.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T21:59:06Z</updated>
+    <published>2015-04-26T21:59:06Z</published>
+    <summary type="html">&lt;p&gt;A night of violence gave way to a day of mourning Sunday for a man who died after sustaining serious injuries while in the custody of Baltimore police.&lt;/p&gt;&lt;p&gt;Police line a street in downtown Baltimore in response to protests that followed a rally for Freddie Gray, Saturday, April 25, 2015.&lt;/p&gt;&lt;p&gt;Police stand in helmets near Pratt Street after a march to City Hall for Freddie Gray, Saturday, April 25, 2015 in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T21:59:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Family, friends in Baltimore mourn death of arrested man</title>
+    <link rel="alternate" href="http://news.yahoo.com/freddie-gray-protests-turn-violent-baltimore-070616463.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T21:54:30Z</updated>
+    <published>2015-04-26T21:54:30Z</published>
+    <summary type="html">&lt;p&gt;Some 34 people were arrested, according to Baltimore Police Department, and six police officers sustained minor injuries.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T21:54:30Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Family, friends in Baltimore mourn death of arrested man</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/26/freddie-gray-protests-turn-violent-in-baltimore" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T21:54:15Z</updated>
+    <published>2015-04-26T21:54:15Z</published>
+    <summary type="html">&lt;p&gt;Gray was arrested one week before that when officers chased him through a West Baltimore neighborhood and dragged him into a police van.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T21:54:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>The Latest: Photographer says police beat him during protest</title>
+    <link rel="alternate" href="http://news.yahoo.com/latest-wake-held-man-died-arrest-185416753.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T21:39:40Z</updated>
+    <published>2015-04-26T21:39:40Z</published>
+    <summary type="html">&lt;p&gt;The women said they knew Baltimore had issues with police before Gray's death.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T21:39:40Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Photographer Says Baltimore Police Beat Him During Protest</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/photographer-baltimore-police-beat-protest-30599026" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T21:36:08Z</updated>
+    <published>2015-04-26T21:36:08Z</published>
+    <summary type="html">&lt;p&gt;J.M. Giordano, who works at the City Paper, says Baltimore police "swarmed over" him and hit him repeatedly.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T21:36:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Photographer says Baltimore police beat him during protest</title>
+    <link rel="alternate" href="http://news.yahoo.com/photographer-says-baltimore-police-beat-him-during-protest-203611903.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T21:35:24Z</updated>
+    <published>2015-04-26T21:35:24Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - A photo editor for a Baltimore newspaper says he was beaten by police at a protest over the death of Freddie Gray.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T21:35:24Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/U2XNBa938Rs9knnoth0gDg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/7aaf800bab99ba12740f6a70670045d4.jpg" />
+  </entry>
+  <entry>
+    <title>Former Baltimore Raven Ray Lewis sues attorney over failed MVP Lanes development project</title>
+    <link rel="alternate" href="http://www.startribune.com/entertainment/celebrities/296909331.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T18:10:34Z</updated>
+    <published>2015-03-19T18:10:34Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - Former Baltimore Ravens star Ray Lewis is suing his former attorney over a failed development project he says cost him $1.5 million.&lt;/p&gt;&lt;p&gt;The suit accuses the Baltimore lawyer of convincing Lewis to sign a $1.5 million line of credit for the project, and later asking for another $200,000.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T18:10:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Amazon.com introduces one-hour delivery to Baltimore, Miami</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article15333323.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T12:47:53Z</updated>
+    <published>2015-03-19T12:47:53Z</published>
+    <summary type="html">&lt;p&gt;In Miami and Baltimore, Prime Now is available from 8 a.m. to 10 p.m., seven days a week.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T12:47:53Z</dc:date>
+  </entry>
+  <entry>
+    <title>Amazon.com introduces one-hour delivery to Baltimore, Miami</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/03/19/amzaoncom-introduces-prime-now-to-baltimore-miami" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T11:52:23Z</updated>
+    <published>2015-03-19T11:52:23Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - Amazon.com is expanding its one-hour delivery Prime Now service to Baltimore and Miami.&lt;/p&gt;&lt;p&gt;The company says that the service will be expanded only to certain zip codes within Baltimore and Miami at first, but it plans to further expand within each city soon.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T11:52:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore Ravens RB Pierce charged with drunken driving</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/celebrities/article15234032.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T16:13:07Z</updated>
+    <published>2015-03-18T16:13:07Z</published>
+    <summary type="html">&lt;p&gt;Drafted in the third round of the 2002 draft out of Temple, Pierce started three games in three years with Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T16:13:07Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Baltimore Ravens running back Bernard Pierce charged with drunken driving</title>
+    <link rel="alternate" href="http://www.mercurynews.com/sports/ci_27735274/baltimore-ravens-running-back-bernard-pierce-charged-drunken?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T15:28:15Z</updated>
+    <published>2015-03-18T15:28:15Z</published>
+    <summary type="html">&lt;p&gt;He was released by Baltimore as soon as the investigation began.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T15:28:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore Ravens RB Pierce charged with drunken driving</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3000769/Baltimore-Ravens-RB-Pierce-charged-drunken-driving.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T15:04:11Z</updated>
+    <published>2015-03-18T15:04:11Z</published>
+    <summary type="html">&lt;p&gt;This undated handout provided by the Baltimore County Police Department shows Bernard Pierce.&lt;/p&gt;&lt;p&gt;Police in Maryland say Baltimore Ravens running back Bernard Pierce has been charged with drunken driving.&lt;/p&gt;&lt;p&gt;Baltimore County police say an officer stopped a Ford Mustang that was speeding around 2 a.m. Wednesday, March 18, 2015, in Towson, north of Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T15:04:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Three stabbed at Baltimore's Morgan State University: Report</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/Crime/2015/03/17/22292756.html?cid=rssnewscrime" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T21:13:10Z</updated>
+    <published>2015-03-17T21:13:10Z</published>
+    <summary type="html">&lt;p&gt;Three football players at Baltimore's Morgan State University were stabbed on campus on Tuesday and one was seriously injured, the Baltimore Sun reported.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T21:13:10Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore police say at least 3 stabbed on Morgan State University campus; 1 seriously hurt</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/296616041.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T19:45:26Z</updated>
+    <published>2015-03-17T19:45:26Z</published>
+    <summary type="html">&lt;p&gt;It was the third instance of violence on the Baltimore campus in less than a week.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T19:45:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore police say at least 3 people stabbed on Morgan State University campus in Maryland</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/17/baltimore-police-say-at-least-3-people-stabbed-on/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T19:37:42Z</updated>
+    <published>2015-03-17T19:37:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-17T19:37:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Police: 1 Stabbed at Morgan State University in Maryland</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/police-stabbed-morgan-state-university-maryland-29704841" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T19:27:09Z</updated>
+    <published>2015-03-17T19:27:09Z</published>
+    <summary type="html">&lt;p&gt;Baltimore police say one person was stabbed and seriously injured at Morgan State University in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T19:27:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>High court to hear appeal from Baltimore police officer</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/political/high-court-to-hear-appeal-from-baltimore-police-of/nkL9r/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-02T14:41:37Z</updated>
+    <published>2015-03-02T14:41:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-02T14:41:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ray Rice Apologizes to Baltimore for 'Horrible Mistake'</title>
+    <link rel="alternate" href="http://www.rollingstone.com/culture/news/ray-rice-apologizes-to-baltimore-for-horrible-mistake-20150214" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-14T19:52:00Z</updated>
+    <published>2015-02-14T19:52:00Z</published>
+    <summary type="html">&lt;p&gt;The last seven years that my family and I have spent in Baltimore have by far been the best of our lives.&lt;/p&gt;&lt;p&gt;Thank you, Baltimore Ravens, for all you have done for my family and I.&lt;/p&gt;&lt;p&gt;I love you all very much, and I'll always be proud to say I played for the Baltimore Ravens.&lt;/p&gt;</summary>
+    <dc:date>2015-02-14T19:52:00Z</dc:date>
+    <media:content url="http://assets.rollingstone.com/assets/2014/article/ray-rice-released-by-ravens-suspended-indefinitely-by-nfl-20140908/167577/small_square/100x100-459735313.jpg" />
+  </entry>
 </feed>
