@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cyclone Pam: At least eight Australians missing in Vanuatu</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/cyclone-pam-at-least-eight-australians-missing-in-vanuatu-20150318-1m2c2h.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T09:42:14Z</updated>
+    <published>2015-03-18T09:42:14Z</published>
+    <summary type="html">&lt;p&gt;Eight Australians are among 19 volunteer teachers missing in Vanuatu, five days after Cyclone Pam tore through the Pacific nation.&lt;/p&gt;&lt;p&gt;Zoe Marshall was in Vanuatu when cyclone Pam devastated the region.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T09:42:14Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/2/f/3/g/image.related.articleLeadwide.620x349.1m2c2h.png/1426823984253.jpg" />
+  </entry>
+  <entry>
     <title>A week after Vanuatu cyclone, some homeless still await help</title>
     <link rel="alternate" href="http://news.yahoo.com/week-vanuatu-cyclone-homeless-still-await-help-101105814.html" />
     <author>
@@ -106,18 +118,6 @@
     <summary type="html">&lt;p&gt;As Cyclone Pam ripped at the roof of Manua School, a group of men, women and children pulled desperately on electrical cable keeping them from harm.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T11:35:33Z</dc:date>
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/6/z/1/1/image.related.thumbnail.90x60.1m733u.png/1427245753610.jpg" />
-  </entry>
-  <entry>
-    <title>Cyclone Pam: At least eight Australians missing in Vanuatu</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/cyclone-pam-at-least-eight-australians-missing-in-vanuatu-20150318-1m2c2h.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T09:42:14Z</updated>
-    <published>2015-03-18T09:42:14Z</published>
-    <summary type="html">&lt;p&gt;Eight Australians are among 19 volunteer teachers missing in Vanuatu, five days after Cyclone Pam tore through the Pacific nation.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T09:42:14Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/m/2/f/3/g/image.related.articleLeadwide.620x349.1m2c2h.png/1426823984253.jpg" />
   </entry>
   <entry>
     <title>Round-world fleet sails again as cyclone subsides</title>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine says rebels firing rocket launchers again</title>
+    <link rel="alternate" href="http://news.yahoo.com/ukraine-says-rebels-using-rocket-launchers-080102990.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T09:51:01Z</updated>
+    <published>2015-04-28T09:51:01Z</published>
+    <summary type="html">&lt;p&gt;U.S. State Department spokesman Jeff Rathke said in Washington that Russia has deployed more air defense systems into eastern Ukraine and positioned several near the front lines.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T09:51:01Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/XYvOVgKOHtHXIkBEaqWhRg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/video/video.wochit.com/550f8bd85759838f2988d9008dffa579.cf.jpg" />
+  </entry>
+  <entry>
     <title>Ukraine eyes EU membership within 5 years</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/ukraine-eyes-eu-membership-within-5-years-1.2346438" />
     <author>
