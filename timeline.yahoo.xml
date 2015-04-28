@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Browns sign free-agent receiver Dwayne Bowe from Chiefs</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/sports/article15459260.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T15:58:01Z</updated>
+    <published>2015-03-20T15:58:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-20T15:58:01Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Syracuse's Boeheim: 2018 right to retire, but maybe sooner</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article15328337.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T17:33:04Z</updated>
+    <published>2015-03-19T17:33:04Z</published>
+    <summary type="html">&lt;p&gt;"I had no plans to coach this long. This investigation has made it imperative."&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T17:33:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>NFL relinquishing tax-exempt status (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/nfl-relinquishing-tax-exempt-status-171753379--nfl.html" />
     <author>

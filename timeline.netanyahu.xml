@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Israel's Netanyahu facing new scandal over bloated expenses</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/02/17/israels-netanyahu-facing-new-scandal-over-bloated-expenses" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-17T17:09:59Z</updated>
+    <published>2015-02-17T17:09:59Z</published>
+    <summary type="html">&lt;p&gt;Netanyahu's allies angrily dismissed the allegations as part of a campaign to deflect attention from important national security issues.&lt;/p&gt;&lt;p&gt;In a statement, Netanyahu said he respected the findings of the comptroller and pledged to implement recommendations to curb wasteful spending.&lt;/p&gt;&lt;p&gt;"There is absolutely no indication of any assault on the public's integrity and certainly no indication of any criminal transgressions," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-02-17T17:09:59Z</dc:date>
+  </entry>
+  <entry>
     <title>?Netanyahu?s biggest fear? That Iran ?honors nuclear deal?</title>
     <link rel="alternate" href="http://rt.com/news/249057-netanyahu-fear-iran-deal/" />
     <author>
@@ -1741,17 +1752,6 @@
     <summary type="html">&lt;p&gt;Netanyahu said expenses have dropped significantly in the two years since the departure of Naftali, a man he described as "an embittered former public employee."&lt;/p&gt;</summary>
     <dc:date>2015-02-17T17:10:12Z</dc:date>
     <media:content url="https://s.yimg.com/uu/api/res/1.2/dQ.0jjLUjE7IuFPM811k4g--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.wochit.com/fe0e442f9a234eec1864da25af9e9c32" />
-  </entry>
-  <entry>
-    <title>Israel's Netanyahu facing new scandal over bloated expenses</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/02/17/israels-netanyahu-facing-new-scandal-over-bloated-expenses" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-17T17:09:59Z</updated>
-    <published>2015-02-17T17:09:59Z</published>
-    <summary type="html">&lt;p&gt;Netanyahu's allies angrily dismissed the allegations as part of a campaign to deflect attention from important national security issues.&lt;/p&gt;&lt;p&gt;In a statement, Netanyahu said he respected the findings of the comptroller and pledged to implement recommendations to curb wasteful spending.&lt;/p&gt;</summary>
-    <dc:date>2015-02-17T17:09:59Z</dc:date>
   </entry>
   <entry>
     <title>Israel's Benjamin Netanyahu Faces New Scandal Over Alleged Lavish Expenses</title>

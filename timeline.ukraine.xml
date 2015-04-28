@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine parliament offers special status for rebel east, Russia criticizes</title>
+    <link rel="alternate" href="http://news.yahoo.com/ukrainian-parliament-offers-special-status-rebel-east-161050787.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T17:54:54Z</updated>
+    <published>2015-03-17T17:54:54Z</published>
+    <summary type="html">&lt;p&gt;He said Kiev planned "new bloodshed".&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T17:54:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>EU brokers Russia-Ukraine gas deal amid mild optimism over truce</title>
+    <link rel="alternate" href="http://www.dw.de/eu-brokers-russia-ukraine-gas-deal-amid-mild-optimism-over-truce/a-18290152?maca=en-rss-en-world-4025-rdf" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T02:34:00Z</updated>
+    <published>2015-03-03T02:34:00Z</published>
+    <summary type="html">&lt;p&gt;Kerry, however, said there had been "a kind of cherry-picking, a piecemeal selectivity to the application of the Minsk agreements."&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T02:34:00Z</dc:date>
+    <media:content url="http://www.dw.de/image/0,,18290116_303,00.jpg" />
+  </entry>
+  <entry>
     <title>Ukraine says rebels firing rocket launchers again</title>
     <link rel="alternate" href="http://news.yahoo.com/ukraine-says-rebels-using-rocket-launchers-080102990.html" />
     <author>

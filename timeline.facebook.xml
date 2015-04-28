@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook Messenger App Now Has Free Video Calling</title>
+    <link rel="alternate" href="http://www.forbes.com/sites/amitchowdhry/2015/04/28/facebook-messenger-app-now-has-free-video-calling/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T16:13:00Z</updated>
+    <published>2015-04-28T16:13:00Z</published>
+    <summary type="html">&lt;p&gt;You can quickly start a video call from Facebook Messenger with just one tap.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T16:13:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Alzheimer's patient won't be charged in killing before exam</title>
+    <link rel="alternate" href="http://news.yahoo.com/alzheimers-patient-wont-charged-killing-exam-174847917.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-02T17:48:47Z</updated>
+    <published>2015-03-02T17:48:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-02T17:48:47Z</dc:date>
+  </entry>
+  <entry>
     <title>John Cleese: "I don't understand Facebook"</title>
     <link rel="alternate" href="http://www.rte.ie/ten/news/2015/0426/696882-john-cleese-i-dont-understand-modern-society/" />
     <author>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>LG's new G4 phones will have leather backs</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-04-28-US-TEC--LG&amp;apos;s%20Leather%20Phone/id-efa71e4bf5774d87a743ab5a13397556" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T16:39:00Z</updated>
+    <published>2015-04-28T16:39:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-28T16:39:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple will replace AT&amp;T in the Dow Jones industrial average</title>
+    <link rel="alternate" href="http://news.yahoo.com/apple-replace-t-dow-143517707--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T15:00:00Z</updated>
+    <published>2015-03-06T15:00:00Z</published>
+    <summary type="html">&lt;p&gt;After its four-to-one split, Visa will wind up with a lower price.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T15:00:00Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/rLh4wSSmJZHvwVNQH5PbiQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/069871e9797e000a700f6a706700a3f9.jpg" />
+  </entry>
+  <entry>
     <title>Discover discovers Apple Pay for its US cardholders</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Discover-to-have-Apple-Pay-available-for-US-6225920.php" />
     <author>
