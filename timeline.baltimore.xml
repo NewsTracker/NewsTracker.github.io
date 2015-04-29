@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Police say curfew in riot-hit Baltimore working</title>
+    <link rel="alternate" href="http://news.yahoo.com/protesters-defy-curfew-riot-hit-baltimore-023443345.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T05:09:01Z</updated>
+    <published>2015-04-29T05:09:01Z</published>
+    <summary type="html">&lt;p&gt;But he warned that incidents in recent months "raise troubling questions" about the policing of black communities in the United States.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T05:09:01Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Police enforce curfew in Baltimore, disperse protesters</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/29/us-usa-police-baltimore-idUSKBN0NI1N720150429?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T04:55:11Z</updated>
+    <published>2015-04-29T04:55:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T04:55:11Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?d=20150429&amp;amp;i=107378726&amp;amp;w=240&amp;amp;r=107378726-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Police clash with Baltimore protesters for a second night</title>
     <link rel="alternate" href="http://news.yahoo.com/riots-baltimore-raise-questions-police-response-072648181.html" />
     <author>
