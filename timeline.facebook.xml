@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>State of the news media in 2015: Facebook and mobile rule</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19850244.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T08:38:03Z</updated>
+    <published>2015-04-29T08:38:03Z</published>
+    <summary type="html">&lt;p&gt;The conflict in Gaza placed sixth on Facebook's list of most popular topics worldwide in 2014, based on the number of posts, comments, likes, photos and videos shared.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T08:38:03Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Facebook Messenger App Now Has Free Video Calling</title>
     <link rel="alternate" href="http://www.forbes.com/sites/amitchowdhry/2015/04/28/facebook-messenger-app-now-has-free-video-calling/" />
     <author>
