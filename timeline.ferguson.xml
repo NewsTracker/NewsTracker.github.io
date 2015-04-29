@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>2 Separate Shootings Near Ferguson Protests Against Police</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/separate-shootings-ferguson-protests-police-30668776" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T11:54:17Z</updated>
+    <published>2015-04-29T11:54:17Z</published>
+    <summary type="html">&lt;p&gt;Gunshots, fires and looting rocked Ferguson overnight, as protests erupted following the death of a black man in police custody in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T11:54:17Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>Ferguson anarchists active in Baltimore to take advantage of Freddie Gray's death</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3059840/Anarchists-year-s-violence-Ferguson-active-Baltimore-claim-social-media-experts.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

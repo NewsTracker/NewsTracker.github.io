@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt Announces Plans to Build New Capital</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-announces-plans-build-capital-29624454" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T20:26:59Z</updated>
+    <published>2015-03-13T20:26:59Z</published>
+    <summary type="html">&lt;p&gt;The Egypt Economic Development Conference that opened Friday is the government's centerpiece for showing that the country is ready for business.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T20:26:59Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/International/WireAP_ccd16f0d9bf3463b9307087c9b612f3b_16x9_992.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt conference to tell world Egypt is ready for investment</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/egypt-conference-to-tell-world-egypt-is-ready-for-/nkSGc/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T17:42:48Z</updated>
+    <published>2015-03-10T17:42:48Z</published>
+    <summary type="html">&lt;p&gt;A much-hyped investment conference opens in Egypt's Red Sea resort of Sharm el-Sheikh Friday, March 13, 2015.&lt;/p&gt;&lt;p&gt;FILE - In this March 5, 2015 file photo, a homeless Egyptian child sleeps under a bridge in Cairo, Egypt.&lt;/p&gt;&lt;p&gt;FILE - In this Feb. 3, 2015 file photo, stray dogs rest in front of the Pyramids of Giza on the outskirts of Cairo, Egypt.&lt;/p&gt;&lt;p&gt;FILE - In this March 4, 2015 file photo, an Egyptian broom vender drives his motorized tricycle in Cairo, Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T17:42:48Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/03/10/85/c5/2adf7acae8d24bbd99a1031b558e2a6d-e69ba9f4a542458b8e0c70f152f9a0fb-0.jpg" />
+  </entry>
+  <entry>
+    <title>First hanging over pro-Morsi violence in Egypt</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0307/685312-egypt/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T23:21:24Z</updated>
+    <published>2015-03-07T23:21:24Z</published>
+    <summary type="html">&lt;p&gt;A court in Egypt's second city Alexandria sentenced Ramadan and another Morsi supporter to death in 2014 after convicting them of throwing youths off an apartment block, killing one of them.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T23:21:24Z</dc:date>
+    <media:content url="http://img.rasset.ie/000a43fc-219.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt conducts second wave of strikes against Islamic State in Libya in retaliation for mass beheading of Christians</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/egypt-conducts-second-wave-of-strikes-against-islamic-state-in-libya-in-retaliation-for-mass-beheading-of-christians-20150217-13gk70.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-16T19:58:15Z</updated>
+    <published>2015-02-16T19:58:15Z</published>
+    <summary type="html">&lt;p&gt;Calling for an international coalition to confront the insurgency on its border, Egypt confirmed it had conducted raids in the IS-stronghold of Derna, in Libya's east, backed by Libya's air force.&lt;/p&gt;&lt;p&gt;At least 64 militants were killed in Egypt's attacks, Libyan Air Force commander Saqer al-Joroushi told Egyptian state television, indicating further air strikes were planned for Tuesday.&lt;/p&gt;&lt;p&gt;Grief ... A man is comforted as he mourns the Egyptian Coptic Christians who were captured in Libya and beheaded by Islamic State jihadists, outside of the Virgin Mary church in the village of el-Aour, Egypt.&lt;/p&gt;&lt;p&gt;An Egyptian air force fighter jet lands at an undisclosed location in Egypt following air strikes in Libya.&lt;/p&gt;</summary>
+    <dc:date>2015-02-16T19:58:15Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/3/g/k/a/k/image.related.articleLeadwide.620x349.13gk70.png/1424119819185.jpg" />
+  </entry>
+  <entry>
     <title>Sainsbury?s chief executive sentenced to jail in Egypt</title>
     <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/sainsburys-chief-executive-sentenced-to-jail-in-egypt-31181535.html" />
     <author>
@@ -1940,30 +1988,6 @@
     <dc:date>2015-03-10T17:42:48Z</dc:date>
   </entry>
   <entry>
-    <title>Egypt conference to tell world Egypt is ready for investment</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/egypt-conference-to-tell-world-egypt-is-ready-for-/nkSGc/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-10T17:42:48Z</updated>
-    <published>2015-03-10T17:42:48Z</published>
-    <summary type="html">&lt;p&gt;A much-hyped investment conference opens in Egypt's Red Sea resort of Sharm el-Sheikh Friday, March 13, 2015.&lt;/p&gt;&lt;p&gt;FILE - In this March 5, 2015 file photo, a homeless Egyptian child sleeps under a bridge in Cairo, Egypt.&lt;/p&gt;&lt;p&gt;FILE - In this Feb. 3, 2015 file photo, stray dogs rest in front of the Pyramids of Giza on the outskirts of Cairo, Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-03-10T17:42:48Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/03/10/85/c5/2adf7acae8d24bbd99a1031b558e2a6d-e69ba9f4a542458b8e0c70f152f9a0fb-0.jpg" />
-  </entry>
-  <entry>
-    <title>First hanging over pro-Morsi violence in Egypt</title>
-    <link rel="alternate" href="http://www.rte.ie/news/2015/0307/685312-egypt/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-07T23:21:24Z</updated>
-    <published>2015-03-07T23:21:24Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-07T23:21:24Z</dc:date>
-    <media:content url="http://img.rasset.ie/000a43fc-219.jpg" />
-  </entry>
-  <entry>
     <title>Egypt executes man for throwing 2 to their deaths from roof</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/07/bomb-explodes-at-emirati-bank-in-northern-egypt-killing-2" />
     <author>
@@ -2251,18 +2275,6 @@
     <published>2015-02-16T22:29:26Z</published>
     <summary type="html">&lt;p&gt;The airstrikes bring Egypt overtly into Libya's turmoil, a reflection of Cairo's increasing alarm.&lt;/p&gt;</summary>
     <dc:date>2015-02-16T22:29:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt conducts second wave of strikes against Islamic State in Libya in retaliation for mass beheading of Christians</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/egypt-conducts-second-wave-of-strikes-against-islamic-state-in-libya-in-retaliation-for-mass-beheading-of-christians-20150217-13gk70.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-16T19:58:15Z</updated>
-    <published>2015-02-16T19:58:15Z</published>
-    <summary type="html">&lt;p&gt;Calling for an international coalition to confront the insurgency on its border, Egypt confirmed it had conducted raids in the IS-stronghold of Derna, in Libya's east, backed by Libya's air force.&lt;/p&gt;&lt;p&gt;At least 64 militants were killed in Egypt's attacks, Libyan Air Force commander Saqer al-Joroushi told Egyptian state television, indicating further air strikes were planned for Tuesday.&lt;/p&gt;&lt;p&gt;Grief ... A man is comforted as he mourns the Egyptian Coptic Christians who were captured in Libya and beheaded by Islamic State jihadists, outside of the Virgin Mary church in the village of el-Aour, Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-02-16T19:58:15Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/3/g/k/a/k/image.related.articleLeadwide.620x349.13gk70.png/1424119819185.jpg" />
   </entry>
   <entry>
     <title>Civilians killed as Egypt launches air strikes in Libya</title>

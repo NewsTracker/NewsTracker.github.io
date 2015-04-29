@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Latest on police-custody death: Curfew</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/29/latest-on-police-custody-death-curfew" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T10:42:00Z</updated>
+    <published>2015-04-29T10:42:00Z</published>
+    <summary type="html">&lt;p&gt;At midnight Tuesday, Baltimore police arrested one man wearing a Wu-Tang Clan T-shirt for violating the 10 p.m. curfew near the scene of Tuesday night's demonstration.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T10:42:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Baltimore calm after some trouble as curfew began</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/baltimore-calm-after-some-trouble-as-curfew-began/" />
     <author>
