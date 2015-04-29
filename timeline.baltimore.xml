@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Thousands of police descend on Baltimore to enforce curfew after riots</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/29/us-usa-police-baltimore-idUSKBN0NI1N720150429?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T01:57:01Z</updated>
+    <published>2015-04-29T01:57:01Z</published>
+    <summary type="html">&lt;p&gt;Schools were closed on Tuesday, but were scheduled to reopen on Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T01:57:01Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150428&amp;amp;i=107363701&amp;amp;w=240&amp;amp;r=107363701-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Riots in Baltimore the product of anger, deep dysfunction</title>
     <link rel="alternate" href="http://news.yahoo.com/riots-baltimore-product-anger-deep-dysfunction-214538693.html" />
     <author>
