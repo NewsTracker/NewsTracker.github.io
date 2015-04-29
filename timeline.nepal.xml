@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Everest climbers forced to quit last year to get new permits</title>
+    <link rel="alternate" href="http://news.yahoo.com/everest-climbers-forced-quit-last-permits-080103383.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T08:01:03Z</updated>
+    <published>2015-03-20T08:01:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-20T08:01:03Z</dc:date>
+  </entry>
+  <entry>
     <title>Nepal quake survivors recount horror</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3056824/Nepal-quake-survivors-recount-horror.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

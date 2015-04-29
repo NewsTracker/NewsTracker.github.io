@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Police clash with Baltimore protesters for a second night</title>
+    <link rel="alternate" href="http://news.yahoo.com/riots-baltimore-raise-questions-police-response-072648181.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T03:51:13Z</updated>
+    <published>2015-04-29T03:51:13Z</published>
+    <summary type="html">&lt;p&gt;Mayor Stephanie Rawlings-Blake waited hours to ask the governor to declare a state of emergency, and the governor hinted she should have come to him earlier.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T03:51:13Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/j6P18EUVJiNi1v4SU81l4Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-us/homerun/video.wpvi.abc.news.com/a3b5e80f5f78e5924b82d90e2ebb9bcd" />
+  </entry>
+  <entry>
+    <title>Riot-hit Baltimore, an American city divided by income and opportunity</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3060104/Riot-hit-Baltimore-American-city-divided-income-opportunity.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T03:08:00Z</updated>
+    <published>2015-04-29T03:08:00Z</published>
+    <summary type="html">&lt;p&gt;By comparison, across the whole of the U.S., the top take in $9.30 for every dollar earned at the bottom.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T03:08:00Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/28/21/281D3C3300000578-0-image-m-8_1430254626706.jpg" />
+  </entry>
+  <entry>
+    <title>'Mum of the year': Baltimore mother filmed hitting and berating her son during riots</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/mum-of-the-year-baltimore-mother-filmed-hitting-and-berating-her-son-during-riots-20150429-1mvmyv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T23:51:01Z</updated>
+    <published>2015-04-28T23:51:01Z</published>
+    <summary type="html">&lt;p&gt;"That's my only son and at the end of the day I don't want him to be a Freddie Gray," Graham said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T23:51:01Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/3/v/0/y/3/image.related.thumbnail.90x60.3v0y1.png/1430277726564.jpg" />
+  </entry>
+  <entry>
     <title>Thousands of police descend on Baltimore to enforce curfew after riots</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/29/us-usa-police-baltimore-idUSKBN0NI1N720150429?feedType=RSS&amp;amp;feedName=domesticNews" />
     <author>
