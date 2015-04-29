@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>2 separate shootings near Ferguson protests against police</title>
+    <link rel="alternate" href="http://news.yahoo.com/2-separate-shootings-near-ferguson-protests-against-police-115320811.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T13:34:39Z</updated>
+    <published>2015-04-29T13:34:39Z</published>
+    <summary type="html">&lt;p&gt;In Ferguson, there were reports of two people being shot late Tuesday and early Wednesday, though it wasn't immediately clear if the shootings were linked to the protests.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T13:34:39Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>2 people shot near protests in Ferguson related to death of man in Baltimore police custody</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/04/29/2-people-shot-near-protests-in-ferguson-related-to-death-man-in-baltimore/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T11:53:14Z</updated>
+    <published>2015-04-29T11:53:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T11:53:14Z</dc:date>
+  </entry>
+  <entry>
     <title>2 Separate Shootings Near Ferguson Protests Against Police</title>
     <link rel="alternate" href="http://abcnews.go.com/US/wireStory/separate-shootings-ferguson-protests-police-30668776" />
     <author>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Syrian rebels battle Islamic militants near Golan Heights</title>
+    <link rel="alternate" href="http://news.yahoo.com/syrian-rebels-battle-islamic-militants-near-golan-heights-120345440.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T12:54:41Z</updated>
+    <published>2015-04-29T12:54:41Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T12:54:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Obama meets with Kayla Mueller's family in Arizona</title>
+    <link rel="alternate" href="http://news.yahoo.com/obama-meets-kayla-muellers-family-arizona-213743358.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T21:37:43Z</updated>
+    <published>2015-03-13T21:37:43Z</published>
+    <summary type="html">&lt;p&gt;PHOENIX (AP) - President Barack Obama is paying his condolences to the family of the American aid worker who died after being taken hostage by the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T21:37:43Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/C2SRMG.6oM8YwGwJpfwPqA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_US/News/TheWrap/Fired_Univision_Reporter_s_Lawyer_Takes-7f50132ea104b580df462d18b06f93e4.cf.jpg" />
+  </entry>
+  <entry>
     <title>Iraq faces huge challenges dislodging Islamic State in Anbar</title>
     <link rel="alternate" href="http://news.yahoo.com/iraq-faces-huge-challenges-dislodging-islamic-state-anbar-061546450.html" />
     <author>
@@ -300,18 +323,6 @@
     <published>2015-04-23T09:10:58Z</published>
     <summary type="html">&lt;p&gt;Omar Hallak said all students at the Islamic college in Melbourne's west are able to participate in a range of sport such as athletics, including running over distances.&lt;/p&gt;</summary>
     <dc:date>2015-04-23T09:10:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Obama meets with Kayla Mueller's family in Arizona</title>
-    <link rel="alternate" href="http://news.yahoo.com/obama-meets-kayla-muellers-family-arizona-213743358.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-13T21:37:43Z</updated>
-    <published>2015-03-13T21:37:43Z</published>
-    <summary type="html">&lt;p&gt;PHOENIX (AP) - President Barack Obama is paying his condolences to the family of the American aid worker who died after being taken hostage by the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-03-13T21:37:43Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/C2SRMG.6oM8YwGwJpfwPqA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_US/News/TheWrap/Fired_Univision_Reporter_s_Lawyer_Takes-7f50132ea104b580df462d18b06f93e4.cf.jpg" />
   </entry>
   <entry>
     <title>US plans for anti-Islamic State training drawing skepticism</title>

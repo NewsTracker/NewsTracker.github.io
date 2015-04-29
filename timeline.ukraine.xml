@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine says radiation levels not affected by Chernobyl fire</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19853760.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T12:33:12Z</updated>
+    <published>2015-04-29T12:33:12Z</published>
+    <summary type="html">&lt;p&gt;An aerial view of a forest fire in the Chernobyl area, Ukraine, Tuesday, April 28, 2015.&lt;/p&gt;&lt;p&gt;An aerial view of a forest fire in the Chernobyl area, Ukraine, Tuesday, April 28, 2015, as fire has engulfed a large sector of woods in the exclusion zone around the destroyed Chernobyl nuclear power plant.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T12:33:12Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Ukraine president says arms withdrawal almost complete</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/10/ukraine-president-says-arms-withdrawal-almost-complete" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T15:12:35Z</updated>
+    <published>2015-03-10T15:12:35Z</published>
+    <summary type="html">&lt;p&gt;Interfax-Ukraine news agency cited military spokesman Anatoly Stelmakh as saying Tuesday that rebel forces violated the cease-fire 12 times over the previous day.&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T15:12:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>US commander: Arming Ukraine increases pressure on Putin</title>
+    <link rel="alternate" href="http://news.yahoo.com/us-commander-arming-ukraine-boost-pressure-putin-193928822.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T20:44:00Z</updated>
+    <published>2015-03-03T20:44:00Z</published>
+    <summary type="html">&lt;p&gt;Hodges did not specify what weapons could be offered, but said that what Ukraine wants "is intelligence, counter fire capability and something that can stop a Russian tank."&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T20:44:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine hikes benchmark interest rate to 30 percent</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11411312&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T15:45:05Z</updated>
+    <published>2015-03-03T15:45:05Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's central bank last raised the refinancing rate last month, from 14 percent.&lt;/p&gt;&lt;p&gt;Gontareva has previously projected that inflation in Ukraine this year will reach 26 percent.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T15:45:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine Says Radiation Levels Not Affected by Chernobyl Fire</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/ukraine-radiation-levels-affected-chernobyl-fire-30667077" />
     <author>
@@ -2325,28 +2370,6 @@
     <published>2015-03-03T21:21:48Z</published>
     <summary type="html">&lt;p&gt;Hodges said in Berlin on March 3 that helping Ukraine with weapons would increase the stakes for Russian President Vladimir Putin at home.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T21:21:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>US commander: Arming Ukraine increases pressure on Putin</title>
-    <link rel="alternate" href="http://news.yahoo.com/us-commander-arming-ukraine-boost-pressure-putin-193928822.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T20:44:00Z</updated>
-    <published>2015-03-03T20:44:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-03T20:44:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ukraine hikes benchmark interest rate to 30 percent</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11411312&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T15:45:05Z</updated>
-    <published>2015-03-03T15:45:05Z</published>
-    <summary type="html">&lt;p&gt;Ukraine's central bank last raised the refinancing rate last month, from 14 percent.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T15:45:05Z</dc:date>
   </entry>
   <entry>
     <title>Obama holding video talk with European leaders on Ukraine</title>

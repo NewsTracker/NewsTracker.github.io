@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore streets once rocked by riots quiet after curfew</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19853844.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T13:13:17Z</updated>
+    <published>2015-04-29T13:13:17Z</published>
+    <summary type="html">&lt;p&gt;Police advance through a cloud of tear gas as they enforce curfew, Tuesday, April 28, 2015, in Baltimore, a day after unrest that occurred following Freddie Gray's funeral.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T13:13:17Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Baltimore curfew ends with streets quiet, nearly empty</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/baltimore-curfew-ends-with-streets-quiet-nearly-empty-1.2349661" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T08:50:00Z</updated>
+    <published>2015-04-29T08:50:00Z</published>
+    <summary type="html">&lt;p&gt;In an interview broadcast Wednesday on "The Steve Harvey Morning Show," President Barack Obama said the Baltimore riots show that police departments need to build more trust in black communities.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T08:50:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore riots force 2nd postponed game between Orioles, White Sox</title>
+    <link rel="alternate" href="http://www.cbc.ca/sports/baseball/mlb/orioles-white-sox-game-to-be-played-in-empty-stadium-1.3052332?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T17:32:42Z</updated>
+    <published>2015-04-28T17:32:42Z</published>
+    <summary type="html">&lt;p&gt;After a pair of postponements caused by rioting in Baltimore, the Orioles and Chicago White Sox will play Wednesday at Camden Yards in what is believed to be the first game without fans in Major League Baseball's history.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T17:32:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Latest on police-custody death: Curfew</title>
     <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/29/latest-on-police-custody-death-curfew" />
     <author>

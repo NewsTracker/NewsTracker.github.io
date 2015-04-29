@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal quake toll tops 5,000 as aid reaches area near epicenter</title>
+    <link rel="alternate" href="http://news.yahoo.com/nepal-quake-toll-tops-5-000-aid-reach-063544779.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T13:15:59Z</updated>
+    <published>2015-04-29T13:15:59Z</published>
+    <summary type="html">&lt;p&gt;The U.N. says the disaster has affected 8.1 million people - more than a fourth of Nepal's population of 27.8 million - and that 1.4 million needed food assistance.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T13:15:59Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/Yf0qa3mP8IWsHZNi.RqLDg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-DEL-Del6410654-1-1-0.jpg.cf.jpg" />
+  </entry>
+  <entry>
+    <title>'We are hungry:' Aid reaches epicenter, Nepal toll tops 5000</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/29/nepal-quake-toll-tops-5-000-as-aid-reach-area-near-epicenter" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T13:15:37Z</updated>
+    <published>2015-04-29T13:15:37Z</published>
+    <summary type="html">&lt;p&gt;Unlike in Nepal's capital, where most buildings were spared complete collapse, the tiny hamlets clinging to the remote mountainsides of Gorkha District have been ravaged.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T13:15:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Nepal quake toll tops 5,000 as aid reaches epicenter area</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3060296/Nepal-quake-toll-tops-5-000-aid-reach-area-near-epicenter.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
