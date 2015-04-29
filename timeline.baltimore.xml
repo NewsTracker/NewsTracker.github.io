@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore calm after some trouble as curfew began</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/baltimore-calm-after-some-trouble-as-curfew-began/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T10:02:11Z</updated>
+    <published>2015-04-29T10:02:11Z</published>
+    <summary type="html">&lt;p&gt;But the rioting also brought out a sense of civic pride and responsibility in many Baltimore residents, with hundreds of volunteers turning out to sweep the streets of glass and other debris with brooms and trash bags donated by hardware stores.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T10:02:11Z</dc:date>
+    <media:content url="http://cbsnews1.cbsistatic.com/hub/i/r/2015/04/29/b30f8dde-da14-4639-b8ca-fcabbb8b7ecb/thumbnail/620x350/27f3022928a5672636ca3b73fce2135b/2015-04-29t055058z1033249502gf10000076995rtrmadp3usa-police-baltimore.jpg" />
+  </entry>
+  <entry>
     <title>Baltimore streets once rocked by riots quiet under curfew</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3060459/Baltimore-streets-rocked-riots-quiet-curfew.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

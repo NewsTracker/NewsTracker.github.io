@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine Says Radiation Levels Not Affected by Chernobyl Fire</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/ukraine-radiation-levels-affected-chernobyl-fire-30667077" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T09:29:47Z</updated>
+    <published>2015-04-29T09:29:47Z</published>
+    <summary type="html">&lt;p&gt;Kiev, the capital of Ukraine, lies less than 100 kilometers (60 miles) downriver from the zone around Chernobyl, which was heavily contaminated by radiation from the 1986 reactor explosion and fire.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T09:29:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine parliament offers special status for rebel east, Russia criticizes</title>
     <link rel="alternate" href="http://news.yahoo.com/ukrainian-parliament-offers-special-status-rebel-east-161050787.html" />
     <author>

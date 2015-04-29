@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sainsbury?s chief executive sentenced to jail in Egypt</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/sainsburys-chief-executive-sentenced-to-jail-in-egypt-31181535.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T09:32:32Z</updated>
+    <published>2015-04-29T09:32:32Z</published>
+    <summary type="html">&lt;p&gt;"Mr El Nasharty is now claiming that Mike was in Egypt on 15th July 2014 and seized these cheques, which is an impossibility. Mike Coupe was in London carrying out his normal duties that day," the spokeswoman said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T09:32:32Z</dc:date>
+    <media:content url="http://cdn4.belfasttelegraph.co.uk/news/uk/article31181202.ece/20372/ALTERNATES/w90square/PANews%20BT_P-12dee567-6d4b-4cd8-8194-f33c256a85ff_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Sainsbury?s chief executive Mike Coupe sentenced to jail in Egypt</title>
+    <link rel="alternate" href="http://www.independent.co.uk/news/business/news/sainsburys-chief-executive-mike-coupe-sentenced-to-jail-in-egypt-10211802.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T09:04:59Z</updated>
+    <published>2015-04-29T09:04:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T09:04:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Sainsbury's boss in egypt legal row</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/pa/article-3060384/Sainsburys-boss-Egypt-legal-row.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
