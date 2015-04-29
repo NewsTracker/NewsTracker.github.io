@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.one_direction.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Watch Amy Schumer's One Direction parody</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/amy-schumer-parodies-one-direction-with-girl-you-dont-need-makeup/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T16:02:31Z</updated>
+    <published>2015-04-29T16:02:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T16:02:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Scientist Hawking tells upset fans Malik may be in parallel One Direction</title>
     <link rel="alternate" href="http://news.yahoo.com/scientist-hawking-tells-upset-fans-malik-may-parallel-105720433.html" />
     <author>

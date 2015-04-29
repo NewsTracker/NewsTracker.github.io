@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Death toll from Nepal quake-triggered Everest avalanche rises to 19; most victims identified</title>
+    <link rel="alternate" href="http://www.startribune.com/world/301689671.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T15:00:14Z</updated>
+    <published>2015-04-29T15:00:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T15:00:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Nepal quake toll tops 5,000 as aid reaches area near epicenter</title>
     <link rel="alternate" href="http://news.yahoo.com/nepal-quake-toll-tops-5-000-aid-reach-063544779.html" />
     <author>
