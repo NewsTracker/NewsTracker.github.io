@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>State of the news media in 2015: Facebook and mobile rule</title>
+    <link rel="alternate" href="http://news.yahoo.com/state-news-media-2015-facebook-mobile-rule-040205331--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T07:49:17Z</updated>
+    <published>2015-04-29T07:49:17Z</published>
+    <summary type="html">&lt;p&gt;Pew also found that nearly half of Web users learn about politics and government from Facebook, roughly the same percentage as those who seek the news through local television and double those who visit Yahoo or Google News.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T07:49:17Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/aUXl3f2OxHaOoGYpKnJJ0g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/61cdba1a279a0413750f6a7067005554.jpg" />
+  </entry>
+  <entry>
     <title>Review: Little-known Facebook apps might remain just that</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19884348.html%23storylink=rss" />
     <author>

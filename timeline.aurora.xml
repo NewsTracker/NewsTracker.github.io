@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: aurora</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.aurora.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Aurora Shooting Massacre's Youngest Victim Described in Court</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/aurora-shooting-trial-pregnant-woman-recalls-husbands-bleeding/story?id=30645851" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T20:04:24Z</updated>
+    <published>2015-04-29T20:04:24Z</published>
+    <summary type="html">&lt;p&gt;PHOTO: Caleb Medley, who was shot in the head during the massacre at the theater in Aurora, Colo., is shown during the opening day of the trialshooting suspect James Holmes, April 27, 2015, in Centennial, Colo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T20:04:24Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/US/ht_MedleyFamily_tl_150428_4x3_992.jpg" />
+  </entry>
   <entry>
     <title>Northern Lights move south: Magnetic storm reveals aurora borealis in Central Russia</title>
     <link rel="alternate" href="http://rt.com/news/241845-aurora-borealis-central-russia/" />

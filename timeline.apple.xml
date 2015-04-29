@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft Opens Windows 10 to Apple, Android Apps</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/microsoft-makes-case-windows-10-30667719" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T20:36:36Z</updated>
+    <published>2015-04-29T20:36:36Z</published>
+    <summary type="html">&lt;p&gt;Microsoft's move to help developers adapt their Apple and Android apps for Windows 10 is a major change from the past, when each company maintained rigid differences in their software platforms.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T20:36:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft opens Windows 10 to Apple, Android apps</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/29/microsoft-makes-its-case-for-windows-10" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T20:35:17Z</updated>
+    <published>2015-04-29T20:35:17Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Microsoft hopes to get more people using the next version of its Windows software on all kinds of devices, by giving them access to many of the same apps they're already using on Apple or Android phones.&lt;/p&gt;&lt;p&gt;Today, after losing ground to smartphones and tablets that run software from rivals Apple and Google, Microsoft wants to make Windows 10 the universal software for PCs, phones and other Internet-connected gadgets.&lt;/p&gt;&lt;p&gt;Currently, there are more than 1.4 million apps for Android phones and about the same for Apple devices, while there are only a few hundred thousand apps that work on Windows phones and tablets.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T20:35:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft opens Windows 10 to Apple, Android apps</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Microsoft-makes-its-case-for-Windows-10-6230616.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T20:35:17Z</updated>
+    <published>2015-04-29T20:35:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T20:35:17Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/07/57/7896027/3/gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Apple investors question whether iPhone sales growth has peaked</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28005970/apple-investors-question-whether-iphone-sales-growth-has?source=rss" />
     <author>
