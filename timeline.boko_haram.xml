@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigerian military rescues more women, girls from Boko Haram</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3062190/About-160-Boko-Haram-hostages-rescued-says-Nigerian-army.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T10:02:41Z</updated>
+    <published>2015-04-30T10:02:41Z</published>
+    <summary type="html">&lt;p&gt;Nigerian troops have rescued about 160 more hostages from Boko Haram's Sambisa Forest stronghold, the army said on Thursday, taking the total number liberated this week alone to nearly 500.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T10:02:41Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/30/article-doc-215xu-6YAloNZZVHSK2-561_634x425.jpg" />
+  </entry>
+  <entry>
     <title>Girls, Women Rescued From Boko Haram Need Psychological Care</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/military-evacuating-girls-women-rescued-boko-haram-30667722" />
     <author>
@@ -357,7 +369,7 @@
     <media:content url="http://i.cbc.ca/1.3031791.1428995504!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/nigeria-election-usa.jpg" />
   </entry>
   <entry>
-    <title>Nigeria’s new president pledges effort to free girls kidnapped by Boko Haram a year ago</title>
+    <title>Nigeria?s new president pledges effort to free girls kidnapped by Boko Haram a year ago</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/nigerias-new-president-pledges-effort-to-free-girls-kidnapped-by-boko-haram-a-year-ago/article23929086/?cmpid=rss1" />
     <author>
       <name />
@@ -1145,7 +1157,7 @@
     <media:content url="http://ww4.hdnux.com/photos/35/05/15/7623511/7/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>Nigeria’s Boko Haram pledges allegiance to Islamic State</title>
+    <title>Nigeria?s Boko Haram pledges allegiance to Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/Nigeria-s-Boko-Haram-pledges-allegiance-to-6121265.php" />
     <author>
       <name />

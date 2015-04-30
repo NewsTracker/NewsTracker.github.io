@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo marks grand opening of New York data center</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19922787.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T09:48:52Z</updated>
+    <published>2015-04-30T09:48:52Z</published>
+    <summary type="html">&lt;p&gt;Yahoo is marking the opening of its second data center in upstate New York.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T09:48:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Yahoo CEO's pay package climbs in 2014 due to stock gains</title>
     <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/04/29/yahoo-ceos-pay-package-climbs-in-2014-due-to-stock-gains" />
     <author>

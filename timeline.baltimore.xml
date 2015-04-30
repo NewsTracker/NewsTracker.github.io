@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore death sparks protests in New York, Boston, Philly</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19922298.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T09:09:06Z</updated>
+    <published>2015-04-30T09:09:06Z</published>
+    <summary type="html">&lt;p&gt;The march and a rally, held in support of Baltimore protesters angered by the death of a black man in police custody, was organized by Mass Action Against Police Brutality.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T09:09:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Baltimore Officials: No Immediate Decision in Gray Case</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/baltimore-officials-decision-gray-case-30694161" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T08:35:21Z</updated>
+    <published>2015-04-30T08:35:21Z</published>
+    <summary type="html">&lt;p&gt;Both Rawlings-Blake and Baltimore Police Commissioner Anthony Batts spent much of the day Wednesday trying to explain that no final resolution to the case would come Friday.&lt;/p&gt;&lt;p&gt;But widespread protests Wednesday night - not only in Baltimore, but in several cities including Boston, New York and Washington, D.C. - made it clear that tensions over the case are far from subsiding.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T08:35:21Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
+    <title>Rioting prompts state of emergency declaration in Baltimore</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/28/rioting-prompts-state-emergency-declaration-baltimore" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T22:12:23Z</updated>
+    <published>2015-04-28T22:12:23Z</published>
+    <summary type="html">&lt;p&gt;"People have the right to protest and express their frustration. But Baltimore city families deserve peace and safety in their communities. And these acts of violence and destruction cannot and will not be tolerated."&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T22:12:23Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/police_stand_guard_after_rioters_plunged_part_of_baltimore_into_chaos_-_aap-001.jpg?itok=oeMCSXm0" />
+  </entry>
+  <entry>
     <title>Obama aide, Baltimore native says worst may be over</title>
     <link rel="alternate" href="http://news.yahoo.com/obama-aide-baltimore-native-says-worst-may-over-072945183--politics.html" />
     <author>
