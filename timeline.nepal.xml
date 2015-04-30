@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Aid begins arriving in Nepal's villages</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-world/aid-begins-arriving-in-nepals-villages-20150430-3v3nw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T22:48:11Z</updated>
+    <published>2015-04-29T22:48:11Z</published>
+    <summary type="html">&lt;p&gt;The first supplies of food aid has reached remote, earthquake-shattered mountain villages in Nepal, while thousands clamoured to board buses out of Kathmandu.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T22:48:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Aid reaches villages near Nepal quake epicenter; long lines for buses out of Kathmandu</title>
+    <link rel="alternate" href="http://www.startribune.com/world/301654161.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T22:05:34Z</updated>
+    <published>2015-04-29T22:05:34Z</published>
+    <summary type="html">&lt;p&gt;Police said the official death toll in Nepal had reached 5,266 as of late Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T22:05:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Aid begins arriving in Nepal's remote quake-hit villages</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Nepal-quake-toll-tops-5-000-as-aid-reach-area-6230318.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T22:00:24Z</updated>
+    <published>2015-04-29T22:00:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T22:00:24Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/07/33/7894731/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>The Latest on Nepal: In ravaged hamlets, lives were spared</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article19850343.html%23storylink=rss" />
     <author>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Defective component slowed Apple Watch rollout: report</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/29/defective-component-slowed-apple-watch-rollout-report" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T23:10:26Z</updated>
+    <published>2015-04-29T23:10:26Z</published>
+    <summary type="html">&lt;p&gt;Apple has not given any sales figures for its hotly anticipated Apple Watch since it began taking orders this month.&lt;/p&gt;&lt;p&gt;As a result, Apple is now sourcing nearly all of its components from the other supplier, Japan's Nidec Corp. It may take time for the company to increase production, the people told the Journal.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T23:10:26Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694299035_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Microsoft opens Windows 10 to Apple, Android apps</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/f70471f764144b2fab526d39972d37b3/Article_2015-04-29-US--Microsoft-Big%20Show/id-d8e98730eea64f39aeb16b6e8872c7b5" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T19:35:00Z</updated>
+    <published>2015-04-29T19:35:00Z</published>
+    <summary type="html">&lt;p&gt;Microsoft is releasing new programming tools for Azure clients to create programs for computers that run Apple and Linux software, as well as those that run Windows.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T19:35:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft Opens Windows 10 to Apple, Android Apps</title>
     <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/microsoft-makes-case-windows-10-30667719" />
     <author>
