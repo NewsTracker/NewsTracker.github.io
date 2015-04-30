@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>2 Ferguson stores burglarized during night of protests</title>
+    <link rel="alternate" href="http://news.yahoo.com/2-ferguson-stores-burglarized-during-night-protests-134420398.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T13:44:20Z</updated>
+    <published>2015-04-30T13:44:20Z</published>
+    <summary type="html">&lt;p&gt;(AP) - Police in Ferguson are investigating burglaries of a discount store and a cellphone business near where protesters took to the streets for a second night.&lt;/p&gt;&lt;p&gt;Several dozen people marched down Ferguson's West Florissant Avenue on Wednesday night to protest the recent death of 25-year-old Freddie Gray while he was in Baltimore police custody.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T13:44:20Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>2 Ferguson stores burglarized during night of protests</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/us/article/2-Ferguson-stores-burglarized-during-night-of-6233119.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T13:44:13Z</updated>
+    <published>2015-04-30T13:44:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-30T13:44:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Protests return in Ferguson for second night</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article19920411.html%23storylink=rss" />
     <author>

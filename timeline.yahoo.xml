@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>AP Source: Thunder, Donovan in talks about coaching vacancy (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/ap-source-thunder-donovan-talks-coaching-vacancy-034125274--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T04:47:51Z</updated>
+    <published>2015-04-30T04:47:51Z</published>
+    <summary type="html">&lt;p&gt;Yahoo Sports reported Donovan is ''enthusiastic'' about the possibility of coaching the Thunder and is seeking an annual salary around $6 million.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T04:47:51Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/W.X5rfCGGRSLb3cYSYq88A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQxMztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504292156789650052" />
+  </entry>
+  <entry>
     <title>Ex-Louisville basketball player cleared of rape charge (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ex-louisville-basketball-player-cleared-rape-charge-091041656--ncaab.html" />
     <author>
