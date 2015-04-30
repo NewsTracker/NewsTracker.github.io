@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Archaeologists in Egypt discover 3000-year-old tomb in Luxor, beautifully painted</title>
+    <link rel="alternate" href="http://www.startribune.com/world/294827521.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:25:11Z</updated>
+    <published>2015-03-03T14:25:11Z</published>
+    <summary type="html">&lt;p&gt;CAIRO - Egypt's Ministry of Antiquities says American archeologists have discovered a 3000-year-old tomb with beautifully painted walls belonging to a nobleman who guarded the temple of the ancient deity Amun.&lt;/p&gt;&lt;p&gt;Tuesday's statement says the tomb, found near the southern city of Luxor, dates back to the New Kingdom of the 18th Dynasty - the most famous of ancient Egypt dynasties.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T14:25:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Cyprus, Egypt, Greece to boost ties on combatting terrorism</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/29/cyprus-egypt-greece-to-boost-ties-on-combatting-terrorism" />
     <author>
@@ -511,17 +522,6 @@
     <published>2015-03-17T22:12:05Z</published>
     <summary type="html">&lt;p&gt;Egypt's state prosecutor referred on Tuesday a police officer to trial for allegedly shooting dead a leftist female protester during a peaceful rally in central Cairo.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T22:12:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Archaeologists in Egypt discover 3000-year-old tomb in Luxor, beautifully painted</title>
-    <link rel="alternate" href="http://www.startribune.com/world/294827521.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T14:25:11Z</updated>
-    <published>2015-03-03T14:25:11Z</published>
-    <summary type="html">&lt;p&gt;CAIRO - Egypt's Ministry of Antiquities says American archeologists have discovered a 3000-year-old tomb with beautifully painted walls belonging to a nobleman who guarded the temple of the ancient deity Amun.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T14:25:11Z</dc:date>
   </entry>
   <entry>
     <title>Egypt's ousted president Morsi jailed for 20 years</title>
