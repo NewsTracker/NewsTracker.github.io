@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Watch delivery slowed by faulty part, report says</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article19956210.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T20:29:26Z</updated>
+    <published>2015-04-30T20:29:26Z</published>
+    <summary type="html">&lt;p&gt;Shipments of the highly anticipated Apple Watch are reportedly being slowed by a faulty component manufactured by one of Apple's suppliers in China.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T20:29:26Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>US STOCKS-Wall St falls on mixed economic data; Apple weighs</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/markets-stocks-usa-idUSL4N0XR7B920150430?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
     <author>
