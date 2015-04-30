@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chile's Calbuco Volcano Sends New Blasts</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/chiles-calbuco-volcano-sends-blasts-30703205" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T17:06:36Z</updated>
+    <published>2015-04-30T17:06:36Z</published>
+    <summary type="html">&lt;p&gt;The Calbuco volcano erupted again on Wednesday, sending dark burst of ash and hot rock billowing into the air and prompting Chilean officials to order new evacuation of nearby residents.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T17:06:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Chileans brace for volcano impact on livestock, agro</title>
     <link rel="alternate" href="http://news.yahoo.com/chileans-brace-volcano-impact-livestock-agro-220555492.html" />
     <author>

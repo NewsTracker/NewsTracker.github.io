@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US shuts down Ebola treatment center in Liberia</title>
+    <link rel="alternate" href="http://news.yahoo.com/us-shuts-down-ebola-treatment-center-liberia-165237241.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T16:52:37Z</updated>
+    <published>2015-04-30T16:52:37Z</published>
+    <summary type="html">&lt;p&gt;It's the latest sign that life is returning to normal in the West African country where more than 4,600 people have died from Ebola.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T16:52:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>US shuts down Ebola treatment center in Liberia</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/US-shuts-down-Ebola-treatment-center-in-Liberia-6233489.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T16:52:23Z</updated>
+    <published>2015-04-30T16:52:23Z</published>
+    <summary type="html">&lt;p&gt;MONROVIA, Liberia (AP) - American officials are shutting down a special treatment unit they set up in Liberia at the height of the Ebola crisis last year.&lt;/p&gt;&lt;p&gt;The United States government last year deployed more than 2,000 troops to fight Ebola in Liberia, setting up about 15 treatment centers.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T16:52:23Z</dc:date>
+  </entry>
+  <entry>
     <title>UN chief names new head of Ebola mission as outbreak calms</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article19523277.html%23storylink=rss" />
     <author>

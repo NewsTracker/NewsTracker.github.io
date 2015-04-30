@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Middle school student rebuked for wearing rosary to class</title>
+    <link rel="alternate" href="http://news.yahoo.com/middle-school-student-rebuked-wearing-rosary-class-173546700.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T17:35:46Z</updated>
+    <published>2015-04-30T17:35:46Z</published>
+    <summary type="html">&lt;p&gt;FARMINGTON, N.M. (AP) - A middle school student in northwest New Mexico says she was sent to the principal's office and asked if she sold drugs or was involved with a gang after she wore her rosary to school.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T17:35:46Z</dc:date>
+  </entry>
+  <entry>
     <title>New Mexico joins race to build storage for nuclear waste</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article19920498.html%23storylink=rss" />
     <author>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Harbaugh, Lewis, Ravens visit schools in riot-torn Baltimore</title>
+    <link rel="alternate" href="http://www.miamiherald.com/sports/article19942737.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T17:39:01Z</updated>
+    <published>2015-04-30T17:39:01Z</published>
+    <summary type="html">&lt;p&gt;Ravens coach John Harbaugh, his players and former star linebacker Ray Lewis visited Baltimore schools to help quell tension in the city following days of rioting.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T17:39:01Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Baltimore police give prosecutors report on Freddie Gray's death</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/30/more-than-100-arrested-in-baltimore-overnight" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T16:56:36Z</updated>
+    <published>2015-04-30T16:56:36Z</published>
+    <summary type="html">&lt;p&gt;Police have said there were no plans to make the findings public, but the report was turned over to Baltimore City's chief prosecutor a day earlier than expected, Baltimore Police Commissioner Anthony Batts told a news conference.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T16:56:36Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694471916_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Baltimore police hand report on Gray death to prosecutor</title>
     <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/30/baltimore-officials-no-immediate-decision-in-gray-case" />
     <author>
