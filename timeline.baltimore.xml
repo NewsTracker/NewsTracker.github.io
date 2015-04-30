@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore police hand report on Gray death to prosecutor</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/30/baltimore-officials-no-immediate-decision-in-gray-case" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T15:37:09Z</updated>
+    <published>2015-04-30T15:37:09Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - Baltimore police have completed their investigation into the death of Freddie Gray and turned over their findings to prosecutors - one day earlier than the department's self-imposed deadline, the commissioner said Thursday morning.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T15:37:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore police give findings into Freddie Gray death to prosecutor</title>
+    <link rel="alternate" href="http://www.latimes.com/nation/la-na-balitmore-unrest-thursday-20150430-story.html?track=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T15:29:00Z</updated>
+    <published>2015-04-30T15:29:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-30T15:29:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>More than 100 arrested in Baltimore overnight</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/30/more-than-100-arrested-in-baltimore-overnight" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T14:08:51Z</updated>
+    <published>2015-04-30T14:08:51Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - Residents of Baltimore and activists across the United States waited on Thursday for official word on the cause of a black man's death in police custody earlier this month, as protests over the case spread to other cities.&lt;/p&gt;&lt;p&gt;Baltimore officials tried to tamp down expectations that there would be a quick answer on the fate of the six police officers involved in the arrest that preceded Gray's death.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T14:08:51Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694471916_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Baltimore officials: No immediate decision in Gray case</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-04-30-US--Baltimore-Police%20Death/id-c712dc1fcccd439b8c3450fb8bc14ab3" />
     <author>

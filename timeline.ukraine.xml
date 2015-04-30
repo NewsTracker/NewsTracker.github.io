@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US commander: Russian offensive possible in Ukraine</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/30/us-commander-russian-offensive-possible-in-ukraine" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T15:31:29Z</updated>
+    <published>2015-04-30T15:31:29Z</published>
+    <summary type="html">&lt;p&gt;Breedlove says at a hearing Thursday that Russia's military operations in Ukraine during the past year have underscored critical gaps in U.S. collection and analysis of intelligence.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T15:31:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>US commander: Another Russian offensive possible in Ukraine after lull</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/04/30/us-commander-another-russian-offensive-possible-in-ukraine-after-lull/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T15:31:29Z</updated>
+    <published>2015-04-30T15:31:29Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON - The top U.S. commander for NATO says Russian forces have used a recent lull in fighting in Ukraine to reposition for what American military officers believe will be another offensive.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T15:31:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>David Miliband's aid organisation forced out of eastern Ukraine</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/europe/ukraine/11574140/David-Milibands-aid-organisation-forced-out-of-eastern-Ukraine.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T14:36:55Z</updated>
+    <published>2015-04-30T14:36:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-30T14:36:55Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03286/David-Miliband-1_3286850b.jpg" />
+  </entry>
+  <entry>
     <title>News24.com | Search of Ukraine MH17 crash site over</title>
     <link rel="alternate" href="http://www.news24.com/World/News/Search-of-Ukraine-MH17-crash-site-over-20150430" />
     <author>
