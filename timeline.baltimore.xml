@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama aide, Baltimore native says worst may be over</title>
+    <link rel="alternate" href="http://news.yahoo.com/obama-aide-baltimore-native-says-worst-may-over-072945183--politics.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T07:40:40Z</updated>
+    <published>2015-04-30T07:40:40Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - The leader of President Barack Obama's initiative for minority males says it has been painful to watch violence and looting unfold in his Baltimore hometown, but he feels optimistic that the worst is over.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T07:40:40Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/CpQOQsa2Kaua2tUEVRr3jw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/1e0db48a504e1a13750f6a706700e6f8.jpg" />
+  </entry>
+  <entry>
     <title>Baltimore death sparks protests in New York, Boston, Philly</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3061953/Baltimore-death-sparks-protests-New-York-Boston-Philly.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

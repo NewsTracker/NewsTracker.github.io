@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tattoo snafu irks inked Apple Watch wearers</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3061996/Tattoo-snafu-irks-inked-Apple-Watch-wearers.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T07:09:18Z</updated>
+    <published>2015-04-30T07:09:18Z</published>
+    <summary type="html">&lt;p&gt;An Apple support article says the watch uses green LED lights paired with light-sensitive photodiodes to detect the amount of blood flowing through the wrist and calculate the frequency of heart beats.&lt;/p&gt;&lt;p&gt;"We have been hearing suppliers encountering some bottleneck issues for Apple Watch's production such as problems with its displays, haptics or assembly," he told Reuters, adding that those issues were quite common for new products.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T07:09:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Defective component slowed Apple Watch rollout: report</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/04/29/defective-component-slowed-apple-watch-rollout-report" />
     <author>
@@ -866,7 +877,7 @@
     <media:content url="https://s.yimg.com/os/en_us/News/Reuters/2015-04-14T172914Z_1_LYNXMPEB3D0UI_RTROPTP_2_US-BRITTO.JPG" />
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />

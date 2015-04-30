@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Pakistan drops case against ex-CIA chief</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/pakistan-drops-case-against-ex-cia-chief-1.2351540" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T07:19:00Z</updated>
+    <published>2015-04-30T07:19:00Z</published>
+    <summary type="html">&lt;p&gt;ISLAMABAD - Pakistani police dropped a case that was recently registered against a former CIA station chief and a former agency lawyer over a 2009 drone strike that killed two people in a tribal region, police said Thursday.&lt;/p&gt;&lt;p&gt;The CIA drone strikes have taken out a number of senior al-Qaida and Taliban operatives, but are deeply unpopular in Pakistan because they have also killed civilians.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T07:19:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Ex-president OK'd CIA site, denies knowing what it was for</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3057466/Ex-president-OKd-CIA-site-denies-knowing-for.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -287,7 +298,7 @@
     <dc:date>2015-04-19T18:55:14Z</dc:date>
   </entry>
   <entry>
-    <title>CIA director says Iran’s economic peril helped drive nuke deal</title>
+    <title>CIA director says Iran?s economic peril helped drive nuke deal</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/CIA-director-says-Iran-s-economic-peril-helped-6187145.php" />
     <author>
       <name />
