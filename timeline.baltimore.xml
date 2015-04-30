@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Latest on police-custody death: Protesters gather in Houston</title>
+    <link rel="alternate" href="http://news.yahoo.com/latest-police-custody-death-curfew-104242733.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T01:21:33Z</updated>
+    <published>2015-04-30T01:21:33Z</published>
+    <summary type="html">&lt;p&gt;More than a dozen people have been arrested at a rally in Manhattan's Union Square to protest the death of Freddie Gray, a Baltimore man who was critically injured in police custody.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T01:21:33Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Latest on police-custody death: Protesters gather in Houston</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/us/article/Latest-on-police-custody-death-Curfew-6230630.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T01:21:04Z</updated>
+    <published>2015-04-30T01:21:04Z</published>
+    <summary type="html">&lt;p&gt;A group of protesters stretching more than a block has left Penn Station in Baltimore for a march to City Hall to protest Freddie Gray's death after being hurt while in police custody.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T01:21:04Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/07/72/7896713/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Marchers protest police violence in Baltimore, New York</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/us-usa-police-baltimore-idUSKBN0NI1N720150430?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T01:00:38Z</updated>
+    <published>2015-04-30T01:00:38Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (Reuters) - Protesters marched against police violence in cities from New York to Boston on Wednesday, as troops stood by in Baltimore to enforce a curfew imposed after civil unrest over the death of a 25-year-old black man.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T01:00:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Thousands in other cities protest death of Baltimore man</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2015-04-29-US--Suspect%20Dies-Baltimore/id-9eecb47291e44365811e657d6cfe61c8" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T21:54:00Z</updated>
+    <published>2015-04-29T21:54:00Z</published>
+    <summary type="html">&lt;p&gt;Protestors demonstrate outside the State Attorney's office calling for the continued investigation into the death of Freddie Gray, Wednesday, April 29, 2015, in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T21:54:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Right call? Orioles take the field in riot-torn Baltimore</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/347875155d53465d95cec892aeb06419/Article_2015-04-29-BBA--Game%20With%20No%20Fans/id-05a839785e7242d6a23447593ba96d71" />
     <author>
