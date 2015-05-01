@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Emotional reunion for nepal britons</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/pa/article-3061918/Quake-stranded-Britons-arrive-home.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T00:02:55Z</updated>
+    <published>2015-05-01T00:02:55Z</published>
+    <summary type="html">&lt;p&gt;An RAF C-17 aircraft arrived in Nepal today carrying a team of Gurkha engineers and 18 tonnes of crucial supplies, including shelter kits and solar lanterns.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T00:02:55Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/05/01/article-P-9d1c0cee-6df9-4f97-8847-0505c9db49b1-6YBc1GdTKHSK2-437_634x356.jpg" />
+  </entry>
+  <entry>
+    <title>Nepal earthquake: Australian survivors fly into Bangkok</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nepal-earthquake-australian-survivors-fly-into-bangkok-20150430-1mxg84.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T23:35:05Z</updated>
+    <published>2015-04-30T23:35:05Z</published>
+    <summary type="html">&lt;p&gt;Sydney documentary maker Nick Brunninghausen shortly before being evacuated from Nepal to Bangkok on a RAAF C-17 Globemaster aircraft.&lt;/p&gt;&lt;p&gt;On board the RAAF C-17 Globemaster aircraft carrying evacuees from earthquake devastated Nepal to Bangkok.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T23:35:05Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/x/g/8/f/image.related.articleLeadwide.620x349.1mxg84.png/1430436889346.jpg" />
+  </entry>
+  <entry>
     <title>Teenager rescued from rubble 5 days after Nepal quake</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3062110/Rescuers-pull-survivor-Nepal-capital-remains-edge.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

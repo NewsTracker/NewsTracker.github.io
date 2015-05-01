@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Lava lake on Hawaii's volcano overflows in spectacular show</title>
+    <link rel="alternate" href="http://news.yahoo.com/lava-lake-hawaiis-volcano-overflows-spectacular-show-224717394.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T23:46:21Z</updated>
+    <published>2015-04-30T23:46:21Z</published>
+    <summary type="html">&lt;p&gt;But this past week, because of lava is rising inside the volcano, the lava lake rose high enough that it was visible, she said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T23:46:21Z</dc:date>
+    <media:content url="https://s1.yimg.com/uu/api/res/1.2/Y5ch10UbtgOF0IW3fmKfSQ--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/2f217b513f2400a981038e388bb99231" />
+  </entry>
+  <entry>
+    <title>Lava lake on Hawaii's volcano overflows in spectacular show</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/04/30/lava-lake-on-hawaiis-volcano-overflows-in-spectacular-show" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T23:04:15Z</updated>
+    <published>2015-04-30T23:04:15Z</published>
+    <summary type="html">&lt;p&gt;Janet Babb, a geologist with the U.S. Geological Survey Hawaiian Volcano Observatory, said Thursday that this is the first time lava from this vent has come into view from a public platform within Hawaii Volcanoes National Park on Hawaii's Big Island.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T23:04:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Lava lake on Hawaii's Kilauea volcano starts to overflow its rim, drawing large crowds</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/04/30/lava-lake-on-hawaii-kilauea-volcano-starts-to-overflow-its-rim-drawing-large/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T22:47:08Z</updated>
+    <published>2015-04-30T22:47:08Z</published>
+    <summary type="html">&lt;p&gt;HONOLULU - A lake of lava on Hawaii's Kilauea volcano has been rising over the past week and, at times, overflowing in a spectacular show.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T22:47:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Chile's Calbuco Volcano Sends New Blasts</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/chiles-calbuco-volcano-sends-blasts-30703205" />
     <author>
