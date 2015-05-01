@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.obamacare.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>House adopts compromise GOP budget targeting 'Obamacare'</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/House-to-adopt-compromise-GOP-budget-targeting-6233993.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T00:30:01Z</updated>
+    <published>2015-05-01T00:30:01Z</published>
+    <summary type="html">&lt;p&gt;Republicans promise to repeal the Obamacare tax increases but don't say how they'll replace the revenue.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T00:30:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>Republicans pass deep spending cuts, aim at Obamacare</title>
+    <link rel="alternate" href="http://news.yahoo.com/republicans-pass-deep-spending-cuts-aim-obamacare-000120472--sector.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T00:01:20Z</updated>
+    <published>2015-05-01T00:01:20Z</published>
+    <summary type="html">&lt;p&gt;Passage of the budget gives Republicans a rare opportunity to use a procedural tool that would ease the repeal or replacement of "Obamacare."&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T00:01:20Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
     <title>House to adopt compromise GOP budget targeting 'Obamacare'</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/house-to-adopt-compromise-gop-budget-targeting-oba/nk6gG/" />
     <author>

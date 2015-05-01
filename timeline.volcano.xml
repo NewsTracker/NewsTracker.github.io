@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chile's Calbuco volcano sends out new blasts of ash</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11441713&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T00:28:29Z</updated>
+    <published>2015-05-01T00:28:29Z</published>
+    <summary type="html">&lt;p&gt;Volcano expert Moyra Gardeweg said the wet weather also could mean acid rain that damages metal and plant life and pollutes water sources.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T00:28:29Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201518/eruption_140x93.jpg" />
+  </entry>
+  <entry>
     <title>Lava lake on Hawaii's volcano overflows in spectacular show</title>
     <link rel="alternate" href="http://news.yahoo.com/lava-lake-hawaiis-volcano-overflows-spectacular-show-224717394.html" />
     <author>

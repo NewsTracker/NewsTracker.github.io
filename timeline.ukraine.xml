@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>German foreign minister heads to US to talk Ukraine, Iran</title>
+    <link rel="alternate" href="http://news.yahoo.com/german-foreign-minister-heads-us-talk-ukraine-iran-101926558.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-11T10:19:26Z</updated>
+    <published>2015-03-11T10:19:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-11T10:19:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Russia may be readying for new Ukraine offensive: NATO commander</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/us-usa-defense-europe-idUSKBN0NL2ED20150430?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
