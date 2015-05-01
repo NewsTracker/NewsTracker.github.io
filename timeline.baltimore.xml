@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore officials ask for patience in probe of black man's death</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/30/more-than-100-arrested-in-baltimore-overnight" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T05:07:49Z</updated>
+    <published>2015-05-01T05:07:49Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - As protesters marched in several cities, Baltimore officials asked for patience on Thursday while prosecutors decide whether to charge six officers involved in the arrest of a black man who later died of injuries he sustained while in custody.&lt;/p&gt;&lt;p&gt;"I think it's unfortunate that these little things are coming out... People should take a deep breath and wait for the state's attorney to come out with the entire information," Baltimore Police Commissioner Anthony Batts told CNN.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T05:07:49Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694471916_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Police findings on Baltimore man's death handed to prosecutors</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/01/us-usa-police-baltimore-idUSKBN0NL1GO20150501?feedType=RSS&amp;amp;feedName=topNews" />
     <author>

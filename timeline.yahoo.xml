@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dunleavy scores 20, Bulls clobber Bucks 120-66 to advance (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/dunleavy-scores-20-bulls-clobber-bucks-120-66-014828251--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T03:04:23Z</updated>
+    <published>2015-05-01T03:04:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-01T03:04:23Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
     <title>Buccaneers select Jameis Winston with top pick in NFL draft (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/buccaneers-select-jameis-winston-top-pick-nfl-draft-002316294--nfl.html" />
     <author>
