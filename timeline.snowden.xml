@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Snowden injury-free and returning to form</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/01/snowden-injury-free-and-returning-form" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T08:02:31Z</updated>
+    <published>2015-05-01T08:02:31Z</published>
+    <summary type="html">&lt;p&gt;Newcastle prop Kade Snowden says he's injury-free for the first time in four years and happy to be back in the representative frame.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T08:02:31Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20140713000994005211-original_800x600.jpg?itok=55HsMhhv" />
+  </entry>
+  <entry>
     <title>Oliver Stone's 'Snowden' filming at locations around DC</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article17620706.html%23storylink=rss" />
     <author>
@@ -233,7 +245,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Edward Snowden Teaches John Oliver How the Government Can Get Your ‘Di*k Pic’ (Video)</title>
+    <title>Edward Snowden Teaches John Oliver How the Government Can Get Your ?Di*k Pic? (Video)</title>
     <link rel="alternate" href="http://www.thewrap.com/edward-snowden-teaches-john-oliver-how-the-government-can-get-your-dik-pic-video/" />
     <author>
       <name />
