@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>How the AP-GfK poll on Hillary Clinton was conducted</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/article/How-the-AP-GfK-poll-on-Hillary-Clinton-was-6236541.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:27:26Z</updated>
+    <published>2015-05-01T19:27:26Z</published>
+    <summary type="html">&lt;p&gt;The Associated Press-GfK poll on Hillary Clinton was conducted by GfK Public Affairs and Corporate Communications April 23-27.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T19:27:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Hillary Clinton sets sights on law and order</title>
     <link rel="alternate" href="http://www.smh.com.au/world/hillary-clinton-sets-sights-on-law-and-order-20150430-1mwgpr.html" />
     <author>
@@ -1071,7 +1082,7 @@
     <media:content url="http://l.yimg.com/bt/api/res/1.2/3sGD4v8muTCNpfLSzsoh5w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8913621-1-1-0.jpg.cf.jpg" />
   </entry>
   <entry>
-    <title>Hillary Clinton’s campaign signs lease for Brooklyn Heights</title>
+    <title>Hillary Clinton?s campaign signs lease for Brooklyn Heights</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-campaign-signs-lease-brooklyn-heights-article-1.2172344" />
     <author>
       <name />

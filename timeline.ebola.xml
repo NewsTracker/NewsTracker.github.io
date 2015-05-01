@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: Liberian woman likely got Ebola through sex with man who had illness 5 months earlier</title>
+    <link rel="alternate" href="http://www.startribune.com/world/302180761.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:32:06Z</updated>
+    <published>2015-05-01T19:32:06Z</published>
+    <summary type="html">&lt;p&gt;In Guinea, Dr. Sakoba Keita, the national coordinator for Ebola response, said a woman in the southeastern town of Macenta contracted Ebola after having unprotected sex with her husband.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T19:32:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Report: 5 months after infection, man spreads Ebola via sex</title>
+    <link rel="alternate" href="http://health.usnews.com/health-news/news/articles/2015/05/01/report-5-months-after-infection-man-spreads-ebola-via-sex" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:24:59Z</updated>
+    <published>2015-05-01T19:24:59Z</published>
+    <summary type="html">&lt;p&gt;The Ebola virus spreads through direct contact with an Ebola patient's blood or other bodily fluids like urine, saliva, semen and sweat.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T19:24:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Report: 5 months after infection, man spreads Ebola via sex</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11442162&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T18:05:12Z</updated>
+    <published>2015-05-01T18:05:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-01T18:05:12Z</dc:date>
+  </entry>
+  <entry>
     <title>5 months after infection, man spreads Ebola via sex</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3064503/5-months-infection-man-spreads-Ebola-sex.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

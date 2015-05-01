@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>7 killed among violence in Jalisco, Mexico</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3064541/Burning-vehicles-block-roads-Guadalajara-Mexico.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T20:02:30Z</updated>
+    <published>2015-05-01T20:02:30Z</published>
+    <summary type="html">&lt;p&gt;Twelve others - 10 soldiers and two federal police officers - were also injured and three soldiers remained missing, according to a statement from Mexico's defense ministry.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T20:02:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gunfire forces down helicopter in western Mexico, 3 killed, 12 wounded and 3 others missing</title>
+    <link rel="alternate" href="http://www.startribune.com/world/302187781.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:23:10Z</updated>
+    <published>2015-05-01T19:23:10Z</published>
+    <summary type="html">&lt;p&gt;GUADALAJARA, Mexico - Mexico's defense department said that three soldiers were killed Friday in the western state of Jalisco when gunmen fired on a helicopter.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T19:23:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Burning vehicles block roads in Guadalajara, Mexico</title>
     <link rel="alternate" href="http://news.yahoo.com/burning-vehicles-block-roads-guadalajara-mexico-173335947.html" />
     <author>

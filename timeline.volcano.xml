@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>'Wired' Underwater Volcano May Be Erupting Off Oregon</title>
+    <link rel="alternate" href="http://news.yahoo.com/wired-underwater-volcano-may-erupting-off-oregon-194611197.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:46:11Z</updated>
+    <published>2015-05-01T19:46:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-01T19:46:11Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/cWVIsBA0kEpZbX2qGrgcOg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_US/News/LiveScience.com/axial_map.jpg1430507708" />
+  </entry>
+  <entry>
     <title>Chile's Calbuco volcano erupts for the third time forcing thousands to flee</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3062964/Chile-s-Calbuco-volcano-erupts-time-forcing-thousands-flee.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

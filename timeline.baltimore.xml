@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Republican presidential candidate Rand Paul regrets how Baltimore comment was taken</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/302209521.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:46:21Z</updated>
+    <published>2015-05-01T19:46:21Z</published>
+    <summary type="html">&lt;p&gt;Paul told radio host Laura Ingraham that he had traveled through Baltimore by train on the night riots broke out following the death of an African-American man in police custody and that he was glad the train did not stop.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T19:46:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore police union defends 6 cops charged in Freddie Gray death</title>
+    <link rel="alternate" href="http://www.mercurynews.com/crime-courts/ci_28027826/all-6-baltimore-police-officers-charged-freddie-gray?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T18:09:22Z</updated>
+    <published>2015-05-01T18:09:22Z</published>
+    <summary type="html">&lt;p&gt;Mosby said she comes from five generations of police officers, that she respects and honors how police serve the people, and that this case should in no way damage the relationship between police and prosecutors in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T18:09:22Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0501/20150501__graycharges%7E2.JPG" />
+  </entry>
+  <entry>
     <title>6 Baltimore officers charged in Freddie Gray's death</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3063803/Scant-details-Gray-death-Baltimore-protests-continue.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
