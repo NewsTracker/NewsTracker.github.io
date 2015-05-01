@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest on Nepal: British Gurkhas return to aid recovery</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/01/the-latest-on-nepal-british-gurkhas-return-to-aid-recovery" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T07:39:17Z</updated>
+    <published>2015-05-01T07:39:17Z</published>
+    <summary type="html">&lt;p&gt;Members of the British army Gurkha engineers are back in their native Nepal to help restore water supply in the capital.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T07:39:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nepal quake toll passes 6100, $2b needed for reconstruction</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nepal-quake-toll-passes-6100-2b-needed-for-reconstruction-20150501-1mxtp7.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T07:33:48Z</updated>
+    <published>2015-05-01T07:33:48Z</published>
+    <summary type="html">&lt;p&gt;Nepal is also appealing to foreign governments for more helicopters help the 20 at work in rescue operations.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T07:33:48Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/y/1/1/w/image.related.articleLeadwide.620x349.1mxtp7.png/1430465610835.jpg" />
+  </entry>
+  <entry>
+    <title>British Gurkha Troops Supply Clean Water in Native Nepal</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/british-gurkha-troops-supply-clean-water-native-nepal-30722430" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T07:30:08Z</updated>
+    <published>2015-05-01T07:30:08Z</published>
+    <summary type="html">&lt;p&gt;A group of Nepal's Gurkhas serving in the British army have rushed back home to lend a hand in the recovery from the massive earthquake.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T07:30:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nepal quake toll passes 6,200; smell preventing survivors from returning home</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-05-01/nepal-earthquake-toll-passes-6200-survivors-complain-of-stench/6438284" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T06:01:51Z</updated>
+    <published>2015-05-01T06:01:51Z</published>
+    <summary type="html">&lt;p&gt;Finance minister Ram Sharan Mahat said Nepal would need at least $2 billion to rebuild homes, hospitals, government offices and historic buildings and appealed for help from international donors.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T06:01:51Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6429286-3x2-700x467.jpg" />
+  </entry>
+  <entry>
     <title>The Latest on Nepal: $1,000 for each family of those killed</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-04-30-AS--Nepal-Earthquake-The%20Latest/id-28a9947ea0b242f39e9b51e71a19389a" />
     <author>

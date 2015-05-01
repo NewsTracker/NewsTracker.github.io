@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dark tattoos daunt Apple Watch</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3063192/Dark-tattoos-daunt-Apple-Watch.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T07:18:42Z</updated>
+    <published>2015-05-01T07:18:42Z</published>
+    <summary type="html">&lt;p&gt;'Permanent or temporary changes to your skin, such as some tattoos, can also impact heart rate sensor performance,' Apple said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T07:18:42Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/05/01/06/27F2755800000578-3063192-image-a-118_1430456412880.jpg" />
+  </entry>
+  <entry>
     <title>Apple Watch delivery slowed by faulty part, report says</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article19956210.html%23storylink=rss" />
     <author>
@@ -1039,7 +1051,7 @@
     <media:content url="https://s.yimg.com/os/en_us/News/Reuters/2015-04-14T172914Z_1_LYNXMPEB3D0UI_RTROPTP_2_US-BRITTO.JPG" />
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
