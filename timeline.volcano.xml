@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chile's Calbuco volcano erupts for the third time forcing thousands to flee</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3062964/Chile-s-Calbuco-volcano-erupts-time-forcing-thousands-flee.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T18:02:44Z</updated>
+    <published>2015-05-01T18:02:44Z</published>
+    <summary type="html">&lt;p&gt;The volcano has been quiet this week, but geological officials had warned it was still unstable and could erupt again.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T18:02:44Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/05/01/15/282D0A4300000578-3062964-image-a-66_1430489162692.jpg" />
+  </entry>
+  <entry>
     <title>Chile's Calbuco volcano sends out new blasts of ash</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11441713&amp;amp;ref=rss" />
     <author>

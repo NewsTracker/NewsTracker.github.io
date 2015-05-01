@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Burning vehicles block roads in Guadalajara, Mexico</title>
+    <link rel="alternate" href="http://news.yahoo.com/burning-vehicles-block-roads-guadalajara-mexico-173335947.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T17:33:35Z</updated>
+    <published>2015-05-01T17:33:35Z</published>
+    <summary type="html">&lt;p&gt;GUADALAJARA, Mexico (AP) - Authorities in western Mexico are asking residents to stay at home as they scramble to extinguish burning vehicles blocking roads in various parts of Guadalajara.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T17:33:35Z</dc:date>
+  </entry>
+  <entry>
     <title>Feds Reach Settlement With New Mexico Over Radiation Leak</title>
     <link rel="alternate" href="http://abcnews.go.com/US/wireStory/mexico-feds-reach-73m-settlement-nuke-mishap-30712135" />
     <author>
@@ -1126,7 +1137,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -2126,7 +2137,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -2138,7 +2149,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
