@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>CDC cautions against unprotected sex with Ebola survivors</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/01/cdc-cautions-unprotected-sex-ebola-survivors" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T15:57:45Z</updated>
+    <published>2015-05-01T15:57:45Z</published>
+    <summary type="html">&lt;p&gt;US health officials are now recommending people avoid contact with the semen of Ebola survivors after a woman in Liberia contracted Ebola through sexual intercourse with a survivor of the disease.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T15:57:45Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/5/1/1430495261089/aa4daa1f-a79e-415d-b002-23694817a4cb-300x180.jpeg" />
+  </entry>
+  <entry>
+    <title>CDC cautions against unprotected sex with Ebola survivors</title>
+    <link rel="alternate" href="http://www.foxnews.com/health/2015/05/01/cdc-cautions-against-unprotected-sex-with-ebola-survivors/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fhealth+%28Internal+-+Health+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T15:35:51Z</updated>
+    <published>2015-05-01T15:35:51Z</published>
+    <summary type="html">&lt;p&gt;In a report issued on Friday, the U.S. Centers for Disease Control and Prevention said a review of the 44-year-old woman's case now suggests that the Ebola virus persists longer in semen that previously thought.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T15:35:51Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/876/493/660_ebola_survivor_with_bible.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
+    <title>U.S. CDC cautions against unprotected sex with Ebola survivors</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/01/health-ebola-cdc-idUSKBN0NM40I20150501?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T15:16:53Z</updated>
+    <published>2015-05-01T15:16:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-01T15:16:53Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150501&amp;amp;t=2&amp;amp;i=1044951481&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB401P0" />
+  </entry>
+  <entry>
     <title>US shuts down Ebola treatment center in Liberia</title>
     <link rel="alternate" href="http://news.yahoo.com/us-shuts-down-ebola-treatment-center-liberia-165237241.html" />
     <author>
