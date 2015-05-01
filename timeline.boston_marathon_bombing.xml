@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Man fined for missing end of jury selection in bombing trial</title>
+    <link rel="alternate" href="http://news.yahoo.com/man-fined-missing-end-jury-selection-bombing-trial-203213151.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T21:19:55Z</updated>
+    <published>2015-05-01T21:19:55Z</published>
+    <summary type="html">&lt;p&gt;BOSTON (AP) - A man who skipped the final stages of jury selection in the Boston Marathon bombing trial has been fined $400 and sentenced to 40 hours of community service.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T21:19:55Z</dc:date>
+  </entry>
+  <entry>
     <title>Jurors to deliberate for 2nd day in Boston Marathon trial</title>
     <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/04/08/jurors-to-deliberate-for-2nd-day-in-boston-marathon-trial" />
     <author>
@@ -62,7 +73,7 @@
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
   </entry>
   <entry>
-    <title>2 Years After Marathon Bombing, We Are ‘One Boston’</title>
+    <title>2 Years After Marathon Bombing, We Are ?One Boston?</title>
     <link rel="alternate" href="http://www.boston.com/news/nation/2015/04/14/years-after-marathon-bombing-are-one-boston/tXG3B3BHGbom32peICnZCL/story.html" />
     <author>
       <name />

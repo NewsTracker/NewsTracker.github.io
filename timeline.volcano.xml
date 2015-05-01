@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rainfall in Area of Chile Volcano Could Cause Mudslides</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/rainfall-area-chile-volcano-mudslides-30741011" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T20:18:56Z</updated>
+    <published>2015-05-01T20:18:56Z</published>
+    <summary type="html">&lt;p&gt;Authorities in southern Chile say rain over the weekend could cause problems related to the Calbuco volcano's eruptions over the last week.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T20:18:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>Rainfall in area of Chile volcano could cause mudslides</title>
+    <link rel="alternate" href="http://news.yahoo.com/rainfall-area-chile-volcano-could-cause-mudslides-201748479.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T20:17:48Z</updated>
+    <published>2015-05-01T20:17:48Z</published>
+    <summary type="html">&lt;p&gt;Thursday's eruption was smaller, but the National Geology and Mineral Service warns that more eruptions are possible and says the volcano could be spewing some ash and smoke for months.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T20:17:48Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/4Toeaz7RbADwAouwNBP5Qw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/3e377f7053d02a13750f6a706700cbb0.jpg" />
+  </entry>
+  <entry>
     <title>'Wired' Underwater Volcano May Be Erupting Off Oregon</title>
     <link rel="alternate" href="http://news.yahoo.com/wired-underwater-volcano-may-erupting-off-oregon-194611197.html" />
     <author>

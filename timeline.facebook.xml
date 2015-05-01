@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Prosecutor quits over Facebook post about Baltimore protests</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3064749/Prosecutor-quits-Facebook-post-Baltimore-protests.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T21:45:19Z</updated>
+    <published>2015-05-01T21:45:19Z</published>
+    <summary type="html">&lt;p&gt;DETROIT (AP) - A Michigan prosecutor's office says an assistant prosecutor quit after posting on Facebook that people assaulting police officers in Baltimore should be shot.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T21:45:19Z</dc:date>
+  </entry>
+  <entry>
     <title>State of the news media in 2015: Facebook and mobile rule</title>
     <link rel="alternate" href="http://news.yahoo.com/state-news-media-2015-facebook-mobile-rule-040205331--finance.html" />
     <author>
@@ -1007,7 +1018,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
