@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Australia gives $5m more to Nepal relief</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3063682/Australia-gives-5m-Nepal-relief.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T04:02:37Z</updated>
+    <published>2015-05-01T04:02:37Z</published>
+    <summary type="html">&lt;p&gt;Australia will provide another $5 million in humanitarian aid to help earthquake recovery efforts in Nepal.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T04:02:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>The Latest on Nepal: $1,000 for each family of those killed</title>
+    <link rel="alternate" href="http://news.yahoo.com/latest-nepal-airbus-offers-aircraft-sat-imagery-052015155.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T03:54:28Z</updated>
+    <published>2015-05-01T03:54:28Z</published>
+    <summary type="html">&lt;p&gt;Nepal's government is giving out 100,000 rupees ($1,000) to families of each of those killed in Saturday's earthquake, and another 40,000 rupees ($400) for funeral costs, according to the state-run Radio Nepal.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T03:54:28Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Moments of Joy in Nepal as 2 Are Rescued 5 Days After Quake</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/tent-cities-thin-nepal-capital-residents-edge-30692452" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T02:51:40Z</updated>
+    <published>2015-05-01T02:51:40Z</published>
+    <summary type="html">&lt;p&gt;The improbable rescue was an uplifting moment in Nepal, which has been overwhelmed by death and destruction since the 7.8-magnitude earthquake hit Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T02:51:40Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/International/WireAP_e4211e0891354433a4c120568fc5e3f2_16x9_992.jpg" />
+  </entry>
+  <entry>
     <title>Nepal earthquake: Australian survivors fly into Bangkok</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nepal-earthquake-australian-survivors-fly-into-bangkok-20150501-1mxg84.html" />
     <author>
