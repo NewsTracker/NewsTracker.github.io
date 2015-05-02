@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mayoral candidate for Mexico's governing coalition reported slain in troubled Guerrero state</title>
+    <link rel="alternate" href="http://www.startribune.com/world/302280561.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T03:35:29Z</updated>
+    <published>2015-05-02T03:35:29Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - The legislature in the southern Mexican state of Guerrero has condemned the killing of a local mayoral candidate.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T03:35:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mayoral Candidate Slain in Mexico's Troubled Guerrero State</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mayoral-candidate-slain-mexicos-troubled-guerrero-state-30749659" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T03:28:14Z</updated>
+    <published>2015-05-02T03:28:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-02T03:28:14Z</dc:date>
+  </entry>
+  <entry>
     <title>7 killed in violence during anti-cartel operation in Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Burning-vehicles-block-roads-in-Guadalajara-6236303.php" />
     <author>

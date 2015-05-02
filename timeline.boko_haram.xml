@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigerian military: 234 girls, women rescued from extremists</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Nigeria-military-releases-photos-of-some-rescued-6235861.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T02:48:02Z</updated>
+    <published>2015-05-02T02:48:02Z</published>
+    <summary type="html">&lt;p&gt;LAGOS, Nigeria (AP) - Nigeria's military has rescued 234 more girls and women from a Boko Haram forest stronghold in the country's northeast, an announcement on social media said Saturday.&lt;/p&gt;&lt;p&gt;Muhammad Gavi, a spokesman for a self-defense group that fights Boko Haram, said some of the hundreds of women and girls who were freed are pregnant, citing information he got from some group members who have seen the females.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T02:48:02Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/12/54/7908122/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Nigerian military: 234 girls, women rescued from Boko Haram</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/05/01/nigeria-rescue-boko-haram/26755427/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-newstopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T11:11:26Z</updated>
+    <published>2015-05-01T11:11:26Z</published>
+    <summary type="html">&lt;p&gt;Some women the soldiers tried to rescue even shot at their rescuers, a military spokesman has said, indicating that some might now identify with Boko Haram after months of captivity and forced marriages.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T11:11:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Niger urges evacuation of Lake Chad over Boko Haram attacks</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3063753/Niger-urges-evacuation-Lake-Chad-Boko-Haram-attacks.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -414,7 +437,7 @@
     <media:content url="http://i.cbc.ca/1.3031791.1428995504!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/nigeria-election-usa.jpg" />
   </entry>
   <entry>
-    <title>Nigeria’s new president pledges effort to free girls kidnapped by Boko Haram a year ago</title>
+    <title>Nigeria?s new president pledges effort to free girls kidnapped by Boko Haram a year ago</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/nigerias-new-president-pledges-effort-to-free-girls-kidnapped-by-boko-haram-a-year-ago/article23929086/?cmpid=rss1" />
     <author>
       <name />
@@ -1202,7 +1225,7 @@
     <media:content url="http://ww4.hdnux.com/photos/35/05/15/7623511/7/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>Nigeria’s Boko Haram pledges allegiance to Islamic State</title>
+    <title>Nigeria?s Boko Haram pledges allegiance to Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/Nigeria-s-Boko-Haram-pledges-allegiance-to-6121265.php" />
     <author>
       <name />

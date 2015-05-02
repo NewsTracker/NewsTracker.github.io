@@ -5,6 +5,29 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Latest on Baltimore protests: Thousands march across US</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/05/01/latest-on-baltimore-protests-thousands-march-across-the-us" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T03:21:27Z</updated>
+    <published>2015-05-02T03:21:27Z</published>
+    <summary type="html">&lt;p&gt;About 1,000 protesters decrying police brutality have marched in downtown New York at a May Day rally that took on a new message amid national outrage over a Baltimore man's death in police custody.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T03:21:27Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/a6e97e2/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F21%2F7c%2F942036bc4dfea7736325ea8baa21%2Fresizes%2F500%2F150401-dip-aprilfools-editorial.jpg" />
+  </entry>
+  <entry>
+    <title>Six Baltimore officers charged in death of Freddie Gray</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3064380/Six-Baltimore-police-officers-face-murder-charges-death-black-man.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T03:17:56Z</updated>
+    <published>2015-05-02T03:17:56Z</published>
+    <summary type="html">&lt;p&gt;"To the people of Baltimore and the demonstrators across America, I heard your call for 'no justice, no peace.' Your peace is sincerely needed as I work to deliver justice on behalf of this young man," Mosby said at a news conference that quickly changed the tone in the city.&lt;/p&gt;&lt;p&gt;While the charges brought joy and relief to the city of 620,000, residents cautioned that they needed to see justice served, not only in Baltimore but in other poor communities where young black men believe they are targeted by police.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T03:17:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>Latest on Baltimore protests: Thousands march across US</title>
     <link rel="alternate" href="http://news.yahoo.com/latest-may-day-marches-protests-planned-across-us-150600378.html" />
     <author>
       <name />
