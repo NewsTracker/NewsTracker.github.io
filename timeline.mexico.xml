@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gunmen open fire on Mexico Army chopper as violence roils major state</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3064700/Gunmen-open-fire-Mexican-Army-helicopter-3-killed--ministry.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T00:02:18Z</updated>
+    <published>2015-05-02T00:02:18Z</published>
+    <summary type="html">&lt;p&gt;Though the official homicide toll in Jalisco has fallen since Pena Nieto took office in December 2012, the president identified the state as one of the areas most at risk when he set out plans to improve security in Mexico last November.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T00:02:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>7 killed in violence during anti-cartel operation in Mexico</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-05-01-LT-Mexico-Violence/id-376e4c622a8545a0883e5505fc257bd7" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T23:59:43Z</updated>
+    <published>2015-05-01T23:59:43Z</published>
+    <summary type="html">&lt;p&gt;Alejandro Hope, a former official with Mexico's intelligence service, said the violent response to the government offensive showed the cartel is cohesive and capable of reacting to attacks.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T23:59:43Z</dc:date>
+  </entry>
+  <entry>
     <title>7 dead in Mexico amid violence during anti-cartel operation</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-05-01-LT--Mexico-Violence/id-9773cf65115b46c1ac80eb7f740138ef" />
     <author>
@@ -1182,7 +1204,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -2182,7 +2204,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -2194,7 +2216,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />

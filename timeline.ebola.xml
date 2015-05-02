@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: 5 months after infection, man spreads Ebola via sex</title>
+    <link rel="alternate" href="http://news.yahoo.com/report-5-months-infection-man-spreads-ebola-via-185253970.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:25:11Z</updated>
+    <published>2015-05-01T19:25:11Z</published>
+    <summary type="html">&lt;p&gt;This undated electron micrograph image provided by the Centers for Disease Control and Prevention on May 11, 1995 shows the Ebola virus.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T19:25:11Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/6azvkXUIv6UisoMVLS.ycQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/bb285b4d7d314313750f6a7067002a58.jpg" />
+  </entry>
+  <entry>
     <title>Report: Liberian woman likely got Ebola through sex with man who had illness 5 months earlier</title>
     <link rel="alternate" href="http://www.startribune.com/world/302180761.html" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>London eye to be lit to reflect Facebook election conversation</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/general-election-2015/11578503/London-eye-to-be-lit-to-reflect-Facebook-election-conversation.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T20:30:09Z</updated>
+    <published>2015-05-01T20:30:09Z</published>
+    <summary type="html">&lt;p&gt;The London Eye is to be lit up every night between now and the General Election with data reflecting the conversation taking place on Facebook.&lt;/p&gt;&lt;p&gt;Studies have shown that conversation on Facebook ahead of an election can increase voter turnout.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T20:30:09Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03143/general_election_2_3143789g.jpg" />
+  </entry>
+  <entry>
     <title>Prosecutor quits over Facebook post about Baltimore protests</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3064749/Prosecutor-quits-Facebook-post-Baltimore-protests.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1018,7 +1030,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
+    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
