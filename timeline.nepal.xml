@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal shuts down its only international airport to big jets</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-03-AS--Nepal-Earthquake/id-2e7d1f49ec194546a2c14db44a18f629" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T08:00:53Z</updated>
+    <published>2015-05-03T08:00:53Z</published>
+    <summary type="html">&lt;p&gt;A Nepalese truck is surrounded by miscellaneous aid supplies at the cargo terminal of Tribhuvan International airport in Kathmandu, Nepal, Sunday, May 3, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T08:00:53Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nepal shuts down its only international airport to big jets</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20125833.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T07:17:51Z</updated>
+    <published>2015-05-03T07:17:51Z</published>
+    <summary type="html">&lt;p&gt;A Nepalese mother takes her injured son to a hospital in an ambulance in Chautara, Sindhupalchok district, Nepal, Saturday, May 2, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T07:17:51Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>The Latest on Nepal: India sending tents for quake victims</title>
     <link rel="alternate" href="http://news.yahoo.com/latest-nepal-india-sending-tents-quake-victims-055406898.html" />
     <author>
