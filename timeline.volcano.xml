@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chile volcano Calbuco erupts again with new cloud of ash</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/us-chile-volcano-idUSKBN0NL26G20150430?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T18:37:29Z</updated>
+    <published>2015-04-30T18:37:29Z</published>
+    <summary type="html">&lt;p&gt;SANTIAGO (Reuters) - Chilean volcano Calbuco erupted for the third time in eight days on Thursday, sending a new cloud of ash and gas high into the sky, although officials said the latest eruption was less powerful than those of last week.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T18:37:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Rainfall in Area of Chile Volcano Could Cause Mudslides</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/rainfall-area-chile-volcano-mudslides-30741011" />
     <author>

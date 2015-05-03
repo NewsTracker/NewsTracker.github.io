@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Frank Olivo, Santa pelted with snow at '68 Eagles game, dies (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/frank-olivo-santa-pelted-snow-68-eagles-game-154741186--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T16:49:25Z</updated>
+    <published>2015-05-02T16:49:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-02T16:49:25Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/4VFoguSOH048iTNsiQJH4Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM1NTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201505021055393265101" />
+  </entry>
+  <entry>
     <title>A-Rod ties Mays for 4th with 660 HRs; Yanks top Red Sox 3-2 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/rod-ties-mays-660-hrs-yanks-top-red-023633336--mlb.html" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Amnesty International says Egypt using courts to intimidate journalists</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/03/amnesty-international-says-egypt-using-courts-intimidate-journalists" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T23:28:17Z</updated>
+    <published>2015-05-02T23:28:17Z</published>
+    <summary type="html">&lt;p&gt;Since mid-2013 at least six journalists have been killed while covering protests in Egypt by security forces or during clashes among demonstrators, the group said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T23:28:17Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150428001126832648-original.jpg?itok=DbGE2nrg" />
+  </entry>
+  <entry>
     <title>Archaeologists in Egypt discover 3000-year-old tomb in Luxor, beautifully painted</title>
     <link rel="alternate" href="http://www.startribune.com/world/294827521.html" />
     <author>
