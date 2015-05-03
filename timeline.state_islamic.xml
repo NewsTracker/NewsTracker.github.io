@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State group claims Baghdad twin car bombings that killed 19</title>
+    <link rel="alternate" href="http://www.startribune.com/world/302335701.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T09:50:08Z</updated>
+    <published>2015-05-03T09:50:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-03T09:50:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>IS group claims Iraq car bomb attack that killed 19</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11442655&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T08:15:15Z</updated>
+    <published>2015-05-03T08:15:15Z</published>
+    <summary type="html">&lt;p&gt;BAGHDAD (AP) " The extremist Islamic State group has claimed responsibility for a late-night car bomb attack in Baghdad that killed at least 19 people, saying it was targeting a Shiite militia.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T08:15:15Z</dc:date>
+  </entry>
+  <entry>
     <title>In South Carolina, GOP hopefuls run against Obama, terrorism</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article20085135.html%23storylink=rss" />
     <author>
