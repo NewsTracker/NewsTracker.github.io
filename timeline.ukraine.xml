@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>East Ukraine rebels say heavy weapons pullback complete</title>
+    <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/europe/150307/east-ukraine-rebels-say-heavy-weapons-pullback-complete" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T22:08:10Z</updated>
+    <published>2015-03-07T22:08:10Z</published>
+    <summary type="html">&lt;p&gt;Alexander Zakharchenko, the head of the self-proclaimed Donetsk People's Republic, accused Ukraine's government of failing to live up to its side of the agreement.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T22:08:10Z</dc:date>
+    <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2015-March/ukraine_ceasefire_holds_march_7_2015.jpg" />
+  </entry>
+  <entry>
     <title>Mourners mark anniversary of Odessa clashes fire that killed 48 people in western Ukraine</title>
     <link rel="alternate" href="http://www.startribune.com/world/302299731.html" />
     <author>
@@ -2368,18 +2380,6 @@
     <summary type="html">&lt;p&gt;Snizhne: Pro-Russian separatists in eastern Ukraine claim to have fulfilled their end of a February deal with government forces to withdraw heavy weapons from the front line as part of a ceasefire.&lt;/p&gt;&lt;p&gt;"We have fully removed heavy weapons from the line of contact. Ukraine has not yet done it," he told the separatist news agency DAN, threatening to redeploy the arms if Kiev did not match the de-escalation.&lt;/p&gt;</summary>
     <dc:date>2015-03-08T02:49:25Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/1/3/y/8/k/q/image.related.articleLeadwide.620x349.13y83g.png/1425788655373.jpg" />
-  </entry>
-  <entry>
-    <title>East Ukraine rebels say heavy weapons pullback complete</title>
-    <link rel="alternate" href="http://www.globalpost.com/dispatch/news/regions/europe/150307/east-ukraine-rebels-say-heavy-weapons-pullback-complete" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-07T22:08:10Z</updated>
-    <published>2015-03-07T22:08:10Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-07T22:08:10Z</dc:date>
-    <media:content url="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/2015-March/ukraine_ceasefire_holds_march_7_2015.jpg" />
   </entry>
   <entry>
     <title>UN says it has not received any Ukraine peacekeeping request</title>

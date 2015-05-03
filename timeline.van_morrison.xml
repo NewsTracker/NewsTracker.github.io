@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.van_morrison.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Morrison wants jobs for young, vulnerable</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/03/morrison-wants-jobs-young-vulnerable" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T02:02:29Z</updated>
+    <published>2015-05-03T02:02:29Z</published>
+    <summary type="html">&lt;p&gt;Social Services Minister Scott Morrison says the government's jobs package in the May 12 budget is aimed at getting young people into work, particularly those in vulnerable communities.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T02:02:29Z</dc:date>
+  </entry>
+  <entry>
     <title>No cut for stay-at-home mums: Morrison</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3063439/No-cut-stay-home-mums-Morrison.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -117,7 +128,7 @@
     <media:content url="http://l1.yimg.com/bt/api/res/1.2/ZPmh.qHVC331rz6HhK.GHA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9513fa8ce0084d11740f6a7067000a73.jpg" />
   </entry>
   <entry>
-    <title>‘Glee’ star Matthew Morrison works tirelessly to drive overbearing ‘Finding Neverland’</title>
+    <title>?Glee? star Matthew Morrison works tirelessly to drive overbearing ?Finding Neverland?</title>
     <link rel="alternate" href="http://nypost.com/2015/04/15/glee-star-matthew-morrison-works-tirelessly-to-drive-overbearing-finding-neverland/" />
     <author>
       <name />

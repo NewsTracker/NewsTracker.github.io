@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Volcano erupts 3rd time in 8 days</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/04/30/world/chile-calbuco-volcano/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+CNN+-+World%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T06:45:15Z</updated>
+    <published>2015-05-02T06:45:15Z</published>
+    <summary type="html">&lt;p&gt;A thick plume pours from the Calbuco Volcano near Puerto Montt, Chile, on Thursday, April 30.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T06:45:15Z</dc:date>
+    <media:content url="http://edition.cnn.com/2015/04/30/world/chile-calbuco-volcano/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
     <title>Chile volcano Calbuco erupts again with new cloud of ash</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/us-chile-volcano-idUSKBN0NL26G20150430?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>

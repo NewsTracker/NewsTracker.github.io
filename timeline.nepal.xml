@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest on Nepal: Quake Death Toll Climbs Past 7,000</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/latest-nepal-street-cleaners-vegetable-vendors-back-30750526" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T01:37:50Z</updated>
+    <published>2015-05-03T01:37:50Z</published>
+    <summary type="html">&lt;p&gt;Nepal police say the death toll from last week's magnitude-7.8 earthquake has climbed to 6,841, as more reports come in from remote areas and rescue workers dig out more bodies from under the rubble.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T01:37:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>'We Need Help': Aid scarce in quake-hit Nepal villages</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Aid-still-scarce-in-Nepal-s-remote-villages-as-6237818.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T01:29:33Z</updated>
+    <published>2015-05-03T01:29:33Z</published>
+    <summary type="html">&lt;p&gt;Pauwathok is located in the district of Sindupalchok, where more deaths have been recorded than anywhere else in Nepal - 2,560, compared to 1,622 in Kathmandu.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T01:29:33Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/14/45/7915856/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>'We Need Help': Aid scarce in quake-hit Nepal villages</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/02/aid-still-scarce-in-nepals-remote-villages-as-anger-grows" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T01:29:33Z</updated>
+    <published>2015-05-03T01:29:33Z</published>
+    <summary type="html">&lt;p&gt;A Nepalese boy stands outside his village with a signboard asking for help in Pauwathok village, Sindhupalchok district, Nepal, Saturday, May 2, 2015.&lt;/p&gt;&lt;p&gt;PAUWATHOK, Nepal (AP) - At the entrance of this destroyed mountain village, a wooden sign stands, cobbled together from debris of homes flattened by Nepal's devastating earthquake.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T01:29:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Nepal quake aid 'held up at customs'</title>
     <link rel="alternate" href="http://www.bbc.co.uk/news/world-asia-32564891%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
     <author>

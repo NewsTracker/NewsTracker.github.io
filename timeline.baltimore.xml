@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Peaceful Baltimore demonstrators praise top prosecutor</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Thousands-expected-in-Baltimore-rallies-now-6237729.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T01:49:54Z</updated>
+    <published>2015-05-03T01:49:54Z</published>
+    <summary type="html">&lt;p&gt;J.R. White, right, takes a selfie in front of a mural that was painted at the site of Freddie Gray's arrest, Saturday, May 2, 2015, in Baltimore, as protesters prepare to march to City Hall.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T01:49:54Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/14/31/7915090/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>Experts: Convictions Will Be Tough to Win in Baltimore Case</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/experts-convictions-tough-win-baltimore-case-30760585" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T00:24:44Z</updated>
+    <published>2015-05-03T00:24:44Z</published>
+    <summary type="html">&lt;p&gt;"That's really the sort of shocking charge," said Andrew Alperstein, a Baltimore defense attorney and former prosecutor.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T00:24:44Z</dc:date>
+  </entry>
+  <entry>
     <title>Experts: Convictions will be tough to win in Baltimore case</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2015-05-02-US--Baltimore%20Police%20Death-Prosecution/id-4efdbe2408cb441e9f4ba63e8d8ac44b" />
     <author>
