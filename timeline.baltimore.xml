@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore Unrest Puts Spotlight on O'Malley's Stint as Mayor</title>
+    <link rel="alternate" href="http://abcnews.go.com/Politics/wireStory/baltimore-unrest-puts-spotlight-omalleys-stint-mayor-30767908" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T11:55:00Z</updated>
+    <published>2015-05-03T11:55:00Z</published>
+    <summary type="html">&lt;p&gt;In 2005, a Baltimore grand jury found excessive arrests in black neighborhoods and recommended retraining so officers would use better judgment.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T11:55:00Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>Baltimore unrest puts spotlight on O'Malley's stint as mayor</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article20127624.html%23storylink=rss" />
     <author>
