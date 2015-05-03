@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya's Kandie wins Prague international marathon</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/sports/article20126244.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T10:32:59Z</updated>
+    <published>2015-05-03T10:32:59Z</published>
+    <summary type="html">&lt;p&gt;Felix Kipchirchir Kandie of Kenya won the Prague International Marathon on Sunday while Yebrgual Melese of Ethiopia claimed the women's race.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T10:32:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Garissa attack: Kenyan minister admits tipoff on al-Shabaab assault was ignored</title>
     <link rel="alternate" href="http://www.theguardian.com/world/2015/apr/30/garissa-massacre-kenyan-minister-admits-intelligence-ignored" />
     <author>
@@ -292,7 +303,7 @@
     <dc:date>2015-04-21T15:34:24Z</dc:date>
   </entry>
   <entry>
-    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
+    <title>Community radio brings forecasts to Kenya?s most climate vulnerable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
       <name />
@@ -1082,7 +1093,7 @@
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150405001118798836-original.jpg?itok=-TteVTsU" />
   </entry>
   <entry>
-    <title>Kenya’s revenge: Naked corpses paraded</title>
+    <title>Kenya?s revenge: Naked corpses paraded</title>
     <link rel="alternate" href="http://www.news.com.au/world/africa/kenya-massacre-police-parade-corpses-of-university-gunmen-through-massacre-town/story-fnh81gzi-1227291754637?from=public_rss" />
     <author>
       <name />

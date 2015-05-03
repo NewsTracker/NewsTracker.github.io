@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>3 Nepal earthquake survivors found in mountainous village CORRECTS day of rescue</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Official-Rescuers-find-3-survivors-in-6239072.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T11:26:55Z</updated>
+    <published>2015-05-03T11:26:55Z</published>
+    <summary type="html">&lt;p&gt;KATHMANDU, Nepal (AP) - 3 Nepal earthquake survivors found in mountainous village CORRECTS day of rescue.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T11:26:55Z</dc:date>
+  </entry>
+  <entry>
     <title>Quake hobbles Nepal, so villagers fend for selves</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Quake-hobbles-Nepal-so-villagers-fend-for-selves-6239062.php" />
     <author>
