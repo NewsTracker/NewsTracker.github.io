@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>NFL DRAFT: Jets grab QB Petty in trade (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/nfl-draft-legends-game-prospects-future-063736211--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T23:15:59Z</updated>
+    <published>2015-05-02T23:15:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-02T23:15:59Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/Wd9.4nBdvYG6eNK4RDnVpw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/e83196910637ac627521aae4f97f0218" />
+  </entry>
+  <entry>
     <title>Frank Olivo, Santa pelted with snow at '68 Eagles game, dies (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/frank-olivo-santa-pelted-snow-68-eagles-game-154741186--nfl.html" />
     <author>

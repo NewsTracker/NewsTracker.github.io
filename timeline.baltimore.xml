@@ -5,6 +5,30 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Peaceful Baltimore demonstrators praise top prosecutor</title>
+    <link rel="alternate" href="http://news.yahoo.com/thousands-expected-baltimore-rallies-now-celebratory-070325145.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T05:12:39Z</updated>
+    <published>2015-05-03T05:12:39Z</published>
+    <summary type="html">&lt;p&gt;"I think it has to do with Ms. Mosby living here in West Baltimore: they took seriously the sentiment of the youth," said Kustanya McCray, a 41-year-old Baltimore resident who joined thousands of people at the demonstration.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T05:12:39Z</dc:date>
+    <media:content url="https://s1.yimg.com/uu/api/res/1.2/7PmqswylytXNKtKOjYLkGA--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/ap_webfeeds/c7b4bf24a2f64b13750f6a706700bd73.jpg" />
+  </entry>
+  <entry>
+    <title>Peaceful Baltimore demonstrators praise top prosecutor</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/thousands-expected-in-baltimore-rallies-now-celebr/nk7gy/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T05:12:10Z</updated>
+    <published>2015-05-03T05:12:10Z</published>
+    <summary type="html">&lt;p&gt;Desmera Gatewood, 24, (front) protests through downtown Durham, N.C. in solidarity with Baltimore demonstrators on Friday, May 1, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T05:12:10Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/05/01/e4/e8/14eb12d9b62b48c0b20d410283822aa7-18f9eb2a1eca4b1f9fe87674b164a953-1.jpg" />
+  </entry>
+  <entry>
+    <title>Peaceful Baltimore demonstrators praise top prosecutor</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Thousands-expected-in-Baltimore-rallies-now-6237729.php" />
     <author>
       <name />
