@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore mayor lifts curfew 6 days after riots</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Baltimore-relieved-by-charges-weary-of-curfew-6239003.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T17:08:43Z</updated>
+    <published>2015-05-03T17:08:43Z</published>
+    <summary type="html">&lt;p&gt;Police horses wear riot shields as demonstrators march by the day of the announcement of charges against the police officers involved in Freddie Gray's arrest, Friday, May 1, 2015, in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T17:08:43Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/15/16/7918527/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Baltimore mayor lifts curfew, saying no longer needed</title>
+    <link rel="alternate" href="http://news.yahoo.com/day-prayer-baltimore-black-mans-police-custody-death-130131248.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T16:37:05Z</updated>
+    <published>2015-05-03T16:37:05Z</published>
+    <summary type="html">&lt;p&gt;Mayor Stephanie Rawlings-Blake said she believed sufficient calm had returned to Baltimore to allow her to end a curfew put in place last Tuesday after violence erupted over the death of 25-year-old Freddie Gray.&lt;/p&gt;&lt;p&gt;Still, Baltimore police arrested at least a dozen people on Saturday for violating the curfew, which has imposed hardships on city businesses and residents alike.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T16:37:05Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/_Ofcxb4dS7UsCMyR_MetMQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/46bdb385cef27013750f6a706700d4bb.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>The Latest: Baltimore lifts curfew after days of tension</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article20131665.html%23storylink=rss" />
     <author>
