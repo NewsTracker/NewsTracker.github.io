@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.obamacare.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Emergency room visits up, despite ObamaCare</title>
+    <link rel="alternate" href="http://www.foxnews.com/politics/2015/05/04/emergency-room-visits-up-despite-obamacare/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T15:37:12Z</updated>
+    <published>2015-05-04T15:37:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-04T15:37:12Z</dc:date>
+  </entry>
+  <entry>
     <title>House adopts compromise GOP budget targeting 'Obamacare'</title>
     <link rel="alternate" href="http://www.sfgate.com/news/politics/article/House-to-adopt-compromise-GOP-budget-targeting-6233993.php" />
     <author>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Orascom, Bombardier to build $1.5 bln monorail in Egypt</title>
+    <link rel="alternate" href="http://news.yahoo.com/orascom-bombardier-build-1-5-bln-monorail-egypt-072318181--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T07:23:18Z</updated>
+    <published>2015-05-04T07:23:18Z</published>
+    <summary type="html">&lt;p&gt;CAIRO (Reuters) - Canada's Bombardier Inc and Egypt's Orascom Construction and Arab Contractors will build a $1.5 billion monorail near Cairo, Egypt's housing minister said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T07:23:18Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/2k4ji_9y9dovtd0L.DJS0A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-05-03T164043Z_1_LYNXMPEB420F4_RTROPTP_3_BOMBARDIER-JOBS_original.jpg.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Bombardier to help build $1.5-billion monorail in Egypt</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/bombardier-to-build-15-billion-monorail-in-egypt/article24232868/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T20:08:24Z</updated>
+    <published>2015-05-03T20:08:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-03T20:08:24Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/9cf/report-on-business/article24232867.ece/ALTERNATES/w220/web-rb-cd-bombardier-0503.JPG" />
+  </entry>
+  <entry>
     <title>Egypt Charges 40 Over Allegedly Being Islamic State Members</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-charges-40-allegedly-islamic-state-members-30770897" />
     <author>

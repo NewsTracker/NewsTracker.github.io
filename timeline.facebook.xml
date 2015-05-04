@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook opens Internet.org to developers amid open web debate in India</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/04/facebook-opens-internetorg-to-developers-amid-open-web-debate-in-india" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T13:52:35Z</updated>
+    <published>2015-05-04T13:52:35Z</published>
+    <summary type="html">&lt;p&gt;However, the decision drew criticism from some online activists in India who expressed concern over Facebook's control over all data accessed on the service and said it violated the principles of an open web.&lt;/p&gt;&lt;p&gt;The platform will be open to all developers who meet certain guidelines, including that they produce content that can be browsed on both basic mobile phones as well as smartphones and is accessible in limited bandwidth situations, Facebook said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T13:52:35Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297695991507_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Facebook's Internet.org violates net neutrality, activists say</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/technology/facebook-opens-internet-org-to-developers-amid-net-neturality-controversy-1.3059810?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T13:07:59Z</updated>
+    <published>2015-05-04T13:07:59Z</published>
+    <summary type="html">&lt;p&gt;Facebook Chief Executive Mark Zuckerberg said in a video post: "Access equals opportunity. Net neutrality should not prevent access. We need both, it's not an equal internet if the majority of people can't participate."&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T13:07:59Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.2522313.1427926167!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/facebook-smartphone.jpg" />
+  </entry>
+  <entry>
     <title>SurveyMonkey CEO, husband of Facebook's Sandberg, dies</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3065624/SurveyMonkey-CEO-husband-Facebooks-Sandberg-dies.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

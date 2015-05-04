@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US: Baltimore lifts curfew, National Guard begins pullout</title>
+    <link rel="alternate" href="http://ibnlive.in.com/news/us-baltimore-lifts-curfew-national-guard-begins-pullout/543573-2.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T02:48:57Z</updated>
+    <published>2015-05-04T02:48:57Z</published>
+    <summary type="html">&lt;p&gt;Baltimore: Baltimore's mayor on Sunday lifted a curfew that was imposed across the East Coast city following widespread riots, as thousands of National Guard troops began withdrawing from the scarred metropolis.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T02:48:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore mayor lifts curfew</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/03/baltimore-mayor-lifts-curfew" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T20:02:25Z</updated>
+    <published>2015-05-03T20:02:25Z</published>
+    <summary type="html">&lt;p&gt;Baltimore's downtown Inner Harbor district, a tourist destination, resembled a ghost town on Friday and Saturday nights, normally its busiest times.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T20:02:25Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297695702871_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Baltimore mayor lifts curfew 6 days after riots</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Baltimore-relieved-by-charges-weary-of-curfew-6239003.php" />
     <author>

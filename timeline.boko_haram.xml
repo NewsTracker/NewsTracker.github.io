@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boko Haram stoned to death girls on verge of rescue</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/boko-haram-stoned-to-death-girls-on-verge-of-rescue/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T22:42:42Z</updated>
+    <published>2015-05-03T22:42:42Z</published>
+    <summary type="html">&lt;p&gt;YOLA, Nigeria - Boko Haram fighters stoned some of their captives to death as Nigeria's military approached to rescue the women, survivors told The Associated Press on Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T22:42:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nigerian women captured by Boko Haram 'stoned, starved' by militants</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-05-04/boko-haram-captives-speak-of-ordeal-for-first-time/6441528" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T20:27:08Z</updated>
+    <published>2015-05-03T20:27:08Z</published>
+    <summary type="html">&lt;p&gt;They said Boko Haram fighters killed older boys and men in front of their families before taking women and children into the forest where many died of hunger and disease.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T20:27:08Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6441560-3x2-700x467.jpg" />
+  </entry>
+  <entry>
+    <title>Freed Nigerian women tell of horror of Boko Haram captivity</title>
+    <link rel="alternate" href="http://news.yahoo.com/hundreds-rescued-nigerian-women-children-arrive-refugee-camp-110734609.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T18:53:42Z</updated>
+    <published>2015-05-03T18:53:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-03T18:53:42Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/l2KhX0KB3mFO2gY63YqBIg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-03T165720Z_1_LYNXMPEB420FC_RTROPTP_2_NIGERIA-VIOLENCE-SAMBISA.JPG" />
+  </entry>
+  <entry>
+    <title>With rescuers near, girls stoned to death by Boko Haram</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20136681.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T17:36:33Z</updated>
+    <published>2015-05-03T17:36:33Z</published>
+    <summary type="html">&lt;p&gt;A girl rescued by Nigerian soldiers from Boko Haram extremists at Sambisa Forest lines up with others for food upon their arrival at a refugee camp in Yola, Nigeria Saturday, May 2, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T17:36:33Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Nigeria: Women and girls freed from Boko Haram get food, medical care</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/05/03/nigeria-freed-women-and-girls-get-food-emergency-medical-care-at-safety-refugee/" />
     <author>
