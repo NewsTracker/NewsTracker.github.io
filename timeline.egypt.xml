@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kerry promotes US investment in Egypt; no new military aid</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/13/kerry-promotes-us-investment-in-egypt-no-new-military-aid" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T14:58:03Z</updated>
+    <published>2015-03-13T14:58:03Z</published>
+    <summary type="html">&lt;p&gt;SHARM EL-SHEIKH, Egypt (AP) - Secretary of State John Kerry delivered words of encouragement Friday for Egypt's efforts to attract greater foreign investment but no new military assistance as demanded by the country's president.&lt;/p&gt;&lt;p&gt;The administration is likewise uncomfortable with a national security declaration that would recall the decades of American support for Egypt's former autocrat Hosni Mubarak despite his government's obvious shortcomings.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T14:58:03Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt's Deposed Autocrat Mubarak Turns 87, Waves to Fans</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypts-deposed-autocrat-mubarak-turns-87-waves-fans-30793670" />
     <author>
@@ -693,17 +704,6 @@
     <published>2015-03-17T14:41:12Z</published>
     <summary type="html">&lt;p&gt;Egypt's state prosecutor Tuesday referred to trial 16 suspects accused of clashing with police that led to a deadly Cairo football stadium stampede, blaming the Islamist opposition for the violence.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T14:41:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>Kerry promotes US investment in Egypt; no new military aid</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/13/kerry-promotes-us-investment-in-egypt-no-new-military-aid" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-13T14:58:03Z</updated>
-    <published>2015-03-13T14:58:03Z</published>
-    <summary type="html">&lt;p&gt;SHARM EL-SHEIKH, Egypt (AP) - Secretary of State John Kerry delivered words of encouragement Friday for Egypt's efforts to attract greater foreign investment but no new military assistance as demanded by the country's president.&lt;/p&gt;</summary>
-    <dc:date>2015-03-13T14:58:03Z</dc:date>
   </entry>
   <entry>
     <title>Egypt names Cuper from Argentina to lead its soccer team</title>

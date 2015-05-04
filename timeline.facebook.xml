@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Husband of Facebook's Sheryl Sandberg died of head trauma in exercise accident</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/surveymonkey-ceo-dave-goldberg-died-of-head-trauma-in-exercise-accident-1.3060566?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T20:49:49Z</updated>
+    <published>2015-05-04T20:49:49Z</published>
+    <summary type="html">&lt;p&gt;David Goldberg, a Silicon Valley veteran who was best-known for being the husband of Facebook executive Sheryl Sandberg, has died suddenly at age 47, his company and family members said Saturday, May, 2, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T20:49:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Wanted man 'likes' own mugshot on Facebook, gets arrested</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/04/montana-man-likes-own-mugshot-on-facebook-gets-arrested" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T20:35:57Z</updated>
+    <published>2015-05-04T20:35:57Z</published>
+    <summary type="html">&lt;p&gt;A Montana man was arrested after he "liked" his mugshot on Facebook.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T20:35:57Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297696204119_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Facebook opens Internet.org amid India web debate</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102645988" />
     <author>
