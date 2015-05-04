@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore police: Man arrested near scene of recent riots</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3067792/Baltimore-Police-Man-arrested-near-scene-recent-riots.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T20:02:33Z</updated>
+    <published>2015-05-04T20:02:33Z</published>
+    <summary type="html">&lt;p&gt;A Baltimore police officer who briefed reporters at the scene said police did not fire their weapons and that no one was wounded.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T20:02:33Z</dc:date>
+  </entry>
+  <entry>
     <title>US: Baltimore lifts curfew, National Guard begins pullout</title>
     <link rel="alternate" href="http://ibnlive.in.com/news/us-baltimore-lifts-curfew-national-guard-begins-pullout/543573-2.html" />
     <author>

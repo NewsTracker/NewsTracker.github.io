@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook opens Internet.org amid India web debate</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102645988" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T17:33:00Z</updated>
+    <published>2015-05-04T17:33:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-04T17:33:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/05/04/102646055-mark-zuckerberg.530x298.jpg?v=1430758984" />
+  </entry>
+  <entry>
     <title>Facebook opens Internet.org to developers amid open web debate in India</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/05/04/facebook-opens-internetorg-to-developers-amid-open-web-debate-in-india" />
     <author>

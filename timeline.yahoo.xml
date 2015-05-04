@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US beats defending champ Russia 4-2 at ice hockey worlds (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/us-beats-defending-champ-russia-4-2-ice-164338275--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T18:46:03Z</updated>
+    <published>2015-05-04T18:46:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-04T18:46:03Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/1GJAottWyrGHSCEUboI1dA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505041139419650970" />
+  </entry>
+  <entry>
+    <title>Jets fire pro personnel director Brendan Prophett, 5 scouts (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/jets-fire-pro-personnel-director-brendan-prophett-5-152014888--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T15:25:34Z</updated>
+    <published>2015-05-04T15:25:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-04T15:25:34Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/Ck8IFICk94swYOSpe8beTg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201505041024374830894" />
+  </entry>
+  <entry>
     <title>Dale Earnhardt Jr. cruises to 1st Talladega win since 2004 (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/dale-earnhardt-jr-cruises-1st-talladega-win-since-205340872--nascar.html" />
     <author>
