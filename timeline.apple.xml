@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>GE ties up with Qualcomm, Apple in new lighting business bet</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/04/us-general-electric-light-idUSKBN0NP1IP20150504?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T16:27:35Z</updated>
+    <published>2015-05-04T16:27:35Z</published>
+    <summary type="html">&lt;p&gt;GE also said it will produce an LED bulb compatible with Apple's yet-to-launch connected-device platform HomeKit.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T16:27:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>GE ties up with Qualcomm, Apple in new lighting business bet</title>
+    <link rel="alternate" href="http://news.yahoo.com/ge-ties-qualcomm-apple-lighting-business-bet-161733187--sector.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T16:27:35Z</updated>
+    <published>2015-05-04T16:27:35Z</published>
+    <summary type="html">&lt;p&gt;(Reuters) - General Electric Co on Monday announced collaborations with Qualcomm Inc and Apple Inc as it uses digital technology and the growing appetite for data to reinvigorate its 130-year-old lighting business.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T16:27:35Z</dc:date>
+  </entry>
+  <entry>
     <title>Inked and irked: Apple Watch users report tattoo problems</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-05-01-US-TEC--Apple-TattooGate/id-98f5de27a29e490baff2741748c4af76" />
     <author>
@@ -1098,7 +1120,7 @@
     <media:content url="https://s.yimg.com/os/en_us/News/Reuters/2015-04-14T172914Z_1_LYNXMPEB3D0UI_RTROPTP_2_US-BRITTO.JPG" />
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
