@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Costa Rica international airport to reopen Tuesday after volcano ash cleared</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/05/us-costa-rica-airport-idUSKBN0NQ0BD20150505?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T05:35:40Z</updated>
+    <published>2015-05-05T05:35:40Z</published>
+    <summary type="html">&lt;p&gt;SAN JOSE (Reuters) - Costa Rica's international airport is set to reopen Tuesday morning after the eruption of a nearby volcano blanketed runways with ash, forcing its closure overnight.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T05:35:40Z</dc:date>
+  </entry>
+  <entry>
     <title>Crater wall collapse sends lava, debris spewing into the air on Hawaii's Kilauea volcano</title>
     <link rel="alternate" href="http://www.startribune.com/nation/302481041.html" />
     <author>

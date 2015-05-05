@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Foreign rescue teams start leaving Nepal, NDRF teams to return today</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/articleshow/47157888.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T05:13:45Z</updated>
+    <published>2015-05-05T05:13:45Z</published>
+    <summary type="html">&lt;p&gt;Nepal government on Monday urged foreign rescue workers in the quake-hit capital to return home.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T05:13:45Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47157966,width-300,resizemode-4/Nepal-NDRF.jpg" />
+  </entry>
+  <entry>
     <title>US choppers begin Nepal quake reconnaissance flights</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3066884/US-military-planes-begin-Nepal-quake-relief-sorties.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

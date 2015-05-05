@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cruz hits 14th HR, Hernandez pitches Mariners past Angels (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/cruz-hits-14th-hr-hernandez-pitches-mariners-past-050423624--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T05:15:14Z</updated>
+    <published>2015-05-05T05:15:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-05T05:15:14Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/tMo3S3e3a65YuyVWfgElGg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505042313836252435" />
+  </entry>
+  <entry>
     <title>Chirinos' sacrifice fly in 9th lifts Rangers past Astros (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/chirinos-sacrifice-fly-9th-lifts-rangers-past-astros-030243551--mlb.html" />
     <author>
