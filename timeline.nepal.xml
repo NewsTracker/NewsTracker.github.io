@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bad weather disrupts links with avalanche-hit Nepal village</title>
+    <link rel="alternate" href="http://ibnlive.in.com/news/bad-weather-disrupts-links-with-avalanchehit-nepal-village/543811-2.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T05:53:00Z</updated>
+    <published>2015-05-05T05:53:00Z</published>
+    <summary type="html">&lt;p&gt;Kathmandu: Bad weather has cut links with a remote village in Nepal where dozens of villagers and trekkers are believed to be buried under an avalanche set off by devastating earthquake on April, officials said on Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T05:53:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Foreign rescue teams start leaving Nepal, NDRF teams to return today</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/articleshow/47157888.cms" />
     <author>
