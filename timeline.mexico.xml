@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Metro trains crash in Mexico City, injuring 12</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/05/04/metro-trains-crash-in-mexico-city-injuring-12/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T01:36:55Z</updated>
+    <published>2015-05-05T01:36:55Z</published>
+    <summary type="html">&lt;p&gt;The Mexico City Metro System said via its Twitter account that three of the 12 injured were hospitalized.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T01:36:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Metro trains crash in Mexico City, injuring 12</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/05/04/metro-trains-crash-in-mexico-city-injuring-12/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T01:30:12Z</updated>
+    <published>2015-05-05T01:30:12Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - Two metro trains carrying passengers crashed in Mexico City on Monday, leaving at least 12 people injured, authorities said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T01:30:12Z</dc:date>
+  </entry>
+  <entry>
     <title>SurveyMonkey CEO died of head trauma in exercise accident</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11443408&amp;amp;ref=rss" />
     <author>
