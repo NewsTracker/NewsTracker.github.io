@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal relief effort intensifies as toll rises to 7,557</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3068310/Nepal-relief-effort-intensifies-toll-rises-7-557.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T12:02:30Z</updated>
+    <published>2015-05-05T12:02:30Z</published>
+    <summary type="html">&lt;p&gt;His comments came after the National Emergency Operation Centre said the total number of dead had now reached 7,557 while 14,536 were injured in the 7.8-magnitude quake, Nepal's deadliest in more than 80 years.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T12:02:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nine foreign trekkers among dead found at Nepal village buried by earthquake</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/asia/nepal/11582868/Nine-foreign-trekkers-among-dead-found-at-Nepal-village-buried-by-earthquake.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T10:16:34Z</updated>
+    <published>2015-05-05T10:16:34Z</published>
+    <summary type="html">&lt;p&gt;The valley and its little village of Langtang are about 35 miles north of Nepal's capital, Kathmandu.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T10:16:34Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03291/Langtang_Nepal_3291446b.jpg" />
+  </entry>
+  <entry>
     <title>Bad weather disrupts links with avalanche-hit Nepal village</title>
     <link rel="alternate" href="http://ibnlive.in.com/news/bad-weather-disrupts-links-with-avalanchehit-nepal-village/543811-2.html" />
     <author>

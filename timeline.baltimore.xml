@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Attorney General Lynch to Visit Baltimore After Police Death</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/attorney-general-lynch-visit-baltimore-police-death-30809057" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T11:38:22Z</updated>
+    <published>2015-05-05T11:38:22Z</published>
+    <summary type="html">&lt;p&gt;Attorney General Loretta Lynch and other Department of Justice leaders are visiting Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T11:38:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Attorney General Lynch to visit Baltimore after police death</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/05/attorney-general-lynch-to-visit-baltimore-after/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T11:37:40Z</updated>
+    <published>2015-05-05T11:37:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-05T11:37:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>Reforming Baltimore police will be expensive, costly</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11443786&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T10:10:13Z</updated>
+    <published>2015-05-05T10:10:13Z</published>
+    <summary type="html">&lt;p&gt;Meanwhile, Baltimore faces financial challenges so serious that in 2013, the mayor hired outside consultants who forecast that the local government was on the path to insolvency.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T10:10:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Reforming Baltimore police will be expensive, costly</title>
     <link rel="alternate" href="http://news.yahoo.com/reforming-baltimore-police-expensive-costly-082317628.html" />
     <author>
