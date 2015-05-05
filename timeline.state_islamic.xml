@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hezbollah Captures Syrian Village From Islamic Militants</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/lebanese-held-hostage-syria-militants-video-30807953" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T15:45:21Z</updated>
+    <published>2015-05-05T15:45:21Z</published>
+    <summary type="html">&lt;p&gt;Hezbollah fighters captured a Syrian village near the border with Lebanon on Tuesday after intense fighting with Islamic militants, the group's television station said, while an activist said battles are concentrating near a strategic Syrian hill.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T15:45:21Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/navigation/abc-logo.png" />
+  </entry>
+  <entry>
+    <title>Islamic State takes responsibility for Texas cartoon exhibit attack</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/05/islamic-state-takes-responsibility-for-texas-cartoon-exhibit-attack" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T14:38:56Z</updated>
+    <published>2015-05-05T14:38:56Z</published>
+    <summary type="html">&lt;p&gt;PHOENIX - The Islamic State militant group claimed responsibility on Tuesday for an attack on a Texas exhibit of caricatures of the Prophet Mohammad in which the two gunmen were killed.&lt;/p&gt;&lt;p&gt;The Syria- and Iraq-based Islamic State claimed responsibility on its official online radio station, saying "two soldiers of the caliphate" carried out the attack on Sunday in Garland, Texas.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T14:38:56Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297696456939_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Iraq sends troops to key refinery amid heavy clashes with IS</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20243046.html%23storylink=rss" />
     <author>
