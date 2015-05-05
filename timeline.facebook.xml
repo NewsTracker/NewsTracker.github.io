@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson Facebook case part of debate about online threats</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article15329216.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T19:58:04Z</updated>
+    <published>2015-03-19T19:58:04Z</published>
+    <summary type="html">&lt;p&gt;In the case the judge referred to, a Massachusetts man was arrested for posting "Put Wings On Pigs" on his Facebook page in December.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T19:58:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Husband of Facebook's Sheryl Sandberg died of head trauma in exercise accident</title>
     <link rel="alternate" href="http://www.cbc.ca/news/world/surveymonkey-ceo-dave-goldberg-died-of-head-trauma-in-exercise-accident-1.3060566?cmp=rss" />
     <author>
@@ -1270,17 +1281,6 @@
     <published>2015-03-19T22:20:47Z</published>
     <summary type="html">&lt;p&gt;A Nevada man was indicted in January for posting threats on Facebook to kill an African American police officer.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T22:20:47Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ferguson Facebook case part of debate about online threats</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article15329216.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T19:58:04Z</updated>
-    <published>2015-03-19T19:58:04Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-19T19:58:04Z</dc:date>
   </entry>
   <entry>
     <title>Fin24.com | Facebook rolling out payments to friends feature</title>
