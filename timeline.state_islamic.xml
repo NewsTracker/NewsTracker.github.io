@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State group claims responsibility for Dallas assault</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-05-US--Prophet%20Cartoon%20Contest-Shooting/id-2732389a326049b7a59dfb514522aeb8" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T22:00:04Z</updated>
+    <published>2015-05-05T22:00:04Z</published>
+    <summary type="html">&lt;p&gt;"The debate after 9/11 was whether too many resources were being focused on New York, Washington and not in the small towns. Now that's very much a real issue because of the volumes of recruitment being done by the Islamic State throughout the United States, Europe, and Canada," Venzke said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T22:00:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State group claims responsibility for Dallas assault</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article20242158.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T21:04:15Z</updated>
+    <published>2015-05-05T21:04:15Z</published>
+    <summary type="html">&lt;p&gt;The Islamic State group claimed responsibility Tuesday for the assault on a Texas cartoon contest that featured images of the Prophet Muhammad, but counterterrorism experts said IS has a history of asserting involvement in attacks in which it had no operational role.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T21:04:15Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Islamic State group takes credit for suburban Dallas assault</title>
     <link rel="alternate" href="http://www.sfgate.com/news/texas/article/Accused-Texas-gunman-was-former-target-of-FBI-6242335.php" />
     <author>
