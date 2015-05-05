@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore police: Man arrested near scene of recent riots</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2015-05-04-US--Baltimore-Police%20Death-Arrest/id-2d5052c7b9774d34937f517d9738bd01" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T00:00:22Z</updated>
+    <published>2015-05-05T00:00:22Z</published>
+    <summary type="html">&lt;p&gt;An investigator surveys a scene Monday, May 4, 2015, in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T00:00:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore police: Man arrested near scene of recent riots</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-04-US--Baltimore-Police%20Death-Arrest/id-2d5052c7b9774d34937f517d9738bd01" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T23:58:22Z</updated>
+    <published>2015-05-04T23:58:22Z</published>
+    <summary type="html">&lt;p&gt;A man raises his arms near a line of police Monday, May 4, 2015, in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T23:58:22Z</dc:date>
+  </entry>
+  <entry>
     <title>Baltimore police say man's gun discharged during arrest, no injuries</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3067801/Baltimore-police-deny-report-shot-man-Fox-News-apologizes.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

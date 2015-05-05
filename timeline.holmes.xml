@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Colorado theater shooter asked police if children were hurt</title>
+    <link rel="alternate" href="http://news.yahoo.com/theater-shooting-trial-resumes-testimony-focuses-phone-155107349.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T23:45:42Z</updated>
+    <published>2015-05-04T23:45:42Z</published>
+    <summary type="html">&lt;p&gt;(AP) - A video played for jurors in the trial of Colorado theater shooter James Holmes includes a dazed-sounding Holmes asking detectives "There weren't any children hurt, were there?"&lt;/p&gt;&lt;p&gt;The video shows detectives interviewing Holmes at the Aurora Police Department about two hours after the July 2012 attack, which killed 12 people and injured 70 others.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T23:45:42Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/Jk0Ju25YNPmsnkoDksQBEQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/a08128adcef97013750f6a706700e285.jpg" />
+  </entry>
+  <entry>
     <title>Insane or evil? Trial fills in details of Colorado movie gunman Holmes</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/01/us-usa-shooting-denver-idUSKBN0NM4D320150501?feedType=RSS&amp;amp;feedName=domesticNews" />
     <author>
