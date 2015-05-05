@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>60 bodies recovered in Nepal valley hit by quake, mudslide</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Nepali-police-villagers-dig-through-mud-to-pull-6242322.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T17:50:29Z</updated>
+    <published>2015-05-05T17:50:29Z</published>
+    <summary type="html">&lt;p&gt;In this Friday, May 1, 2015 photo provided by Nepal Army, rubble from a mudslide covers the Langtang Valley in Nepal.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T17:50:29Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/17/53/7928529/7/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>60 bodies recovered in Nepal valley hit by quake, mudslide</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-05-05-AS--Nepal-Earthquake/id-b4ee190b3d6544cea8d4e084895ece1e" />
     <author>
       <name />
