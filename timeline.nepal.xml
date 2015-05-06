@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Engineers inspect quake-damaged homes in Nepal's capital</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/06/engineers-inspecting-quake-damaged-homes-in-nepals-capital" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T12:13:04Z</updated>
+    <published>2015-05-06T12:13:04Z</published>
+    <summary type="html">&lt;p&gt;An elderly Nepalese walks past a damaged temple performing rituals to end the mourning period of a family member who died in the April 25 earthquake, in Bhaktapur, Nepal, Wednesday, May 6, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T12:13:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Rolling Stones' Jagger, Wood record Nepal quake charity single</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/06/us-earthquake-nepal-jagger-idUSKBN0NR0UT20150506?feedType=RSS&amp;amp;feedName=lifestyleMolt" />
     <author>

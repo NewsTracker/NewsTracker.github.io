@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore mayor to announce DOJ partnership</title>
+    <link rel="alternate" href="http://news.yahoo.com/baltimore-mayor-announce-doj-partnership-105100431.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T10:51:00Z</updated>
+    <published>2015-05-06T10:51:00Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - Baltimore Mayor Stephanie Rawlings-Blake will announce a new partnership between the city and the U.S. Department of Justice.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T10:51:00Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/.aDPqPz5Q4L_N5LBjXD7_g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/758b05f02194a114750f6a706700fcd5.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Baltimore officers' legal attack begins in Gray case with challenge of legality of knife</title>
     <link rel="alternate" href="http://www.startribune.com/nation/302721341.html" />
     <author>

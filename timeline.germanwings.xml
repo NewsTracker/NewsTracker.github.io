@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: Germanwings crash co-pilot tried slow descent before</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article20324184.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T13:34:06Z</updated>
+    <published>2015-05-06T13:34:06Z</published>
+    <summary type="html">&lt;p&gt;Germanwings said it "welcomed any new information that can help clarify what happened" but said it would not comment on the BEA report because of the ongoing investigation.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T13:34:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Germanwings Co-Pilot Tried Slow Descent Before</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/06/french-investigators-to-release-report-on-germanwings-crash" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T13:30:11Z</updated>
+    <published>2015-05-06T13:30:11Z</published>
+    <summary type="html">&lt;p&gt;Germanwings' parent company Lufthansa technically could have known about Lubitz' apparent rehearsal on the outbound flight, but only if it had looked at the flight data in the short period while the plane was unloading and loading passengers in Barcelona.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T13:30:11Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/a369526/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F9c%2Ff70839167fd5ddd67e521bf642fa81%2Fmedia%3A055e9386701f43338713db7d8767037bFrancePlaneCrash.JPEG" />
+  </entry>
+  <entry>
     <title>French investigators to release report on Germanwings crash</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/06/french-investigators-to-release-report-on-germanwings-crash" />
     <author>
