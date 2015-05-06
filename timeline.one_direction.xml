@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.one_direction.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Shifting in a new direction, Jack Black rides 'The D Train'</title>
+    <link rel="alternate" href="http://news.yahoo.com/shifting-direction-jack-black-rides-d-train-175635098.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T17:56:35Z</updated>
+    <published>2015-05-06T17:56:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T17:56:35Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Watch Amy Schumer's One Direction parody</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/amy-schumer-parodies-one-direction-with-girl-you-dont-need-makeup/" />
     <author>

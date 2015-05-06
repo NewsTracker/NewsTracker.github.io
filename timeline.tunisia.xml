@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tunisia steps up security at Jewish pilgrimage to Ghriba</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20334399.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T19:49:14Z</updated>
+    <published>2015-05-06T19:49:14Z</published>
+    <summary type="html">&lt;p&gt;German Dami Disiree lights a candle at the Ghriba synagogue in Djerba, south Tunisia, Wednesday, May 6, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T19:49:14Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>ISIS claims responsibility for Tunisia museum attack - VIDEO: Did Twitter warn of attack? - Several victims of Tunisia attack were cruise ship passengers</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/03/19/tunisia-president-says-country-is-in-war-with-terror-after-tunis-museum/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T09:06:29Z</updated>
+    <published>2015-03-20T09:06:29Z</published>
+    <summary type="html">&lt;p&gt;They chanted for a "Free Tunisia" in defiance of terrorism.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T09:06:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>17 tourists killed as gunmen attack Tunisia museum</title>
+    <link rel="alternate" href="http://news.yahoo.com/shots-fired-near-tunisia-parliament-afp-001038186.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T02:58:49Z</updated>
+    <published>2015-03-19T02:58:49Z</published>
+    <summary type="html">&lt;p&gt;Tunis (AFP) - Gunmen stormed Tunisia's national museum, killing 17 tourists of various nationalities and two Tunisians in an attack that raised fears for the birthplace of the Arab Spring.&lt;/p&gt;&lt;p&gt;The attack appeared to be the worst on foreigners in Tunisia since an Al-Qaeda suicide bombing of a synagogue killed 14 Germans, two French and five Tunisians on the island of Djerba in 2002.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T02:58:49Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/uE1_geNzQkvzCcJF3LpSLQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/d2e11feb78fbc4f9c4b7030e085ee5d2aa2cb759.jpg" />
+  </entry>
+  <entry>
     <title>Tunisia steps up security at Jewish pilgrimage</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20334399.html%23storylink=rss" />
     <author>
@@ -773,18 +808,6 @@
     <summary type="html">&lt;p&gt;Three Japanese were killed, and three others injured, in the militant attack on tourists in Tunisia, the Japanese government said Thursday.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T08:04:35Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/e87/news/world/article23533522.ece/ALTERNATES/w220/MEU112-Tunisia+Attack.JPG" />
-  </entry>
-  <entry>
-    <title>17 tourists killed as gunmen attack Tunisia museum</title>
-    <link rel="alternate" href="http://news.yahoo.com/shots-fired-near-tunisia-parliament-afp-001038186.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T02:58:49Z</updated>
-    <published>2015-03-19T02:58:49Z</published>
-    <summary type="html">&lt;p&gt;Tunis (AFP) - Gunmen stormed Tunisia's national museum, killing 17 tourists of various nationalities and two Tunisians in an attack that raised fears for the birthplace of the Arab Spring.&lt;/p&gt;</summary>
-    <dc:date>2015-03-19T02:58:49Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/uE1_geNzQkvzCcJF3LpSLQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/d2e11feb78fbc4f9c4b7030e085ee5d2aa2cb759.jpg" />
   </entry>
   <entry>
     <title>Couldn't see anything except blood, says witness of Tunisia attack which left 19 dead</title>
