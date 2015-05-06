@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>NFL finds Patriots employees probably deflated balls (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/nfl-finds-patriots-employees-probably-deflated-balls-171700083--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T17:19:09Z</updated>
+    <published>2015-05-06T17:19:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T17:19:09Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/2ZcHJRHtB3XvoN9xgCj3OQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505061218443075000" />
+  </entry>
+  <entry>
     <title>Conley comes back, leads Grizzlies past Warriors 97-90 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/conley-comes-back-leads-grizzlies-past-warriors-97-052730105--nba.html" />
     <author>

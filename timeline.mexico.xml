@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>3 accused of operating fake police department that claimed jurisdiction in 33 states, Mexico</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/302793471.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T17:50:17Z</updated>
+    <published>2015-05-06T17:50:17Z</published>
+    <summary type="html">&lt;p&gt;LOS ANGELES - Los Angeles County sheriff's officials say three people have been arrested for operating a fictitious police department that claims jurisdiction in 33 states and Mexico and says it has existed for 3,000 years.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T17:50:17Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico: 2 Workers Dead, 10 Hurt in Mexico Oil Rig Accident</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/pemex-workers-dead-10-hurt-mexico-oil-rig-30828078" />
     <author>
