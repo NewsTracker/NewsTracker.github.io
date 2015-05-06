@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Engineers inspecting quake-damaged homes in Nepal's capital</title>
+    <link rel="alternate" href="http://news.yahoo.com/engineers-inspecting-quake-damaged-homes-nepals-capital-091952978.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T09:19:52Z</updated>
+    <published>2015-05-06T09:19:52Z</published>
+    <summary type="html">&lt;p&gt;KATHMANDU, Nepal (AP) - More than a thousand engineers are checking damaged houses in Nepal's capital and advising people about whether they are safe.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T09:19:52Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/MW1hJAytCE9Ip4Q44YFvQg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/ap_webfeeds/e032fd624850ad14750f6a7067002e5d.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Nepal's earthquake highlights village exodus of the young</title>
     <link rel="alternate" href="http://news.yahoo.com/nepals-earthquake-reflects-village-exodus-nepali-young-060548795.html" />
     <author>

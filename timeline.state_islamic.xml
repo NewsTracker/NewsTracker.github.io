@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: 2.2 million Iraqis displaced by Islamic State</title>
+    <link rel="alternate" href="http://news.yahoo.com/report-2-2-million-iraqis-displaced-islamic-state-092938933.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T09:35:09Z</updated>
+    <published>2015-05-06T09:35:09Z</published>
+    <summary type="html">&lt;p&gt;BEIRUT (AP) - A Norwegian humanitarian group says a record 38 million people have been internally displaced in their countries worldwide, with 2.2 million Iraqis alone forced to flee from their homes in 2014 after the Islamic State group overrun their areas.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T09:35:09Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Germany: 4 arrests in alleged plot to attack Islamic targets</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/06/germany-4-arrests-in-alleged-plot-to-attack-islamic-targets" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T08:47:52Z</updated>
+    <published>2015-05-06T08:47:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T08:47:52Z</dc:date>
+  </entry>
+  <entry>
     <title>German police arrest 4 they say were plotting to attack Islamic targets; seize explosives</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/05/06/german-police-arrest-4-say-were-plotting-to-attack-islamic-targets-seize/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
