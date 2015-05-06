@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Netanyahu struggles to form Israeli coalition before midnight deadline</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/06/binyamin-netanyahu-israeli-coalition-avigdor-lieberman-defects" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T06:56:06Z</updated>
+    <published>2015-05-06T06:56:06Z</published>
+    <summary type="html">&lt;p&gt;Before Lieberman bailed out, Netanyahu had hoped to forge a rightwing religious lineup with a majority of 67 of parliament's 120 seats.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T06:56:06Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/c6f8377fe9ae1121a0b6be01f3352df4f729460c/0_212_3500_2099/500.jpg" />
+  </entry>
+  <entry>
     <title>Deadline looms for Netanyahu to form governing coalition</title>
     <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/05/06/netanyahu-coalition-deadline/26967149/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-newstopstories" />
     <author>
