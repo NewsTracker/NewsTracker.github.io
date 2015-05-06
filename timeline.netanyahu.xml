@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Netanyahu forms new government just ahead of deadline</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Netanyahu-forms-new-government-just-ahead-of-deadline/articleshow/47182272.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T21:55:02Z</updated>
+    <published>2015-05-06T21:55:02Z</published>
+    <summary type="html">&lt;p&gt;JERUSALEM: Israeli Prime Minister Benjamin Netanyahu held on to his job on Wednesday, announcing that he had hammered together a new coalition government just ahead of a midnight legal deadline.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T21:55:02Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47182281,width-300,resizemode-4/Benjamin-Netanyahu.jpg" />
+  </entry>
+  <entry>
+    <title>Netanyahu clinches deal to form new Israeli government</title>
+    <link rel="alternate" href="http://news.yahoo.com/israels-netanyahu-clinches-deal-coalition-government-sources-193713086--business.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T20:59:56Z</updated>
+    <published>2015-05-06T20:59:56Z</published>
+    <summary type="html">&lt;p&gt;"Israel now has a government," Naftali Bennett, the head of the far-right Jewish Home party announced at parliament after hours of haggling with Netanyahu's Likud deputies over cabinet positions, which were not immediately announced.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T20:59:56Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/KE12E_o3Z2wj8l3WhoGFaA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5NjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-06T193713Z_1_LYNXMPEB450ZA_RTROPTP_2_CNEWS-US-ISRAEL-POLITICS.JPG" />
+  </entry>
+  <entry>
     <title>Israel's Netanyahu Reportedly Close to Forming Coalition</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/israels-netanyahu-races-form-narrow-coalition-government-30836259" />
     <author>

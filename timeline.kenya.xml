@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tribal clash over cattle raid leaves 54 dead in Kenya</title>
+    <link rel="alternate" href="http://www.sfgate.com/world/article/Tribal-clash-over-cattle-raid-leaves-54-dead-in-6246654.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T20:17:29Z</updated>
+    <published>2015-05-06T20:17:29Z</published>
+    <summary type="html">&lt;p&gt;Kenya's interior minister said Wednesday he is deeply disappointed over the killings that happened even after regional politicians signed a peace accord in January.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T20:17:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya Red Cross: 54 killed in cattle raid attacks in Kenya's north</title>
     <link rel="alternate" href="http://www.startribune.com/world/302772041.html" />
     <author>

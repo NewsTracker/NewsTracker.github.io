@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Dives Again Into Bond Market</title>
+    <link rel="alternate" href="http://www.wsj.com/articles/apple-dives-again-into-bond-market-1430920950?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T21:37:10Z</updated>
+    <published>2015-05-06T21:37:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T21:37:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Review: Small life enhancements come with Apple Watch</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article20323509.html%23storylink=rss" />
     <author>

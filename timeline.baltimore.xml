@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore asks Justice Department to investigate police practices</title>
+    <link rel="alternate" href="http://news.yahoo.com/baltimore-asks-u-justice-dept-investigate-police-practices-144055334.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T21:24:25Z</updated>
+    <published>2015-05-06T21:24:25Z</published>
+    <summary type="html">&lt;p&gt;The American Civil Liberties Union said on Wednesday that it had requested information about surveillance flights over Baltimore by the Federal Bureau of Investigation and other agencies that it said may have improperly surveilled and targeted the public.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T21:24:25Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/1S0NSgtlksP0mBxN9FXCdw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/homerun/vox.com/93dcf0146e78ee413064b511a7aa4985.cf.jpg" />
+  </entry>
+  <entry>
+    <title>CVS to Rebuild Baltimore Locations Damaged During Protests</title>
+    <link rel="alternate" href="http://abcnews.go.com/Business/wireStory/cvs-rebuild-baltimore-locations-damaged-protests-30854664" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T20:40:42Z</updated>
+    <published>2015-05-06T20:40:42Z</published>
+    <summary type="html">&lt;p&gt;CVS Health says it will rebuild its store locations that were badly damaged by fire last week during protests in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T20:40:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Baltimore mayor calls for federal investigation into police</title>
     <link rel="alternate" href="http://www.foxnews.com/us/2015/05/06/baltimore-mayor-calls-for-federal-investigation-into-police/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
     <author>
