@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mets pay tribute to slain NYPD officer before game vs. Baltimore; policeman liked Orioles</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/302680031.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T23:45:11Z</updated>
+    <published>2015-05-05T23:45:11Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK - The New York Mets wore NYPD hats and held a moment of silence before Tuesday night's game against Baltimore to honor a police officer who was shot and killed this week while on duty.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T23:45:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Attorney General Lynch meets Gray family in Baltimore</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/us/article/Attorney-General-Lynch-to-visit-Baltimore-after-6242784.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T22:35:14Z</updated>
+    <published>2015-05-05T22:35:14Z</published>
+    <summary type="html">&lt;p&gt;Meanwhile, Baltimore City Council President Jack Young renewed his request that the Justice Department conduct a comprehensive, civil rights investigation into the policies, procedures and practices of the city's police department.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T22:35:14Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/17/75/7929670/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Attorney General Lynch meets Gray family in Baltimore</title>
     <link rel="alternate" href="http://www.sfgate.com/news/us/article/Attorney-General-Lynch-to-visit-Baltimore-after-6242784.php" />
     <author>

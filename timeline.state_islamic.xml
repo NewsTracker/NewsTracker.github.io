@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State claims responsibility for Texas attack</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/experts-doubt-islamic-state-s-claim-of-responsibility-for-texas-attack-1.2358987" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T09:42:00Z</updated>
+    <published>2015-05-05T09:42:00Z</published>
+    <summary type="html">&lt;p&gt;Simpson had worshipped at the Islamic Community Center of Phoenix for about a decade, but he quit showing up over the past two or three months, the president of the mosque told The Associated Press.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T09:42:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State group claims responsibility for Dallas assault</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-05-US--Prophet%20Cartoon%20Contest-Shooting/id-2732389a326049b7a59dfb514522aeb8" />
     <author>
