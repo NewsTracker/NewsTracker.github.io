@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Less than 20 new cases of Ebola last week: U.N.</title>
+    <link rel="alternate" href="http://www.nydailynews.com/life-style/health/20-new-cases-ebola-week-u-n-article-1.2212259" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T14:04:54Z</updated>
+    <published>2015-05-06T14:04:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T14:04:54Z</dc:date>
+  </entry>
+  <entry>
     <title>West African leaders urge Ebola 'Marshall Plan'</title>
     <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/3/african-leaders-urge-ebola-marshall-plan.html" />
     <author>

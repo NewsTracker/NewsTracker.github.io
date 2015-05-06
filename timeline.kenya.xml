@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya Red Cross: 54 killed in cattle raid attacks in Kenya's north</title>
+    <link rel="alternate" href="http://www.startribune.com/world/302772041.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T15:40:29Z</updated>
+    <published>2015-05-06T15:40:29Z</published>
+    <summary type="html">&lt;p&gt;Livestock-keeping nomadic tribes in Kenya's north routinely engage in the traditional practice of cattle raids which experts say has become more deadly because the tribes have moved from using spear and arrows to guns.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T15:40:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenya Red Cross: 54 killed in cattle raid attacks</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/06/kenya-red-cross-54-killed-in-cattle-raid-attacks" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T15:34:06Z</updated>
+    <published>2015-05-06T15:34:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T15:34:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Suspected cattle rustlers kill 45 in northwest Kenya: administrator</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/05/us-kenya-attacks-idUSKBN0NQ0HR20150505?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
