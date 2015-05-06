@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Former FBI agent was arrested outside gates of CIA headquarters</title>
+    <link rel="alternate" href="http://news.yahoo.com/former-fbi-agent-arrested-outside-gates-cia-headquarters-001317536.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T00:13:17Z</updated>
+    <published>2015-05-06T00:13:17Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (Reuters) - A former FBI agent with a history of mental illness was arrested outside CIA headquarters last week during a confrontation with police in which she threatened to bomb the agency, court documents show.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T00:13:17Z</dc:date>
+  </entry>
+  <entry>
     <title>Ex-FBI agent to undergo psychiatric exam after arrest at CIA</title>
     <link rel="alternate" href="http://news.yahoo.com/ex-fbi-agent-psychiatric-exam-arrest-cia-154628863.html" />
     <author>
