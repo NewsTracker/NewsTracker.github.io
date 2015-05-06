@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook's Sheryl Sandberg pays moving tribute to husband and 'best friend'</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/technology/facebook/11584892/Facebooks-Sheryl-Sandberg-pays-moving-tribute-to-husband-and-best-friend.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T21:53:13Z</updated>
+    <published>2015-05-05T21:53:13Z</published>
+    <summary type="html">&lt;p&gt;She also changed her Facebook cover photo on Tuesday morning to a picture of her dancing with Goldberg at their wedding in 2004.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T21:53:13Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03289/goldberg_3289760g.jpg" />
+  </entry>
+  <entry>
     <title>Facebook's Sandberg speaks at husband's memorial</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/06/us-surveymonkey-goldberg-memorial-idUSKBN0NQ2HF20150506?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
