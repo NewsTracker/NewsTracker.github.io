@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico blames drug gangs for string of killings near border</title>
+    <link rel="alternate" href="http://news.yahoo.com/mexico-blames-drug-gangs-string-killings-near-border-000049735.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-07T00:00:49Z</updated>
+    <published>2015-05-07T00:00:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-07T00:00:49Z</dc:date>
+  </entry>
+  <entry>
     <title>3 accused of operating fake police department that claimed jurisdiction in 33 states, Mexico</title>
     <link rel="alternate" href="http://www.startribune.com/nation/302793471.html" />
     <author>

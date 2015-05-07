@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.obamacare.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>17 million gain coverage under Obamacare</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/17-million-gain-coverage-under-obamacare/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-07T01:10:33Z</updated>
+    <published>2015-05-07T01:10:33Z</published>
+    <summary type="html">&lt;p&gt;According to the report, 22.8 million uninsured people became insured and 5.9 million lost coverage from September 2013 to February 2015, when the second open enrollment period ended for Obamacare.&lt;/p&gt;</summary>
+    <dc:date>2015-05-07T01:10:33Z</dc:date>
+  </entry>
+  <entry>
     <title>New study gives more evidence of Obamacare gains for millions</title>
     <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/la-fi-obamacare-coverage-20150506-story.html" />
     <author>
