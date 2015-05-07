@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Philippine volcano ejects ash, but no violent eruption</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Philippine-volcano-ejects-ash-but-no-violent-6247595.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-07T03:32:49Z</updated>
+    <published>2015-05-07T03:32:49Z</published>
+    <summary type="html">&lt;p&gt;MANILA, Philippines (AP) - A Philippine volcano has spewed ash for the second time in less than a week but there were no signs of any eminent violent eruption, the country's chief volcano expert said Thursday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-07T03:32:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Hawaii's Kilauea volcano eruption sends lava, rocks and gas into the air as crater wall collapses</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3068288/Hawaii-s-Kilauea-volcano-eruption-sends-lava-rocks-gas-air-crater-wall-collapses.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
