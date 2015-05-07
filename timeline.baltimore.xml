@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore mayor seeks federal civil-rights probe of police</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Baltimore-mayor-to-announce-DOJ-partnership-6245408.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T23:09:10Z</updated>
+    <published>2015-05-06T23:09:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T23:09:10Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/05/27/7886329/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Baltimore asks Justice Department to investigate police practices</title>
     <link rel="alternate" href="http://news.yahoo.com/baltimore-asks-u-justice-dept-investigate-police-practices-144055334.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.obamacare.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New study gives more evidence of Obamacare gains for millions</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/la-fi-obamacare-coverage-20150506-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T21:07:00Z</updated>
+    <published>2015-05-06T21:07:00Z</published>
+    <summary type="html">&lt;p&gt;People sign up for Obamacare at AltMed Health Services in Los Angeles earlier this year.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T21:07:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Senate adopts GOP budget targeting ObamaCare</title>
     <link rel="alternate" href="http://www.foxnews.com/politics/2015/05/05/senate-adopts-gop-budget-targeting-obamacare/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29" />
     <author>

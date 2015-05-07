@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Police study threat against activist behind cartoon contest</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/06/police-study-threat-against-activist-behind/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T23:44:29Z</updated>
+    <published>2015-05-06T23:44:29Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - The New York Police Department says it's assessing a threat posted on a website related to the Islamic State group against the organizer of a cartoon contest about the Prophet Muhammad.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T23:44:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Texas Incident Fuels Concern About Lone-Wolf Terror Attacks</title>
     <link rel="alternate" href="http://abcnews.go.com/US/wireStory/texas-incident-fuels-concern-lone-wolf-terror-attacks-30853882" />
     <author>
