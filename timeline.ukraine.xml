@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kerry Heads to Russia in First Visit Since Ukraine Crisis</title>
+    <link rel="alternate" href="http://abcnews.go.com/Politics/wireStory/kerry-set-make-trip-russia-ukraine-crisis-30957321" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T17:40:30Z</updated>
+    <published>2015-05-11T17:40:30Z</published>
+    <summary type="html">&lt;p&gt;He first visited Moscow in May 2013 and had meetings with Putin and Lavrov before the Ukraine crisis erupted and Russia annexed the Ukrainian territory of Crimea in early 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T17:40:30Z</dc:date>
+  </entry>
+  <entry>
     <title>Kerry set to make first trip to Russia since Ukraine crisis</title>
     <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Reports-US-Russian-foreign-ministers-to-hold-6255091.php" />
     <author>

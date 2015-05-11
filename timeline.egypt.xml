@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Jazeera reporter sues own channel over Egypt detention</title>
+    <link rel="alternate" href="http://news.yahoo.com/jazeera-reporter-sues-own-channel-over-egypt-detention-174347508.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T17:43:47Z</updated>
+    <published>2015-05-11T17:43:47Z</published>
+    <summary type="html">&lt;p&gt;Cairo (AFP) - An Al-Jazeera journalist on retrial in Egypt has sued his Qatari employer for $100 million, his lawyers said on Monday, claiming the satellite network was negligent and supported blacklisted Islamists.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T17:43:47Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/jVCY0Wvlu7CPFGMTpJAAqQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6416924-1-1-0.jpg" />
+  </entry>
+  <entry>
+    <title>Al-Jazeera reporter sues network for $100m over Egypt detention</title>
+    <link rel="alternate" href="http://www.theguardian.com/media/2015/may/11/al-jazeera-reporter-egypt-detention" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T17:04:52Z</updated>
+    <published>2015-05-11T17:04:52Z</published>
+    <summary type="html">&lt;p&gt;Fahmy's Egyptian lawyer Mohamed Hamouda said his client had chosen Canada to file the lawsuit because "he is seen as a traitor in Egypt" since surrendering his citizenship.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T17:04:52Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/abf579b4f7ae1ae96c5357601cc4a4a7a29e3563/0_0_3710_2227/500.jpg" />
+  </entry>
+  <entry>
     <title>Gaza truck driver hit by gunfire from Egypt</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3076813/Gaza-truck-driver-hit-gunfire-Egypt.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
