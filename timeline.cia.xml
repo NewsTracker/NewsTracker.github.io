@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Former CIA officer sentenced to 3? years in Iran leaks case</title>
+    <link rel="alternate" href="http://news.yahoo.com/former-cia-officer-sentenced-3-185542866.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T19:09:57Z</updated>
+    <published>2015-05-11T19:09:57Z</published>
+    <summary type="html">&lt;p&gt;Sterling, who is African-American, had sued the agency for racial discrimination but had a lawsuit tossed out after the CIA invoked a state-secrets privilege.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T19:09:57Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/fP4Qw5mrYYde2v1P_77lUQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_FINANCIALTIMES/e122a70e17d62d15760f6a7067000990_original.jpg" />
+  </entry>
+  <entry>
+    <title>Former CIA officer sentenced to 3 years in Iran leaks case</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11447116&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T19:05:12Z</updated>
+    <published>2015-05-11T19:05:12Z</published>
+    <summary type="html">&lt;p&gt;The classified operation at the heart of the trial involved using a CIA asset nicknamed Merlin, who had been a Russian nuclear engineer.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T19:05:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Former CIA officer could face long prison term in leaks case</title>
     <link rel="alternate" href="http://news.yahoo.com/former-cia-officer-could-face-long-prison-term-113417055.html" />
     <author>
@@ -421,7 +444,7 @@
     <dc:date>2015-04-19T18:55:14Z</dc:date>
   </entry>
   <entry>
-    <title>CIA director says Iran’s economic peril helped drive nuke deal</title>
+    <title>CIA director says Iran?s economic peril helped drive nuke deal</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/CIA-director-says-Iran-s-economic-peril-helped-6187145.php" />
     <author>
       <name />

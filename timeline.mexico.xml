@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico May Have Right Girl to Return to Mother in Texas</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-girl-return-mother-texas-30961963" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T19:34:06Z</updated>
+    <published>2015-05-11T19:34:06Z</published>
+    <summary type="html">&lt;p&gt;A girl claiming to be a Houston woman's daughter illegally taken to Mexico eight years ago has turned herself in to a court that mistakenly sent another girl to the United States against her will last month, an official said Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T19:34:06Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/logo/AP_logo_update_20130709.gif" />
+  </entry>
+  <entry>
+    <title>Mexico may have right girl to return to mother in Texas</title>
+    <link rel="alternate" href="http://news.yahoo.com/mexico-may-girl-return-mother-texas-183758751.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T19:33:27Z</updated>
+    <published>2015-05-11T19:33:27Z</published>
+    <summary type="html">&lt;p&gt;The whereabouts of Alondra Diaz have been unknown since 2007, when her father allegedly took her to Mexico without her mother's consent.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T19:33:27Z</dc:date>
+  </entry>
+  <entry>
     <title>2 babies die, 29 sickened from bad vaccines in south Mexico</title>
     <link rel="alternate" href="http://www.chron.com/news/medical/article/2-babies-die-29-sickened-from-bad-vaccines-in-6254645.php" />
     <author>
@@ -1415,7 +1438,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -2415,7 +2438,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -2427,7 +2450,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />

@@ -4,6 +4,64 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia's government holds celebration to mark Ebola's end</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/11/liberias-government-holds-celebration-to-mark-ebolas-end" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T18:37:21Z</updated>
+    <published>2015-05-11T18:37:21Z</published>
+    <summary type="html">&lt;p&gt;Liberia's Chief Justice Francis Korkpor called the Ebola crisis "an unprovoked attack on our nation that posed a serious threat to the survival of our existence."&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T18:37:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Liberia's government holds celebration to mark Ebola's end</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/Liberia-s-government-holds-celebration-to-mark-6255650.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T18:37:21Z</updated>
+    <published>2015-05-11T18:37:21Z</published>
+    <summary type="html">&lt;p&gt;A man takes part in the celebrations, to mark Liberia being an Ebola free nation in Monrovia, Liberia, Monday, May 11, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T18:37:21Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/27/61/7961700/5/mosaic_2.jpg" />
+  </entry>
+  <entry>
+    <title>Liberia's government holds celebration to mark Ebola's end</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Liberia-s-government-holds-celebration-to-mark-6255650.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T18:37:21Z</updated>
+    <published>2015-05-11T18:37:21Z</published>
+    <summary type="html">&lt;p&gt;Liberians are gathering in the streets of the capital to celebrate the end of the Ebola epidemic in this West African country.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T18:37:21Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/27/61/7961700/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Liberia's government holds celebration to mark Ebola's end</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/bbd825583c8542898e6fa7d440b9febc/Article_2015-05-11-AF--Liberia-Ebola/id-894b1c5af59b41d1b41db9016cefd5ac" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T14:37:00Z</updated>
+    <published>2015-05-11T14:37:00Z</published>
+    <summary type="html">&lt;p&gt;Liberian President Ellen Johnson Sirleaf, right, speak to a nurse as they celebrate being an Ebola-free nation, in Monrovia, Liberia, Saturday, May 9, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T14:37:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Emails: UN health agency resisted declaring Ebola emergency</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Emails-UN-health-agency-resisted-declaring-Ebola-6146803.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T17:17:03Z</updated>
+    <published>2015-03-20T17:17:03Z</published>
+    <summary type="html">&lt;p&gt;In a meeting at WHO headquarters on July 30, 2014 about Ebola, Liu said she told WHO Director-General Dr. Margaret Chan, "You have the legitimacy and the authority to label it an emergency...You need to step up to the plate."&lt;/p&gt;&lt;p&gt;12, 2014 file photo, a child covers his face as he looks at a man suspected of suffering from the Ebola virus, in a main street and busy area of Monrovia, Liberia.&lt;/p&gt;&lt;p&gt;4, 2014 file photo, people watch as a health worker, right, sprays a man suspected of dying from Ebola with disinfectant chemicals in Monrovia, Liberia.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T17:17:03Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/24/16/7685020/11/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Panel critiques WHO response to Ebola, questions why action slow after early warnings</title>
     <link rel="alternate" href="http://www.startribune.com/panel-calls-for-change-at-who-after-slow-response-to-ebola/303276151/" />
     <author>
@@ -1758,18 +1816,6 @@
     <published>2015-03-20T18:25:14Z</published>
     <summary type="html" />
     <dc:date>2015-03-20T18:25:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Emails: UN health agency resisted declaring Ebola emergency</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Emails-UN-health-agency-resisted-declaring-Ebola-6146803.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T17:17:03Z</updated>
-    <published>2015-03-20T17:17:03Z</published>
-    <summary type="html">&lt;p&gt;In a meeting at WHO headquarters on July 30, 2014 about Ebola, Liu said she told WHO Director-General Dr. Margaret Chan, "You have the legitimacy and the authority to label it an emergency...You need to step up to the plate."&lt;/p&gt;&lt;p&gt;12, 2014 file photo, a child covers his face as he looks at a man suspected of suffering from the Ebola virus, in a main street and busy area of Monrovia, Liberia.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T17:17:03Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/35/24/16/7685020/11/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Emails: UN health agency resisted declaring Ebola emergency</title>

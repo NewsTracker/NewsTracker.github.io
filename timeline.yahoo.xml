@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Former Duke guard Rasheed Sulaimon transferring to Maryland (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/former-duke-guard-rasheed-sulaimon-transferring-maryland-174308504--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T19:27:18Z</updated>
+    <published>2015-05-11T19:27:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-11T19:27:18Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/TVE0LdvhPjVE_bKba4bW_Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505111349497927860" />
+  </entry>
+  <entry>
     <title>LeBron changes play, hits jumper at horn to beat Bulls (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/james-hits-jumper-buzzer-lifts-cavaliers-over-bulls-222655029--nba.html" />
     <author>
