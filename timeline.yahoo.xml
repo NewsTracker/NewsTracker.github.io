@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>LeBron changes play, hits jumper at horn to beat Bulls (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/james-hits-jumper-buzzer-lifts-cavaliers-over-bulls-222655029--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T01:20:01Z</updated>
+    <published>2015-05-11T01:20:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-11T01:20:01Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Woods has worst 72-hole performance at Players (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/woods-worst-72-hole-performance-players-175233358--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-10T21:28:52Z</updated>
+    <published>2015-05-10T21:28:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-10T21:28:52Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Harper's 3 HRs, 5 RBIs lift Nationals over Marlins 7-5 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/harpers-3-hrs-5-rbis-lift-nationals-over-195741764--mlb.html" />
     <author>

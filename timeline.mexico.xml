@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>2 babies die, 29 sickened from bad vaccines in south Mexico</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/2-babies-die-29-sickened-from-bad-vaccines-in-6254645.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T02:33:21Z</updated>
+    <published>2015-05-11T02:33:21Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (AP) - Mexico's public health system has suspended infant vaccines and mounted an investigation after two babies died and 29 were sickened in an impoverished community in southern Mexico.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T02:33:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico blames drug gangs for string of killings near border</title>
     <link rel="alternate" href="http://news.yahoo.com/mexico-blames-drug-gangs-string-killings-near-border-000049735.html" />
     <author>
