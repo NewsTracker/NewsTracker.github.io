@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Panel calls for change at WHO after slow response to Ebola</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/Panel-questions-why-WHO-response-slow-to-Ebola-6255387.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T15:37:23Z</updated>
+    <published>2015-05-11T15:37:23Z</published>
+    <summary type="html">&lt;p&gt;Internal documents obtained by The Associated Press earlier this year detail how WHO resisted declaring the Ebola outbreak a public health emergency until months after staff considered raising the alarm.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T15:37:23Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/25/30/7951931/9/622x350.jpg" />
+  </entry>
+  <entry>
     <title>Panel questions why WHO response slow to Ebola</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article20658582.html%23storylink=rss" />
     <author>
