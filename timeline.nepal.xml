@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest on Nepal: Earthquake causes rocks to fall from mountains in Tibet</title>
+    <link rel="alternate" href="http://www.startribune.com/the-latest-on-nepal-rocks-fall-in-tibet-following-quake/303381471/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T09:55:25Z</updated>
+    <published>2015-05-12T09:55:25Z</published>
+    <summary type="html">&lt;p&gt;The Norwegian Red Cross, which was helping people from the April 25 earthquake at a 60-bed hospital in Chautara in central Nepal, added in a Twitter posting that their hospital tents already had received patients.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T09:55:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>The Latest on Nepal: Rocks fall in Tibet following quake</title>
+    <link rel="alternate" href="http://news.yahoo.com/latest-nepal-deaths-reported-latest-quake-084115384.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T09:50:50Z</updated>
+    <published>2015-05-12T09:50:50Z</published>
+    <summary type="html">&lt;p&gt;The magnitude-7.3 earthquake that struck Nepal on Tuesday was felt across the border in Tibet's Jilong and Zhangmu regions, and was felt slightly in the Tibetan capital of Lhasa.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T09:50:50Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/iGRh38JKxzdqALb0Wcx5cg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9f950f71402c4115760f6a70670030b8.jpg" />
+  </entry>
+  <entry>
+    <title>The Latest on Nepal: Rocks fall in Tibet following quake</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/The-Latest-on-Nepal-Some-deaths-reported-in-6257399.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T09:50:43Z</updated>
+    <published>2015-05-12T09:50:43Z</published>
+    <summary type="html">&lt;p&gt;In this photo provided by the International Organization for Migration (IOM), people gather in the street after an earthquake in Kathmandu, Nepal, Tuesday, May 12, 2015.&lt;/p&gt;&lt;p&gt;Norway's Red Cross says there were "many injured, several killed" in a strong earthquake that hit Nepal on Tuesday, less than three weeks after a massive quake struck the South Asian country.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T09:50:43Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/30/50/7965211/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>Another major quake hits Nepal, epicenter near China border</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20728302.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T09:23:15Z</updated>
+    <published>2015-05-12T09:23:15Z</published>
+    <summary type="html">&lt;p&gt;A major earthquake hit Nepal in a remote region near the Chinese border on Tuesday, killing at least four people less than three weeks after the country was ravaged by another deadly quake.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T09:23:15Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>New Nepal earthquake: Magnitude 7.4 quake strikes Nepal</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/new-nepal-earthquake-magnitude-74-quake-strikes-nepal-20150512-gh0080.html" />
     <author>
