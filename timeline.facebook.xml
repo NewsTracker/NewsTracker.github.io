@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Man arrested after 'liking' mug shot on Facebook posts bond</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Man-arrested-after-liking-mug-shot-on-Facebook-6258712.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T20:11:29Z</updated>
+    <published>2015-05-12T20:11:29Z</published>
+    <summary type="html">&lt;p&gt;This cellphone screenshot provided by Aaron Pursell of Great Falls/Cascade County Crimestoppers, shows the Cascade County, Mont., jail booking mugshots of Levi Charles Reardon, posted on the Crimestoppers Facebook page.&lt;/p&gt;&lt;p&gt;Reardon, of Great Falls, was arrested on April 24, 2015, on felony forgery charges, three weeks after an acquaintance pointed out his picture on the Facebook page and he "liked" it.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T20:11:29Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/31/25/7968113/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Man arrested after 'liking' mug shot on Facebook posts bond</title>
+    <link rel="alternate" href="http://www.usnews.com/news/offbeat/articles/2015/05/12/man-arrested-after-liking-mug-shot-on-facebook-posts-bond" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T20:11:29Z</updated>
+    <published>2015-05-12T20:11:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-12T20:11:29Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png" />
+  </entry>
+  <entry>
     <title>Mississippi Subway employee fired after celebrating Hattiesburg police deaths on Facebook</title>
     <link rel="alternate" href="http://www.foxnews.com/us/2015/05/12/mississippi-subway-employee-fired-after-celebrating-hattiesburg-police-deaths/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
     <author>
@@ -1248,7 +1272,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
