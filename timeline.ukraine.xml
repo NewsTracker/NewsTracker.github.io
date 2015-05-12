@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Scores of Russian soldiers killed in Ukraine: report</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-05-13/scores-of-russian-soldiers-killed-in-ukraine-opposition-report/6465280" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T19:35:28Z</updated>
+    <published>2015-05-12T19:35:28Z</published>
+    <summary type="html">&lt;p&gt;"The main conclusion of our report is that we have collected and systematised [information] which we think provides ample evidence of the presence of Russian soldiers in Ukraine," he told a news conference to unveil the report, called Putin.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T19:35:28Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/5293418-3x2-340x227.jpg" />
+  </entry>
+  <entry>
     <title>Kerry in Russia to discuss conflicts with Putin</title>
     <link rel="alternate" href="http://www.aljazeera.com/news/2015/05/150512074456351.html" />
     <author>
