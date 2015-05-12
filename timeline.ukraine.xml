@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kerry in Russia to discuss conflicts with Putin</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/05/150512074456351.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T15:15:26Z</updated>
+    <published>2015-05-12T15:15:26Z</published>
+    <summary type="html">&lt;p&gt;The US has accused Russia of failing to withdraw heavy equipment such as air defence systems, tanks and artillery from eastern Ukraine in violation of a peace plan agreed in February and known as Minsk 2.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T15:15:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Kerry meets Putin to gauge flexibility on Ukraine, Syria</title>
     <link rel="alternate" href="http://news.yahoo.com/kerry-explore-putins-flexibility-ukraine-syria-074102063.html" />
     <author>

@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Eight On US Marine Helicopter Missing In Nepal</title>
+    <link rel="alternate" href="http://news.sky.com/story/1482762/eight-on-us-marine-helicopter-missing-in-nepal" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T17:59:59Z</updated>
+    <published>2015-05-12T17:59:59Z</published>
+    <summary type="html">&lt;p&gt;A US Marine Corps helicopter with six US Marines and two Nepalese soldiers on board went missing while conducting relief efforts in earthquake-hit Nepal, US Pacific Command says.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T17:59:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Another deadly earthquake spreads fear and misery in Nepal</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20727588.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T17:25:06Z</updated>
+    <published>2015-05-12T17:25:06Z</published>
+    <summary type="html">&lt;p&gt;A rescue worker from USAID along with a sniffer dog looks for survivors at the site of a building that collapsed in an earthquake in Kathmandu, Nepal, Tuesday, May 12, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T17:25:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Another Deadly Earthquake Spreads Fear and Misery in Nepal</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/children-nepal-earthquake-areas-feared-risk-30972733" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T17:21:41Z</updated>
+    <published>2015-05-12T17:21:41Z</published>
+    <summary type="html">&lt;p&gt;Nepal's Parliament was in session when the quake hit, and frightened lawmakers ran for the exits as the building shook and the lights flickered out.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T17:21:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Another deadly earthquake spreads fear and misery in Nepal</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-05-12-AS-Nepal-Earthquake/id-007e089b45c24eac8b9401c3eea72681" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T13:20:00Z</updated>
+    <published>2015-05-12T13:20:00Z</published>
+    <summary type="html">&lt;p&gt;A Nepalese victim of Tuesday's earthquake is carried on a stretcher after she was brought from Charikot, Dolakha District to Teaching Hospital in Kathmandu, Nepal, Tuesday, May 12, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T13:20:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Another Deadly Earthquake Spreads Fear and Misery in Nepal</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/children-nepal-earthquake-areas-feared-risk-30972733" />
     <author>

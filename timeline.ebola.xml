@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nurse in Italy tests positive for Ebola; was in Sierra Leone</title>
+    <link rel="alternate" href="http://news.yahoo.com/nurse-italy-tests-positive-ebola-sierra-leone-174655139.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T17:46:55Z</updated>
+    <published>2015-05-12T17:46:55Z</published>
+    <summary type="html">&lt;p&gt;The nurse, who wasn't identified to protect his privacy, worked for the non-governmental aid group Emergency in Sierra Leone, one of the African countries hardest hit by often-fatal Ebola.&lt;/p&gt;&lt;p&gt;He will soon be transferred to Rome's Spallanzani infectious disease hospital, which last year successfully treated an Italian doctor who contracted Ebola after working in Sierra Leone, also for Emergency.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T17:46:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Italian nurse back from Sierra Leone tests positive for Ebola</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/12/us-italy-ebola-idUSKBN0NX25B20150512?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T17:35:42Z</updated>
+    <published>2015-05-12T17:35:42Z</published>
+    <summary type="html">&lt;p&gt;ROME An Italian nurse who returned to Italy last week after working in Sierra Leone has tested positive for Ebola, the health ministry said on Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T17:35:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Bavarian Nordic gets 50 million euro EIB loan for Ebola vaccine</title>
     <link rel="alternate" href="http://news.yahoo.com/bavarian-nordic-gets-50-million-euro-eib-loan-145830058--finance.html" />
     <author>
