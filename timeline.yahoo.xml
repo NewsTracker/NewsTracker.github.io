@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kyle Busch to return to car this weekend in All-Star race (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kyle-busch-return-car-weekend-star-race-141416166--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T14:31:07Z</updated>
+    <published>2015-05-12T14:31:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-12T14:31:07Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/l.1LcHvcEEzm5Xbv.DIQ5w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQyNDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201505120923337989612" />
+  </entry>
+  <entry>
     <title>Warriors tie their semifinal at 2-2, rout Grizzlies 101-84 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/golden-state-ties-series-2-2-rout-grizzlies-041006086--nba.html" />
     <author>

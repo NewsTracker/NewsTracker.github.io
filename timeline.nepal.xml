@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Another Deadly Earthquake Spreads Fear and Misery in Nepal</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/children-nepal-earthquake-areas-feared-risk-30972733" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T15:47:39Z</updated>
+    <published>2015-05-12T15:47:39Z</published>
+    <summary type="html">&lt;p&gt;A new earthquake killed dozens of people Tuesday and spread more fear and misery in Nepal, which is still struggling to recover from a devastating quake nearly three weeks ago that left more than 8,000 dead.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T15:47:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>53 dead as 7.4 magnitude aftershock jolts earthquake-hit Nepal after 17 days, triggers panic</title>
+    <link rel="alternate" href="http://ibnlive.in.com/news/53-dead-as-74-magnitude-aftershock-jolts-earthquakehit-nepal-after-17-days-triggers-panic/545235-2.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T15:16:21Z</updated>
+    <published>2015-05-12T15:16:21Z</published>
+    <summary type="html">&lt;p&gt;Politicians dashed for the exit of Nepal's parliament building and office towers swayed as far away as central New Delhi.&lt;/p&gt;&lt;p&gt;Five people were killed in Indian states bordering Nepal, according to officials, and Chinese media reported one person died in Tibet after rocks fell on a car.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T15:16:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Fresh Nepal earthquake kills dozens, triggers panic</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3077904/WRAPUP-1-Another-strong-earthquake-hits-Nepal-no-reports-casualties.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

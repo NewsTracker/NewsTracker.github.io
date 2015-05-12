@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kerry meets Putin to gauge flexibility on Ukraine, Syria</title>
+    <link rel="alternate" href="http://news.yahoo.com/kerry-explore-putins-flexibility-ukraine-syria-074102063.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T14:22:57Z</updated>
+    <published>2015-05-12T14:22:57Z</published>
+    <summary type="html">&lt;p&gt;Kerry met Russian Foreign Minister Sergei Lavrov for more than four hours before he sat down with Putin in the Black Sea resort of Sochi in what was the highest-level U.S. visit to Russia since the Ukraine crisis began in the autumn of 2013.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T14:22:57Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/BaNCsTUExic2E9Rb8J24cA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-05-12T100938Z_1007000001_LYNXMPEB4B0CG_RTROPTP_2_CNEWS-US-UKRAINE-CRISIS-RUSSIA-REPORT.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>Russian Opposition: 220 Russian Soldiers Died in Ukraine</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nemtsov-report-220-russian-soldiers-died-ukraine-battles-30975191" />
     <author>

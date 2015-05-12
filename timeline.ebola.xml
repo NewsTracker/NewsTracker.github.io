@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bavarian Nordic gets 50 million euro EIB loan for Ebola vaccine</title>
+    <link rel="alternate" href="http://news.yahoo.com/bavarian-nordic-gets-50-million-euro-eib-loan-145830058--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T14:58:30Z</updated>
+    <published>2015-05-12T14:58:30Z</published>
+    <summary type="html">&lt;p&gt;The cash injection is another boost for the young pharmaceutical company which struck milestone deals with giants Johnson &amp; Johnson in October for the development of the Ebola vaccine, and with Bristol-Mayers Squibb for the prostate cancer treatment.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T14:58:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>No useful data likely from Ebola vaccine trials: WHO</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-05-13/no-useful-data-likely-from-vaccine-trials-as-ebola-disappears/6465222" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T14:12:00Z</updated>
+    <published>2015-05-12T14:12:00Z</published>
+    <summary type="html">&lt;p&gt;With Ebola nearly stamped out in West Africa, vaccine trials will probably fail to provide enough useful data on how well they protect people against the deadly virus, the World Health Organisation (WHO) says.&lt;/p&gt;&lt;p&gt;But two experimental Ebola vaccines - developed by GlaxoSmithKline and jointly by Merck and NewLink Genetics - being tested on volunteers may not yield sufficient data on efficacy as case numbers fall, Ms Kieny said.&lt;/p&gt;&lt;p&gt;The UN agency this week hosted a two-day experts' meeting on Ebola research and development after the world's largest epidemic that has killed more than 11,000 since December 2013.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T14:12:00Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/5961358-3x2-340x227.jpg" />
+  </entry>
+  <entry>
     <title>Emails: UN health agency resisted declaring Ebola emergency</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article15432680.html%23storylink=rss" />
     <author>
