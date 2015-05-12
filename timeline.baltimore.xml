@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>MLB: Orioles win in return to Baltimore</title>
+    <link rel="alternate" href="http://www.mercurynews.com/sports/ci_28097725/mlb-orioles-win-return-baltimore?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T05:46:08Z</updated>
+    <published>2015-05-12T05:46:08Z</published>
+    <summary type="html">&lt;p&gt;Orioles 5, Blue Jays 2: Manny Machado, Chris Davis and Adam Jones hit homers, and the Orioles won in their return to Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T05:46:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Orioles' return launches big sports week in Baltimore</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/11/orioles-return-launches-big-sports-week-in/" />
     <author>

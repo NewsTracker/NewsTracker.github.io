@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Warriors tie their semifinal at 2-2, rout Grizzlies 101-84 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/golden-state-ties-series-2-2-rout-grizzlies-041006086--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T05:21:05Z</updated>
+    <published>2015-05-12T05:21:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-12T05:21:05Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
     <title>Teague leads Hawks past Wizards 106-101 to tie series (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/teague-leads-hawks-past-wizards-106-101-tie-014151668--nba.html" />
     <author>
