@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nemtsov.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nemtsov report: 220 Russian soldiers died in Ukraine battles</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/12/nemtsov-report-220-russian-soldiers-died-in-ukraine-battles" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T11:10:28Z</updated>
+    <published>2015-05-12T11:10:28Z</published>
+    <summary type="html">&lt;p&gt;Around 70 Russian soldiers died in January and February in fighting around the city of Debaltseve, the report said, adding that their family members were unable to receive compensation and appealed to Nemtsov for help.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T11:10:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nemtsov report: 220 Russian soldiers died in Ukraine battles</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Nemtsov-report-220-Russian-soldiers-died-in-6257467.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T11:10:28Z</updated>
+    <published>2015-05-12T11:10:28Z</published>
+    <summary type="html">&lt;p&gt;It was presented to the public by other opposition figures from the political party that Nemtsov co-chaired.&lt;/p&gt;&lt;p&gt;According to Nemtsov's sources, at least 150 Russian soldiers died in August 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T11:10:28Z</dc:date>
+  </entry>
+  <entry>
     <title>Nemtsov report: At least 220 Russian soldiers died in 2 battles in eastern Ukraine</title>
     <link rel="alternate" href="http://www.startribune.com/nemtsov-report-220-russian-soldiers-died-in-ukraine-battles/303384701/" />
     <author>

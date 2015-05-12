@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Nepal quake kills 2 in neighbouring India states</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Nepal-quake-kills-2-in-neighbouring-India-states-20150512-2" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T10:52:29Z</updated>
+    <published>2015-05-12T10:52:29Z</published>
+    <summary type="html">&lt;p&gt;Bihar shares a border with Nepal which was hit by a 7.3 quake just weeks after a devastating temblor killed more than 8 000 people and damaged hundreds of thousands of buildings.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T10:52:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>The Latest on Nepal: Earthquake causes rocks to fall from mountains in Tibet</title>
+    <link rel="alternate" href="http://www.startribune.com/the-latest-on-nepal-death-toll-rises-to-19-in-latest-quake/303381471/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T09:55:25Z</updated>
+    <published>2015-05-12T09:55:25Z</published>
+    <summary type="html">&lt;p&gt;The earthquake hit a remote mountains region of Nepal early Tuesday afternoon, triggering landslides and toppling buildings less than three weeks after the country was ravaged by its worst quake in decades.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T09:55:25Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest on Nepal: Earthquake causes rocks to fall from mountains in Tibet</title>
     <link rel="alternate" href="http://www.startribune.com/the-latest-on-nepal-rocks-fall-in-tibet-following-quake/303381471/" />
     <author>
