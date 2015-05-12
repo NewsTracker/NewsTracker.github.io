@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Emails: UN health agency resisted declaring Ebola emergency</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article15432680.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T17:13:07Z</updated>
+    <published>2015-03-20T17:13:07Z</published>
+    <summary type="html">&lt;p&gt;Britain, China, the U.S. and others all built Ebola clinics in West Africa, but many weren't ready until late fall - after the epidemic's peak.&lt;/p&gt;&lt;p&gt;By the end of August, the biggest Ebola hospital run by Doctors Without Borders in the Liberian capital could only open for 30 minutes every morning and people were dying on the ground outside the gates.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T17:13:07Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Liberia's government holds celebration to mark Ebola's end</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/11/liberias-government-holds-celebration-to-mark-ebolas-end" />
     <author>
@@ -1816,18 +1828,6 @@
     <published>2015-03-20T18:25:14Z</published>
     <summary type="html" />
     <dc:date>2015-03-20T18:25:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Emails: UN health agency resisted declaring Ebola emergency</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article15432680.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T17:13:07Z</updated>
-    <published>2015-03-20T17:13:07Z</published>
-    <summary type="html">&lt;p&gt;Britain, China, the U.S. and others all built Ebola clinics in West Africa, but many weren't ready until late fall - after the epidemic's peak.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T17:13:07Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Emails: UN health agency resisted declaring Ebola emergency</title>

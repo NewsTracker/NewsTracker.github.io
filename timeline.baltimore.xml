@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Orioles' return launches big sports week in Baltimore</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/11/orioles-return-launches-big-sports-week-in/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T01:35:49Z</updated>
+    <published>2015-05-12T01:35:49Z</published>
+    <summary type="html">&lt;p&gt;Inside the stadium, the home team wore jerseys with the script word "Baltimore" across the front instead of the customary "Orioles."&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T01:35:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Orioles' return launches big sports week in Baltimore</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/347875155d53465d95cec892aeb06419/Article_2015-05-11-BBA--Orioles%20Return/id-6cbfdde76f0f4e83ad368a91125f6dfc" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T22:04:00Z</updated>
+    <published>2015-05-11T22:04:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-11T22:04:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Orioles' Return Launches Big Sports Week in Baltimore</title>
     <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/orioles-return-launches-big-sports-week-baltimore-30967032" />
     <author>
