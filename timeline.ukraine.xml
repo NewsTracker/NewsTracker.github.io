@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russian Opposition: 220 Russian Soldiers Died in Ukraine</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nemtsov-report-220-russian-soldiers-died-ukraine-battles-30975191" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T13:19:52Z</updated>
+    <published>2015-05-12T13:19:52Z</published>
+    <summary type="html">&lt;p&gt;Many Russian citizens engaged in fighting in eastern Ukraine have freely admitted where they come from, but stopped short of confirming they are fighting under Moscow's orders.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T13:19:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russian troops 'died in Ukraine'</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/russian-troops-died-in-ukraine-31215149.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T10:16:21Z</updated>
+    <published>2015-05-12T10:16:21Z</published>
+    <summary type="html">&lt;p&gt;Opposition activist Ilya Yashin, who presented "Putin.War" in Moscow, said that by conservative estimates at least 220 Russian soldiers had died in two battles in eastern Ukraine in the past year.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T10:16:21Z</dc:date>
+    <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31215148.ece/ad8c3/ALTERNATES/h342/PANews%20BT_P-6e69324d-31d1-4207-8cf6-c67e92cd1c1d_I1.jpg" />
+  </entry>
+  <entry>
     <title>Polish lawmakers engage in military training due to 'troubled times' in neighboring Ukraine</title>
     <link rel="alternate" href="http://www.startribune.com/polish-lawmakers-get-military-training-for-troubled-times/303397561/" />
     <author>

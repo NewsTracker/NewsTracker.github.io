@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nemtsov.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nemtsov's final report: 220 Russian soldiers killed in Ukraine</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/5/12/nemtsov-report-220-russians-killed-in-ukraine.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T11:21:00Z</updated>
+    <published>2015-05-12T11:21:00Z</published>
+    <summary type="html">&lt;p&gt;Nemtsov was shot dead in central Moscow in February and members of his party, the liberal RPR-Parnas, and several opposition journalists helped finish the 65-page report.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T11:21:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/external/2015/3/mourners-honor-russianoppositionleadernemtsov/_jcr_content/image.adapt.480.low.Russia_Nemtsov_mourners_030215.jpg" />
+  </entry>
+  <entry>
     <title>Nemtsov report: 220 Russian soldiers died in Ukraine battles</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/12/nemtsov-report-220-russian-soldiers-died-in-ukraine-battles" />
     <author>
