@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Teague leads Hawks past Wizards 106-101 to tie series (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/teague-leads-hawks-past-wizards-106-101-tie-014151668--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T01:46:10Z</updated>
+    <published>2015-05-12T01:46:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-12T01:46:10Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/nba/teams/83/70x70/atl.png" />
+  </entry>
+  <entry>
     <title>Former Duke guard Rasheed Sulaimon transferring to Maryland (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/former-duke-guard-rasheed-sulaimon-transferring-maryland-174308504--ncaab.html" />
     <author>
