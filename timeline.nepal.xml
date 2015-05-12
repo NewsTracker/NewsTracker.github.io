@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New Nepal earthquake: Magnitude 7.4 quake strikes Nepal</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/new-nepal-earthquake-magnitude-74-quake-strikes-nepal-20150512-gh0080.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T07:57:52Z</updated>
+    <published>2015-05-12T07:57:52Z</published>
+    <summary type="html">&lt;p&gt;A magnitude 7.4 (revised to 7.1) earthquake struck the Nepal-Tibet border on Tuesday, the US Geological Survey said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T07:57:52Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/0/0/r/n/image.related.articleLeadwide.620x349.gh0080.png/1431417515358.jpg" />
+  </entry>
+  <entry>
+    <title>Another major earthquake hits Nepal, epicenter in remote area near Chinese border</title>
+    <link rel="alternate" href="http://news.yahoo.com/another-major-earthquake-hits-nepal-epicenter-remote-area-073106369.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T07:31:04Z</updated>
+    <published>2015-05-12T07:31:04Z</published>
+    <summary type="html">&lt;p&gt;KATHMANDU, Nepal (AP) - Another major earthquake hits Nepal, epicenter in remote area near Chinese border.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T07:31:04Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/7mVeP_3k3rhVIKRcrrAGpw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-HKG-Hkg10177981-1-1-0.jpg.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Nepal army rescues 117 people stranded in trekking villages after quake</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/storystream/magnitude-74-earthquake-strikes-nepal" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T06:03:56Z</updated>
+    <published>2015-05-12T06:03:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-12T06:03:56Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/full/public/nepal_101_0.jpg?itok=TQQqd9BR&amp;amp;amp;mtime=1430723188" />
+  </entry>
+  <entry>
     <title>Search for bodies in Nepal village suspended due to avalanches</title>
     <link rel="alternate" href="http://ibnlive.in.com/news/search-for-bodies-in-nepal-village-suspended-due-to-avalanches/544878-2.html" />
     <author>

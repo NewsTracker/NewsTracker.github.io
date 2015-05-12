@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fin24.com | Facebook allowed to sue law firms over fake case</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Facebook-allowed-to-sue-law-firms-over-fake-case-20150512" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T07:17:12Z</updated>
+    <published>2015-05-12T07:17:12Z</published>
+    <summary type="html">&lt;p&gt;Rakower said that, accepting Facebook's claims as true, its complaint adequately alleged the law firms "knew there was no basis - and therefore no probable cause - for Ceglia's claims".&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T07:17:12Z</dc:date>
+  </entry>
+  <entry>
     <title>IBM, Facebook team up on analytics, advertising</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3070972/IBM-Facebook-team-analytics-advertising.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1226,7 +1237,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
