@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Houston avoids elimination with 124-103 win over Clippers (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/houston-avoids-elimination-124-103-win-over-clippers-043144098--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T05:36:26Z</updated>
+    <published>2015-05-13T05:36:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-13T05:36:26Z</dc:date>
+    <media:content url="http://l.yimg.com/j/assets/i/us/sp/v/nba/teams/83/70x70/hou.png" />
+  </entry>
+  <entry>
     <title>Bulls Taj Gibson ejected in 4th quarter of Game 5 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/bulls-taj-gibson-ejected-4th-quarter-game-5-011705349--nba.html" />
     <author>

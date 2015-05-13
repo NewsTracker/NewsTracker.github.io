@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook Begins Hosting News Articles From Nine Publishers</title>
+    <link rel="alternate" href="http://blogs.wsj.com/digits/2015/05/13/facebook-begins-hosting-news-articles-from-nine-publishers/?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T06:00:54Z</updated>
+    <published>2015-05-13T06:00:54Z</published>
+    <summary type="html">&lt;p&gt;Instant Articles will let publishers "deliver fast, interactive articles while maintaining control of their content and business models," said Facebook Chief Product Officer Chris Cox, in a blog post.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T06:00:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Man arrested after 'liking' mug shot on Facebook posts bond</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Man-arrested-after-liking-mug-shot-on-Facebook-6258712.php" />
     <author>
