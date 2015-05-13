@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook ties up with publishers to directly inject news</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/technology/facebook-ties-up-with-publishers-to-directly-inject-news/article24414354/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T06:52:20Z</updated>
+    <published>2015-05-13T06:52:20Z</published>
+    <summary type="html">&lt;p&gt;Facebook Inc tied up with nine news publishers to launch "Instant Articles" that will let them publish articles directly to the social network's mobile news feeds.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T06:52:20Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/c58/technology/article24414353.ece/ALTERNATES/w220/XNYT128-A+National+Geograph.JPG" />
+  </entry>
+  <entry>
+    <title>Facebook, 9 Media Outlets Launch 'Instant Articles' Platform To Directly Publish News On Mobile Feeds</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/05/13/facebook-instant-articles_n_7271596.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T05:45:00Z</updated>
+    <published>2015-05-13T05:45:00Z</published>
+    <summary type="html">&lt;p&gt;The news publishers can either sell and embed advertisements in the articles and keep all of the revenue, or allow Facebook to sell ads.&lt;/p&gt;&lt;p&gt;The other launch partners for Instant Articles are NBC, The Atlantic, The Guardian, BBC News, Spiegel and Bild, Facebook said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T05:45:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook Begins Hosting News Articles From Nine Publishers</title>
     <link rel="alternate" href="http://blogs.wsj.com/digits/2015/05/13/facebook-begins-hosting-news-articles-from-nine-publishers/?mod=rss_Technology" />
     <author>
