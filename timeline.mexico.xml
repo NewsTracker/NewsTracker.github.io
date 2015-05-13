@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico Doing DNA Tests on Girl in Mistaken-Identity Case</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-dna-tests-girl-mistaken-identity-case-31008422" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T21:08:52Z</updated>
+    <published>2015-05-13T21:08:52Z</published>
+    <summary type="html">&lt;p&gt;A Texas woman whose 8-year search for her missing daughter in Mexico led her to be handed the wrong girl now believes she has found the right one.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T21:08:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico says bacteria contaminated vaccine blamed in deaths of 2 babies, sickening of 31</title>
+    <link rel="alternate" href="http://www.startribune.com/mexico-says-bacteria-contaminated-vaccine-blamed-in-2-deaths/303654341/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T20:45:23Z</updated>
+    <published>2015-05-13T20:45:23Z</published>
+    <summary type="html">&lt;p&gt;The vaccinations for tuberculosis, rotovirus and hepatitis B were administered at a clinic in the impoverished Indian village of La Pimienta in the township of Simojovel in Mexico's southern state of Chiapas.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T20:45:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico says bacteria contaminated vaccine blamed in 2 deaths</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11448475&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T20:45:18Z</updated>
+    <published>2015-05-13T20:45:18Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (AP) " Mexico's public health system says a localized bacterial contamination appears to have been responsible for infant vaccine causing the deaths of two babies and the sickening of 31.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T20:45:18Z</dc:date>
+  </entry>
+  <entry>
     <title>El Paso Electric seeks to raise rates in southern New Mexico</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article20805513.html%23storylink=rss" />
     <author>
@@ -1605,7 +1638,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -2605,7 +2638,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -2617,7 +2650,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
