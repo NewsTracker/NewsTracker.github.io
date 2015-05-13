@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Another major quake rattles Nepal, killing at least 42</title>
+    <link rel="alternate" href="http://news.yahoo.com/children-nepal-earthquake-areas-feared-risk-070556723.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T03:52:38Z</updated>
+    <published>2015-05-13T03:52:38Z</published>
+    <summary type="html">&lt;p&gt;Local residents evacuate from a shop during an earthquake in central Kathmandu, Nepal, May 12, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T03:52:38Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Magnitude 7.4 earthquake strikes in Nepal</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/storystream/shelter-desperately-needed-nepal-rain-season-looms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T07:36:55Z</updated>
+    <published>2015-05-12T07:36:55Z</published>
+    <summary type="html">&lt;p&gt;Residents in the Indian town of Siliguri, near the border with Nepal, said chunks of concrete fell off one or two buildings.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T07:36:55Z</dc:date>
+  </entry>
+  <entry>
     <title>US Marine helicopter with 8 aboard missing in Nepal quake zone</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/south-asia/US-Marine-helicopter-with-8-aboard-missing-in-Nepal-quake-zone/articleshow/47255136.cms" />
     <author>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple CEO Tim Cook meets with top Chinese official in Beijing</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11448032&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T02:18:41Z</updated>
+    <published>2015-05-13T02:18:41Z</published>
+    <summary type="html">&lt;p&gt;After trying to break into the Chinese market, Apple has seen spectacular success over the past year, particularly with iPhone sales in the country.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T02:18:41Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201515/SCCZEN_AP150603210646_140x93.jpg" />
+  </entry>
+  <entry>
+    <title>Apple CEO meets with Chinese vice premier in Beijing</title>
+    <link rel="alternate" href="http://news.yahoo.com/apple-ceo-meets-chinese-vice-premier-beijing-013920916.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T02:03:39Z</updated>
+    <published>2015-05-13T02:03:39Z</published>
+    <summary type="html">&lt;p&gt;China accounts for 30 percent of total Apple revenue, with Chinese sales growing by 71 percent in the last quarter.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T02:03:39Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/goKVLuBpONtQi7VqFr.lkg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/homerun/zdnet.cbs.com/8d9c63ded77030fedb1c935a7f448118.cf.jpg" />
+  </entry>
+  <entry>
     <title>Apple CEO meets with Chinese vice premier in Beijing</title>
     <link rel="alternate" href="http://news.yahoo.com/apple-ceo-meets-chinese-vice-premier-beijing-013920916.html" />
     <author>
