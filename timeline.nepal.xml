@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal officials tell people to leave quake-damaged buildings</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20804187.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T11:35:06Z</updated>
+    <published>2015-05-13T11:35:06Z</published>
+    <summary type="html">&lt;p&gt;Officials with bullhorns walked through the quake-damaged streets of this small Nepal town Wednesday, calling for people to leave buildings in danger of falling after a second major earthquake in less than three weeks.&lt;/p&gt;&lt;p&gt;Jit Bahadur Shrestha, 65, from Nepal's Makwanpur district, injured in Tuesday's earthquake, lies at the Bir hospital in Kathmandu, Nepal, Wednesday, May 13, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T11:35:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Nepal officials tell people to leave quake-damaged buildings</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-13-AS--Nepal-Earthquake/id-a135f510ca4f446ab57801ab3109369d" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T07:56:00Z</updated>
+    <published>2015-05-13T07:56:00Z</published>
+    <summary type="html">&lt;p&gt;Bala Ram Nakarmi, 77, who was injured in Tuesday's earthquake, receives treatment at the Bir hospital in Kathmandu, Nepal, Wednesday, May 13, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T07:56:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nepal officials tell people to leave quake-damaged buildings</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-05-13-AS--Nepal-Earthquake/id-a135f510ca4f446ab57801ab3109369d" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T07:56:00Z</updated>
+    <published>2015-05-13T07:56:00Z</published>
+    <summary type="html">&lt;p&gt;A Nepalese patient eat her breakfast as she stays inside a makeshift tent outside a hospital following Tuesday's earthquake in Kathmandu, Nepal, Wednesday, May 13, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T07:56:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Hundreds search for missing US helicopter after second Nepal quake kills scores</title>
     <link rel="alternate" href="http://ibnlive.in.com/news/hundreds-search-for-missing-us-helicopter-after-second-nepal-quake-kills-scores/545354-2.html" />
     <author>
