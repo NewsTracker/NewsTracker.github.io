@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Hillary Clinton emails reviewed for release</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Hillary-Clinton-emails-reviewed-for-release-20150306" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T06:00:21Z</updated>
+    <published>2015-03-06T06:00:21Z</published>
+    <summary type="html">&lt;p&gt;The White House legal counsel's office was not aware of Clinton's private email account until the committee sought her communications during an earlier exchange with the department, according to a person familiar with the matter.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T06:00:21Z</dc:date>
+    <media:content url="http://cdn.24.co.za/files/Cms/General/d/3002/45dd7d44e8de4e11b6f150e9c4ce35e7.jpg" />
+  </entry>
+  <entry>
     <title>State Department rarely raised concerns over Bill Clinton speeches when wife led agency</title>
     <link rel="alternate" href="http://www.startribune.com/us-ok-d-most-bill-clinton-speech-requests-within-days/303377401/" />
     <author>
@@ -1254,7 +1266,7 @@
     <media:content url="http://l.yimg.com/bt/api/res/1.2/3sGD4v8muTCNpfLSzsoh5w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8913621-1-1-0.jpg.cf.jpg" />
   </entry>
   <entry>
-    <title>Hillary Clinton’s campaign signs lease for Brooklyn Heights</title>
+    <title>Hillary Clinton?s campaign signs lease for Brooklyn Heights</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-campaign-signs-lease-brooklyn-heights-article-1.2172344" />
     <author>
       <name />

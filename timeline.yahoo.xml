@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bulls Taj Gibson ejected in 4th quarter of Game 5 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bulls-taj-gibson-ejected-4th-quarter-game-5-011705349--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T01:25:42Z</updated>
+    <published>2015-05-13T01:25:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-13T01:25:42Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/5zat1ABq70gAgs.Ny1M6aw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/f4be95df4c5ceae49ff02a8c2f160b27" />
+  </entry>
+  <entry>
     <title>APNewsBreak: Former player arrested in NC sports agent probe (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/apnewsbreak-former-player-arrested-nc-sports-agent-probe-143625118--ncaaf.html" />
     <author>

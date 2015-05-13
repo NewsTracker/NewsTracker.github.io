@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple CEO meets with Chinese vice premier in Beijing</title>
+    <link rel="alternate" href="http://news.yahoo.com/apple-ceo-meets-chinese-vice-premier-beijing-013920916.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T01:39:20Z</updated>
+    <published>2015-05-13T01:39:20Z</published>
+    <summary type="html">&lt;p&gt;A day earlier, Cook announced cooperation between Apple and the environmental group the World Wildlife Fund to responsibly manage Chinese forests and minimize the company's environmental impact.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T01:39:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple CEO meets with Chinese vice premier in Beijing</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Apple-CEO-meets-with-Chinese-vice-premier-in-6259485.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T01:39:12Z</updated>
+    <published>2015-05-13T01:39:12Z</published>
+    <summary type="html">&lt;p&gt;BEIJING (AP) - Apple CEO Tim Cook has met with a top Chinese official in Beijing while touring a country that has become the tech giant's biggest driver of sales growth.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T01:39:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple finally joins dow jones industrial average after splitting stocks</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-2982991/Apple-finally-joins-America-s-prestigious-Dow-Jones-index-splitting-stocks-lower-sky-high-share-price.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1210,7 +1232,7 @@
     <media:content url="https://s.yimg.com/os/en_us/News/Reuters/2015-04-14T172914Z_1_LYNXMPEB3D0UI_RTROPTP_2_US-BRITTO.JPG" />
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
