@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>IOC strips US of Olympic relay medals in Gay doping case (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/ap-sources-ioc-strips-us-relay-medals-gay-174306546--spt.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T19:26:24Z</updated>
+    <published>2015-05-13T19:26:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-13T19:26:24Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Former UNC coach, assistant Bill Guthridge dies at 77 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/former-unc-coach-assistant-bill-guthridge-dies-77-150818880--ncaab.html" />
     <author>
