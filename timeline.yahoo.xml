@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Former UNC coach, assistant Bill Guthridge dies at 77 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/former-unc-coach-assistant-bill-guthridge-dies-77-150818880--ncaab.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T15:33:32Z</updated>
+    <published>2015-05-13T15:33:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-13T15:33:32Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/NDD.NWc6udwj4bl.QOmkRQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM4MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201505131013367962257" />
+  </entry>
+  <entry>
     <title>Houston avoids elimination with 124-103 win over Clippers (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/houston-avoids-elimination-124-103-win-over-clippers-043144098--nba.html" />
     <author>

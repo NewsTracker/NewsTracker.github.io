@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraq says airstrike kills senior Islamic State commander</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/13/iraq-says-airstrike-kills-senior-islamic-state-commander" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T15:29:12Z</updated>
+    <published>2015-05-13T15:29:12Z</published>
+    <summary type="html">&lt;p&gt;It described al-Afari as senior deputy to the Islamic State group's leader, Abu Bakr al-Baghdadi.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T15:29:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Iraq says U.S.-led airstrike kills senior Islamic State commander in Tal Afar</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/iraq-says-us-led-airstrike-kills-senior-islamic-state-commander-in-tal-afar/article24416590/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T14:39:16Z</updated>
+    <published>2015-05-13T14:39:16Z</published>
+    <summary type="html">&lt;p&gt;The Treasury Department added al-Qaduli to the list of specially designated global terrorists in 2014 "for acting for or on behalf of ... the Islamic State of Iraq and the Levant," a former name for the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T14:39:16Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/fde/news/world/article24416589.ece/ALTERNATES/w220/web-jet-0513.JPG" />
+  </entry>
+  <entry>
+    <title>Iraq says airstrike kills senior Islamic State commander</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11448332&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T14:35:13Z</updated>
+    <published>2015-05-13T14:35:13Z</published>
+    <summary type="html">&lt;p&gt;The U.S. State Department's Rewards for Justice program lists Abu Alaa as one of the aliases for a wanted Islamic State group senior leader named Abd Al-Rahman Mustafa al-Qaduli.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T14:35:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State makes gains in Syria's central province</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/13/islamic-state-makes-gains-in-syrias-central-province" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T12:44:01Z</updated>
+    <published>2015-05-13T12:44:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-13T12:44:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State makes gains in Syria's central province</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11448300&amp;amp;ref=rss" />
     <author>
