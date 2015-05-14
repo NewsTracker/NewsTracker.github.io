@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FBI accuses North Texas man of lying about supporting leader of Islamic State group</title>
+    <link rel="alternate" href="http://www.startribune.com/fbi-accuses-north-texas-man-of-lying-about-islamic-state/303815041/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T21:55:25Z</updated>
+    <published>2015-05-14T21:55:25Z</published>
+    <summary type="html">&lt;p&gt;DALLAS - A suburban Dallas man was arrested Thursday after FBI agents accused him of lying to them about whether he supported the leader of the Islamic State group.&lt;/p&gt;&lt;p&gt;Bilal Abood, 37, of Mesquite, admitted he posted an oath on Twitter to Abu Bakr al-Baghdadi, the leader of the Islamic State, according to a criminal complaint.&lt;/p&gt;&lt;p&gt;The complaint further states that agents searching Abood's computer also found he was watching beheadings carried out by Islamic State fighters.&lt;/p&gt;&lt;p&gt;The Islamic State rules parts of Iraq and Syria and has taken responsibility for attacks including a shooting earlier this month outside a controversial Prophet Muhammad cartoon contest in Garland.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T21:55:25Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State group releases new audio message purportedly from leader al-Baghdadi</title>
     <link rel="alternate" href="http://news.yahoo.com/islamic-state-group-releases-audio-message-purportedly-leader-190349793.html" />
     <author>

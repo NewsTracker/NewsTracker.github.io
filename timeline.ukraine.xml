@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine's Dnipro beats Napoli to reach Europa League final</title>
+    <link rel="alternate" href="http://news.yahoo.com/ukraines-dnipro-beats-napoli-reach-europa-league-final-210557680.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T21:27:49Z</updated>
+    <published>2015-05-14T21:27:49Z</published>
+    <summary type="html">&lt;p&gt;KIEV, Ukraine (AP) - Ukraine's Dnipro Dnipropetrovsk reached its first Europa League final beating Napoli 1-0 in Kiev to knock out the Italian favorite 2-1 on aggregate on Thursday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T21:27:49Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/YOMLn5Sbx61IULH9ZhB4kQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/4bb292db95087c15760f6a706700df15.jpg" />
+  </entry>
+  <entry>
     <title>Ukraine requests UN peacekeeper deployment</title>
     <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/13/ukraine-requests-un-peacekeeper-deployment.html" />
     <author>
