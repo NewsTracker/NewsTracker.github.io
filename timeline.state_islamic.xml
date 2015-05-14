@@ -4,6 +4,65 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraq: Islamic State No. 2 Killed In Air Strike</title>
+    <link rel="alternate" href="http://www.rferl.org/content/iraq-islamic-state-commander-killed/27015055.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T00:35:20Z</updated>
+    <published>2015-05-14T00:35:20Z</published>
+    <summary type="html">&lt;p&gt;The Iraqi government has previously announced the death of Islamic State militants only for them to resurface alive.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T00:35:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>No. 2 leader of Islamic State killed in US-led airstrike: Iraq</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/no-2-leader-of-islamic-state-killed-in-usled-airstrike-iraq-20150513-gh1655" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T21:42:15Z</updated>
+    <published>2015-05-13T21:42:15Z</published>
+    <summary type="html">&lt;p&gt;Al-Afari is said to be the deputy to the Islamic State leader Abu Bakr al-Baghdadi, who himself has been the subject of a swirl of rumours lately that he was injured in an airstrike in March.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T21:42:15Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/1/6/s/n/image.related.articleLeadwide.620x349.gh1655.png/1431553326032.jpg" />
+  </entry>
+  <entry>
+    <title>No. 2 leader of Islamic State killed in US-led airstrike: Iraq</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/no-2-leader-of-islamic-state-killed-in-usled-airstrike-iraq-20150513-gh1655" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T21:42:15Z</updated>
+    <published>2015-05-13T21:42:15Z</published>
+    <summary type="html">&lt;p&gt;The US Central Command acknowledged that airstrikes were conducted against the Islamic State near Tal Afar on Tuesday and Wednesday but could not verify the government's claim.&lt;/p&gt;&lt;p&gt;A previous leader of al-Qaeda in Iraq, the predecessor to the Islamic State, was claimed to have been killed several times, and his supposed death became a running joke in the Iraqi media.&lt;/p&gt;&lt;p&gt;Al-Afari, who also goes by several other assumed names, was recently added to a US government list offering rewards for information leading to the death or capture of top Islamic State leaders.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T21:42:15Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/1/6/s/n/image.related.articleLeadwide.620x349.gh1655.png/1431553326032.jpg" />
+  </entry>
+  <entry>
+    <title>Bangladeshi blogger Ananta Bijoy Das, who promoted secularism, hacked to death by suspected Islamic extremists</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/bangladeshi-blogger-ananta-bijoy-das-who-promoted-secularism-hacked-to-death-by-suspected-islamic-extremists-20150512-gh086d" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T17:04:12Z</updated>
+    <published>2015-05-12T17:04:12Z</published>
+    <summary type="html">&lt;p&gt;Young Islamic activists reacted with fury to the Shahbag movement, dividing young people on the question of whether Bangladesh should be a secular or Islamic state.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T17:04:12Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/0/8/6/s/image.related.articleLeadwide.620x349.gh086d.png/1431450107336.jpg" />
+  </entry>
+  <entry>
+    <title>Bangladeshi blogger Ananta Bijoy Das, who promoted secularism, hacked to death by suspected Islamic extremists</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/bangladeshi-blogger-ananta-bijoy-das-who-promoted-secularism-hacked-to-death-by-suspected-islamic-extremists-20150512-gh086d" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T17:04:12Z</updated>
+    <published>2015-05-12T17:04:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-12T17:04:12Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/0/8/6/s/image.related.articleLeadwide.620x349.gh086d.png/1431450107336.jpg" />
+  </entry>
+  <entry>
     <title>Iraq defence ministry says Islamic State's second-in-command killed</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3080099/Iraq-defence-ministry-says-second-command-Islamic-State-killed.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
