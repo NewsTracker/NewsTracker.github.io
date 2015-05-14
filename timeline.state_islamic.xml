@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State group releases new audio message purportedly from leader al-Baghdadi</title>
+    <link rel="alternate" href="http://news.yahoo.com/islamic-state-group-releases-audio-message-purportedly-leader-190349793.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T19:03:51Z</updated>
+    <published>2015-05-14T19:03:51Z</published>
+    <summary type="html">&lt;p&gt;BEIRUT (AP) - Islamic State group releases new audio message purportedly from leader al-Baghdadi.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T19:03:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Syria says Islamic State will destroy ancient ruins if it takes Tadmur</title>
     <link rel="alternate" href="http://news.yahoo.com/syria-says-islamic-state-destroy-ancient-ruins-takes-150550979.html" />
     <author>
