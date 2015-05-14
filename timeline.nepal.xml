@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Nepal's prime minister: 'We were not prepared' for 2nd quake</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Nepal-villagers-demand-help-after-2nd-quake-6262505.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T16:23:01Z</updated>
+    <published>2015-05-14T16:23:01Z</published>
+    <summary type="html">&lt;p&gt;A Nepalese farmer carries a bundle of harvested wheat in Nalinchowk, near Kathmandu, Nepal, Thursday, May 14, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T16:23:01Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/33/74/7978790/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Nepal's prime minister: 'We were not prepared' for 2nd quake</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3081079/Nepal-villagers-demand-help-2nd-quake.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
