@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook raises minimum pay for contractors to $15 per hour</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/technology/facebook-raises-minimum-pay-for-contractors-to-15-per-hour-1.3073969?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T12:26:33Z</updated>
+    <published>2015-05-14T12:26:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-14T12:26:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Burundi takes to Facebook to declare coup 'fanciful'</title>
     <link rel="alternate" href="http://www.smh.com.au/world/burundi-takes-to-facebook-to-declare-coup-fanciful-20150514-gh15sy.html" />
     <author>
