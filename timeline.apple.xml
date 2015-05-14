@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple, A123 close to settling battery hiring lawsuit</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/apple-a123-close-settling-battery-214254039.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T21:42:54Z</updated>
+    <published>2015-05-13T21:42:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-13T21:42:54Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/lq75JPtG5jAypvguR2qnkQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-05-13T214254Z_1_LYNXMPEB4C18W_RTROPTP_3_USA-APPLE_original.jpg" />
+  </entry>
+  <entry>
     <title>Apple CEO Tim Cook meets with top Chinese official in Beijing</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11448032&amp;amp;ref=rss" />
     <author>
@@ -1256,7 +1268,7 @@
     <media:content url="https://s.yimg.com/os/en_us/News/Reuters/2015-04-14T172914Z_1_LYNXMPEB3D0UI_RTROPTP_2_US-BRITTO.JPG" />
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />

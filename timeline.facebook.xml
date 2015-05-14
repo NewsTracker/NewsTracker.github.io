@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook sets $15 hourly min wage for contractors</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/facebook-sets-15-hourly-minimum-wage-for-contractors/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T23:03:15Z</updated>
+    <published>2015-05-13T23:03:15Z</published>
+    <summary type="html">&lt;p&gt;The new standards, which took effect May 1, are already in place for some of Facebook's largest support teams at the company's headquarters in Menlo Park, California.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T23:03:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook pushes to improve benefits, pay for contractors</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Facebook-pushes-to-improve-benefits-pay-for-6261076.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T21:51:33Z</updated>
+    <published>2015-05-13T21:51:33Z</published>
+    <summary type="html">&lt;p&gt;"Facebook did the right thing in making sure that workers are paid a minimum of $15 an hour," said Kendall Fells, National Organizing Director of the Fight for $15.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T21:51:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook pushes to improve benefits, pay for contractors</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Facebook-pushes-to-improve-benefits-pay-for-6261076.php" />
     <author>
@@ -1351,7 +1373,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
