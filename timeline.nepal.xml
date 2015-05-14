@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal villagers demand help after 2nd quake</title>
+    <link rel="alternate" href="http://news.yahoo.com/thousands-spend-night-outdoors-death-toll-rises-nepal-060025103.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T03:26:36Z</updated>
+    <published>2015-05-14T03:26:36Z</published>
+    <summary type="html">&lt;p&gt;CHARIKOT, Nepal (AP) - Thousands of villagers jammed the streets of this small Himalayan town Thursday, demanding government help after Nepal suffered its second major quake in less than three weeks.&lt;/p&gt;&lt;p&gt;"We came here with such hopes and such difficulty, but now we're just waiting and waiting," said Navraj Nama, 25, who came to Charikot with his brother and elderly uncle after the second earthquake hit Nepal on Tuesday.&lt;/p&gt;&lt;p&gt;Nama's village, like much of the quake-hit Nepal, was in desperate need of shelter, and the young farmer came to Charikot hoping to get tents or tarpaulins to carry back with him.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T03:26:36Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/s/eed4eed/playlistIcon.png" />
+  </entry>
+  <entry>
     <title>Nepal fails to find crashed US helicopter amid fears search diverts from rescue operation</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nepal-fails-to-find-crashed-us-helicopter-amid-fears-search-diverts-from-rescue-operation-20150513-gh15g6" />
     <author>

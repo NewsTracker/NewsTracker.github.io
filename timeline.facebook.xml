@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook posts about job land U.S. contractor in Emirates jail</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article12565811.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-05T06:25:30Z</updated>
+    <published>2015-03-05T06:25:30Z</published>
+    <summary type="html">&lt;p&gt;"I never even entertained the fact that I would wind up in prison out here for something I put on Facebook in the United States."&lt;/p&gt;</summary>
+    <dc:date>2015-03-05T06:25:30Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Facebook sets $15 hourly min wage for contractors</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/facebook-sets-15-hourly-minimum-wage-for-contractors/" />
     <author>
@@ -1373,7 +1385,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
