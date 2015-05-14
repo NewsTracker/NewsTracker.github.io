@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boko Haram Attacks Maiduguri, Army Repels but Hundreds Flee</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/boko-haram-attacks-maiduguri-army-repels-hundreds-flee-31036262" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T11:45:03Z</updated>
+    <published>2015-05-14T11:45:03Z</published>
+    <summary type="html">&lt;p&gt;Tukur Gusau, spokesman for the army's 7th Division that is leading the fight against Boko Haram.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T11:45:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Boko Haram attacks Maiduguri, army repels but hundreds flee</title>
+    <link rel="alternate" href="http://news.yahoo.com/boko-haram-attacks-maiduguri-army-repels-hundreds-flee-095415094.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T11:44:04Z</updated>
+    <published>2015-05-14T11:44:04Z</published>
+    <summary type="html">&lt;p&gt;Maiduguri has suffered several attacks, including a March 14, 2014 assault in which Boko Haram invaded Giwa Barracks and freed hundreds of detainees.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T11:44:04Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/Y7MxLPJJBtqotgMzJWal2w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/cef9ce83c72515b4c45501ded845c798581e1593.jpg.cf.jpg" />
+  </entry>
+  <entry>
+    <title>Boko Haram attacks Maiduguri, army repels but hundreds flee</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11448899&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T10:00:31Z</updated>
+    <published>2015-05-14T10:00:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-14T10:00:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Suspected Boko Haram militants attack Nigeria's Maiduguri</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3080474/Suspected-Boko-Haram-militants-attack-Nigerias-Maiduguri.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -724,7 +758,7 @@
     <media:content url="http://i.cbc.ca/1.3031791.1428995504!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/nigeria-election-usa.jpg" />
   </entry>
   <entry>
-    <title>Nigeria’s new president pledges effort to free girls kidnapped by Boko Haram a year ago</title>
+    <title>Nigeria?s new president pledges effort to free girls kidnapped by Boko Haram a year ago</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/nigerias-new-president-pledges-effort-to-free-girls-kidnapped-by-boko-haram-a-year-ago/article23929086/?cmpid=rss1" />
     <author>
       <name />
@@ -1512,7 +1546,7 @@
     <media:content url="http://ww4.hdnux.com/photos/35/05/15/7623511/7/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>Nigeria’s Boko Haram pledges allegiance to Islamic State</title>
+    <title>Nigeria?s Boko Haram pledges allegiance to Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/Nigeria-s-Boko-Haram-pledges-allegiance-to-6121265.php" />
     <author>
       <name />
