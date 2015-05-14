@@ -5,6 +5,29 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Sahara extremists pledge allegiance to Islamic State group</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20986836.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T15:34:19Z</updated>
+    <published>2015-05-14T15:34:19Z</published>
+    <summary type="html">&lt;p&gt;"If it's confirmed, then we need to wonder about the whereabouts of Belmoktar," said Djallil Lounnas, an expert on North African Islamic groups.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T15:34:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State battles Syrian army near world heritage site</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/isis-battles-syrian-army-near-world-heritage-site-1.3074101?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T14:35:45Z</updated>
+    <published>2015-05-14T14:35:45Z</published>
+    <summary type="html">&lt;p&gt;Islamic State fighters reached online said the group was shelling an air base near Tadmur, an oasis in the desert north-east of Damascus also known as Palmyra.&lt;/p&gt;&lt;p&gt;The Observatory reported heavy casualties on both sides in fighting near al-Sukhna on Wednesday, with at least 70 troops and 40 Islamic State fighters killed.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T14:35:45Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3029694.1428840239!/cpImage/httpImage/image.jpg_gen/derivatives/original_300/mideast-iraq-islamic-state.jpg" />
+  </entry>
+  <entry>
+    <title>Sahara extremists pledge allegiance to Islamic State group</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3081691/Sahara-extremists-pledge-allegiance-Islamic-State-group.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

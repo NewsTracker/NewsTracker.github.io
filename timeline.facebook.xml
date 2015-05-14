@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest on Amtrak Crash: Engineer Changed Facebook Page</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/latest-amtrak-crash-derailed-amtrak-cars-righted-31036740" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T15:31:49Z</updated>
+    <published>2015-05-14T15:31:49Z</published>
+    <summary type="html">&lt;p&gt;The Facebook page of the engineer of the derailed Amtrak train was changed within hours of the crash to substitute his profile picture with a black rectangle.&lt;/p&gt;&lt;p&gt;One Facebook friend whose profile identifies him as an Amtrak engineer in California posted "it could have been any one of us and you are not alone."&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T15:31:49Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>Facebook raises minimum pay for contractors to $15 per hour</title>
     <link rel="alternate" href="http://www.cbc.ca/news/technology/facebook-raises-minimum-pay-for-contractors-to-15-per-hour-1.3073969?cmp=rss" />
     <author>
