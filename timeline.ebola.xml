@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Guinea Ebola cases climb due to transmissions at funerals</title>
+    <link rel="alternate" href="http://news.yahoo.com/guinea-ebola-cases-climb-due-transmissions-funerals-153206974.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T15:32:06Z</updated>
+    <published>2015-05-15T15:32:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-15T15:32:06Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/yjQtK_w69vt.8tzKHiPc1w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-05-15T143115Z_1_LYNXMPEB4E0OG_RTROPTP_2_HEALTH-EBOLA-GUINEA.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>Nurse in Italy tests positive for Ebola; was in Sierra Leone</title>
     <link rel="alternate" href="http://news.yahoo.com/nurse-italy-tests-positive-ebola-sierra-leone-174655139.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>At least 55 killed in Boko Haram raids</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0515/701396-boko-haram/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T13:49:33Z</updated>
+    <published>2015-05-15T13:49:33Z</published>
+    <summary type="html">&lt;p&gt;At least 55 people were killed in two Boko Haram raids this week near Maiduguri, capital of restive northeastern Nigeria Borno state, a vigilante and two residents said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T13:49:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Boko Haram attacks Maiduguri, army repels but hundreds flee</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/14/boko-haram-attacks-maiduguri-army-repels-but-hundreds-flee" />
     <author>
