@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Workers seal storage bunker at nuclear waste dump</title>
+    <link rel="alternate" href="http://news.yahoo.com/workers-seal-storage-bunker-nuclear-waste-dump-232200403.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T23:22:00Z</updated>
+    <published>2015-05-14T23:22:00Z</published>
+    <summary type="html">&lt;p&gt;CARLSBAD, N.M. (AP) - Officials say workers have sealed off the first of two storage bunkers affected by a radiation leak at the federal government's underground nuclear waste repository in southern New Mexico.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T23:22:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico to give $3.3M to relatives of army slaying victims</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/mexico-to-give-33m-to-victims-of-army-slayings-rel/nmGh8/" />
     <author>
