@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>NATO ministers sing while Ukraine strife continues</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/nato-ministers-sing-while-ukraine-strife-continues-20150515-gh26yx.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T01:35:22Z</updated>
+    <published>2015-05-15T01:35:22Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-15T01:35:22Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/2/7/n/i/image.related.articleLeadwide.620x349.gh26yx.png/1431653675228.jpg" />
+  </entry>
+  <entry>
+    <title>Ukraine parliament offers special status for rebel east, Russia criticizes</title>
+    <link rel="alternate" href="http://news.yahoo.com/ukrainian-parliament-offers-special-status-rebel-east-161050787.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T17:54:54Z</updated>
+    <published>2015-03-17T17:54:54Z</published>
+    <summary type="html">&lt;p&gt;He said Kiev planned "new bloodshed".&lt;/p&gt;&lt;p&gt;But Ukraine's insistence that elections in the eastern territories be held under Ukrainian auspices appear likely to be a stumbling block.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T17:54:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine's Dnipro beats Napoli to reach Europa League final</title>
     <link rel="alternate" href="http://news.yahoo.com/ukraines-dnipro-beats-napoli-reach-europa-league-final-210557680.html" />
     <author>
@@ -672,17 +695,6 @@
     <published>2015-04-29T09:29:47Z</published>
     <summary type="html">&lt;p&gt;Kiev, the capital of Ukraine, lies less than 100 kilometers (60 miles) downriver from the zone around Chernobyl, which was heavily contaminated by radiation from the 1986 reactor explosion and fire.&lt;/p&gt;</summary>
     <dc:date>2015-04-29T09:29:47Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ukraine parliament offers special status for rebel east, Russia criticizes</title>
-    <link rel="alternate" href="http://news.yahoo.com/ukrainian-parliament-offers-special-status-rebel-east-161050787.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T17:54:54Z</updated>
-    <published>2015-03-17T17:54:54Z</published>
-    <summary type="html">&lt;p&gt;He said Kiev planned "new bloodshed".&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T17:54:54Z</dc:date>
   </entry>
   <entry>
     <title>EU brokers Russia-Ukraine gas deal amid mild optimism over truce</title>
