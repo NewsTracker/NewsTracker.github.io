@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mayoral candidate shot to death in Mexico's restive Michoacan state; 2nd killing this month</title>
+    <link rel="alternate" href="http://www.startribune.com/mayoral-candidate-fatally-shot-in-restive-mexico-state/303844911/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T03:25:13Z</updated>
+    <published>2015-05-15T03:25:13Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - A Mexican political party says one of its members running for mayor in a town in the restive state of Michoacan was shot to death during a political rally.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T03:25:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mayoral Candidate Fatally Shot in Restive Mexico State</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mayoral-candidate-fatally-shot-restive-mexico-state-31059473" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T03:23:21Z</updated>
+    <published>2015-05-15T03:23:21Z</published>
+    <summary type="html">&lt;p&gt;It was the second killing of a candidate in western Mexico this month heading into the country's midterm elections June 7.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T03:23:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Workers seal storage bunker at nuclear waste dump</title>
     <link rel="alternate" href="http://news.yahoo.com/workers-seal-storage-bunker-nuclear-waste-dump-232200403.html" />
     <author>
