@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Man indicted in Ferguson rally shooting that injured police</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11449746&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T20:55:16Z</updated>
+    <published>2015-05-15T20:55:16Z</published>
+    <summary type="html">&lt;p&gt;ST. LOUIS (AP) " A 20-year-old St. Louis man has been indicted on felony assault and weapons charges linked to a March shooting that wounded two police officers during a Ferguson protest.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T20:55:16Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201518/020515HOSPOLICE9_140x93.jpg" />
+  </entry>
+  <entry>
     <title>Ferguson saddened by walsh's exit</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/pa/article-3082311/Ferguson-saddened-Walshs-exit.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

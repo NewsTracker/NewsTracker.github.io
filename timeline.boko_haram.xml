@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boko Haram Retakes Nigerian Border Town</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/15/official-boko-haram-retakes-nigerian-border-town" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T18:29:46Z</updated>
+    <published>2015-05-15T18:29:46Z</published>
+    <summary type="html">&lt;p&gt;Boko Haram retakes Nigerian border town, attacks villages, plots bombings, official says.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T18:29:46Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/1ed3935/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fd8%2F43a1de5eb138cae0172d06a99dcd52%2Fmedia%3Aefd7401443964ee0ba61d41c8e851f95NigeriaBokoHaram.JPEG" />
+  </entry>
+  <entry>
     <title>At least 55 killed in Boko Haram raids</title>
     <link rel="alternate" href="http://www.rte.ie/news/2015/0515/701396-boko-haram/" />
     <author>
