@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Accessories for Apple's HomeKit to hit stores next month</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/15/us-apple-home-idUSKBN0O002O20150515?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T00:59:50Z</updated>
+    <published>2015-05-15T00:59:50Z</published>
+    <summary type="html">&lt;p&gt;The first batch of home automation accessories, such as thermostats and garage door openers, compatible with Apple Inc's software platform will go on sale in June, the tech company said Thursday.&lt;/p&gt;&lt;p&gt;HomeKit is a set of tools in Apple's iOS 8 software designed to work with smart home devices.&lt;/p&gt;&lt;p&gt;"HomeKit has been available for just a few months and we already have dozens of partners who have committed to bringing HomeKit accessories to market and we're looking forward to the first ones coming next month," Apple spokeswoman Trudy Muller said in a statement.&lt;/p&gt;&lt;p&gt;Apple's statement followed a report from Fortune that the first HomeKit enabled devices would not be available until August or September.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T00:59:50Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple, A123 close to settling battery hiring lawsuit</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/apple-a123-close-settling-battery-214254039.html" />
     <author>
@@ -1268,7 +1279,7 @@
     <media:content url="https://s.yimg.com/os/en_us/News/Reuters/2015-04-14T172914Z_1_LYNXMPEB3D0UI_RTROPTP_2_US-BRITTO.JPG" />
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
