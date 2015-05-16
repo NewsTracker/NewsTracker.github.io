@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Student who grew up in Baltimore area wins $62,900 literary prize</title>
+    <link rel="alternate" href="http://www.startribune.com/student-wins-62-900-literary-prize/303976601/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T03:40:08Z</updated>
+    <published>2015-05-16T03:40:08Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - A senior at Washington College has been awarded a $62,900 literary prize.&lt;/p&gt;&lt;p&gt;Alexander Vidiani, who grew up in Hunt Valley, a Baltimore suburb, was named the Sophie Kerr winner Friday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T03:40:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Recap: Baltimore vs. LA Angels</title>
     <link rel="alternate" href="http://www.miamiherald.com/sports/mlb/article21140508.html%23storylink=rss" />
     <author>
