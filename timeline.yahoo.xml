@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Warriors advance to Western final, beating Memphis 108-95 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/warriors-advance-western-final-beating-memphis-108-95-041050495--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T05:35:49Z</updated>
+    <published>2015-05-16T05:35:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-16T05:35:49Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
     <title>Cubs win in 12th when Pirates outfielder trips on easy fly (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/cubs-win-12th-pirates-outfielder-trips-easy-fly-235816151--mlb.html" />
     <author>

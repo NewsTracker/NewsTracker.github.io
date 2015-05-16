@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore prosecutors in Freddie Gray case seek gag order</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article21113055.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T05:10:07Z</updated>
+    <published>2015-05-16T05:10:07Z</published>
+    <summary type="html">&lt;p&gt;Lawyers for Sgt. White describe her as a rising star at the Baltimore Police Dept., who only had about 15 second of contact, non-physical, with Freddie Gray on the day he was injured.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T05:10:07Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Baltimore officer who beat suspect during arrest gets jail sentence</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/16/baltimore-officer-who-beat-suspect-during-arrest-gets-jail-sentence" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T04:41:59Z</updated>
+    <published>2015-05-16T04:41:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-16T04:41:59Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297701113119_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Student who grew up in Baltimore area wins $62,900 literary prize</title>
     <link rel="alternate" href="http://www.startribune.com/student-wins-62-900-literary-prize/303976601/" />
     <author>
