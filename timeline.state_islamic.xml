@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraq sends troops to Ramadi, largely held by Islamic State</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/iraq-sends-troops-to-ramadi-largely-held-by-islami/nmHgs/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T07:50:14Z</updated>
+    <published>2015-05-16T07:50:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-16T07:50:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State seizes Ramadi?s local government headquarters in Iraq</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/islamic-state-seizes-ramadis-local-government-headquarters-in-iraq/article24465001/?cmpid=rss1" />
     <author>
