@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Recap: Baltimore vs. LA Angels</title>
+    <link rel="alternate" href="http://www.miamiherald.com/sports/mlb/article21140508.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T01:58:07Z</updated>
+    <published>2015-05-16T01:58:07Z</published>
+    <summary type="html">&lt;p&gt;Baltimore, MD (SportsNetwork.com) - Jered Weaver pitched into the eighth inning to help the LA Angels of Anaheim to a 3-1 win over the Baltimore Orioles in the opener of a three-game set.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T01:58:07Z</dc:date>
+    <media:content url="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&amp;amp;amp;ctxId=5175&amp;amp;amp;contextPath=3179-5151-5175-&amp;amp;amp;pubId=7&amp;amp;amp;cat=&amp;amp;amp;meta=read-wirestory&amp;amp;amp;objId=21140508&amp;amp;amp;type=article&amp;amp;amp;title=Recap%3a++Baltimore+vs.+LA+Angels&amp;amp;amp;url=http%3a%2f%2fwww.miamiherald.com%2fsports%2fmlb%2farticle21140508.html" />
+  </entry>
+  <entry>
     <title>Officer on video beating suspect gets 6-month sentence</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11449784&amp;amp;ref=rss" />
     <author>
