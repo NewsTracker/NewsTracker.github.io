@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Suicide bomber explodes at Nigerian bus station, kills 4</title>
+    <link rel="alternate" href="http://news.yahoo.com/suicide-bomber-explodes-nigerian-bus-station-kills-4-124706366.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T12:47:06Z</updated>
+    <published>2015-05-16T12:47:06Z</published>
+    <summary type="html">&lt;p&gt;But the Nigerians appear to have bogged down in the Sambisa Forest, where Boko Haram has laid land mines and booby traps.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T12:47:06Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/tmf.Qk7_kHmQMo2WpRd87w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-REF-TS-Par8169635-1-1-0.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Boko Haram Retakes Nigerian Border Town</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/15/official-boko-haram-retakes-nigerian-border-town" />
     <author>
