@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico judge returns girl to custody of US mom after 8 years</title>
+    <link rel="alternate" href="http://news.yahoo.com/dna-confirms-girl-mexico-us-womans-daughter-054203552.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T23:24:48Z</updated>
+    <published>2015-05-15T23:24:48Z</published>
+    <summary type="html">&lt;p&gt;Alondra Diaz Garcia arrives for a court hearing in Los Reyes, Mexico, Tuesday, May 12, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T23:24:48Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/zqiR3oObTBCd_wy1SbVV2Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/df8231bf6bef6415760f6a706700790a.jpg" />
+  </entry>
+  <entry>
     <title>2 political candidates fatally shot in restive Mexico states</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3082717/Mayoral-candidate-fatally-shot-restive-Mexico-state.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
