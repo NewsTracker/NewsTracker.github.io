@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>American in UAE Facebook Case May Have Charges Dismissed</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/american-uae-facebook-case-charges-dismissed-29689664" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T10:25:08Z</updated>
+    <published>2015-03-17T10:25:08Z</published>
+    <summary type="html">&lt;p&gt;An American helicopter mechanic whose Facebook post complaining about his employer in the United Arab Emirates got him arrested said Tuesday he has been told the company is seeking to dismiss the charges against him.&lt;/p&gt;&lt;p&gt;Pate's Facebook post has since been deleted.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T10:25:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook attacked by data watchdog for flouting EU privacy rules</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/books/article21073548.html%23storylink=rss" />
     <author>
@@ -1465,7 +1476,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
@@ -1716,17 +1727,6 @@
     <published>2015-03-17T11:00:55Z</published>
     <summary type="html" />
     <dc:date>2015-03-17T11:00:55Z</dc:date>
-  </entry>
-  <entry>
-    <title>American in UAE Facebook Case May Have Charges Dismissed</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/american-uae-facebook-case-charges-dismissed-29689664" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T10:25:08Z</updated>
-    <published>2015-03-17T10:25:08Z</published>
-    <summary type="html">&lt;p&gt;An American helicopter mechanic whose Facebook post complaining about his employer in the United Arab Emirates got him arrested said Tuesday he has been told the company is seeking to dismiss the charges against him.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T10:25:08Z</dc:date>
   </entry>
   <entry>
     <title>Facebook Explains What Should Not Be Posted To The Social Network</title>

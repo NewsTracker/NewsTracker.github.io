@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt executes 6 militants for attack on soldiers</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3085046/Egypt-executes-6-militants-attack-soldiers.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T10:02:36Z</updated>
+    <published>2015-05-17T10:02:36Z</published>
+    <summary type="html">&lt;p&gt;CAIRO, May 17 (Reuters) - Egypt has executed six members of a Sinai-based militant group with links to Islamic State for carrying out an attack on soldiers near Cairo in 2014, the state news agency reported on Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T10:02:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Influential cleric Qaradawi condemns Egypt death sentences</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-05-17/influential-cleric-qaradawi-condemns-egypt-death-sentences/6476372" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T09:39:40Z</updated>
+    <published>2015-05-17T09:39:40Z</published>
+    <summary type="html">&lt;p&gt;Amid the tensions, Qaradawi's televised Friday sermons have gone off the air, but he continues to criticise Egypt's new rulers in conferences and statements to the press and followers.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T09:39:40Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6476410-3x2-340x227.jpg" />
+  </entry>
+  <entry>
     <title>US 'deeply concerned' by Egypt's death penalty decision for Mohamed Morsi</title>
     <link rel="alternate" href="http://www.theguardian.com/world/2015/may/17/us-deeply-concerned-by-egypts-death-penalty-decision-for-mohamed-morsi" />
     <author>

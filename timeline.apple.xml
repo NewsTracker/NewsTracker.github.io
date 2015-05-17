@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Could Apple Buy One-Third Of The World's Gold?</title>
+    <link rel="alternate" href="http://www.forbes.com/sites/greatspeculations/2015/03/06/could-apple-buy-one-third-of-the-worlds-gold/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T16:36:00Z</updated>
+    <published>2015-03-06T16:36:00Z</published>
+    <summary type="html">&lt;p&gt;Is there anything Apple Apple can't do?&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T16:36:00Z</dc:date>
+    <media:content url="http://www.usfunds.com/media/images/investor-alert/_2015/2015-02-27/COMM-apple-watch-18-Karat-Gold-Case-02272015.jpg" />
+  </entry>
+  <entry>
+    <title>Apple to replace AT&amp;T in Dow</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11413331&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T15:14:36Z</updated>
+    <published>2015-03-06T15:14:36Z</published>
+    <summary type="html">&lt;p&gt;That gives Apple more influence on daily moves in the index than any other stock.&lt;/p&gt;&lt;p&gt;Apple won't get top billing in the Dow, though.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T15:14:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Top U.S. hedge funds continued to dump Apple amid rally</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/15/us-investments-funds-apple-idUSKBN0O025020150515?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
@@ -1302,7 +1325,7 @@
     <media:content url="https://s.yimg.com/os/en_us/News/Reuters/2015-04-14T172914Z_1_LYNXMPEB3D0UI_RTROPTP_2_US-BRITTO.JPG" />
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2635,17 +2658,6 @@
     <summary type="html" />
     <dc:date>2015-03-07T05:03:00Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/NXUq37naGTa0peiinAOoeQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/homerun/racked.vox.com/b463588138db499b232baa9f2509c32d.cf.jpg" />
-  </entry>
-  <entry>
-    <title>Apple to replace AT&amp;T in Dow</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11413331&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-06T15:14:36Z</updated>
-    <published>2015-03-06T15:14:36Z</published>
-    <summary type="html">&lt;p&gt;That gives Apple more influence on daily moves in the index than any other stock.&lt;/p&gt;</summary>
-    <dc:date>2015-03-06T15:14:36Z</dc:date>
   </entry>
   <entry>
     <title>News of robust hiring in US month sends bonds lower, dollar higher; Apple gains, will join Dow</title>

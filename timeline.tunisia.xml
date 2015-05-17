@@ -4,6 +4,76 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Terror attack in Tunisia a fresh blow to tourism industry</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article15437360.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T09:42:47Z</updated>
+    <published>2015-03-20T09:42:47Z</published>
+    <summary type="html">&lt;p&gt;Tourism to Tunisia plunged after the revolution in 2011 led to the overthrow of an authoritarian president and augured the so-called Arab Spring.&lt;/p&gt;&lt;p&gt;"It's important to just show that we're not afraid to be here in Tunisia," said Nicole Calande, 20, of San Jose, California.&lt;/p&gt;&lt;p&gt;Tunisia's president also urged tourists to keep visiting, insisting that security measures are being taken.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T09:42:47Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Obama pledges security cooperation after Tunisia attack</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article15420293.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T02:47:50Z</updated>
+    <published>2015-03-20T02:47:50Z</published>
+    <summary type="html">&lt;p&gt;President Barack Obama is pledging close counterterrorism cooperation with Tunisia in the wake of an attack that killed 21 people at a museum in Tunis.&lt;/p&gt;&lt;p&gt;Obama also commended Tunisians for their response and called Tunisia's democracy a "powerful example" for the region.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T02:47:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State find allies among Tunisia militants</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Radical-militants-suspected-to-be-behind-Tunisia-6144808.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T17:09:58Z</updated>
+    <published>2015-03-19T17:09:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-19T17:09:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Japan confirms deaths of 3 nationals in Tunisia attack</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article15327995.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T08:53:04Z</updated>
+    <published>2015-03-19T08:53:04Z</published>
+    <summary type="html">&lt;p&gt;U.S. first lady Michelle Obama, on a visit to Tokyo, said: "I want to express our condolences over the horrific events yesterday in Tunisia. Our hearts go out to the loved ones of those killed they are very much in our thoughts and prayers today."&lt;/p&gt;&lt;p&gt;Japan has confirmed the deaths of three of its nationals in the attack on tourists in Tunisia.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T08:53:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Unrest in Tunisia since the popular revolt</title>
+    <link rel="alternate" href="http://news.yahoo.com/unrest-tunisia-since-popular-revolt-215443738.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T21:54:43Z</updated>
+    <published>2015-03-18T21:54:43Z</published>
+    <summary type="html">&lt;p&gt;Tunis (AFP) - Tunisia on Wednesday saw its first deadly attack on foreigners since the 2010-2011 uprising that toppled president Zine El Abidine Ben Ali after 23 years in power.&lt;/p&gt;&lt;p&gt;- December 21: Essebsi wins Tunisia's first free presidential election.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T21:54:43Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/Gw.3bczto2mkd.Tzzmod4A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_ZA/News/Reuters/2015-03-23T103800Z_1007970001_LYNXMPEB2M0ER_RTROPTP_2_OZATP-US-TUNISIA-SECURITY-POLICE.JPG.cf.jpg" />
+  </entry>
+  <entry>
+    <title>The Latest: Expert: IS applauds Tunisia attack on Twitter</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article15241373.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T18:39:04Z</updated>
+    <published>2015-03-18T18:39:04Z</published>
+    <summary type="html">&lt;p&gt;Spanish eyewitness Josep Lluis Cusido says he was inside the Bardo museum in Tunisia when the attack started that left at least 22 people dead and hid behind a pillar to save his life.&lt;/p&gt;&lt;p&gt;The United States, the United Nations, France and the UAE are among the nations condemning the attack on a top museum in Tunisia that left 22 people dead, including 17 tourists and 2 gunmen.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T18:39:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>US delivers Humvees, patrol boat to Tunisia</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3081517/US-delivers-Humvees-patrol-boat-Tunisia.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -170,17 +240,6 @@
     <published>2015-04-24T16:43:50Z</published>
     <summary type="html" />
     <dc:date>2015-04-24T16:43:50Z</dc:date>
-  </entry>
-  <entry>
-    <title>Obama pledges security cooperation after Tunisia attack</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article15420293.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T02:47:50Z</updated>
-    <published>2015-03-20T02:47:50Z</published>
-    <summary type="html">&lt;p&gt;President Barack Obama is pledging close counterterrorism cooperation with Tunisia in the wake of an attack that killed 21 people at a museum in Tunis.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T02:47:50Z</dc:date>
   </entry>
   <entry>
     <title>17 foreign tourists killed in Tunisia were cruise passengers</title>
@@ -592,18 +651,6 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Terror attack in Tunisia a fresh blow to tourism industry</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article15437360.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T09:42:47Z</updated>
-    <published>2015-03-20T09:42:47Z</published>
-    <summary type="html">&lt;p&gt;Tourism to Tunisia plunged after the revolution in 2011 led to the overthrow of an authoritarian president and augured the so-called Arab Spring.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T09:42:47Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
     <title>Plans for leisurely visit in Tunisia turn to horror</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3003731/Plans-leisurely-visit-Tunisia-turn-horror.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -797,18 +844,6 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Japan confirms deaths of 3 nationals in Tunisia attack</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article15327995.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T08:53:04Z</updated>
-    <published>2015-03-19T08:53:04Z</published>
-    <summary type="html">&lt;p&gt;U.S. first lady Michelle Obama, on a visit to Tokyo, said: "I want to express our condolences over the horrific events yesterday in Tunisia. Our hearts go out to the loved ones of those killed they are very much in our thoughts and prayers today."&lt;/p&gt;</summary>
-    <dc:date>2015-03-19T08:53:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
     <title>Japan says three nationals killed, three injured in Tunisia museum attack</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/japan-says-three-nationals-killed-three-injured-in-tunisia-museum-attack/article23533523/?cmpid=rss1" />
     <author>
@@ -830,18 +865,6 @@
     <published>2015-03-19T02:07:31Z</published>
     <summary type="html">&lt;p&gt;Several Islamist militant groups have emerged in Tunisia since the uprising, and authorities estimate about 3,000 Tunisians have also joined fighters in Iraq and Syria -- igniting fears they could return and mount attacks at home.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T02:07:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Unrest in Tunisia since the popular revolt</title>
-    <link rel="alternate" href="http://news.yahoo.com/unrest-tunisia-since-popular-revolt-215443738.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T21:54:43Z</updated>
-    <published>2015-03-18T21:54:43Z</published>
-    <summary type="html">&lt;p&gt;Tunis (AFP) - Tunisia on Wednesday saw its first deadly attack on foreigners since the 2010-2011 uprising that toppled president Zine El Abidine Ben Ali after 23 years in power.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T21:54:43Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/Gw.3bczto2mkd.Tzzmod4A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_ZA/News/Reuters/2015-03-23T103800Z_1007970001_LYNXMPEB2M0ER_RTROPTP_2_OZATP-US-TUNISIA-SECURITY-POLICE.JPG.cf.jpg" />
   </entry>
   <entry>
     <title>Timeline of unrest in Tunisia since the popular revolt</title>
@@ -866,18 +889,6 @@
     <summary type="html">&lt;p&gt;The US secretary of state, John Kerry, said Washington condemned the attack and continued "to support the Tunisian government's efforts to advance a secure, prosperous, and democratic Tunisia".&lt;/p&gt;</summary>
     <dc:date>2015-03-18T20:19:26Z</dc:date>
     <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/c22513a57dcad38d308c9c54e3c6526688670956/0_169_4096_2458/500.jpg" />
-  </entry>
-  <entry>
-    <title>The Latest: Expert: IS applauds Tunisia attack on Twitter</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article15241373.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T18:39:04Z</updated>
-    <published>2015-03-18T18:39:04Z</published>
-    <summary type="html">&lt;p&gt;Spanish eyewitness Josep Lluis Cusido says he was inside the Bardo museum in Tunisia when the attack started that left at least 22 people dead and hid behind a pillar to save his life.&lt;/p&gt;&lt;p&gt;The United States, the United Nations, France and the UAE are among the nations condemning the attack on a top museum in Tunisia that left 22 people dead, including 17 tourists and 2 gunmen.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T18:39:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>The Latest: Expert: IS applauds Tunisia attack on Twitter</title>
