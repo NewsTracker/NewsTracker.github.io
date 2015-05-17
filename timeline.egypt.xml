@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US 'deeply concerned' by Egypt's death penalty decision for Mohamed Morsi</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/17/us-deeply-concerned-by-egypts-death-penalty-decision-for-mohamed-morsi" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T06:25:36Z</updated>
+    <published>2015-05-17T06:25:36Z</published>
+    <summary type="html">&lt;p&gt;All capital sentences are referred to Egypt's top religious authority, the Grand Mufti, for a non-binding opinion, and are also subject to legal appeal.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T06:25:36Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/a75a622f884a58dbd8b3172b872ec52b84a245a8/510_373_2982_1791/500.jpg" />
+  </entry>
+  <entry>
     <title>US 'deeply concerned' by Morsi death sentence in Egypt</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/US-deeply-concerned-by-Morsi-death-sentence-in-Egypt/articleshow/47315561.cms" />
     <author>
