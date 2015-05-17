@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Earthquakes on Hawaii volcano could signal new eruption</title>
+    <link rel="alternate" href="http://www.chron.com/news/science/article/Earthquakes-on-Hawaii-volcano-could-signal-new-6268464.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T00:28:39Z</updated>
+    <published>2015-05-17T00:28:39Z</published>
+    <summary type="html">&lt;p&gt;Meanwhile, a rash of earthquakes rattled the volcano with as many as 20 to 25 quakes per hour.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T00:28:39Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/22/61/7941226/6/pageart_n.jpg" />
+  </entry>
+  <entry>
+    <title>Earthquakes on Hawaii volcano could signal new eruption</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/earthquakes-on-hawaii-volcano-could-signal-new-eru/nmHwS/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T00:28:39Z</updated>
+    <published>2015-05-17T00:28:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-17T00:28:39Z</dc:date>
+  </entry>
+  <entry>
     <title>Philippine volcano ejects ash, but no violent eruption</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Philippine-volcano-ejects-ash-but-no-violent-6247595.php" />
     <author>
