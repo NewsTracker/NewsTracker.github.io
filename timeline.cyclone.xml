@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Great Barrier Reef braces for cyclone hit</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/03/19/22296121.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T04:46:56Z</updated>
+    <published>2015-03-19T04:46:56Z</published>
+    <summary type="html">&lt;p&gt;A month ago, Cyclone Marcia slammed into the southern part of the same coast, causing billions of dollars in damage and leaving thousands homeless or without electricity.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T04:46:56Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/Microgalleries/2015/03/21/tide.jpg&amp;amp;amp;size=200x112&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Cyclone Pam: Is it time for a category-6 cyclone rating?</title>
+    <link rel="alternate" href="http://www.smh.com.au/environment/climate-change/cyclone-pam-is-it-time-for-a-category6-cyclone-rating-20150316-1m04qv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T06:39:10Z</updated>
+    <published>2015-03-16T06:39:10Z</published>
+    <summary type="html">&lt;p&gt;Jonathan Nott, a professor at James Cook University and expert on cyclone history, said there has "been a lot of discussion over the last five to 10 years" about the need to extend the cyclone severity rating beyond the current maximum of five.&lt;/p&gt;&lt;p&gt;According to the New Zealand's MetService, satellites indicate Cyclone Pam reached mean wind speeds of 270 km/h, with gusts even higher as it passed over the Pacific island nation.&lt;/p&gt;&lt;p&gt;Based on the differences between category-3 and -4 cyclones, a category-6 cyclone would signal mean wind speeds of about 240 km/h or stronger, with a central pressure of less than 915 hPa.&lt;/p&gt;&lt;p&gt;In the case of Cyclone Pam, Professor Nott said the worst of the storm missed Port Vila, with islands to the south, such as Erromango, likely to have received a direct hit.&lt;/p&gt;&lt;p&gt;Cyclone Pam may have exceeded both measures.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T06:39:10Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/0/5/3/f/image.related.articleLeadwide.620x349.1m04qv.png/1426487936286.jpg" />
+  </entry>
+  <entry>
     <title>Cyclone crosses remote Australian coast near evacuated island</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/03/24/us-australia-cyclone-idUSKBN0MK01K20150324?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
@@ -302,18 +326,6 @@
     <dc:date>2015-03-19T13:16:58Z</dc:date>
   </entry>
   <entry>
-    <title>Great Barrier Reef braces for cyclone hit</title>
-    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/03/19/22296121.html?cid=rssnewsworld" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T04:46:56Z</updated>
-    <published>2015-03-19T04:46:56Z</published>
-    <summary type="html">&lt;p&gt;A month ago, Cyclone Marcia slammed into the southern part of the same coast, causing billions of dollars in damage and leaving thousands homeless or without electricity.&lt;/p&gt;</summary>
-    <dc:date>2015-03-19T04:46:56Z</dc:date>
-    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/Microgalleries/2015/03/21/tide.jpg&amp;amp;amp;size=200x112&amp;amp;amp;quality=85" />
-  </entry>
-  <entry>
     <title>Great Barrier Reef region braces for Cyclone Nathan</title>
     <link rel="alternate" href="http://www.dw.de/great-barrier-reef-region-braces-for-cyclone-nathan/a-18324391?maca=en-rss-en-world-4025-rdf" />
     <author>
@@ -406,18 +418,6 @@
     <summary type="html" />
     <dc:date>2015-03-17T04:49:17Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/gholb8oAbFIH6U4KMYfumg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-03-17T045706Z_1_LYNXMPEB2G05V_RTROPTP_2_WEATHER-VANUATU-CYCLONE.JPG" />
-  </entry>
-  <entry>
-    <title>Cyclone Pam: Is it time for a category-6 cyclone rating?</title>
-    <link rel="alternate" href="http://www.smh.com.au/environment/climate-change/cyclone-pam-is-it-time-for-a-category6-cyclone-rating-20150316-1m04qv.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T06:39:10Z</updated>
-    <published>2015-03-16T06:39:10Z</published>
-    <summary type="html">&lt;p&gt;Jonathan Nott, a professor at James Cook University and expert on cyclone history, said there has "been a lot of discussion over the last five to 10 years" about the need to extend the cyclone severity rating beyond the current maximum of five.&lt;/p&gt;&lt;p&gt;According to the New Zealand's MetService, satellites indicate Cyclone Pam reached mean wind speeds of 270 km/h, with gusts even higher as it passed over the Pacific island nation.&lt;/p&gt;&lt;p&gt;Based on the differences between category-3 and -4 cyclones, a category-6 cyclone would signal mean wind speeds of about 240 km/h or stronger, with a central pressure of less than 915 hPa.&lt;/p&gt;&lt;p&gt;In the case of Cyclone Pam, Professor Nott said the worst of the storm missed Port Vila, with islands to the south, such as Erromango, likely to have received a direct hit.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T06:39:10Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/m/0/5/3/f/image.related.articleLeadwide.620x349.1m04qv.png/1426487936286.jpg" />
   </entry>
   <entry>
     <title>Cyclone Pam: Is it time for a category-6 cyclone rating?</title>

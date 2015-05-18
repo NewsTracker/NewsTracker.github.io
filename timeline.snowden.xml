@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>ACLU: Snowden proved NSA Internet spying harms Americans</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/03/10/human-rights-media-groups-sue-nsa-over-web-surveillance" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T21:44:49Z</updated>
+    <published>2015-03-10T21:44:49Z</published>
+    <summary type="html">&lt;p&gt;Wikipedia was included on an NSA slide Snowden leaked in 2013 that demonstrated the agency's interest in monitoring communications on certain websites.&lt;/p&gt;&lt;p&gt;Mark Rumold, an attorney for the Electronic Frontier Foundation, said Snowden's disclosures could certainly bolster ACLU's argument, but the state secret privilege remains a challenge.&lt;/p&gt;&lt;p&gt;"Snowden's disclosures have absolutely changed the playing field, but the playing field is not level."&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T21:44:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Oliver Stone's 'Snowden' filming at locations around DC</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article17620706.html%23storylink=rss" />
     <author>
@@ -380,17 +391,6 @@
     <updated>2015-03-10T21:44:49Z</updated>
     <published>2015-03-10T21:44:49Z</published>
     <summary type="html" />
-    <dc:date>2015-03-10T21:44:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>ACLU: Snowden proved NSA Internet spying harms Americans</title>
-    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/03/10/human-rights-media-groups-sue-nsa-over-web-surveillance" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-10T21:44:49Z</updated>
-    <published>2015-03-10T21:44:49Z</published>
-    <summary type="html">&lt;p&gt;Wikipedia was included on an NSA slide Snowden leaked in 2013 that demonstrated the agency's interest in monitoring communications on certain websites.&lt;/p&gt;&lt;p&gt;Mark Rumold, an attorney for the Electronic Frontier Foundation, said Snowden's disclosures could certainly bolster ACLU's argument, but the state secret privilege remains a challenge.&lt;/p&gt;</summary>
     <dc:date>2015-03-10T21:44:49Z</dc:date>
   </entry>
   <entry>

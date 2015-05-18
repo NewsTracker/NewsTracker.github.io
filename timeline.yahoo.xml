@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Redmond fired as manager of Marlins after sweep by Braves (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/redmond-fired-manager-marlins-sweep-braves-061332761--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T06:13:32Z</updated>
+    <published>2015-05-18T06:13:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-18T06:13:32Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/myNqBPUY_LbRhC8VRllbDQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505172339851945517" />
+  </entry>
+  <entry>
+    <title>Dixon claims Indy 500 pole, breaks up Penske monopoly (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/dixon-claims-indy-500-pole-breaks-penske-monopoly-220330596--irl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T23:50:15Z</updated>
+    <published>2015-05-17T23:50:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-17T23:50:15Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/1PzsB0BJcEFPatErCCKJbA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505171632595314626" />
+  </entry>
+  <entry>
     <title>Floyd Mayweather's ex-girlfriend sues boxer for defamation</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/sports/article20358744.html%23storylink=rss" />
     <author>
