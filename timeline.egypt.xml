@@ -4,15 +4,50 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Egypt executes 6 militants for attack on soldiers</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3085046/Egypt-executes-6-militants-attack-soldiers.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <title>Egypt executes six men convicted of killing soldiers despite "grossly unfair" trial</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/egypt-executes-six-men-convicted-of-killing-soldiers-despite-grossly-unfair-trial-20150517-gh3shl" />
     <author>
       <name />
     </author>
-    <updated>2015-05-17T10:02:36Z</updated>
-    <published>2015-05-17T10:02:36Z</published>
-    <summary type="html">&lt;p&gt;CAIRO, May 17 (Reuters) - Egypt has executed six members of a Sinai-based militant group with links to Islamic State for carrying out an attack on soldiers near Cairo in 2014, the state news agency reported on Sunday.&lt;/p&gt;</summary>
-    <dc:date>2015-05-17T10:02:36Z</dc:date>
+    <updated>2015-05-17T17:20:44Z</updated>
+    <published>2015-05-17T17:20:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-17T17:20:44Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/h/v/f/l/l/image.related.articleLeadwide.620x349.gh3shl.png/1431883226916.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt executes 6 tried by military court as bombs wound 2</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3085056/Egypt-executes-6-men-convicted-killing-soldiers.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T15:10:05Z</updated>
+    <published>2015-05-17T15:10:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-17T15:10:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt Executes 6 Tried by Military Court as Bombs Wound 2</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-executes-men-convicted-killing-soldiers-31102048" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T15:07:34Z</updated>
+    <published>2015-05-17T15:07:34Z</published>
+    <summary type="html">&lt;p&gt;Egypt has been struggling to contain violence by militants, but the scattered attacks have evolved into a full-fledged insurgency following Morsi's July 2013 ouster by the military.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T15:07:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt hangs six convicted militants</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/world-middle-east-32771728%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T11:11:58Z</updated>
+    <published>2015-05-17T11:11:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-17T11:11:58Z</dc:date>
+    <media:content url="http://ichef.bbci.co.uk/news/200/media/images/83050000/jpg/_83050076_05073e85-a1bc-44af-8ad5-0e4d5094c7c5.jpg" />
   </entry>
   <entry>
     <title>Influential cleric Qaradawi condemns Egypt death sentences</title>
@@ -25,6 +60,276 @@
     <summary type="html">&lt;p&gt;Amid the tensions, Qaradawi's televised Friday sermons have gone off the air, but he continues to criticise Egypt's new rulers in conferences and statements to the press and followers.&lt;/p&gt;</summary>
     <dc:date>2015-05-17T09:39:40Z</dc:date>
     <media:content url="http://www.abc.net.au/news/image/6476410-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt policeman killed in clashes with Morsi backers</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3069987/Egypt-policeman-killed-clashes-Morsi-backers.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T10:02:48Z</updated>
+    <published>2015-05-06T10:02:48Z</published>
+    <summary type="html">&lt;p&gt;One policeman was killed and five others wounded in clashes with supporters of Egypt's ousted Islamist president Mohamed Morsi in a Nile Delta city, police said on Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T10:02:48Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/05/06/article-doc-253ku-6YJsASoGcHSK2-969_634x448.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt officials: Militants attack security forces' base in Sinai, no word on casualties</title>
+    <link rel="alternate" href="http://www.startribune.com/world/302424921.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T14:50:37Z</updated>
+    <published>2015-05-04T14:50:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-04T14:50:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spain, Egypt to study Cairo-Luxor bullet train link</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/30/spain-egypt-to-study-cairo-luxor-bullet-train-link/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T14:08:22Z</updated>
+    <published>2015-04-30T14:08:22Z</published>
+    <summary type="html">&lt;p&gt;Egypt is keen on improving its rail links while Spain has one of the world's most developed high-speed train systems.&lt;/p&gt;&lt;p&gt;Cairo and Luxor, two of Egypt's most popular tourist destinations, are 500 kilometers (300 miles) apart.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T14:08:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spain, Egypt to study bullet-train link between Egyptian capital and Luxor</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/04/30/spain-egypt-to-study-bullet-train-link-between-egyptian-capital-and-luxor/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T14:08:22Z</updated>
+    <published>2015-04-30T14:08:22Z</published>
+    <summary type="html">&lt;p&gt;MADRID - Spain and Egypt have agreed to study the feasibility of a bullet-train link between the Egyptian capital of Cairo and the ancient southern city of Luxor.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T14:08:22Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/04/30/876/493/Spain%20Egypt-1.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
+    <title>Egypt president says parliament elections to be held in 2015</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3060789/Egypt-president-says-parliament-elections-held-2015.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T18:02:31Z</updated>
+    <published>2015-04-29T18:02:31Z</published>
+    <summary type="html">&lt;p&gt;CAIRO (AP) - Egypt's president said that the country's delayed parliamentary elections will take place before the end of 2015, according to a newspaper interview published Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T18:02:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt runners defy Cairo mayhem as sport's popularity grows</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/18/egypt-runners-defy-cairo-mayhem-as-sports-popularity-grows" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-18T07:56:35Z</updated>
+    <published>2015-04-18T07:56:35Z</published>
+    <summary type="html">&lt;p&gt;"Whenever I traveled outside Egypt I saw that people had the opportunity to run outside in their own country, and I thought it was a pity that we didn't have this in Egypt."&lt;/p&gt;</summary>
+    <dc:date>2015-04-18T07:56:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Bomb kills soldier, wounds another in Egypt's Sinai - sources</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3041528/Bomb-kills-soldier-wounds-Egypts-Sinai--sources.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T10:01:56Z</updated>
+    <published>2015-04-16T10:01:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T10:01:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>Attacks on troops in Egypt's Sinai kill at least 14</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/12/egypt-officials-huge-explosion-hits-sinai-police-station" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T19:04:37Z</updated>
+    <published>2015-04-12T19:04:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T19:04:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt Militants Behind Cairo Blast Name New Leader</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egyptian-militant-group-cairo-blast-names-leader-30217420" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T12:25:47Z</updated>
+    <published>2015-04-10T12:25:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T12:25:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt refers 187 Brotherhood supporters to military court - prosecutor</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3026261/Egypt-refers-187-Brotherhood-supporters-military-court--prosecutor.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T10:11:43Z</updated>
+    <published>2015-04-05T10:11:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-05T10:11:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt refers 187 Brotherhood supporters to military court: prosecutor</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-refers-187-brotherhood-supporters-military-court-prosecutor-094012277--sector.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T09:40:12Z</updated>
+    <published>2015-04-05T09:40:12Z</published>
+    <summary type="html">&lt;p&gt;Military courts in Egypt tend to process cases more quickly than civilian ones.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T09:40:12Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/upPrDzYMyOCafUTdZuJw1w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/0ee6a097146389736172b1dcf70865f9e64ca0c0.jpg" />
+  </entry>
+  <entry>
+    <title>Rights group urges Egypt to halt executions of 6 men</title>
+    <link rel="alternate" href="http://news.yahoo.com/rights-group-urges-egypt-halt-executions-6-men-120110279.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T12:01:10Z</updated>
+    <published>2015-04-04T12:01:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-04T12:01:10Z</dc:date>
+  </entry>
+  <entry>
+    <title>US releases military aid to Egypt, cites national security</title>
+    <link rel="alternate" href="http://news.yahoo.com/us-releases-military-aid-egypt-cites-national-security-190036072.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T21:17:28Z</updated>
+    <published>2015-03-31T21:17:28Z</published>
+    <summary type="html">&lt;p&gt;And it comes at a time when Arab nations have expressed concern about Washington's negotiations with Iran over its nuclear program, questioning whether the U.S. is aligning itself with Tehran instead of its long-standing allies in the region, like Egypt.&lt;/p&gt;&lt;p&gt;White House spokeswoman Bernadette Meehan said the assistance will help address the growth of a group in Egypt, affiliated with Islamic State militants, that has attacked Egyptian soldiers and civilians.&lt;/p&gt;&lt;p&gt;"We will continue to engage with Egypt frankly and directly on its political trajectory and to raise human rights and political reform issues at the highest levels," Meehan said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T21:17:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Obama releases military aid to Egypt that was frozen after 2013 coup, cites national security</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/298187171.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T19:00:27Z</updated>
+    <published>2015-03-31T19:00:27Z</published>
+    <summary type="html">&lt;p&gt;But the White House says it is not issuing a certification that Egypt has made progress toward democracy.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T19:00:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>14 killed in car crash in Egypt's southern Sohag province</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/30/14-killed-in-car-crash-in-egypts-southern-sohag/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T07:47:48Z</updated>
+    <published>2015-03-30T07:47:48Z</published>
+    <summary type="html">&lt;p&gt;SOHAG, Egypt (AP) - A senior Egyptian security official says 14 people have been killed and seven injured in a car crash involving three vehicles in the southern province of Sohag.&lt;/p&gt;&lt;p&gt;Deadly traffic crashes claim thousands of lives in Egypt every year.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T07:47:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Saudis, Egypt consider intervention in Yemen, likely by air</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Saudis-Egypt-consider-intervention-in-Yemen-6158609.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T19:15:07Z</updated>
+    <published>2015-03-25T19:15:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-25T19:15:07Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/33/34/7714586/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Official: German killed by shark on Egypt's Red Sea Coast</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Official-German-killed-by-shark-on-Egypt-s-Red-6151028.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-22T10:39:49Z</updated>
+    <published>2015-03-22T10:39:49Z</published>
+    <summary type="html">&lt;p&gt;Egypt is one of the world's top diving destinations.&lt;/p&gt;</summary>
+    <dc:date>2015-03-22T10:39:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt, Emirati developers tout nebulous plan for new capital</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/20/egypt-emirati-developers-tout-nebulous-plan-for/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T18:42:08Z</updated>
+    <published>2015-03-20T18:42:08Z</published>
+    <summary type="html">&lt;p&gt;Is a flashy Dubai-style city feasible in impoverished Egypt?&lt;/p&gt;&lt;p&gt;"Real estate is now considered the engine of Egypt's growth and what better way to stimulate it, in spite of the dismal record of new desert towns to date, than to proclaim a colossal new capital?"&lt;/p&gt;&lt;p&gt;It's everything missing from Egypt today - with a price tag of up to $80 billion.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T18:42:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt Rakes Billions in Gulf Aid That Boosts Its President</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypts-el-sissi-inaugurates-day-economic-conference-29613267" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-13T20:40:14Z</updated>
+    <published>2015-03-13T20:40:14Z</published>
+    <summary type="html">&lt;p&gt;The gathering of royals, heads of state, top international officials and businessmen was also an opportunity for el-Sissi to put behind him criticism over the military's 2013 ouster of Egypt's elected president, Islamist Mohammed Morsi.&lt;/p&gt;</summary>
+    <dc:date>2015-03-13T20:40:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>An exhausted Egypt finds aid, focus on investment from business-savvy United Arab Emirates</title>
+    <link rel="alternate" href="http://www.startribune.com/world/295299281.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T06:50:21Z</updated>
+    <published>2015-03-06T06:50:21Z</published>
+    <summary type="html">&lt;p&gt;A UAE government report shows that Egypt is by far the biggest single recipient of donor cash from the Emirates, with $4.6 billion distributed just in 2013, the most recent year for which data is available.&lt;/p&gt;&lt;p&gt;What it doesn't have is Egypt's manpower.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T06:50:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt's el-Sissi replaces interior minister in reshuffle</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11412607&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-05T14:55:14Z</updated>
+    <published>2015-03-05T14:55:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-05T14:55:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Al-Jazeera producer hopes to be cleared in Egypt retrial</title>
+    <link rel="alternate" href="http://news.yahoo.com/al-jazeera-producer-hopes-cleared-egypt-retrial-163419101.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-18T07:46:35Z</updated>
+    <published>2015-02-18T07:46:35Z</published>
+    <summary type="html">&lt;p&gt;Mohammed said he spent 411 days in three different prisons in Egypt, including a maximum security facility where he had to sleep on a damp cement floor in a cell six and a half feet wide.&lt;/p&gt;&lt;p&gt;The Committee to Protect Journalists listed Egypt in 2014 as one of the 10 worst jailers of journalists around the world, along with China, Iran, Turkey and Ethiopia.&lt;/p&gt;&lt;p&gt;There are at least nine other journalists in detention in Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-02-18T07:46:35Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/5iNFNi2KwApbztF0L70HtQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/3e9e0788bd2768076e0f6a7067000958.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt seeks international intervention against IS in Libya</title>
+    <link rel="alternate" href="http://www.upi.com/Top_News/World-News/2015/02/16/Egypt-seeks-international-intervention-against-IS-in-Libya/9021424114996/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-16T20:13:26Z</updated>
+    <published>2015-02-16T20:13:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-02-16T20:13:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt strikes back at Islamic State militants after beheading video, killing dozens</title>
+    <link rel="alternate" href="http://www.theage.com.au/world/egypt-strikes-back-at-islamic-state-militants-after-beheading-video-killing-dozens-20150216-13ghv2.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-16T11:51:00Z</updated>
+    <published>2015-02-16T11:51:00Z</published>
+    <summary type="html">&lt;p&gt;Security officials say militants based in Libya have established ties with Sinai Province, a group operating from Egypt's Sinai Peninsula that has pledged allegiance to Islamic State.&lt;/p&gt;&lt;p&gt;Libya said it had joined and co-ordinated with Egypt on the strikes.&lt;/p&gt;</summary>
+    <dc:date>2015-02-16T11:51:00Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/3/f/w/s/l/image.related.articleLeadwide.620x349.13ghv2.png/1424736393055.jpg" />
   </entry>
   <entry>
     <title>US 'deeply concerned' by Egypt's death penalty decision for Mohamed Morsi</title>
@@ -925,17 +1230,6 @@
     <published>2015-04-06T08:01:21Z</published>
     <summary type="html" />
     <dc:date>2015-04-06T08:01:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>US releases military aid to Egypt, cites national security</title>
-    <link rel="alternate" href="http://news.yahoo.com/us-releases-military-aid-egypt-cites-national-security-190036072.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-31T21:17:28Z</updated>
-    <published>2015-03-31T21:17:28Z</published>
-    <summary type="html">&lt;p&gt;And it comes at a time when Arab nations have expressed concern about Washington's negotiations with Iran over its nuclear program, questioning whether the U.S. is aligning itself with Tehran instead of its long-standing allies in the region, like Egypt.&lt;/p&gt;&lt;p&gt;White House spokeswoman Bernadette Meehan said the assistance will help address the growth of a group in Egypt, affiliated with Islamic State militants, that has attacked Egyptian soldiers and civilians.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T21:17:28Z</dc:date>
   </entry>
   <entry>
     <title>Egypt to try policeman over death of female protester</title>
@@ -2026,17 +2320,6 @@
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
   </entry>
   <entry>
-    <title>14 killed in car crash in Egypt's southern Sohag province</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/30/14-killed-in-car-crash-in-egypts-southern-sohag/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T07:47:48Z</updated>
-    <published>2015-03-30T07:47:48Z</published>
-    <summary type="html">&lt;p&gt;SOHAG, Egypt (AP) - A senior Egyptian security official says 14 people have been killed and seven injured in a car crash involving three vehicles in the southern province of Sohag.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T07:47:48Z</dc:date>
-  </entry>
-  <entry>
     <title>Saudis, Egypt consider intervention in Yemen, likely by air</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3011631/Saudis-Egypt-consider-intervention-Yemen-likely-air.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -2232,17 +2515,6 @@
   </entry>
   <entry>
     <title>Egypt, Emirati developers tout nebulous plan for new capital</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/20/egypt-emirati-developers-tout-nebulous-plan-for/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T18:42:08Z</updated>
-    <published>2015-03-20T18:42:08Z</published>
-    <summary type="html">&lt;p&gt;Is a flashy Dubai-style city feasible in impoverished Egypt?&lt;/p&gt;&lt;p&gt;"Real estate is now considered the engine of Egypt's growth and what better way to stimulate it, in spite of the dismal record of new desert towns to date, than to proclaim a colossal new capital?"&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T18:42:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt, Emirati developers tout nebulous plan for new capital</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/03/20/egypt-emirati-developers-tout-nebulous-plan-for-new-capital" />
     <author>
       <name />
@@ -2365,17 +2637,6 @@
     <published>2015-03-14T10:45:16Z</published>
     <summary type="html">&lt;p&gt;SHARM EL-SHEIKH, Egypt (AP) " U.S. Secretary of State John Kerry says the U.S. will make a decision "very soon" on how to unfreeze hundreds of millions of dollars in suspended American military assistance to Egypt.&lt;/p&gt;&lt;p&gt;Egypt has been trying to get F-16s fighter jets, tanks and other materiel to combat the extremist threat spilling over from Libya and in the Sinai Peninsula.&lt;/p&gt;</summary>
     <dc:date>2015-03-14T10:45:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt Rakes Billions in Gulf Aid That Boosts Its President</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypts-el-sissi-inaugurates-day-economic-conference-29613267" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-13T20:40:14Z</updated>
-    <published>2015-03-13T20:40:14Z</published>
-    <summary type="html">&lt;p&gt;The gathering of royals, heads of state, top international officials and businessmen was also an opportunity for el-Sissi to put behind him criticism over the military's 2013 ouster of Egypt's elected president, Islamist Mohammed Morsi.&lt;/p&gt;</summary>
-    <dc:date>2015-03-13T20:40:14Z</dc:date>
   </entry>
   <entry>
     <title>Egypt rakes billions in Gulf aid that boosts its president</title>
@@ -2538,17 +2799,6 @@
     <dc:date>2015-03-06T07:50:15Z</dc:date>
   </entry>
   <entry>
-    <title>An exhausted Egypt finds aid, focus on investment from business-savvy United Arab Emirates</title>
-    <link rel="alternate" href="http://www.startribune.com/world/295299281.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-06T06:50:21Z</updated>
-    <published>2015-03-06T06:50:21Z</published>
-    <summary type="html">&lt;p&gt;A UAE government report shows that Egypt is by far the biggest single recipient of donor cash from the Emirates, with $4.6 billion distributed just in 2013, the most recent year for which data is available.&lt;/p&gt;</summary>
-    <dc:date>2015-03-06T06:50:21Z</dc:date>
-  </entry>
-  <entry>
     <title>Emirates forges special relationship with el-Sissi's Egypt</title>
     <link rel="alternate" href="http://news.yahoo.com/emirates-forges-special-relationship-el-sissis-egypt-064256748--finance.html" />
     <author>
@@ -2656,18 +2906,6 @@
     <media:content url="http://static.theglobeandmail.ca/e18/news/world/article23042910.ece/ALTERNATES/w220/APTOPIX+Mideast+Egypt+Al+Ja.JPG" />
   </entry>
   <entry>
-    <title>Al-Jazeera producer hopes to be cleared in Egypt retrial</title>
-    <link rel="alternate" href="http://news.yahoo.com/al-jazeera-producer-hopes-cleared-egypt-retrial-163419101.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-18T07:46:35Z</updated>
-    <published>2015-02-18T07:46:35Z</published>
-    <summary type="html">&lt;p&gt;Mohammed said he spent 411 days in three different prisons in Egypt, including a maximum security facility where he had to sleep on a damp cement floor in a cell six and a half feet wide.&lt;/p&gt;&lt;p&gt;The Committee to Protect Journalists listed Egypt in 2014 as one of the 10 worst jailers of journalists around the world, along with China, Iran, Turkey and Ethiopia.&lt;/p&gt;</summary>
-    <dc:date>2015-02-18T07:46:35Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/5iNFNi2KwApbztF0L70HtQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/3e9e0788bd2768076e0f6a7067000958.jpg" />
-  </entry>
-  <entry>
     <title>Correction: Egypt story</title>
     <link rel="alternate" href="http://news.yahoo.com/egypt-refers-ousted-morsi-military-tribunal-141334300.html" />
     <author>
@@ -2747,18 +2985,6 @@
     <summary type="html" />
     <dc:date>2015-02-16T16:23:22Z</dc:date>
     <media:content url="http://ichef.bbci.co.uk/news/200/media/images/81038000/jpg/_81038132_025900689.jpg" />
-  </entry>
-  <entry>
-    <title>Egypt strikes back at Islamic State militants after beheading video, killing dozens</title>
-    <link rel="alternate" href="http://www.theage.com.au/world/egypt-strikes-back-at-islamic-state-militants-after-beheading-video-killing-dozens-20150216-13ghv2.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-16T11:51:00Z</updated>
-    <published>2015-02-16T11:51:00Z</published>
-    <summary type="html">&lt;p&gt;Security officials say militants based in Libya have established ties with Sinai Province, a group operating from Egypt's Sinai Peninsula that has pledged allegiance to Islamic State.&lt;/p&gt;</summary>
-    <dc:date>2015-02-16T11:51:00Z</dc:date>
-    <media:content url="http://www.theage.com.au/content/dam/images/1/3/f/w/s/l/image.related.articleLeadwide.620x349.13ghv2.png/1424736393055.jpg" />
   </entry>
   <entry>
     <title>Egypt strikes back at Islamic State militants after beheading video, killing dozens</title>

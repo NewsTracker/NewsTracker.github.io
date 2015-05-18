@@ -4,6 +4,62 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.obamacare.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Senate passes GOP budget plan targeting 'Obamacare'</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/5/5/senate-passes-gop-budget-plan-targeting-obamacare.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T02:00:00Z</updated>
+    <published>2015-05-06T02:00:00Z</published>
+    <summary type="html">&lt;p&gt;Instead, the "reconciliation" instructions are focused on easing the way to repealing the Affordable Care Act, or "Obamacare."&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T02:00:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/3/17/gop-set-to-unveil-budget-blueprint-with-cuts-to-safety-net-programs/_jcr_content/image.adapt.480.low.mike_enzi_16mar2015.jpg" />
+  </entry>
+  <entry>
+    <title>Republicans reach deal for budget plan, target Obamacare</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/27/us-usa-budget-idUSKBN0NI2A020150427?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T22:04:59Z</updated>
+    <published>2015-04-27T22:04:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T22:04:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Compromise GOP budget hikes war funds, targets 'Obamacare'</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Compromise-GOP-budget-hikes-war-funds-targets-6226232.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T15:48:29Z</updated>
+    <published>2015-04-27T15:48:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T15:48:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. top court throws out Obamacare contraception ruling</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3057553/U-S-court-throws-Obamacare-contraception-ruling.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T15:05:33Z</updated>
+    <published>2015-04-27T15:05:33Z</published>
+    <summary type="html">&lt;p&gt;Obama's healthcare law, known as Obamacare, requires employers to provide health insurance policies that cover preventive services for women including access to contraception and sterilization.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T15:05:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. top court throws out Obamacare contraception ruling</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/27/us-usa-court-obamacare-idUSKBN0NI1I920150427?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T14:13:50Z</updated>
+    <published>2015-04-27T14:13:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T14:13:50Z</dc:date>
+  </entry>
+  <entry>
     <title>17 million gain coverage under Obamacare</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/17-million-gain-coverage-under-obamacare/" />
     <author>

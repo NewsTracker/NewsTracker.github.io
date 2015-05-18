@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Oliver Stone's 'Snowden' filming at locations around DC</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article17620706.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T14:28:59Z</updated>
+    <published>2015-04-07T14:28:59Z</published>
+    <summary type="html">&lt;p&gt;Film crews have been spotted near the White House and in the Tryst coffee shop in Adams Morgan that Snowden frequented.&lt;/p&gt;&lt;p&gt;Stone is adapting the book "The Snowden Files: The Inside Story of the World's Most Wanted Man" by Guardian journalist Luke Harding for the screen.&lt;/p&gt;&lt;p&gt;Stone has called the Snowden case "one of the great stories of our time."&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T14:28:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Snowden Talks Surveillance, Hot Pockets with John Oliver</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/edward-snowden-discusses-surveillance-tactics-hot-pockets-john/story?id=30113732" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T15:39:45Z</updated>
+    <published>2015-04-06T15:39:45Z</published>
+    <summary type="html">&lt;p&gt;"That is a problem," Snowden conceded.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T15:39:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>John Oliver, Edward Snowden have a Frost/Nixon moment</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article17498507.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-06T14:15:05Z</updated>
+    <published>2015-04-06T14:15:05Z</published>
+    <summary type="html">&lt;p&gt;The comedian asked Snowden if he had read every document he leaked and fired back when Snowden replied that he understands what he turned over.&lt;/p&gt;&lt;p&gt;He also confronted Snowden about the New York Times publishing information he provided that may have compromised an operation in Iraq.&lt;/p&gt;&lt;p&gt;Oliver eventually moved on to somewhat lighter fare, showing man-on-the street reactions by Americans who don't know who Snowden is and reacting to the news that the NSA is able to collect some of the naked selfies Americans send each other in a database.&lt;/p&gt;&lt;p&gt;"That is a problem," Snowden acknowledged.&lt;/p&gt;</summary>
+    <dc:date>2015-04-06T14:15:05Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Activists ticketed for putting Snowden bust on NYC monument</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article20355699.html%23storylink=rss" />
     <author>
@@ -60,17 +94,6 @@
     <summary type="html">&lt;p&gt;Newcastle prop Kade Snowden says he's injury-free for the first time in four years and happy to be back in the representative frame.&lt;/p&gt;</summary>
     <dc:date>2015-05-01T08:02:31Z</dc:date>
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20140713000994005211-original_800x600.jpg?itok=55HsMhhv" />
-  </entry>
-  <entry>
-    <title>Oliver Stone's 'Snowden' filming at locations around DC</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article17620706.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-07T14:28:59Z</updated>
-    <published>2015-04-07T14:28:59Z</published>
-    <summary type="html">&lt;p&gt;Film crews have been spotted near the White House and in the Tryst coffee shop in Adams Morgan that Snowden frequented.&lt;/p&gt;&lt;p&gt;Stone is adapting the book "The Snowden Files: The Inside Story of the World's Most Wanted Man" by Guardian journalist Luke Harding for the screen.&lt;/p&gt;</summary>
-    <dc:date>2015-04-07T14:28:59Z</dc:date>
   </entry>
   <entry>
     <title>CIA tried to hack Apple devices for nearly a decade, claim Edward Snowden papers</title>
@@ -265,18 +288,6 @@
     <published>2015-04-06T18:12:56Z</published>
     <summary type="html">&lt;p&gt;It would be a dishonor to those memorialized here to not laud those who protect the ideals they fought for, as Edward Snowden has by bringing the NSA's 4th-Amendment-violating surveillance programs to light.&lt;/p&gt;</summary>
     <dc:date>2015-04-06T18:12:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>John Oliver, Edward Snowden have a Frost/Nixon moment</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article17498507.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-06T14:15:05Z</updated>
-    <published>2015-04-06T14:15:05Z</published>
-    <summary type="html">&lt;p&gt;The comedian asked Snowden if he had read every document he leaked and fired back when Snowden replied that he understands what he turned over.&lt;/p&gt;&lt;p&gt;He also confronted Snowden about the New York Times publishing information he provided that may have compromised an operation in Iraq.&lt;/p&gt;&lt;p&gt;Oliver eventually moved on to somewhat lighter fare, showing man-on-the street reactions by Americans who don't know who Snowden is and reacting to the news that the NSA is able to collect some of the naked selfies Americans send each other in a database.&lt;/p&gt;</summary>
-    <dc:date>2015-04-06T14:15:05Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>John Oliver interviews Edward Snowden, and real journalism breaks out</title>

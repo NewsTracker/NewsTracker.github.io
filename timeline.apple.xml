@@ -4,6 +4,245 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Review: Small life enhancements come with Apple Watch</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article20323509.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T07:18:54Z</updated>
+    <published>2015-05-06T07:18:54Z</published>
+    <summary type="html">&lt;p&gt;Apple Watch is good at the basics, so I'm now demanding more.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T07:18:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>Samsung overtakes Apple as biggest smartphone maker, but profits slump</title>
+    <link rel="alternate" href="http://www.smh.com.au/business/world-business/samsung-overtakes-apple-as-biggest-smartphone-maker-but-profits-slump-20150429-1mvtn5.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T02:20:42Z</updated>
+    <published>2015-04-29T02:20:42Z</published>
+    <summary type="html">&lt;p&gt;Samsung Electronics overtook Apple to recapture the title of world's top smartphone maker by volume in the first quarter of 2015, research firm Strategy Analytics said on Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T02:20:42Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/v/u/a/a/image.related.articleLeadwide.620x349.1mvtn5.png/1430274037877.jpg" />
+  </entry>
+  <entry>
+    <title>Chinese demand for Apple's big-screen phones fuel sales growth</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3059997/Chinese-demand-Apples-big-screen-phones-fuel-sales-growth.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T01:05:57Z</updated>
+    <published>2015-04-29T01:05:57Z</published>
+    <summary type="html">&lt;p&gt;Consumer demand for the newest electronics pushed sales in China to 29 percent of total global sales for Apple in the first quarter, compared with 21 percent a year ago.&lt;/p&gt;&lt;p&gt;For Apple, China is "the golden goose," he said.&lt;/p&gt;&lt;p&gt;Apple's distribution and marketing in China has now also clicked into place, analysts said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T01:05:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple's Mac Is Selling Strong, iPad Not So Much</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/apples-mac-selling-strong-ipad-30633051" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T16:37:39Z</updated>
+    <published>2015-04-28T16:37:39Z</published>
+    <summary type="html">&lt;p&gt;Apple's iPhone was again the company's star in the first three months of the year.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T16:37:39Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/Technology/WireAP_04038c8bad1c4e739bc702f9df72187f_16x9_992.jpg" />
+  </entry>
+  <entry>
+    <title>Asian shares at 7-year highs, cheered by Apple earnings</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3058369/Asian-shares-7-year-highs-cheered-Apple-earnings.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T01:31:48Z</updated>
+    <published>2015-04-28T01:31:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-28T01:31:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Forget the watch: Apple's iPhones are still the main event</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Forget-the-watch-Apple-s-iPhones-are-still-the-6226834.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T23:08:36Z</updated>
+    <published>2015-04-27T23:08:36Z</published>
+    <summary type="html">&lt;p&gt;As iPhone sales have surged, so has Apple's stock.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T23:08:36Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/05/04/7885083/3/628x471.jpg" />
+  </entry>
+  <entry>
+    <title>Forget the watch: Apple's iPhones are still the main event</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Forget-the-watch-Apple-s-iPhones-are-still-the-6226834.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T20:50:22Z</updated>
+    <published>2015-04-27T20:50:22Z</published>
+    <summary type="html">&lt;p&gt;Apple didn't report any results for the new Apple Watch, which it began selling this month, after the quarter ended.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T20:50:22Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/05/04/7885083/3/622x350.jpg" />
+  </entry>
+  <entry>
+    <title>Apple watch: US stocks drift higher at midday as investors wait for iPhone maker's results</title>
+    <link rel="alternate" href="http://www.startribune.com/business/economy/301436241.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T16:16:16Z</updated>
+    <published>2015-04-27T16:16:16Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK - U.S. stocks are barely higher at midday as investors look ahead to Apple's results later today and a meeting by the Federal Reserve on interest rates.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T16:16:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Stocks Edge up at Midday as Investors Wait for Apple Results</title>
+    <link rel="alternate" href="http://abcnews.go.com/Business/wireStory/stocks-edge-midday-investors-wait-apple-results-30615325" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T16:14:13Z</updated>
+    <published>2015-04-27T16:14:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T16:14:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Discover discovers Apple Pay for its US cardholders</title>
+    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/04/27/discover-to-have-apple-pay-available-for-us-cardholders" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T13:24:46Z</updated>
+    <published>2015-04-27T13:24:46Z</published>
+    <summary type="html">&lt;p&gt;Apple Pay launched in October.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T13:24:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple tests smartwatch market with quiet debut of Cook's first product</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3051506/Apple-tests-smartwatch-market-quiet-debut-Cooks-product.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T01:02:07Z</updated>
+    <published>2015-04-23T01:02:07Z</published>
+    <summary type="html">&lt;p&gt;Apple will likely use preorders to perfect the consumer experience by giving watch customers more attention in stores and adding apps in time for the holiday season, said Shannon Cross, analyst at Cross Research.&lt;/p&gt;&lt;p&gt;Apple itself said that some customers will get watches faster than promised.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T01:02:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Some Apple Watches shipping sooner than expected</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Some-Apple-Watches-shipping-sooner-than-expected-6217818.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T00:17:58Z</updated>
+    <published>2015-04-23T00:17:58Z</published>
+    <summary type="html">&lt;p&gt;Many who ordered the new smartwatch online earlier this month were told that delivery could take a month or longer, although Apple has promised to begin deliveries Friday to those who were among the first to place orders.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T00:17:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Court-appointed monitor says Apple's antitrust cooperation 'sharply declined' in recent months</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/04/16/court-appointed-monitor-says-apple-antitrust-cooperation-sharply-declined-in/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T22:41:09Z</updated>
+    <published>2015-04-16T22:41:09Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK - A court-appointed monitor says Apple Inc.'s cooperation with efforts in a New York federal case to improve its compliance with antitrust laws took on an "adversarial tone" recently.&lt;/p&gt;&lt;p&gt;The monitor, Michael Bromwich, says in a report made public Thursday that Apple's cooperation with the monitoring team "sharply declined" this year.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T22:41:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>What It's Like to Get an Apple Watch Fitting</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/apple-watch-fitting-appointment-1st-day/story?id=30227788" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T19:48:14Z</updated>
+    <published>2015-04-10T19:48:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T19:48:14Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/Technology/abc_apple_watch_02_jc_150410_4x3_992.jpg" />
+  </entry>
+  <entry>
+    <title>Latest on Apple Watch release: Trying it on</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/10/apple-watch-live-try-on-visits-online-orders-begin" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T16:04:02Z</updated>
+    <published>2015-04-10T16:04:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T16:04:02Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple Watch isn't the only gadget out this week</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/09/apple-watch-isnt-the-only-gadget-out-this-week" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T19:08:20Z</updated>
+    <published>2015-04-09T19:08:20Z</published>
+    <summary type="html">&lt;p&gt;And no surprise, there's an Apple Watch as a character now.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T19:08:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple Watch review round-up</title>
+    <link rel="alternate" href="http://www.techradar.com/us/news/wearables/apple-watch-review-round-up-1290572?src=rss&amp;amp;attr=all" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T18:41:00Z</updated>
+    <published>2015-04-08T18:41:00Z</published>
+    <summary type="html">&lt;p&gt;"But among smartwatches, Apple Watch is second to none."&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T18:41:00Z</dc:date>
+    <media:content url="http://cdn.mos.techradar.com/art/Watches/Apple%20Watch/Third%20option/Apple%20Watch%20review022-320-80.jpg" />
+  </entry>
+  <entry>
+    <title>Apple Watch review: You?ll want one, but you don?t need one</title>
+    <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-watch-review-youll-want-one-but-you-dont-need-one" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T14:40:32Z</updated>
+    <published>2015-04-08T14:40:32Z</published>
+    <summary type="html">&lt;p&gt;So Apple has succeeded in its first big task with its watch.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T14:40:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple faces local battles as its prepares global payments push</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3030383/Apple-faces-local-battles-prepares-global-payments-push.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T13:02:03Z</updated>
+    <published>2015-04-08T13:02:03Z</published>
+    <summary type="html">&lt;p&gt;FRANKFURT, April 8 (Reuters) - Apple has made mobile payments look easy, after a decade of mostly failed experiments by banks, telecom operators and retailers to woo consumers away from cards and cash.&lt;/p&gt;&lt;p&gt;Apple Pay has taken the United States by storm since its launch in September, and the company has said it already accounts for around $2 out of every $3 spent using "contactless" payments on the three big U.S. card networks.&lt;/p&gt;&lt;p&gt;Apple Pay allows consumers using new Apple phones, tablets and smartwatches to buy goods by simply holding the device up to readers installed by store merchants.&lt;/p&gt;&lt;p&gt;Apple itself is not giving any clues about where it might move next.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T13:02:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>An apple a day may not keep the doctor away, study says</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/An-apple-a-day-may-not-keep-the-doctor-away-6167747.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T15:19:11Z</updated>
+    <published>2015-03-30T15:19:11Z</published>
+    <summary type="html">&lt;p&gt;That's according to proverb-busting research that found daily apple eaters had just as many doctor visits as those who ate fewer or no apples.&lt;/p&gt;&lt;p&gt;About 9 percent of adults studied ate the equivalent of at least one small apple daily.&lt;/p&gt;&lt;p&gt;Apple eaters had more education and were less likely to smoke than apple shunners, and fewer of them were white.&lt;/p&gt;&lt;p&gt;Apple eaters were slightly less likely to use prescription drugs, but the study lacks information on use of over-the-counter medication and alternative medicine.&lt;/p&gt;&lt;p&gt;Apples are a good source of vitamin C; one medium apple has about 100 calories and provides nearly 20 percent of the daily recommended amount of fiber.&lt;/p&gt;&lt;p&gt;Those who ate less than that were considered apple shunners.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T15:19:11Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/41/37/7739376/3/622x350.jpg" />
+  </entry>
+  <entry>
+    <title>Apple's Tim Cook will give away all his money</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102539600" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T00:15:00Z</updated>
+    <published>2015-03-27T00:15:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-27T00:15:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/02/11/102417033-457318622.530x298.jpg?v=1427398002" />
+  </entry>
+  <entry>
     <title>Could Apple Buy One-Third Of The World's Gold?</title>
     <link rel="alternate" href="http://www.forbes.com/sites/greatspeculations/2015/03/06/could-apple-buy-one-third-of-the-worlds-gold/" />
     <author>
@@ -826,17 +1065,6 @@
   </entry>
   <entry>
     <title>Apple tests smartwatch market with quiet debut of Cook's first product</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3051506/Apple-tests-smartwatch-market-quiet-debut-Cooks-product.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-23T01:02:07Z</updated>
-    <published>2015-04-23T01:02:07Z</published>
-    <summary type="html">&lt;p&gt;Apple will likely use preorders to perfect the consumer experience by giving watch customers more attention in stores and adding apps in time for the holiday season, said Shannon Cross, analyst at Cross Research.&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T01:02:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple tests smartwatch market with quiet debut of Cook's first product</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-apple-watch-launch-idUSKBN0NE01620150423?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
       <name />
@@ -845,17 +1073,6 @@
     <published>2015-04-23T00:40:24Z</published>
     <summary type="html">&lt;p&gt;In fact, the only watches on sale on Friday will be at a handful of upscale boutiques and department stores that Apple courted to help position the watch as a fashion item.&lt;/p&gt;</summary>
     <dc:date>2015-04-23T00:40:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Some Apple Watches shipping sooner than expected</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Some-Apple-Watches-shipping-sooner-than-expected-6217818.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-23T00:17:58Z</updated>
-    <published>2015-04-23T00:17:58Z</published>
-    <summary type="html">&lt;p&gt;Many who ordered the new smartwatch online earlier this month were told that delivery could take a month or longer, although Apple has promised to begin deliveries Friday to those who were among the first to place orders.&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T00:17:58Z</dc:date>
   </entry>
   <entry>
     <title>Some Apple Watches shipping sooner than expected</title>
@@ -1173,17 +1390,6 @@
     <published>2015-04-16T22:42:22Z</published>
     <summary type="html">&lt;p&gt;Since then, he said, "Apple's communications with us reverted to the more adversarial tone taken in the first few months of the monitorship, including attempts to prescribe and limit how the monitor should conduct his reviews and write his reports."&lt;/p&gt;</summary>
     <dc:date>2015-04-16T22:42:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>Court-appointed monitor says Apple's antitrust cooperation 'sharply declined' in recent months</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/04/16/court-appointed-monitor-says-apple-antitrust-cooperation-sharply-declined-in/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-16T22:41:09Z</updated>
-    <published>2015-04-16T22:41:09Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK - A court-appointed monitor says Apple Inc.'s cooperation with efforts in a New York federal case to improve its compliance with antitrust laws took on an "adversarial tone" recently.&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T22:41:09Z</dc:date>
   </entry>
   <entry>
     <title>Court monitor: Apple antitrust cooperation has 'declined'</title>
@@ -2083,17 +2289,6 @@
   </entry>
   <entry>
     <title>Apple faces local battles as its prepares global payments push</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3030383/Apple-faces-local-battles-prepares-global-payments-push.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T13:02:03Z</updated>
-    <published>2015-04-08T13:02:03Z</published>
-    <summary type="html">&lt;p&gt;FRANKFURT, April 8 (Reuters) - Apple has made mobile payments look easy, after a decade of mostly failed experiments by banks, telecom operators and retailers to woo consumers away from cards and cash.&lt;/p&gt;&lt;p&gt;Apple Pay has taken the United States by storm since its launch in September, and the company has said it already accounts for around $2 out of every $3 spent using "contactless" payments on the three big U.S. card networks.&lt;/p&gt;&lt;p&gt;Apple Pay allows consumers using new Apple phones, tablets and smartwatches to buy goods by simply holding the device up to readers installed by store merchants.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T13:02:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple faces local battles as its prepares global payments push</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-apple-payments-international-idUSKBN0MZ18F20150408?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
       <name />
@@ -2278,18 +2473,6 @@
     <summary type="html">&lt;p&gt;But, said Dr. Steven Zeisel, director of the University of North Carolina's Nutrition Research Institute, "One apple isn't going to be enough to make a difference unless it's part of a healthy food pattern."&lt;/p&gt;</summary>
     <dc:date>2015-03-30T15:19:20Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/gsU_Avmd.wZO7cL2cXbKvQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/fe045d4555f63f0e720f6a706700c488.jpg" />
-  </entry>
-  <entry>
-    <title>An apple a day may not keep the doctor away, study says</title>
-    <link rel="alternate" href="http://www.chron.com/news/medical/article/An-apple-a-day-may-not-keep-the-doctor-away-6167747.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T15:19:11Z</updated>
-    <published>2015-03-30T15:19:11Z</published>
-    <summary type="html">&lt;p&gt;That's according to proverb-busting research that found daily apple eaters had just as many doctor visits as those who ate fewer or no apples.&lt;/p&gt;&lt;p&gt;About 9 percent of adults studied ate the equivalent of at least one small apple daily.&lt;/p&gt;&lt;p&gt;Apple eaters had more education and were less likely to smoke than apple shunners, and fewer of them were white.&lt;/p&gt;&lt;p&gt;Apple eaters were slightly less likely to use prescription drugs, but the study lacks information on use of over-the-counter medication and alternative medicine.&lt;/p&gt;&lt;p&gt;Apples are a good source of vitamin C; one medium apple has about 100 calories and provides nearly 20 percent of the daily recommended amount of fiber.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T15:19:11Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/35/41/37/7739376/3/622x350.jpg" />
   </entry>
   <entry>
     <title>An apple a day may not keep the doctor away, study says</title>
