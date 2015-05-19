@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sports in Nepal not spared by the earthquakes</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/05/sports-disarray-nepal-earthquakes-150519100044762.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T11:04:02Z</updated>
+    <published>2015-05-19T11:04:02Z</published>
+    <summary type="html">&lt;p&gt;The two recent earthquakes killed more than 8,500 people, and have had a devastating impact on all aspects of life in Nepal, including sports.&lt;/p&gt;&lt;p&gt;"He was a dedicated and experienced coach whose demise is a great loss for sports in Nepal."&lt;/p&gt;&lt;p&gt;"The tournament is vital for the future of Nepal's cricket and we plan to go to India for preparations."&lt;/p&gt;&lt;p&gt;Nepal may also lose the rights to host the 2015 Asian weightlifting championships, which were due to be held in Kathmandu from July 24-30.&lt;/p&gt;&lt;p&gt;The Asian weightlifting federation lists the championships as "to be confirmed" and has encouraged the Nepal organisers to host the 2016 championships instead.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T11:04:02Z</dc:date>
+    <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/5/15/b26a4eb9248749e0907a0c6006022fff_18.jpg" />
+  </entry>
+  <entry>
     <title>Illinois Marine among 8 dead in Nepal helicopter crash</title>
     <link rel="alternate" href="http://news.yahoo.com/illinois-marine-among-8-dead-nepal-helicopter-crash-154715160.html" />
     <author>
