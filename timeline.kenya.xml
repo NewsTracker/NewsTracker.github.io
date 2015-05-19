@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya asks Burundi president to postpone election</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/05/kenyan-leader-asks-burundi-president-postpone-poll-150518072337327.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T10:48:27Z</updated>
+    <published>2015-05-18T10:48:27Z</published>
+    <summary type="html">&lt;p&gt;Kenya's President Uhuru Kenyatta has told Burundi leader Pierre Nkurunziza that he should postpone a presidential election due next month after last week's failed military coup, Kenyatta's spokesman said on Monday.&lt;/p&gt;&lt;p&gt;Regional leaders want the election date changed from June 26 to create a "conducive environment" but the vote should still be held within the current electoral cycle, which comes to an end in late August, Kenya's Esipisu said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T10:48:27Z</dc:date>
+    <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/5/15/bbd3e7f1a592415da266df9da79b5b63_18.jpg" />
+  </entry>
+  <entry>
     <title>Kenya's Kenyatta asks Burundian president to postpone poll</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3085974/Kenyas-Kenyatta-asks-Burundian-president-postpone-poll.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

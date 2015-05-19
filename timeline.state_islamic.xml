@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Legislators pass bill that had been nixed over Islamic law</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/05/18/lawmakers-debate-child-support-bill-nixed-by-shariah-concern" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T02:08:43Z</updated>
+    <published>2015-05-19T02:08:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-19T02:08:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>Shi'ite forces move in on Iraqi city taken by Islamic State</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/19/us-mideast-crisis-iraq-idUSKBN0O20M020150519?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T00:47:06Z</updated>
+    <published>2015-05-19T00:47:06Z</published>
+    <summary type="html">&lt;p&gt;U.S. officials said there would be no strategy change and Iraqi forces were ultimately responsible for defeating Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T00:47:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State killed hundreds as it took Iraq's Ramadi</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/18/iraq-official-500-killed-8-000-fled-as-ramadi-fell-to-is" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T10:16:29Z</updated>
+    <published>2015-05-18T10:16:29Z</published>
+    <summary type="html">&lt;p&gt;The figures could not be independently confirmed, but Islamic State militants have in the past killed hundreds of civilians and soldiers in the aftermath of their major victories.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T10:16:29Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/2c2ecaa/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F9f%2Fbcd4b9316bb9937401d822b0022ed7%2Fmedia%3A7773210cbbe6446d801c19d08a7e558cMideastIraqIslamicState.JPEG" />
+  </entry>
+  <entry>
     <title>Push for new war powers for Obama in the fight against Islamic State group stalls in Congress</title>
     <link rel="alternate" href="http://www.startribune.com/push-to-write-new-war-powers-for-obama-stalls-in-congress/304079231/" />
     <author>
