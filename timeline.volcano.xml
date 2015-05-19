@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Lava explodes from Hawaii?s Kilauea volcano after crater collapses</title>
+    <link rel="alternate" href="http://nypost.com/2015/05/05/lava-explodes-from-hawaiis-kilauea-volcano-after-crater-collapses/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T15:01:24Z</updated>
+    <published>2015-05-05T15:01:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-05T15:01:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Rainfall in area of Chile volcano could cause mudslides</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11442188&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T20:25:13Z</updated>
+    <published>2015-05-01T20:25:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-01T20:25:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Scientists watching Hawaii's Kilauea Volcano for new eruption</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/18/us-usa-hawaii-volcano-idUSKBN0O326920150518?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>

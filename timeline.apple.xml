@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple introduces new MacBook Pro, iMac</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/apple-introduces-new-macbook-pro-imac-1.2380356" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T14:32:19Z</updated>
+    <published>2015-05-19T14:32:19Z</published>
+    <summary type="html">&lt;p&gt;5, 2014 file photo, a man walks into an Apple store in Beijing.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T14:32:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Defective component slowed Apple Watch rollout: report</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/29/defective-component-slowed-apple-watch-rollout-report" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T23:10:26Z</updated>
+    <published>2015-04-29T23:10:26Z</published>
+    <summary type="html">&lt;p&gt;Apple has not given any sales figures for its hotly anticipated Apple Watch since it began taking orders this month.&lt;/p&gt;&lt;p&gt;As a result, Apple is now sourcing nearly all of its components from the other supplier, Japan's Nidec Corp. It may take time for the company to increase production, the people told the Journal.&lt;/p&gt;&lt;p&gt;Apple declined to comment on the story.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T23:10:26Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694299035_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Apple introduces new MacBook Pro, iMac, lowers price of top-end iMac</title>
     <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/05/19/apple-introduces-new-macbook-pro-imac-lowers-price-top-end-imac/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
     <author>
@@ -870,18 +893,6 @@
     <published>2015-04-30T07:09:18Z</published>
     <summary type="html">&lt;p&gt;An Apple support article says the watch uses green LED lights paired with light-sensitive photodiodes to detect the amount of blood flowing through the wrist and calculate the frequency of heart beats.&lt;/p&gt;&lt;p&gt;"We have been hearing suppliers encountering some bottleneck issues for Apple Watch's production such as problems with its displays, haptics or assembly," he told Reuters, adding that those issues were quite common for new products.&lt;/p&gt;</summary>
     <dc:date>2015-04-30T07:09:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Defective component slowed Apple Watch rollout: report</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/04/29/defective-component-slowed-apple-watch-rollout-report" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-29T23:10:26Z</updated>
-    <published>2015-04-29T23:10:26Z</published>
-    <summary type="html">&lt;p&gt;Apple has not given any sales figures for its hotly anticipated Apple Watch since it began taking orders this month.&lt;/p&gt;&lt;p&gt;As a result, Apple is now sourcing nearly all of its components from the other supplier, Japan's Nidec Corp. It may take time for the company to increase production, the people told the Journal.&lt;/p&gt;</summary>
-    <dc:date>2015-04-29T23:10:26Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694299035_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>Microsoft opens Windows 10 to Apple, Android apps</title>

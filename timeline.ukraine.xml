@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kazakhstan votes for continuity while keeping eye on Ukraine</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/24/kazakhstan-votes-for-continuity-while-keeping-eye-on-ukraine" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T09:16:14Z</updated>
+    <published>2015-04-24T09:16:14Z</published>
+    <summary type="html">&lt;p&gt;Leonard reported from Kiev, Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T09:16:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Chechen commander in Ukraine drawn into Russian intrigue</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11431571&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T08:50:13Z</updated>
+    <published>2015-04-12T08:50:13Z</published>
+    <summary type="html">&lt;p&gt;Osmayev spent three years in detention until being released in November 2014 by Ukraine's new Western-leaning government.&lt;/p&gt;&lt;p&gt;The Osmayevs fled to Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T08:50:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russia's role in Ukraine seen shifting to training rebels</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Russia-s-role-in-Ukraine-seen-shifting-to-6176626.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T06:40:46Z</updated>
+    <published>2015-04-03T06:40:46Z</published>
+    <summary type="html">&lt;p&gt;YENAKIEYEVE, Ukraine (AP) - On a recent spring morning, an important visitor watched Russian-backed rebels conduct infantry maneuvers in eastern Ukraine.&lt;/p&gt;&lt;p&gt;More recently, as a shaky cease-fire has taken hold, Russia has kept fewer troops in Ukraine but increased rebel training.&lt;/p&gt;&lt;p&gt;By his calculations, several hundred Russian servicemen are still in Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T06:40:46Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/46/46/7760267/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Putin tells Kiev to let troops surrender as Ukraine ceasefire unravels</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/02/17/ukraine-truce-unravels-as-battle-rages-arms-pullback-stalls" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-17T21:57:01Z</updated>
+    <published>2015-02-17T21:57:01Z</published>
+    <summary type="html">&lt;p&gt;The United States has been considering sending weapons to aid Kiev, although the State Department said on Tuesday getting into a proxy war with Russia was not in the interests of Ukraine or the world.&lt;/p&gt;&lt;p&gt;Ukraine denied that the number of captives was that high.&lt;/p&gt;</summary>
+    <dc:date>2015-02-17T21:57:01Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297665109450_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Economic toll of conflict builds up for Ukraine</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article21368805.html%23storylink=rss" />
     <author>
@@ -2186,17 +2232,6 @@
   </entry>
   <entry>
     <title>Chechen commander in Ukraine drawn into Russian intrigue</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11431571&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T08:50:13Z</updated>
-    <published>2015-04-12T08:50:13Z</published>
-    <summary type="html">&lt;p&gt;Osmayev spent three years in detention until being released in November 2014 by Ukraine's new Western-leaning government.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T08:50:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Chechen commander in Ukraine drawn into Russian intrigue</title>
     <link rel="alternate" href="http://news.yahoo.com/chechen-commander-ukraine-drawn-russian-intrigue-084530080.html" />
     <author>
       <name />
@@ -2434,18 +2469,6 @@
     <summary type="html">&lt;p&gt;Nearly a year into the Ukraine conflict, the extent of Moscow's direct involvement has become clear: They may wear camouflage, but the Russians' presence in eastern Ukraine is hardly invisible.&lt;/p&gt;</summary>
     <dc:date>2015-04-03T06:40:54Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/1F9mPlqOX5VDSjgBVoXTZw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/86700d13f84e930e720f6a7067006e2a.jpg" />
-  </entry>
-  <entry>
-    <title>Russia's role in Ukraine seen shifting to training rebels</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Russia-s-role-in-Ukraine-seen-shifting-to-6176626.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-03T06:40:46Z</updated>
-    <published>2015-04-03T06:40:46Z</published>
-    <summary type="html">&lt;p&gt;YENAKIEYEVE, Ukraine (AP) - On a recent spring morning, an important visitor watched Russian-backed rebels conduct infantry maneuvers in eastern Ukraine.&lt;/p&gt;&lt;p&gt;More recently, as a shaky cease-fire has taken hold, Russia has kept fewer troops in Ukraine but increased rebel training.&lt;/p&gt;</summary>
-    <dc:date>2015-04-03T06:40:46Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/35/46/46/7760267/5/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Russia's role in Ukraine seen shifting to training rebels</title>
@@ -3621,18 +3644,6 @@
     <published>2015-02-18T06:14:01Z</published>
     <summary type="html">&lt;p&gt;Ukraine denied rebel claims to have taken control of the town but acknowledged the separatists had seized parts of it.&lt;/p&gt;</summary>
     <dc:date>2015-02-18T06:14:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Putin tells Kiev to let troops surrender as Ukraine ceasefire unravels</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/02/17/ukraine-truce-unravels-as-battle-rages-arms-pullback-stalls" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-17T21:57:01Z</updated>
-    <published>2015-02-17T21:57:01Z</published>
-    <summary type="html">&lt;p&gt;The United States has been considering sending weapons to aid Kiev, although the State Department said on Tuesday getting into a proxy war with Russia was not in the interests of Ukraine or the world.&lt;/p&gt;</summary>
-    <dc:date>2015-02-17T21:57:01Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297665109450_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>News24.com | Security Council calls for Ukraine fighting to stop</title>

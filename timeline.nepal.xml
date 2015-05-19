@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.S. Marines not halting flights after Nepal, Hawaii accidents</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/19/us-usa-marines-aircraft-idUSKBN0O41TM20150519?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T14:45:02Z</updated>
+    <published>2015-05-19T14:45:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-19T14:45:02Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. Marines not halting flights after Nepal, Hawaii accidents</title>
+    <link rel="alternate" href="http://news.yahoo.com/u-marines-not-halting-flights-nepal-hawaii-accidents-144502062--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T14:45:02Z</updated>
+    <published>2015-05-19T14:45:02Z</published>
+    <summary type="html">&lt;p&gt;Bell Helicopter, a unit of Textron Inc, built the UH-1 Y-model helicopter that crashed in Nepal.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T14:45:02Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/aBD7rBvWT3_oKykXWmBlug--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-19T144502Z_1_LYNXMPEB4I0QC_RTROPTP_2_QUAKE-NEPAL-MARINES.JPG" />
+  </entry>
+  <entry>
+    <title>Nepal Jails Man for 35 Years for Rape, Murder of 7-Year-Old</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nepal-jails-man-35-years-rape-murder-year-29715322" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T04:42:39Z</updated>
+    <published>2015-03-18T04:42:39Z</published>
+    <summary type="html">&lt;p&gt;Nepal does not have capital punishment.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T04:42:39Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>Nepal's historic homes at risk as post-quake demolition begins</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3087709/Nepals-historic-homes-risk-post-quake-demolition-begins.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

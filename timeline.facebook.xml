@@ -4,6 +4,87 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google, Facebook join Red Cross to find thousands missing after Nepal quake</title>
+    <link rel="alternate" href="http://news.yahoo.com/google-facebook-join-red-cross-thousands-missing-nepal-164119287.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:47:34Z</updated>
+    <published>2015-04-27T21:47:34Z</published>
+    <summary type="html">&lt;p&gt;Facebook has also launched its Safety Check tool https://www.facebook.com/safetycheck/nepalearthquake for Nepal, drawing praise from Facebook members.&lt;/p&gt;&lt;p&gt;"It's a simple way to let family and friends know you're okay. If you're in one of the areas affected by the earthquake, you'll get a notification asking if you're safe, and whether you want to check on any of your friends," Facebook CEO Mark Zuckerberg posted.&lt;/p&gt;&lt;p&gt;"When you or someone in your family is in danger, you'll try ANY kind of contact and I'm glad Facebook helped me today. Connection is what matters."&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:47:34Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>As YouTube marks tenth year, Facebook emerges as video threat</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-facebook-video-idUSKBN0NE1N520150423?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T14:22:34Z</updated>
+    <published>2015-04-23T14:22:34Z</published>
+    <summary type="html">&lt;p&gt;Facebook Inc said on Wednesday that its users were watching 4 billion videos a day, compared with 3 billion in January and just 1 billion in September.&lt;/p&gt;&lt;p&gt;Facebook shares were down about 1 percent at $83.92 in early trading on Thursday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T14:22:34Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" />
+  </entry>
+  <entry>
+    <title>Facebook shifts News Feed, gives priority to friends</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/facebook-shifts-news-feed-gives-priority-to-friends-1.2339033" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T12:02:00Z</updated>
+    <published>2015-04-22T12:02:00Z</published>
+    <summary type="html">&lt;p&gt;"The goal of News Feed is to show you the content that matters to you," said a blog post by Facebook's Max Eulenstein and Lauren Scissors.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T12:02:00Z</dc:date>
+    <media:content url="http://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_bnn.jpg" />
+  </entry>
+  <entry>
+    <title>Pew Research Center: Teens still use Facebook</title>
+    <link rel="alternate" href="http://www.usnews.com/news/entertainment/articles/2015/04/14/pew-research-center-teens-still-use-facebook" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T13:30:11Z</updated>
+    <published>2015-04-14T13:30:11Z</published>
+    <summary type="html">&lt;p&gt;Facebook was the site they used most frequently, at 41 percent, followed by Instagram at 20 percent and Snapchat at 11 percent.&lt;/p&gt;&lt;p&gt;Boys are more likely than girls to report they visit Facebook most often - at 45 percent versus 36 percent of girls.&lt;/p&gt;&lt;p&gt;NEW YORK (AP) - Remember those declarations that teens are done with Facebook?&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T13:30:11Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png" />
+  </entry>
+  <entry>
+    <title>Afghan police official fired for mob-killing Facebook comment</title>
+    <link rel="alternate" href="http://news.yahoo.com/police-official-fired-amid-outcry-over-lynching-woman-122204040.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T15:31:23Z</updated>
+    <published>2015-03-24T15:31:23Z</published>
+    <summary type="html">&lt;p&gt;Hashmat Stanekzai, the spokesman for Kabul's police chief, was also fired on Tuesday for statements made on his personal Facebook page the day after the killing, Olomi said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T15:31:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook may host news sites' material</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102529294" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T07:41:00Z</updated>
+    <published>2015-03-24T07:41:00Z</published>
+    <summary type="html">&lt;p&gt;Nothing attracts news organizations like Facebook.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T07:41:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Penn State frat suspended over secret Facebook page</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/penn-state-frat-suspended-over-secret-facebook-page/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T19:01:24Z</updated>
+    <published>2015-03-17T19:01:24Z</published>
+    <summary type="html">&lt;p&gt;Police say some Facebook posts also related to hazing and drug deals.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T19:01:24Z</dc:date>
+  </entry>
+  <entry>
     <title>Why publishers had to partner with Facebook</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/books/article21274368.html%23storylink=rss" />
     <author>
@@ -92,18 +173,6 @@
     <summary type="html">&lt;p&gt;Nonetheless, Facebook is unlikely to give up.&lt;/p&gt;&lt;p&gt;Think of Hello as Facebook's overlay for your various calling apps.&lt;/p&gt;</summary>
     <dc:date>2015-04-29T16:41:16Z</dc:date>
     <media:content url="http://ww2.hdnux.com/photos/36/07/57/7896049/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Google, Facebook join Red Cross to find thousands missing after Nepal quake</title>
-    <link rel="alternate" href="http://news.yahoo.com/google-facebook-join-red-cross-thousands-missing-nepal-164119287.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-27T21:47:34Z</updated>
-    <published>2015-04-27T21:47:34Z</published>
-    <summary type="html">&lt;p&gt;Facebook has also launched its Safety Check tool https://www.facebook.com/safetycheck/nepalearthquake for Nepal, drawing praise from Facebook members.&lt;/p&gt;&lt;p&gt;"It's a simple way to let family and friends know you're okay. If you're in one of the areas affected by the earthquake, you'll get a notification asking if you're safe, and whether you want to check on any of your friends," Facebook CEO Mark Zuckerberg posted.&lt;/p&gt;</summary>
-    <dc:date>2015-04-27T21:47:34Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
   </entry>
   <entry>
     <title>Facebook launches video calling in Messenger app</title>
@@ -197,18 +266,6 @@
     <summary type="html">&lt;p&gt;Yahoo's Frankfurt-listed shares (YHOO.F) were up 1.1 percent, while Facebook's Frankfurt-listed stock (FB2A.F) rose 1.3 percent.&lt;/p&gt;</summary>
     <dc:date>2015-04-16T06:18:49Z</dc:date>
     <media:content url="http://s4.reutersmedia.net/resources_v2/images/rcom-logo-hdr.png" />
-  </entry>
-  <entry>
-    <title>Pew Research Center: Teens still use Facebook</title>
-    <link rel="alternate" href="http://www.usnews.com/news/entertainment/articles/2015/04/14/pew-research-center-teens-still-use-facebook" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-14T13:30:11Z</updated>
-    <published>2015-04-14T13:30:11Z</published>
-    <summary type="html">&lt;p&gt;Facebook was the site they used most frequently, at 41 percent, followed by Instagram at 20 percent and Snapchat at 11 percent.&lt;/p&gt;&lt;p&gt;Boys are more likely than girls to report they visit Facebook most often - at 45 percent versus 36 percent of girls.&lt;/p&gt;</summary>
-    <dc:date>2015-04-14T13:30:11Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/490a609/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Fc4%2F39%2F677999944687ac9ad6e43d137456%2Ffacebook-icon.png" />
   </entry>
   <entry>
     <title>Facebook Messenger is now a standalone web app</title>
@@ -809,18 +866,6 @@
     <dc:date>2015-04-24T09:07:00Z</dc:date>
   </entry>
   <entry>
-    <title>As YouTube marks tenth year, Facebook emerges as video threat</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-facebook-video-idUSKBN0NE1N520150423?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-23T14:22:34Z</updated>
-    <published>2015-04-23T14:22:34Z</published>
-    <summary type="html">&lt;p&gt;Facebook Inc said on Wednesday that its users were watching 4 billion videos a day, compared with 3 billion in January and just 1 billion in September.&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T14:22:34Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" />
-  </entry>
-  <entry>
     <title>Facebook's quarterly revenue growth slows</title>
     <link rel="alternate" href="http://www.rte.ie/news/business/2015/0423/696101-facebook-results/" />
     <author>
@@ -993,18 +1038,6 @@
     <summary type="html">&lt;p&gt;Facebook said it started testing its mobile calling app 'Hello' on Android, which allows users to connect with Facebook to see the identity and information about callers even if the number is not saved on the phone.&lt;/p&gt;</summary>
     <dc:date>2015-04-22T18:20:00Z</dc:date>
     <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/22/102610869-coverimage.530x298.jpg?v=1429726086" />
-  </entry>
-  <entry>
-    <title>Facebook shifts News Feed, gives priority to friends</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/facebook-shifts-news-feed-gives-priority-to-friends-1.2339033" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T12:02:00Z</updated>
-    <published>2015-04-22T12:02:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-22T12:02:00Z</dc:date>
-    <media:content url="http://static.ctvnews.ca/bellmedia/common/img/logos/footer-logo_bnn.jpg" />
   </entry>
   <entry>
     <title>Facebook is making your News Feed more about your actual friends</title>
@@ -1775,17 +1808,6 @@
     <published>2015-03-24T16:27:59Z</published>
     <summary type="html">&lt;p&gt;Prosecutors say Ceglia added a page to a two-page contract he signed in 2003 with Facebook founder Mark Zuckerberg to make it seem he was entitled to be part owner of the Menlo Park, California social media giant.&lt;/p&gt;</summary>
     <dc:date>2015-03-24T16:27:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Afghan police official fired for mob-killing Facebook comment</title>
-    <link rel="alternate" href="http://news.yahoo.com/police-official-fired-amid-outcry-over-lynching-woman-122204040.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-24T15:31:23Z</updated>
-    <published>2015-03-24T15:31:23Z</published>
-    <summary type="html">&lt;p&gt;Hashmat Stanekzai, the spokesman for Kabul's police chief, was also fired on Tuesday for statements made on his personal Facebook page the day after the killing, Olomi said.&lt;/p&gt;</summary>
-    <dc:date>2015-03-24T15:31:23Z</dc:date>
   </entry>
   <entry>
     <title>Man sentenced in Facebook threat case tied to larger debate</title>
