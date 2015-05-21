@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Oldest known stone tools found in Kenya</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/oldest-known-stone-tools-found-in-kenya-20150521-gh69wu.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T01:18:14Z</updated>
+    <published>2015-05-21T01:18:14Z</published>
+    <summary type="html">&lt;p&gt;New York: By taking a wrong turn in a dry riverbed in Kenya, scientists discovered a trove of stone tools far older than any ever found before.&lt;/p&gt;&lt;p&gt;The Nature paper describes 149 stones and stone flakes found west of Lake Turkana in a remote area of northern Kenya.&lt;/p&gt;</summary>
+    <dc:date>2015-05-21T01:18:14Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/6/e/p/1/image.related.articleLeadwide.620x349.gh69wu.png/1432171083546.jpg" />
+  </entry>
+  <entry>
+    <title>Oldest known stone tools found in Kenya</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/oldest-known-stone-tools-found-in-kenya-20150521-gh69wu.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T01:18:14Z</updated>
+    <published>2015-05-21T01:18:14Z</published>
+    <summary type="html">&lt;p&gt;Sonia Harmand and Jason Lewis with stone tools found in the West Turkana area of Kenya.&lt;/p&gt;</summary>
+    <dc:date>2015-05-21T01:18:14Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/6/e/p/1/image.related.articleLeadwide.620x349.gh69wu.png/1432171083546.jpg" />
+  </entry>
+  <entry>
+    <title>Oldest Known Stone Tools Discovered in Kenya</title>
+    <link rel="alternate" href="http://time.com/3891265/stone-tools-research-kenya/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+time%2Fscienceandhealth+%28TIME%3A+Top+Science+Stories%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-20T20:26:52Z</updated>
+    <published>2015-05-20T20:26:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-20T20:26:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya asks Burundi president to postpone election</title>
     <link rel="alternate" href="http://www.aljazeera.com/news/2015/05/kenyan-leader-asks-burundi-president-postpone-poll-150518072337327.html" />
     <author>

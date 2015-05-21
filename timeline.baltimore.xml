@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New video surfaces showing Freddie Gray arrest in Baltimore</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/20/us-usa-police-baltimore-idUSKBN0O525620150520?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-20T19:34:09Z</updated>
+    <published>2015-05-20T19:34:09Z</published>
+    <summary type="html">&lt;p&gt;Baltimore has posted 35 murders since Gray's death.&lt;/p&gt;</summary>
+    <dc:date>2015-05-20T19:34:09Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" />
+  </entry>
+  <entry>
     <title>The latest on Baltimore police-custody death: Dozens of protesters gather in Ferguson</title>
     <link rel="alternate" href="http://www.startribune.com/nation/301795921.html" />
     <author>
