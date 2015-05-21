@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Police tied to killing of mayoral candidate in Mexico</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Police-tied-to-killing-of-mayoral-candidate-in-Mexico-20150521" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T13:40:16Z</updated>
+    <published>2015-05-21T13:40:16Z</published>
+    <summary type="html">&lt;p&gt;Mexico City - The top prosecutor in a western Mexican state says his investigation has tied the local police chief, his deputy and another underling to the killing last week of a mayoral candidate.&lt;/p&gt;</summary>
+    <dc:date>2015-05-21T13:40:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico Opens Bidding for Oil, Gas Drilling in 26 Areas</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-opens-bidding-oil-gas-drilling-26-areas-30964985" />
     <author>

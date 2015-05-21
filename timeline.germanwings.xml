@@ -4,6 +4,66 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings co-pilot practiced descents hours before crash</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/crime/article/French-investigators-to-release-report-on-6245268.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T20:24:15Z</updated>
+    <published>2015-05-06T20:24:15Z</published>
+    <summary type="html">&lt;p&gt;With the Barcelona-bound Germanwings flight data, "we have here the previous proof."&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T20:24:15Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/21/03/7934196/3/gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Germanwings pilot rehearsed crash on outbound flight</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/06/germanwings-pilot-rehearsed-for-crash-on-previous-flight-investigators" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T16:34:53Z</updated>
+    <published>2015-05-06T16:34:53Z</published>
+    <summary type="html">&lt;p&gt;As the jet steadily lost height, Marseille air traffic controllers tried 11 times to contact the Germanwings jet.&lt;/p&gt;&lt;p&gt;It promised also to look at where to draw the line between the need to prevent possible attacks by passengers and the need to prevent a repeat of incidents such as the Germanwings crash.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T16:34:53Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297681793981_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Germanwings pilot tried controlled descent on previous flight</title>
+    <link rel="alternate" href="http://news.yahoo.com/germanwings-pilot-tried-controlled-descent-104413668.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T10:42:36Z</updated>
+    <published>2015-05-06T10:42:36Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T10:42:36Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/pwct7Azr4yQJSYYIaqksPg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-us/homerun/video.wpvi.abc.news.com/ef5613a1c37b12c25b8eba18c81cc1ba" />
+  </entry>
+  <entry>
+    <title>Germanwings plane disaster: co-pilot may have practised descent</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/germanwings-plane-disaster-copilot-may-have-practised-descent-20150506-ggvrtw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T09:48:32Z</updated>
+    <published>2015-05-06T09:48:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T09:48:32Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/k/t/k/z/image.related.articleLeadwide.620x349.ggvrtw.png/1430905699216.jpg" />
+  </entry>
+  <entry>
+    <title>Germanwings pilot was briefly refused medical certificate in U.S.</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/30/germanwings-pilot-was-briefly-refused-medical-certificate-in-us" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T17:12:55Z</updated>
+    <published>2015-04-30T17:12:55Z</published>
+    <summary type="html">&lt;p&gt;But it has said that Lufthansa, which owns Germanwings, had followed correct procedures under rules that applied at the time.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T17:12:55Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694588210_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Germanwings victims remembered in Barcelona memorial service</title>
     <link rel="alternate" href="http://news.yahoo.com/germanwings-victims-remembered-barcelona-memorial-203814372.html" />
     <author>
@@ -384,18 +444,6 @@
     <dc:date>2015-05-06T16:37:53Z</dc:date>
   </entry>
   <entry>
-    <title>Germanwings pilot rehearsed crash on outbound flight</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/05/06/germanwings-pilot-rehearsed-for-crash-on-previous-flight-investigators" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-06T16:34:53Z</updated>
-    <published>2015-05-06T16:34:53Z</published>
-    <summary type="html">&lt;p&gt;As the jet steadily lost height, Marseille air traffic controllers tried 11 times to contact the Germanwings jet.&lt;/p&gt;</summary>
-    <dc:date>2015-05-06T16:34:53Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297681793981_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
     <title>Report: Germanwings crash co-pilot tried slow descent before</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article20324184.html%23storylink=rss" />
     <author>
@@ -452,18 +500,6 @@
     <summary type="html" />
     <dc:date>2015-05-05T23:13:50Z</dc:date>
     <media:content url="http://i.telegraph.co.uk/multimedia/archive/03292/Andreas-Lubitz_3292787b.jpg" />
-  </entry>
-  <entry>
-    <title>Germanwings pilot was briefly refused medical certificate in U.S.</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/04/30/germanwings-pilot-was-briefly-refused-medical-certificate-in-us" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-30T17:12:55Z</updated>
-    <published>2015-04-30T17:12:55Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-30T17:12:55Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694588210_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>FAA had questioned mental health of Germanwings pilot</title>
