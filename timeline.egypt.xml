@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Al-Jazeera reporter sues channel over Egypt detention</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/11598400/Al-Jazeera-reporter-sues-channel-over-Egypt-detention.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T18:36:34Z</updated>
+    <published>2015-05-11T18:36:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-11T18:36:34Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03300/Egyptian-Canadian-_3300294b.jpg" />
+  </entry>
+  <entry>
+    <title>Jazeera reporter sues own channel over Egypt detention</title>
+    <link rel="alternate" href="http://news.yahoo.com/jazeera-reporter-sues-own-channel-over-egypt-detention-174347508.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T17:43:47Z</updated>
+    <published>2015-05-11T17:43:47Z</published>
+    <summary type="html">&lt;p&gt;Cairo (AFP) - An Al-Jazeera journalist on retrial in Egypt has sued his Qatari employer for $100 million, his lawyers said on Monday, claiming the satellite network was negligent and supported blacklisted Islamists.&lt;/p&gt;&lt;p&gt;Their first trial came against the backdrop of strained ties between Egypt and Qatar, which supported Morsi.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T17:43:47Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/jVCY0Wvlu7CPFGMTpJAAqQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6416924-1-1-0.jpg" />
+  </entry>
+  <entry>
+    <title>Al-Jazeera reporter sues network for $100m over Egypt detention</title>
+    <link rel="alternate" href="http://www.theguardian.com/media/2015/may/11/al-jazeera-reporter-egypt-detention" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T17:04:52Z</updated>
+    <published>2015-05-11T17:04:52Z</published>
+    <summary type="html">&lt;p&gt;Fahmy's Egyptian lawyer Mohamed Hamouda said his client had chosen Canada to file the lawsuit because "he is seen as a traitor in Egypt" since surrendering his citizenship.&lt;/p&gt;&lt;p&gt;Egypt's authorities charged the three with spreading "false news" during their coverage of demonstrations, and also said they were working without valid accreditation.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T17:04:52Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/abf579b4f7ae1ae96c5357601cc4a4a7a29e3563/0_0_3710_2227/500.jpg" />
+  </entry>
+  <entry>
+    <title>In Egypt, ex-military men fire up Islamist insurgency</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/in-egypt-ex-military-men-fire-up-islamist-insurgency/article23830553/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T07:57:08Z</updated>
+    <published>2015-04-08T07:57:08Z</published>
+    <summary type="html">&lt;p&gt;They pose a danger to U.S. ally Egypt with their knowledge of the Arab world's biggest army, provide militants with training and strategic direction, and even carry out suicide bomb attacks against government officials.&lt;/p&gt;&lt;p&gt;Men like Ashmawy, who is on the run, are especially troubling for Egypt which is struggling to contain a complex web of militants who roam from the Sinai to Libya, another hub for extremists.&lt;/p&gt;&lt;p&gt;Ashmawy's neighbors in Cairo's Nasr City district, home to many army officers, never suspected he would become one of Egypt's most wanted men.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T07:57:08Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/a35/news/world/article23830552.ece/ALTERNATES/w220/AW02b-EGYPT-SECURITY+.JPG" />
+  </entry>
+  <entry>
     <title>As war rages at home, thousands from Yemen stranded in Egypt</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/As-war-rages-at-home-thousands-from-Yemen-6228073.php" />
     <author>
@@ -826,30 +874,6 @@
     <media:content url="http://www.smh.com.au/content/dam/images/1/3/g/k/a/k/image.related.articleLeadwide.620x349.13gk70.png/1424119819185.jpg" />
   </entry>
   <entry>
-    <title>Jazeera reporter sues own channel over Egypt detention</title>
-    <link rel="alternate" href="http://news.yahoo.com/jazeera-reporter-sues-own-channel-over-egypt-detention-174347508.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-11T17:43:47Z</updated>
-    <published>2015-05-11T17:43:47Z</published>
-    <summary type="html">&lt;p&gt;Cairo (AFP) - An Al-Jazeera journalist on retrial in Egypt has sued his Qatari employer for $100 million, his lawyers said on Monday, claiming the satellite network was negligent and supported blacklisted Islamists.&lt;/p&gt;</summary>
-    <dc:date>2015-05-11T17:43:47Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/jVCY0Wvlu7CPFGMTpJAAqQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6416924-1-1-0.jpg" />
-  </entry>
-  <entry>
-    <title>Al-Jazeera reporter sues network for $100m over Egypt detention</title>
-    <link rel="alternate" href="http://www.theguardian.com/media/2015/may/11/al-jazeera-reporter-egypt-detention" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-11T17:04:52Z</updated>
-    <published>2015-05-11T17:04:52Z</published>
-    <summary type="html">&lt;p&gt;Fahmy's Egyptian lawyer Mohamed Hamouda said his client had chosen Canada to file the lawsuit because "he is seen as a traitor in Egypt" since surrendering his citizenship.&lt;/p&gt;</summary>
-    <dc:date>2015-05-11T17:04:52Z</dc:date>
-    <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/abf579b4f7ae1ae96c5357601cc4a4a7a29e3563/0_0_3710_2227/500.jpg" />
-  </entry>
-  <entry>
     <title>Gaza truck driver hit by gunfire from Egypt</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3076813/Gaza-truck-driver-hit-gunfire-Egypt.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1232,18 +1256,6 @@
     <summary type="html">&lt;p&gt;Egypt is also facing a threat on its western border from a chaotic Libya where the influence of IS -- which has seized chunks of Syria and Iraq -- is growing.&lt;/p&gt;</summary>
     <dc:date>2015-04-13T07:01:41Z</dc:date>
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/13/07/6Xk0seDHDHSK2-3035623-Deadly_bomb_attack_L_Saubadu_J_Jacobsen_AFP_-m-1_1428907214374.jpg" />
-  </entry>
-  <entry>
-    <title>In Egypt, ex-military men fire up Islamist insurgency</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/in-egypt-ex-military-men-fire-up-islamist-insurgency/article23830553/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T07:57:08Z</updated>
-    <published>2015-04-08T07:57:08Z</published>
-    <summary type="html">&lt;p&gt;They pose a danger to U.S. ally Egypt with their knowledge of the Arab world's biggest army, provide militants with training and strategic direction, and even carry out suicide bomb attacks against government officials.&lt;/p&gt;&lt;p&gt;Men like Ashmawy, who is on the run, are especially troubling for Egypt which is struggling to contain a complex web of militants who roam from the Sinai to Libya, another hub for extremists.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T07:57:08Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/a35/news/world/article23830552.ece/ALTERNATES/w220/AW02b-EGYPT-SECURITY+.JPG" />
   </entry>
   <entry>
     <title>Egypt imposes life jail penalty for cross-border tunnel use</title>

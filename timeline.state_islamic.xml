@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State claims responsibility for Texas attack</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/islamic-state-claims-responsibility-for-texas-attack-1.2358987" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T09:42:00Z</updated>
+    <published>2015-05-05T09:42:00Z</published>
+    <summary type="html">&lt;p&gt;The Islamic State did not provide details and it was unclear whether the group was opportunistically claiming the attack as its own.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T09:42:00Z</dc:date>
+  </entry>
+  <entry>
     <title>A Georgian region is fertile ground for Islamic State</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article21485499.html%23storylink=rss" />
     <author>

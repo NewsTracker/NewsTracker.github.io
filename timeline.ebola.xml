@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia's government holds celebration to mark Ebola's end</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Liberia-s-government-holds-celebration-to-mark-6255650.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T18:37:21Z</updated>
+    <published>2015-05-11T18:37:21Z</published>
+    <summary type="html">&lt;p&gt;Liberians are gathering in the streets of the capital to celebrate the end of the Ebola epidemic in this West African country.&lt;/p&gt;&lt;p&gt;Ebola continues to claim victims in Sierra Leone and Guinea, where health officials have had difficulty tracing new cases.&lt;/p&gt;</summary>
+    <dc:date>2015-05-11T18:37:21Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/27/61/7961700/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Liberia churches celebrate end of Ebola</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/10/liberia-churches-celebrate-end-of-ebola" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-10T15:21:43Z</updated>
+    <published>2015-05-10T15:21:43Z</published>
+    <summary type="html">&lt;p&gt;At the same time, officials have warned about new cases of Ebola that continue to be reported in neighboring Guinea and Sierra Leone.&lt;/p&gt;</summary>
+    <dc:date>2015-05-10T15:21:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>Last Cuban Ebola medics leave S.Leone, new clampdown for Easter</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3022331/Last-Cuban-Ebola-medics-leave-S-Leone-new-clampdown-Easter.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T00:05:00Z</updated>
+    <published>2015-04-02T00:05:00Z</published>
+    <summary type="html">&lt;p&gt;A total of 256 Cuban medics had been mobilised in the three countries worst hit by Ebola - Sierra Leone, Liberia and Guinea.&lt;/p&gt;&lt;p&gt;The latest World Health Organization (WHO) figures published on Wednesday showed that the number of new Ebola infections in Sierra Leone fell for the fourth consecutive week.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T00:05:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Liberia cautiously marks end of Ebola after 4,700 deaths</title>
     <link rel="alternate" href="http://news.yahoo.com/liberia-cautiously-marks-end-ebola-4-700-deaths-151552442.html" />
     <author>
@@ -808,18 +842,6 @@
     <summary type="html">&lt;p&gt;A man takes part in the celebrations, to mark Liberia being an Ebola free nation in Monrovia, Liberia, Monday, May 11, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-05-11T18:37:21Z</dc:date>
     <media:content url="http://ww1.hdnux.com/photos/36/27/61/7961700/5/mosaic_2.jpg" />
-  </entry>
-  <entry>
-    <title>Liberia's government holds celebration to mark Ebola's end</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Liberia-s-government-holds-celebration-to-mark-6255650.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-11T18:37:21Z</updated>
-    <published>2015-05-11T18:37:21Z</published>
-    <summary type="html">&lt;p&gt;Liberians are gathering in the streets of the capital to celebrate the end of the Ebola epidemic in this West African country.&lt;/p&gt;</summary>
-    <dc:date>2015-05-11T18:37:21Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/36/27/61/7961700/5/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Liberia's government holds celebration to mark Ebola's end</title>
@@ -1927,17 +1949,6 @@
     <published>2015-04-02T01:08:50Z</published>
     <summary type="html">&lt;p&gt;Guinea, which appears to be the worst affected at this time, saw an increase in the number of areas recording Ebola, with seven prefectures reporting at last one confirmed case.&lt;/p&gt;</summary>
     <dc:date>2015-04-02T01:08:50Z</dc:date>
-  </entry>
-  <entry>
-    <title>Last Cuban Ebola medics leave S.Leone, new clampdown for Easter</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3022331/Last-Cuban-Ebola-medics-leave-S-Leone-new-clampdown-Easter.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-02T00:05:00Z</updated>
-    <published>2015-04-02T00:05:00Z</published>
-    <summary type="html">&lt;p&gt;A total of 256 Cuban medics had been mobilised in the three countries worst hit by Ebola - Sierra Leone, Liberia and Guinea.&lt;/p&gt;</summary>
-    <dc:date>2015-04-02T00:05:00Z</dc:date>
   </entry>
   <entry>
     <title>Ebola vaccine tests show it could 'neutralise' virus: Geneva hospital</title>

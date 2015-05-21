@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Court Report Raises Conflict-of-Interest Concern in Ferguson</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/court-report-raises-conflict-interest-concern-ferguson-30968922" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T00:59:01Z</updated>
+    <published>2015-05-12T00:59:01Z</published>
+    <summary type="html">&lt;p&gt;The lines separating government powers have been blurred among Ferguson's court staff, police and prosecutor, raising concerns about potential conflicts of interest, according to a report released Monday by Missouri's judiciary.&lt;/p&gt;&lt;p&gt;Ferguson has since shifted the supervision of clerk staff to the city finance director.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T00:59:01Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>Ferguson mulls removing Brown shrine from middle of street</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article20271492.html%23storylink=rss" />
     <author>
@@ -499,18 +511,6 @@
     <summary type="html">&lt;p&gt;Ferguson Mayor James Knowles said Monday night that the court clerk staff had been placed under the police chief years ago because their offices are in the police building.&lt;/p&gt;&lt;p&gt;The report said Ferguson appears to have violated the Supreme Court's procedural rules by having police file a citation - and court staff open a file - before a prosecutor reviews the case.&lt;/p&gt;</summary>
     <dc:date>2015-05-12T01:00:36Z</dc:date>
     <media:content url="http://stmedia.stimg.co/croppedcop.jpg?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
-  </entry>
-  <entry>
-    <title>Court Report Raises Conflict-of-Interest Concern in Ferguson</title>
-    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/court-report-raises-conflict-interest-concern-ferguson-30968922" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-12T00:59:01Z</updated>
-    <published>2015-05-12T00:59:01Z</published>
-    <summary type="html">&lt;p&gt;The lines separating government powers have been blurred among Ferguson's court staff, police and prosecutor, raising concerns about potential conflicts of interest, according to a report released Monday by Missouri's judiciary.&lt;/p&gt;</summary>
-    <dc:date>2015-05-12T00:59:01Z</dc:date>
-    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
   </entry>
   <entry>
     <title>Ferguson Mulls Removing Michael Brown Shrine From Mid-Street</title>

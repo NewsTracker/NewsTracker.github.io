@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>CIA chief announces sweeping reorganization of US spy agency</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11413585&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T06:15:14Z</updated>
+    <published>2015-03-07T06:15:14Z</published>
+    <summary type="html">&lt;p&gt;The agency's greatest public success of recent years " the 10-year effort to locate and kill Osama bin Laden in 2011 " may have taken longer than it should have, according to evidence made public in the recent Senate report on CIA interrogations.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T06:15:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Former FBI agent was arrested outside gates of CIA headquarters</title>
     <link rel="alternate" href="http://news.yahoo.com/former-fbi-agent-arrested-outside-gates-cia-headquarters-001317536.html" />
     <author>
@@ -934,17 +945,6 @@
     <published>2015-03-07T09:33:14Z</published>
     <summary type="html">&lt;p&gt;Gansa later told the PaleyFest audience that CIA officer Carrie Mathison, played by series star Claire Danes, will no longer be an intelligence officer.&lt;/p&gt;</summary>
     <dc:date>2015-03-07T09:33:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>CIA chief announces sweeping reorganization of US spy agency</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11413585&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-07T06:15:14Z</updated>
-    <published>2015-03-07T06:15:14Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-07T06:15:14Z</dc:date>
   </entry>
   <entry>
     <title>CIA chief orders sweeping changes</title>
