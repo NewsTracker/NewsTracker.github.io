@@ -16,18 +16,6 @@
     <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
   </entry>
   <entry>
-    <title>Sky? Skype? EU court backs Murdoch over Microsoft in name battle</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/06/us-microsoft-murdoch-skype-idUSKBN0NQ29E20150506?feedType=RSS&amp;amp;feedName=technologyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-06T01:22:36Z</updated>
-    <published>2015-05-06T01:22:36Z</published>
-    <summary type="html">&lt;p&gt;U.S. tech giant Microsoft, which owns the Skype service, may appeal.&lt;/p&gt;</summary>
-    <dc:date>2015-05-06T01:22:36Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150506&amp;amp;t=2&amp;amp;i=1046041089&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB440WV" />
-  </entry>
-  <entry>
     <title>Salesforce shares spike on report of Microsoft evaluating bid</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/05/us-salesforce-com-m-a-microsoft-idUSKBN0NQ24920150505?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
@@ -354,6 +342,18 @@
     <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
   </entry>
   <entry>
+    <title>Microsoft profit and revenue beats expectations</title>
+    <link rel="alternate" href="http://www.rte.ie/news/business/2015/0424/696384-microsoft-results/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T06:53:18Z</updated>
+    <published>2015-04-24T06:53:18Z</published>
+    <summary type="html">&lt;p&gt;Microsoft last night reported revenue and profit above Wall Street expectations, as sales of its hardware and cloud-computing services helped to offset a decline in the company's core Windows business.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T06:53:18Z</dc:date>
+    <media:content url="http://img.rasset.ie/0008bacd-642.jpg" />
+  </entry>
+  <entry>
     <title>Microsoft profit, revenue beats Wall Street view; shares up</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/24/us-microsoft-results-idUSKBN0NE2HE20150424?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
@@ -397,7 +397,7 @@
     </author>
     <updated>2015-04-23T23:13:00Z</updated>
     <published>2015-04-23T23:13:00Z</published>
-    <summary type="html">&lt;p&gt;But a continuing slump in the PC industry has caused Microsoft's stock to flounder in recent months, marking the end of a honeymoon year in which shares rose steadily after Nadella took the reins in February 2014.&lt;/p&gt;&lt;p&gt;Microsoft's financial results underscore the importance of Nadella's efforts.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;But a continuing slump in the PC industry has caused Microsoft's stock to flounder in recent months, marking the end of a honeymoon year in which shares rose steadily after Nadella took the reins in February 2014.&lt;/p&gt;&lt;p&gt;Microsoft's financial results underscore the importance of Nadella's efforts.&lt;/p&gt;&lt;p&gt;But Microsoft still relies heavily on selling traditional software, which contributed the largest part of its $21.7 billion in sales for the quarter.&lt;/p&gt;</summary>
     <dc:date>2015-04-23T23:13:00Z</dc:date>
   </entry>
   <entry>
@@ -410,6 +410,17 @@
     <published>2015-04-23T21:57:48Z</published>
     <summary type="html">&lt;p&gt;SAN FRANCISCO -- Microsoft is changing its business.&lt;/p&gt;</summary>
     <dc:date>2015-04-23T21:57:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft results show company's shift, but is it enough?</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Microsoft-results-show-company-s-shift-but-is-it-6220179.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T21:30:47Z</updated>
+    <published>2015-04-23T21:30:47Z</published>
+    <summary type="html">&lt;p&gt;Revenue from cloud computing has grown rapidly, as more businesses are paying to use software housed in Microsoft's data centers.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T21:30:47Z</dc:date>
   </entry>
   <entry>
     <title>Microsoft results show company's shift, but is it enough?</title>
@@ -470,15 +481,16 @@
     <dc:date>2015-04-22T04:31:42Z</dc:date>
   </entry>
   <entry>
-    <title>Yahoo, Microsoft add termination clause to deal</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102605097" />
+    <title>Yahoo, Microsoft add termination clause in search deal: filing</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/21/yahoo-microsoft-add-termination-clause-in-search-deal-filing" />
     <author>
       <name />
     </author>
-    <updated>2015-04-21T13:19:00Z</updated>
-    <published>2015-04-21T13:19:00Z</published>
-    <summary type="html">&lt;p&gt;Yahoo and Microsoft added a termination clause to the terms of their search partnership agreement under which either company can end the deal on or after Oct. 1, 2015, according to a regulatory filing by Yahoo on Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-04-21T13:19:00Z</dc:date>
+    <updated>2015-04-21T12:55:12Z</updated>
+    <published>2015-04-21T12:55:12Z</published>
+    <summary type="html">&lt;p&gt;Yahoo Inc and Microsoft Corp added a termination clause to the terms of their search partnership agreement under which either company can end the deal on or after Oct. 1, 2015, according to a regulatory filing by Yahoo on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T12:55:12Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297690506417_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>Yahoo chooses to stay with Microsoft in updated search deal</title>
@@ -640,6 +652,18 @@
     <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201440/SCCZEN_AP140110073339_140x93.jpg" />
   </entry>
   <entry>
+    <title>Microsoft pilot program aimed at adding people with autism to workforce</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&amp;amp;objectid=11429476&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T02:00:00Z</updated>
+    <published>2015-04-08T02:00:00Z</published>
+    <summary type="html">&lt;p&gt;What's more, Microsoft's move appears to demonstrate the real need that the tech industry has for certain kinds of talent.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T02:00:00Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201440/SCCZEN_AP140110073339_140x93.jpg" />
+  </entry>
+  <entry>
     <title>Microsoft to hire more autistic workers</title>
     <link rel="alternate" href="http://www.cbsnews.com/videos/microsoft-to-hire-more-autistic-workers/" />
     <author>
@@ -687,25 +711,13 @@
   </entry>
   <entry>
     <title>Google, Microsoft battle drives down prices for PCs, tablets</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Microsoft-makes-cheaper-version-of-Surface-Pro-3-6170030.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-31T18:00:15Z</updated>
-    <published>2015-03-31T18:00:15Z</published>
-    <summary type="html">&lt;p&gt;Their arrival coincides with Microsoft's rollout of a lower-priced Surface tablet in an effort to reach students and budget-conscious families.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T18:00:15Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/35/43/11/7746122/3/628x471.jpg" />
-  </entry>
-  <entry>
-    <title>Google, Microsoft battle drives down prices for PCs, tablets</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Microsoft-makes-cheaper-version-of-Surface-Pro-3-6170030.php" />
     <author>
       <name />
     </author>
     <updated>2015-03-31T18:00:15Z</updated>
     <published>2015-03-31T18:00:15Z</published>
-    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google is releasing its cheapest Chromebook laptops yet, two versions priced at $149 aimed at undercutting Microsoft's Windows franchise and gaining ground in even more classrooms.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google is releasing its cheapest Chromebook laptops yet, two versions priced at $149 aimed at undercutting Microsoft's Windows franchise and gaining ground in even more classrooms.&lt;/p&gt;&lt;p&gt;Their arrival coincides with Microsoft's rollout of a lower-priced Surface tablet in an effort to reach students and budget-conscious families.&lt;/p&gt;</summary>
     <dc:date>2015-03-31T18:00:15Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/35/43/11/7746122/3/920x920.jpg" />
   </entry>
@@ -832,7 +844,18 @@
     </author>
     <updated>2015-03-26T19:32:28Z</updated>
     <published>2015-03-26T19:32:28Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK (AP) - Microsoft said Thursday that it will push its U.S. suppliers to give their employees paid time off - but that only applies for the staffers that do work for Microsoft.&lt;/p&gt;&lt;p&gt;Microsoft said it has about 2,000 U.S. suppliers, who provide services such as maintenance and security.&lt;/p&gt;&lt;p&gt;Microsoft Corp. said suppliers with 50 or more employees will be asked to provide at least 15 days of paid time off for employees that mainly work with the Redmond, Washington, company.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - Microsoft said Thursday that it will push its U.S. suppliers to give their employees paid time off - but that only applies for the staffers that do work for Microsoft.&lt;/p&gt;&lt;p&gt;Microsoft Corp. said suppliers with 50 or more employees will be asked to provide at least 15 days of paid time off for employees that mainly work with the Redmond, Washington, company.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T19:32:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft wants US suppliers to give employees paid time off</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Microsoft-wants-US-suppliers-to-give-employees-6161231.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T19:32:28Z</updated>
+    <published>2015-03-26T19:32:28Z</published>
+    <summary type="html">&lt;p&gt;Microsoft said it has about 2,000 U.S. suppliers, who provide services such as maintenance and security.&lt;/p&gt;</summary>
     <dc:date>2015-03-26T19:32:28Z</dc:date>
   </entry>
   <entry>

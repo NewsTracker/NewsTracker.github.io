@@ -1,6 +1,280 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: xbox or playstation or nintendo</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.xbox_or_playstation_or_nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Nintendo World Championships Return After 25 Years</title>
+    <link rel="alternate" href="http://time.com/3858219/nintendo-world-championships-return-after-25-years/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+time%2Fentertainment+%28TIME%3A+Entertainment%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T03:43:07Z</updated>
+    <published>2015-05-14T03:43:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-14T03:43:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Xbox One, PS4 and PC: FIVE things you need to know about Assassin's Creed: Syndicate</title>
+    <link rel="alternate" href="http://www.express.co.uk/entertainment/gaming/577016/Xbox-One-FIVE-things-PS4-Assassins-Creed-Syndicate-Ubisoft-AC-Syndicate-release-date?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-entertainment-news+%28Daily+Express+%3A%3A+Entertainment+Feed%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T16:45:00Z</updated>
+    <published>2015-05-13T16:45:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-13T16:45:00Z</dc:date>
+    <media:content url="http://cdn.images.express.co.uk/img/dynamic/143/590x/AC-Syndicate-577016.jpg" />
+  </entry>
+  <entry>
+    <title>Live, local TV soon to be available on Microsoft Xbox</title>
+    <link rel="alternate" href="http://www.cbsnews.com/videos/live-local-tv-soon-to-be-available-on-microsoft-xbox/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T18:02:18Z</updated>
+    <published>2015-05-11T18:02:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-11T18:02:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>'Star Wars: Battlefront' to drop first on Xbox One</title>
+    <link rel="alternate" href="http://technology.canoe.ca/Gaming/News/2015/04/14/22343101-relaxnews.html?cid=rsstechnologygaming" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T16:53:48Z</updated>
+    <published>2015-04-14T16:53:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T16:53:48Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/Gaming/News/2015/04/14/starwarsbattlefront650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Kid who won ESPN bracket contest gives Xbox to Make-A-Wish</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/national/kid-won-espn-bracket-contest-xbox-make-a-wish-article-1.2180728" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T18:23:30Z</updated>
+    <published>2015-04-10T18:23:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T18:23:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spotify comes to PlayStation</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/spotify-comes-to-playstation/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T14:07:30Z</updated>
+    <published>2015-03-30T14:07:30Z</published>
+    <summary type="html">&lt;p&gt;PlayStation users have long been able to watch DVDs and stream Netflix, Amazon and YouTube shows with the console.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T14:07:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>PlayStation Gets Spotify, Replacing Sony's Own Music Service</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/playstation-spotify-replacing-sonys-music-service-30000661" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T09:03:15Z</updated>
+    <published>2015-03-30T09:03:15Z</published>
+    <summary type="html">&lt;p&gt;Spotify is coming to the PlayStation, replacing Sony's own Music Unlimited service, as the company continues to expand the game console into an entertainment hub beyond video games.&lt;/p&gt;&lt;p&gt;Spotify hits the PlayStation 3 and 4 on Monday, with a new app adapted for large television screens.&lt;/p&gt;&lt;p&gt;Just two weeks ago, Sony launched an online television service, PlayStation Vue, offering more than 50 over-the-air and cable channels starting at $50 a month.&lt;/p&gt;&lt;p&gt;Its music app is available on some Internet-connected TVs and set-top boxes, but Spotify says it worked closely with Sony to optimize its service for the PlayStation.&lt;/p&gt;&lt;p&gt;Existing Spotify customers will get access to the PlayStation app with their usual sign-in.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T09:03:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Sony's PlayStation Music launches with Spotify</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/tech/columnist/baig/2015/03/30/sony-playstation-music-launches-with-spotify/70649922/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-techtopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T09:01:54Z</updated>
+    <published>2015-03-30T09:01:54Z</published>
+    <summary type="html">&lt;p&gt;You can also use the PlayStation controller.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T09:01:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>Details on PlayStation Vue, Comparison With Sling TV</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/details-playstation-vue-comparison-sling-tv-29887367" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T07:11:28Z</updated>
+    <published>2015-03-25T07:11:28Z</published>
+    <summary type="html">&lt;p&gt;A $50-a-year PlayStation Plus subscription is normally needed.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T07:11:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Details on PlayStation Vue, comparison with Sling TV</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Details-on-PlayStation-Vue-comparison-with-Sling-6157087.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T07:10:19Z</updated>
+    <published>2015-03-25T07:10:19Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - Sony's new PlayStation Vue online TV service launched in three cities last week with more than 50 channels starting at $50.&lt;/p&gt;&lt;p&gt;You'll be able to use the PlayStation Vue password.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T07:10:19Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/32/74/7712514/3/628x471.jpg" />
+  </entry>
+  <entry>
+    <title>Details on PlayStation Vue, comparison with Sling TV</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Details-on-PlayStation-Vue-comparison-with-Sling-6157087.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T07:10:19Z</updated>
+    <published>2015-03-25T07:10:19Z</published>
+    <summary type="html">&lt;p&gt;if each has a separate PlayStation 3 or 4 (only one can be a PS4).&lt;/p&gt;&lt;p&gt;Many shows from the past three days are automatically available for viewing, but only through the PlayStation, not on mobile.&lt;/p&gt;&lt;p&gt;One stream at a time on a variety of devices, including Roku, Amazon Fire TV and Xbox One for big-screen TVs.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T07:10:19Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/32/74/7712514/3/622x350.jpg" />
+  </entry>
+  <entry>
+    <title>Investors cheer Nintendo move into smartphone games</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T08:30:27Z</updated>
+    <published>2015-03-19T08:30:27Z</published>
+    <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T08:30:27Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Microsoft must face Xbox 360 class action claims</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/18/microsoft-must-face-class-action-claims-over-alleged-xbox-defect" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T21:06:55Z</updated>
+    <published>2015-03-18T21:06:55Z</published>
+    <summary type="html">&lt;p&gt;Microsoft has sold tens of millions of Xbox 360 consoles since their Nov. 2005 launch.&lt;/p&gt;&lt;p&gt;Microsoft countered that class certification was improper because just 0.4 % of Xbox owners reported disc scratches, and that misuse was the cause.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T21:06:55Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297676678843_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Microsoft must face Xbox 360 class action claims</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3001074/Microsoft-face-Xbox-360-class-action-claims.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T17:37:04Z</updated>
+    <published>2015-03-18T17:37:04Z</published>
+    <summary type="html">&lt;p&gt;The 9th U.S. Circuit Court of Appeals in Seattle said a lower court judge misapplied the law in finding that Xbox owners in the United States could not sue for damages as a group.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T17:37:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Sony launches PlayStation Vue online TV service in 3 U.S. cities</title>
+    <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/18/22294511.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T17:09:02Z</updated>
+    <published>2015-03-18T17:09:02Z</published>
+    <summary type="html">&lt;p&gt;Initially, PlayStation Vue is available only on PlayStation 4s and PS3s; per Sony, there are 35 million of those in use across the U.S. Sony said support for Apple's iPad will be coming shortly, and that additional markets will be added in the coming months.&lt;/p&gt;&lt;p&gt;For each PlayStation Vue account, users can simultaneously stream content on up to three consoles (although only on one PS4 at any given time) in the same home at no additional charge.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T17:09:02Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/videolib-prod-static/portalen/img/default_still.gif" />
+  </entry>
+  <entry>
+    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T02:41:04Z</updated>
+    <published>2015-03-18T02:41:04Z</published>
+    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T02:41:04Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
+  </entry>
+  <entry>
+    <title>'Super Mario' to go mobile as Nintendo ventures into smartphone games</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/17/super-mario-to-go-mobile-as-nintendo-ventures-into-smartphone-games" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T14:52:35Z</updated>
+    <published>2015-03-17T14:52:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-17T14:52:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nintendo forms alliance with mobile game firm in about face</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Nintendo-forms-alliance-with-mobile-game-firm-in-6138331.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T11:51:54Z</updated>
+    <published>2015-03-17T11:51:54Z</published>
+    <summary type="html">&lt;p&gt;Both sides said they will build a global membership service for various devices including personal computers, smartphones and Nintendo machines.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T11:51:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>Super Mario to go mobile as Nintendo ventures into gaming apps</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-news/super-mario-to-go-mobile-as-nintendo-ventures-into-gaming-apps/article23492555/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T11:26:12Z</updated>
+    <published>2015-03-17T11:26:12Z</published>
+    <summary type="html">&lt;p&gt;Nintendo, which already warned its annual operating profit would halve on weak console sales, said on Tuesday it was teaming up with online gaming firm DeNA Co. Ltd. to develop and operate gaming apps.&lt;/p&gt;&lt;p&gt;The two companies will also launch later this year an online membership service accessible on mobile devices as well as Nintendo's existing Wii U console and the portable 3DS.&lt;/p&gt;&lt;p&gt;Although Iwata didn't disclose any details about Nintendo's first mobile game, he said it would not be a hand-me-down from the company's famed console titles.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T11:26:12Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/9be/technology/tech-news/article23492554.ece/ALTERNATES/w220/web-nintendo-0317.JPG" />
+  </entry>
+  <entry>
+    <title>Super Mario to go mobile as Nintendo ventures into smartphone games</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-2998511/Super-Mario-mobile-Nintendo-ventures-smartphone-games.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T10:36:26Z</updated>
+    <published>2015-03-17T10:36:26Z</published>
+    <summary type="html">&lt;p&gt;"This will allow us to build a bridge between smart devices and gaming consoles," Nintendo President Satoru Iwata told reporters.&lt;/p&gt;&lt;p&gt;He also said Nintendo was currently developing NX, a new gaming platform, but declined to give further details.&lt;/p&gt;&lt;p&gt;For DeNA, which grew from a startup launched in 1999 to a major online gaming company, a tie-up with Nintendo will help it regain momentum lost in the past two years as users moved on to more popular gaming apps.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T10:36:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nintendo forms alliance with mobile game firm in about face</title>
+    <link rel="alternate" href="http://news.yahoo.com/nintendo-forms-alliance-mobile-game-firm-face-084646739.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T09:18:48Z</updated>
+    <published>2015-03-17T09:18:48Z</published>
+    <summary type="html">&lt;p&gt;Under the alliance, Kyoto-based Nintendo will acquire about 15 million DeNA shares or a 10 percent stake.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T09:18:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nintendo forms alliance with mobile game firm in about face</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11418797&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T09:16:45Z</updated>
+    <published>2015-03-17T09:16:45Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-17T09:16:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nintendo forms alliance with mobile game company DeNA in about face on smartphone strategy</title>
+    <link rel="alternate" href="http://www.startribune.com/world/296534291.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T08:50:07Z</updated>
+    <published>2015-03-17T08:50:07Z</published>
+    <summary type="html">&lt;p&gt;TOKYO - After years of scoffing at the threat from smartphones, Nintendo Co. is doing an about face and entering an alliance with Japanese mobile game company DeNA Co. to develop games for mobile devices.&lt;/p&gt;&lt;p&gt;The announcement Tuesday means that Nintendo's trademark game characters such as Super Mario and Pokemon could finally feature on smartphones and tablets.&lt;/p&gt;&lt;p&gt;Such characters have been fiercely protected by Nintendo, appearing only on Nintendo platforms such as the Wii home console and 3DS mobile machines.&lt;/p&gt;&lt;p&gt;They said the mobile games won't be mere adaptations of the games already out for the Nintendo machines but developed especially for the smartphone experience.&lt;/p&gt;&lt;p&gt;The alliance will be combining Nintendo's intellectual property and game development skills with DeNA's expertise in mobile games, the announcement said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T08:50:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft outlines plan to bridge Xbox and PC video gaming</title>
+    <link rel="alternate" href="http://news.yahoo.com/microsoft-outlines-plan-bridge-xbox-pc-video-gaming-033532212.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-05T03:35:32Z</updated>
+    <published>2015-03-05T03:35:32Z</published>
+    <summary type="html">&lt;p&gt;Spencer said the marriage of Xbox One and Windows 10 would allow creators to make their games easily accessible to consumers, regardless of whether they switch between devices or where they buy apps.&lt;/p&gt;&lt;p&gt;Spencer also teased that Microsoft will release an adapter later this year that will allow PCs to use wireless Xbox One controllers.&lt;/p&gt;&lt;p&gt;Microsoft is investing heavily in training developers on how to create games that work across its platforms this week by sponsoring such GDC sessions as "Developing with Xbox Live for Windows 10" and "Gaming Consumer Experience on Windows 10."&lt;/p&gt;</summary>
+    <dc:date>2015-03-05T03:35:32Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/aoUd5rcBWRz52Kx68uqcJw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/f660ef63283ed60a6f0f6a70670096c0.jpg" />
+  </entry>
 </feed>

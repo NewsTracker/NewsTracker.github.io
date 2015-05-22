@@ -4,29 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nemtsov.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Nemtsov's final report: 220 Russian soldiers killed in Ukraine</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/5/12/nemtsov-report-220-russians-killed-in-ukraine.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-12T11:21:00Z</updated>
-    <published>2015-05-12T11:21:00Z</published>
-    <summary type="html">&lt;p&gt;Nemtsov was shot dead in central Moscow in February and members of his party, the liberal RPR-Parnas, and several opposition journalists helped finish the 65-page report.&lt;/p&gt;</summary>
-    <dc:date>2015-05-12T11:21:00Z</dc:date>
-    <media:content url="http://america.aljazeera.com/content/ajam/external/2015/3/mourners-honor-russianoppositionleadernemtsov/_jcr_content/image.adapt.480.low.Russia_Nemtsov_mourners_030215.jpg" />
-  </entry>
-  <entry>
-    <title>Nemtsov report: 220 Russian soldiers died in Ukraine battles</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/12/nemtsov-report-220-russian-soldiers-died-in-ukraine-battles" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-12T11:10:28Z</updated>
-    <published>2015-05-12T11:10:28Z</published>
-    <summary type="html">&lt;p&gt;Around 70 Russian soldiers died in January and February in fighting around the city of Debaltseve, the report said, adding that their family members were unable to receive compensation and appealed to Nemtsov for help.&lt;/p&gt;</summary>
-    <dc:date>2015-05-12T11:10:28Z</dc:date>
-  </entry>
-  <entry>
     <title>Nemtsov report: 220 Russian soldiers died in Ukraine battles</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Nemtsov-report-220-Russian-soldiers-died-in-6257467.php" />
     <author>
@@ -34,34 +11,47 @@
     </author>
     <updated>2015-05-12T11:10:28Z</updated>
     <published>2015-05-12T11:10:28Z</published>
-    <summary type="html">&lt;p&gt;It was presented to the public by other opposition figures from the political party that Nemtsov co-chaired.&lt;/p&gt;&lt;p&gt;According to Nemtsov's sources, at least 150 Russian soldiers died in August 2014.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;It was presented to the public by other opposition figures from the political party that Nemtsov co-chaired.&lt;/p&gt;</summary>
     <dc:date>2015-05-12T11:10:28Z</dc:date>
   </entry>
   <entry>
+    <title>Russian troops 'died in Ukraine'</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/russian-troops-died-in-ukraine-31215149.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T10:16:21Z</updated>
+    <published>2015-05-12T10:16:21Z</published>
+    <summary type="html">&lt;p&gt;Around 70 more Russian soldiers died in January and February in fighting around the city of Debaltseve, the report said, adding that family members were unable to receive compensation and appealed to Mr Nemtsov for help.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T10:16:21Z</dc:date>
+    <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31215148.ece/ad8c3/ALTERNATES/h342/PANews%20BT_P-6e69324d-31d1-4207-8cf6-c67e92cd1c1d_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Russian soldiers 'died in Ukraine'</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/russian-soldiers-died-in-ukraine-31215149.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T10:16:21Z</updated>
+    <published>2015-05-12T10:16:21Z</published>
+    <summary type="html">&lt;p&gt;According to Mr Nemtsov's sources, at least 150 Russian soldiers died in August.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T10:16:21Z</dc:date>
+    <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31215148.ece/ad8c3/ALTERNATES/h342/PANews%20BT_P-6e69324d-31d1-4207-8cf6-c67e92cd1c1d_I1.jpg" />
+  </entry>
+  <entry>
     <title>Nemtsov report: At least 220 Russian soldiers died in 2 battles in eastern Ukraine</title>
-    <link rel="alternate" href="http://www.startribune.com/nemtsov-report-220-russian-soldiers-died-in-ukraine-battles/303384701/" />
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/05/12/nemtsov-report-at-least-220-russian-soldiers-died-in-2-battles-in-eastern/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
       <name />
     </author>
-    <updated>2015-05-12T10:00:17Z</updated>
-    <published>2015-05-12T10:00:17Z</published>
-    <summary type="html">&lt;p&gt;The 64-page report was compiled from witness reports in media accounts and information gathered by Nemtsov, including from relatives and other representatives of the dead soldiers.&lt;/p&gt;</summary>
-    <dc:date>2015-05-12T10:00:17Z</dc:date>
+    <updated>2015-05-12T09:57:35Z</updated>
+    <published>2015-05-12T09:57:35Z</published>
+    <summary type="html">&lt;p&gt;MOSCOW - A report containing material compiled by slain Russian opposition leader Boris Nemtsov says at least 220 Russian soldiers died in two battles in eastern Ukraine within the past year.&lt;/p&gt;&lt;p&gt;The 64-page report was compiled from witness reports in media accounts and information gathered by Nemtsov, including from relatives and other representatives of the dead soldiers.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T09:57:35Z</dc:date>
   </entry>
   <entry>
     <title>Nemtsov report: 220 Russian soldiers died in Ukraine battles</title>
-    <link rel="alternate" href="http://news.yahoo.com/nemtsov-report-220-russian-soldiers-died-ukraine-battles-095749865.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-12T09:57:49Z</updated>
-    <published>2015-05-12T09:57:49Z</published>
-    <summary type="html">&lt;p&gt;MOSCOW (AP) - A report containing material compiled by slain Russian opposition leader Boris Nemtsov says at least 220 Russian soldiers died in two battles in eastern Ukraine within the past year.&lt;/p&gt;</summary>
-    <dc:date>2015-05-12T09:57:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nemtsov report: 220 Russian soldiers died in Ukraine battles</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/nemtsov-report-220-russian-soldiers-died-in-ukrain/nmD2h/" />
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/12/nemtsov-report-220-russian-soldiers-died-in/" />
     <author>
       <name />
     </author>
@@ -72,71 +62,25 @@
   </entry>
   <entry>
     <title>Chechen leader ready to give evidence in Nemtsov murder case</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11441424&amp;amp;ref=rss" />
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/chechen-leader-ready-to-give-evidence-in-nemtsov-m/nk6QJ/" />
     <author>
       <name />
     </author>
-    <updated>2015-04-30T14:25:13Z</updated>
-    <published>2015-04-30T14:25:13Z</published>
-    <summary type="html">&lt;p&gt;The main suspect in the Feb. 27 killing is an officer in Ramzan Kadyrov's security force, and Nemtsov's children have asked for Kadyrov to be questioned.&lt;/p&gt;</summary>
-    <dc:date>2015-04-30T14:25:13Z</dc:date>
+    <updated>2015-04-30T14:15:57Z</updated>
+    <published>2015-04-30T14:15:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-30T14:15:57Z</dc:date>
   </entry>
   <entry>
-    <title>Chechen commander in Ukraine drawn into Russian intrigue</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11431571&amp;amp;ref=rss" />
+    <title>Chechen leader ready to give evidence in Nemtsov murder case, declares loyalty to Putin</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/04/30/chechen-leader-ready-to-give-evidence-in-nemtsov-murder-case-declares-loyalty/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
       <name />
     </author>
-    <updated>2015-04-12T08:50:13Z</updated>
-    <published>2015-04-12T08:50:13Z</published>
-    <summary type="html">&lt;p&gt;"The fact the FSB is . trying to somehow implicate me in Nemtsov's murder is utterly ridiculous," Osmayev said, "but not hard to believe now that I am involved in the situation here in Ukraine."&lt;/p&gt;&lt;p&gt;Osmayev said he has few doubts that the perpetrators of Nemtsov's killing have ties to Kadyrov, but that the security services now need a convenient scapegoat whose guilt would be easily acceptable to the Russian general public.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T08:50:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Chechen commander in Ukraine drawn into Russian intrigue over Nemtsov murder investigation</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/04/12/chechen-commander-in-ukraine-drawn-into-russian-intrigue-over-nemtsov-murder/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T08:45:17Z</updated>
-    <published>2015-04-12T08:45:17Z</published>
-    <summary type="html">&lt;p&gt;Adam Osmayev hailed Nemtsov as a "true hero" both for condemning Russia's war against separatists in Chechnya and for decrying Russian intervention in the current conflict in Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T08:45:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Growing fear in Russia leaves opposition in despair after murder of Boris Nemtsov</title>
-    <link rel="alternate" href="http://www.theage.com.au/world/growing-fear-in-russia-leaves-opposition-in-despair-after-murder-of-boris-nemtsov-20150304-13uf2j.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-04T00:55:09Z</updated>
-    <published>2015-03-04T00:55:09Z</published>
-    <summary type="html">&lt;p&gt;Candles glow as people gather for a memorial service before the funeral of slain opposition figure Boris Nemtsov in Moscow.&lt;/p&gt;&lt;p&gt;Members of the Nemtsov family embrace as people bring flowers to the grave of the slain Russian opposition figure.&lt;/p&gt;&lt;p&gt;Signs reading "propaganda kills" and "Fight" lie among flowers and photos of slain opposition figure Boris Nemtsov at the site of his death.&lt;/p&gt;&lt;p&gt;Moscow: The murder of Russian opposition leader Boris Nemtsov was the last straw for Dmitry Ostashenko, who decided to give up his life as a logistics manager in Moscow and try to leave Russia with his wife.&lt;/p&gt;</summary>
-    <dc:date>2015-03-04T00:55:09Z</dc:date>
-    <media:content url="http://www.theage.com.au/content/dam/images/1/3/u/c/e/o/image.related.articleLeadwide.620x349.13uf2j.png/1425430495762.jpg" />
-  </entry>
-  <entry>
-    <title>Suspect in Nemtsov killing likely confessed 'under torture'</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-11/prime-suspect-in-nemtsov-killing-likely-confessed-under-torture/6305228" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-11T12:59:41Z</updated>
-    <published>2015-03-11T12:59:41Z</published>
-    <summary type="html">&lt;p&gt;A former Chechen police officer who admitted to taking part in the murder of Russian opposition figure Boris Nemtsov "likely confessed under torture", a member of the Kremlin's rights council says.&lt;/p&gt;</summary>
-    <dc:date>2015-03-11T12:59:41Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/6289678-3x2-340x227.jpg" />
-  </entry>
-  <entry>
-    <title>Boris Nemtsov case: Russian mourners view body of slain opposition leader</title>
-    <link rel="alternate" href="http://www.washingtontimes.com/news/2015/mar/3/boris-nemtsov-case-russian-mourners-view-body-slai/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T11:50:49Z</updated>
-    <published>2015-03-03T11:50:49Z</published>
-    <summary type="html">&lt;p&gt;Nemtsov was shot to death late Friday while walking on a bridge near the Kremlin with a companion.&lt;/p&gt;&lt;p&gt;Many opposition supporters suspect the killing was ordered by the Kremlin in retaliation for Nemtsov's ardent criticism of President Vladimir Putin, while authorities have suggested several possible motives, including a provocation aimed at tarnishing Putin's image.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T11:50:49Z</dc:date>
+    <updated>2015-04-30T14:15:57Z</updated>
+    <published>2015-04-30T14:15:57Z</published>
+    <summary type="html">&lt;p&gt;The main suspect in the Feb. 27 killing is an officer in Ramzan Kadyrov's security force, and Nemtsov's children have asked for Kadyrov to be questioned.&lt;/p&gt;&lt;p&gt;He also said his officer Zaur Dadaev should be sent to prison if found guilty of shooting Nemtsov.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T14:15:57Z</dc:date>
   </entry>
   <entry>
     <title>Two Russian opposition parties unite after Nemtsov killing</title>
@@ -150,26 +94,26 @@
     <dc:date>2015-04-18T04:34:00Z</dc:date>
   </entry>
   <entry>
-    <title>Chechen commander in Ukraine drawn into Russian intrigue over Nemtsov murder investigation</title>
-    <link rel="alternate" href="http://www.startribune.com/world/299483961.html" />
+    <title>Chechen commander in Ukraine drawn into Russian intrigue</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11431571&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-04-12T08:50:24Z</updated>
-    <published>2015-04-12T08:50:24Z</published>
-    <summary type="html">&lt;p&gt;Osmayev denies involvement and no evidence has been presented linking him to the hit on Nemtsov, who was a relentless critic of Russian President Vladimir Putin.&lt;/p&gt;&lt;p&gt;Within days of Nemtsov's assassination, investigators arrested five Chechens, including a senior officer in Kadyrov's police force, and charged them with carrying out the killing.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T08:50:24Z</dc:date>
+    <updated>2015-04-12T08:50:13Z</updated>
+    <published>2015-04-12T08:50:13Z</published>
+    <summary type="html">&lt;p&gt;Osmayev said he has few doubts that the perpetrators of Nemtsov's killing have ties to Kadyrov, but that the security services now need a convenient scapegoat whose guilt would be easily acceptable to the Russian general public.&lt;/p&gt;&lt;p&gt;"The fact the FSB is . trying to somehow implicate me in Nemtsov's murder is utterly ridiculous," Osmayev said, "but not hard to believe now that I am involved in the situation here in Ukraine."&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T08:50:13Z</dc:date>
   </entry>
   <entry>
-    <title>Nemtsov Suspects Tells Court He Was Pressured to Confess</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nemtsov-suspects-tells-court-pressured-confess-30044365" />
+    <title>Chechen commander in Ukraine drawn into Russian intrigue over Nemtsov murder investigation</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/04/12/chechen-commander-in-ukraine-drawn-into-russian-intrigue-over-nemtsov-murder/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
       <name />
     </author>
-    <updated>2015-04-01T14:43:08Z</updated>
-    <published>2015-04-01T14:43:08Z</published>
-    <summary type="html">&lt;p&gt;Nemtsov's killing just outside the Kremlin's walls shocked Russia's already beleaguered opposition supporters.&lt;/p&gt;</summary>
-    <dc:date>2015-04-01T14:43:08Z</dc:date>
+    <updated>2015-04-12T08:45:17Z</updated>
+    <published>2015-04-12T08:45:17Z</published>
+    <summary type="html">&lt;p&gt;Adam Osmayev hailed Nemtsov as a "true hero" both for condemning Russia's war against separatists in Chechnya and for decrying Russian intervention in the current conflict in Ukraine.&lt;/p&gt;&lt;p&gt;Osmayev denies involvement and no evidence has been presented linking him to the hit on Nemtsov, who was a relentless critic of Russian President Vladimir Putin.&lt;/p&gt;&lt;p&gt;Within days of Nemtsov's assassination, investigators arrested five Chechens, including a senior officer in Kadyrov's police force, and charged them with carrying out the killing.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T08:45:17Z</dc:date>
   </entry>
   <entry>
     <title>Nemtsov suspects tells court he was pressured to confess</title>
@@ -196,17 +140,6 @@
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/v6OOY2z2ALRei66XHlxLLg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/0f1c6d8b8fca320c710f6a7067002733.jpg" />
   </entry>
   <entry>
-    <title>Mother of 2 suspects in Nemtsov killing defends her sons</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11420111&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T11:10:14Z</updated>
-    <published>2015-03-19T11:10:14Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-19T11:10:14Z</dc:date>
-  </entry>
-  <entry>
     <title>Russian MPs refuse to hold minute's silence for murdered Nemtsov</title>
     <link rel="alternate" href="http://news.yahoo.com/russian-mps-refuse-hold-minutes-silence-murdered-nemtsov-175056549.html" />
     <author>
@@ -219,6 +152,30 @@
     <media:content url="http://l1.yimg.com/bt/api/res/1.2/ofK84NcjqQXlXQ10zs97IQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV1986292-1-1-0.jpg" />
   </entry>
   <entry>
+    <title>Nemtsov murder suspect likely 'confessed under torture,' activist says</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/11/nemtsov-murder-suspect-coerced-into-making-confession.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-11T15:30:00Z</updated>
+    <published>2015-03-11T15:30:00Z</published>
+    <summary type="html">&lt;p&gt;Aides to Nemtsov, a former deputy prime minister, suspect Russia's state security apparatus is complicit in the crime.&lt;/p&gt;</summary>
+    <dc:date>2015-03-11T15:30:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/3/4/nemtsov-killing-stirs-fears-putins-nationalism-has-gone-rogue/_jcr_content/image.adapt.480.low.boris_nemtsov_030415.jpg" />
+  </entry>
+  <entry>
+    <title>Suspect in Nemtsov killing likely confessed 'under torture'</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-11/prime-suspect-in-nemtsov-killing-likely-confessed-under-torture/6305228" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-11T12:59:41Z</updated>
+    <published>2015-03-11T12:59:41Z</published>
+    <summary type="html">&lt;p&gt;A former Chechen police officer who admitted to taking part in the murder of Russian opposition figure Boris Nemtsov "likely confessed under torture", a member of the Kremlin's rights council says.&lt;/p&gt;</summary>
+    <dc:date>2015-03-11T12:59:41Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6289678-3x2-340x227.jpg" />
+  </entry>
+  <entry>
     <title>Russian rights activist says evidence of torture on suspect charged with killing of Putin foe</title>
     <link rel="alternate" href="http://www.startribune.com/world/295880381.html" />
     <author>
@@ -226,7 +183,7 @@
     </author>
     <updated>2015-03-11T10:50:22Z</updated>
     <published>2015-03-11T10:50:22Z</published>
-    <summary type="html">&lt;p&gt;MOSCOW - The main suspect in Russian opposition politician Boris Nemtsov's killing has signs of torture on his body and was forced to confess to the shooting, a human rights activist said Wednesday.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;MOSCOW - The main suspect in Russian opposition politician Boris Nemtsov's killing has signs of torture on his body and was forced to confess to the shooting, a human rights activist said Wednesday.&lt;/p&gt;&lt;p&gt;Five people have been detained in connection with Nemtsov's shooting on Feb. 27.&lt;/p&gt;</summary>
     <dc:date>2015-03-11T10:50:22Z</dc:date>
   </entry>
   <entry>
@@ -253,18 +210,6 @@
     <dc:date>2015-03-10T20:42:00Z</dc:date>
   </entry>
   <entry>
-    <title>Russia detains two men in Boris Nemtsov murder inquiry</title>
-    <link rel="alternate" href="http://www.theguardian.com/world/2015/mar/07/boris-nemtsov-murder-russia-two-arrests" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-07T16:31:03Z</updated>
-    <published>2015-03-07T16:31:03Z</published>
-    <summary type="html">&lt;p&gt;Friends said Nemtsov had been working on a report containing what he described as proof of Russian military involvement in eastern Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-03-07T16:31:03Z</dc:date>
-    <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/6f23604d89cebfdc7afb33ae9e3a5191e7ebe05b/0_445_3000_1800/500.jpg" />
-  </entry>
-  <entry>
     <title>Two suspects held over murder of Kremlin critic Boris Nemtsov</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/03/07/two-suspects-detained-over-boris-nemtsov-murder" />
     <author>
@@ -277,6 +222,18 @@
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297671631309_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
+    <title>Two suspects detained in murder of Boris Nemtsov, opposition leader who was gunned down in Moscow</title>
+    <link rel="alternate" href="http://news.nationalpost.com/2015/03/07/two-suspects-detained-in-murder-of-boris-nemtsov-opposition-leader-who-was-gunned-down-in-moscow/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T14:07:51Z</updated>
+    <published>2015-03-07T14:07:51Z</published>
+    <summary type="html">&lt;p&gt;He said they were "suspected of carrying out this crime," but it was not clear if either of the suspects was believed to have fired the shots that killed Nemtsov as he and a companion walked over a bridge near the Kremlin on Feb. 27.&lt;/p&gt;&lt;p&gt;He blamed Western security services for Nemtsov's killing.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T14:07:51Z</dc:date>
+    <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/nemtsov2-e1425386613209.jpg?w=620" />
+  </entry>
+  <entry>
     <title>Russia detains 2 suspects in killing of Boris Nemtsov</title>
     <link rel="alternate" href="http://www.washingtontimes.com/news/2015/mar/7/russia-detains-2-suspects-killing-boris-nemtsov/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS" />
     <author>
@@ -284,12 +241,24 @@
     </author>
     <updated>2015-03-07T13:14:30Z</updated>
     <published>2015-03-07T13:14:30Z</published>
-    <summary type="html">&lt;p&gt;He said they were "suspected of carrying out this crime," but it was not clear if either of the suspects was believed to have fired the shots that killed Nemtsov as he and a companion walked over a bridge near the Kremlin on Feb. 27.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-03-07T13:14:30Z</dc:date>
   </entry>
   <entry>
+    <title>Two Detained In Killing Of Russian Opposition Politician</title>
+    <link rel="alternate" href="http://www.npr.org/2015/03/07/391374296/two-detained-in-killing-of-russion-opposition-politician?utm_medium=RSS&amp;amp;utm_campaign=world" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T10:36:00Z</updated>
+    <published>2015-03-07T10:36:00Z</published>
+    <summary type="html">&lt;p&gt;Nemtsov's killing shocked Russia's already beleaguered and marginalized opposition supporters.&lt;/p&gt;&lt;p&gt;Suspicion in the opposition is high that the killing was ordered by the Kremlin in retaliation for Nemtsov's adamant criticism of President Vladimir Putin.&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T10:36:00Z</dc:date>
+    <media:content url="http://media.npr.org/assets/img/2015/03/24/moscow-ap_sq-8ad803211d91fe1dcf8280819fd7e8ef05b312b3.jpg?s=100" />
+  </entry>
+  <entry>
     <title>Two held over killing of Russian opposition leader Boris Nemtsov</title>
-    <link rel="alternate" href="http://www.theage.com.au/world/two-held-over-killing-of-russian-opposition-leader-boris-nemtsov-20150307-13y2gl.html" />
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/two-held-over-killing-of-russian-opposition-leader-boris-nemtsov-20150307-13y2gl.html" />
     <author>
       <name />
     </author>
@@ -297,7 +266,7 @@
     <published>2015-03-07T10:06:17Z</published>
     <summary type="html">&lt;p&gt;Russia's security chief says two suspects have been detained over the shooting death of Kremlin critic Boris Nemtsov.&lt;/p&gt;&lt;p&gt;Moscow: Two suspects have been detained in relation to the murder of Russian opposition leader Boris Nemtsov, the head of the Federal Security Service Alexander Bortnikov said.&lt;/p&gt;</summary>
     <dc:date>2015-03-07T10:06:17Z</dc:date>
-    <media:content url="http://www.theage.com.au/content/dam/images/1/3/y/2/j/k/image.related.articleLeadNarrow.300x0.13y2gl.png/1425768090544.jpg" />
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/3/y/2/j/k/image.related.articleLeadNarrow.300x0.13y2gl.png/1425768090544.jpg" />
   </entry>
   <entry>
     <title>Russian opposition figure Boris Nemtsov wrote notes the day before he was shot dead</title>
@@ -319,21 +288,21 @@
     </author>
     <updated>2015-03-06T11:24:28Z</updated>
     <published>2015-03-06T11:24:28Z</published>
-    <summary type="html">&lt;p&gt;Authorities in Ukraine say the sole witness in the killing in Moscow of prominent Russian opposition figure Boris Nemtsov has received death threats since returning to her family home in Ukraine.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The General Prosecutor's office in Kyiv said in a statement Friday that Anna Duritskaya, the 23-year old model who was walking with Nemtsov at the time of his killing, is being provided with protection.&lt;/p&gt;</summary>
     <dc:date>2015-03-06T11:24:28Z</dc:date>
     <media:content url="http://i.cbc.ca/1.2978549.1425640999!/cpImage/httpImage/image.jpg_gen/derivatives/original_300/ukraine-russia-opposition.jpg" />
   </entry>
   <entry>
-    <title>Putin: Nemtsov's murder carried "political subtext"</title>
-    <link rel="alternate" href="http://www.aljazeera.com/news/europe/2015/03/putin-nemtsov-murder-carried-political-subtext-150304132958657.html" />
+    <title>Sole witness in Nemtsov?s slaying receives death threats</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/sole-witness-in-nemtsovs-slaying-receives-death-threats/article23327403/?cmpid=rss1" />
     <author>
       <name />
     </author>
-    <updated>2015-03-04T14:50:47Z</updated>
-    <published>2015-03-04T14:50:47Z</published>
-    <summary type="html">&lt;p&gt;Nemtsov, a former deputy prime minister, was shot dead as he walked with his girlfriend on Friday night near Red Square.&lt;/p&gt;</summary>
-    <dc:date>2015-03-04T14:50:47Z</dc:date>
-    <media:content url="http://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/3/3/61077a16599241c98491d3141c6a7b23_18.jpg" />
+    <updated>2015-03-06T10:32:21Z</updated>
+    <published>2015-03-06T10:32:21Z</published>
+    <summary type="html">&lt;p&gt;Authorities in Ukraine say the sole witness in the killing in Moscow of prominent Russian opposition figure Boris Nemtsov has received death threats since returning to her family home in Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T10:32:21Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/394/video/article23254016.ece/ALTERNATES/w140/2015-03-02T215116Z_1_LOVEB211OPFYI_RTRMADP_0_USA-OBAMA-RUSSIA-PUTIN-ROUGH-CUT-O.XML" />
   </entry>
   <entry>
     <title>Russia's Putin calls Boris Nemtsov's murder political</title>
@@ -343,7 +312,7 @@
     </author>
     <updated>2015-03-04T14:09:55Z</updated>
     <published>2015-03-04T14:09:55Z</published>
-    <summary type="html">&lt;p&gt;MOSCOW - Russian President Vladimir Putin said on Wednesday that the murder of Kremlin critic Boris Nemtsov was a shameful tragedy that carried a political subtext.&lt;/p&gt;&lt;p&gt;The Kremlin has denied any involvement, saying that the killing was a "provocation" designed to discredit Putin and strengthen his opponents, but Nemtsov's friends say the Kremlin is to blame for fomenting an atmosphere of hatred towards its opponents.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The Kremlin has denied any involvement, saying that the killing was a "provocation" designed to discredit Putin and strengthen his opponents, but Nemtsov's friends say the Kremlin is to blame for fomenting an atmosphere of hatred towards its opponents.&lt;/p&gt;</summary>
     <dc:date>2015-03-04T14:09:55Z</dc:date>
     <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/World/2015/03/04/putin_650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
   </entry>
@@ -360,6 +329,18 @@
     <media:content url="http://www.abc.net.au/news/image/5945684-3x2-340x227.jpg" />
   </entry>
   <entry>
+    <title>Russia's Putin calls Boris Nemtsov's murder political</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/04/russias-putin-calls-boris-nemtsovs-murder-political" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T13:37:25Z</updated>
+    <published>2015-03-04T13:37:25Z</published>
+    <summary type="html">&lt;p&gt;MOSCOW - Russian President Vladimir Putin said on Wednesday that the murder of Kremlin critic Boris Nemtsov was a shameful tragedy that carried a political subtext.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T13:37:25Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297670967114_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Putin says opposition politician's murder is a 'disgrace'</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11411930&amp;amp;ref=rss" />
     <author>
@@ -367,7 +348,7 @@
     </author>
     <updated>2015-03-04T11:45:04Z</updated>
     <published>2015-03-04T11:45:04Z</published>
-    <summary type="html">&lt;p&gt;Opposition activist Ilya Yashin said police had seized computers and documents during searches in Nemtsov's apartment in Moscow and his office in Yaroslavl, where he worked as a regional lawmaker.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The nation's top investigative agency also echoed Putin's comments, saying it was looking into whether Nemtsov had been a "sacrificial victim" to destabilize Russia.&lt;/p&gt;</summary>
     <dc:date>2015-03-04T11:45:04Z</dc:date>
   </entry>
   <entry>
@@ -378,8 +359,20 @@
     </author>
     <updated>2015-03-04T11:20:11Z</updated>
     <published>2015-03-04T11:20:11Z</published>
-    <summary type="html">&lt;p&gt;Putin condemned the slaying of Nemtsov, who was gunned down while walking on a bridge next to the Kremlin late Friday.&lt;/p&gt;&lt;p&gt;The Russian leader had sent his condolences to Nemtsov's mother, but his comments Wednesday were his first public remarks on the subject.&lt;/p&gt;&lt;p&gt;"We must finally rid Russia of the disgrace and tragedy of the kinds of things we recently saw and experienced: I mean the audacious murder of Boris Nemtsov in the very center of the capital."&lt;/p&gt;&lt;p&gt;Nemtsov, 55, one of Putin's most vehement critics, was killed just hours after a radio interview in which he denounced the president for his "mad, aggressive" policies in Ukraine.&lt;/p&gt;&lt;p&gt;On his Facebook page, Yashin posted a picture of what he said was Nemtsov's handwritten note, saying he was contacted by paratroopers from a unit that lost 17 men but who were afraid to speak publicly on the issue.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Putin condemned the slaying of Nemtsov, who was gunned down while walking on a bridge next to the Kremlin late Friday.&lt;/p&gt;&lt;p&gt;The Russian leader had sent his condolences to Nemtsov's mother, but his comments Wednesday were his first public remarks on the subject.&lt;/p&gt;&lt;p&gt;"We must finally rid Russia of the disgrace and tragedy of the kinds of things we recently saw and experienced: I mean the audacious murder of Boris Nemtsov in the very center of the capital."&lt;/p&gt;&lt;p&gt;Nemtsov, 55, one of Putin's most vehement critics, was killed just hours after a radio interview in which he denounced the president for his "mad, aggressive" policies in Ukraine.&lt;/p&gt;</summary>
     <dc:date>2015-03-04T11:20:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russia's Putin calls Nemtsov's murder political</title>
+    <link rel="alternate" href="http://news.yahoo.com/russias-putin-calls-nemtsovs-murder-political-104320493.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T10:43:20Z</updated>
+    <published>2015-03-04T10:43:20Z</published>
+    <summary type="html">&lt;p&gt;"I mean the murder, the audacious murder of Boris Nemtsov right in the centre of the capital," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T10:43:20Z</dc:date>
+    <media:content url="http://l.yimg.com/a/p/us/news/editorial/d/0c/d0c3eb8ca18907492a4b337b5cec5193.jpeg" />
   </entry>
   <entry>
     <title>Russian security service chief says several suspects in Nemtsov case: report</title>
@@ -394,6 +387,18 @@
     <media:content url="http://static.theglobeandmail.ca/394/video/article23254016.ece/ALTERNATES/w140/2015-03-02T215116Z_1_LOVEB211OPFYI_RTRMADP_0_USA-OBAMA-RUSSIA-PUTIN-ROUGH-CUT-O.XML" />
   </entry>
   <entry>
+    <title>Growing fear in Russia leaves opposition in despair after murder of Boris Nemtsov</title>
+    <link rel="alternate" href="http://www.theage.com.au/world/growing-fear-in-russia-leaves-opposition-in-despair-after-murder-of-boris-nemtsov-20150304-13uf2j.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T00:55:09Z</updated>
+    <published>2015-03-04T00:55:09Z</published>
+    <summary type="html">&lt;p&gt;Signs reading "propaganda kills" and "Fight" lie among flowers and photos of slain opposition figure Boris Nemtsov at the site of his death.&lt;/p&gt;&lt;p&gt;Moscow: The murder of Russian opposition leader Boris Nemtsov was the last straw for Dmitry Ostashenko, who decided to give up his life as a logistics manager in Moscow and try to leave Russia with his wife.&lt;/p&gt;&lt;p&gt;"We can't live here any more," Mr Ostashenko, 31, an opposition activist like his wife, Inna Malashenko, said at the Sunday march to commemorate Mr Nemtsov, carrying a sign that said "I'm Not Afraid".&lt;/p&gt;&lt;p&gt;Zhanna, a daughter of murdered Russian opposition figure Boris Nemtsov, farewells her father in Moscow.&lt;/p&gt;&lt;p&gt;Candles glow as people gather for a memorial service before the funeral of slain opposition figure Boris Nemtsov in Moscow.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T00:55:09Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/3/u/c/e/o/image.related.articleLeadwide.620x349.13uf2j.png/1425430495762.jpg" />
+  </entry>
+  <entry>
     <title>Kremlin critic wants international probe into Nemtsov death</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11411336&amp;amp;ref=rss" />
     <author>
@@ -401,7 +406,7 @@
     </author>
     <updated>2015-03-03T16:30:11Z</updated>
     <published>2015-03-03T16:30:11Z</published>
-    <summary type="html">&lt;p&gt;Vladimir Putin's spokesman has called the killing of Nemtsov last week a "provocation," and Russian authorities are investigating.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Vladimir Putin's spokesman has called the killing of Nemtsov last week a "provocation," and Russian authorities are investigating.&lt;/p&gt;&lt;p&gt;He said he wants to help in any investigation, because Nemtsov helped raise attention to the case of whistleblower lawyer Sergei Magnitsky.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T16:30:11Z</dc:date>
   </entry>
   <entry>
@@ -412,7 +417,7 @@
     </author>
     <updated>2015-03-03T13:06:15Z</updated>
     <published>2015-03-03T13:06:15Z</published>
-    <summary type="html">&lt;p&gt;People follow the coffin of Boris Nemtsov during a farewell ceremony at the Sakharov center in Moscow, Russia, Tuesday, March 3, 2015.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-03-03T13:06:15Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/34/77/20/7599138/7/square_gallery_thumb.jpg" />
   </entry>
@@ -424,20 +429,31 @@
     </author>
     <updated>2015-03-03T13:00:00Z</updated>
     <published>2015-03-03T13:00:00Z</published>
-    <summary type="html">&lt;p&gt;Relatives and friends pay their respects as they stand close to the coffin of Boris Nemtsov during a farewell ceremony in Moscow on March 3, 2015.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Relatives and friends pay their respects as they stand close to the coffin of Boris Nemtsov during a farewell ceremony in Moscow on March 3, 2015.&lt;/p&gt;&lt;p&gt;"The shots were fired not only at Nemtsov but at all of us, at democracy in Russia," Gennady Gudkov, a prominent Kremlin opponent, said in a speech delivered next to the coffin.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T13:00:00Z</dc:date>
     <media:content url="http://america.aljazeera.com/content/ajam/external/2015/3/mourners-honor-russianoppositionleadernemtsov/_jcr_content/image.adapt.480.low.Russia_Nemtsov_mourners_030215.jpg" />
   </entry>
   <entry>
-    <title>Lineup to pay last respects to slain Russian opposition leader Nemtsov stretches for more than a kilometr</title>
-    <link rel="alternate" href="http://news.nationalpost.com/2015/03/03/lineup-to-pay-last-respects-to-slain-russian-opposition-leader-nemtsov-stretches-for-more-than-a-kilometr/" />
+    <title>Boris Nemtsov case: Russian mourners view body of slain opposition leader</title>
+    <link rel="alternate" href="http://www.washingtontimes.com/news/2015/mar/3/boris-nemtsov-case-russian-mourners-view-body-slai/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS" />
     <author>
       <name />
     </author>
-    <updated>2015-03-03T12:58:53Z</updated>
-    <published>2015-03-03T12:58:53Z</published>
-    <summary type="html">&lt;p&gt;In Moscow, thousands of mourners and dignitaries filed past the white-lined coffin of Nemtsov, many offering flowers as they paid their last respects to one of the most prominent figures of Russia?s beleaguered opposition.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T12:58:53Z</dc:date>
+    <updated>2015-03-03T11:50:49Z</updated>
+    <published>2015-03-03T11:50:49Z</published>
+    <summary type="html">&lt;p&gt;Nemtsov's killing was the biggest political assassination in Russia since 2006, when another Kremlin foe, journalist Anna Politkovskaya, was shot to death in the elevator of her Moscow apartment building on Putin's birthday.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T11:50:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mourners view body of slain opposition leader Boris Nemtsov</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11411158&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T07:45:03Z</updated>
+    <published>2015-03-03T07:45:03Z</published>
+    <summary type="html">&lt;p&gt;Nemtsov had been a deputy prime minister under Russia's first elected president, Boris Yeltsin, who touted him as his likely successor before opting instead for Putin.&lt;/p&gt;&lt;p&gt;Putin dubbed Nemtsov's killing a "provocation," and nationwide TV networks quickly picked up the theme, blaming Western intelligence agencies, Ukrainian agents or even the opposition.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T07:45:03Z</dc:date>
   </entry>
   <entry>
     <title>Mourners view body of slain opposition leader Boris Nemtsov</title>
@@ -447,7 +463,7 @@
     </author>
     <updated>2015-03-03T06:58:46Z</updated>
     <published>2015-03-03T06:58:46Z</published>
-    <summary type="html">&lt;p&gt;After paying their final tributes Tuesday to slain Kremlin critic Boris Nemtsov, many members of Russia's beleaguered opposition are looking into the future with gloom.&lt;/p&gt;&lt;p&gt;The sadness and loss that drew thousands to Nemtsov's funeral is unlikely to add vigor to the small and marginalized opposition, or dent the broad public support for President Vladimir Putin.&lt;/p&gt;&lt;p&gt;Kremlin critics say the virulent nationalist propaganda on state television, which cast the 55-year-old Nemtsov and other liberals as Western stooges, helped prepare the ground for his killing on Friday night.&lt;/p&gt;&lt;p&gt;Putin dubbed Nemtsov's killing a "provocation," and nationwide TV networks quickly picked up the theme, blaming Western intelligence agencies, Ukrainian agents or even the opposition.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;After paying their final tributes Tuesday to slain Kremlin critic Boris Nemtsov, many members of Russia's beleaguered opposition are looking into the future with gloom.&lt;/p&gt;&lt;p&gt;The sadness and loss that drew thousands to Nemtsov's funeral is unlikely to add vigor to the small and marginalized opposition, or dent the broad public support for President Vladimir Putin.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T06:58:46Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
   </entry>
@@ -459,7 +475,7 @@
     </author>
     <updated>2015-03-03T06:58:36Z</updated>
     <published>2015-03-03T06:58:36Z</published>
-    <summary type="html">&lt;p&gt;Mourners are lining up outside the Moscow human rights center for the funeral of murdered Nemtsov.&lt;/p&gt;&lt;p&gt;Nemtsov had been a deputy prime minister under Russia's first elected president, Boris Yeltsin, who touted him as his likely successor before opting instead for Putin.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Mourners are lining up outside a Moscow human rights center for the funeral of murdered Nemtsov.&lt;/p&gt;&lt;p&gt;Thousands of mourners and dignitaries filed past Nemtsov's white-lined coffin, and many wept as they offered flowers.&lt;/p&gt;&lt;p&gt;Divers searched for the gun in the Moscow River under the bridge where Nemtsov was killed by four shots in the back.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T06:58:36Z</dc:date>
     <media:content url="http://ww2.hdnux.com/photos/34/77/21/7599173/7/square_gallery_thumb.jpg" />
   </entry>
@@ -471,9 +487,20 @@
     </author>
     <updated>2015-03-03T03:37:48Z</updated>
     <published>2015-03-03T03:37:48Z</published>
-    <summary type="html">&lt;p&gt;The Federal Guards Service, the agency responsible for Kremlin security, said none of its cameras had captured the crime because they faced inwards towards the Kremlin walls, not outwards to where Mr Nemtsov was shot.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The Federal Guards Service, the agency responsible for Kremlin security, said none of its cameras had captured the crime because they faced inwards towards the Kremlin walls, not outwards to where Mr Nemtsov was shot.&lt;/p&gt;&lt;p&gt;Mr Nemtsov, 55, an opposition politician who had once been deputy prime minister, was murdered as he walked home from dinner with his 23-year-old Ukrainian girlfriend, Anna Duritskaya.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T03:37:48Z</dc:date>
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/3/t/r/7/5/image.related.articleLeadwide.620x349.13th6x.png/1425353852068.jpg" />
+  </entry>
+  <entry>
+    <title>Polish top senator: Russia banned me from Nemtsov's funeral</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Polish-top-senator-Russia-banned-me-from-6109975.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-02T22:53:13Z</updated>
+    <published>2015-03-02T22:53:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-02T22:53:13Z</dc:date>
   </entry>
   <entry>
     <title>Polish top senator: Russia banned me from Nemtsov's funeral</title>
@@ -483,8 +510,20 @@
     </author>
     <updated>2015-03-02T17:23:27Z</updated>
     <published>2015-03-02T17:23:27Z</published>
-    <summary type="html">&lt;p&gt;WARSAW, Poland (AP) - Poland's Senate speaker said Monday that Russia's authorities have denied him entry into the country for the funeral of slain Kremlin critic Boris Nemtsov.&lt;/p&gt;&lt;p&gt;Bogdan Borusewicz - Poland's leading opposition activist under communism - was to lead a delegation of Polish politicians and lawmakers attending Nemtsov's funeral Tuesday.&lt;/p&gt;&lt;p&gt;In Brussels late Monday, a senior lawmaker in the European Parliament claimed that she too had been denied access to Russia as she traveled to attend Nemtsov's funeral.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;WARSAW, Poland (AP) - Poland's Senate speaker said Monday that Russia's authorities have denied him entry into the country for the funeral of slain Kremlin critic Boris Nemtsov.&lt;/p&gt;&lt;p&gt;Bogdan Borusewicz - Poland's leading opposition activist under communism - was to lead a delegation of Polish politicians and lawmakers attending Nemtsov's funeral Tuesday.&lt;/p&gt;</summary>
     <dc:date>2015-03-02T17:23:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Key Witness Didn't See Nemtsov's Killer</title>
+    <link rel="alternate" href="http://www.wsj.com/articles/key-witness-to-boris-nemtsovs-murder-didnt-see-killer-1425310506?mod=fox_australian" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-02T16:58:22Z</updated>
+    <published>2015-03-02T16:58:22Z</published>
+    <summary type="html">&lt;p&gt;&gt;&gt;&gt;&gt;Mr. Nemtsov's funeral is scheduled for Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-03-02T16:58:22Z</dc:date>
+    <media:content url="http://si.wsj.net/public/resources/images/BN-HE623_nemtso_P_20150302101744.jpg" />
   </entry>
   <entry>
     <title>Video reports conflict in probe of Putin critic's slaying</title>
@@ -506,7 +545,7 @@
     </author>
     <updated>2015-03-02T15:29:02Z</updated>
     <published>2015-03-02T15:29:02Z</published>
-    <summary type="html">&lt;p&gt;TV Center, a station controlled by the Moscow city government, broadcast a poor-resolution video from a web camera that it said showed Nemtsov and Duritskaya shortly before he was killed.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Duritskaya said didn't see the man who shot Nemtsov, only a car speeding up.&lt;/p&gt;&lt;p&gt;TV Center, a station controlled by the Moscow city government, broadcast a poor-resolution video from a web camera that it said showed Nemtsov and Duritskaya shortly before he was killed.&lt;/p&gt;</summary>
     <dc:date>2015-03-02T15:29:02Z</dc:date>
   </entry>
   <entry>
@@ -517,7 +556,7 @@
     </author>
     <updated>2015-03-02T15:25:12Z</updated>
     <published>2015-03-02T15:25:12Z</published>
-    <summary type="html">&lt;p&gt;MOSCOW - Boris Nemtsov's girlfriend has broken her public silence on the murder of the Russian opposition activist, saying she did not see the killer who gunned him down as they strolled across a bridge near the Kremlin.&lt;/p&gt;&lt;p&gt;Speaking largely without emotion in deadened monosyllables, Ukrainian fashion model Anna Duritskaya said she had little recollection of what happened in the moments after Nemtsov was shot dead on Friday night.&lt;/p&gt;&lt;p&gt;Nemtsov, 55, was shot several times and killed instantly, becoming the most prominent opposition figure to be murdered during President Vladimir Putin's 15-year rule.&lt;/p&gt;&lt;p&gt;Nemtsov had criticised Putin's annexation of Crimea and his support for pro-Russian separatists in the east of Ukraine.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;MOSCOW - Boris Nemtsov's girlfriend has broken her public silence on the murder of the Russian opposition activist, saying she did not see the killer who gunned him down as they strolled across a bridge near the Kremlin.&lt;/p&gt;&lt;p&gt;Speaking largely without emotion in deadened monosyllables, Ukrainian fashion model Anna Duritskaya said she had little recollection of what happened in the moments after Nemtsov was shot dead on Friday night.&lt;/p&gt;&lt;p&gt;It had not occurred to her that someone might be following them as they headed across the river towards Nemtsov's apartment.&lt;/p&gt;</summary>
     <dc:date>2015-03-02T15:25:12Z</dc:date>
     <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201503/121/1745097732_4132378077001_d4673403511fb37c73a6dc8c334db995-tmb2.jpg?pubId=1745097732" />
   </entry>
@@ -529,7 +568,7 @@
     </author>
     <updated>2015-03-01T21:34:38Z</updated>
     <published>2015-03-01T21:34:38Z</published>
-    <summary type="html">&lt;p&gt;Putin has vowed to pursue those who killed Nemtsov, calling the murder a "provocation."&lt;/p&gt;&lt;p&gt;They say they are pursuing several lines of inquiry, including the possibility that Nemtsov, a Jew, was killed by radical Islamists or that the opposition killed him to blacken Putin's name.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Putin has vowed to pursue those who killed Nemtsov, calling the murder a "provocation."&lt;/p&gt;&lt;p&gt;They say they are pursuing several lines of inquiry, including the possibility that Nemtsov, a Jew, was killed by radical Islamists or that the opposition killed him to blacken Putin's name.&lt;/p&gt;&lt;p&gt;Some young people walking in central Moscow asked: "Who is Nemtsov anyway?"&lt;/p&gt;</summary>
     <dc:date>2015-03-01T21:34:38Z</dc:date>
   </entry>
   <entry>
@@ -540,7 +579,7 @@
     </author>
     <updated>2015-03-01T14:19:00Z</updated>
     <published>2015-03-01T14:19:00Z</published>
-    <summary type="html">&lt;p&gt;"It is a blow to Russia. If political views are punished this way, then this country simply has no future," Sergei Mitrokhin, an opposition leader, said of Nemtsov's murder.&lt;/p&gt;&lt;p&gt;Nemtsov was one of the leading lights of an opposition struggling to revive its fortunes three years after mass rallies against Putin failed to prevent him from returning to the presidency after four years as prime minister.&lt;/p&gt;&lt;p&gt;Putin has been Russia's dominant leader since 2000, when ailing President Boris Yeltsin chose the former KGB spy as his successor, a role Nemtsov had once been destined to play.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;"It is a blow to Russia. If political views are punished this way, then this country simply has no future," Sergei Mitrokhin, an opposition leader, said of Nemtsov's murder.&lt;/p&gt;&lt;p&gt;He said Nemtsov's death was an irreparable loss and that he had "left his trace in Russia's history, in politics and public life".&lt;/p&gt;&lt;p&gt;Nemtsov was one of the leading lights of an opposition struggling to revive its fortunes three years after mass rallies against Putin failed to prevent him from returning to the presidency after four years as prime minister.&lt;/p&gt;&lt;p&gt;Putin has been Russia's dominant leader since 2000, when ailing President Boris Yeltsin chose the former KGB spy as his successor, a role Nemtsov had once been destined to play.&lt;/p&gt;</summary>
     <dc:date>2015-03-01T14:19:00Z</dc:date>
     <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/2/27/russian-opposition-leader-boris-nemtsov-shot-dead-in-moscow/_jcr_content/image.adapt.480.low.Boris_Nemtsov_022815.jpg" />
   </entry>
@@ -567,18 +606,6 @@
     <summary type="html">&lt;p&gt;Russian opposition leader Boris Nemtsov was shot dead in Moscow at the age of 55.&lt;/p&gt;</summary>
     <dc:date>2015-03-01T01:56:42Z</dc:date>
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/02/28/260A76AE00000578-2972813-image-m-24_1425148603539.jpg" />
-  </entry>
-  <entry>
-    <title>Russian investigators suggest killed opposition leader was ?sacrificial lamb? in plot to destabilize the country</title>
-    <link rel="alternate" href="http://news.nationalpost.com/2015/02/28/boris-nemtsov-murder-investigation/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-28T13:50:15Z</updated>
-    <published>2015-02-28T13:50:15Z</published>
-    <summary type="html">&lt;p&gt;Nemtsov frequently assailed the government's inefficiency, rampant corruption and Ukraine policy.&lt;/p&gt;</summary>
-    <dc:date>2015-02-28T13:50:15Z</dc:date>
-    <media:content url="https://nationalpostcom.files.wordpress.com/2015/02/gettyimages_464733856-1.jpg?w=620" />
   </entry>
   <entry>
     <title>Russian opposition mourns murdered leader Boris Nemtsov</title>
