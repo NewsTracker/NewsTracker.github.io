@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia 'will block' Google, Twitter and Facebook if they withhold blogger data</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/22/russia-will-block-google-twitter-and-facebook-if-they-withhold-blogger-data" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T02:08:32Z</updated>
+    <published>2015-05-22T02:08:32Z</published>
+    <summary type="html">&lt;p&gt;In its semi-annual Transparency Report, Google said it provided some information on users in response to 5% of 134 Russian government requests made in the second half of 2014 - again far less than in the United States.&lt;/p&gt;&lt;p&gt;The company says it complies with requests that follow accepted legal procedures and Google policies.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T02:08:32Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/5/22/1432260289783/a29cf511-cfbe-4436-a018-51b3d0f13ee3-300x180.jpeg" />
+  </entry>
+  <entry>
     <title>Google to include tweets in search results</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&amp;amp;objectid=11451869&amp;amp;ref=rss" />
     <author>

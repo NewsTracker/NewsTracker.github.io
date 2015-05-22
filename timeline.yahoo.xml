@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Brewers' Smith ejected for having rosin, sunscreen on arm (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/brewers-smith-ejected-allegedly-having-pine-tar-arm-013258273--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T03:12:16Z</updated>
+    <published>2015-05-22T03:12:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-22T03:12:16Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/iB1EK7W8cz1Bq.pAui636A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505212058754872392" />
+  </entry>
+  <entry>
+    <title>Hawks' Carroll avoids serious injury, listed as questionable (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/agent-hawks-carroll-no-structural-damage-knee-161928430--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T23:39:50Z</updated>
+    <published>2015-05-21T23:39:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-21T23:39:50Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/If.heQYQjvEdSUxtt_Fnig--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505202200792240313" />
+  </entry>
+  <entry>
     <title>Backstrom seals Capitals' 2-1 overtime win over Isles (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/backstrom-seals-capitals-2-1-overtime-win-over-025222489--nhl.html" />
     <author>

@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore officers charged in death of Freddie Gray indicted by grand jury</title>
+    <link rel="alternate" href="http://news.nationalpost.com/news/world/baltimore-officers-charged-in-death-of-freddie-gray-indicted-by-grand-jury" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T04:28:04Z</updated>
+    <published>2015-05-22T04:28:04Z</published>
+    <summary type="html">&lt;p&gt;The indictments were very similar to the charges Baltimore State's Attorney Marilyn Mosby announced about three weeks ago.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T04:28:04Z</dc:date>
+    <media:content url="http://wpmedia.news.nationalpost.com/2015/05/freddie-gray-1.jpg?w=620&amp;amp;%23038;h=465" />
+  </entry>
+  <entry>
+    <title>Baltimore grand jury indicts police in death of Freddie Gray</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/21/baltimore-grand-jury-indicts-police-in-death-of-freddie-gray" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T00:08:51Z</updated>
+    <published>2015-05-22T00:08:51Z</published>
+    <summary type="html">&lt;p&gt;In Baltimore, the grand jury charged Officer Caesar Goodson Jr., the driver of the police van, with second-degree "depraved heart" murder, manslaughter and reckless endangerment.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T00:08:51Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297703024822_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Grand jury indicts Baltimore police in death of Freddie Gray</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/grand-jury-indicts-baltimore-police-in-death-of-freddie-gray/article24553627/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T21:33:50Z</updated>
+    <published>2015-05-21T21:33:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-21T21:33:50Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/802/news/world/article24553626.ece/ALTERNATES/w220/WX202_Waco_Shooting_Perceptions.JPG" />
+  </entry>
+  <entry>
     <title>Diddy talks 'tasteful' sex clip, new fragrance and Baltimore</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11447034&amp;amp;ref=rss" />
     <author>

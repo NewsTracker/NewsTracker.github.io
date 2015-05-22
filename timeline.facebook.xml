@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia 'will block' Google, Twitter and Facebook if they withhold blogger data</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/22/russia-will-block-google-twitter-and-facebook-if-they-withhold-blogger-data" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T02:08:32Z</updated>
+    <published>2015-05-22T02:08:32Z</published>
+    <summary type="html">&lt;p&gt;Russia's media watchdog has written to Google, Twitter and Facebook warning them against violating Russian internet laws and a spokesman said they risked being blocked if they did not comply.&lt;/p&gt;&lt;p&gt;A company website that publishes statistics on how Facebook handles data requests shows it rejected both of two Russian government requests for information on its users in 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T02:08:32Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/5/22/1432260289783/a29cf511-cfbe-4436-a018-51b3d0f13ee3-300x180.jpeg" />
+  </entry>
+  <entry>
+    <title>Facebook explains what posts are not allowed on its network</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Facebook-explains-what-posts-are-not-allowed-on-6137030.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T19:08:52Z</updated>
+    <published>2015-03-16T19:08:52Z</published>
+    <summary type="html">&lt;p&gt;Facebook users who believe that a particular page or content violates the site's standards can click a "report" link to notify Facebook.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T19:08:52Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/17/22/7664787/3/628x471.jpg" />
+  </entry>
+  <entry>
     <title>Google, Facebook join Red Cross to find thousands missing after Nepal quake</title>
     <link rel="alternate" href="http://news.yahoo.com/google-facebook-join-red-cross-thousands-missing-nepal-164119287.html" />
     <author>
@@ -2004,18 +2028,6 @@
     <summary type="html">&lt;p&gt;NEW YORK (AP) - Facebook is trying to clarify what posts, images and other content it allows on its site and why.&lt;/p&gt;</summary>
     <dc:date>2015-03-16T19:08:52Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/35/17/22/7664787/3/622x350.jpg" />
-  </entry>
-  <entry>
-    <title>Facebook explains what posts are not allowed on its network</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Facebook-explains-what-posts-are-not-allowed-on-6137030.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T19:08:52Z</updated>
-    <published>2015-03-16T19:08:52Z</published>
-    <summary type="html">&lt;p&gt;Facebook users who believe that a particular page or content violates the site's standards can click a "report" link to notify Facebook.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T19:08:52Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/35/17/22/7664787/3/628x471.jpg" />
   </entry>
   <entry>
     <title>Facebook explains what posts are not allowed on its network</title>
