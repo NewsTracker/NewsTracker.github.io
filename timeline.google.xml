@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia threatens block on Google, Twitter, Facebook</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/russia-threatens-block-google-twitter-134627601.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T16:24:47Z</updated>
+    <published>2015-05-22T16:24:47Z</published>
+    <summary type="html">&lt;p&gt;Google, Twitter and Facebook face being blocked in Russia after being warned against violating the country's controversial blogging laws.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T16:24:47Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/nZ8IVrweNuvBiAdYYW0grQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/15abe7977de66a4c891d001a05df48ab" />
+  </entry>
+  <entry>
+    <title>Russia could block Google, Twitter and Facebook</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/russia-could-block-google-twitter-and-facebook-20150522-gh73yy.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T23:24:57Z</updated>
+    <published>2015-05-21T23:24:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-21T23:24:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Russia 'will block' Google, Twitter and Facebook if they withhold blogger data</title>
     <link rel="alternate" href="http://www.theguardian.com/world/2015/may/22/russia-will-block-google-twitter-and-facebook-if-they-withhold-blogger-data" />
     <author>

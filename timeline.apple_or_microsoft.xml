@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T18:46:15Z</updated>
+    <published>2015-05-22T18:46:15Z</published>
+    <summary type="html">&lt;p&gt;Microsoft Corp (MSFT.O) and Salesforce.com Inc (CRM.N) held "significant talks" this spring but failed to agree on a price, CNBC reported, citing people familiar with the matter.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T18:46:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/microsoft-salesforce-held-significant-talks-172813127.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T18:46:15Z</updated>
+    <published>2015-05-22T18:46:15Z</published>
+    <summary type="html">&lt;p&gt;Microsoft is currently not weighing an offer for Salesforce, Reuters reported this month, citing two people familiar with the matter.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T18:46:15Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/WnbWaocLNfMYkm4.F4eLEg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIyNTtxPTc1O3c9MzAw/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-05-22T171417Z_1_LYNXMPEB4L0X9_RTROPTP_3_USA-SALESFORCE-EARNINGS_original.jpg" />
+  </entry>
+  <entry>
     <title>Apple introduces new MacBook Pro, iMac</title>
     <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/apple-introduces-new-macbook-pro-imac-1.2380356" />
     <author>

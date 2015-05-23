@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State loyalists claim Saudi mosque attack</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/22/suicide-bomber-targets-shiite-worshippers-in-saudi-arabia" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T22:14:01Z</updated>
+    <published>2015-05-22T22:14:01Z</published>
+    <summary type="html">&lt;p&gt;It was issued by what purported to be a Saudi branch of the Islamic State group, which is based in Syria and Iraq, but it was not known if the perpetrators had a direct connection with the group's leadership or were sympathizers acting independently in its name.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T22:14:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>Suicide bomber kills 21 at Saudi Shi'ite mosque, Islamic State claims attack</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-saudi-security-idUSKBN0O712S20150522?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T20:11:42Z</updated>
+    <published>2015-05-22T20:11:42Z</published>
+    <summary type="html">&lt;p&gt;The statement appeared to echo Iranian accusations that Saudi Arabia sponsors ultra-orthodox Sunni militant groups in the region, an allegation usually taken to refer to groups such as Islamic State and al Qaeda.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T20:11:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Suicide bomber kills 21 at Saudi Shi'ite mosque, Islamic State claims attack</title>
+    <link rel="alternate" href="http://news.yahoo.com/suicide-bomber-strikes-saudi-shiite-mosque-several-casualties-101937898.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T17:49:39Z</updated>
+    <published>2015-05-22T17:49:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-22T17:49:39Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/S2QxNQg3ReqDOU.Db8N5Yg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-22T144302Z_1_LYNXMPEB4L0R5_RTROPTP_2_SAUDI-SECURITY.JPG" />
+  </entry>
+  <entry>
     <title>Islamic State says it has full control of Syria's Palmyra</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3091690/Islamic-State-says-control-Syrias-Palmyra.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

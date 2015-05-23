@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Redacted words more trouble for Hillary Clinton than released emails</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/redacted-words-more-trouble-for-hillary-clinton-than-released-emails-20150523-gh7zgi.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-23T00:53:34Z</updated>
+    <published>2015-05-23T00:53:34Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton orders ice cream during a stop at in Derry, New Hampshire on Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-23T00:53:34Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/7/z/y/o/image.related.articleLeadwide.620x349.gh7zgi.png/1432342404512.jpg" />
+  </entry>
+  <entry>
+    <title>Hillary Clinton got sensitive email about the 2012 Benghazi attack on her unsecured private server</title>
+    <link rel="alternate" href="http://news.nationalpost.com/news/world/hillary-clinton-got-an-email-about-the-benghazi-consulate-attack-on-her-private-server" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T18:07:00Z</updated>
+    <published>2015-05-22T18:07:00Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON - Former Secretary of State Hillary Rodham Clinton received information on her private email server that has now been classified about the deadly attack on U.S. diplomatic facilities in Benghazi.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T18:07:00Z</dc:date>
+    <media:content url="http://wpmedia.news.nationalpost.com/2015/05/474390304_38101803.jpg?w=620" />
+  </entry>
+  <entry>
+    <title>Clinton emails show concern about image after Benghazi</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/us-state-dept-posts-first-set-of-hillary-clinton-emails-online/article24567546/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T17:19:43Z</updated>
+    <published>2015-05-22T17:19:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-22T17:19:43Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/ba0/news/world/article24567545.ece/ALTERNATES/w220/XNYT1_CLINTON_EMAILS_1.JPG" />
+  </entry>
+  <entry>
     <title>Hillary Clinton sets date for big-bang campaign launch</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/Hillary-Clinton-sets-date-for-big-bang-campaign-launch/articleshow/47379231.cms" />
     <author>
@@ -16,15 +52,15 @@
     <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47379232,width-300,resizemode-4/Hillary.jpg" />
   </entry>
   <entry>
-    <title>What we know about Hillary Clinton's private email account</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11413586&amp;amp;ref=rss" />
+    <title>Hillary Clinton gets LinkedIn</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/hillary-clinton-gets-linkedin/" />
     <author>
       <name />
     </author>
-    <updated>2015-03-07T06:20:14Z</updated>
-    <published>2015-03-07T06:20:14Z</published>
-    <summary type="html">&lt;p&gt;" Was Clinton's email too secret?&lt;/p&gt;</summary>
-    <dc:date>2015-03-07T06:20:14Z</dc:date>
+    <updated>2015-05-21T18:13:44Z</updated>
+    <published>2015-05-21T18:13:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-21T18:13:44Z</dc:date>
   </entry>
   <entry>
     <title>Sanders says he likes, respects 2016 rival Hillary Clinton</title>
@@ -38,363 +74,38 @@
     <dc:date>2015-05-17T17:17:12Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton cements her support for allied super PAC</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article20391102.html%23storylink=rss" />
+    <title>Sanders says he likes, respects 2016 rival Hillary Clinton</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/17/sanders-says-he-likes-respects-2016-rival-hillary/" />
     <author>
       <name />
     </author>
-    <updated>2015-05-07T01:49:11Z</updated>
-    <published>2015-05-07T01:49:11Z</published>
-    <summary type="html">&lt;p&gt;Democratic presidential candidate Hillary Rodham Clinton, left, greets Alice Luong at Red Blossom Tea Company in Chinatown in San Francisco on Wednesday.&lt;/p&gt;</summary>
-    <dc:date>2015-05-07T01:49:11Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+    <updated>2015-05-17T17:17:12Z</updated>
+    <published>2015-05-17T17:17:12Z</published>
+    <summary type="html">&lt;p&gt;He likes Hillary Rodham Clinton and he respects her.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T17:17:12Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton Agrees To Testify In Congress About Benghazi, Lawyer Says</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/05/04/hillary-clinton-agrees-to-testify-in-congress-about-benghazi-lawyer-says/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fmarkets+%28Internal+-+Markets+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-04T20:30:00Z</updated>
-    <published>2015-05-04T20:30:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-05-04T20:30:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>State Dept: No evidence of conflict in donations to Clinton Foundation, Hillary Clinton's work</title>
-    <link rel="alternate" href="http://www.startribune.com/nation/302443181.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-04T17:30:26Z</updated>
-    <published>2015-05-04T17:30:26Z</published>
-    <summary type="html">&lt;p&gt;The State Department's comment comes as Hillary Clinton's presidential campaign grapples with criticism that foreign entities traded donations to the family charity for favors at the State Department.&lt;/p&gt;</summary>
-    <dc:date>2015-05-04T17:30:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Carly Fiorina announces presidential bid</title>
-    <link rel="alternate" href="http://www.mercurynews.com/politics-government/ci_28043850/carly-fiorina-announces-presidential-bid?source=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-04T13:46:17Z</updated>
-    <published>2015-05-04T13:46:17Z</published>
-    <summary type="html">&lt;p&gt;"I have a lot of admiration for Hillary Clinton, but she clearly is not trustworthy," Fiorina said.&lt;/p&gt;</summary>
-    <dc:date>2015-05-04T13:46:17Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0504/20150504__fiorina%7E1_300.JPG" />
-  </entry>
-  <entry>
-    <title>Liberal U.S. Senator Sanders to challenge Clinton in 2016 race</title>
-    <link rel="alternate" href="http://news.yahoo.com/u-senator-sanders-enters-2016-race-challenge-clinton-120341426.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-30T18:52:58Z</updated>
-    <published>2015-04-30T18:52:58Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-30T18:52:58Z</dc:date>
-    <media:content url="https://s1.yimg.com/bt/api/res/1.2/fl03F2KU7Wiyn9OzK3UUIQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/USWeekly/1430400327_bernie-sanders-article.jpg.cf.jpg" />
-  </entry>
-  <entry>
-    <title>Clinton: Baltimore shows justice system 'out of balance'</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article19854036.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-29T15:38:23Z</updated>
-    <published>2015-04-29T15:38:23Z</published>
-    <summary type="html">&lt;p&gt;Pointing to a wave of violence in Baltimore, Hillary Rodham Clinton said Wednesday that the nation's criminal justice system has gotten "out of balance" and must be restored through steps such as the use of body cameras by every police department in the country.&lt;/p&gt;</summary>
-    <dc:date>2015-04-29T15:38:23Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>AP source: Clinton to outline criminal justice reforms</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/AP-source-Clinton-to-outline-criminal-justice-6230582.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-29T11:28:25Z</updated>
-    <published>2015-04-29T11:28:25Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Hillary Rodham Clinton says a wave of unrest in Baltimore shows the need to "restore order and security" and find ways to reform the criminal justice system.&lt;/p&gt;</summary>
-    <dc:date>2015-04-29T11:28:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>Hillary Clinton's Benghazi emails contain few revelations: sources</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/28/us-usa-clinton-emails-idUSKBN0NJ2OX20150428?feedType=RSS&amp;amp;feedName=politicsNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-28T22:24:22Z</updated>
-    <published>2015-04-28T22:24:22Z</published>
-    <summary type="html">&lt;p&gt;The emails show Clinton received updates about the situation in Benghazi after the attacks and about possible U.S. responses, the sources said.&lt;/p&gt;</summary>
-    <dc:date>2015-04-28T22:24:22Z</dc:date>
-    <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150428&amp;amp;t=2&amp;amp;i=1044165587&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB3R11G" />
-  </entry>
-  <entry>
-    <title>'Democratic Socialist' Vermont Senator Bernie Sanders will run for president, joining Hillary Clinton and running far to her political left</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3059787/Vermont-Sen-Bernie-Sanders-run-president.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-28T22:02:18Z</updated>
-    <published>2015-04-28T22:02:18Z</published>
-    <summary type="html">&lt;p&gt;Sanders will become the second major Democrat in the race, joining former Secretary of State Hillary Rodham Clinton.&lt;/p&gt;</summary>
-    <dc:date>2015-04-28T22:02:18Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/28/22/281271A600000578-3059787-image-a-27_1430257655425.jpg" />
-  </entry>
-  <entry>
-    <title>Jeb Bush knocks Hillary Clinton over Asia trade talks stance</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3051122/Jeb-Bush-knocks-Hillary-Clinton-Asia-trade-talks-stance.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T19:01:59Z</updated>
-    <published>2015-04-22T19:01:59Z</published>
-    <summary type="html">&lt;p&gt;"I haven't changed in my view even though Hillary Clinton has," Bush wrote in a post on the blog publishing site Medium.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T19:01:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Jeb Bush knocks Hillary Clinton over Asia trade talks stance</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/22/us-usa-politics-bush-clinton-idUSKBN0ND2AF20150422?feedType=RSS&amp;amp;feedName=politicsNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T18:50:54Z</updated>
-    <published>2015-04-22T18:50:54Z</published>
-    <summary type="html">&lt;p&gt;A Clinton spokesman did not immediately respond to a request for comment on Bush's post.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T18:50:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>In lieu of flowers, 'don't vote for Hillary Clinton'</title>
-    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/19/22353431.html?cid=rssnewsworld" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-20T02:36:15Z</updated>
-    <published>2015-04-20T02:36:15Z</published>
-    <summary type="html">&lt;p&gt;"Also, the family respectfully asks that you do not vote for Hillary Clinton in 2016. R.I.P. Grandaddy," the obituary read.&lt;/p&gt;</summary>
-    <dc:date>2015-04-20T02:36:15Z</dc:date>
-    <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201504/941/1745097732_4176749831001_7cfde8ff87bbe1013c67669a1167d617-tmb1.jpg?pubId=1745097732" />
-  </entry>
-  <entry>
-    <title>Carly Fiorina aims to keep Hillary Clinton from playing the 'gender card'</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18772242.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-17T18:42:02Z</updated>
-    <published>2015-04-17T18:42:02Z</published>
-    <summary type="html">&lt;p&gt;Carly Fiorina, the lone Republican woman eying the White House, wants to block Hillary Rodham Clinton from playing the "gender card" in the 2016 presidential race.&lt;/p&gt;</summary>
-    <dc:date>2015-04-17T18:42:02Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Can Hillary Clinton escape her fame?</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/04/16/opinions/borger-hillary-escape-from-fame/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_allpolitics+%28RSS%3A+CNN+-+Politics%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-16T11:50:39Z</updated>
-    <published>2015-04-16T11:50:39Z</published>
-    <summary type="html">&lt;p&gt;Who is Hillary Clinton?&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T11:50:39Z</dc:date>
-    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/150410133757-04-hillary-clinton-homepage-large-169.jpg" />
-  </entry>
-  <entry>
-    <title>In NYC speech, Bill Clinton does not mention Hillary Rodham Clinton's presidential campaign</title>
-    <link rel="alternate" href="http://www.startribune.com/politics/299779501.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-14T23:55:56Z</updated>
-    <published>2015-04-14T23:55:56Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton announced her candidacy Sunday with an online video and held her first low-key campaign events in Iowa hours before her husband spoke.&lt;/p&gt;</summary>
-    <dc:date>2015-04-14T23:55:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>Watch Hillary Clinton in New HBO Documentary The Diplomat</title>
-    <link rel="alternate" href="http://time.com/3820691/richard-holbrooke-hbo-documentary-the-diplomat/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+time%2Fentertainment+%28TIME%3A+Entertainment%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-14T14:17:46Z</updated>
-    <published>2015-04-14T14:17:46Z</published>
-    <summary type="html">&lt;p&gt;Among them is Hillary Clinton.&lt;/p&gt;</summary>
-    <dc:date>2015-04-14T14:17:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>News24.com | Hillary Clinton surprises with early attack on CEO pay</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/Hillary-Clinton-surprises-with-early-attack-on-CEO-pay-20150414" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-14T09:46:10Z</updated>
-    <published>2015-04-14T09:46:10Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton looks ahead to 2016 as the year Americans may finally elect their first-ever female president, but her past is freighted with blemishes and gaffes that could compromise if not sink her campaign.&lt;/p&gt;&lt;p&gt;Hillary Clinton.&lt;/p&gt;</summary>
-    <dc:date>2015-04-14T09:46:10Z</dc:date>
-    <media:content url="http://cdn.24.co.za/files/Cms/General/d/3053/87430aaf97f2480bafb8cebc858d39e4.jpg" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton: Just Do You</title>
-    <link rel="alternate" href="http://www.huffingtonpost.com/natalie-jackson/hillary-clinton-just-do-you_b_7050306.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T19:00:04Z</updated>
-    <published>2015-04-12T19:00:04Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-12T19:00:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>Everything You Need to Know About Hillary Clinton</title>
-    <link rel="alternate" href="http://abcnews.go.com/Politics/meet-hillary-clinton-didnt-prospective-2016-presidential-candidate/story?id=30232350" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T17:01:23Z</updated>
-    <published>2015-04-12T17:01:23Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-12T17:01:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>NYC's Bill de Blasio not ready for Hillary, yet</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/04/12/politics/hillary-clinton-bill-de-blasio-no-endorsement/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_allpolitics+%28RSS%3A+CNN+-+Politics%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T15:15:18Z</updated>
-    <published>2015-04-12T15:15:18Z</published>
-    <summary type="html">&lt;p&gt;Who is Hillary Clinton?&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T15:15:18Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/04/12/politics/hillary-clinton-bill-de-blasio-no-endorsement/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>De Blasio not ready to endorse Hillary Clinton yet</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/04/12/politics/hillary-clinton-bill-de-blasio-no-endorsement/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T15:12:40Z</updated>
-    <published>2015-04-12T15:12:40Z</published>
-    <summary type="html">&lt;p&gt;Who is Hillary Clinton?&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T15:12:40Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/04/12/politics/hillary-clinton-bill-de-blasio-no-endorsement/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>News24.com | Clinton did 'terrific' job repairing US global ties: Kerry</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/Clinton-did-terrific-job-repairing-US-global-ties-Kerry-20150412" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T14:47:35Z</updated>
-    <published>2015-04-12T14:47:35Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T14:47:35Z</dc:date>
-    <media:content url="http://cdn.24.co.za/files/Cms/General/d/3002/45dd7d44e8de4e11b6f150e9c4ce35e7.jpg" />
-  </entry>
-  <entry>
-    <title>Everything You Need to Know About Hillary Clinton</title>
-    <link rel="alternate" href="http://abcnews.go.com/Politics/meet-hillary-clinton-didnt-prospective-2016-presidential-candidate/story?id=30232350" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T14:29:38Z</updated>
-    <published>2015-04-12T14:29:38Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-12T14:29:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>What is Hillary Clinton thinking?</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/04/12/politics/gloria-borger-reports-hillary-clinton/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_allpolitics+%28RSS%3A+CNN+-+Politics%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T11:45:50Z</updated>
-    <published>2015-04-12T11:45:50Z</published>
-    <summary type="html">&lt;p&gt;Who is Hillary Clinton?&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T11:45:50Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/04/12/politics/gloria-borger-reports-hillary-clinton/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>The pull on Hillary Clinton</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/04/12/politics/gloria-borger-reports-hillary-clinton/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T09:36:03Z</updated>
-    <published>2015-04-12T09:36:03Z</published>
-    <summary type="html">&lt;p&gt;Who is Hillary Clinton?&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T09:36:03Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/04/12/politics/gloria-borger-reports-hillary-clinton/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>What is Hillary Clinton thinking?</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/04/12/politics/gloria-borger-reports-hillary-clinton/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T04:02:08Z</updated>
-    <published>2015-04-12T04:02:08Z</published>
-    <summary type="html">&lt;p&gt;Who is Hillary Clinton?&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T04:02:08Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/04/12/politics/gloria-borger-reports-hillary-clinton/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton hires Google executive as tech chief</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-usa-election-clinton-digital-idUSKBN0MZ1TF20150408?feedType=RSS&amp;amp;feedName=technologyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T17:18:54Z</updated>
-    <published>2015-04-08T17:18:54Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-08T17:18:54Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150408&amp;amp;t=2&amp;amp;i=1038872786&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB370QV" />
-  </entry>
-  <entry>
-    <title>Bill Clinton says in interview he expects to be a 'backstage adviser' in Hillary Clinton bid</title>
-    <link rel="alternate" href="http://www.startribune.com/politics/298924721.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-07T17:50:19Z</updated>
-    <published>2015-04-07T17:50:19Z</published>
-    <summary type="html">&lt;p&gt;When Hillary Clinton became President Barack Obama's secretary of state in 2009, the foundation agreed to stop raising money from foreign governments but the Washington Post reported in February that some foreign governments continued to donate while she was in the Obama administration.&lt;/p&gt;&lt;p&gt;"I think it's important, and Hillary does too, that she go out there as if she's never run for anything before and establish her connection with the voters," Clinton said.&lt;/p&gt;&lt;p&gt;Asked about his role if Hillary Clinton is elected president, Bill Clinton said he would "have to assess what she wants me to do" but "we might have to change the (foundation) rules again."&lt;/p&gt;</summary>
-    <dc:date>2015-04-07T17:50:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Clinton advisers traveling to New Hampshire, Iowa</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/political/clinton-advisers-traveling-to-new-hampshire-iowa/nkh5Z/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T22:27:49Z</updated>
-    <published>2015-03-30T22:27:49Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-30T22:27:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Hillary and Bill Clinton earned more than $25 mn for speeches since 2014</title>
-    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/Hillary-and-Bill-Clinton-earned-more-than-25-mn-for-speeches-since-2014/articleshow/47304430.cms" />
+    <title>Hillary and Bill Clinton earned more than $25 million for speeches since 2014</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/Hillary-and-Bill-Clinton-earned-more-than-25-million-for-speeches-since-2014/articleshow/47304430.cms" />
     <author>
       <name />
     </author>
     <updated>2015-05-16T02:04:54Z</updated>
     <published>2015-05-16T02:04:54Z</published>
-    <summary type="html">&lt;p&gt;Hillary and Bill Clinton earned over $25 million for delivering more than 100 speeches since 2014, according to financial disclosure forms released by the Clinton campaign.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Last year, Hillary Clinton was criticized for saying she and her husband were "dead broke" when they left the White House in 2001, even though Bill Clinton made millions of dollars giving speeches after his presidency.&lt;/p&gt;</summary>
     <dc:date>2015-05-16T02:04:54Z</dc:date>
     <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47304444,width-300,resizemode-4/a-.jpg" />
   </entry>
   <entry>
-    <title>Hillary and Bill Clinton earned more than $25 million for speeches since 2014</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/16/us-usa-election-clinton-idUSKBN0O02FB20150516?feedType=RSS&amp;amp;feedName=topNews" />
+    <title>Hillary and Bill Clinton earned more than $25 mln for speeches since 2014 -reports</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3084000/Hillary-Bill-Clinton-earned-25-mln-speeches-2014-reports.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
     </author>
-    <updated>2015-05-16T00:27:48Z</updated>
-    <published>2015-05-16T00:27:48Z</published>
-    <summary type="html">&lt;p&gt;Last year, Hillary Clinton was criticized for saying she and her husband were "dead broke" when they left the White House in 2001, even though Bill Clinton made millions of dollars giving speeches after his presidency.&lt;/p&gt;</summary>
-    <dc:date>2015-05-16T00:27:48Z</dc:date>
+    <updated>2015-05-16T00:02:28Z</updated>
+    <published>2015-05-16T00:02:28Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton, who is the front-runner for the Democratic presidential nomination in 2016, also earned $5 million in royalties for her book, "Hard Choices," which was released in June, according to the newspapers.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T00:02:28Z</dc:date>
   </entry>
   <entry>
     <title>AP Source: Hillary and Bill Clinton report earning more than $25M from speeches since Jan. '14</title>
@@ -408,14 +119,25 @@
     <dc:date>2015-05-15T23:40:19Z</dc:date>
   </entry>
   <entry>
+    <title>Bill, Hillary Clinton make $25M from 100 speeches: official</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/bill-hillary-clinton-25m-100-speeches-official-article-1.2224309" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T23:38:42Z</updated>
+    <published>2015-05-15T23:38:42Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton also earned more than $5 million for her 2014 book, "Hard Choices," according to her campaign.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T23:38:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Hillary and Bill Clinton earned more than $25 million for speeches since 2014: reports</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/15/us-usa-election-clinton-idUSKBN0O02FB20150515?feedType=RSS&amp;amp;feedName=politicsNews" />
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/15/us-usa-election-clinton-idUSKBN0O02FB20150515?feedType=RSS&amp;amp;feedName=topNews" />
     <author>
       <name />
     </author>
     <updated>2015-05-15T23:22:34Z</updated>
     <published>2015-05-15T23:22:34Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton, who is the front-runner for the Democratic presidential nomination in 2016, also earned $5 million in royalties for her book, "Hard Choices," which was released in June, according to the newspapers.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-05-15T23:22:34Z</dc:date>
   </entry>
   <entry>
@@ -431,25 +153,37 @@
   </entry>
   <entry>
     <title>Hillary Clinton woos donors visiting campaign headquarters</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3082318/Hillary-Clinton-woos-donors-visiting-campaign-headquarters.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article21042066.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-05-14T23:16:50Z</updated>
-    <published>2015-05-14T23:16:50Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK (AP) - Hillary Rodham Clinton promised her most loyal supporters Thursday she will present a more authentic version of herself during her 2016 campaign for president than she did eight years ago.&lt;/p&gt;</summary>
-    <dc:date>2015-05-14T23:16:50Z</dc:date>
+    <updated>2015-05-14T23:55:11Z</updated>
+    <published>2015-05-14T23:55:11Z</published>
+    <summary type="html">&lt;p&gt;Hillary Rodham Clinton promised her most loyal supporters Thursday she will present a more authentic version of herself during her 2016 campaign for president than she did eight years ago.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T23:55:11Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton woos donors visiting campaign headquarters</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/political/hillary-clinton-woos-donors-visiting-campaign-head/nmGpQ/" />
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Hillary-Clinton-woos-donors-visiting-campaign-6264246.php" />
     <author>
       <name />
     </author>
-    <updated>2015-05-14T22:14:44Z</updated>
-    <published>2015-05-14T22:14:44Z</published>
+    <updated>2015-05-14T21:02:32Z</updated>
+    <published>2015-05-14T21:02:32Z</published>
     <summary type="html" />
-    <dc:date>2015-05-14T22:14:44Z</dc:date>
+    <dc:date>2015-05-14T21:02:32Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/32/45/7973238/7/landscape_32.jpg" />
+  </entry>
+  <entry>
+    <title>Martin O'Malley to announce presidential plans May 30</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/martin-o-malley-announce-presidential-plans-30-article-1.2221789?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T14:10:09Z</updated>
+    <published>2015-05-14T14:10:09Z</published>
+    <summary type="html">&lt;p&gt;If O'Malley enters the race with Clinton, as expected, he will join Vermont Sen. Bernie Sanders, an independent, who has courted liberal voters in the party.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T14:10:09Z</dc:date>
   </entry>
   <entry>
     <title>Martin O'Malley to announce presidential plans May 30</title>
@@ -463,17 +197,6 @@
     <dc:date>2015-05-14T14:10:09Z</dc:date>
   </entry>
   <entry>
-    <title>CLINTON IN A BUBBLE? Hillary jabbed by 2016 field for dodging press</title>
-    <link rel="alternate" href="http://www.foxnews.com/politics/2015/05/13/candidates-take-verbal-jabs-at-clinton-comfy-media-bubble/?vgnextrefresh=1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-13T21:13:18Z</updated>
-    <published>2015-05-13T21:13:18Z</published>
-    <summary type="html">&lt;p&gt;"Like Hillary Clinton, I'm also running for president, but unlike her, I'm not afraid to answer questions about my record," Fiorina said at the South Carolina Freedom Summit.&lt;/p&gt;</summary>
-    <dc:date>2015-05-13T21:13:18Z</dc:date>
-  </entry>
-  <entry>
     <title>Bill Clinton says if Hillary wins, he'll move back to White House -'if asked'</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/13/us-usa-election-billclinton-idUSKBN0NY04K20150513?feedType=RSS&amp;amp;feedName=politicsNews" />
     <author>
@@ -485,39 +208,39 @@
     <dc:date>2015-05-13T02:02:28Z</dc:date>
   </entry>
   <entry>
-    <title>News24.com | Hillary Clinton emails reviewed for release</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/Hillary-Clinton-emails-reviewed-for-release-20150306" />
+    <title>Favored treatment? Hillary's State Department fast-tracked approvals for Bill's paid speeches - Clinton facing new ethics questions on role in Boeing deal - Federal judge agrees to reopen Clinton email lawsuit</title>
+    <link rel="alternate" href="http://www.foxnews.com/politics/2015/05/12/state-department-okd-most-bill-clinton-speech-requests-within-days/" />
     <author>
       <name />
     </author>
-    <updated>2015-03-06T06:00:21Z</updated>
-    <published>2015-03-06T06:00:21Z</published>
-    <summary type="html">&lt;p&gt;The White House legal counsel's office was not aware of Clinton's private email account until the committee sought her communications during an earlier exchange with the department, according to a person familiar with the matter.&lt;/p&gt;</summary>
-    <dc:date>2015-03-06T06:00:21Z</dc:date>
-    <media:content url="http://cdn.24.co.za/files/Cms/General/d/3002/45dd7d44e8de4e11b6f150e9c4ce35e7.jpg" />
+    <updated>2015-05-12T21:36:54Z</updated>
+    <published>2015-05-12T21:36:54Z</published>
+    <summary type="html">&lt;p&gt;Cheryl Mills was Hillary Clinton's chief of staff at the State Department and was frequently included on the other end of emails during the State Department review of the requests.&lt;/p&gt;&lt;p&gt;Mills was a former White House deputy counsel who collaborated with Kendall on Bill Clinton's impeachment legal defense before working for Hillary Clinton at the State Department.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T21:36:54Z</dc:date>
+    <media:content url="http://global.fncstatic.com/static/v/fn2/img/politics/approval-president.png" />
   </entry>
   <entry>
-    <title>State Department rarely raised concerns over Bill Clinton speeches when wife led agency</title>
-    <link rel="alternate" href="http://www.startribune.com/us-ok-d-most-bill-clinton-speech-requests-within-days/303377401/" />
+    <title>Hillary Clinton's State Department gave Bill the OK for hundreds of foreign speeches</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3077838/US-OKd-Bill-Clinton-speech-requests-days.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
     </author>
-    <updated>2015-05-12T07:40:21Z</updated>
-    <published>2015-05-12T07:40:21Z</published>
+    <updated>2015-05-12T19:35:39Z</updated>
+    <published>2015-05-12T19:35:39Z</published>
     <summary type="html">&lt;p&gt;On Thursday, Saban hosted a fundraiser for Hillary Clinton's campaign at his Beverly Hills home, raising at least $1.2 million from 450 attendees.&lt;/p&gt;</summary>
-    <dc:date>2015-05-12T07:40:21Z</dc:date>
+    <dc:date>2015-05-12T19:35:39Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/05/09/18/285B1B9C00000578-0-image-m-19_1431193617081.jpg" />
   </entry>
   <entry>
-    <title>US OK'd most Bill Clinton speech requests within days</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article20727756.html%23storylink=rss" />
+    <title>Hillary Clinton to make first South Carolina trip on May 27, campaign says</title>
+    <link rel="alternate" href="http://www.startribune.com/clinton-to-make-first-south-carolina-trip-may-27/303482841/" />
     <author>
       <name />
     </author>
-    <updated>2015-05-12T07:40:06Z</updated>
-    <published>2015-05-12T07:40:06Z</published>
-    <summary type="html">&lt;p&gt;When Hillary Rodham Clinton was secretary of state, her husband won hasty approval from her department to make a lucrative series of speeches to companies, organizations and governments around the world.&lt;/p&gt;</summary>
-    <dc:date>2015-05-12T07:40:06Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+    <updated>2015-05-12T18:40:54Z</updated>
+    <published>2015-05-12T18:40:54Z</published>
+    <summary type="html">&lt;p&gt;ATLANTA - The campaign for Hillary Rodham Clinton says the Democratic presidential candidate plans to be in the early voting state of South Carolina on May 27.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T18:40:54Z</dc:date>
   </entry>
   <entry>
     <title>US OK'd most Bill Clinton speech requests within days</title>
@@ -527,54 +250,101 @@
     </author>
     <updated>2015-05-12T07:40:06Z</updated>
     <published>2015-05-12T07:40:06Z</published>
-    <summary type="html">&lt;p&gt;More than 220 paid events earned the family nearly $50 million, according to a review of State Department documents and Hillary Clinton's financial disclosure forms by The Associated Press.&lt;/p&gt;&lt;p&gt;State Department spokesman Jeff Rathke said last week the agency was unaware of any actions taken by Hillary Clinton that were influenced by Clinton Foundation donations or by Bill Clinton's event or consultancy fees.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;When Hillary Rodham Clinton was secretary of state, her husband won hasty approval from her department to make a lucrative series of speeches to companies, organizations and governments around the world.&lt;/p&gt;&lt;p&gt;State Department spokesman Jeff Rathke said last week the agency was unaware of any actions taken by Hillary Clinton that were influenced by Clinton Foundation donations or by Bill Clinton's event or consultancy fees.&lt;/p&gt;</summary>
     <dc:date>2015-05-12T07:40:06Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Activists Use Clinton Immigration Stance to Pressure Obama</title>
-    <link rel="alternate" href="http://abcnews.go.com/Politics/wireStory/activists-clinton-immigration-stance-pressure-obama-30956071" />
+    <title>US OK'd most Bill Clinton speech requests within days</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/05/12/us-okd-most-bill-clinton-speech-requests-within-days" />
     <author>
       <name />
     </author>
-    <updated>2015-05-11T15:55:12Z</updated>
-    <published>2015-05-11T15:55:12Z</published>
-    <summary type="html">&lt;p&gt;Immigration activists are trying to use Hillary Rodham Clinton's stance on immigration to pressure President Barack Obama to do more for immigrants.&lt;/p&gt;</summary>
-    <dc:date>2015-05-11T15:55:12Z</dc:date>
+    <updated>2015-05-12T07:37:40Z</updated>
+    <published>2015-05-12T07:37:40Z</published>
+    <summary type="html">&lt;p&gt;More than 220 paid events earned the family nearly $50 million, according to a review of State Department documents and Hillary Clinton's financial disclosure forms by The Associated Press.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T07:37:40Z</dc:date>
   </entry>
   <entry>
-    <title>State Department official: Clinton email practices 'not acceptable'</title>
-    <link rel="alternate" href="http://www.foxnews.com/politics/2015/05/06/state-department-official-clinton-email-practices-not-acceptable/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29" />
+    <title>US OK'd most Bill Clinton speech requests within days</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/US-OK-d-most-Bill-Clinton-speech-requests-within-6257318.php" />
     <author>
       <name />
     </author>
-    <updated>2015-05-06T16:45:02Z</updated>
-    <published>2015-05-06T16:45:02Z</published>
-    <summary type="html">&lt;p&gt;A State Department assistant secretary said Wednesday it's "not acceptable" for any agency employee to conduct government business on a private email server as former Secretary of State Hillary Clinton did.&lt;/p&gt;</summary>
-    <dc:date>2015-05-06T16:45:02Z</dc:date>
+    <updated>2015-05-12T07:37:40Z</updated>
+    <published>2015-05-12T07:37:40Z</published>
+    <summary type="html">&lt;p&gt;The State Department and financial disclosure documents show the agency sped through Bill Clinton's steady stream of requests for events while rarely raising concerns about potential conflicts.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T07:37:40Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/30/47/7965145/3/920x920.jpg" />
   </entry>
   <entry>
-    <title>Democratic candidate Hillary Clinton stars in latest Republican presidential campaigns</title>
-    <link rel="alternate" href="http://www.startribune.com/entertainment/celebrities/302716861.html" />
+    <title>US OK'd most Bill Clinton speech requests within days</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/us-okd-most-bill-clinton-speech-requests-within-da/nmDyT/" />
     <author>
       <name />
     </author>
-    <updated>2015-05-06T07:25:34Z</updated>
-    <published>2015-05-06T07:25:34Z</published>
-    <summary type="html">&lt;p&gt;Later, he took a swipe at Hillary Clinton, noting that he doesn't "have a global foundation" to help start his campaign.&lt;/p&gt;</summary>
-    <dc:date>2015-05-06T07:25:34Z</dc:date>
+    <updated>2015-05-12T07:37:40Z</updated>
+    <published>2015-05-12T07:37:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-12T07:37:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton cements her support for allied super PAC</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article20391102.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-07T01:49:11Z</updated>
+    <published>2015-05-07T01:49:11Z</published>
+    <summary type="html">&lt;p&gt;Democratic presidential candidate Hillary Rodham Clinton, left, greets Alice Luong at Red Blossom Tea Company in Chinatown in San Francisco on Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-07T01:49:11Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>State Official: Hillary Clinton Email Practices 'Not Acceptable'</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/05/06/state-official-clinton-email-practices-not-acceptable" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T16:20:54Z</updated>
+    <published>2015-05-06T16:20:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T16:20:54Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/3966cb7/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F41%2F53%2Ffe6414eb412a916bb200c1e89633%2F150410-hillaryclinton-editorial.jpg" />
   </entry>
   <entry>
     <title>Latest GOP campaigns for White House star Hillary Clinton</title>
-    <link rel="alternate" href="http://news.yahoo.com/latest-gop-campaigns-white-house-star-hillary-clinton-070608232--election.html" />
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Latest-GOP-campaigns-for-White-House-star-Hillary-6245058.php" />
     <author>
       <name />
     </author>
-    <updated>2015-05-06T07:19:50Z</updated>
-    <published>2015-05-06T07:19:50Z</published>
-    <summary type="html">&lt;p&gt;HOPE, Arkansas (AP) - Hillary Rodham Clinton starred in two presidential campaign launches this week.&lt;/p&gt;</summary>
-    <dc:date>2015-05-06T07:19:50Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/URPOULPSg9LG_440QGwX2Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/5829e88c472ca814750f6a706700460b.jpg" />
+    <updated>2015-05-06T07:19:37Z</updated>
+    <published>2015-05-06T07:19:37Z</published>
+    <summary type="html">&lt;p&gt;Hillary Rodham Clinton starred in two presidential campaign launches this week.&lt;/p&gt;&lt;p&gt;Later, he took a swipe at Hillary Clinton, noting that he doesn't "have a global foundation" to help start his campaign.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T07:19:37Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/20/72/7933620/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>Clinton Pledges to Go 'Even Further' on Immigration</title>
+    <link rel="alternate" href="http://www.nbcnews.com/politics/hillary-clinton/clinton-willing-take-immigration-actions-even-further-n354281" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T03:52:27Z</updated>
+    <published>2015-05-06T03:52:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T03:52:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton Pledges Action on Immigration, Saying System Is Broken</title>
+    <link rel="alternate" href="http://www.nytimes.com/politics/first-draft/2015/05/05/a-path-to-citizenship-clinton-says-is-at-its-heart-a-family-issue/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T03:16:12Z</updated>
+    <published>2015-05-06T03:16:12Z</published>
+    <summary type="html">&lt;p&gt;"Wow. Hillary Clinton just bear-hugged immigrants and the immigration issue in a way that could shake up the entire 2016 race," said Frank Sharry, executive director of America's Voice, an advocacy group.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T03:16:12Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton Goes Big On Immigration</title>
@@ -589,6 +359,17 @@
     <media:content url="http://i.huffpost.com/gen/2916982/images/n-HILLARY-CLINTON-large570.jpg" />
   </entry>
   <entry>
+    <title>Hillary Clinton to support citizenship path for immigrants</title>
+    <link rel="alternate" href="http://www.upi.com/Top_News/US/2015/05/05/Hillary-Clinton-to-support-citizenship-path-for-immigrants/1751430839484/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T16:08:07Z</updated>
+    <published>2015-05-05T16:08:07Z</published>
+    <summary type="html">&lt;p&gt;"She will say that the standard for a true solution is nothing less than a full and equal path to citizenship," said a Clinton aide, previewing her remarks.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T16:08:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Clinton agrees to testify on Benghazi, emails this month</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11443399&amp;amp;ref=rss" />
     <author>
@@ -598,6 +379,28 @@
     <published>2015-05-04T20:30:19Z</published>
     <summary type="html">&lt;p&gt;WASHINGTON (AP) " Hillary Rodham Clinton is willing to testify on Capitol Hill later this month about the attacks in Benghazi, Libya, and about her email practices, her attorney told lawmakers in a letter Monday.&lt;/p&gt;</summary>
     <dc:date>2015-05-04T20:30:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton Agrees To Testify In Congress About Benghazi, Lawyer Says</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/05/04/hillary-clinton-agrees-to-testify-in-congress-about-benghazi-lawyer-says/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fmarkets+%28Internal+-+Markets+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T20:30:00Z</updated>
+    <published>2015-05-04T20:30:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-04T20:30:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Clinton agrees to testify on Benghazi, emails this month</title>
+    <link rel="alternate" href="http://www.foxnews.com/politics/2015/05/04/clinton-agrees-to-testify-on-benghazi-emails-this-month/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T20:19:24Z</updated>
+    <published>2015-05-04T20:19:24Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton has agreed to testify on Capitol Hill later this month about the attacks in Benghazi, Libya, and about her email practices.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T20:19:24Z</dc:date>
   </entry>
   <entry>
     <title>Clinton agrees to testify on Benghazi, emails this month</title>
@@ -612,38 +415,49 @@
     <media:content url="http://media.utsandiego.com/img/photos/2015/05/04/531d938fcedb6f13750f6a70670097ba_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
   </entry>
   <entry>
-    <title>Bill Clinton defends foundation, says nothing 'sinister' at work - VIDEO: Bill Clinton defends charity - MEDIA BUZZ: Hillary is moving left, but she isn&amp;#8217;t divorcing Bill (politically speaking) - VIDEO: Kurtz: Hillary, the 21st century Clinton</title>
-    <link rel="alternate" href="http://www.foxnews.com/politics/2015/05/04/bill-clinton-defends-foundation-says-nothing-sinister-at-work/" />
+    <title>State Dept: No evidence of conflict in donations to Clinton Foundation, Hillary Clinton's work</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/302443181.html" />
     <author>
       <name />
     </author>
-    <updated>2015-05-04T19:32:31Z</updated>
-    <published>2015-05-04T19:32:31Z</published>
-    <summary type="html">&lt;p&gt;In general, critics have raised questions about possible connections between donations made by foreign governments and policies that Hillary Clinton pursued while serving as secretary of state.&lt;/p&gt;</summary>
-    <dc:date>2015-05-04T19:32:31Z</dc:date>
-    <media:content url="http://global.fncstatic.com/static/v/fn2/img/politics/approval-president.png" />
+    <updated>2015-05-04T17:30:26Z</updated>
+    <published>2015-05-04T17:30:26Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON - The State Department said Monday it has no evidence that any actions taken by Democratic presidential candidate Hillary Rodham Clinton when she was secretary of state were influenced by donations to the Clinton Foundation or former President Bill Clinton's speaking fees.&lt;/p&gt;&lt;p&gt;The State Department's comment comes as Hillary Clinton's presidential campaign grapples with criticism that foreign entities traded donations to the family charity for favors at the State Department.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T17:30:26Z</dc:date>
   </entry>
   <entry>
-    <title>Boehner: Clinton needs to bring Democrats along on trade</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article20128521.html%23storylink=rss" />
+    <title>Hillary monetizes Mother?s Day with call-from-Clinton contest</title>
+    <link rel="alternate" href="http://nypost.com/2015/05/04/hillary-monetizes-mothers-day-with-call-from-clinton-contest/" />
     <author>
       <name />
     </author>
-    <updated>2015-05-03T13:07:47Z</updated>
-    <published>2015-05-03T13:07:47Z</published>
-    <summary type="html">&lt;p&gt;House Speaker John Boehner says Hillary Rodham Clinton needs to back trade legislation that President Barack Obama wants - and help get Democrats on board.&lt;/p&gt;</summary>
-    <dc:date>2015-05-03T13:07:47Z</dc:date>
+    <updated>2015-05-04T17:01:18Z</updated>
+    <published>2015-05-04T17:01:18Z</published>
+    <summary type="html">&lt;p&gt;Hillary wants to call someone's mom on Mother's Day.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T17:01:18Z</dc:date>
   </entry>
   <entry>
-    <title>News24.com | Republicans tread carefully around Hillary Clinton's age</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/Republicans-tread-carefully-around-Hillary-Clintons-age-20150502" />
+    <title>Carly Fiorina announces presidential bid</title>
+    <link rel="alternate" href="http://www.mercurynews.com/politics-government/ci_28043850/carly-fiorina-announces-presidential-bid?source=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-05-02T05:30:43Z</updated>
-    <published>2015-05-02T05:30:43Z</published>
-    <summary type="html">&lt;p&gt;Washington - Her campaign barely three weeks old, Hillary Clinton already has been attacked by Republicans on everything from donations to her family's charitable foundation, to her tenure as secretary of state and her ties to Wall Street.&lt;/p&gt;</summary>
-    <dc:date>2015-05-02T05:30:43Z</dc:date>
+    <updated>2015-05-04T13:46:17Z</updated>
+    <published>2015-05-04T13:46:17Z</published>
+    <summary type="html">&lt;p&gt;"I have a lot of admiration for Hillary Clinton, but she clearly is not trustworthy," Fiorina said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T13:46:17Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0504/20150504__fiorina%7E1_300.JPG" />
+  </entry>
+  <entry>
+    <title>Boehner: Hillary Clinton needs to persuade Democrats to support Asia-Pacific free trade deal</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/302340371.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T13:05:06Z</updated>
+    <published>2015-05-03T13:05:06Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON - House Speaker John Boehner says Hillary Rodham Clinton needs to back trade legislation that President Barack Obama wants - and help get Democrats on board.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T13:05:06Z</dc:date>
   </entry>
   <entry>
     <title>Doubts about Hillary Clinton?s honesty after emails: poll</title>
@@ -657,6 +471,17 @@
     <dc:date>2015-05-01T20:53:19Z</dc:date>
   </entry>
   <entry>
+    <title>AP-GfK Poll: Doubts about Clinton's honesty after emails</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/political/ap-gfk-poll-doubts-about-clintons-honesty-after-em/nk7LQ/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:48:19Z</updated>
+    <published>2015-05-01T19:48:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-01T19:48:19Z</dc:date>
+  </entry>
+  <entry>
     <title>How the AP-GfK poll on Hillary Clinton was conducted</title>
     <link rel="alternate" href="http://www.sfgate.com/news/article/How-the-AP-GfK-poll-on-Hillary-Clinton-was-6236541.php" />
     <author>
@@ -668,6 +493,30 @@
     <dc:date>2015-05-01T19:27:26Z</dc:date>
   </entry>
   <entry>
+    <title>Sen. Bernie Sanders challenges Hillary Clinton from the left</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19951011.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T19:18:44Z</updated>
+    <published>2015-04-30T19:18:44Z</published>
+    <summary type="html">&lt;p&gt;Sanders does face daunting challenges, and not just from Clinton.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T19:18:44Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Liberal U.S. Senator Sanders to challenge Clinton in 2016 race</title>
+    <link rel="alternate" href="http://news.yahoo.com/u-senator-sanders-enters-2016-race-challenge-clinton-120341426.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T18:52:58Z</updated>
+    <published>2015-04-30T18:52:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-30T18:52:58Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/fl03F2KU7Wiyn9OzK3UUIQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/USWeekly/1430400327_bernie-sanders-article.jpg.cf.jpg" />
+  </entry>
+  <entry>
     <title>Hillary Clinton sets sights on law and order</title>
     <link rel="alternate" href="http://www.smh.com.au/world/hillary-clinton-sets-sights-on-law-and-order-20150430-1mwgpr.html" />
     <author>
@@ -675,21 +524,9 @@
     </author>
     <updated>2015-04-29T21:58:06Z</updated>
     <published>2015-04-29T21:58:06Z</published>
-    <summary type="html">&lt;p&gt;Washington: As the people of Baltimore set about cleaning up stricken suburbs Hillary Clinton has given her first major policy speech since announcing her candidacy, calling for major criminal justice reform and an end to mass incarceration.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-04-29T21:58:06Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/1/m/w/g/8/7/image.related.articleLeadwide.620x349.1mwgpr.png/1430361127795.jpg" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton sets sights on law and order</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/hillary-clinton-sets-sights-on-law-and-order-20150430-1mwgpr.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-29T21:58:06Z</updated>
-    <published>2015-04-29T21:58:06Z</published>
-    <summary type="html">&lt;p&gt;Members of the audience applaud Hillary Rodham Clinton, speaking at Columbia university.&lt;/p&gt;</summary>
-    <dc:date>2015-04-29T21:58:06Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/w/g/8/7/image.related.articleLeadwide.620x349.1mwgpr.png/1430361127795.jpg" />
   </entry>
   <entry>
     <title>Hillary Clinton sets sights on law and order</title>
@@ -699,7 +536,7 @@
     </author>
     <updated>2015-04-29T21:58:06Z</updated>
     <published>2015-04-29T21:58:06Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton says unrest in Baltimore shows the US has allowed their "criminal justice system to get out of balance."&lt;/p&gt;&lt;p&gt;Democratic presidential candidate Hillary Clinton delivers the keynote address at the 18th Annual David N. Dinkins Leadership and Public Policy Forum at Columbia University in New York on Wednesday.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Washington: As the people of Baltimore set about cleaning up stricken suburbs Hillary Clinton has given her first major policy speech since announcing her candidacy, calling for major criminal justice reform and an end to mass incarceration.&lt;/p&gt;&lt;p&gt;Democratic presidential candidate Hillary Clinton delivers the keynote address at the 18th Annual David N. Dinkins Leadership and Public Policy Forum at Columbia University in New York on Wednesday.&lt;/p&gt;&lt;p&gt;Members of the audience applaud Hillary Rodham Clinton, speaking at Columbia university.&lt;/p&gt;</summary>
     <dc:date>2015-04-29T21:58:06Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/1/m/w/g/8/7/image.related.articleLeadwide.620x349.1mwgpr.png/1430344522044.jpg" />
   </entry>
@@ -709,10 +546,45 @@
     <author>
       <name />
     </author>
-    <updated>2015-04-29T19:26:37Z</updated>
-    <published>2015-04-29T19:26:37Z</published>
+    <updated>2015-04-29T18:02:33Z</updated>
+    <published>2015-04-29T18:02:33Z</published>
     <summary type="html" />
-    <dc:date>2015-04-29T19:26:37Z</dc:date>
+    <dc:date>2015-04-29T18:02:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Clinton: Baltimore shows justice system 'out of balance'</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article19854036.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T15:38:23Z</updated>
+    <published>2015-04-29T15:38:23Z</published>
+    <summary type="html">&lt;p&gt;Pointing to a wave of violence in Baltimore, Hillary Rodham Clinton said Wednesday that the nation's criminal justice system has gotten "out of balance" and must be restored through steps such as the use of body cameras by every police department in the country.&lt;/p&gt;&lt;p&gt;Hillary Rodham Clinton, a 2016 Democratic presidential contender, speaks at the David N. Dinkins Leadership and Public Policy Forum, Wednesday, April 29, 2015 in New York.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T15:38:23Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Clinton to call for criminal justice reform in New York speech</title>
+    <link rel="alternate" href="http://news.yahoo.com/clinton-call-criminal-justice-reform-york-speech-101832216.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T11:39:03Z</updated>
+    <published>2015-04-29T11:39:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T11:39:03Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>AP source: Clinton to outline criminal justice reforms</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/AP-source-Clinton-to-outline-criminal-justice-6230582.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T11:28:25Z</updated>
+    <published>2015-04-29T11:28:25Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Hillary Rodham Clinton says a wave of unrest in Baltimore shows the need to "restore order and security" and find ways to reform the criminal justice system.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T11:28:25Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton to call for mandatory police body cameras</title>
@@ -725,6 +597,42 @@
     <summary type="html" />
     <dc:date>2015-04-29T11:01:32Z</dc:date>
     <media:content url="http://edition.cnn.com/2015/04/29/politics/hillary-clinton-police-body-cameras/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
+    <title>Hillary Clinton's Benghazi emails contain few revelations: sources</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/28/us-usa-clinton-emails-idUSKBN0NJ2OX20150428?feedType=RSS&amp;amp;feedName=politicsNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T22:24:22Z</updated>
+    <published>2015-04-28T22:24:22Z</published>
+    <summary type="html">&lt;p&gt;But there was no evidence Clinton held detailed discussions about security at U.S. installations in Benghazi in the months before the attacks, the sources said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T22:24:22Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150428&amp;amp;t=2&amp;amp;i=1044165587&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB3R11G" />
+  </entry>
+  <entry>
+    <title>Hillary Clinton's Benghazi emails contain few revelations: sources</title>
+    <link rel="alternate" href="http://news.yahoo.com/hillary-clintons-benghazi-emails-contain-few-revelations-sources-222422131.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T22:24:22Z</updated>
+    <published>2015-04-28T22:24:22Z</published>
+    <summary type="html">&lt;p&gt;Two people familiar with the material said this week that the 300 emails do not demonstrate that Clinton, who was secretary of state at the time of the attacks, was personally involved in decisions that resulted in weak security at the Benghazi outposts.&lt;/p&gt;&lt;p&gt;The emails show Clinton received updates about the situation in Benghazi after the attacks and about possible U.S. responses, the sources said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T22:24:22Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/Jrrm5KGARgakwr_4JRJGMw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTI0MjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-04-28T222422Z_1_LYNXMPEB3R11G_RTROPTP_2_USA-CLINTON-ELECTION.JPG" />
+  </entry>
+  <entry>
+    <title>'Democratic Socialist' Vermont Senator Bernie Sanders will run for president, joining Hillary Clinton and running far to her political left</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3059787/Vermont-Sen-Bernie-Sanders-run-president.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T22:02:18Z</updated>
+    <published>2015-04-28T22:02:18Z</published>
+    <summary type="html">&lt;p&gt;Sanders will become the second major Democrat in the race, joining former Secretary of State Hillary Rodham Clinton.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T22:02:18Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/28/22/281271A600000578-3059787-image-a-27_1430257655425.jpg" />
   </entry>
   <entry>
     <title>Hillary Clinton plans campaign trip to Nevada</title>
@@ -749,105 +657,26 @@
     <dc:date>2015-04-25T01:46:53Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton's long road back into presidential politics</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18406703.html%23storylink=rss" />
+    <title>House Benghazi panel calls Clinton to testify</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11437813&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-04-13T17:10:08Z</updated>
-    <published>2015-04-13T17:10:08Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this Dec. 3, 2014 file photo, former Secretary of State Hillary Rodham Clinton speaks in Gaston Hall at Georgetown University, in Washington.&lt;/p&gt;&lt;p&gt;FILE - In this Oct. 20, 2008, file photo, then-Sen. Hillary Clinton, D-N.Y. delivers a speech supporting then-Democratic presidential candidate Sen. Barack Obama, D-Ill., at a rally in Orlando, Fla.&lt;/p&gt;&lt;p&gt;FILE - In this Dec. 1, 2008, file photo, then-Secretary of State-designate Sen. Hillary Rodham Clinton speaks during a news conference with President-elect Barack Obama in Chicago.&lt;/p&gt;&lt;p&gt;FILE - In this July 7, 2012, file photo, U.S. Secretary of State Hillary Rodham Clinton, left, speaks during a news conference with then-President of Afghanistan Hamid Karzai, at the Presidential Palace in Kabul.&lt;/p&gt;&lt;p&gt;FILE - In this April 2, 2013, file photo Vice President Joe Biden and former Secretary of State Hillary Rodham Clinton are seen in Washington.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T17:10:08Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+    <updated>2015-04-23T19:30:15Z</updated>
+    <published>2015-04-23T19:30:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T19:30:15Z</dc:date>
   </entry>
   <entry>
-    <title>Senate Republicans: Clinton emails 'probably' broke law</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/02/senate-republicans-clinton-emails-probably-broke-law" />
+    <title>Jeb Bush knocks Hillary Clinton over Asia trade talks stance</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/22/us-usa-politics-bush-clinton-idUSKBN0ND2AF20150422?feedType=RSS&amp;amp;feedName=politicsNews" />
     <author>
       <name />
     </author>
-    <updated>2015-04-02T17:41:54Z</updated>
-    <published>2015-04-02T17:41:54Z</published>
-    <summary type="html">&lt;p&gt;Cornyn says he wants the State Department's inspector general to investigate whether Clinton violated federal law or policy.&lt;/p&gt;</summary>
-    <dc:date>2015-04-02T17:41:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Hillary Clinton urges Arkansas governor to veto state bill on religious objections</title>
-    <link rel="alternate" href="http://www.startribune.com/politics/298322341.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-01T16:06:01Z</updated>
-    <published>2015-04-01T16:06:01Z</published>
-    <summary type="html">&lt;p&gt;Her husband, former President Bill Clinton, was Arkansas governor for more than a decade.&lt;/p&gt;</summary>
-    <dc:date>2015-04-01T16:06:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Analyzing Hillary Clinton's 2016 campaign: 'It's not about me, it's about you'</title>
-    <link rel="alternate" href="http://www.chicagotribune.com/news/chi-hillary-clintons-2016-campaign-its-not-about-me-its-about-you-20150412-story.html?track=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T01:28:00Z</updated>
-    <published>2015-04-13T01:28:00Z</published>
-    <summary type="html">&lt;p&gt;If Hillary Rodham Clinton gets her way, there will be stark differences between her failed 2008 run for president and the White House campaign she embarked upon Sunday -- and not just the end result.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T01:28:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Second shot: Hillary Clinton set to run again for president</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3035539/Middle-class-economics-focus-Clintons-bid.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T18:01:34Z</updated>
-    <published>2015-04-12T18:01:34Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this March 10, 2015 file photo, Hillary Rodham Clinton speaks to the reporters at United Nations headquarters.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T18:01:34Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/article-urn:publicid:ap.org:ee04f949c5054149aa3ccdaca2f84565-6Xjqu1bhI-HSK1-717_634x422.jpg" />
-  </entry>
-  <entry>
-    <title>GOP speakers at NRA event take aim at Hillary Clinton</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/10/parade-of-likely-gop-presidential-candidates-to-speak-to-nra" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-10T19:46:26Z</updated>
-    <published>2015-04-10T19:46:26Z</published>
-    <summary type="html">&lt;p&gt;(AP) - The expected announcement of Hillary Rodham Clinton's presidential campaign has quickly become a center of attention at the National Rifle Association's annual convention.&lt;/p&gt;</summary>
-    <dc:date>2015-04-10T19:46:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>US awaits Hillary's presidential bid</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au//breaking-news-world/us-awaits-hillarys-presidential-bid-20150412-3tx19.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T06:23:24Z</updated>
-    <published>2015-04-12T06:23:24Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton is expected to announce her candidacy for US president, ending prolonged speculation that she once again seeks to become the first woman elected to the White House.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T06:23:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Hillary Clinton says US-Israel relationship needs to return to 'constructive footing'</title>
-    <link rel="alternate" href="http://www.startribune.com/politics/298010521.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T15:46:49Z</updated>
-    <published>2015-03-30T15:46:49Z</published>
-    <summary type="html">&lt;p&gt;"Secretary Clinton thinks we need to all work together to return the special US-Israel relationship to constructive footing," the group's executive vice chairman, Malcolm Hoenlein, said in the statement quoting Clinton's comments.&lt;/p&gt;&lt;p&gt;Clinton said the U.S. and Israel need to get back to shared concerns and interests, including a negotiated two-state solution, according to the Conference of Presidents of Major American Jewish Organizations.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T15:46:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Rand Paul urges Clinton to return foreign government money</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3003719/Rand-Paul-returns-NH-expanded-staff-state.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T20:17:34Z</updated>
-    <published>2015-03-20T20:17:34Z</published>
-    <summary type="html">&lt;p&gt;MANCHESTER, N.H. (AP) - Sen. Rand Paul on Friday urged Hillary Rodham Clinton to return donations several foreign governments made to her family's philanthropic foundation.&lt;/p&gt;&lt;p&gt;Hillary Clinton, who is building a campaign team, remains the leading Democratic presidential contender if she enters the 2016 campaign.&lt;/p&gt;&lt;p&gt;Campaigning in New Hampshire, the Kentucky Republican and likely 2016 presidential candidate said Clinton should give back money from Saudi Arabia, Brunei and the United Arab Emirates because of their "horrific" rejection of women's rights.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T20:17:34Z</dc:date>
+    <updated>2015-04-22T18:50:54Z</updated>
+    <published>2015-04-22T18:50:54Z</published>
+    <summary type="html">&lt;p&gt;"I haven't changed in my view even though Hillary Clinton has," Bush wrote in a post on the blog publishing site Medium.&lt;/p&gt;&lt;p&gt;A Clinton spokesman did not immediately respond to a request for comment on Bush's post.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T18:50:54Z</dc:date>
   </entry>
   <entry>
     <title>Campaigning Clinton has qualms about trade deal</title>
@@ -862,18 +691,6 @@
     <media:content url="https://s.yimg.com/uu/api/res/1.2/dk00D4U_KfbwwBPlLCOH5A--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/677432d8cc46a68e725949bbfad7d520" />
   </entry>
   <entry>
-    <title>Hillary Clinton Campaign To Focus On Economic Security, Opportunity</title>
-    <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/11/hillary-clinton-campaign_n_7047224.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-11T20:38:10Z</updated>
-    <published>2015-04-11T20:38:10Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-11T20:38:10Z</dc:date>
-    <media:content url="http://i.huffpost.com/gen/2826922/images/n-HILLARY-large570.jpg" />
-  </entry>
-  <entry>
     <title>Hillary Clinton defends family foundation</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-defends-family-foundation-article-1.2192717?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
     <author>
@@ -885,76 +702,130 @@
     <dc:date>2015-04-21T13:08:10Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton poised to step back into US presidential fray</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/us-election/hillary-clinton-poised-to-step-back-into-us-presidential-fray-20150412-1mjkcc.html" />
+    <title>A Timeline Of Hillary Clinton's Evolution On Trade</title>
+    <link rel="alternate" href="http://www.npr.org/blogs/itsallpolitics/2015/04/21/401123124/a-timeline-of-hillary-clintons-evolution-on-trade?utm_medium=RSS&amp;amp;utm_campaign=politics" />
     <author>
       <name />
     </author>
-    <updated>2015-04-12T11:31:27Z</updated>
-    <published>2015-04-12T11:31:27Z</published>
+    <updated>2015-04-21T10:03:00Z</updated>
+    <published>2015-04-21T10:03:00Z</published>
     <summary type="html" />
-    <dc:date>2015-04-12T11:31:27Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/j/k/g/g/image.related.articleLeadwide.620x349.1mjkcc.png/1428838039513.jpg" />
+    <dc:date>2015-04-21T10:03:00Z</dc:date>
   </entry>
   <entry>
-    <title>High political stakes for Clinton on Iran nuclear agreement</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article17378381.html%23storylink=rss" />
+    <title>Possible challengers critique Hillary Clinton from the sidelines</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/possible-challengers-critique-hillary-clinton-from-the-sidelines-20150420-1mom1d.html" />
     <author>
       <name />
     </author>
-    <updated>2015-04-04T13:26:46Z</updated>
-    <published>2015-04-04T13:26:46Z</published>
-    <summary type="html">&lt;p&gt;Hillary Rodham Clinton can claim a piece of the victory if the U.S. and other world powers ultimately finalize a nuclear agreement with Iran.&lt;/p&gt;</summary>
-    <dc:date>2015-04-04T13:26:46Z</dc:date>
+    <updated>2015-04-20T04:10:27Z</updated>
+    <published>2015-04-20T04:10:27Z</published>
+    <summary type="html">&lt;p&gt;New York: They're not in it to win it themselves - not yet, at least - but possible Democratic primary challengers to Hillary Clinton have plenty to say about the newly announced presidential candidate.&lt;/p&gt;&lt;p&gt;Supporters of Hillary Clinton await her arrival in Monticello, Iowa.&lt;/p&gt;</summary>
+    <dc:date>2015-04-20T04:10:27Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/o/v/k/j/image.related.articleLeadwide.620x349.1mom1d.png/1429503006667.jpg" />
+  </entry>
+  <entry>
+    <title>In lieu of flowers, 'don't vote for Hillary Clinton'</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/19/22353431.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-20T02:36:15Z</updated>
+    <published>2015-04-20T02:36:15Z</published>
+    <summary type="html">&lt;p&gt;"Also, the family respectfully asks that you do not vote for Hillary Clinton in 2016. R.I.P. Grandaddy," the obituary read.&lt;/p&gt;</summary>
+    <dc:date>2015-04-20T02:36:15Z</dc:date>
+    <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201504/941/1745097732_4176749831001_7cfde8ff87bbe1013c67669a1167d617-tmb1.jpg?pubId=1745097732" />
+  </entry>
+  <entry>
+    <title>NC man's obituary urges readers to reject Hillary Clinton</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article18926169.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T19:22:13Z</updated>
+    <published>2015-04-19T19:22:13Z</published>
+    <summary type="html">&lt;p&gt;And don't vote for Hillary Rodham Clinton in 2016.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T19:22:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>GOP presidential hopefuls turn up the heat on Hillary at NH summit</title>
+    <link rel="alternate" href="http://www.foxnews.com/politics/2015/04/18/at-new-hampshire-summit-big-gop-field-takes-turns-attacking-clinton-ahead-her/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T00:07:42Z</updated>
+    <published>2015-04-19T00:07:42Z</published>
+    <summary type="html">&lt;p&gt;He later said: "We can win, we must win, we will win. It is critical we beat Hillary Clinton."&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T00:07:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Carly Fiorina aims to keep Hillary Clinton from playing the 'gender card'</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18772242.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-17T18:42:02Z</updated>
+    <published>2015-04-17T18:42:02Z</published>
+    <summary type="html">&lt;p&gt;Carly Fiorina, the lone Republican woman eying the White House, wants to block Hillary Rodham Clinton from playing the "gender card" in the 2016 presidential race.&lt;/p&gt;</summary>
+    <dc:date>2015-04-17T18:42:02Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Hillary Clinton also used iPad for email</title>
-    <link rel="alternate" href="http://www.usatoday.com/story/news/nation/2015/03/31/hilary-clinton-email/70708314/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomnation-topstories" />
+    <title>Hillary Clinton heads to New Hampshire after Iowa kickoff</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3042813/Hillary-Clinton-heads-New-Hampshire-Iowa-kickoff.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
     </author>
-    <updated>2015-03-31T06:56:03Z</updated>
-    <published>2015-03-31T06:56:03Z</published>
-    <summary type="html">&lt;p&gt;Clinton at that time could have potentially split her accounts, reverting to an official State.gov e-mail account and BlackBerry for work and leaving her personal e-mail on her iPad.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T06:56:03Z</dc:date>
-    <media:content url="http://www.gannett-cdn.com/-mm-/eef41bdb8585a496a25ce067dddb5114e072b2b1/c=0-20-2551-3421&amp;amp;amp;r=537&amp;amp;amp;c=0-0-534-712/local/-/media/2015/03/31/USATODAY/USATODAY/635633671179129498-AP-DEM-2016-Clinton.jpg" />
-  </entry>
-  <entry>
-    <title>'Don't vote for Hillary Clinton' reads man's obituary</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/04/19/dont-vote-for-hillary-clinton-reads-mans-obituary" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-20T02:16:10Z</updated>
-    <published>2015-04-20T02:16:10Z</published>
+    <updated>2015-04-17T00:01:19Z</updated>
+    <published>2015-04-17T00:01:19Z</published>
     <summary type="html" />
-    <dc:date>2015-04-20T02:16:10Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297689997627_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+    <dc:date>2015-04-17T00:01:19Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton to visit New Hampshire next week</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article18691947.html%23storylink=rss" />
+    <title>Hillary Clinton faces a challenge in voters? trust</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article18703005.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-04-16T18:52:06Z</updated>
-    <published>2015-04-16T18:52:06Z</published>
-    <summary type="html">&lt;p&gt;Hillary Rodham Clinton will make her first trip as a presidential candidate to the early voting state of New Hampshire next week.&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T18:52:06Z</dc:date>
+    <updated>2015-04-16T20:38:36Z</updated>
+    <published>2015-04-16T20:38:36Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton might have a problem with voters such as Linda Deitz.&lt;/p&gt;&lt;p&gt;But Hillary Clinton is a different story.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T20:38:36Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Hillary Clinton to visit New Hampshire next week</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article18691947.html%23storylink=rss" />
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/16/hillary-clinton-to-visit-new-hampshire-next-week" />
     <author>
       <name />
     </author>
-    <updated>2015-04-16T18:52:06Z</updated>
-    <published>2015-04-16T18:52:06Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton last visited New Hampshire in November to stump for Democratic Sen. Jeanne Shaheen and Gov. Maggie Hassan.&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T18:52:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+    <updated>2015-04-16T18:36:27Z</updated>
+    <published>2015-04-16T18:36:27Z</published>
+    <summary type="html">&lt;p&gt;CONCORD, N.H. (AP) - Hillary Rodham Clinton will make her first trip as a presidential candidate to the early voting state of New Hampshire next week.&lt;/p&gt;&lt;p&gt;Hillary Clinton last visited New Hampshire in November to stump for Democratic Sen. Jeanne Shaheen and Gov. Maggie Hassan.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T18:36:27Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/4c1c9fc/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fe1%2F48e7defbeb4f4dffa950e2892c05e0%2Fmedia%3A410382c646ea4cdaacb30f1be59af38dDEM2016Clinton.JPEG" />
+  </entry>
+  <entry>
+    <title>Hillary Clinton to visit New Hampshire next week</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/hillary-clinton-to-visit-new-hampshire-next-week/nkwdJ/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T18:36:27Z</updated>
+    <published>2015-04-16T18:36:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T18:36:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Rodham Clinton completes shift on same-sex marriage</title>
+    <link rel="alternate" href="http://www.latimes.com/nation/politics/politicsnow/la-clinton-gay-marriage-20150416-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T17:18:00Z</updated>
+    <published>2015-04-16T17:18:00Z</published>
+    <summary type="html">&lt;p&gt;"Hillary Clinton supports marriage equality and hopes the Supreme Court will come down on the side of same-sex couples being guaranteed that constitutional right," Adrienne Elrod, a campaign spokeswoman, said in a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T17:18:00Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton praises Elizabeth Warren in Time's most influential list</title>
@@ -980,38 +851,63 @@
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297688456374_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
+    <title>Hillary Clinton pens Elizabeth Warren praise for Time 100 list</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/04/16/politics/hillary-clinton-elizabeth-warren-time-100/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T11:43:50Z</updated>
+    <published>2015-04-16T11:43:50Z</published>
+    <summary type="html">&lt;p&gt;Clinton also made Time's 100 list.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T11:43:50Z</dc:date>
+    <media:content url="http://edition.cnn.com/2015/04/16/politics/hillary-clinton-elizabeth-warren-time-100/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
+    <title>Clinton Foundation to continue accepting some foreign money</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Clinton-Foundation-to-continue-accepting-some-6202841.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T02:57:08Z</updated>
+    <published>2015-04-16T02:57:08Z</published>
+    <summary type="html">&lt;p&gt;Last month, while she was still a foundation board member, Hillary Clinton defended the family charity to questions about its reliance on donations from foreign governments, saying the foundation had "hundreds of thousands of donors."&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T02:57:08Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/35/66/50/7825961/3/920x920.jpg" />
+  </entry>
+  <entry>
     <title>Clinton Foundation to continue accepting some foreign donations, disclose donors more often</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/04/15/clinton-foundation-to-continue-accepting-some-foreign-donations-disclose-donors/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
+    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/04/15/clinton-foundation-to-continue-accepting-some-foreign-donations-disclose-donors/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Flatest+%28Internal+-+Latest+News+-+Text%29" />
     <author>
       <name />
     </author>
     <updated>2015-04-16T02:33:12Z</updated>
     <published>2015-04-16T02:33:12Z</published>
-    <summary type="html">&lt;p&gt;Last month, while she was still a foundation board member, Hillary Clinton defended the family charity to questions about its reliance on donations from foreign governments, saying the foundation had "hundreds of thousands of donors."&lt;/p&gt;&lt;p&gt;Hillary Clinton had previously agreed with the Obama administration to limit new foreign donations to the foundation while she served as secretary of state, but at least six nations that previously contributed still donated to the charity during her four-year stint.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hillary Clinton had previously agreed with the Obama administration to limit new foreign donations to the foundation while she served as secretary of state, but at least six nations that previously contributed still donated to the charity during her four-year stint.&lt;/p&gt;</summary>
     <dc:date>2015-04-16T02:33:12Z</dc:date>
     <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/feeds/Associated%20Press/2015/04/16/660/371/45095441c40cc410VgnVCM100000d7c1a8c0____-DEM%202016%20Clinton%20Foundation-1.jpg?ve=1&amp;amp;tl=1" />
   </entry>
   <entry>
-    <title>Can O'Malley be Clinton's progressive challenger?</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/martin-omalley-hillary-clinton-progressive-challenger-iowa/" />
+    <title>Clinton Foundation will continue to accept foreign money during Hillary's run</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/04/15/politics/clinton-foundation-policy-change/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
     <author>
       <name />
     </author>
-    <updated>2015-04-16T01:13:08Z</updated>
-    <published>2015-04-16T01:13:08Z</published>
-    <summary type="html">&lt;p&gt;Her campaign spokesperson, Adrienne Elrod, told Buzzfeed Wednesday, "Hillary Clinton supports marriage equality and hopes the Supreme Court will come down on the side of same-sex couples being guaranteed that constitutional right."&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T01:13:08Z</dc:date>
+    <updated>2015-04-16T01:59:15Z</updated>
+    <published>2015-04-16T01:59:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-16T01:59:15Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/141229162900-clintons-split-story-top.png" />
   </entry>
   <entry>
-    <title>Tombstone of Hillary Clinton's father knocked over: newspaper</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/15/us-usa-election-clinton-tombstone-idUSKBN0N60VM20150415?feedType=RSS&amp;amp;feedName=politicsNews" />
+    <title>Hillary Clinton's father's tombstone toppled</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/hillary-clintons-fathers-tombstone-toppled/" />
     <author>
       <name />
     </author>
-    <updated>2015-04-15T13:19:45Z</updated>
-    <published>2015-04-15T13:19:45Z</published>
+    <updated>2015-04-15T12:09:48Z</updated>
+    <published>2015-04-15T12:09:48Z</published>
     <summary type="html" />
-    <dc:date>2015-04-15T13:19:45Z</dc:date>
+    <dc:date>2015-04-15T12:09:48Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton Was Asked About Email 2 Years Ago</title>
@@ -1026,15 +922,26 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Gravestone of Hillary Clinton's dad toppled in Pennsylvania, maybe by vandals, police say</title>
-    <link rel="alternate" href="http://www.startribune.com/nation/299782081.html" />
+    <title>Gravestone of Hillary Clinton's dad toppled in Pennsylvania</title>
+    <link rel="alternate" href="http://news.yahoo.com/gravestone-hillary-clintons-dad-toppled-pennsylvania-002432437--election.html" />
     <author>
       <name />
     </author>
-    <updated>2015-04-15T00:30:26Z</updated>
-    <published>2015-04-15T00:30:26Z</published>
-    <summary type="html">&lt;p&gt;- The gravestone of Hillary Rodham Clinton's father has been found toppled over at a Pennsylvania cemetery.&lt;/p&gt;</summary>
-    <dc:date>2015-04-15T00:30:26Z</dc:date>
+    <updated>2015-04-15T00:24:32Z</updated>
+    <published>2015-04-15T00:24:32Z</published>
+    <summary type="html">&lt;p&gt;(AP) - The gravestone of Hillary Rodham Clinton's father has been found toppled over at a Pennsylvania cemetery.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T00:24:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>In NYC speech, Bill Clinton does not mention Hillary Rodham Clinton's presidential campaign</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/299779501.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T23:55:56Z</updated>
+    <published>2015-04-14T23:55:56Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton announced her candidacy Sunday with an online video and held her first low-key campaign events in Iowa hours before her husband spoke.&lt;/p&gt;</summary>
+    <dc:date>2015-04-14T23:55:56Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton Calls For Campaign Finance Constitutional Amendment</title>
@@ -1054,10 +961,10 @@
     <author>
       <name />
     </author>
-    <updated>2015-04-14T20:35:12Z</updated>
-    <published>2015-04-14T20:35:12Z</published>
+    <updated>2015-04-14T19:38:21Z</updated>
+    <published>2015-04-14T19:38:21Z</published>
     <summary type="html">&lt;p&gt;"Everyone knows that over time Hillary Clinton will raise enough to be competitive," said Tom Nides, a top Wall Street supporter and former State Department adviser to Clinton.&lt;/p&gt;</summary>
-    <dc:date>2015-04-14T20:35:12Z</dc:date>
+    <dc:date>2015-04-14T19:38:21Z</dc:date>
   </entry>
   <entry>
     <title>Clinton stops at Iowa coffee shop to kick off 2016 campaign</title>
@@ -1072,16 +979,15 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Clinton stops at Iowa coffee shop to kick off 2016 campaign</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Clinton-starts-Iowa-campaign-with-small-town-6197951.php" />
+    <title>Clinton Stops at Iowa Coffee Shop to Kick off 2016 Campaign</title>
+    <link rel="alternate" href="http://abcnews.go.com/Politics/wireStory/clinton-starts-iowa-campaign-small-town-meetings-30299684" />
     <author>
       <name />
     </author>
-    <updated>2015-04-14T17:09:03Z</updated>
-    <published>2015-04-14T17:09:03Z</published>
+    <updated>2015-04-14T17:10:17Z</updated>
+    <published>2015-04-14T17:10:17Z</published>
     <summary type="html">&lt;p&gt;During its first call with donors Monday, Hillary Clinton's team noted that some of those listening in helped President Barack Obama's campaigns, while others had raised money for Clinton's own White House bid in 2008.&lt;/p&gt;</summary>
-    <dc:date>2015-04-14T17:09:03Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/35/64/32/7816851/3/square_gallery_thumb.jpg" />
+    <dc:date>2015-04-14T17:10:17Z</dc:date>
   </entry>
   <entry>
     <title>Clinton stops at Iowa coffee shop to kick off 2016 campaign</title>
@@ -1096,6 +1002,30 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
+    <title>Hillary Clinton?s campaign comes back to Iowa, hoping for better result</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article18486902.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T14:53:25Z</updated>
+    <published>2015-04-14T14:53:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T14:53:25Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Hillary Clinton goes unnoticed in Ohio Chipotle</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/news/politics/2015/04/14/hillary-clinton-chipotle/25752159/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomnation-topstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T05:05:35Z</updated>
+    <published>2015-04-14T05:05:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T05:05:35Z</dc:date>
+    <media:content url="http://www.gannett-cdn.com/-mm-/6a5557fa83543669df06d83e17e021e6625faecc/c=1125-476-2390-1427&amp;amp;amp;r=x404&amp;amp;amp;c=534x401/local/-/media/2015/04/14/USATODAY/USATODAY/635645701228779431-AP-DEM-2016-Clinton-Benghazi.jpg" />
+  </entry>
+  <entry>
     <title>Hillary Clinton spotted at Chipotle in Ohio on way to Iowa</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-spotted-chipotle-ohio-iowa-article-1.2183907?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
     <author>
@@ -1105,17 +1035,6 @@
     <published>2015-04-13T22:37:31Z</published>
     <summary type="html" />
     <dc:date>2015-04-13T22:37:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Celebrities Are Wasting No Time to Endorse Hillary Clinton</title>
-    <link rel="alternate" href="http://nymag.com/daily/intelligencer/2015/04/plenty-of-celebrities-already-endorsing-hillary.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T20:35:37Z</updated>
-    <published>2015-04-13T20:35:37Z</published>
-    <summary type="html">&lt;p&gt;I like Hillary Clinton.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T20:35:37Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton surprises with early attack on CEO pay</title>
@@ -1142,30 +1061,31 @@
   </entry>
   <entry>
     <title>Hillary Clinton's long road back into presidential politics</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3037323/Hillary-Clintons-long-road-presidential-politics.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18406703.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-04-13T18:01:37Z</updated>
-    <published>2015-04-13T18:01:37Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this June 10, 2011, file photo, then-Secretary of State Hillary Rodham Clinton waves as the arrives at Lusaka International Airport in Lusaka, Zambia.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T18:01:37Z</dc:date>
+    <updated>2015-04-13T17:10:08Z</updated>
+    <published>2015-04-13T17:10:08Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this April 2, 2013, file photo Vice President Joe Biden and former Secretary of State Hillary Rodham Clinton are seen in Washington.&lt;/p&gt;&lt;p&gt;FILE - In this Dec. 1, 2008, file photo, then-Secretary of State-designate Sen. Hillary Rodham Clinton speaks during a news conference with President-elect Barack Obama in Chicago.&lt;/p&gt;&lt;p&gt;FILE - In this July 7, 2012, file photo, U.S. Secretary of State Hillary Rodham Clinton, left, speaks during a news conference with then-President of Afghanistan Hamid Karzai, at the Presidential Palace in Kabul.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T17:10:08Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Hillary Clinton's long road back into presidential politics</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Hillary-Clinton-s-long-road-back-into-6196495.php" />
+    <link rel="alternate" href="http://news.yahoo.com/hillary-clintons-long-road-back-presidential-politics-165954282--election.html" />
     <author>
       <name />
     </author>
-    <updated>2015-04-13T16:59:45Z</updated>
-    <published>2015-04-13T16:59:45Z</published>
+    <updated>2015-04-13T16:59:54Z</updated>
+    <published>2015-04-13T16:59:54Z</published>
     <summary type="html">&lt;p&gt;WASHINGTON (AP) - Hillary Rodham Clinton spent nearly two years tiptoeing around a decision to run for president that much of the political world assumed was a done deal.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T16:59:45Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/35/62/57/7810039/3/square_gallery_thumb.jpg" />
+    <dc:date>2015-04-13T16:59:54Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
   </entry>
   <entry>
     <title>Tea Party Republican Marco Rubio starts White House bid, takes aim at Hillary Clinton</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/us-election/tea-party-republican-marco-rubio-starts-white-house-bid-takes-aim-at-hillary-clinton-20150413-1mkdsx.html" />
+    <link rel="alternate" href="http://www.smh.com.au/world/tea-party-republican-marco-rubio-starts-white-house-bid-takes-aim-at-hillary-clinton-20150413-1mkdsx.html" />
     <author>
       <name />
     </author>
@@ -1173,7 +1093,7 @@
     <published>2015-04-13T16:55:22Z</published>
     <summary type="html" />
     <dc:date>2015-04-13T16:55:22Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/k/d/t/8/image.related.articleLeadwide.620x349.1mkdsx.png/1428943334754.jpg" />
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/k/d/t/8/image.related.articleLeadwide.620x349.1mkdsx.png/1428944114197.jpg" />
   </entry>
   <entry>
     <title>Tea Party Republican Marco Rubio starts White House bid, takes aim at Hillary Clinton</title>
@@ -1188,26 +1108,16 @@
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/k/d/t/8/image.related.articleLeadwide.620x349.1mkdsx.png/1428944114197.jpg" />
   </entry>
   <entry>
-    <title>Hillary Clinton: her life and career</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/hillary-clinton/11531679/Hillary-Clinton-her-life-and-career.html" />
+    <title>'Everyday Americans need a champion': Wealthy Hillary Clinton finally enters formal race to be president</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3035748/Everyday-Americans-need-champion-Wealthy-Hillary-Clinton-enters-race-president.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
     </author>
-    <updated>2015-04-13T06:30:21Z</updated>
-    <published>2015-04-13T06:30:21Z</published>
-    <summary type="html">&lt;p&gt;Senator Clinton voted to authorise president George W. Bush to use military force against Saddam Hussein in Iraq.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T06:30:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>CLINTON'S IN! Hillary announces 2016 White House bid</title>
-    <link rel="alternate" href="http://www.foxnews.com/politics/2015/04/12/clinton-announces-2016-white-house-bid/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-13T04:35:37Z</updated>
-    <published>2015-04-13T04:35:37Z</published>
-    <summary type="html">&lt;p&gt;"Give every family, every small business and every American a path to lasting prosperity by electing Hillary Clinton the next president of the United States," the memo in part stated.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T04:35:37Z</dc:date>
+    <updated>2015-04-13T03:01:37Z</updated>
+    <published>2015-04-13T03:01:37Z</published>
+    <summary type="html">&lt;p&gt;HILLARY CLINTON: 'I'm getting ready to do something too.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T03:01:37Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/22/277F432900000578-3035748-HILLARY_S_TURN_Mrs_Clinton_is_launching_a_second_bid_for_preside-a-5_1428873249434.jpg" />
   </entry>
   <entry>
     <title>Clinton takes road trip to Iowa for first campaign event</title>
@@ -1221,27 +1131,49 @@
     <dc:date>2015-04-13T02:30:00Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton Takes Road Trip To Iowa For First Campaign Event</title>
-    <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/12/hillary-clinton-road-trip_n_7052010.html" />
+    <title>Clinton takes road trip to Iowa for first campaign event</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/12/clinton-takes-road-trip-to-iowa-for-first/" />
     <author>
       <name />
     </author>
-    <updated>2015-04-13T02:25:16Z</updated>
-    <published>2015-04-13T02:25:16Z</published>
-    <summary type="html">&lt;p&gt;Longtime aide Huma Abedin tells Clinton alumni during a Sunday night conference call that it was Clinton's idea to make the roughly 1,000-mile trip to Iowa by van.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T02:25:16Z</dc:date>
-    <media:content url="http://i.huffpost.com/gen/2828614/images/n-HILLARY-CLINTON-large570.jpg" />
+    <updated>2015-04-13T02:25:10Z</updated>
+    <published>2015-04-13T02:25:10Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Hillary Rodham Clinton is hitting the road as she starts her 2016 presidential campaign - quite literally.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T02:25:10Z</dc:date>
   </entry>
   <entry>
-    <title>Clinton takes road trip to Iowa for first campaign event</title>
-    <link rel="alternate" href="http://news.yahoo.com/clinton-takes-road-trip-iowa-first-campaign-event-022516356--election.html" />
+    <title>Analyzing Hillary Clinton's 2016 campaign: 'It's not about me, it's about you'</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/chi-hillary-clintons-2016-campaign-its-not-about-me-its-about-you-20150412-story.html?track=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-04-13T02:25:16Z</updated>
-    <published>2015-04-13T02:25:16Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Hillary Rodham Clinton is hitting the road as she starts her 2016 presidential campaign - quite literally.&lt;/p&gt;</summary>
-    <dc:date>2015-04-13T02:25:16Z</dc:date>
+    <updated>2015-04-13T01:28:00Z</updated>
+    <published>2015-04-13T01:28:00Z</published>
+    <summary type="html">&lt;p&gt;If Hillary Rodham Clinton gets her way, there will be stark differences between her failed 2008 run for president and the White House campaign she embarked upon Sunday -- and not just the end result.&lt;/p&gt;&lt;p&gt;Hillary Rodham Clinton jumped back into presidential politics on Sunday, making a much-awaited announcement she will again seek the White House with a promise to serve as the "champion" of everyday Americans.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T01:28:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>CLINTON'S IN! Hillary announces 2016 White House bid</title>
+    <link rel="alternate" href="http://www.foxnews.com/politics/2015/04/12/clinton-announces-2016-white-house-bid/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T01:19:16Z</updated>
+    <published>2015-04-13T01:19:16Z</published>
+    <summary type="html">&lt;p&gt;"Give every family, every small business and every American a path to lasting prosperity by electing Hillary Clinton the next president of the United States," the memo in part stated.&lt;/p&gt;</summary>
+    <dc:date>2015-04-13T01:19:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Social media reacts to Hillary Clinton's bid to become US president</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/us-election/social-media-reacts-to-hillary-clintons-bid-to-become-us-president-20150413-1mjmfs.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T23:53:24Z</updated>
+    <published>2015-04-12T23:53:24Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton announces her campaign for president in a video posted to hillaryclinton.com on Sunday.&lt;/p&gt;&lt;p&gt;Hillary Clinton's logo reminds me of the FedEx arrow.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T23:53:24Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/j/n/p/h/image.related.articleLeadwide.620x349.1mjmfs.png/1428887216717.jpg" />
   </entry>
   <entry>
     <title>Social media reacts to Hillary Clinton's bid to become US president</title>
@@ -1263,7 +1195,7 @@
     </author>
     <updated>2015-04-12T22:49:33Z</updated>
     <published>2015-04-12T22:49:33Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton announces her campaign for president in a video posted to hillaryclinton.com on Sunday.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hillary Clinton's campaign website with that logo.&lt;/p&gt;</summary>
     <dc:date>2015-04-12T22:49:33Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/1/m/j/n/p/h/image.related.articleLeadwide.620x349.1mjmfs.png/1428887216717.jpg" />
   </entry>
@@ -1275,21 +1207,9 @@
     </author>
     <updated>2015-04-12T22:49:33Z</updated>
     <published>2015-04-12T22:49:33Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton's announcement that she will enter the 2016 race for the White House came in a two-minute video released in a social media blitz, in which she told the US public she wanted to be their "champion".&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-04-12T22:49:33Z</dc:date>
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/j/n/p/h/image.related.articleLeadwide.620x349.1mjmfs.png/1428882798333.jpg" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton for president: low-key high-tech announcement a sign of dominance</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/us-election/hillary-clinton-for-president-lowkey-hightech-announcement-a-sign-of-dominance-20150413-1mjlzq.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T21:57:54Z</updated>
-    <published>2015-04-12T21:57:54Z</published>
-    <summary type="html">&lt;p&gt;Former First Lady and former Secretary of State Hillary Clinton announces her presidential candidacy for the upcoming 2016 election.&lt;/p&gt;&lt;p&gt;Former US President Bill Clinton and daughter Chelsea listen as his wife US presidential candidate Senator Hillary Clinton speaks at a fundraising rally in New York.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T21:57:54Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/m/j/l/f/h/image.related.articleLeadwide.620x349.1mjlzq.png/1428900907970.jpg" />
   </entry>
   <entry>
     <title>Hillary Clinton for president: low-key high-tech announcement a sign of dominance</title>
@@ -1299,103 +1219,43 @@
     </author>
     <updated>2015-04-12T21:57:54Z</updated>
     <published>2015-04-12T21:57:54Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;Former First Lady and former Secretary of State Hillary Clinton announces her presidential candidacy for the upcoming 2016 election.&lt;/p&gt;&lt;p&gt;Former US President Bill Clinton and daughter Chelsea listen as his wife US presidential candidate Senator Hillary Clinton speaks at a fundraising rally in New York.&lt;/p&gt;</summary>
     <dc:date>2015-04-12T21:57:54Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/1/m/j/l/f/h/image.related.articleLeadwide.620x349.1mjlzq.png/1428878568042.jpg" />
   </entry>
   <entry>
-    <title>'Everyday Americans need a champion': Wealthy Hillary Clinton finally enters formal race to be president</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3035748/Everyday-Americans-need-champion-Wealthy-Hillary-Clinton-enters-race-president.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <title>Hillary Clinton Announces Presidential Campaign</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/economy-policy/2015/04/12/hillary-clinton-announces-presidential-campaign/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
     <author>
       <name />
     </author>
-    <updated>2015-04-12T21:01:43Z</updated>
-    <published>2015-04-12T21:01:43Z</published>
-    <summary type="html">&lt;p&gt;'Americans need a president they can trust and voters do not trust Hillary Clinton,' Republican National Committee Chairman Reince Priebus said in a statement.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T21:01:43Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/20/277F432900000578-0-image-m-21_1428866796920.jpg" />
+    <updated>2015-04-12T19:38:20Z</updated>
+    <published>2015-04-12T19:38:20Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T19:38:20Z</dc:date>
+    <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/markets/hillary-clinton-2014.jpg" />
   </entry>
   <entry>
-    <title>Hillary Clinton: 'I'm running for president'</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3036067/Hillary-Clinton-Im-running-president.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <title>Hillary Clinton says she's running for president in 2016, wants to be country's 'champion'</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11431723&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-04-12T20:01:47Z</updated>
-    <published>2015-04-12T20:01:47Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton launched her bid Sunday to become the first woman to win the White House, and announced a campaign tour to showcase her support for "everyday Americans."&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T20:01:47Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/article-doc-1o9kb-6Xk0ebrpl-HSK1-183_634x421.jpg" />
+    <updated>2015-04-12T19:15:13Z</updated>
+    <published>2015-04-12T19:15:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-12T19:15:13Z</dc:date>
   </entry>
   <entry>
-    <title>I&amp;#039;m running for president: Hillary Clinton</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/13/clinton-launches-2016-us-presidential-bid" />
+    <title>Hillary Clinton officially announces 2016 presidential run</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-officially-announces-2016-presidential-run-article-1.2182287" />
     <author>
       <name />
     </author>
-    <updated>2015-04-12T20:01:43Z</updated>
-    <published>2015-04-12T20:01:43Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton has jumped back into US presidential politics, announcing she will again seek the White House in 2016 with a promise to serve as the champion of "everyday Americans".&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T20:01:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Hillary Clinton jumps back into 2016 presidential race, wants to be country's 'champion'</title>
-    <link rel="alternate" href="http://www.startribune.com/politics/299482911.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T20:00:48Z</updated>
-    <published>2015-04-12T20:00:48Z</published>
-    <summary type="html">&lt;p&gt;"It would do her well electorally to be firmly on the side of average working people who are working harder than ever and still not getting ahead," said economist Robert Reich, a former labor secretary during the Clinton administration who has known Hillary Clinton for nearly five decades.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T20:00:48Z</dc:date>
-    <media:content url="http://stmedia.startribune.com/designimages/playBackIcon.png" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton announces her US presidential bid</title>
-    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/Hillary-Clinton-announces-her-US-presidential-bid/articleshow/46900818.cms" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T19:23:32Z</updated>
-    <published>2015-04-12T19:23:32Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK/WASHINGTON: Hillary Clinton promised to be a champion for everyday Americans on Sunday as she kicked off a long-awaited second run for the White House as the commanding Democratic front runner.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T19:23:32Z</dc:date>
-    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46900825,width-300,resizemode-4/Hillary-Clinton.jpg" />
-  </entry>
-  <entry>
-    <title>Second shot: Hillary Clinton to run again for president</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3035539/Middle-class-economics-focus-Clintons-bid.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T19:01:36Z</updated>
-    <published>2015-04-12T19:01:36Z</published>
-    <summary type="html">&lt;p&gt;John Podesta, a top adviser to Clinton, told alumni of her first presidential campaign in an email: "It's official: Hillary's running for president."&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T19:01:36Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/article-urn:publicid:ap.org:ee04f949c5054149aa3ccdaca2f84565-6XjxntOXfHSK2-825_634x422.jpg" />
-  </entry>
-  <entry>
-    <title>Second shot: Hillary Clinton running again for president</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/ap-sources-middle-class-economics-a-focus-of-clint/nkr2q/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T18:58:26Z</updated>
-    <published>2015-04-12T18:58:26Z</published>
-    <summary type="html">&lt;p&gt;Hillary Rodham Clinton jumped back into presidential politics on Sunday, as a top adviser announced her much-awaited second campaign for the White House.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T18:58:26Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/610/img/photos/2015/04/12/b4/5d/ee04f949c5054149aa3ccdaca2f84565-50105175cc7d470aa1b0467ac5f2367b-2.jpg" />
-  </entry>
-  <entry>
-    <title>Hillary Rodham Clinton enters White House race; Democrat seeks to be first female president</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/12/hillary-rodham-clinton-enters-white-house-race/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T18:51:44Z</updated>
-    <published>2015-04-12T18:51:44Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Hillary Rodham Clinton enters White House race; Democrat seeks to be first female president.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T18:51:44Z</dc:date>
+    <updated>2015-04-12T18:55:28Z</updated>
+    <published>2015-04-12T18:55:28Z</published>
+    <summary type="html">&lt;p&gt;It's official: Hillary Clinton is running for president.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T18:55:28Z</dc:date>
   </entry>
   <entry>
     <title>Second shot: Hillary Clinton set to run again for president</title>
@@ -1405,20 +1265,32 @@
     </author>
     <updated>2015-04-12T17:11:32Z</updated>
     <published>2015-04-12T17:11:32Z</published>
-    <summary type="html">&lt;p&gt;"I would expect Hillary Clinton if she believes in women's rights, she should be calling for a boycott of Saudi Arabia," Paul said on NBC's "Meet the Press."&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-04-12T17:11:32Z</dc:date>
     <media:content url="https://s1.yimg.com/uu/api/res/1.2/hq_y7WB6uuHdhHHt3Hlvjg--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/41de6c3bf6ea94073a803ecacbcfc545" />
   </entry>
   <entry>
-    <title>Everything You Need to Know About Hillary Clinton</title>
-    <link rel="alternate" href="http://abcnews.go.com/Politics/meet-hillary-clinton-didnt-prospective-2016-presidential-candidate/story?id=30232350" />
+    <title>Hillary Clinton poised to step back into US presidential fray</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/us-election/hillary-clinton-poised-to-step-back-into-us-presidential-fray-20150412-1mjkcc.html" />
     <author>
       <name />
     </author>
-    <updated>2015-04-12T11:04:02Z</updated>
-    <published>2015-04-12T11:04:02Z</published>
+    <updated>2015-04-12T11:31:27Z</updated>
+    <published>2015-04-12T11:31:27Z</published>
     <summary type="html" />
-    <dc:date>2015-04-12T11:04:02Z</dc:date>
+    <dc:date>2015-04-12T11:31:27Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/j/k/g/g/image.related.articleLeadwide.620x349.1mjkcc.png/1428838039513.jpg" />
+  </entry>
+  <entry>
+    <title>US awaits Hillary's presidential bid</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au//breaking-news-world/us-awaits-hillarys-presidential-bid-20150412-3tx19.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T06:23:24Z</updated>
+    <published>2015-04-12T06:23:24Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton is expected to announce her candidacy for US president, ending prolonged speculation that she once again seeks to become the first woman elected to the White House.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T06:23:24Z</dc:date>
   </entry>
   <entry>
     <title>President Obama says Hillary Clinton would make 'an excellent president'</title>
@@ -1431,18 +1303,6 @@
     <summary type="html">&lt;p&gt;Hillary Clinton would make a fine US president, Barack Obama told reporters on Saturday, on the eve of the expected launch of her candidacy for the Democratic Party's nod in 2016.&lt;/p&gt;</summary>
     <dc:date>2015-04-12T03:01:34Z</dc:date>
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/03/2779134C00000578-3035413-image-a-6_1428805528728.jpg" />
-  </entry>
-  <entry>
-    <title>Hillary Rodham Clinton's campaign to focus on economic security, opportunity</title>
-    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/Hillary-Rodham-Clintons-campaign-to-focus-on-economic-security-opportunity/articleshow/46893796.cms" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T01:32:31Z</updated>
-    <published>2015-04-12T01:32:31Z</published>
-    <summary type="html">&lt;p&gt;Hillary Rodham Clinton's presidential campaign will center on boosting economic security for the middle class and expanding opportunities for working families.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T01:32:31Z</dc:date>
-    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46893799,width-300,resizemode-4/Hillary-Clintons-campaign-to-focus-on-economic-security.jpg" />
   </entry>
   <entry>
     <title>Clinton campaign to focus on economic security, opportunity</title>
@@ -1470,15 +1330,14 @@
   </entry>
   <entry>
     <title>Obama: Hillary Clinton would be an 'excellent president'</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/11/obama-hillary-clinton-would-be-an-excellent-president" />
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Obama-Hillary-Clinton-would-be-an-excellent-6193943.php" />
     <author>
       <name />
     </author>
     <updated>2015-04-11T22:58:22Z</updated>
     <published>2015-04-11T22:58:22Z</published>
-    <summary type="html">&lt;p&gt;PANAMA CITY (AP) - President Barack Obama says he thinks Hillary Rodham Clinton would be "an excellent president."&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-04-11T22:58:22Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/4a2c21b/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2F56%2Fbd%2F53c7917345d3a14110a1d1a64a0a%2Fresizes%2F500%2Fap278800513483-9.jpg" />
   </entry>
   <entry>
     <title>In second campaign, Hillary Clinton to focus on middle-class economic security and opportunity</title>
@@ -1492,39 +1351,28 @@
     <dc:date>2015-04-11T22:40:46Z</dc:date>
   </entry>
   <entry>
-    <title>Everything You Need to Know About Hillary Clinton</title>
-    <link rel="alternate" href="http://abcnews.go.com/Politics/meet-hillary-clinton-didnt-prospective-2016-presidential-candidate/story?id=30232350" />
+    <title>In second campaign, Hillary Clinton to focus on middle-class economic security and opportunity</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/299458141.html" />
     <author>
       <name />
     </author>
-    <updated>2015-04-11T20:11:40Z</updated>
-    <published>2015-04-11T20:11:40Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-11T20:11:40Z</dc:date>
+    <updated>2015-04-11T21:00:25Z</updated>
+    <published>2015-04-11T21:00:25Z</published>
+    <summary type="html">&lt;p&gt;CHICAGO - Hillary Rodham Clinton's presidential campaign will center on boosting middle-class economic security and broadening opportunities for working families.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T21:00:25Z</dc:date>
+    <media:content url="http://stmedia.startribune.com/designimages/playBackIcon.png" />
   </entry>
   <entry>
-    <title>Potential Dem rivals to Hillary Clinton plug away in Iowa</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article18263894.html%23storylink=rss" />
+    <title>Hillary Clinton Campaign To Focus On Economic Security, Opportunity</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/04/11/hillary-clinton-campaign_n_7047224.html" />
     <author>
       <name />
     </author>
-    <updated>2015-04-11T15:10:05Z</updated>
-    <published>2015-04-11T15:10:05Z</published>
+    <updated>2015-04-11T20:38:10Z</updated>
+    <published>2015-04-11T20:38:10Z</published>
     <summary type="html" />
-    <dc:date>2015-04-11T15:10:05Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Potential Dem rivals to Hillary Clinton plug away in Iowa</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18263894.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-11T15:10:05Z</updated>
-    <published>2015-04-11T15:10:05Z</published>
-    <summary type="html">&lt;p&gt;"Because from the news media, Hillary Clinton's already been elected."&lt;/p&gt;</summary>
-    <dc:date>2015-04-11T15:10:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+    <dc:date>2015-04-11T20:38:10Z</dc:date>
+    <media:content url="http://i.huffpost.com/gen/2826922/images/n-HILLARY-large570.jpg" />
   </entry>
   <entry>
     <title>Potential Dem rivals to Hillary Clinton plug away in Iowa</title>
@@ -1546,9 +1394,21 @@
     </author>
     <updated>2015-04-11T14:33:02Z</updated>
     <published>2015-04-11T14:33:02Z</published>
-    <summary type="html">&lt;p&gt;DES MOINES, Iowa (AP) - The Hillary Rodham Clinton juggernaut is coming to Iowa.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;"Because from the news media, Hillary Clinton's already been elected."&lt;/p&gt;</summary>
     <dc:date>2015-04-11T14:33:02Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/yasHqZc297WWyRlG5cBpMQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/5f2df87a43b15c10730f6a706700a8c5.jpg" />
+  </entry>
+  <entry>
+    <title>Potential Dem rivals to Hillary Clinton plug away in Iowa</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/11/potential-dem-rivals-to-hillary-clinton-plug-away/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T14:32:42Z</updated>
+    <published>2015-04-11T14:32:42Z</published>
+    <summary type="html">&lt;p&gt;DES MOINES, Iowa (AP) - The Hillary Rodham Clinton juggernaut is coming to Iowa.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T14:32:42Z</dc:date>
+    <media:content url="http://media.utsandiego.com/img/photos/2015/04/11/5f2df87a43b15c10730f6a706700a8c5_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
   </entry>
   <entry>
     <title>5 Facts About Hillary Clinton's Faith</title>
@@ -1564,15 +1424,70 @@
   </entry>
   <entry>
     <title>GOP hopefuls give NRA event an earful on Hillary Clinton</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18050342.html%23storylink=rss" />
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/10/parade-of-likely-gop-presidential-candidates-to-speak-to-nra" />
     <author>
       <name />
     </author>
-    <updated>2015-04-10T21:25:11Z</updated>
-    <published>2015-04-10T21:25:11Z</published>
-    <summary type="html">&lt;p&gt;The specter of Hillary Rodham Clinton's imminent presidential campaign dropped like a gift from the heavens at the National Rifle Association's annual convention Friday.&lt;/p&gt;&lt;p&gt;"Hillary Rodham Clinton will bring a permanent darkness of deceit and despair forced upon the American people to endure," LaPierre said.&lt;/p&gt;&lt;p&gt;Former Florida Gov. Jeb Bush decried the "liberal, progressive worldview of Barack Obama and Hillary Clinton and Eric Holder, and all of the other people who want to take the guns out of the hands of the good guys."&lt;/p&gt;</summary>
-    <dc:date>2015-04-10T21:25:11Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+    <updated>2015-04-10T22:35:39Z</updated>
+    <published>2015-04-10T22:35:39Z</published>
+    <summary type="html">&lt;p&gt;"Hillary Rodham Clinton will bring a permanent darkness of deceit and despair forced upon the American people to endure," LaPierre said.&lt;/p&gt;&lt;p&gt;Former Florida Gov. Jeb Bush decried the "liberal, progressive worldview of Barack Obama and Hillary Clinton and Eric Holder, and all of the other people who want to take the guns out of the hands of the good guys."&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T22:35:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>GOP hopefuls give NRA event an earful on Hillary Clinton</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Parade-of-likely-GOP-presidential-candidates-to-6190889.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T21:13:49Z</updated>
+    <published>2015-04-10T21:13:49Z</published>
+    <summary type="html">&lt;p&gt;(AP) - The specter of Hillary Rodham Clinton's imminent presidential campaign dropped like a gift from the heavens at the National Rifle Association's annual convention Friday.&lt;/p&gt;&lt;p&gt;"People like Hillary Clinton seem to think you measure success in government by how many people are dependent on the government," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T21:13:49Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/60/07/7799236/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>GOP hopefuls give NRA event an earful on Hillary Clinton</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/political/parade-of-likely-gop-presidential-candidates-to-sp/nkq55/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T21:13:49Z</updated>
+    <published>2015-04-10T21:13:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T21:13:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>GOP hopefuls give NRA event an earful on Hillary Clinton</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/10/parade-of-likely-gop-presidential-candidates-to-speak-to-nra" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T21:13:49Z</updated>
+    <published>2015-04-10T21:13:49Z</published>
+    <summary type="html">&lt;p&gt;"Hillary Clinton has already made it clear she'll be on the side of elitism."&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T21:13:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>GOP speakers at NRA event take aim at Hillary Clinton</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/10/parade-of-likely-gop-presidential-candidates-to-speak-to-nra" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T19:46:26Z</updated>
+    <published>2015-04-10T19:46:26Z</published>
+    <summary type="html">&lt;p&gt;(AP) - The expected announcement of Hillary Rodham Clinton's presidential campaign has quickly become a center of attention at the National Rifle Association's annual convention.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T19:46:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>GOP speakers at NRA event take aim at Hillary Clinton</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/political/parade-of-likely-gop-presidential-candidates-to-sp/nkq55/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T19:46:26Z</updated>
+    <published>2015-04-10T19:46:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T19:46:26Z</dc:date>
   </entry>
   <entry>
     <title>Clinton expected to announce White House run on Sunday</title>
@@ -1597,6 +1512,18 @@
     <dc:date>2015-04-10T18:01:39Z</dc:date>
   </entry>
   <entry>
+    <title>White House Brief: Things to know about Hillary Clinton</title>
+    <link rel="alternate" href="http://news.yahoo.com/white-house-brief-things-know-hillary-clinton-175143262--election.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T17:51:43Z</updated>
+    <published>2015-04-10T17:51:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T17:51:43Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/s4rVKqG8tag2y8hK9DghUw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/70ab85281ac94510730f6a70670044bf.jpg" />
+  </entry>
+  <entry>
     <title>Hillary Clinton to announce presidential campaign on Sunday</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11431014&amp;amp;ref=rss" />
     <author>
@@ -1608,16 +1535,27 @@
     <dc:date>2015-04-10T13:25:12Z</dc:date>
   </entry>
   <entry>
-    <title>Reports: Clinton to announce White House run Sunday</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/10/clinton-announce.html" />
+    <title>Is Hillary Clinton announcing her candidacy soon?</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/is-hillary-clinton-announcing-her-candidacy-soon/" />
     <author>
       <name />
     </author>
-    <updated>2015-04-10T11:22:00Z</updated>
-    <published>2015-04-10T11:22:00Z</published>
-    <summary type="html">&lt;p&gt;Former U.S. Secretary of State Hillary Clinton delivers remarks at a ceremony for the 2015 Toner Prize for Excellence in Political Reporting award in Washington, D.C. on March 23, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-04-10T11:22:00Z</dc:date>
-    <media:content url="http://america.aljazeera.com/content/ajam/opinions/2014/6/hillary-clinton-agehealthgopkarlrove/_jcr_content/image.adapt.480.low.hillary_clinton_a.jpg" />
+    <updated>2015-04-10T12:01:34Z</updated>
+    <published>2015-04-10T12:01:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-10T12:01:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Location of Hillary Clinton's campaign launch heavy with symbolism</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/location-of-hillary-clintons-campaign-launch-heavy-with-symbolism-20150410-1mhzsl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T03:28:30Z</updated>
+    <published>2015-04-10T03:28:30Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton with New York children earlier this month.&lt;/p&gt;&lt;p&gt;But for Hillary Rodham Clinton, the stagecraft of the launch is fraught.&lt;/p&gt;&lt;p&gt;Hillary Rodham Clinton caps this month, ready for the launch.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T03:28:30Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/i/2/r/f/image.related.articleLeadwide.620x349.1mhzsl.png/1428636490866.jpg" />
   </entry>
   <entry>
     <title>Hillary Clinton rumoured to be announcing 2016 U.S. presidential run this weekend</title>
@@ -1673,9 +1611,31 @@
     </author>
     <updated>2015-04-09T13:39:40Z</updated>
     <published>2015-04-09T13:39:40Z</published>
-    <summary type="html">&lt;p&gt;The Quinnipiac University Swing State Poll also showed Clinton in a close race with U.S. Senator Rand Paul, the Kentucky Republican who declared his candidacy on Tuesday.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The Quinnipiac University Swing State Poll also showed Clinton in a close race with U.S. Senator Rand Paul, the Kentucky Republican who declared his candidacy on Tuesday.&lt;/p&gt;&lt;p&gt;Clinton, who is expected to announce her White House bid this month, is tied with all the Republican candidates in Colorado and almost all of them in the early voting state of Iowa, the poll said.&lt;/p&gt;</summary>
     <dc:date>2015-04-09T13:39:40Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/bK8yfDI8k95P0IxEZNOgfw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-04-09T133940Z_1_LYNXMPEB380MT_RTROPTP_2_USA-ELECTION-PAUL.JPG" />
+  </entry>
+  <entry>
+    <title>UPDATE 1-Hillary Clinton hires Google executive as tech chief</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/usa-election-clinton-digital-idUSL2N0X51L820150408?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T17:16:29Z</updated>
+    <published>2015-04-08T17:16:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T17:16:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>Bill Clinton says in interview he expects to be a 'backstage adviser' in Hillary Clinton bid</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/298924721.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T17:50:19Z</updated>
+    <published>2015-04-07T17:50:19Z</published>
+    <summary type="html">&lt;p&gt;"I think it's important, and Hillary does too, that she go out there as if she's never run for anything before and establish her connection with the voters," Clinton said.&lt;/p&gt;&lt;p&gt;Asked about his role if Hillary Clinton is elected president, Bill Clinton said he would "have to assess what she wants me to do" but "we might have to change the (foundation) rules again."&lt;/p&gt;&lt;p&gt;When Hillary Clinton became President Barack Obama's secretary of state in 2009, the foundation agreed to stop raising money from foreign governments but the Washington Post reported in February that some foreign governments continued to donate while she was in the Obama administration.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T17:50:19Z</dc:date>
   </entry>
   <entry>
     <title>China peeved as Hillary Clinton denounces women?s detention</title>
@@ -1685,24 +1645,35 @@
     </author>
     <updated>2015-04-07T09:03:08Z</updated>
     <published>2015-04-07T09:03:08Z</published>
-    <summary type="html">&lt;p&gt;China peeved as Hillary Clinton denounces women's detention Add to...&lt;/p&gt;&lt;p&gt;China called on other countries on Tuesday to respect its judicial sovereignty after U.S. former Secretary of State Hillary Clinton denounced as "inexcusable" the detention of five women activists.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-04-07T09:03:08Z</dc:date>
   </entry>
   <entry>
-    <title>U.S. Clinton campaign signed lease for Brooklyn HQ: source</title>
-    <link rel="alternate" href="http://news.yahoo.com/clinton-campaign-signed-lease-brooklyn-hq-report-131900269.html" />
+    <title>China peeved as Hillary Clinton denounces women's detention</title>
+    <link rel="alternate" href="http://news.yahoo.com/china-peeved-hillary-clinton-denounces-womens-detention-082932184.html" />
     <author>
       <name />
     </author>
-    <updated>2015-04-03T16:47:44Z</updated>
-    <published>2015-04-03T16:47:44Z</published>
-    <summary type="html">&lt;p&gt;Former U.S. Secretary of State Hillary Clinton in Washington March 23, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-04-03T16:47:44Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/3sGD4v8muTCNpfLSzsoh5w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/Part-WAS-Was8913621-1-1-0.jpg.cf.jpg" />
+    <updated>2015-04-07T09:02:52Z</updated>
+    <published>2015-04-07T09:02:52Z</published>
+    <summary type="html">&lt;p&gt;BEIJING (Reuters) - China called on other countries on Tuesday to respect its judicial sovereignty after U.S. former Secretary of State Hillary Clinton denounced as "inexcusable" the detention of five women activists.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T09:02:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>High political stakes for Clinton on Iran nuclear agreement</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article17378381.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T13:26:46Z</updated>
+    <published>2015-04-04T13:26:46Z</published>
+    <summary type="html">&lt;p&gt;Hillary Rodham Clinton can claim a piece of the victory if the U.S. and other world powers ultimately finalize a nuclear agreement with Iran.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T13:26:46Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Hillary Clinton?s campaign signs lease for Brooklyn Heights</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-campaign-signs-lease-brooklyn-heights-article-1.2172344" />
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-campaign-signs-lease-brooklyn-heights-article-1.2172344?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>
       <name />
     </author>
@@ -1712,27 +1683,16 @@
     <dc:date>2015-04-03T16:44:18Z</dc:date>
   </entry>
   <entry>
-    <title>Clinton campaign headquarters expected in Brooklyn</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/03/clinton-campaign-headquarters-expected-in-brooklyn" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-03T15:43:31Z</updated>
-    <published>2015-04-03T15:43:31Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Hillary Rodham Clinton has signed a lease in a Brooklyn, New York, building for what is expected to house her presidential campaign headquarters.&lt;/p&gt;</summary>
-    <dc:date>2015-04-03T15:43:31Z</dc:date>
-  </entry>
-  <entry>
     <title>Bogus Hillary Clinton website highlights online perils for 2016 candidates</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/02/us-usa-election-domains-idUSKBN0MT21O20150402?feedType=RSS&amp;amp;feedName=politicsNews" />
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3023574/Bogus-Hillary-Clinton-website-highlights-online-perils-2016-candidates.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
     </author>
-    <updated>2015-04-02T18:44:20Z</updated>
-    <published>2015-04-02T18:44:20Z</published>
+    <updated>2015-04-02T19:10:15Z</updated>
+    <published>2015-04-02T19:10:15Z</published>
     <summary type="html" />
-    <dc:date>2015-04-02T18:44:20Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources_v2/images/rcom-logo-hdr.png" />
+    <dc:date>2015-04-02T19:10:15Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/01/23/27349DDD00000578-0-image-m-2_1427928508604.jpg" />
   </entry>
   <entry>
     <title>Senate Republicans: Clinton emails 'probably' broke law</title>
@@ -1746,16 +1706,15 @@
     <dc:date>2015-04-02T17:41:54Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton dodges Brooklyn campaign headquarters talk</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article17151485.html%23storylink=rss" />
+    <title>Senate Republicans: Clinton emails 'probably' broke law</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/02/senate-republicans-clinton-emails-probably-broke-law" />
     <author>
       <name />
     </author>
-    <updated>2015-04-01T23:26:51Z</updated>
-    <published>2015-04-01T23:26:51Z</published>
-    <summary type="html">&lt;p&gt;Hillary Rodham Clinton, upper right, listens as children at an early childhood development center play music for her during a visit to the center in the Brooklyn borough of New York, Wednesday, April 1, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-04-01T23:26:51Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+    <updated>2015-04-02T17:41:54Z</updated>
+    <published>2015-04-02T17:41:54Z</published>
+    <summary type="html">&lt;p&gt;Cornyn says he wants the State Department's inspector general to investigate whether Clinton violated federal law or policy.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T17:41:54Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton dodges Brooklyn campaign headquarters talk</title>
@@ -1765,7 +1724,7 @@
     </author>
     <updated>2015-04-01T23:26:51Z</updated>
     <published>2015-04-01T23:26:51Z</published>
-    <summary type="html">&lt;p&gt;Hillary Rodham Clinton visits FirstStepNYC, an early childhood development center in the Brownsville neighborhood of Brooklyn in New York, Wednesday, April 1, 2015.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hillary Rodham Clinton, upper right, listens as children at an early childhood development center play music for her during a visit to the center in the Brooklyn borough of New York, Wednesday, April 1, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-04-01T23:26:51Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
@@ -1777,24 +1736,35 @@
     </author>
     <updated>2015-04-01T21:16:01Z</updated>
     <published>2015-04-01T21:16:01Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - Hillary Rodham Clinton is playfully dodging talk about where her Democratic presidential campaign headquarters might be.&lt;/p&gt;</summary>
     <dc:date>2015-04-01T21:16:01Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/35/44/46/7752087/5/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>'INTERVIEW' REQUEST: House panel asks Clinton to explain deleted emails</title>
-    <link rel="alternate" href="http://www.foxnews.com/politics/2015/03/31/benghazi-committee-requests-clinton-submit-to-interview-about-private-deleted/" />
+    <title>Hillary Clinton urges Arkansas governor to veto state bill on religious objections</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/298322341.html" />
     <author>
       <name />
     </author>
-    <updated>2015-03-31T19:38:34Z</updated>
-    <published>2015-03-31T19:38:34Z</published>
-    <summary type="html">&lt;p&gt;Trey Gowdy, R-S.C., made the request in a letter sent Tuesday to Clinton's lawyer.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T19:38:34Z</dc:date>
+    <updated>2015-04-01T16:06:01Z</updated>
+    <published>2015-04-01T16:06:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-01T16:06:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton urges Arkansas governor to veto state bill on religious objections</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/298322341.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T16:06:01Z</updated>
+    <published>2015-04-01T16:06:01Z</published>
+    <summary type="html">&lt;p&gt;Her husband, former President Bill Clinton, was Arkansas governor for more than a decade.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T16:06:01Z</dc:date>
   </entry>
   <entry>
     <title>U.S. House committee seeks to interview Hillary Clinton over emails</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/03/31/us-usa-politics-clinton-idUSKBN0MR1W020150331?feedType=RSS&amp;amp;feedName=politicsNews" />
+    <link rel="alternate" href="http://news.yahoo.com/u-house-committee-seeks-interview-hillary-clinton-over-145240379.html" />
     <author>
       <name />
     </author>
@@ -1802,18 +1772,41 @@
     <published>2015-03-31T17:59:04Z</published>
     <summary type="html">&lt;p&gt;WASHINGTON (Reuters) - A U.S. House committee is seeking a private interview with former Secretary of State Hillary Clinton over her use of private email and a personal computer server while at the State Department, the panel said in a letter released on Tuesday.&lt;/p&gt;</summary>
     <dc:date>2015-03-31T17:59:04Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150331&amp;amp;t=2&amp;amp;i=1036866960&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB2U0QO" />
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/EppqJXPP1BBHeO_JkSHfjQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-03-31T145240Z_1_LYNXMPEB2U0QO_RTROPTP_2_USA-POLITICS-CLINTON.JPG" />
   </entry>
   <entry>
-    <title>Hillary Clinton also used iPad for email; mixed personal, work chats</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/politics/hillary-clinton-also-used-ipad-for-email-mixed-personal-work-chats-1.2305349" />
+    <title>Hillary Clinton used her iPad for email at State</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/hillary-clinton-ipad-phone-email-despite-preference-single-device/" />
     <author>
       <name />
     </author>
-    <updated>2015-03-31T11:36:44Z</updated>
-    <published>2015-03-31T11:36:44Z</published>
+    <updated>2015-03-31T13:46:16Z</updated>
+    <published>2015-03-31T13:46:16Z</published>
     <summary type="html" />
-    <dc:date>2015-03-31T11:36:44Z</dc:date>
+    <dc:date>2015-03-31T13:46:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton also used iPad for email</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/news/nation/2015/03/31/hilary-clinton-email/70708314/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomnation-topstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T06:56:03Z</updated>
+    <published>2015-03-31T06:56:03Z</published>
+    <summary type="html">&lt;p&gt;Clinton at that time could have potentially split her accounts, reverting to an official State.gov e-mail account and BlackBerry for work and leaving her personal e-mail on her iPad.&lt;/p&gt;&lt;p&gt;It's not clear how Clinton handled e-mails that mixed personal and official business, such as the exchange with Abedin.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T06:56:03Z</dc:date>
+    <media:content url="http://www.gannett-cdn.com/-mm-/eef41bdb8585a496a25ce067dddb5114e072b2b1/c=0-20-2551-3421&amp;amp;amp;r=537&amp;amp;amp;c=0-0-534-712/local/-/media/2015/03/31/USATODAY/USATODAY/635633671179129498-AP-DEM-2016-Clinton.jpg" />
+  </entry>
+  <entry>
+    <title>Clinton advisers traveling to New Hampshire, Iowa</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/political/clinton-advisers-traveling-to-new-hampshire-iowa/nkh5Z/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T22:27:49Z</updated>
+    <published>2015-03-30T22:27:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-30T22:27:49Z</dc:date>
   </entry>
   <entry>
     <title>Clinton advisers traveling to New Hampshire, Iowa</title>
@@ -1827,6 +1820,17 @@
     <dc:date>2015-03-30T22:13:01Z</dc:date>
   </entry>
   <entry>
+    <title>Hillary Clinton says US-Israel relationship needs to return to 'constructive footing'</title>
+    <link rel="alternate" href="http://www.startribune.com/politics/298010521.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T15:46:49Z</updated>
+    <published>2015-03-30T15:46:49Z</published>
+    <summary type="html">&lt;p&gt;Clinton said the U.S. and Israel need to get back to shared concerns and interests, including a negotiated two-state solution, according to the Conference of Presidents of Major American Jewish Organizations.&lt;/p&gt;&lt;p&gt;"Secretary Clinton thinks we need to all work together to return the special US-Israel relationship to constructive footing," the group's executive vice chairman, Malcolm Hoenlein, said in the statement quoting Clinton's comments.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T15:46:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Musical about Bill, Hillary Clinton to make off-Broadway debut</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/musical-about-bill-hillary-clinton-to-make-off-broadway-debut/" />
     <author>
@@ -1834,20 +1838,8 @@
     </author>
     <updated>2015-03-27T18:11:51Z</updated>
     <published>2015-03-27T18:11:51Z</published>
-    <summary type="html">&lt;p&gt;Kerry Butler, the Tony Award-nominated star of "Xanadu," will play Hillary Rodham Clinton just as the former secretary of state debates whether to run her own presidential campaign in 2016.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Kerry Butler, the Tony Award-nominated star of "Xanadu," will play Hillary Rodham Clinton just as the former secretary of state debates whether to run her own presidential campaign in 2016.&lt;/p&gt;&lt;p&gt;The Hodge brothers kept an eye on Hillary Clinton's career as they wrote the show, reworking her part and throwing in topical humor, like jokes about her email.&lt;/p&gt;</summary>
     <dc:date>2015-03-27T18:11:51Z</dc:date>
-  </entry>
-  <entry>
-    <title>Preparing for 2016 campaign, Hillary Clinton embracing Obama</title>
-    <link rel="alternate" href="http://news.yahoo.com/preparing-2016-campaign-hillary-clinton-embracing-obama-155800510--election.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-25T16:03:05Z</updated>
-    <published>2015-03-25T16:03:05Z</published>
-    <summary type="html">&lt;p&gt;Hillary and Bill Clinton know firsthand what it's like to be in the White House when an ally is running for the Oval Office.&lt;/p&gt;</summary>
-    <dc:date>2015-03-25T16:03:05Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/GbS_oOhhKZloNcZFLAuL5w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/f78e68558754c40d710f6a706700e528.jpg" />
   </entry>
   <entry>
     <title>Preparing for 2016 campaign, Hillary Clinton embracing Obama</title>
@@ -1862,6 +1854,17 @@
     <media:content url="http://ww3.hdnux.com/photos/35/33/11/7713374/3/square_gallery_thumb.jpg" />
   </entry>
   <entry>
+    <title>Preparing for 2016 Campaign, Hillary Clinton Embracing Obama</title>
+    <link rel="alternate" href="http://abcnews.go.com/Politics/wireStory/preparing-2016-campaign-hillary-clinton-embracing-obama-29897618" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T15:57:23Z</updated>
+    <published>2015-03-25T15:57:23Z</published>
+    <summary type="html">&lt;p&gt;Hillary and Bill Clinton know firsthand what it's like to be in the White House when an ally is running for the Oval Office.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T15:57:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Preparing for 2016 campaign, Hillary Clinton embracing Obama</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/mar/25/preparing-for-2016-campaign-hillary-clinton/" />
     <author>
@@ -1869,7 +1872,7 @@
     </author>
     <updated>2015-03-25T15:56:18Z</updated>
     <published>2015-03-25T15:56:18Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Rather than keeping him at arm's length, Hillary Rodham Clinton is embracing President Barack Obama - sometimes even literally.&lt;/p&gt;&lt;p&gt;On Monday, a few hours after meeting Obama at the White House, Clinton tweeted a list of accomplishments of the president's health care law on its fifth anniversary.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-03-25T15:56:18Z</dc:date>
     <media:content url="http://media.utsandiego.com/img/photos/2015/03/25/f78e68558754c40d710f6a706700e528_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
   </entry>
@@ -1881,33 +1884,32 @@
     </author>
     <updated>2015-03-25T15:56:18Z</updated>
     <published>2015-03-25T15:56:18Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Rather than keeping him at arm's length, Hillary Rodham Clinton is embracing President Barack Obama - sometimes even literally.&lt;/p&gt;</summary>
     <dc:date>2015-03-25T15:56:18Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/c664701/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2F31%2F12%2Fefb873234c6f8055960f1f4360f0%2Fresizes%2F500%2Fthumb-3.jpg" />
   </entry>
   <entry>
-    <title>Clinton makes light of press coverage at media awards event</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/03/24/us-usa-election-clinton-press-idUSKBN0MK03420150324?feedType=RSS&amp;amp;feedName=politicsNews" />
+    <title>Hillary Clinton seeks 'new beginning'</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/03/23/politics/hillary-clinton-2016-election-press/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_allpolitics+%28RSS%3A+Politics%29" />
     <author>
       <name />
     </author>
-    <updated>2015-03-24T01:15:32Z</updated>
-    <published>2015-03-24T01:15:32Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (Reuters) - Likely U.S. presidential candidate Hillary Clinton made light of her sometimes contentious relationship with the press during an appearance at a journalism awards ceremony Monday night.&lt;/p&gt;</summary>
-    <dc:date>2015-03-24T01:15:32Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150324&amp;amp;t=2&amp;amp;i=1034803102&amp;amp;w=580&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB2N00S" />
+    <updated>2015-03-24T13:49:09Z</updated>
+    <published>2015-03-24T13:49:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-24T13:49:09Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/141229162900-clintons-split-story-top.png" />
   </entry>
   <entry>
-    <title>Obama, Hillary Clinton meet privately at the White House</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/03/23/obama-hillary-clinton-meet-privately-at-the-white-house" />
+    <title>Clinton makes light of press coverage at media awards event</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3008621/Clinton-makes-light-press-coverage-media-awards-event.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
     </author>
-    <updated>2015-03-23T22:33:51Z</updated>
-    <published>2015-03-23T22:33:51Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - President Barack Obama and Hillary Rodham Clinton met privately at the White House Monday afternoon.&lt;/p&gt;</summary>
-    <dc:date>2015-03-23T22:33:51Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/c664701/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2F31%2F12%2Fefb873234c6f8055960f1f4360f0%2Fresizes%2F500%2Fthumb-3.jpg" />
+    <updated>2015-03-24T01:12:26Z</updated>
+    <published>2015-03-24T01:12:26Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON, March 23 (Reuters) - Likely U.S. presidential candidate Hillary Clinton made light of her sometimes contentious relationship with the press during an appearance at a journalism awards ceremony Monday night.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T01:12:26Z</dc:date>
   </entry>
   <entry>
     <title>Obama, Hillary Clinton meet privately at the White House</title>
@@ -1917,9 +1919,32 @@
     </author>
     <updated>2015-03-23T22:33:51Z</updated>
     <published>2015-03-23T22:33:51Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - President Barack Obama and Hillary Rodham Clinton met privately at the White House Monday afternoon.&lt;/p&gt;</summary>
     <dc:date>2015-03-23T22:33:51Z</dc:date>
     <media:content url="http://ww1.hdnux.com/photos/35/22/04/7676212/3/landscape_32.jpg" />
+  </entry>
+  <entry>
+    <title>Rand Paul urges Clinton to return foreign government money</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3003719/Rand-Paul-returns-NH-expanded-staff-state.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T20:17:34Z</updated>
+    <published>2015-03-20T20:17:34Z</published>
+    <summary type="html">&lt;p&gt;MANCHESTER, N.H. (AP) - Sen. Rand Paul on Friday urged Hillary Rodham Clinton to return donations several foreign governments made to her family's philanthropic foundation.&lt;/p&gt;&lt;p&gt;Campaigning in New Hampshire, the Kentucky Republican and likely 2016 presidential candidate said Clinton should give back money from Saudi Arabia, Brunei and the United Arab Emirates because of their "horrific" rejection of women's rights.&lt;/p&gt;&lt;p&gt;Hillary Clinton, who is building a campaign team, remains the leading Democratic presidential contender if she enters the 2016 campaign.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T20:17:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Exclusive: Despite Hillary Clinton promise, charity did not disclose donors</title>
+    <link rel="alternate" href="https://news.yahoo.com/exclusive-despite-hillary-clinton-promise-charity-did-not-192353450.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T21:40:49Z</updated>
+    <published>2015-03-19T21:40:49Z</published>
+    <summary type="html">&lt;p&gt;A spokesman for Hillary Clinton declined to comment.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T21:40:49Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
   </entry>
   <entry>
     <title>Hillary Clinton says House GOP budget plan 'fails Americans' on jobs and economy</title>
@@ -1956,6 +1981,29 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/15/26A8EE1000000578-0-image-m-30_1426437201764.jpg" />
   </entry>
   <entry>
+    <title>Clinton Says She Didn't Think Private Email Would Be 'An Issue'</title>
+    <link rel="alternate" href="http://www.npr.org/2015/03/10/392142420/clinton-says-she-didnt-think-private-email-would-be-an-issue?utm_medium=RSS&amp;amp;utm_campaign=us" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T20:16:16Z</updated>
+    <published>2015-03-10T20:16:16Z</published>
+    <summary type="html">&lt;p&gt;HILLARY CLINTON: Looking back, it would have been better for me to use two separate phones and two email accounts.&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T20:16:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton: Private email server 'a matter of convenience'</title>
+    <link rel="alternate" href="http://www.upi.com/Top_News/US/2015/03/10/Hillary-Clinton-Private-email-server-a-matter-of-convenience/5091426014547/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T19:49:13Z</updated>
+    <published>2015-03-10T19:49:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-10T19:49:13Z</dc:date>
+    <media:content url="http://www.upi.com/img/clear.gif" />
+  </entry>
+  <entry>
     <title>What we know about Hillary Clinton's private email account</title>
     <link rel="alternate" href="http://www.sfgate.com/news/politics/article/What-we-know-about-Hillary-Clinton-s-private-6120547.php" />
     <author>
@@ -1963,9 +2011,20 @@
     </author>
     <updated>2015-03-07T08:06:38Z</updated>
     <published>2015-03-07T08:06:38Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;Once again, Hillary Rodham Clinton did it her way, and it could cost her.&lt;/p&gt;&lt;p&gt;WASHINGTON (AP) - Once again, Hillary Rodham Clinton did it her way, and it could cost her.&lt;/p&gt;</summary>
     <dc:date>2015-03-07T08:06:38Z</dc:date>
     <media:content url="http://ww1.hdnux.com/photos/35/03/72/7618232/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>What we know about Hillary Clinton's private email account</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11413586&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T06:20:14Z</updated>
+    <published>2015-03-07T06:20:14Z</published>
+    <summary type="html">&lt;p&gt;" Was Clinton's email too secret?&lt;/p&gt;</summary>
+    <dc:date>2015-03-07T06:20:14Z</dc:date>
   </entry>
   <entry>
     <title>Hillary Clinton email trove reviewed for release, security</title>
@@ -2033,7 +2092,7 @@
     </author>
     <updated>2015-03-03T23:35:47Z</updated>
     <published>2015-03-03T23:35:47Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton's office insists there was nothing improper about her use of a personal email account during her time as Secretary of State.&lt;/p&gt;&lt;p&gt;Washington: Democrats scrambled on Tuesday to contain the fallout for Hillary Clinton, their favoured 2016 presidential candidate, after allegations she inappropriately used her personal email for work while secretary of state.&lt;/p&gt;&lt;p&gt;Republican Representative Jason Chaffetz of Utah said the House Oversight Committee, which he chairs, will work with the Benghazi committee "to further explore Hillary Clinton's use of personal emails while at the State Department."&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hillary Clinton's office insists there was nothing improper about her use of a personal email account during her time as Secretary of State.&lt;/p&gt;&lt;p&gt;Washington: Democrats scrambled on Tuesday to contain the fallout for Hillary Clinton, their favoured 2016 presidential candidate, after allegations she inappropriately used her personal email for work while secretary of state.&lt;/p&gt;&lt;p&gt;Then-Secretary of State Hillary Rodham Clinton speaks at the State Department in Washington in 2012.&lt;/p&gt;&lt;p&gt;Republican Representative Jason Chaffetz of Utah said the House Oversight Committee, which he chairs, will work with the Benghazi committee "to further explore Hillary Clinton's use of personal emails while at the State Department."&lt;/p&gt;</summary>
     <dc:date>2015-03-03T23:35:47Z</dc:date>
     <media:content url="http://www.theage.com.au/content/dam/images/1/3/u/j/a/x/image.related.articleLeadwide.620x349.13uj0h.png/1425442672638.jpg" />
   </entry>
@@ -2071,18 +2130,6 @@
     <summary type="html">&lt;p&gt;Former US secretary of state Hillary Clinton may have violated federal records laws by using a personal email account for all of her work messages, the New York Times reported on Monday.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T06:03:03Z</dc:date>
     <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/1ef20197c082e5eb0f8b09dd63d00a1c97c51e94/0_0_3000_1803/500.jpg" />
-  </entry>
-  <entry>
-    <title>News24.com | Hillary Clinton may have broken federal record laws</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/Hillary-Clinton-may-have-broken-federal-record-laws-20150303" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T05:42:21Z</updated>
-    <published>2015-03-03T05:42:21Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T05:42:21Z</dc:date>
-    <media:content url="http://cdn.24.co.za/files/Cms/General/d/3002/45dd7d44e8de4e11b6f150e9c4ce35e7.jpg" />
   </entry>
   <entry>
     <title>Clinton emails at State Department draw scrutiny</title>

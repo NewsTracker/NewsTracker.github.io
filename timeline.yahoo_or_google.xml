@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Marlins lose to Orioles 8-5; Alvarez and Latos go on DL (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/slumping-marlins-lose-orioles-8-5-025251997--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-23T04:26:20Z</updated>
+    <published>2015-05-23T04:26:20Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-23T04:26:20Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/Xx6tjsJV5UJtqLX26CbBlA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQwNjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201505222131774634840" />
+  </entry>
+  <entry>
+    <title>Montreal Alouettes sign openly gay defensive end Michael Sam (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/montreal-alouettes-sign-openly-gay-defensive-end-michael-150318272--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T19:27:15Z</updated>
+    <published>2015-05-22T19:27:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-22T19:27:15Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/DR87UnM77efdS5ob1sxF0g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505221157430553627" />
+  </entry>
+  <entry>
+    <title>Russia threatens block on Google, Twitter, Facebook</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/russia-threatens-block-google-twitter-134627601.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T16:24:47Z</updated>
+    <published>2015-05-22T16:24:47Z</published>
+    <summary type="html">&lt;p&gt;Google, Twitter and Facebook face being blocked in Russia after being warned against violating the country's controversial blogging laws.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T16:24:47Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/nZ8IVrweNuvBiAdYYW0grQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/15abe7977de66a4c891d001a05df48ab" />
+  </entry>
+  <entry>
+    <title>Fin24.com | Russia warns Google, Twitter, Facebook on web laws</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Russia-warns-Google-Twitter-Facebook-on-web-laws-20150522" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T07:51:37Z</updated>
+    <published>2015-05-22T07:51:37Z</published>
+    <summary type="html">&lt;p&gt;Moscow - Russia's media watchdog has written to Google, Twitter and Facebook warning them against violating Russian internet laws and a spokesman said on Thursday they risk being blocked if they do not comply with the rules.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T07:51:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Brewers' Smith ejected for having rosin, sunscreen on arm (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/brewers-smith-ejected-allegedly-having-pine-tar-arm-013258273--mlb.html" />
     <author>
