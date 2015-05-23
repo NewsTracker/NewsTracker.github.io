@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia could block Google, Twitter and Facebook</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/russia-could-block-google-twitter-and-facebook-20150522-gh73yy.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T06:01:31Z</updated>
+    <published>2015-05-22T06:01:31Z</published>
+    <summary type="html">&lt;p&gt;Frankfurt: Russia's media watchdog has written to Google, Twitter and Facebook warning them against violating Russian internet laws and a spokesman said on Thursday they risk being blocked if they do not comply with the rules.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T06:01:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Russia threatens block on Google, Twitter, Facebook</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/russia-threatens-block-google-twitter-134627601.html" />
     <author>

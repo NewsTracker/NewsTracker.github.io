@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft reportedly considering bid for Salesforce</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T21:43:27Z</updated>
+    <published>2015-05-05T21:43:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-05T21:43:27Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/0520/20140520_043710_0521salesforce2_300.jpg" />
+  </entry>
+  <entry>
+    <title>Court questions Google on patent values in Microsoft case</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-microsoft-google-patents-idUSKBN0MZ23Y20150408?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T19:25:38Z</updated>
+    <published>2015-04-08T19:25:38Z</published>
+    <summary type="html">&lt;p&gt;The value of Google's patents can affect how it negotiates royalty rates with other tech companies, and firms including Apple Inc and Intel Corp filed court papers supporting Microsoft.&lt;/p&gt;&lt;p&gt;After the 2012 trial before U.S. District Judge James Robart, the judge said the appropriate royalty rate was about $1.8 million, slightly above Microsoft's estimate, but well below Motorola's demand for as much as $4 billion a year.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T19:25:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple CEO Tim Cook plans to give away most of his fortune</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Apple-CEO-Tim-Cook-plans-to-give-away-most-of-his-6163260.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T16:58:49Z</updated>
+    <published>2015-03-27T16:58:49Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Apple CEO Tim Cook is joining a long list of magnates promising to give away most of the wealth that they amass during their careers.&lt;/p&gt;&lt;p&gt;Microsoft founder Bill Gates and Berkshire Hathaway CEO Warren Buffett are among dozens of wealthy people planning to give away their fortunes.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T16:58:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
@@ -2110,17 +2144,6 @@
     <dc:date>2015-04-08T21:04:48Z</dc:date>
   </entry>
   <entry>
-    <title>Court questions Google on patent values in Microsoft case</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-microsoft-google-patents-idUSKBN0MZ23Y20150408?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T19:25:38Z</updated>
-    <published>2015-04-08T19:25:38Z</published>
-    <summary type="html">&lt;p&gt;The value of Google's patents can affect how it negotiates royalty rates with other tech companies, and firms including Apple Inc and Intel Corp filed court papers supporting Microsoft.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T19:25:38Z</dc:date>
-  </entry>
-  <entry>
     <title>Apple Watch stylish but not for everyone, reviewers say</title>
     <link rel="alternate" href="http://technology.canoe.ca/Mobile/Features/2015/04/08/22333561.html?cid=rsstechnology" />
     <author>
@@ -2573,17 +2596,6 @@
     <summary type="html">&lt;p&gt;'On behalf of Apple, I'm standing up to oppose this new wave of legislation.&lt;/p&gt;</summary>
     <dc:date>2015-03-30T08:08:49Z</dc:date>
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/30/07/2720820700000578-3017493-image-a-10_1427695247533.jpg" />
-  </entry>
-  <entry>
-    <title>Apple CEO Tim Cook plans to give away most of his fortune</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Apple-CEO-Tim-Cook-plans-to-give-away-most-of-his-6163260.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-27T16:58:49Z</updated>
-    <published>2015-03-27T16:58:49Z</published>
-    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Apple CEO Tim Cook is joining a long list of magnates promising to give away most of the wealth that they amass during their careers.&lt;/p&gt;</summary>
-    <dc:date>2015-03-27T16:58:49Z</dc:date>
   </entry>
   <entry>
     <title>Apple CEO Tim Cook plans to give away most of his fortune</title>
