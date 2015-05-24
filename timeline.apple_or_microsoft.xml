@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Inked and irked: Apple Watch users report tattoo problems</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/01/inked-and-irked-apple-watch-users-report-tattoo-problems" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:27:30Z</updated>
+    <published>2015-05-01T19:27:30Z</published>
+    <summary type="html">&lt;p&gt;Apple, for its part, acknowledged the issue on its support website.&lt;/p&gt;&lt;p&gt;This isn't Apple's first "-gate" problem.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T19:27:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft Results Show Company's Shift, but Is It Enough?</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/microsoft-results-show-companys-shift-30540823" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T23:13:44Z</updated>
+    <published>2015-04-23T23:13:44Z</published>
+    <summary type="html">&lt;p&gt;This Jan. 21, 2015 photo shows Microsoft CEO Satya Nadella speaking at an event demonstrating new features of its flagship operating system Windows at the company's headquarters in Redmond, Wash.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T23:13:44Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft reportedly considering bid for Salesforce</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
     <author>
@@ -503,17 +525,6 @@
     <published>2015-05-01T20:28:36Z</published>
     <summary type="html">&lt;p&gt;He has a black tattoo on the inside of his wrist - but not the side where he has worn the Apple Watch.&lt;/p&gt;</summary>
     <dc:date>2015-05-01T20:28:36Z</dc:date>
-  </entry>
-  <entry>
-    <title>Inked and irked: Apple Watch users report tattoo problems</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/01/inked-and-irked-apple-watch-users-report-tattoo-problems" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-01T19:27:30Z</updated>
-    <published>2015-05-01T19:27:30Z</published>
-    <summary type="html">&lt;p&gt;Apple, for its part, acknowledged the issue on its support website.&lt;/p&gt;</summary>
-    <dc:date>2015-05-01T19:27:30Z</dc:date>
   </entry>
   <entry>
     <title>Inked and irked: Apple Watch users report tattoo problems</title>
