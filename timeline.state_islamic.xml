@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Syrian official: Islamic State militants in Palmyra's museum</title>
+    <link rel="alternate" href="http://news.yahoo.com/syrian-official-islamic-state-militants-palmyras-museum-093436329.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-23T19:50:46Z</updated>
+    <published>2015-05-23T19:50:46Z</published>
+    <summary type="html">&lt;p&gt;But Abdulkarim warned that the Islamic State group's control of the town remains a danger to its archaeological sites.&lt;/p&gt;</summary>
+    <dc:date>2015-05-23T19:50:46Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/TDvzHvwVW5dgdtEZkbvz8A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/568ab9eb05ae4a17770f6a706700cdee.jpg" />
+  </entry>
+  <entry>
+    <title>Shi'ite militias advance on Islamic State insurgents near Iraq's Ramadi</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/23/us-mideast-crisis-iraq-ramadi-idUSKBN0O805D20150523?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-23T14:57:47Z</updated>
+    <published>2015-05-23T14:57:47Z</published>
+    <summary type="html">&lt;p&gt;The fall of Ramadi, the Anbar provincial capital, to Islamic State on May 17 could be a shattering blow to Baghdad's weak central government.&lt;/p&gt;</summary>
+    <dc:date>2015-05-23T14:57:47Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150523&amp;amp;t=2&amp;amp;i=1050599977&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB4M02J" />
+  </entry>
+  <entry>
+    <title>Islamic State raises flag over citadel in Syria's Palmyra: Supporters</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/23/islamic-state-raises-flag-over-citadel-in-syrias-palmyra-supporters" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-23T12:27:07Z</updated>
+    <published>2015-05-23T12:27:07Z</published>
+    <summary type="html">&lt;p&gt;Islamic State fighters have raised their flag over an ancient citadel in Syria's historic city of Palmyra, pictures posted online overnight by the group's supporters showed.&lt;/p&gt;</summary>
+    <dc:date>2015-05-23T12:27:07Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297703565472_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>4th man charged in NYC over Islamic State recruitment plot</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article17566298.html%23storylink=rss" />
     <author>

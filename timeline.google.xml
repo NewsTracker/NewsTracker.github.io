@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google files patent on toy that pays attention</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/google-files-patent-on-toy-that-pays-attention-1.2387723" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-23T17:42:00Z</updated>
+    <published>2015-05-23T17:42:00Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO -- Google has filed a patent for toys that pay attention to who is in a room and can interact with other media devices.&lt;/p&gt;</summary>
+    <dc:date>2015-05-23T17:42:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Russia could block Google, Twitter and Facebook</title>
     <link rel="alternate" href="http://www.smh.com.au/world/russia-could-block-google-twitter-and-facebook-20150522-gh73yy.html" />
     <author>
