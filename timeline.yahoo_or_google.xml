@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kirk makes par putt at 18 to win Colonial; Spieth 2nd again (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kirk-makes-par-putt-18-win-colonial-spieth-065158846--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T06:51:58Z</updated>
+    <published>2015-05-25T06:51:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-25T06:51:58Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/q_EG_patiYR5rQMdJrjXcA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505241420516070175" />
+  </entry>
+  <entry>
+    <title>Google is starting small, thinking big with 'Project Fi'</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Google-is-starting-small-thinking-big-with-6241054.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T18:03:01Z</updated>
+    <published>2015-05-04T18:03:01Z</published>
+    <summary type="html">&lt;p&gt;Google's service is also promising to automatically switch customers to publicly available Wi-Fi networks to avoid incurring charges for using data on the cellular networks.&lt;/p&gt;&lt;p&gt;Google, though, is hoping Project Fi reshapes the market.&lt;/p&gt;&lt;p&gt;Getting on the wireless service requires a Nexus 6 smartphone, a model made by Motorola for Google as a showcase for how it would like its services to work with its Android operating system.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T18:03:01Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/16/43/7923917/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Carl Edwards races to first victory for new JGR team (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/carl-edwards-races-first-victory-jgr-team-025316882--nascar.html" />
     <author>
@@ -973,18 +997,6 @@
     <summary type="html">&lt;p&gt;In a break from the status quo, Project Fi will cost just $20 for basic service and then only charge for the amount of data consumed over cellular networks that Google is leasing from T-Mobile and Sprint.&lt;/p&gt;</summary>
     <dc:date>2015-05-04T18:03:01Z</dc:date>
     <media:content url="http://media.utsandiego.com/img/photos/2015/05/04/336fe616f85f8913750f6a7067007a88_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
-  </entry>
-  <entry>
-    <title>Google is starting small, thinking big with 'Project Fi'</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Google-is-starting-small-thinking-big-with-6241054.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-04T18:03:01Z</updated>
-    <published>2015-05-04T18:03:01Z</published>
-    <summary type="html">&lt;p&gt;Google's service is also promising to automatically switch customers to publicly available Wi-Fi networks to avoid incurring charges for using data on the cellular networks.&lt;/p&gt;&lt;p&gt;Google, though, is hoping Project Fi reshapes the market.&lt;/p&gt;</summary>
-    <dc:date>2015-05-04T18:03:01Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/36/16/43/7923917/3/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Counsell replaces Roenicke with Brewers after 7-18 start (Yahoo Sports)</title>
