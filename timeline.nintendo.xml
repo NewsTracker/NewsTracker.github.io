@@ -4,15 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Nintendo World Championships back after 25 years</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/nintendo-world-championships-back-after-25-years/" />
+    <title>Investors cheer Nintendo move into smartphone games</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
     <author>
       <name />
     </author>
-    <updated>2015-05-14T22:03:28Z</updated>
-    <published>2015-05-14T22:03:28Z</published>
-    <summary type="html">&lt;p&gt;The winners from each regional event, along with "competitors invited by Nintendo," will meet at the championships June 14, at the Nokia Theatre in Los Angeles, according to a press release.&lt;/p&gt;</summary>
-    <dc:date>2015-05-14T22:03:28Z</dc:date>
+    <updated>2015-03-19T08:30:27Z</updated>
+    <published>2015-03-19T08:30:27Z</published>
+    <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;&lt;p&gt;The move into smartphone apps could further dent console sales, some analysts said, despite assurances by company president Satoru Iwata that Nintendo was committed to making gaming machines.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T08:30:27Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T02:41:04Z</updated>
+    <published>2015-03-18T02:41:04Z</published>
+    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;&lt;p&gt;Nintendo, based in the ancient city of Kyoto, announced Tuesday it was teaming up with Tokyo-based mobile gaming company DeNA to develop games for smartphones.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T02:41:04Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
   </entry>
   <entry>
     <title>Nintendo World Championships Return After 25 Years</title>
@@ -26,30 +39,6 @@
     <dc:date>2015-05-14T03:43:07Z</dc:date>
   </entry>
   <entry>
-    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T02:41:04Z</updated>
-    <published>2015-03-18T02:41:04Z</published>
-    <summary type="html">&lt;p&gt;But Iwata added that the announcement did not mark a move away from consoles, saying Nintendo would release a new system as a successor to its Wii U home console, which came on to the market in late 2012.&lt;/p&gt;&lt;p&gt;Nintendo, based in the ancient city of Kyoto, announced Tuesday it was teaming up with Tokyo-based mobile gaming company DeNA to develop games for smartphones.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T02:41:04Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
-  </entry>
-  <entry>
-    <title>Investors cheer Nintendo move into smartphone games</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T08:30:27Z</updated>
-    <published>2015-03-19T08:30:27Z</published>
-    <summary type="html">&lt;p&gt;The move into smartphone apps could further dent console sales, some analysts said, despite assurances by company president Satoru Iwata that Nintendo was committed to making gaming machines.&lt;/p&gt;&lt;p&gt;Nintendo, however, may be shifting away from hardware, Mr Iwata said it was developing a new gaming platform, the NX, as well as an online membership service to be launched this year.&lt;/p&gt;</summary>
-    <dc:date>2015-03-19T08:30:27Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
-  </entry>
-  <entry>
     <title>'Super Mario' to go mobile as Nintendo ventures into smartphone games</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/03/17/super-mario-to-go-mobile-as-nintendo-ventures-into-smartphone-games" />
     <author>
@@ -61,6 +50,17 @@
     <dc:date>2015-03-17T14:52:35Z</dc:date>
   </entry>
   <entry>
+    <title>Nintendo forms alliance with mobile game firm in about face</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Nintendo-forms-alliance-with-mobile-game-firm-in-6138331.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T11:51:54Z</updated>
+    <published>2015-03-17T11:51:54Z</published>
+    <summary type="html">&lt;p&gt;Both sides said they will build a global membership service for various devices including personal computers, smartphones and Nintendo machines.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T11:51:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Super Mario to go mobile as Nintendo ventures into gaming apps</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-news/super-mario-to-go-mobile-as-nintendo-ventures-into-gaming-apps/article23492555/?cmpid=rss1" />
     <author>
@@ -68,7 +68,7 @@
     </author>
     <updated>2015-03-17T11:26:12Z</updated>
     <published>2015-03-17T11:26:12Z</published>
-    <summary type="html">&lt;p&gt;Nintendo, which already warned its annual operating profit would halve on weak console sales, said on Tuesday it was teaming up with online gaming firm DeNA Co. Ltd. to develop and operate gaming apps.&lt;/p&gt;&lt;p&gt;The two companies will also launch later this year an online membership service accessible on mobile devices as well as Nintendo's existing Wii U console and the portable 3DS.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Nintendo, which already warned its annual operating profit would halve on weak console sales, said on Tuesday it was teaming up with online gaming firm DeNA Co. Ltd. to develop and operate gaming apps.&lt;/p&gt;&lt;p&gt;The two companies will also launch later this year an online membership service accessible on mobile devices as well as Nintendo's existing Wii U console and the portable 3DS.&lt;/p&gt;&lt;p&gt;Although Iwata didn't disclose any details about Nintendo's first mobile game, he said it would not be a hand-me-down from the company's famed console titles.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T11:26:12Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/9be/technology/tech-news/article23492554.ece/ALTERNATES/w220/web-nintendo-0317.JPG" />
   </entry>
@@ -85,13 +85,24 @@
   </entry>
   <entry>
     <title>Nintendo forms alliance with mobile game firm in about face</title>
+    <link rel="alternate" href="http://news.yahoo.com/nintendo-forms-alliance-mobile-game-firm-face-084646739.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T09:18:48Z</updated>
+    <published>2015-03-17T09:18:48Z</published>
+    <summary type="html">&lt;p&gt;Under the alliance, Kyoto-based Nintendo will acquire about 15 million DeNA shares or a 10 percent stake.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T09:18:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nintendo forms alliance with mobile game firm in about face</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11418797&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
     <updated>2015-03-17T09:16:45Z</updated>
     <published>2015-03-17T09:16:45Z</published>
-    <summary type="html">&lt;p&gt;Both sides said they will build a global membership service for various devices including personal computers, smartphones and Nintendo machines.&lt;/p&gt;&lt;p&gt;Under the alliance, Kyoto-based Nintendo will acquire about 15 million DeNA shares or a 10 percent stake.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-03-17T09:16:45Z</dc:date>
   </entry>
   <entry>

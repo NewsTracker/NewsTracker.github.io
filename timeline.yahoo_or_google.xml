@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>NFL player Ray McDonald arrested in domestic violence case (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/nfl-player-ray-mcdonald-arrested-domestic-violence-case-183110026--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T18:51:39Z</updated>
+    <published>2015-05-25T18:51:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-25T18:51:39Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/7uOdky_nOU0tCidTe1lqYQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/98ebb8fd6e1bb6cc1f7d90ccb828b340" />
+  </entry>
+  <entry>
     <title>Kirk makes par putt at 18 to win Colonial; Spieth 2nd again (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/kirk-makes-par-putt-18-win-colonial-spieth-065158846--golf.html" />
     <author>
