@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bangladesh Islamic State suspect worked for Coca-Cola unit: sources</title>
+    <link rel="alternate" href="http://news.yahoo.com/bangladesh-islamic-state-suspect-worked-coca-cola-unit-172324265--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T17:23:24Z</updated>
+    <published>2015-05-25T17:23:24Z</published>
+    <summary type="html">&lt;p&gt;DHAKA (Reuters) - One of two men arrested in Bangladesh as a suspected member of Islamic State was an IT manager at a subsidiary of Coca-Cola Co, police and company sources told Reuters on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-25T17:23:24Z</dc:date>
+    <media:content url="http://l.yimg.com/a/p/us/news/editorial/d/0c/d0c3eb8ca18907492a4b337b5cec5193.jpeg" />
+  </entry>
+  <entry>
+    <title>Deadly bombings in Afghanistan as Taliban, Islamic state supporters clash</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/deadly-bombings-in-afghanistan-as-taliban-islamic-state-supporters-clash-1.2389923" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T17:07:31Z</updated>
+    <published>2015-05-25T17:07:31Z</published>
+    <summary type="html">&lt;p&gt;The clashes provide the latest indication of a small but growing Islamic State presence in the country.&lt;/p&gt;</summary>
+    <dc:date>2015-05-25T17:07:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State faces battle in Iraq, bombs in Syria</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3096037/Islamic-State-faces-battle-Iraq-bombs-Syria.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
