@@ -5,6 +5,41 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Islamic State probe: IT chief at Bangladesh Coca-Cola unit arrested as suspect</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-probe-it-chief-at-bangladesh-cocacola-unit-arrested-20150525-gh9gq7" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T19:24:33Z</updated>
+    <published>2015-05-25T19:24:33Z</published>
+    <summary type="html">&lt;p&gt;Islamic State's influence is extending into south Asia.&lt;/p&gt;</summary>
+    <dc:date>2015-05-25T19:24:33Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/6/0/b/r/image.related.articleLeadwide.620x349.gh9gq7.png/1432588630244.jpg" />
+  </entry>
+  <entry>
+    <title>Iraq faces huge challenges dislodging Islamic State in Anbar</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19784472.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T08:53:00Z</updated>
+    <published>2015-04-28T08:53:00Z</published>
+    <summary type="html">&lt;p&gt;Since taking over large parts of the province, the Islamic State group hasn't been idle.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T08:53:00Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>For migrants used to danger, Islamic State poses new threat</title>
+    <link rel="alternate" href="http://news.yahoo.com/migrants-used-danger-islamic-state-poses-threat-183631696.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T18:36:31Z</updated>
+    <published>2015-04-21T18:36:31Z</published>
+    <summary type="html">&lt;p&gt;Facing the new threat of Islamic State militants, Beyene said that Holot detainees are terrified and prefer to stay locked up than leave to an uncertain fate in Africa.&lt;/p&gt;&lt;p&gt;He was apparently arrested by Islamic State militants on his way to Tripoli, where he hope to make the harrowing trip by sea to Europe.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T18:36:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State probe: IT chief at Bangladesh Coca-Cola unit arrested as suspect</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-probe-it-chief-at-bangladesh-cocacola-unit-arrested-as-suspect-20150525-gh9gq7" />
     <author>
       <name />
@@ -2540,17 +2575,6 @@
     <summary type="html">&lt;p&gt;There may have been more Eritreans and Ethiopians seized and killed by the Islamic State group in Libya beyond those shown beheaded or shot in the video that apparently included Kidane.&lt;/p&gt;</summary>
     <dc:date>2015-04-21T19:31:54Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/35/75/55/7854926/7/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>For migrants used to danger, Islamic State poses new threat</title>
-    <link rel="alternate" href="http://news.yahoo.com/migrants-used-danger-islamic-state-poses-threat-183631696.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-21T18:36:31Z</updated>
-    <published>2015-04-21T18:36:31Z</published>
-    <summary type="html">&lt;p&gt;Facing the new threat of Islamic State militants, Beyene said that Holot detainees are terrified and prefer to stay locked up than leave to an uncertain fate in Africa.&lt;/p&gt;</summary>
-    <dc:date>2015-04-21T18:36:31Z</dc:date>
   </entry>
   <entry>
     <title>For migrants used to danger, Islamic State poses new threat</title>
@@ -6466,7 +6490,7 @@
     <media:content url="http://www.usnews.com/dims4/USNEWS/fd3ae02/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png" />
   </entry>
   <entry>
-    <title>Nigeria?s Boko Haram pledges allegiance to Islamic State</title>
+    <title>Nigeria’s Boko Haram pledges allegiance to Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/Nigeria-s-Boko-Haram-pledges-allegiance-to-6121265.php" />
     <author>
       <name />

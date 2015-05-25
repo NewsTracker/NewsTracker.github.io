@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US STOCKS-Wall St opens up, Nasdaq closer to record ahead of Apple earnings</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3057560/US-STOCKS-Wall-St-opens-Nasdaq-closer-record-ahead-Apple-earnings.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T15:05:03Z</updated>
+    <published>2015-04-27T15:05:03Z</published>
+    <summary type="html">&lt;p&gt;Analysts expect Apple's quarterly revenue to rise 23 percent to $56.07 billion, according to Thomson Reuters data.&lt;/p&gt;&lt;p&gt;Apple trades at 14.3 times forward 12-month earnings, while the S&amp;P 500 trades at 16.7 times, according to Thomson Reuters StarMine data.&lt;/p&gt;&lt;p&gt;Apple shares rose 1.69 percent to $132.48 in early trading.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T15:05:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Yahoo sticks with Microsoft in search deal, but tweaks some terms</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_27928195/yahoo-sticks-microsoft-search-deal-but-tweaks-some?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T19:44:02Z</updated>
+    <published>2015-04-16T19:44:02Z</published>
+    <summary type="html">&lt;p&gt;The original deal called for Microsoft to pay 88 percent of the search revenue to Yahoo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T19:44:02Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0128/20150128__0129yahoo%7E6_300.JPG" />
+  </entry>
+  <entry>
     <title>Top U.S. hedge funds continued to dump Apple amid rally</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/15/us-investments-funds-apple-idUSKBN0O025020150515?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
@@ -1102,17 +1125,6 @@
     <dc:date>2015-04-27T15:44:46Z</dc:date>
   </entry>
   <entry>
-    <title>US STOCKS-Wall St opens up, Nasdaq closer to record ahead of Apple earnings</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3057560/US-STOCKS-Wall-St-opens-Nasdaq-closer-record-ahead-Apple-earnings.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-27T15:05:03Z</updated>
-    <published>2015-04-27T15:05:03Z</published>
-    <summary type="html">&lt;p&gt;Analysts expect Apple's quarterly revenue to rise 23 percent to $56.07 billion, according to Thomson Reuters data.&lt;/p&gt;&lt;p&gt;Apple trades at 14.3 times forward 12-month earnings, while the S&amp;P 500 trades at 16.7 times, according to Thomson Reuters StarMine data.&lt;/p&gt;</summary>
-    <dc:date>2015-04-27T15:05:03Z</dc:date>
-  </entry>
-  <entry>
     <title>Discover discovers Apple Pay for its US cardholders</title>
     <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/04/27/discover-to-have-apple-pay-available-for-us-cardholders" />
     <author>
@@ -1686,7 +1698,7 @@
     <dc:date>2015-04-15T14:41:44Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Watch could cost you ?2,500 more in Britain</title>
+    <title>Apple Watch could cost you £2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2202,7 +2214,7 @@
     <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150408&amp;amp;t=2&amp;amp;i=1038840669&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB370KG" />
   </entry>
   <entry>
-    <title>Apple Watch review: You?ll want one, but you don?t need one</title>
+    <title>Apple Watch review: You’ll want one, but you don’t need one</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-watch-review-youll-want-one-but-you-dont-need-one" />
     <author>
       <name />

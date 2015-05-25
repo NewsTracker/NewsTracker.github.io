@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Real Madrid fires coach Ancelotti after disappointing season (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/real-madrid-fires-coach-carlo-ancelotti-182904245--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T20:50:35Z</updated>
+    <published>2015-05-25T20:50:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-25T20:50:35Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/Qu5UBrSrWe9bnQqZD7MDSA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201505251331487002757" />
+  </entry>
+  <entry>
+    <title>Venus Williams ousted from French Open by Sloane Stephens (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/berdych-breezes-past-japanese-qualifier-french-open-114139688--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T20:43:46Z</updated>
+    <published>2015-05-25T20:43:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-25T20:43:46Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/nApHwehoD2amwP_isM8G0w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505251022373252390" />
+  </entry>
+  <entry>
+    <title>Orioles pitcher Brian Matusz suspended 8 games, appeals (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/orioles-pitcher-brian-matusz-suspended-8-game-appeals-161453123--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T17:49:11Z</updated>
+    <published>2015-05-25T17:49:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-25T17:49:11Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/rQI1i3oqnDQZpPACyBrG7g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://d.yimg.com/hd/mlbcom/9/5/99b83dec-5b01-456a-9c9a-d03538ed4eaa_abXZY0AlD8OObkSIy88iaMKEZPdsCLkL5-H1ikMMgQBL4BxTLN77uTOT6XKEaWITe1nnct71v5g-_2_0.jpg?s=47ea8b5fd5359d2bc7af1393ee71c5af&amp;amp;c=4e62150039ec549d58c3a2335f781b6a&amp;amp;a=mlbcom&amp;amp;mr=0" />
+  </entry>
+  <entry>
+    <title>McLellan out after 7 years as coach of San Jose Sharks (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/mclellan-7-years-coach-san-jose-sharks-160653425--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-20T23:22:50Z</updated>
+    <published>2015-04-20T23:22:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-20T23:22:50Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/eZvjAGax.qkt0gNV1204Jw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504201538563277117" />
+  </entry>
+  <entry>
     <title>NFL player Ray McDonald arrested in domestic violence case (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/nfl-player-ray-mcdonald-arrested-domestic-violence-case-183110026--nfl.html" />
     <author>
@@ -4776,7 +4824,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
