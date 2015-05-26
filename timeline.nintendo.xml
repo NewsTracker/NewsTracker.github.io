@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nintendo World Championships back after 25 years</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/nintendo-world-championships-back-after-25-years/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T20:02:46Z</updated>
+    <published>2015-05-14T20:02:46Z</published>
+    <summary type="html">&lt;p&gt;The winners from each regional event, along with "competitors invited by Nintendo," will meet at the championships June 14, at the Nokia Theatre in Los Angeles, according to a press release.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T20:02:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Investors cheer Nintendo move into smartphone games</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
     <author>
