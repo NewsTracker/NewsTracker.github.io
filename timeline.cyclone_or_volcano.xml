@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Galapagos Island volcano erupts first time in 33 years</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article22184286.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-26T03:56:05Z</updated>
+    <published>2015-05-26T03:56:05Z</published>
+    <summary type="html">&lt;p&gt;In this photo provided by Diego Paredes, guide of La Pinta Yatch Expedition, shows Wolf volcano erupting, at Isabela Island, Galapagos Islands, Ecuador, Monday, May 25, 2015.&lt;/p&gt;&lt;p&gt;The volcano located on the northern tip of Isabela Island, erupted after 33 years of inactivity, but without jeopardizing human populations, tourism operations and fauna of this area, at the world famous Galapagos archipelago.&lt;/p&gt;</summary>
+    <dc:date>2015-05-26T03:56:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Galapagos Island Volcano Erupts First Time in 33 Years</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/galapagos-island-volcano-erupts-time-33-years-31292365" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-26T03:51:38Z</updated>
+    <published>2015-05-26T03:51:38Z</published>
+    <summary type="html">&lt;p&gt;The volcano lies on the northern tip of Isabela Island, the archipelago's largest.&lt;/p&gt;</summary>
+    <dc:date>2015-05-26T03:51:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Galapagos volcano erupts, posing threat to rare pink iguanas</title>
+    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/05/26/world/galapagos-volcano-erupts-posing-threat-rare-pink-iguanas/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=galapagos-volcano-erupts-posing-threat-rare-pink-iguanas&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T23:30:00Z</updated>
+    <published>2015-05-25T23:30:00Z</published>
+    <summary type="html">&lt;p&gt;The lava is flowing down the volcano's southern face while the iguanas, officially an endangered species, inhabit the opposite side, the Environment Ministry said in a statement, adding it expected the animals to escape harm.&lt;/p&gt;</summary>
+    <dc:date>2015-05-25T23:30:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Relief teams reach Vanuatu's cyclone-hit outer islands</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article14547779.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T07:03:04Z</updated>
+    <published>2015-03-17T07:03:04Z</published>
+    <summary type="html">&lt;p&gt;In this March 15, 2015 photo provided by UNICEF Pacific, a man works to recover from Cyclone Pam in Mele village, on the outskirts of the capital Port Vila, Vanuatu.&lt;/p&gt;&lt;p&gt;Adrian Banga surveys his destroyed house in Port Vila, Vanuatu in the aftermath of Cyclone Pam, Monday, March 16, 2015.&lt;/p&gt;&lt;p&gt;"There are over 80 islands that make up Vanuatu and on a good, sunny day outside of cyclone season it's difficult to get to many of them," said Collett van Rooyen of Oxfam.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T07:03:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Galapagos Island volcano erupts after 33 years, threatening fragile ecosystem</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/05/25/galapagos-island-volcano-erupts-after-33-years-threatening-fragile-ecosystem/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
@@ -943,18 +989,6 @@
     <published>2015-03-18T01:01:20Z</published>
     <summary type="html" />
     <dc:date>2015-03-18T01:01:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Relief teams reach Vanuatu's cyclone-hit outer islands</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article14547779.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T07:03:04Z</updated>
-    <published>2015-03-17T07:03:04Z</published>
-    <summary type="html">&lt;p&gt;In this March 15, 2015 photo provided by UNICEF Pacific, a man works to recover from Cyclone Pam in Mele village, on the outskirts of the capital Port Vila, Vanuatu.&lt;/p&gt;&lt;p&gt;Adrian Banga surveys his destroyed house in Port Vila, Vanuatu in the aftermath of Cyclone Pam, Monday, March 16, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T07:03:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Cyclone Pam lifts chance of El Nino this year in Australia, forecasters says</title>
