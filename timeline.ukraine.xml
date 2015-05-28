@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine minister says fighting could resume in country's east</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/ukraine-minister-says-russian-troops-in-country-s-east-fighting-could-resume-1.3091540?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T19:39:04Z</updated>
+    <published>2015-05-28T19:39:04Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's defence minister said on Thursday Russia had moved forces into eastern Ukraine and there was a risk of fighting resuming between the army and pro-Russian separatists in coming months.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T19:39:04Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3091595.1432839820!/cpImage/httpImage/image.jpg_gen/derivatives/original_300/ukraine.jpg" />
+  </entry>
+  <entry>
     <title>Economic toll of conflict builds up for Ukraine</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/19/economic-toll-of-conflict-builds-up-for-ukraine" />
     <author>

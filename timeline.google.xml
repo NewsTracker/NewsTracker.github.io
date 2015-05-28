@@ -5,6 +5,53 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Google offers unlimited free storage of photos, videos</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article22533714.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T21:17:07Z</updated>
+    <published>2015-05-28T21:17:07Z</published>
+    <summary type="html">&lt;p&gt;The online photo service announced Thursday is the latest example of Google's desire to wrap its tentacles around virtually every part of people's lives.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T21:17:07Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Google Offers Unlimited Free Storage of Photos, Videos</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/google-offers-unlimited-free-storage-photos-videos-31370944" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T21:16:25Z</updated>
+    <published>2015-05-28T21:16:25Z</published>
+    <summary type="html">&lt;p&gt;Google will provide unlimited storage of all photos up to 16 megapixels and high-definition video up to 1080p.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T21:16:25Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
+    <title>Google offers unlimited free storage of photos, videos</title>
+    <link rel="alternate" href="http://news.yahoo.com/google-offers-unlimited-free-storage-photos-videos-190201666--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T21:15:27Z</updated>
+    <published>2015-05-28T21:15:27Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google is willing to store and organize all of the world's digital photos and videos for free.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T21:15:27Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/HK3iQr560vpyZw4c1pXiEA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2628c7aed586cb17770f6a70670088dd.jpg" />
+  </entry>
+  <entry>
+    <title>Google unveils Android's latest technological tricks</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-05-28-US--Google-Android&amp;apos;s%20Next%20Tricks/id-952f4a302b9543e69640d13ceb22d1f7" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T17:27:00Z</updated>
+    <published>2015-05-28T17:27:00Z</published>
+    <summary type="html">&lt;p&gt;Sundar Pichai, senior vice president of Android, Chrome and Apps, speaks during the Google I/O 2015 keynote presentation in San Francisco, Thursday, May 28, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T17:27:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google offers unlimited free storage of photos, videos</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11456568&amp;amp;ref=rss" />
     <author>
       <name />

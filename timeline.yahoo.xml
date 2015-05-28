@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chicago Bulls fire coach Tom Thibodeau, cite lack of trust (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/chicago-bulls-fire-coach-tom-thibodeau-162320449--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T21:22:18Z</updated>
+    <published>2015-05-28T21:22:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-28T21:22:18Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/RLnt.iPg3w7P8pH4AVtRBQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ0NjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201505281158431160509" />
+  </entry>
+  <entry>
+    <title>Buffalo Sabres hire ex-Penguins coach Dan Bylsma (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-ex-penguins-coach-bylsma-meet-again-140859854--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T19:35:02Z</updated>
+    <published>2015-05-28T19:35:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-28T19:35:02Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/kQNVuKyoLQQp5z91.qXvLw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505281226448010581" />
+  </entry>
+  <entry>
     <title>Yahoo sticks with Microsoft in search deal, but tweaks some terms</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_27928195/yahoo-sticks-microsoft-search-deal-but-tweaks-some?source=rss" />
     <author>
