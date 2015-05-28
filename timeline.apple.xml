@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Not just Apple anymore: HBO Now will be available through Android devices too this summer</title>
+    <link rel="alternate" href="http://www.startribune.com/hbo-now-will-be-available-through-android-too-this-summer/305371361/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T19:57:06Z</updated>
+    <published>2015-05-28T19:57:06Z</published>
+    <summary type="html">&lt;p&gt;HBO Now has been available since April for people to get the service through their iPhones, iPads or an Apple TV, or who were customers of New York-area cable provider Cablevision.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T19:57:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google Unveils Android's Latest Technological Tricks</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/google-unveils-androids-latest-technological-tricks-31368858" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T18:49:21Z</updated>
+    <published>2015-05-28T18:49:21Z</published>
+    <summary type="html">&lt;p&gt;Both Google and Apple are vying to make their products even more ubiquitous by transplanting much of their mobile technology into automobiles and Internet-connected televisions and appliances.&lt;/p&gt;&lt;p&gt;Android M will include an alternative to the mobile payment system that Apple introduced last fall.&lt;/p&gt;&lt;p&gt;Like Apple's system, Android Pay can be used to store major credit and debit cards in smartphones that can be used to pay merchants equipped with terminals that work with the technology.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T18:49:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple, Google, Microsoft audited</title>
+    <link rel="alternate" href="http://www.smh.com.au/business/the-economy/apple-google-microsoft-cop-tax-audit-20150410-1mgsma.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T14:07:07Z</updated>
+    <published>2015-04-08T14:07:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T14:07:07Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/g/t/v/z/image.related.articleLeadwide.620x349.1mgsma.png/1428665901614.jpg" />
+  </entry>
+  <entry>
     <title>Appeals court: Apple must submit to imposition of monitor</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11456503&amp;amp;ref=rss" />
     <author>

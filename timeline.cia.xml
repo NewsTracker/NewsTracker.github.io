@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Former CIA leader defends drone strikes, torture</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/89ae8247abe8493fae24405546e9a1aa/Article_2015-05-04-US--CIA-Morell%20Book/id-a3f9cbe32c6e4a119e588bb248c16d11" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T19:59:46Z</updated>
+    <published>2015-05-04T19:59:46Z</published>
+    <summary type="html">&lt;p&gt;While Morell says he is personally troubled by the harshest technique the CIA used on detainees, water boarding, he makes a case that agency leaders had no choice but to use what many consider torture in the years after the 9/11 attacks.&lt;/p&gt;&lt;p&gt;It is difficult for CIA officers to legally talk about the agency's drone strikes, because they are technically covert and deniable.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T19:59:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Poland makes payout to alleged victims of CIA renditions</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11449534&amp;amp;ref=rss" />
     <author>
@@ -219,17 +230,6 @@
     <summary type="html">&lt;p&gt;(AP) - A federal magistrate has ordered a psychiatric evaluation for an ex-FBI agent arrested at CIA headquarters after a confrontation with security officers.&lt;/p&gt;&lt;p&gt;According to court records, Davis on Thursday morning visited NSA headquarters at Fort Meade, Maryland, then drove to CIA headquarters at Langley.&lt;/p&gt;&lt;p&gt;She was arrested after refusing to follow CIA security officers' instructions.&lt;/p&gt;&lt;p&gt;One officer said she tried to reach for an officer's gun while partially handcuffed and shouted that the CIA could be bombed.&lt;/p&gt;</summary>
     <dc:date>2015-05-05T15:46:28Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
-  </entry>
-  <entry>
-    <title>Former CIA leader defends drone strikes, torture</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/89ae8247abe8493fae24405546e9a1aa/Article_2015-05-04-US--CIA-Morell%20Book/id-a3f9cbe32c6e4a119e588bb248c16d11" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-04T19:59:46Z</updated>
-    <published>2015-05-04T19:59:46Z</published>
-    <summary type="html">&lt;p&gt;While Morell says he is personally troubled by the harshest technique the CIA used on detainees, water boarding, he makes a case that agency leaders had no choice but to use what many consider torture in the years after the 9/11 attacks.&lt;/p&gt;</summary>
-    <dc:date>2015-05-04T19:59:46Z</dc:date>
   </entry>
   <entry>
     <title>Former CIA leader defends drone strikes, torture</title>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Economic toll of conflict builds up for Ukraine</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/19/economic-toll-of-conflict-builds-up-for-ukraine" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T13:22:08Z</updated>
+    <published>2015-05-19T13:22:08Z</published>
+    <summary type="html">&lt;p&gt;There seems to be no bottom for Ukraine's economy.&lt;/p&gt;&lt;p&gt;That has meant the economy refocused toward services such as IT and agriculture, the main economic engine in western Ukraine.&lt;/p&gt;&lt;p&gt;The drop was worse than expected and illustrates the huge impact of the rebels taking over much of Ukraine's industrial heartland in the country's east.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T13:22:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Violence escalates in east Ukraine ahead of talks</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Violence-escalates-in-east-Ukraine-ahead-of-talks/articleshow/46914510.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-14T00:28:40Z</updated>
+    <published>2015-04-14T00:28:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-14T00:28:40Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-46914513,width-300,resizemode-4/ukrn.jpg" />
+  </entry>
+  <entry>
     <title>License decision on Ukraine TV station postponed</title>
     <link rel="alternate" href="http://news.yahoo.com/license-decision-ukraine-tv-station-postponed-152406041.html" />
     <author>
@@ -215,17 +238,6 @@
     <summary type="html">&lt;p&gt;Even though Ukraine's crisis was sparked by protests in late 2013 calling for closer relations with the European Union and has since signed a deal strengthening its ties with the bloc, all of that has yet to translate into an economic gain.&lt;/p&gt;</summary>
     <dc:date>2015-05-19T13:36:06Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Economic toll of conflict builds up for Ukraine</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/19/economic-toll-of-conflict-builds-up-for-ukraine" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-19T13:22:08Z</updated>
-    <published>2015-05-19T13:22:08Z</published>
-    <summary type="html">&lt;p&gt;There seems to be no bottom for Ukraine's economy.&lt;/p&gt;&lt;p&gt;That has meant the economy refocused toward services such as IT and agriculture, the main economic engine in western Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-05-19T13:22:08Z</dc:date>
   </entry>
   <entry>
     <title>Captured Russian servicemen to be prosecuted for 'terrorist' acts, says Ukraine</title>
