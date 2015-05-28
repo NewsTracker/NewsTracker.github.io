@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Scientists watching Hawaii's Kilauea Volcano for new eruption</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/18/us-usa-hawaii-volcano-idUSKBN0O326920150518?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T21:09:01Z</updated>
+    <published>2015-05-18T21:09:01Z</published>
+    <summary type="html">&lt;p&gt;Scientists are closely watching a volcano on Hawaii's Big Island for a possible eruption after volatile changes in the level of a lake of lava on its summit and a series of earthquakes, the U.S. Geological Survey said on Monday.&lt;/p&gt;&lt;p&gt;An eruption in the Southwest Rift Zone would not pose a risk to people because that side of the volcano is not inhabited.&lt;/p&gt;&lt;p&gt;Seismic activity around the Kilauea Volcano had slowed but remained elevated and the lake of lava had sunk over the past several days, observatory said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T21:09:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>Volcano erupts for third time in 8 days</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/04/30/world/chile-calbuco-volcano/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+CNN+-+World%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T01:25:47Z</updated>
+    <published>2015-05-01T01:25:47Z</published>
+    <summary type="html">&lt;p&gt;The volcano has not erupted since 1961.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T01:25:47Z</dc:date>
+    <media:content url="http://edition.cnn.com/2015/04/30/world/chile-calbuco-volcano/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
+    <title>Chile volcano sends spectacular pillar of fire into night sky (VIDEO)</title>
+    <link rel="alternate" href="http://rt.com/news/237361-chile-volcano-eruption-video/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T19:28:14Z</updated>
+    <published>2015-03-03T19:28:14Z</published>
+    <summary type="html">&lt;p&gt;"The volcano is quiet now, very calm. You wouldn't know anything had happened,"he said.&lt;/p&gt;&lt;p&gt;Juan Carlos Rojas, head of air transit at the government's civil aeronautics division, said that ash from the volcano was well under flight paths used by commercial airliners.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T19:28:14Z</dc:date>
+    <media:content url="http://img.rt.com/files/news/39/f3/10/00/villarrica-1.si.jpg" />
+  </entry>
+  <entry>
     <title>Galapagos Island volcano erupts first time in 33 years</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article22184286.html%23storylink=rss" />
     <author>
@@ -69,17 +104,6 @@
     <published>2015-05-25T16:32:41Z</published>
     <summary type="html">&lt;p&gt;QUITO A volcano perched atop one of Ecuador's Galapagos islands erupted in the early hours of Monday, the National Park said, potentially threatening a unique species of pink iguanas.&lt;/p&gt;&lt;p&gt;"The Wolf volcano is not located near a populated area. There is not risk for the human population. This is the only population of pink iguanas in the world," The Galapagos National Park said on Twitter.&lt;/p&gt;&lt;p&gt;In April, unusual activity was also reported at the Sierra volcano on the same Isabela island, the archipelago's biggest, where yellow iguanas and giant turtles also live.&lt;/p&gt;</summary>
     <dc:date>2015-05-25T16:32:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Scientists watching Hawaii's Kilauea Volcano for new eruption</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/18/us-usa-hawaii-volcano-idUSKBN0O326920150518?feedType=RSS&amp;amp;feedName=environmentNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-18T21:09:01Z</updated>
-    <published>2015-05-18T21:09:01Z</published>
-    <summary type="html">&lt;p&gt;Scientists are closely watching a volcano on Hawaii's Big Island for a possible eruption after volatile changes in the level of a lake of lava on its summit and a series of earthquakes, the U.S. Geological Survey said on Monday.&lt;/p&gt;&lt;p&gt;An eruption in the Southwest Rift Zone would not pose a risk to people because that side of the volcano is not inhabited.&lt;/p&gt;</summary>
-    <dc:date>2015-05-18T21:09:01Z</dc:date>
   </entry>
   <entry>
     <title>Earthquakes on Hawaii volcano could signal new eruption</title>
@@ -1292,18 +1316,6 @@
     <summary type="html">&lt;p&gt;Cyclone-Pam.&lt;/p&gt;</summary>
     <dc:date>2015-03-13T10:42:41Z</dc:date>
     <media:content url="http://cdn.24.co.za/files/Cms/General/d/3024/cdbab4a0201d4c5eaf652b95ae07e147.jpg" />
-  </entry>
-  <entry>
-    <title>Chile volcano sends spectacular pillar of fire into night sky (VIDEO)</title>
-    <link rel="alternate" href="http://rt.com/news/237361-chile-volcano-eruption-video/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T19:28:14Z</updated>
-    <published>2015-03-03T19:28:14Z</published>
-    <summary type="html">&lt;p&gt;"The volcano is quiet now, very calm. You wouldn't know anything had happened,"he said.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T19:28:14Z</dc:date>
-    <media:content url="http://img.rt.com/files/news/39/f3/10/00/villarrica-1.si.jpg" />
   </entry>
   <entry>
     <title>Thousands evacuated after volcano erupts in southern Chile</title>

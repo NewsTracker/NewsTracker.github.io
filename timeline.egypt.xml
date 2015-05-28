@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt executes six members of Isis-aligned militant group Sinai Province</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/17/egypt-executes-six-members-of-isis-aligned-militant-group-sinai-province" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T12:47:20Z</updated>
+    <published>2015-05-17T12:47:20Z</published>
+    <summary type="html">&lt;p&gt;Egypt rejects allegations by critics that its judiciary is politicised.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T12:47:20Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt allows Gazans to return home through border crossing</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Egypt-allows-Gazans-to-return-home-through-border-6286089.php" />
     <author>

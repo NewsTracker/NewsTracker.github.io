@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tikrit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tikrit hit by US air strikes on Islamic State</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/tikrit-hit-by-us-air-strikes-on-islamic-state-20150326-1m8403.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T02:48:10Z</updated>
+    <published>2015-03-26T02:48:10Z</published>
+    <summary type="html">&lt;p&gt;Until Wednesday, US air strikes had continued in other parts of Iraq, but not near Tikrit, which is on the main highway between Baghdad and the northern city of Mosul, Iraq's second-largest city and a stronghold of the Islamic State since June.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T02:48:10Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/8/7/4/u/image.related.articleLeadwide.620x349.1m8403.png/1427337755892.jpg" />
+  </entry>
+  <entry>
     <title>Iraq 'exhumed 470 bodies from Tikrit mass graves'</title>
     <link rel="alternate" href="http://news.yahoo.com/iraq-exhumed-470-bodies-tikrit-mass-graves-092702183.html" />
     <author>

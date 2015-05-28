@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Courthouse empties after Day 1 of Holmes trial</title>
+    <link rel="alternate" href="http://news.yahoo.com/latest-theater-shooters-parents-arrive-courthouse-145056313.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T02:02:18Z</updated>
+    <published>2015-04-28T02:02:18Z</published>
+    <summary type="html">&lt;p&gt;A defense attorney has showed jurors a video of James Holmes shortly after his arrest in a deadly 2012 rampage at a Colorado movie theater.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T02:02:18Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>The Latest: Holmes called wounded 'collateral damage'</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article19712010.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T19:44:04Z</updated>
+    <published>2015-04-27T19:44:04Z</published>
+    <summary type="html">&lt;p&gt;Some victims' family members and survivors of the Colorado theater shooting have arrived at court in advance of opening statements in James Holmes' trial.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T19:44:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Theater shooting prosecutors build case that Holmes was sane</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article22494498.html%23storylink=rss" />
     <author>

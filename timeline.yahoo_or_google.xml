@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google?s mobilegeddon</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/technology-32393050%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T07:58:09Z</updated>
+    <published>2015-04-21T07:58:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-21T07:58:09Z</dc:date>
+    <media:content url="http://ichef.bbci.co.uk/news/200/media/images/82452000/jpg/_82452160_thinkstock_google.jpg" />
+  </entry>
+  <entry>
     <title>Warriors eliminate Rockets, end 40-year NBA Finals drought (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/warriors-eliminate-rockets-end-40-nba-finals-drought-040505605--nba.html" />
     <author>

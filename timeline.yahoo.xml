@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo sticks with Microsoft in search deal, but tweaks some terms</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_27928195/yahoo-sticks-microsoft-search-deal-but-tweaks-some?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T19:44:02Z</updated>
+    <published>2015-04-16T19:44:02Z</published>
+    <summary type="html">&lt;p&gt;In return, Yahoo will receive most of the revenue from the ads posted alongside the search results on its sites.&lt;/p&gt;&lt;p&gt;The original deal called for Microsoft to pay 88 percent of the search revenue to Yahoo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T19:44:02Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0128/20150128__0129yahoo%7E6_300.JPG" />
+  </entry>
+  <entry>
     <title>Warriors eliminate Rockets, end 40-year NBA Finals drought (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/warriors-eliminate-rockets-end-40-nba-finals-drought-040505605--nba.html" />
     <author>
@@ -1706,18 +1718,6 @@
     <summary type="html" />
     <dc:date>2015-04-16T20:43:16Z</dc:date>
     <media:content url="https://s.yimg.com/bt/api/res/1.2/gfitmyr.8s3sLPxs.twatw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504101414512617845" />
-  </entry>
-  <entry>
-    <title>Yahoo sticks with Microsoft in search deal, but tweaks some terms</title>
-    <link rel="alternate" href="http://www.mercurynews.com/business/ci_27928195/yahoo-sticks-microsoft-search-deal-but-tweaks-some?source=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-16T19:44:02Z</updated>
-    <published>2015-04-16T19:44:02Z</published>
-    <summary type="html">&lt;p&gt;In return, Yahoo will receive most of the revenue from the ads posted alongside the search results on its sites.&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T19:44:02Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0128/20150128__0129yahoo%7E6_300.JPG" />
   </entry>
   <entry>
     <title>Yahoo chooses to stay with Microsoft in updated search deal</title>
