@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Android's next version to offer new ways to fetch information, pay merchants, protect privacy</title>
+    <link rel="alternate" href="http://www.startribune.com/google-unveils-android-s-latest-technological-tricks/305354641/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T17:55:40Z</updated>
+    <published>2015-05-28T17:55:40Z</published>
+    <summary type="html">&lt;p&gt;The upgrade will give Android's personal assistant, Google Now, expanded powers of intuition that may be greeted as a great convenience to some and a tad too creepy for others.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T17:55:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google Unveils Android's Latest Technological Tricks</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/google-unveils-androids-latest-technological-tricks-31368858" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T17:52:25Z</updated>
+    <published>2015-05-28T17:52:25Z</published>
+    <summary type="html">&lt;p&gt;Google's next version of its Android operating system will boast new ways to fetch information, pay merchants, and protect privacy on mobile devices as the Internet company duels with Apple to make its technology indispensable.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T17:52:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google unveils Android's latest technological tricks</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/article/Google-unveils-Android-s-latest-technological-6292166.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T17:50:17Z</updated>
+    <published>2015-05-28T17:50:17Z</published>
+    <summary type="html">&lt;p&gt;The Android renovations unveiled Thursday at Google's annual developers' conference won't be available until late summer or early fall.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T17:50:17Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/57/66/8060336/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Google?s mobilegeddon</title>
     <link rel="alternate" href="http://www.bbc.co.uk/news/technology-32393050%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
     <author>

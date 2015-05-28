@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama meets with family of reporter killed by Islamic State</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/05/28/obama-meets-with-family-of-reporter-killed-by-islamic-state" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T17:10:08Z</updated>
+    <published>2015-05-28T17:10:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-28T17:10:08Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/c664701/2147483647/thumbnail/204x136%3E/quality/85/?url=%2Fcmsmedia%2F31%2F12%2Fefb873234c6f8055960f1f4360f0%2Fresizes%2F500%2Fthumb-3.jpg" />
+  </entry>
+  <entry>
     <title>Islamic State photos purport to show unharmed Palmyra ruins</title>
     <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/05/28/22422816.html?cid=rssnewsworld" />
     <author>

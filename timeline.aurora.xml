@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.aurora.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Psychiatrist who examined James Holmes testifies</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article22520970.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T17:51:35Z</updated>
+    <published>2015-05-28T17:51:35Z</published>
+    <summary type="html">&lt;p&gt;Holmes has pleaded not guilty by reason of insanity in the attack at an Aurora movie theater that killed 12 people and injured 70.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T17:51:35Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Jury in Aurora, Colo., mass shooting trial shown graphic photos</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/jury-in-aurora-colo-mass-shooting-trial-shown-graphic-photos-1.2353200" />
     <author>

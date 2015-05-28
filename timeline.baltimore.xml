@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore homicides spike to 16-year high; arrests plunge</title>
+    <link rel="alternate" href="http://www.mercurynews.com/crime-courts/ci_28204907/baltimore-homicides-at-16-year-high-arrests-plunge?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T15:34:59Z</updated>
+    <published>2015-05-28T15:34:59Z</published>
+    <summary type="html">&lt;p&gt;Baltimore was seeing a slight rise in homicides this year even before Gray's death April 19.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T15:34:59Z</dc:date>
+  </entry>
+  <entry>
     <title>After Freddie Gray, some say Baltimore's police won't change without direct federal oversight</title>
     <link rel="alternate" href="http://www.startribune.com/business/economy/302652601.html" />
     <author>
