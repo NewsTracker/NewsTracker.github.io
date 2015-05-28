@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore residents fearful amid rash of homicides</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/05/28/baltimore-residents-fearful-amid-rash-of-homicides" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T08:43:46Z</updated>
+    <published>2015-05-28T08:43:46Z</published>
+    <summary type="html">&lt;p&gt;Perrine's brother is one of 36 people killed in Baltimore so far this month, already the highest homicide count for May since 1999.&lt;/p&gt;&lt;p&gt;Now West Baltimore residents worry they've been abandoned by the officers they once accused of harassing them.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T08:43:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Maryland lawmakers take up police reform after Baltimore unrest</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3097296/Maryland-lawmakers-police-reform-Baltimore-unrest.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

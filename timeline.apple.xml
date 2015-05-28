@@ -4,6 +4,75 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple loses bid to disqualify antitrust monitor: U.S. court</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/28/us-apple-ebooks-monitor-idUSKBN0OD1OQ20150528?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T14:50:46Z</updated>
+    <published>2015-05-28T14:50:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-28T14:50:46Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150528&amp;amp;t=2&amp;amp;i=1051893988&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB4R0NX" />
+  </entry>
+  <entry>
+    <title>Appeals court: Apple must submit to imposition of monitor</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/article/Appeals-court-Apple-must-submit-to-imposition-of-6291728.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T14:38:29Z</updated>
+    <published>2015-05-28T14:38:29Z</published>
+    <summary type="html">&lt;p&gt;The three-judge panel concluded that a judge did not act improperly when she declined Apple's request to disqualify a monitor she had appointed to evaluate Apple's antitrust policies.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T14:38:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>Appeals court: Apple must submit to imposition of monitor</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/28/appeals-court-apple-must-submit-to-imposition-of-monitor" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T14:38:29Z</updated>
+    <published>2015-05-28T14:38:29Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - A federal appeals panel has refused to disqualify a court-appointed monitor after a judge found Apple colluded with book publishers in 2010 to raise electronic book prices.&lt;/p&gt;&lt;p&gt;The 2nd U.S. Circuit Court of Appeals in Manhattan ruled against Apple Inc. Thursday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T14:38:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>GM to offer Android, Apple systems in many 2016 models</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/article/GM-to-offer-Android-Apple-systems-in-many-2016-6289970.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-27T21:00:23Z</updated>
+    <published>2015-05-27T21:00:23Z</published>
+    <summary type="html">&lt;p&gt;By the end of the year, nearly every major automaker will begin offering Apple's CarPlay or Google's Android Auto systems that will send smart phone looks and functions to dashboard screens.&lt;/p&gt;</summary>
+    <dc:date>2015-05-27T21:00:23Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/56/40/8054834/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>GM to offer Android, Apple systems in many 2016 models</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article22448436.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-27T20:07:06Z</updated>
+    <published>2015-05-27T20:07:06Z</published>
+    <summary type="html">&lt;p&gt;To work with MyLink, Android phones must have at least the Lollipop 5.0 operating system, while Apple CarPlay requires an iPhone 5 or newer model.&lt;/p&gt;&lt;p&gt;International Data Corp. is forecasting Android will have a 79 percent share of the smartphone market this year with Apple (iOS) a distant second at 16 percent.&lt;/p&gt;</summary>
+    <dc:date>2015-05-27T20:07:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Bug crashes iPhone when message received</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/27/bug-crashes-iphone-when-message-received" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-27T18:18:02Z</updated>
+    <published>2015-05-27T18:18:02Z</published>
+    <summary type="html">&lt;p&gt;Apple Inc has found a bug which can cause iPhones to crash when a message containing a specific string of text is received.&lt;/p&gt;&lt;p&gt;The bug, which includes symbols and Arabic characters, was first reported by Apple news blog MacRumors on Tuesday night, adding that it was noticed on social news hub Reddit earlier in the day.&lt;/p&gt;&lt;p&gt;"We are aware of an iMessage issue caused by a specific series of unicode characters and we will make a fix available in a software update," an Apple spokesperson said in an e-mail.&lt;/p&gt;</summary>
+    <dc:date>2015-05-27T18:18:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple promotes tech guru Jonathan Ive as head of design</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article22323300.html%23storylink=rss" />
     <author>
@@ -1258,7 +1327,7 @@
     <dc:date>2015-04-15T14:41:44Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -1743,7 +1812,7 @@
     <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150408&amp;amp;t=2&amp;amp;i=1038840669&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB370KG" />
   </entry>
   <entry>
-    <title>Apple Watch review: You’ll want one, but you don’t need one</title>
+    <title>Apple Watch review: You?ll want one, but you don?t need one</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-watch-review-youll-want-one-but-you-dont-need-one" />
     <author>
       <name />

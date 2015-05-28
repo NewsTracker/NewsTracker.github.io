@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico working hard to prevent new outbreaks of bird flu: official</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/27/us-health-birdflu-mexico-idUSKBN0OC2T120150527?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-27T21:46:36Z</updated>
+    <published>2015-05-27T21:46:36Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY Mexico is working hard to prevent outbreaks of a bird flu epidemic that has stricken the U.S. poultry and egg industry in recent months, a senior Mexican agriculture ministry official said on Wednesday.&lt;/p&gt;&lt;p&gt;A strain of the bird flu virus spread across Mexico's poultry industry in 2012 and 2013 and led to the death of nearly 20 million birds over two years.&lt;/p&gt;&lt;p&gt;The official added: "This risk is there due to our shared border and the trade on the border ... but all countries that trade with the United States are in danger not just Mexico."&lt;/p&gt;</summary>
+    <dc:date>2015-05-27T21:46:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico hit by tornado, floods leaving 13 dead</title>
     <link rel="alternate" href="http://www.smh.com.au/world/mexico-hit-by-tornado-floods-leaving-13-dead-20150526-gh9vbl.html" />
     <author>
@@ -2239,7 +2250,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -3317,7 +3328,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -3329,7 +3340,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
