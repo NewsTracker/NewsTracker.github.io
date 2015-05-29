@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple buys German augmented-reality software maker Metaio</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3102869/Apple-buys-German-augmented-reality-software-maker-Metaio.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T18:02:30Z</updated>
+    <published>2015-05-29T18:02:30Z</published>
+    <summary type="html">&lt;p&gt;A document filed with a Munich court showed that Apple is now the company's sole shareholder.&lt;/p&gt;&lt;p&gt;Metaio executives didn't respond to requests for comment and Apple issued a statement but provided no details.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T18:02:30Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple buys VR company: Report</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/05/29/22424846-relaxnews.html?cid=rsstechnology" />
     <author>
@@ -1913,7 +1924,7 @@
     <dc:date>2015-04-15T14:41:44Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2440,7 +2451,7 @@
     <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150408&amp;amp;t=2&amp;amp;i=1038840669&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB370KG" />
   </entry>
   <entry>
-    <title>Apple Watch review: You’ll want one, but you don’t need one</title>
+    <title>Apple Watch review: You?ll want one, but you don?t need one</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-watch-review-youll-want-one-but-you-dont-need-one" />
     <author>
       <name />
