@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State claims responsibility for Baghdad hotel bombs</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3102549/Islamic-State-claims-responsibility-Baghdad-hotel-bombs.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T14:03:41Z</updated>
+    <published>2015-05-29T14:03:41Z</published>
+    <summary type="html">&lt;p&gt;Iraqi authorities lifted a decade-old night-time curfew on Baghdad early this year, seeking to restore a sense of normality to the capital as security forces battle Islamic State insurgents who have overrun large parts of the country.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T14:03:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State claims blast at Saudi Arabia mosque</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-claims-blast-at-saudi-arabia-mosque-20150529-ghczqj.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T13:29:44Z</updated>
+    <published>2015-05-29T13:29:44Z</published>
+    <summary type="html">&lt;p&gt;Islamic State sympathisers exchanged photos of the scene on social media, saying the attack was targeting "rejectionsists" - a term usually used by the militant group or al Qaeda.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T13:29:44Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/c/z/s/g/image.related.articleLeadwide.620x349.ghczqj.png/1432906169386.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State claims blast at Saudi Arabia mosque</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/islamic-state-claims-blast-at-saudi-arabia-mosque-20150529-ghczqj.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T13:29:44Z</updated>
+    <published>2015-05-29T13:29:44Z</published>
+    <summary type="html">&lt;p&gt;An Islamic State statement named the suicide bomber as Abu Jandal al-Jizrawi and said he had managed to reach his target despite heightened security.&lt;/p&gt;&lt;p&gt;Islamic State openly acknowledges it is trying to stir sectarian confrontation as a way of hastening the overthrow of the ruling Al Saud family, and has urged young Saudi Sunnis in the kingdom to attack targets including Shiites.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T13:29:44Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/c/z/s/g/image.related.articleLeadwide.620x349.ghczqj.png/1432906169386.jpg" />
+  </entry>
+  <entry>
     <title>Why do Western women join Islamic State?</title>
     <link rel="alternate" href="http://www.smh.com.au/world/why-do-western-women-join-islamic-state-20150529-ghc460.html" />
     <author>
