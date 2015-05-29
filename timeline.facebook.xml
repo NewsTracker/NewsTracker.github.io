@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook Can Finally Support GIFs</title>
+    <link rel="alternate" href="https://www.yahoo.com/tech/facebook-can-finally-support-gifs-120191976124.html?src=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T15:46:17Z</updated>
+    <published>2015-05-29T15:46:17Z</published>
+    <summary type="html">&lt;p&gt;A link to a GIF from any supporting website will now play perfectly when pasted into your Facebook status bar or in a comments or reply section.&lt;/p&gt;&lt;p&gt;However, after a near two-year wait, Facebook has now tweaked its code sufficiently so that support for GIFs is native.&lt;/p&gt;&lt;p&gt;And while it means that a link for a GIF, hosted on sites such as giphy, tumblr or Imgur, will play on Facebook when the link is pasted in, it doesn&amp;#x2019;t mean that the social network now supports direct GIF uploads.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T15:46:17Z</dc:date>
+    <media:content url="https://s.yimg.com/cd/diminuendo/1.0/original/ad60b6780362cff4101a562f432b2f1643f76f84.gif" />
+  </entry>
+  <entry>
     <title>Facebook 'tramples European privacy law': Belgian watchdog</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/05/15/facebook-tramples-european-privacy-law-belgian-watchdog" />
     <author>
@@ -1385,7 +1397,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
+    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />

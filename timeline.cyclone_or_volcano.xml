@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Japan's Mount Shindake erupts suddenly</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/japan-s-mount-shindake-erupts-suddenly-1.3092358?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T07:12:33Z</updated>
+    <published>2015-05-29T07:12:33Z</published>
+    <summary type="html">&lt;p&gt;The volcano erupted suddenly on Friday, blasting plumes of black smoke high into the sky, prompting authorities to order the evacuation of the island's residents and forcing airlines to divert some flights.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T07:12:33Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3092359.1432882421!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/japan-volcano.jpg" />
+  </entry>
+  <entry>
+    <title>Volcano's eruption caught on camera in Nicaragua</title>
+    <link rel="alternate" href="http://www.euronews.com/nocomment/2015/05/14/volcano-eruption-caught-on-camera-in-nicaragua/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T07:50:06Z</updated>
+    <published>2015-05-14T07:50:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-14T07:50:06Z</dc:date>
+    <media:content url="http://static.euronews.com/projects/embed/close-icon.png" />
+  </entry>
+  <entry>
+    <title>'Wired' Underwater Volcano May Be Erupting Off Oregon</title>
+    <link rel="alternate" href="http://news.yahoo.com/wired-underwater-volcano-may-erupting-off-oregon-194611197.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:46:11Z</updated>
+    <published>2015-05-01T19:46:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-01T19:46:11Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/cWVIsBA0kEpZbX2qGrgcOg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_US/News/LiveScience.com/axial_map.jpg1430507708" />
+  </entry>
+  <entry>
     <title>Volcano erupts in southern Japan, spewing ash high into sky</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3102084/Volcano-erupts-southern-Japan-spewing-ash-high-sky.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
