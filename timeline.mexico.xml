@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>1st tropical storm of Pacific season strengthens off Mexico</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/1st-tropical-storm-of-pacific-season-strengthens-off-mexico-1.2396425" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T23:33:29Z</updated>
+    <published>2015-05-28T23:33:29Z</published>
+    <summary type="html">&lt;p&gt;MIAMI - The first named tropical storm of the eastern Pacific hurricane season has formed far from Mexico's coast.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T23:33:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>North Korea warns will act to get back ship held by Mexico</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3031037/North-Korea-warns-act-ship-held-Mexico.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T21:02:40Z</updated>
+    <published>2015-04-08T21:02:40Z</published>
+    <summary type="html">&lt;p&gt;Mexico said the ship remains in the port of Tuxpan.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T21:02:40Z</dc:date>
+  </entry>
+  <entry>
     <title>New Mexico's lottery scholarships to be larger than expected</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article22515369.html%23storylink=rss" />
     <author>

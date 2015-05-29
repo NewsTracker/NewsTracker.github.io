@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Google offers unlimited free storage of photos, videos</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article22533714.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T23:42:04Z</updated>
+    <published>2015-05-28T23:42:04Z</published>
+    <summary type="html">&lt;p&gt;"There has been a renaissance in the thinking of what Google Plus is for," said Bradley Horowitz, Google's vice president of photos and streams.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T23:42:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Google offers unlimited free storage of photos, videos</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article22533714.html%23storylink=rss" />
     <author>
       <name />
