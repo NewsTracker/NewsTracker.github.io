@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Japanese Volcano Mount Shindake Erupts On Kuchinoerabu Island</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/05/28/mount-shindake-volcano-_n_7465596.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T01:47:37Z</updated>
+    <published>2015-05-29T01:47:37Z</published>
+    <summary type="html">&lt;p&gt;No injuries had been reported, although the Japan Meteorological Agency reported that pyroclastic flows from the volcano had reached the shore to the northwest.&lt;/p&gt;&lt;p&gt;The Japan Meterological Agency raised the volcano alert level to five, the highest on its scale.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T01:47:37Z</dc:date>
+    <media:content url="http://i.huffpost.com/gen/3007576/images/n-VOLCANO-large570.jpg" />
+  </entry>
+  <entry>
+    <title>Volcano erupts on southern Japanese island</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-world/volcano-erupts-on-southern-japanese-island-20150529-3wtxm.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T01:36:53Z</updated>
+    <published>2015-05-29T01:36:53Z</published>
+    <summary type="html">&lt;p&gt;A volcano is erupting on a small island in southern Japan, and authorities have advised residents to evacuate from the immediate area.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T01:36:53Z</dc:date>
+  </entry>
+  <entry>
+    <title>Volcano Erupts on Small Southern Japanese Island; Residents Urged to Evacuate</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/volcano-erupts-small-southern-japanese-island-residents-urged-31379932" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T01:25:51Z</updated>
+    <published>2015-05-29T01:25:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-29T01:25:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Relief teams reach Vanuatu's cyclone-hit outer islands</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article14547779.html%23storylink=rss" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bodies retrieved from US chopper in Nepal</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/16/bodies-retrieved-us-chopper-nepal" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T06:02:17Z</updated>
+    <published>2015-05-16T06:02:17Z</published>
+    <summary type="html">&lt;p&gt;"Eight bodies have been recovered," the Nepal Army said on Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T06:02:17Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20150515001133304412-original_800x600.jpg?itok=wnVii6I7" />
+  </entry>
+  <entry>
     <title>Nepal moves to protect children from traffickers after quake</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3097344/Nepal-moves-protect-children-traffickers-quake.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -278,18 +290,6 @@
     <summary type="html" />
     <dc:date>2015-05-16T07:12:15Z</dc:date>
     <media:content url="http://media.npr.org/assets/img/2015/05/16/ap864816693959_custom-870b8b7f4da4a6831d609fdc05c1ba0768458e60-s800-c15.jpg" />
-  </entry>
-  <entry>
-    <title>Bodies retrieved from US chopper in Nepal</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/16/bodies-retrieved-us-chopper-nepal" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-16T06:02:17Z</updated>
-    <published>2015-05-16T06:02:17Z</published>
-    <summary type="html">&lt;p&gt;"Eight bodies have been recovered," the Nepal Army said on Saturday.&lt;/p&gt;</summary>
-    <dc:date>2015-05-16T06:02:17Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20150515001133304412-original_800x600.jpg?itok=wnVii6I7" />
   </entry>
   <entry>
     <title>Brick factories prepare for business boom in Nepal amid desperate need to rebuild after quake</title>
@@ -3492,7 +3492,7 @@
     <dc:date>2015-04-09T15:54:40Z</dc:date>
   </entry>
   <entry>
-    <title>China plans rail tunnel UNDERNEATH Mount Everest which would link the country with Nepal?</title>
+    <title>China plans rail tunnel UNDERNEATH Mount Everest which would link the country with Nepal </title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3031966/China-plans-rail-tunnel-UNDERNEATH-Mount-Everest-link-country-Nepal.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

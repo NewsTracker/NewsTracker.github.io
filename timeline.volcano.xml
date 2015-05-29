@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Volcano erupts on remote Japanese island, evacuation ordered</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3101797/Volcano-erupts-remote-Japanese-island-evacuation-ordered.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T02:03:13Z</updated>
+    <published>2015-05-29T02:03:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-29T02:03:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Japanese Volcano Mount Shindake Erupts On Kuchinoerabu Island</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/05/28/mount-shindake-volcano-_n_7465596.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T01:47:37Z</updated>
+    <published>2015-05-29T01:47:37Z</published>
+    <summary type="html">&lt;p&gt;No injuries had been reported, although the Japan Meteorological Agency reported that pyroclastic flows from the volcano had reached the shore to the northwest.&lt;/p&gt;&lt;p&gt;The Japan Meterological Agency raised the volcano alert level to five, the highest on its scale.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T01:47:37Z</dc:date>
+    <media:content url="http://i.huffpost.com/gen/3007576/images/n-VOLCANO-large570.jpg" />
+  </entry>
+  <entry>
+    <title>Volcano erupts on southern Japanese island</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-world/volcano-erupts-on-southern-japanese-island-20150529-3wtxm.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T01:36:53Z</updated>
+    <published>2015-05-29T01:36:53Z</published>
+    <summary type="html">&lt;p&gt;A volcano is erupting on a small island in southern Japan, and authorities have advised residents to evacuate from the immediate area.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T01:36:53Z</dc:date>
+  </entry>
+  <entry>
+    <title>Volcano Erupts on Small Southern Japanese Island; Residents Urged to Evacuate</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/volcano-erupts-small-southern-japanese-island-residents-urged-31379932" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T01:25:51Z</updated>
+    <published>2015-05-29T01:25:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-29T01:25:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Scientists watching Hawaii's Kilauea Volcano for new eruption</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/18/us-usa-hawaii-volcano-idUSKBN0O326920150518?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
