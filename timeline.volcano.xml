@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Japanese island to be evacuated after volcano erupts</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3101797/Volcano-erupts-remote-Japanese-island-evacuation-ordered.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T06:01:57Z</updated>
+    <published>2015-05-29T06:01:57Z</published>
+    <summary type="html">&lt;p&gt;The company said an internal analysis showed the erupting volcano posed no risk to the Sendai plant on Kyushu island, and volcanologists agreed.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T06:01:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>Volcano erupts on Japanese island, evacuation ordered and flights diverted</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/29/volcano-erupts-on-japanese-island-evacuation-ordered-and-flights-diverted" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T04:33:03Z</updated>
+    <published>2015-05-29T04:33:03Z</published>
+    <summary type="html">&lt;p&gt;"Even a large eruption on the island won't pose a risk to the Sendai plant," said Setsuya Nakada, a professor at Tokyo University's Volcano Research Centre.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T04:33:03Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297705938073_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Volcano Erupts on Southern Japanese Island</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/volcano-erupts-southern-japanese-island-31380006" />
     <author>
