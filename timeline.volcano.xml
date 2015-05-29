@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Volcano erupts in southern Japan, spewing ash high into sky</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3102084/Volcano-erupts-southern-Japan-spewing-ash-high-sky.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T12:02:28Z</updated>
+    <published>2015-05-29T12:02:28Z</published>
+    <summary type="html">&lt;p&gt;Japan's Prime Minister Shinzo Abe announces governmental response to an eruption of a volcano in southern Japan, at his official residence in Tokyo Friday, May 29, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T12:02:28Z</dc:date>
+  </entry>
+  <entry>
     <title>Mount Shindake volcano erupts, Japan calls for evacuation</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/mount-shindake-volcano-erupts-japan-calls-for-evacuation-20150529-ghceo4.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple working on a fix to glitch that lets pranksters crash iPhones</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/apple-working-on-a-fix-to-glitch-that-lets-pranksters-crash-iphones-1.2394316" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-27T21:48:55Z</updated>
+    <published>2015-05-27T21:48:55Z</published>
+    <summary type="html">&lt;p&gt;A newly-discovered glitch in Apple's software can cause iPhones to mysteriously shut down when they receive a certain text message.&lt;/p&gt;</summary>
+    <dc:date>2015-05-27T21:48:55Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple buys a maker of futuristic augmented-reality software</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11456673&amp;amp;ref=rss" />
     <author>

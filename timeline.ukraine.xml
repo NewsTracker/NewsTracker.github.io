@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>One Ukrainian servicemen killed in east Ukraine</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3102251/One-Ukrainian-servicemen-killed-east-Ukraine.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T11:06:18Z</updated>
+    <published>2015-05-29T11:06:18Z</published>
+    <summary type="html">&lt;p&gt;Violence has fallen off significantly in Ukraine's east since a ceasefire was brokered in the Belarussian capital of Minsk in mid-February but government forces and separatists accuse one another of violations, with almost daily casualties.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T11:06:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine marks 29 years since Chernobyl disaster</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Ukraine-marks-29-years-since-Chernobyl-disaster/articleshow/47064468.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-26T22:46:29Z</updated>
+    <published>2015-04-26T22:46:29Z</published>
+    <summary type="html">&lt;p&gt;At the site of the plant itself, around 100 kilometres from Kiev, Ukraine's President Petro Poroshenko laid a wreath at a monument to the victims.&lt;/p&gt;</summary>
+    <dc:date>2015-04-26T22:46:29Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47064558,width-300,resizemode-4/Ukraine-Chernobyl-Anniversary.jpg" />
+  </entry>
+  <entry>
     <title>Putin tells Kiev to let troops surrender as Ukraine ceasefire unravels</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/02/17/ukraine-truce-unravels-as-battle-rages-arms-pullback-stalls" />
     <author>
