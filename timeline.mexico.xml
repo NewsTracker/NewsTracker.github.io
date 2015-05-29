@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>7 dead in Mexico amid violence during anti-cartel operation</title>
+    <link rel="alternate" href="http://news.yahoo.com/burning-vehicles-block-roads-guadalajara-mexico-173335947.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T21:51:29Z</updated>
+    <published>2015-05-01T21:51:29Z</published>
+    <summary type="html">&lt;p&gt;Associated Press writer Elizabeth Rivera reported this story in Guadalajara and Christopher Sherman reported from Mexico City.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T21:51:29Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/CEOZladGO6lrYPF6eOYnaQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/a5d63af47d264313750f6a7067004e00.jpg" />
+  </entry>
+  <entry>
     <title>1st tropical storm of Pacific season strengthens off Mexico</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3100554/Tropical-depression-forms-Pacific-season.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1202,18 +1214,6 @@
     <dc:date>2015-05-01T21:55:28Z</dc:date>
   </entry>
   <entry>
-    <title>7 dead in Mexico amid violence during anti-cartel operation</title>
-    <link rel="alternate" href="http://news.yahoo.com/burning-vehicles-block-roads-guadalajara-mexico-173335947.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-01T21:51:29Z</updated>
-    <published>2015-05-01T21:51:29Z</published>
-    <summary type="html" />
-    <dc:date>2015-05-01T21:51:29Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/CEOZladGO6lrYPF6eOYnaQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/a5d63af47d264313750f6a7067004e00.jpg" />
-  </entry>
-  <entry>
     <title>7 killed among violence in Jalisco, Mexico</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3064541/Burning-vehicles-block-roads-Guadalajara-Mexico.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -2305,7 +2305,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -3383,7 +3383,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -3395,7 +3395,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />

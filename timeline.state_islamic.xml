@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Conditions turn dire after Islamic State group militants overrun Palestinian camp in Syria</title>
+    <link rel="alternate" href="http://www.startribune.com/world/299098121.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T20:35:30Z</updated>
+    <published>2015-04-08T20:35:30Z</published>
+    <summary type="html">&lt;p&gt;They had settled in that area after being pushed out of regions east of the capital by Islamic rebels last year.&lt;/p&gt;&lt;p&gt;Heavy clashes continued in the camp, a week after extremists from the Islamic State group burst in from the Hajar Aswad district south of Damascus.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T20:35:30Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State claims blast killing four at Saudi mosque</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/05/29/saudi-agency-says-suicide-bomber-attacks-shiite-mosque-and-kills-4-in-east/" />
     <author>
@@ -196,17 +207,6 @@
     <published>2015-04-21T18:36:31Z</published>
     <summary type="html">&lt;p&gt;Facing the new threat of Islamic State militants, Beyene said that Holot detainees are terrified and prefer to stay locked up than leave to an uncertain fate in Africa.&lt;/p&gt;&lt;p&gt;He was apparently arrested by Islamic State militants on his way to Tripoli, where he hope to make the harrowing trip by sea to Europe.&lt;/p&gt;</summary>
     <dc:date>2015-04-21T18:36:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Conditions turn dire after Islamic State group militants overrun Palestinian camp in Syria</title>
-    <link rel="alternate" href="http://www.startribune.com/world/299098121.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T20:35:30Z</updated>
-    <published>2015-04-08T20:35:30Z</published>
-    <summary type="html">&lt;p&gt;They had settled in that area after being pushed out of regions east of the capital by Islamic rebels last year.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T20:35:30Z</dc:date>
   </entry>
   <entry>
     <title>CIA'S Brennan: Islamic State's momentum blunted in Syria, Iraq</title>
@@ -6707,7 +6707,7 @@
     <media:content url="http://www.usnews.com/dims4/USNEWS/fd3ae02/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png" />
   </entry>
   <entry>
-    <title>Nigeria?s Boko Haram pledges allegiance to Islamic State</title>
+    <title>Nigeria’s Boko Haram pledges allegiance to Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/Nigeria-s-Boko-Haram-pledges-allegiance-to-6121265.php" />
     <author>
       <name />

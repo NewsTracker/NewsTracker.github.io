@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Vanuatu appeals for aid after cyclone 'calamity'</title>
+    <link rel="alternate" href="http://news.yahoo.com/devastating-storm-pounds-pacific-island-vanuatu-235637066.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T00:18:32Z</updated>
+    <published>2015-03-15T00:18:32Z</published>
+    <summary type="html">&lt;p&gt;Fiji Weather Service meteorologist Neville Koop said the cyclone was weakening as it slowly moved away from Vanuatu, and would pass between Fiji and New Caledonia before brushing the North Island of New Zealand on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T00:18:32Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/jERgZFDrel8zQP.5HvF2AA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-03-24T181704Z_1_LYNXMPEB2N0XF_RTROPTP_2_WEATHER-VANUATU-CYCLONE.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>Japan's Mount Shindake erupts suddenly</title>
     <link rel="alternate" href="http://www.cbc.ca/news/world/japan-s-mount-shindake-erupts-suddenly-1.3092358?cmp=rss" />
     <author>

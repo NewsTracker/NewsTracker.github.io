@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook unveils plans for more office space</title>
+    <link rel="alternate" href="http://www.latimes.com/business/la-fi-tn-facebook-expansion-20150407-story.html?track=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T18:52:00Z</updated>
+    <published>2015-04-07T18:52:00Z</published>
+    <summary type="html">&lt;p&gt;Facebook's expansion in Menlo Park, Calif., is showing no signs of slowing down.&lt;/p&gt;&lt;p&gt;Also designed by Gehry, the two office buildings would total 985,719 square feet and have a similar look, feel and height to the new Facebook building across from its main headquarters.&lt;/p&gt;&lt;p&gt;Facebook would demolish nine buildings on the site to make way for the new buildings, one of which would include space for events that can hold as many as 2,000 people.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T18:52:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Fin24.com | Facebook bets on Messenger app for e-commerce</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/Companies/Facebook-bets-on-Messenger-app-for-e-commerce-20150326" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T07:04:25Z</updated>
+    <published>2015-03-26T07:04:25Z</published>
+    <summary type="html">&lt;p&gt;"I think that they are interested in letting people know that Facebook is not a single app company, it is an app constellation."&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T07:04:25Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook Can Finally Support GIFs</title>
     <link rel="alternate" href="https://www.yahoo.com/tech/facebook-can-finally-support-gifs-120191976124.html?src=rss" />
     <author>
@@ -1033,17 +1055,6 @@
   </entry>
   <entry>
     <title>Facebook unveils plans for more office space</title>
-    <link rel="alternate" href="http://www.latimes.com/business/la-fi-tn-facebook-expansion-20150407-story.html?track=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-07T18:52:00Z</updated>
-    <published>2015-04-07T18:52:00Z</published>
-    <summary type="html">&lt;p&gt;Facebook's expansion in Menlo Park, Calif., is showing no signs of slowing down.&lt;/p&gt;&lt;p&gt;Also designed by Gehry, the two office buildings would total 985,719 square feet and have a similar look, feel and height to the new Facebook building across from its main headquarters.&lt;/p&gt;</summary>
-    <dc:date>2015-04-07T18:52:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Facebook unveils plans for more office space</title>
     <link rel="alternate" href="http://www.latimes.com/business/la-fi-tn-facebook-expansion-20150407-story.html" />
     <author>
       <name />
@@ -1397,7 +1408,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
+    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
