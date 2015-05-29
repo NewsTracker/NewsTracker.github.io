@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>'Clinton Cash' author says no 'direct evidence' of wrongdoing</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/04/26/politics/schweizer-clinton-cash/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_allpolitics+%28RSS%3A+CNN+-+Politics%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T13:35:19Z</updated>
+    <published>2015-04-27T13:35:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-27T13:35:19Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/150420131306-hillary-clinton-iowa-large-169.jpg" />
+  </entry>
+  <entry>
     <title>Bill Clinton hopes to keep working _ whatever Hillary does</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3101114/Bill-Clinton-hopes-working-_-Hillary-does.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -816,7 +828,7 @@
     <dc:date>2015-04-17T00:01:19Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton faces a challenge in voters? trust</title>
+    <title>Hillary Clinton faces a challenge in voters’ trust</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article18703005.html%23storylink=rss" />
     <author>
       <name />
@@ -1706,7 +1718,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Hillary Clinton?s campaign signs lease for Brooklyn Heights</title>
+    <title>Hillary Clinton’s campaign signs lease for Brooklyn Heights</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-campaign-signs-lease-brooklyn-heights-article-1.2172344?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>
       <name />

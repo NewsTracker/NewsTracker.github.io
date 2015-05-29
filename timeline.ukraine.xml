@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Putin tells Kiev to let troops surrender as Ukraine ceasefire unravels</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/02/17/ukraine-truce-unravels-as-battle-rages-arms-pullback-stalls" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-17T21:57:01Z</updated>
+    <published>2015-02-17T21:57:01Z</published>
+    <summary type="html">&lt;p&gt;The United States has been considering sending weapons to aid Kiev, although the State Department said on Tuesday getting into a proxy war with Russia was not in the interests of Ukraine or the world.&lt;/p&gt;&lt;p&gt;Ukraine denied that the number of captives was that high.&lt;/p&gt;</summary>
+    <dc:date>2015-02-17T21:57:01Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297665109450_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Amid Ukraine denials, Putin orders Russian peacetime troop deaths be kept secret</title>
     <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/05/29/world/amid-ukraine-denials-putin-orders-russian-peacetime-troop-deaths-kept-secret/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=amid-ukraine-denials-putin-orders-russian-peacetime-troop-deaths-kept-secret&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
     <author>
@@ -4074,18 +4086,6 @@
     <summary type="html">&lt;p&gt;Ukraine denied rebel claims to have taken control of the town but acknowledged the separatists had seized parts of it.&lt;/p&gt;&lt;p&gt;The Ukrainian presidential office called on the European Union and NATO to condemn the Russia-backed rebels for violating the cease-fire brokered by the leaders of Ukraine, Russia, Germany and France last week.&lt;/p&gt;&lt;p&gt;Vice President Joe Biden condemned violations of the cease-fire in eastern Ukraine which the White House is blaming on pro-Russian separatists and Russian forces.&lt;/p&gt;</summary>
     <dc:date>2015-02-18T02:48:08Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
-  </entry>
-  <entry>
-    <title>Putin tells Kiev to let troops surrender as Ukraine ceasefire unravels</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/02/17/ukraine-truce-unravels-as-battle-rages-arms-pullback-stalls" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-17T21:57:01Z</updated>
-    <published>2015-02-17T21:57:01Z</published>
-    <summary type="html">&lt;p&gt;The United States has been considering sending weapons to aid Kiev, although the State Department said on Tuesday getting into a proxy war with Russia was not in the interests of Ukraine or the world.&lt;/p&gt;</summary>
-    <dc:date>2015-02-17T21:57:01Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297665109450_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>News24.com | Security Council calls for Ukraine fighting to stop</title>

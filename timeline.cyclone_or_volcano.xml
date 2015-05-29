@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mount Shindake volcano erupts, Japan calls for evacuation</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/mount-shindake-volcano-erupts-japan-calls-for-evacuation-20150529-ghceo4.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T06:24:34Z</updated>
+    <published>2015-05-29T06:24:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-29T06:24:34Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/c/h/o/5/image.related.articleLeadwide.620x349.ghceo4.png/1432880589842.jpg" />
+  </entry>
+  <entry>
+    <title>Cyclone Pam: Australia gives Vanuatu $5 million in aid</title>
+    <link rel="alternate" href="http://www.theage.com.au/environment/weather/cyclone-pam-australia-gives-vanuatu-5-million-in-aid-20150315-144f23.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T15:34:39Z</updated>
+    <published>2015-03-15T15:34:39Z</published>
+    <summary type="html">&lt;p&gt;Cyclone Pam left a trail of devastation across the Pacific island nation on Saturday, with 250 km/h winds levelling entire villages in the capital, Port Vila.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T15:34:39Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/4/4/c/w/3/image.related.articleLeadNarrow.300x0.144f23.png/1426433667339.jpg" />
+  </entry>
+  <entry>
     <title>Japanese island to be evacuated after volcano erupts</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3101797/Volcano-erupts-remote-Japanese-island-evacuation-ordered.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
