@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Volcano Erupts on Southern Japanese Island</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/volcano-erupts-southern-japanese-island-31380006" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T03:34:07Z</updated>
+    <published>2015-05-29T03:34:07Z</published>
+    <summary type="html">&lt;p&gt;A volcano erupted on a small island in southern Japan on Friday, spewing black clouds of ash and rock towering into the sky and prompting authorities to tell residents to evacuate the island.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T03:34:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Volcano erupts on southern Japanese island</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3101769/Volcano-erupts-southern-Japanese-island.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T03:15:58Z</updated>
+    <published>2015-05-29T03:15:58Z</published>
+    <summary type="html">&lt;p&gt;The eruption last September of another volcano, Mount Ontake in central Japan, killed 57 people.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T03:15:58Z</dc:date>
+  </entry>
+  <entry>
     <title>Japanese Volcano Mount Shindake Erupts On Kuchinoerabu Island</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/2015/05/28/mount-shindake-volcano-_n_7465596.html" />
     <author>

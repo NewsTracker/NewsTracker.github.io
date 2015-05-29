@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_watch.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Watch stylish but not for everyone, reviewers say</title>
+    <link rel="alternate" href="http://technology.canoe.ca/Mobile/Features/2015/04/08/22333561.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T18:15:07Z</updated>
+    <published>2015-04-08T18:15:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-08T18:15:07Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/Microgalleries/2015/03/09/turlington_cook650.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Apple clocks in with first Apple Watch software update</title>
     <link rel="alternate" href="http://www.usatoday.com/story/tech/columnist/baig/2015/05/19/apple-clocks-in-with-first-applewatch-software-update/27593319/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomtech-personaltalk" />
     <author>
@@ -431,7 +443,7 @@
     <dc:date>2015-04-15T14:41:44Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />

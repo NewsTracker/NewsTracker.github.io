@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google Unveils Android's Latest Technological Tricks</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/google-unveils-androids-latest-technological-tricks-31368858" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T03:01:43Z</updated>
+    <published>2015-05-29T03:01:43Z</published>
+    <summary type="html">&lt;p&gt;Both Google and Apple are vying to make their products even more ubiquitous by transplanting much of their mobile technology into automobiles and Internet-connected televisions and appliances.&lt;/p&gt;&lt;p&gt;Google hopes to play a prominent role in the management of home security and appliances with a new operating system called Brillo that will interact with Android devices.&lt;/p&gt;&lt;p&gt;Google Now currently learns a user's interests and habits by analyzing search requests and scanning emails so it can automatically present helpful information, such as the latest news about a favorite sports team or how long it will take to get to work.&lt;/p&gt;&lt;p&gt;The new Android feature, called "Now on Tap," will be activated by holding down the device's home button or speaking, "OK Google," into the microphone.&lt;/p&gt;&lt;p&gt;Google's response, called Android Pay, will replace Google Wallet for making mobile purchases in stores and applications.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T03:01:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google offers free storage of photos, videos</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11456568&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T22:54:00Z</updated>
+    <published>2015-05-28T22:54:00Z</published>
+    <summary type="html">&lt;p&gt;It's a variation of the photo-management tool on Google Plus, a social networking service that has struggled to compete against Facebook since its 2011 debut.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T22:54:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Google Jump Camera: How It Works</title>
     <link rel="alternate" href="http://www.usatoday.com/videos/tech/2015/05/28/28093153/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomtech-personaltalk" />
     <author>
@@ -2025,7 +2047,7 @@
     <media:content url="http://s1.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150402&amp;amp;t=2&amp;amp;i=1037457334&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB310RA" />
   </entry>
   <entry>
-    <title>Google makes people think they’re smarter</title>
+    <title>Google makes people think they?re smarter</title>
     <link rel="alternate" href="http://www.news.com.au/technology/home-entertainment/a-new-study-has-found-internet-access-makes-you-think-youre-smarter-than-you-really-are/story-fnjwukfu-1227289772019?from=public_rss" />
     <author>
       <name />
@@ -2225,7 +2247,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2329,7 +2351,7 @@
     <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/03/25/googlecars650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
   </entry>
   <entry>
-    <title>Cubs’ Jackson blames Google Maps for missing start</title>
+    <title>Cubs? Jackson blames Google Maps for missing start</title>
     <link rel="alternate" href="http://nypost.com/2015/03/25/cubs-jackson-blames-google-maps-for-missing-start/" />
     <author>
       <name />
