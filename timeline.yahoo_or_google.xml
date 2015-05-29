@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Warriors guard Klay Thompson diagnosed with concussion (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/klay-thompson-diagnosed-concussion-193727307--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T21:26:23Z</updated>
+    <published>2015-05-29T21:26:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-29T21:26:23Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/o.wm..BPjgZisCHBr7hOrA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505272237814749102" />
+  </entry>
+  <entry>
     <title>SEC generates NCAA-record $455.8M in revenue for 2014-15 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/sec-generates-ncaa-record-455m-revenue-2014-15-183540217--ncaaf.html" />
     <author>
@@ -5078,7 +5090,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tunisian museum reopens after deadly attack against tourists</title>
+    <link rel="alternate" href="http://news.yahoo.com/tunisian-museum-reopens-deadly-attack-against-tourists-165206778.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T16:52:06Z</updated>
+    <published>2015-03-30T16:52:06Z</published>
+    <summary type="html">&lt;p&gt;"Now we want to see the positive - Tunisia is open to visitors."&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T16:52:06Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/ky14RC8xwbdxSAPYDYBzYw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9720114555f93f0e720f6a7067009880.jpg" />
+  </entry>
+  <entry>
     <title>Tunisia PM: Destroying Migrant Boats Won't Stop Europe Flow</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/tunisia-pm-destroying-migrant-boats-stop-europe-flow-31394279" />
     <author>
