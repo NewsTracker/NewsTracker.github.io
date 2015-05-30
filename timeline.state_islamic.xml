@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Syrian air raids kill dozens of civilians in Islamic State-held town</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/syrian-air-raids-kill-dozens-of-civilians-in-islamic-stateheld-town-20150530-ghdalw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T13:05:14Z</updated>
+    <published>2015-05-30T13:05:14Z</published>
+    <summary type="html">&lt;p&gt;In Syria's north-east, clashes erupted between pro-government forces and Islamic State to the south and south-east of Hasaka city, the Observatory said on Friday, after the al-Qaeda offshoot planted a bomb on the edge of the city.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T13:05:14Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/d/a/o/w/image.related.articleLeadwide.620x349.ghdalw.png/1432991069543.jpg" />
+  </entry>
+  <entry>
     <title>From middle-class Australian to Islamic State bride</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/20/from-middle-class-australian-to-islamic-state-bride" />
     <author>
