@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google working with Levi Strauss to make smart clothes</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3103420/Google-working-Levi-Strauss-make-smart-clothes.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T05:06:43Z</updated>
+    <published>2015-05-30T05:06:43Z</published>
+    <summary type="html">&lt;p&gt;Google announced it is working with iconic US jean maker Levi Strauss to make clothing from specially woven fabric with touch-screen control capabilities.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T05:06:43Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/05/30/article-doc-2m398-6Yu27wj9QHSK2-13_634x423.jpg" />
+  </entry>
+  <entry>
+    <title>Google to develop clothes with touch-screen technology</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-05-30/google-working-with-levi-strauss-to-make-smart-clothes/6509098" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T04:51:52Z</updated>
+    <published>2015-05-30T04:51:52Z</published>
+    <summary type="html">&lt;p&gt;Project Jacquard makes it possible to weave touch and gesture interactivity into any textile using standard, industrial looms, according to Google.&lt;/p&gt;&lt;p&gt;"The work that Google and Levi's are embarking upon with Project Jacquard delivers an entirely new value to consumers with apparel that is emotional, aspirational and functional."&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T04:51:52Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6509122-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Google working with Levis on smart clothes</title>
+    <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/google-working-with-levis-on-smart-clothes-20150530-ghd3jj.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T04:04:09Z</updated>
+    <published>2015-05-30T04:04:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-30T04:04:09Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/c/5/c/w/image.related.columnistThumbnail.127x127.ghcanq.png/1432875239881.jpg" />
+  </entry>
+  <entry>
     <title>Google to test bubble-shaped self-driving cars in Silicon Valley</title>
     <link rel="alternate" href="http://www.startribune.com/google-to-test-bubble-shaped-self-driving-cars-in-silicon-valley/303968841/" />
     <author>
