@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court sentences US-Egyptian citizen to life in prison</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Report-Court-sentences-US-Egypt-citizen-to-life-6193232.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-11T18:35:25Z</updated>
+    <published>2015-04-11T18:35:25Z</published>
+    <summary type="html">&lt;p&gt;Egypt?s official news agency said the court upheld death sentences for 14 people, including the leader of the country?s banned Muslim Brotherhood, and sentenced 37 others to life in prison.&lt;/p&gt;</summary>
+    <dc:date>2015-04-11T18:35:25Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/61/02/7803054/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Emirates forges special relationship with el-Sissi's Egypt</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-03-06-ML--Emirates-Supporting%20Egypt/id-19a0a248fd2b476182da6db157c715c3" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-06T07:55:57Z</updated>
+    <published>2015-03-06T07:55:57Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this Wednesday, Feb. 11, 2015, file photo, Emirati officials visit the UAE Egypt stand during the last day of the Government Summit in Dubai, United Arab Emirates.&lt;/p&gt;&lt;p&gt;In this Wednesday, March 5, 2015 photo, Egyptians walk in front of Sheikh Zayed Al Nahyan hospital in Cairo, Egypt.&lt;/p&gt;&lt;p&gt;In addition to providing direct cash aid, the OPEC member has been building schools, clinics, wheat silos and tens of thousands of homes as part of at least $10 billion earmarked for Egypt since Morsi's ouster.&lt;/p&gt;&lt;p&gt;In contrast, before Morsi's fall, Egypt had been in talks for several years with the International Monetary Fund for a $4.8 billion loan, but the talks never reached a deal.&lt;/p&gt;&lt;p&gt;Egyptian officials have said Egypt, Saudi Arabia, Kuwait and UAE were in talks late last year over creating a military pact to face militants.&lt;/p&gt;</summary>
+    <dc:date>2015-03-06T07:55:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Multi-vehicle crash in Egypt kills 16, including conscripts -officials</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3103247/Multi-vehicle-crash-Egypt-kills-16-including-conscripts-officials.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -2721,17 +2744,6 @@
     <summary type="html">&lt;p&gt;BP Group Chief Executive Bob Dudley says the project is his company's "largest foreign direct investment in Egypt."&lt;/p&gt;&lt;p&gt;Egypt has already attracted some $1.3 billion in foreign investment in the first quarter of the fiscal year, Salman said.&lt;/p&gt;</summary>
     <dc:date>2015-03-06T13:27:46Z</dc:date>
     <media:content url="http://ww2.hdnux.com/photos/33/14/44/7129393/9/landscape_32.jpg" />
-  </entry>
-  <entry>
-    <title>Emirates forges special relationship with el-Sissi's Egypt</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-03-06-ML--Emirates-Supporting%20Egypt/id-19a0a248fd2b476182da6db157c715c3" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-06T07:55:57Z</updated>
-    <published>2015-03-06T07:55:57Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this Wednesday, Feb. 11, 2015, file photo, Emirati officials visit the UAE Egypt stand during the last day of the Government Summit in Dubai, United Arab Emirates.&lt;/p&gt;&lt;p&gt;In this Wednesday, March 5, 2015 photo, Egyptians walk in front of Sheikh Zayed Al Nahyan hospital in Cairo, Egypt.&lt;/p&gt;&lt;p&gt;In addition to providing direct cash aid, the OPEC member has been building schools, clinics, wheat silos and tens of thousands of homes as part of at least $10 billion earmarked for Egypt since Morsi's ouster.&lt;/p&gt;&lt;p&gt;In contrast, before Morsi's fall, Egypt had been in talks for several years with the International Monetary Fund for a $4.8 billion loan, but the talks never reached a deal.&lt;/p&gt;</summary>
-    <dc:date>2015-03-06T07:55:57Z</dc:date>
   </entry>
   <entry>
     <title>Emirates forges special relationship with el-Sissi's Egypt</title>
