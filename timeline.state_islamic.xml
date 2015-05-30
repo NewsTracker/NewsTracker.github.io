@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>ISIS Blows Up Notorious Prison Complex In Syria's Palmyra</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/05/30/isis-prison-palmyra_n_7476154.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T18:37:11Z</updated>
+    <published>2015-05-30T18:37:11Z</published>
+    <summary type="html">&lt;p&gt;Islamic State announced the explosion in a statement on social media and supporters posted pictures of huge clouds of grey smoke above the sprawling complex in the city, also known as Tadmur.&lt;/p&gt;&lt;p&gt;But Islamic State fighters, who captured the city from government forces earlier this month, are not reported to have harmed its 2,000-year-old monuments and the prison explosion is the first report of major destruction since the takeover.&lt;/p&gt;&lt;p&gt;Pictures posted by Islamic State on social media this week had purported to show empty cells, a collective detention room and a management office inside the prison.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T18:37:11Z</dc:date>
+    <media:content url="http://i.huffpost.com/gen/3013564/images/n-PALMYRA-large570.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State blows up empty prison complex in Syria's Palmyra</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/30/us-mideast-crisis-syria-prison-idUSKBN0OF0SD20150530?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T18:16:18Z</updated>
+    <published>2015-05-30T18:16:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-30T18:16:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Syrian air raids kill dozens of civilians in Islamic State-held town</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/syrian-air-raids-kill-dozens-of-civilians-in-islamic-stateheld-town-20150530-ghdalw.html" />
     <author>

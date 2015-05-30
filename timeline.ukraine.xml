@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ex-Georgian President Named Governor of Ukraine Region</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/report-georgian-leader-named-governor-ukraine-region-31411620" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T18:35:47Z</updated>
+    <published>2015-05-30T18:35:47Z</published>
+    <summary type="html">&lt;p&gt;There was no immediate Kremlin comment on his Odessa appointment, but Andre Purgin, a top eastern Ukraine separatist leader, called it "mockery and an absolutely unprecedented step."&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T18:35:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ex-Georgian president named governor of Ukraine region</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Report-Ex-Georgian-leader-named-governor-of-6296157.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T18:34:13Z</updated>
+    <published>2015-05-30T18:34:13Z</published>
+    <summary type="html">&lt;p&gt;Odessa is Ukraine's largest seaport and has additional strategic importance as the major city between the Russia-annexed Crimean peninsula and the Moldovan separatist region of Transdniester, which is supported by Russian forces.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T18:34:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Report: Former Georgian President Saakashvili appointed governor of Ukraine's Odessa</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/05/30/report-former-georgian-president-saakashvili-appointed-governor-ukraine-odessa/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>

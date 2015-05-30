@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mats Hummels 'gave his word' to Sir Alex Ferguson he WILL join Manchester United!?</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/sport/football/article-3019289/Mats-Hummels-gave-word-Sir-Alex-Ferguson-join-Manchester-United.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T16:42:44Z</updated>
+    <published>2015-03-31T16:42:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-31T16:42:44Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/31/10/26EE9FBA00000578-0-image-m-10_1427793019077.jpg" />
+  </entry>
+  <entry>
+    <title>Ferguson Facebook case part of debate about online threats</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article15329216.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T19:58:04Z</updated>
+    <published>2015-03-19T19:58:04Z</published>
+    <summary type="html">&lt;p&gt;Assistant Federal Public Defender Kyana Givens said each note was in response to the news of the day out of Ferguson.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T19:58:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Judge defers ruling on probe into handling of Ferguson case</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3102515/Request-probe-handling-Ferguson-case-court.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1328,17 +1351,6 @@
     <published>2015-03-20T01:26:16Z</published>
     <summary type="html">&lt;p&gt;Richter, who was also given the power to overhaul court practices in Ferguson, issued an order Wednesday barring cameras from the courtroom in response to heavy media interest.&lt;/p&gt;&lt;p&gt;It also faulted Ferguson for issuing an excessive number of arrest warrants when traffic-court offenders failed to pay their fines on time or missed court dates, with relatively minor violations then leading to jail time.&lt;/p&gt;&lt;p&gt;Local attorneys said they're optimistic that Richter's appointment will spur change not only in Ferguson's court system but also in the 80 other municipal courts spread across St. Louis County.&lt;/p&gt;</summary>
     <dc:date>2015-03-20T01:26:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ferguson Facebook case part of debate about online threats</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article15329216.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T19:58:04Z</updated>
-    <published>2015-03-19T19:58:04Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-19T19:58:04Z</dc:date>
   </entry>
   <entry>
     <title>Ferguson municipal court resumes with new judge after DOJ report found problems with system</title>
