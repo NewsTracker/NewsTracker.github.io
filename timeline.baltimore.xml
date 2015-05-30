@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>O'Malley readying presidential announcement in Baltimore</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/05/30/omalley-readying-presidential-announcement-in-baltimore" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T07:26:08Z</updated>
+    <published>2015-05-30T07:26:08Z</published>
+    <summary type="html">&lt;p&gt;He has said the unrest in Baltimore should wake up the nation to the need to address despair in poor communities.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T07:26:08Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/245b7ea/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fd2%2F6a3b2b817f2ed429c83cb15475cfcb%2Fmedia%3A35be48ed9d7949138cf7bfb2533800b7DEM2016O%27Malley.JPEG" />
+  </entry>
+  <entry>
+    <title>O'Malley readying presidential announcement in Baltimore</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/O-Malley-readying-presidential-announcement-in-6296040.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T07:26:08Z</updated>
+    <published>2015-05-30T07:26:08Z</published>
+    <summary type="html">&lt;p&gt;O'Malley plans to launch his campaign on Saturday in Baltimore, where he served as mayor before winning two terms as governor.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T07:26:08Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/61/17/8066010/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Shooting death is Baltimore's 39th homicide in May</title>
     <link rel="alternate" href="http://news.yahoo.com/shooting-death-baltimores-39th-homicide-may-013310298.html" />
     <author>

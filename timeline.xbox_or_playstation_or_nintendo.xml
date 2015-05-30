@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.xbox_or_playstation_or_nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T02:41:04Z</updated>
+    <published>2015-03-18T02:41:04Z</published>
+    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;&lt;p&gt;Nintendo, based in the ancient city of Kyoto, announced Tuesday it was teaming up with Tokyo-based mobile gaming company DeNA to develop games for smartphones.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T02:41:04Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
+  </entry>
+  <entry>
     <title>Nintendo World Championships back after 25 years</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/nintendo-world-championships-back-after-25-years/" />
     <author>
@@ -207,18 +219,6 @@
     <summary type="html">&lt;p&gt;Initially, PlayStation Vue is available only on PlayStation 4s and PS3s; per Sony, there are 35 million of those in use across the U.S. Sony said support for Apple's iPad will be coming shortly, and that additional markets will be added in the coming months.&lt;/p&gt;&lt;p&gt;For each PlayStation Vue account, users can simultaneously stream content on up to three consoles (although only on one PS4 at any given time) in the same home at no additional charge.&lt;/p&gt;</summary>
     <dc:date>2015-03-18T17:09:02Z</dc:date>
     <media:content url="http://storage.canoe.ca/v1/videolib-prod-static/portalen/img/default_still.gif" />
-  </entry>
-  <entry>
-    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T02:41:04Z</updated>
-    <published>2015-03-18T02:41:04Z</published>
-    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T02:41:04Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
   </entry>
   <entry>
     <title>'Super Mario' to go mobile as Nintendo ventures into smartphone games</title>

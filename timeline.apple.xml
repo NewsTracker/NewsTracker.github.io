@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Inked and irked: Apple Watch users report tattoo problems</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-05-01-US-TEC--Apple-TattooGate/id-98f5de27a29e490baff2741748c4af76" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T21:57:29Z</updated>
+    <published>2015-05-01T21:57:29Z</published>
+    <summary type="html">&lt;p&gt;That was frustrating and "a bit embarrassing" for Graham Edgell, a Los Angeles printing broker who loves Apple products and was eager to show off his new watch to friends after his wife bought it for him.&lt;/p&gt;&lt;p&gt;As for the Apple Watch issue, some social media users have mocked it as a complaint from spoiled hipsters.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T21:57:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple buys German augmented-reality software maker Metaio</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3102869/Apple-buys-German-augmented-reality-software-maker-Metaio.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -634,17 +645,6 @@
     <published>2015-05-04T16:27:35Z</published>
     <summary type="html">&lt;p&gt;(Reuters) - General Electric Co on Monday announced collaborations with Qualcomm Inc and Apple Inc as it uses digital technology and the growing appetite for data to reinvigorate its 130-year-old lighting business.&lt;/p&gt;&lt;p&gt;GE also said it will produce an LED bulb compatible with Apple's yet-to-launch connected-device platform HomeKit.&lt;/p&gt;</summary>
     <dc:date>2015-05-04T16:27:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>Inked and irked: Apple Watch users report tattoo problems</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-05-01-US-TEC--Apple-TattooGate/id-98f5de27a29e490baff2741748c4af76" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-01T21:57:29Z</updated>
-    <published>2015-05-01T21:57:29Z</published>
-    <summary type="html">&lt;p&gt;That was frustrating and "a bit embarrassing" for Graham Edgell, a Los Angeles printing broker who loves Apple products and was eager to show off his new watch to friends after his wife bought it for him.&lt;/p&gt;</summary>
-    <dc:date>2015-05-01T21:57:29Z</dc:date>
   </entry>
   <entry>
     <title>Inked and irked: Apple Watch users report tattoo problems</title>

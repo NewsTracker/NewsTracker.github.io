@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Scare on Yahoo's Alibaba Spin-Off Seen Premature</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/05/20/tax-scare-on-yahoo-alibaba-stake-spin-off-seen-premature/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-20T22:19:19Z</updated>
+    <published>2015-05-20T22:19:19Z</published>
+    <summary type="html">&lt;p&gt;"Anything can happen, but I'm going with the bet that this won't impact spin-off of Alibaba shares for Yahoo," Axiom Capital analyst Victor Anthony told Reuters.&lt;/p&gt;&lt;p&gt;Yahoo plans to spin off a $34 billion stake in Alibaba into a public company along with Yahoo Small Business that provides domain names and local marketing.&lt;/p&gt;&lt;p&gt;If taxed at the full 40 percent rate, Yahoo shares would be worth just about $20 billion, SunTrust Robinson Humphrey analyst Robert Peck wrote.&lt;/p&gt;&lt;p&gt;Alibaba CEO Jack Ma could buy Yahoo in a cash-and-stock deal, claw back the stock and essentially cancel the shares that he just issued, BGC Partners analyst Colin Gillis told Reuters.&lt;/p&gt;</summary>
+    <dc:date>2015-05-20T22:19:19Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/markets/876/493/yahoo-new-logo.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
+    <title>Google app store gets more oversight</title>
+    <link rel="alternate" href="http://technology.canoe.ca/Mobile/News/2015/03/17/22291851.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T16:23:02Z</updated>
+    <published>2015-03-17T16:23:02Z</published>
+    <summary type="html">&lt;p&gt;The change brings Google Play, a bazaar for digital games, social media apps and entertainment software, closer to Apple Inc's tightly controlled App Store.&lt;/p&gt;&lt;p&gt;Google had only used automated technology for screening at the time of submission.&lt;/p&gt;&lt;p&gt;The new process will not create bottlenecks, Google said in a post, promising that approved apps will become available on Google Play within "a matter of hours" after submission.&lt;/p&gt;&lt;p&gt;Developers must answer special questionnaires about their apps to help independent ratings organizations assign age-based ratings, Google said.&lt;/p&gt;&lt;p&gt;"We know that people in different countries have different ideas about what content is appropriate for kids, teens and adults, so today's announcement will help developers better label their apps for the right audience," Google said in the blog post.&lt;/p&gt;&lt;p&gt;As of May, apps submitted without the questionnaire will not be published in Google Play, and existing apps that do not seek a rating could be blocked in certain markets or for certain users, Google said.&lt;/p&gt;&lt;p&gt;Google, whose Android software runs most of the world's smartphones, and Apple each manage online hubs with more than one million apps ranging from calendars to video games.&lt;/p&gt;&lt;p&gt;Until now, Google has let developers rate their own apps using a system created by Google.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T16:23:02Z</dc:date>
+    <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201503/1935/1745097732_4132932850001_0de3d582eb5f0d48596a1bd15e33b226-tmb1.jpg?pubId=1745097732" />
+  </entry>
+  <entry>
     <title>Google working with Levi Strauss to make smart clothes</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3103420/Google-working-Levi-Strauss-make-smart-clothes.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -625,18 +649,6 @@
     <summary type="html" />
     <dc:date>2015-05-21T03:58:18Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/If.heQYQjvEdSUxtt_Fnig--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505202200792240313" />
-  </entry>
-  <entry>
-    <title>Scare on Yahoo's Alibaba Spin-Off Seen Premature</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/05/20/tax-scare-on-yahoo-alibaba-stake-spin-off-seen-premature/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-20T22:19:19Z</updated>
-    <published>2015-05-20T22:19:19Z</published>
-    <summary type="html">&lt;p&gt;"Anything can happen, but I'm going with the bet that this won't impact spin-off of Alibaba shares for Yahoo," Axiom Capital analyst Victor Anthony told Reuters.&lt;/p&gt;&lt;p&gt;Yahoo plans to spin off a $34 billion stake in Alibaba into a public company along with Yahoo Small Business that provides domain names and local marketing.&lt;/p&gt;</summary>
-    <dc:date>2015-05-20T22:19:19Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/markets/876/493/yahoo-new-logo.jpg?ve=1&amp;amp;tl=1" />
   </entry>
   <entry>
     <title>Google Maps: Search for a racial slur and Google will point you to the White House</title>
@@ -6007,18 +6019,6 @@
     <summary type="html">&lt;p&gt;Google co-founder Sergey Brin gave the team five months to be able to make deliveries by drone.&lt;/p&gt;&lt;p&gt;Teller also discussed Google's most high-profile failure, Google Glass, the wearable device which Google shuttered in January after it received a tepid response from users.&lt;/p&gt;</summary>
     <dc:date>2015-03-18T07:20:35Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/35/21/30/7673403/3/622x350.jpg" />
-  </entry>
-  <entry>
-    <title>Google app store gets more oversight</title>
-    <link rel="alternate" href="http://technology.canoe.ca/Mobile/News/2015/03/17/22291851.html?cid=rsstechnology" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T16:23:02Z</updated>
-    <published>2015-03-17T16:23:02Z</published>
-    <summary type="html">&lt;p&gt;The change brings Google Play, a bazaar for digital games, social media apps and entertainment software, closer to Apple Inc's tightly controlled App Store.&lt;/p&gt;&lt;p&gt;Google had only used automated technology for screening at the time of submission.&lt;/p&gt;&lt;p&gt;The new process will not create bottlenecks, Google said in a post, promising that approved apps will become available on Google Play within "a matter of hours" after submission.&lt;/p&gt;&lt;p&gt;Developers must answer special questionnaires about their apps to help independent ratings organizations assign age-based ratings, Google said.&lt;/p&gt;&lt;p&gt;"We know that people in different countries have different ideas about what content is appropriate for kids, teens and adults, so today's announcement will help developers better label their apps for the right audience," Google said in the blog post.&lt;/p&gt;&lt;p&gt;As of May, apps submitted without the questionnaire will not be published in Google Play, and existing apps that do not seek a rating could be blocked in certain markets or for certain users, Google said.&lt;/p&gt;&lt;p&gt;Google, whose Android software runs most of the world's smartphones, and Apple each manage online hubs with more than one million apps ranging from calendars to video games.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T16:23:02Z</dc:date>
-    <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201503/1935/1745097732_4132932850001_0de3d582eb5f0d48596a1bd15e33b226-tmb1.jpg?pubId=1745097732" />
   </entry>
   <entry>
     <title>US at odds with Google on computer search-warrant proposal</title>

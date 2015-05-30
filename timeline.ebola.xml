@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Woman isolated for possible Ebola</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/10/woman-isolated-possible-ebola" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-10T09:01:35Z</updated>
+    <published>2015-04-10T09:01:35Z</published>
+    <summary type="html">&lt;p&gt;Health officials say it's most unlikely she has Ebola and her symptoms - a fever and stomach upset - are consistent with many other conditions.&lt;/p&gt;&lt;p&gt;That country hasn't had any cases recently and she hadn't actually treated any Ebola patients.&lt;/p&gt;</summary>
+    <dc:date>2015-04-10T09:01:35Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/1/0/100415m_EbolaCanberra_800x600.jpg?itok=I_puMz8j" />
+  </entry>
+  <entry>
     <title>'Ebola will return', veteran scientist warns</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3103442/Ebola-return-veteran-scientist-warns.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1121,18 +1133,6 @@
     <published>2015-04-10T12:04:00Z</published>
     <summary type="html">&lt;p&gt;LONDON -- The World Health Organization says the year-long Ebola outbreak in West Africa still qualifies as an international emergency even though the number of cases has plummeted.&lt;/p&gt;&lt;p&gt;Dr. Bruce Aylward, who is leading WHO's Ebola response, said the decline appeared to be real, rather than just "a pothole on the bumpy road to get to zero cases."&lt;/p&gt;&lt;p&gt;During a press briefing in Geneva on Friday, Aylward said WHO's Ebola emergency committee believes the risk of the virus spreading globally appears to be dropping even though officials still don't know where the virus is spreading in most cases in Guinea and Sierra Leone.&lt;/p&gt;&lt;p&gt;He said the designation of Ebola as a global emergency is also necessary to speed up paperwork for the ongoing experimental drug and vaccine trials in West Africa.&lt;/p&gt;</summary>
     <dc:date>2015-04-10T12:04:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Woman isolated for possible Ebola</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/10/woman-isolated-possible-ebola" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-10T09:01:35Z</updated>
-    <published>2015-04-10T09:01:35Z</published>
-    <summary type="html">&lt;p&gt;Health officials say it's most unlikely she has Ebola and her symptoms - a fever and stomach upset - are consistent with many other conditions.&lt;/p&gt;</summary>
-    <dc:date>2015-04-10T09:01:35Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/1/0/100415m_EbolaCanberra_800x600.jpg?itok=I_puMz8j" />
   </entry>
   <entry>
     <title>Woman isolated for possible Ebola</title>
