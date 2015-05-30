@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore sees its 40th homicide in May, a record month</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/30/baltimore-sees-its-40th-homicide-in-may-a-record/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T20:12:02Z</updated>
+    <published>2015-05-30T20:12:02Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - A man fatally shot in Baltimore is the city's 40th homicide victim this month, a record month for slayings.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T20:12:02Z</dc:date>
+  </entry>
+  <entry>
     <title>O'Malley readying presidential announcement in Baltimore</title>
     <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/05/30/omalley-readying-presidential-announcement-in-baltimore" />
     <author>

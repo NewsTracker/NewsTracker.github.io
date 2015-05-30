@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Have You Taken Google's Virtual, Interactive Abbey Road Studios Tour?</title>
+    <link rel="alternate" href="http://www.vulture.com/2015/04/have-you-taken-googles-abbey-road-studios-tour.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T06:53:04Z</updated>
+    <published>2015-04-16T06:53:04Z</published>
+    <summary type="html">&lt;p&gt;Have You Taken Google's Virtual, Interactive Abbey Road Studios Tour?&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T06:53:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Google working with Levi Strauss to make smart clothes</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3103420/Google-working-Levi-Strauss-make-smart-clothes.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

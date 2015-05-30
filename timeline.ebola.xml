@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia, Sierra Leone gain in Ebola crisis; Guinea struggles</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/02/liberia-sierra-leone-gain-in-ebola-crisis-guinea-struggles" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T17:49:49Z</updated>
+    <published>2015-04-02T17:49:49Z</published>
+    <summary type="html">&lt;p&gt;Even though Ebola has spread longest in Guinea, the country has registered by far the fewest cases.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T17:49:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Woman isolated for possible Ebola</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/10/woman-isolated-possible-ebola" />
     <author>
