@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US commander: Russia seems set for new offensive in Ukraine</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3062091/US-sees-Russia-directing-Ukraines-rebels.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T17:10:22Z</updated>
+    <published>2015-04-30T17:10:22Z</published>
+    <summary type="html">&lt;p&gt;"Some Russian military exercises have caught us by surprise and our textured feel for Russian involvement on the ground in Ukraine has been quite limited."&lt;/p&gt;&lt;p&gt;The shift in U.S. perceptions could have wide-ranging ramifications, even if the Obama administration has cited close linkages between the pro-Russian separatists and Putin's government in Moscow since violence flared up in Ukraine a year ago.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T17:10:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>UK military trainers in Ukraine for medical, tactical drills</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3002165/British-military-trainers-travel-Ukraine.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T17:30:49Z</updated>
+    <published>2015-03-19T17:30:49Z</published>
+    <summary type="html">&lt;p&gt;The Pentagon announced Thursday that 290 soldiers from the 173rd Airborne Brigade, based in Italy, will go to Ukraine next month to conduct training with the Ukrainian National Guard.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T17:30:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine rebels disavow ceasefire at encircled town</title>
+    <link rel="alternate" href="http://news.yahoo.com/guns-fall-silent-ukraines-donetsk-poroshenko-orders-ceasefire-005244850.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-15T23:05:11Z</updated>
+    <published>2015-02-15T23:05:11Z</published>
+    <summary type="html">&lt;p&gt;DONETSK/ARTEMIVSK, Ukraine (Reuters) - Ukraine's rebels disavowed a new truce on Sunday hours after it took effect, saying it did not apply to the town where most fighting has taken place in recent weeks.&lt;/p&gt;&lt;p&gt;Rebels say they have completely encircled the town, but Ukraine says its forces have kept open a road to resupply it in the face of a Russian-backed onslaught.&lt;/p&gt;</summary>
+    <dc:date>2015-02-15T23:05:11Z</dc:date>
+    <media:content url="https://s1.yimg.com/uu/api/res/1.2/VVZxXWIAFtOcJY_9KnPvrg--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.reutersnews.com/2015-02-15T154756Z_1_LOVEB1E17VVJX_RTRMADP_BASEIMAGE-960X540_UKRAINE-CRISIS-CEASEFIRE-O.JPG" />
+  </entry>
+  <entry>
     <title>One Ukrainian servicemen killed in east Ukraine</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3102251/One-Ukrainian-servicemen-killed-east-Ukraine.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1067,17 +1101,6 @@
     <summary type="html">&lt;p&gt;Breedlove said Putin was concerned about Western sanctions imposed against Russia over the Ukraine crisis "and that may be affecting how he currently does things in eastern Ukraine."&lt;/p&gt;</summary>
     <dc:date>2015-04-30T18:43:49Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/HDs2SVTMamaZ2nuelfWC2A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/d463feb8af033ba0ad073f8f65f7e98ddacb04ce.jpg.cf.jpg" />
-  </entry>
-  <entry>
-    <title>US commander: Russia seems set for new offensive in Ukraine</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3062091/US-sees-Russia-directing-Ukraines-rebels.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-30T17:10:22Z</updated>
-    <published>2015-04-30T17:10:22Z</published>
-    <summary type="html">&lt;p&gt;"Some Russian military exercises have caught us by surprise and our textured feel for Russian involvement on the ground in Ukraine has been quite limited."&lt;/p&gt;</summary>
-    <dc:date>2015-04-30T17:10:22Z</dc:date>
   </entry>
   <entry>
     <title>US commander: Another Russian offensive possible in Ukraine after lull</title>
@@ -4260,18 +4283,6 @@
     <summary type="html">&lt;p&gt;In Debaltseve, the town encircled by separatists and described by the Ukraine army as "the main hot spot", rebels warned that the truce "does not apply".&lt;/p&gt;&lt;p&gt;Anatoliy Stelmakh, a Ukraine military spokesman, said the pro-Russian insurgents used "every kind of weapon, including Grad rockets" in Debaltseve.&lt;/p&gt;</summary>
     <dc:date>2015-02-16T03:39:18Z</dc:date>
     <media:content url="http://www.theage.com.au/content/dam/images/1/3/g/1/7/z/image.related.articleLeadwide.620x349.13fp8l.png/1424119318697.jpg" />
-  </entry>
-  <entry>
-    <title>Ukraine rebels disavow ceasefire at encircled town</title>
-    <link rel="alternate" href="http://news.yahoo.com/guns-fall-silent-ukraines-donetsk-poroshenko-orders-ceasefire-005244850.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-15T23:05:11Z</updated>
-    <published>2015-02-15T23:05:11Z</published>
-    <summary type="html">&lt;p&gt;DONETSK/ARTEMIVSK, Ukraine (Reuters) - Ukraine's rebels disavowed a new truce on Sunday hours after it took effect, saying it did not apply to the town where most fighting has taken place in recent weeks.&lt;/p&gt;</summary>
-    <dc:date>2015-02-15T23:05:11Z</dc:date>
-    <media:content url="https://s1.yimg.com/uu/api/res/1.2/VVZxXWIAFtOcJY_9KnPvrg--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.reutersnews.com/2015-02-15T154756Z_1_LOVEB1E17VVJX_RTRMADP_BASEIMAGE-960X540_UKRAINE-CRISIS-CEASEFIRE-O.JPG" />
   </entry>
   <entry>
     <title>Ukraine cease-fire largely holding, Debaltseve still tense</title>

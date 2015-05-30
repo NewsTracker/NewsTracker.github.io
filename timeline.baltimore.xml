@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gray 'victory rally' in Baltimore</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/baltimores-mayor-lifts-curfew-31191403.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T05:01:13Z</updated>
+    <published>2015-05-03T05:01:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-03T05:01:13Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31191402.ece/3e904/ALTERNATES/h342/PANews%20BT_P-05295278-e360-44b8-b3e0-a79d311efcb4_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Baltimore riot damage adds burden to small businesses</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3063398/Baltimore-riot-damage-adds-burden-small-businesses.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T22:06:30Z</updated>
+    <published>2015-04-30T22:06:30Z</published>
+    <summary type="html">&lt;p&gt;His West Baltimore liquor store and bar, the Oxford Tavern, was hit by looters during a riot over the police-involved death of neighborhood resident Freddie Gray.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T22:06:30Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/30/article-urn:publicid:ap.org:4a8f87f296af428987ca69da500ec58b-6YBXKj1IJHSK2-200_634x409.jpg" />
+  </entry>
+  <entry>
     <title>Will Baltimore?s troubles handicap O?Malley?s White House hopes?</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article22587378.html%23storylink=rss" />
     <author>

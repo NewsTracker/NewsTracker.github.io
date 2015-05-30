@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico: Shootout in Baja California Sur kills 2 suspects</title>
+    <link rel="alternate" href="http://news.yahoo.com/mexico-shootout-baja-california-sur-kills-2-suspects-220431474.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T22:04:31Z</updated>
+    <published>2015-05-29T22:04:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-29T22:04:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gunbattle in Mexico's Baja California Sur state kills 2 suspects, wounds police officer</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/05/29/gunbattle-in-mexico-baja-california-sur-state-kills-2-suspects-wounds-police/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T22:04:21Z</updated>
+    <published>2015-05-29T22:04:21Z</published>
+    <summary type="html">&lt;p&gt;LA PAZ, Mexico - Mexican authorities say a clash between armed men and police killed two gunmen and wounded an officer in the state of Baja California Sur.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T22:04:21Z</dc:date>
+  </entry>
+  <entry>
     <title>7 dead in Mexico amid violence during anti-cartel operation</title>
     <link rel="alternate" href="http://news.yahoo.com/burning-vehicles-block-roads-guadalajara-mexico-173335947.html" />
     <author>

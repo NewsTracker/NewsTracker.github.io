@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Interpol says extremists from Africa and Asia are shifting allegiance to Islamic State group</title>
+    <link rel="alternate" href="http://www.startribune.com/interpol-islamic-state-group-gains-support-in-africa-asia/305522631/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T22:31:46Z</updated>
+    <published>2015-05-29T22:31:46Z</published>
+    <summary type="html">&lt;p&gt;Juergen Stock cited this shift as an emerging trend at a U.N. Security Council meeting along with changing travel methods being used by foreign fighters seeking to join groups like the Islamic State and al-Qaida.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T22:31:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>4th man charged in NYC over Islamic State recruitment plot</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article17566298.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T01:44:06Z</updated>
+    <published>2015-04-07T01:44:06Z</published>
+    <summary type="html">&lt;p&gt;The charges against Kasimov come amid a spate of recent terrorism cases related to the Islamic State's efforts to attract foreign fighters or encourage sympathizers to launch an attack in America.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T01:44:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Boko Haram is said to have pledged allegiance to Islamic State</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/boko-haram-is-said-to-have-pledged-allegiance-to-islamic-state-20150308-13y5o6.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-08T06:20:18Z</updated>
+    <published>2015-03-08T06:20:18Z</published>
+    <summary type="html">&lt;p&gt;New York: One of the deadliest terrorist organisations in Africa has pledged allegiance to the Islamic State, according to a message posted online.&lt;/p&gt;&lt;p&gt;If confirmed, the pledge would make the group, Boko Haram, which is believed to have as many as 6,000 fighters, the largest extremist group to date to agree to fight under the Islamic State banner, analysts said.&lt;/p&gt;&lt;p&gt;In the message published on his Twitter account on Saturday, Abubakar Shekau, Boko Haram's leader, announced that he had sworn allegiance to the Islamic State, also known as ISIS.&lt;/p&gt;&lt;p&gt;Terrorism experts say that the pledge, or "bayat", is a spiritually binding oath, and it indicates that Boko Haram's leader agrees to be under the authority of the Islamic State group.&lt;/p&gt;&lt;p&gt;If the Islamic State does embrace Boko Haram, it is uncertain what level of coordination there will be between the terrorist outfits thousands of miles apart.&lt;/p&gt;&lt;p&gt;If confirmed, the agreement with Boko Haram would mirror the steps taken by Islamic State affiliates in Libya, Algeria, Egypt, Afghanistan and beyond.&lt;/p&gt;</summary>
+    <dc:date>2015-03-08T06:20:18Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/3/y/e/z/h/image.related.articleLeadwide.620x349.13y5o6.png/1425807909107.jpg" />
+  </entry>
+  <entry>
     <title>Conditions turn dire after Islamic State group militants overrun Palestinian camp in Syria</title>
     <link rel="alternate" href="http://www.startribune.com/world/299098121.html" />
     <author>
@@ -6657,18 +6691,6 @@
     <published>2015-03-08T07:31:50Z</published>
     <summary type="html">&lt;p&gt;CANBERRA, Australia (AP) " Two Australian brothers aged 16 and 17 were stopped at Sydney Airport on suspicion that they were young jihadis headed to join the Islamic State group, officials said Sunday.&lt;/p&gt;</summary>
     <dc:date>2015-03-08T07:31:50Z</dc:date>
-  </entry>
-  <entry>
-    <title>Boko Haram is said to have pledged allegiance to Islamic State</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/boko-haram-is-said-to-have-pledged-allegiance-to-islamic-state-20150308-13y5o6.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-08T06:20:18Z</updated>
-    <published>2015-03-08T06:20:18Z</published>
-    <summary type="html">&lt;p&gt;New York: One of the deadliest terrorist organisations in Africa has pledged allegiance to the Islamic State, according to a message posted online.&lt;/p&gt;&lt;p&gt;If confirmed, the pledge would make the group, Boko Haram, which is believed to have as many as 6,000 fighters, the largest extremist group to date to agree to fight under the Islamic State banner, analysts said.&lt;/p&gt;&lt;p&gt;In the message published on his Twitter account on Saturday, Abubakar Shekau, Boko Haram's leader, announced that he had sworn allegiance to the Islamic State, also known as ISIS.&lt;/p&gt;&lt;p&gt;Terrorism experts say that the pledge, or "bayat", is a spiritually binding oath, and it indicates that Boko Haram's leader agrees to be under the authority of the Islamic State group.&lt;/p&gt;&lt;p&gt;If the Islamic State does embrace Boko Haram, it is uncertain what level of coordination there will be between the terrorist outfits thousands of miles apart.&lt;/p&gt;</summary>
-    <dc:date>2015-03-08T06:20:18Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/3/y/e/z/h/image.related.articleLeadwide.620x349.13y5o6.png/1425807909107.jpg" />
   </entry>
   <entry>
     <title>Boko Haram is said to have pledged allegiance to Islamic State</title>
