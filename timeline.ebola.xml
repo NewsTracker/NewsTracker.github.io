@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kansas hospital monitoring patient for possible Ebola infection</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/30/us-health-ebola-missouri-idUSKBN0OF00L20150530?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T00:46:17Z</updated>
+    <published>2015-05-30T00:46:17Z</published>
+    <summary type="html">&lt;p&gt;The hospital said the patient is not a medical care worker and has no history of being in contact with someone with Ebola, adding he most likely was infected with malaria instead.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T00:46:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kansas hospital monitoring patient for possible Ebola infection</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/30/us-health-ebola-missouri-idUSKBN0OF00L20150530?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T00:46:17Z</updated>
+    <published>2015-05-30T00:46:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-30T00:46:17Z</dc:date>
+  </entry>
+  <entry>
     <title>THE LATEST: Sierra Leone Thanks FIFA for Support Amid Ebola</title>
     <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/latest-small-straw-poll-blatter-ahead-pre-vote-31383989" />
     <author>

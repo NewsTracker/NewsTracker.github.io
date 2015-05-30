@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Shooting death is Baltimore's 39th homicide in May</title>
+    <link rel="alternate" href="http://news.yahoo.com/shooting-death-baltimores-39th-homicide-may-013310298.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T01:33:10Z</updated>
+    <published>2015-05-30T01:33:10Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - Baltimore police say a man was fatally shot in the western part of the city, continuing the month's spike in homicides.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T01:33:10Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/pt7zCqSN.NJjTf3CPaRBcw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-us/homerun/cbsnews.cbs.com/134689e55fcd5f3cd14db3b6183bee76.cf.jpg" />
+  </entry>
+  <entry>
     <title>Gray 'victory rally' in Baltimore</title>
     <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/baltimores-mayor-lifts-curfew-31191403.html" />
     <author>
