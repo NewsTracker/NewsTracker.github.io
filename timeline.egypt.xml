@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Officials: Militants blow up natural gas pipeline in Egypt</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/31/officials-militants-blow-up-natural-gas-pipeline/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T07:53:10Z</updated>
+    <published>2015-05-31T07:53:10Z</published>
+    <summary type="html">&lt;p&gt;EL-ARISH, Egypt (AP) - Security officials in Egypt say suspected Islamic militants have blown up a natural gas pipeline outside el-Arish, the provincial capital of North Sinai.&lt;/p&gt;&lt;p&gt;Egypt's state news agency MENA said the pipeline supplies natural gas to a power station and homes in el-Arish.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T07:53:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt frees Egyptian-American sentenced to life in prison</title>
     <link rel="alternate" href="http://nypost.com/2015/05/30/egypt-frees-egyptian-american-sentenced-to-life-in-prison/" />
     <author>

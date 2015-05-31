@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Schools reopen in quake-hit areas of Nepal</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/31/schools-reopen-in-quake-hit-areas-of-nepal/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T07:51:54Z</updated>
+    <published>2015-05-31T07:51:54Z</published>
+    <summary type="html">&lt;p&gt;According to UNICEF, Nepal's high dropout rate was already a major concern.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T07:51:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Nepal may let Everest climbs restart despite massive quake</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11441430&amp;amp;ref=rss" />
     <author>
