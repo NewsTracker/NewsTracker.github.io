@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Emails: UN health agency resisted declaring Ebola emergency</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article15432680.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T17:13:07Z</updated>
+    <published>2015-03-20T17:13:07Z</published>
+    <summary type="html">&lt;p&gt;WHO has acknowledged acting too slowly to control the Ebola epidemic.&lt;/p&gt;&lt;p&gt;In mid-April, an experienced Ebola expert with WHO's Africa office wrote to Geneva, with disturbing news that many staffers at a leading hospital in Guinea had been exposed to the virus.&lt;/p&gt;&lt;p&gt;Britain, China, the U.S. and others all built Ebola clinics in West Africa, but many weren't ready until late fall - after the epidemic's peak.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T17:13:07Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Liberia, Sierra Leone gain in Ebola crisis; Guinea struggles</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/04/02/liberia-sierra-leone-gain-in-ebola-crisis-guinea-struggles" />
     <author>
@@ -128,18 +140,6 @@
     <summary type="html">&lt;p&gt;The drug, from Tekmira Pharmaceuticals Corp, is the first such success against the strain of Ebola in West Africa's 2014-2015 outbreak.&lt;/p&gt;</summary>
     <dc:date>2015-04-23T06:32:32Z</dc:date>
     <media:content url="http://img.rasset.ie/0009a60b-642.jpg" />
-  </entry>
-  <entry>
-    <title>Emails: UN health agency resisted declaring Ebola emergency</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article15432680.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T17:13:07Z</updated>
-    <published>2015-03-20T17:13:07Z</published>
-    <summary type="html">&lt;p&gt;WHO has acknowledged acting too slowly to control the Ebola epidemic.&lt;/p&gt;&lt;p&gt;In mid-April, an experienced Ebola expert with WHO's Africa office wrote to Geneva, with disturbing news that many staffers at a leading hospital in Guinea had been exposed to the virus.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T17:13:07Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Guinea sees 'major setback' as new Ebola cases spike</title>

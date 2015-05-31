@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google adds tweets to mobile search</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/20/google-adds-tweets-to-mobile-search" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-20T15:25:23Z</updated>
+    <published>2015-05-20T15:25:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-20T15:25:23Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297702292040_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19182630.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T02:28:04Z</updated>
+    <published>2015-04-22T02:28:04Z</published>
+    <summary type="html">&lt;p&gt;The latest evidence of Yahoo's financial malaise emerged Tuesday with the release the company's first-quarter earnings report.&lt;/p&gt;&lt;p&gt;The shares initially fell by an additional 2 percent in extended trading, but then rebounded after the cost-cutting pledge and the Yahoo Japan remarks.&lt;/p&gt;&lt;p&gt;Throw in the nearly $7 billion in cash and marketable securities that Yahoo held at the end of March, and the company's current market value of $42 billion implies investors think Yahoo's ongoing business is worth next to nothing.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T02:28:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Stock split could cost Google over $500 million</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/stock-split-could-cost-google-103743917.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T21:19:39Z</updated>
+    <published>2015-04-02T21:19:39Z</published>
+    <summary type="html">&lt;p&gt;And the damage could have been a lot worse: Google would have had to pay $7.5 billion, or about $22 per share, had the first-year spread between "A'' and "C'' shares was 5 percent or more.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T21:19:39Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/sto6E9c5G_LYmOpcrs4fMg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_HEADLINES_BUSINESS/136dc59dcfd67f0e720f6a706700e68b_original.jpg" />
+  </entry>
+  <entry>
     <title>Nationals put Stephen Strasburg on DL with stiff neck (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/nationals-put-stephen-strasburg-dl-stiff-neck-184835314--mlb.html" />
     <author>
@@ -2599,18 +2635,6 @@
   </entry>
   <entry>
     <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19182630.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T02:28:04Z</updated>
-    <published>2015-04-22T02:28:04Z</published>
-    <summary type="html">&lt;p&gt;The latest evidence of Yahoo's financial malaise emerged Tuesday with the release the company's first-quarter earnings report.&lt;/p&gt;&lt;p&gt;The shares initially fell by an additional 2 percent in extended trading, but then rebounded after the cost-cutting pledge and the Yahoo Japan remarks.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T02:28:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/21/yahoos-1q-shows-company-remains-mired-in-revenue-rut" />
     <author>
       <name />
@@ -5162,7 +5186,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />

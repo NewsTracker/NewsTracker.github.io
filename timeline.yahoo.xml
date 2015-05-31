@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19182630.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T02:28:04Z</updated>
+    <published>2015-04-22T02:28:04Z</published>
+    <summary type="html">&lt;p&gt;The latest evidence of Yahoo's financial malaise emerged Tuesday with the release the company's first-quarter earnings report.&lt;/p&gt;&lt;p&gt;The shares initially fell by an additional 2 percent in extended trading, but then rebounded after the cost-cutting pledge and the Yahoo Japan remarks.&lt;/p&gt;&lt;p&gt;Throw in the nearly $7 billion in cash and marketable securities that Yahoo held at the end of March, and the company's current market value of $42 billion implies investors think Yahoo's ongoing business is worth next to nothing.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T02:28:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Nationals put Stephen Strasburg on DL with stiff neck (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/nationals-put-stephen-strasburg-dl-stiff-neck-184835314--mlb.html" />
     <author>
@@ -1493,18 +1505,6 @@
     <summary type="html" />
     <dc:date>2015-04-22T13:48:48Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/Tt6Jyf.k4iwfu5ap9QIGcw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE2OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201504220834308590771" />
-  </entry>
-  <entry>
-    <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19182630.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T02:28:04Z</updated>
-    <published>2015-04-22T02:28:04Z</published>
-    <summary type="html">&lt;p&gt;The latest evidence of Yahoo's financial malaise emerged Tuesday with the release the company's first-quarter earnings report.&lt;/p&gt;&lt;p&gt;The shares initially fell by an additional 2 percent in extended trading, but then rebounded after the cost-cutting pledge and the Yahoo Japan remarks.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T02:28:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
