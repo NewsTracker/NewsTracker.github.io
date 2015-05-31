@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Volcano erupts on remote Japanese island, residents flee by boat</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/29/us-japan-volcano-idUSKBN0OE02R20150529?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T10:15:51Z</updated>
+    <published>2015-05-29T10:15:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-29T10:15:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Vanuatu appeals for aid after cyclone 'calamity'</title>
     <link rel="alternate" href="http://news.yahoo.com/devastating-storm-pounds-pacific-island-vanuatu-235637066.html" />
     <author>
