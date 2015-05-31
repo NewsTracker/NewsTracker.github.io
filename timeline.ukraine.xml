@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kazakhstan votes for continuity while keeping eye on Ukraine</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/apr/24/kazakhstan-votes-for-continuity-while-keeping-eye/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T09:16:14Z</updated>
+    <published>2015-04-24T09:16:14Z</published>
+    <summary type="html">&lt;p&gt;Leonard reported from Kiev, Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T09:16:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine names Georgia's Saakashvili as governor of Black Sea hotspot</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3104463/Ukraine-names-Georgias-Saakashvili-governor-Black-Sea-hotspot.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
