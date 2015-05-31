@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>How a Harvard student allowed you to track your Facebook friends</title>
+    <link rel="alternate" href="http://www.boston.com/news/2015/05/28/how-harvard-student-allowed-you-track-your-facebook-friends/1rskeqw1MF6ICO0ZrTxPJO/story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T13:38:52Z</updated>
+    <published>2015-05-29T13:38:52Z</published>
+    <summary type="html">&lt;p&gt;Facebook Messenger knows where you've been.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T13:38:52Z</dc:date>
+    <media:content url="http://www.boston.com/news/2015/05/28/how-harvard-student-allowed-you-track-your-facebook-friends/1rskeqw1MF6ICO0ZrTxPJO/%23" />
+  </entry>
+  <entry>
     <title>Facebook's Internet.org criticised as it 'violates principles of free speech'</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-3087843/Facebook-s-Internet-org-slammed-critics-claim-project-violates-principles-free-speech-privacy.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
