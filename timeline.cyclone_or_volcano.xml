@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Half of Vanuatu's population affected by Cyclone Pam: UN</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3005077/Half-Vanuatus-population-affected-Cyclone-Pam-UN.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T03:06:08Z</updated>
+    <published>2015-03-21T03:06:08Z</published>
+    <summary type="html">&lt;p&gt;More than half of the South Pacific island nation Vanuatu's population has been affected by Cyclone Pam, the UN said Saturday as the death toll rose to 16.&lt;/p&gt;&lt;p&gt;"Around 166,000 people, more than half of Vanuatu's population, have been affected by Tropical Cyclone Pam on 22 islands," the Office for the Coordination of Humanitarian Affairs (OCHA) said in a situation report.&lt;/p&gt;</summary>
+    <dc:date>2015-03-21T03:06:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Volcano erupts on remote Japanese island, residents flee by boat</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/29/us-japan-volcano-idUSKBN0OE02R20150529?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
@@ -979,17 +990,6 @@
     <published>2015-03-24T00:35:01Z</published>
     <summary type="html">&lt;p&gt;SYDNEY (Reuters) - Tropical Cyclone Nathan smashed into northern Australia on Tuesday bringing gale-force winds and heavy rainfall to one of the country's most remote regions.&lt;/p&gt;</summary>
     <dc:date>2015-03-24T00:35:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Half of Vanuatu's population affected by Cyclone Pam: UN</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3005077/Half-Vanuatus-population-affected-Cyclone-Pam-UN.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-21T03:06:08Z</updated>
-    <published>2015-03-21T03:06:08Z</published>
-    <summary type="html">&lt;p&gt;More than half of the South Pacific island nation Vanuatu's population has been affected by Cyclone Pam, the UN said Saturday as the death toll rose to 16.&lt;/p&gt;</summary>
-    <dc:date>2015-03-21T03:06:08Z</dc:date>
   </entry>
   <entry>
     <title>5 things to know about Vanuatu's devastating cyclone</title>

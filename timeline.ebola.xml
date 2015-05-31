@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ebola 'won't go quietly,' WHO says, as cases edge up</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/health/ebola-won-t-go-quietly-who-says-as-cases-edge-up-1.3079215?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T17:43:10Z</updated>
+    <published>2015-05-19T17:43:10Z</published>
+    <summary type="html">&lt;p&gt;"It will take an extraordinary effort to finish the job," the WHO's special representative for Ebola, Bruce Aylward, told a briefing attended by health ministers.&lt;/p&gt;&lt;p&gt;The WHO said on Monday it is setting up a $100 million contingency fund to ensure that it will not be "overwhelmed" by a major crisis again as it was with Ebola, which has killed more than 11,000 people since December 2013.&lt;/p&gt;&lt;p&gt;Guinea and Sierra Leone reported 35 new Ebola cases in the past week, four times as many as the week before, in a reminder that the virus "will not go quietly," a top World Health Organization official said on Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T17:43:10Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3013714.1427570809!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/health-ebola-leone.jpg" />
+  </entry>
+  <entry>
     <title>Emails: UN health agency resisted declaring Ebola emergency</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article15432680.html%23storylink=rss" />
     <author>
@@ -82,18 +94,6 @@
     <summary type="html" />
     <dc:date>2015-05-29T13:28:45Z</dc:date>
     <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
-  </entry>
-  <entry>
-    <title>Ebola 'won't go quietly,' WHO says, as cases edge up</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/health/ebola-won-t-go-quietly-who-says-as-cases-edge-up-1.3079215?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-19T17:43:10Z</updated>
-    <published>2015-05-19T17:43:10Z</published>
-    <summary type="html">&lt;p&gt;"It will take an extraordinary effort to finish the job," the WHO's special representative for Ebola, Bruce Aylward, told a briefing attended by health ministers.&lt;/p&gt;&lt;p&gt;The WHO said on Monday it is setting up a $100 million contingency fund to ensure that it will not be "overwhelmed" by a major crisis again as it was with Ebola, which has killed more than 11,000 people since December 2013.&lt;/p&gt;</summary>
-    <dc:date>2015-05-19T17:43:10Z</dc:date>
-    <media:content url="http://i.cbc.ca/1.3013714.1427570809!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/health-ebola-leone.jpg" />
   </entry>
   <entry>
     <title>Merkel: Global catastrophe plan needed after Ebola crisis</title>
