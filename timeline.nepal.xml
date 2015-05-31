@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Wary children return to schools after Nepal earthquake</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/south-asia/Wary-children-return-to-schools-after-Nepal-earthquake/articleshow/47490131.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T11:30:45Z</updated>
+    <published>2015-05-31T11:30:45Z</published>
+    <summary type="html">&lt;p&gt;The government and aid agencies have built 137 temporary learning centres for 14,000 children who attended schools across Nepal on Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T11:30:45Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47490172,width-300,resizemode-4/Nepal-Quake.jpg" />
+  </entry>
+  <entry>
+    <title>Schools reopen in areas of Nepal worst hit by earthquakes</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article22735674.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T10:22:04Z</updated>
+    <published>2015-05-31T10:22:04Z</published>
+    <summary type="html">&lt;p&gt;A Nepalese man comforts his crying daughter at her school premise, as thousands of schools across the districts worst hit by two major earthquakes in Nepal reopened Sunday, in Kathmandu, Nepal, Sunday, May 31, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T10:22:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Schools Reopen in Areas of Nepal Worst Hit by Earthquakes</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/schools-reopen-quake-hit-areas-nepal-31423725" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T10:18:47Z</updated>
+    <published>2015-05-31T10:18:47Z</published>
+    <summary type="html">&lt;p&gt;According to a UNICEF statement, 32,000 classrooms were destroyed and 15,352 classrooms were damaged after the two major earthquakes in Nepal.&lt;/p&gt;&lt;p&gt;Nepal's high dropout rate was already a major concern, UNICEF said adding there were estimated 985,000 children who couldn't return to classes on Sunday, thus facing a great risk of dropping out of school.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T10:18:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Schools reopen in areas of Nepal worst hit by earthquakes</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Schools-reopen-in-quake-hit-areas-of-Nepal-6297300.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T10:16:34Z</updated>
+    <published>2015-05-31T10:16:34Z</published>
+    <summary type="html">&lt;p&gt;Niraj Kayanstha, a teacher at Changuranayan school, east of Kathmandu, told state-run Radio Nepal that about half of the 400 students came to school on Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T10:16:34Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/63/30/8074794/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Schools Reopen in Areas of Nepal Worst Hit by Earthquakes</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/schools-reopen-quake-hit-areas-nepal-31423725" />
     <author>

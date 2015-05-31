@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Saudi, Egypt Downplay Reports of Discord Over Syria</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/saudi-egypt-downplay-reports-discord-syria-31425523" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T13:52:14Z</updated>
+    <published>2015-05-31T13:52:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-31T13:52:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt's rights agency says 2,600 killed after Morsi ouster</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/31/egypts-rights-agency-says-2600-killed-after-morsi/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T13:11:15Z</updated>
+    <published>2015-05-31T13:11:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-31T13:11:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Officials: Militants blow up natural gas pipeline in Egypt</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/31/officials-militants-blow-up-natural-gas-pipeline/" />
     <author>

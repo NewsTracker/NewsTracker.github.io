@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Woman donates vintage Apple computer worth $200,000 to recycling centre</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/woman-donates-vintage-apple-computer-worth-200-000-to-recycling-centre-1.2399387" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T02:32:00Z</updated>
+    <published>2015-05-31T02:32:00Z</published>
+    <summary type="html">&lt;p&gt;The San Jose Mercury News reports it was one of only about 200 first-generation Apple computers made in 1976.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T02:32:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple Watch Review: The Smartwatch Finally Makes Sense</title>
     <link rel="alternate" href="http://www.wsj.com/articles/apple-watch-review-the-smartwatch-finally-makes-sense-1428494495?mod=rss_Technology" />
     <author>
