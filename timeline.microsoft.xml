@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tech lookahead: Microsoft announces Windows 10 release date</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-lookahead/article24719017/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T09:18:43Z</updated>
+    <published>2015-06-01T09:18:43Z</published>
+    <summary type="html">&lt;p&gt;Microsoft Corp said on Monday its new Windows 10 operating system will be available worldwide on July 29, as a free upgrade for users of the most recent versions of Windows.&lt;/p&gt;&lt;p&gt;Touch-friendly Windows 10, which features the return of the Start menu and will run across PCs, tablets and smartphones, is Microsoft's latest attempt to win over mobile users and features a new browser called 'Edge'.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T09:18:43Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/6e0/report-on-business/international-business/us-business/article24088447.ece/ALTERNATES/w220/micro.JPG" />
+  </entry>
+  <entry>
+    <title>Microsoft says Windows 10 available on July 29</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/01/us-microsoft-windows-idUSKBN0OH1U320150601?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T09:00:46Z</updated>
+    <published>2015-06-01T09:00:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-01T09:00:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft results show company's shift, but is it enough?</title>
     <link rel="alternate" href="http://news.yahoo.com/microsoft-results-show-companys-shift-enough-213116607.html" />
     <author>

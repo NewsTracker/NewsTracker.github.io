@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>As Ebola disappears, no useful data seen from vaccine trials, says WHO</title>
+    <link rel="alternate" href="http://www.foxnews.com/health/2015/05/12/as-ebola-disappears-no-useful-data-seen-from-vaccine-trials-says-who/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fhealth+%28Internal+-+Health+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T15:55:04Z</updated>
+    <published>2015-05-12T15:55:04Z</published>
+    <summary type="html">&lt;p&gt;With Ebola nearly stamped out in West Africa, vaccine trials will probably fail to provide enough useful data on how well they protect people against the deadly virus, the World Health Organization (WHO) said on Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T15:55:04Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Health/876/493/ebola_liberia_flag_reuters.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
     <title>Ebola 'won't go quietly,' WHO says, as cases edge up</title>
     <link rel="alternate" href="http://www.cbc.ca/news/health/ebola-won-t-go-quietly-who-says-as-cases-edge-up-1.3079215?cmp=rss" />
     <author>
