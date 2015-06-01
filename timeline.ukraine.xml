@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UN rights office: Death toll in Ukraine conflict tops 6,400</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/01/un-rights-office-death-toll-in-ukraine-conflict/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T12:32:51Z</updated>
+    <published>2015-06-01T12:32:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-01T12:32:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Russia may be readying for new Ukraine offensive -NATO commander</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3063060/Russia-readying-new-Ukraine-offensive-NATO-commander.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
