@@ -4,6 +4,62 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft Windows 10, with mobile in mind, arrives in July</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/article/Microsoft-Windows-10-with-mobile-in-mind-6298653.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T10:38:21Z</updated>
+    <published>2015-06-01T10:38:21Z</published>
+    <summary type="html">&lt;p&gt;The operating system is intended to give apps a similar feel on all devices and comes with a new Web browser integrated with Cortana, the company's voice-activated answer to Apple's Siri.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T10:38:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft opens door to Android, Apple phone apps</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/us-microsoft-windows-idUSKBN0NK1UZ20150430?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T04:30:33Z</updated>
+    <published>2015-04-30T04:30:33Z</published>
+    <summary type="html">&lt;p&gt;Its new browser will arrive as Microsoft Edge, replacing the waning Internet Explorer, when Windows 10 is released, the company said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T04:30:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>China iPhone sales boost Apple; shares up modestly</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/28/us-apple-results-idUSKBN0NI26L20150428?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T05:11:42Z</updated>
+    <published>2015-04-28T05:11:42Z</published>
+    <summary type="html">&lt;p&gt;Apple said net income for the fiscal second quarter rose to $13.57 billion, or $2.33 per share, from $10.22 billion, or $1.66 per share, a year earlier.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T05:11:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Some Apple Watches shipping sooner than expected</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Some-Apple-Watches-shipping-sooner-than-expected-6217818.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T00:17:58Z</updated>
+    <published>2015-04-23T00:17:58Z</published>
+    <summary type="html">&lt;p&gt;Apple hasn't said how many watches have been sold since it began taking orders April 10, but it's filling orders in the order they were received.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T00:17:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>As Explorer loses ground, Microsoft readies new web browser</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/As-Explorer-loses-ground-Microsoft-readies-new-6143211.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T21:45:41Z</updated>
+    <published>2015-03-18T21:45:41Z</published>
+    <summary type="html">&lt;p&gt;After 20 years of competing against rival web browsers, Microsoft is gearing up to launch its own alternative to its once-dominant Internet surfing program.&lt;/p&gt;&lt;p&gt;Microsoft has built a new web browser designed for the modern web and mobile devices to go with its new Windows 10 operating system that's coming later this year.&lt;/p&gt;&lt;p&gt;Explorer will still be available, but Microsoft hinted this week that its new - and as-yet unnamed - browser will get top billing in the future.&lt;/p&gt;&lt;p&gt;Microsoft didn't invent the web browser, but it has invested heavily to promote Explorer since it was first launched in 1995.&lt;/p&gt;&lt;p&gt;Microsoft is betting heavily that its new Windows 10 software will appeal to computer users who are increasingly using mobile devices.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T21:45:41Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/22/14/7676711/3/622x350.jpg" />
+  </entry>
+  <entry>
     <title>Tech lookahead: Microsoft announces Windows 10 release date</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-lookahead/article24719017/?cmpid=rss1" />
     <author>
@@ -3278,18 +3334,6 @@
     <published>2015-03-19T12:31:30Z</published>
     <summary type="html">&lt;p&gt;Apple Inc. was added to the Dow after the market closed Wednesday.&lt;/p&gt;&lt;p&gt;The Dow will begin trading with Apple stock when the markets open Thursday.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T12:31:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>As Explorer loses ground, Microsoft readies new web browser</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/As-Explorer-loses-ground-Microsoft-readies-new-6143211.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T21:45:41Z</updated>
-    <published>2015-03-18T21:45:41Z</published>
-    <summary type="html">&lt;p&gt;After 20 years of competing against rival web browsers, Microsoft is gearing up to launch its own alternative to its once-dominant Internet surfing program.&lt;/p&gt;&lt;p&gt;Microsoft has built a new web browser designed for the modern web and mobile devices to go with its new Windows 10 operating system that's coming later this year.&lt;/p&gt;&lt;p&gt;Explorer will still be available, but Microsoft hinted this week that its new - and as-yet unnamed - browser will get top billing in the future.&lt;/p&gt;&lt;p&gt;Microsoft didn't invent the web browser, but it has invested heavily to promote Explorer since it was first launched in 1995.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T21:45:41Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/35/22/14/7676711/3/622x350.jpg" />
   </entry>
   <entry>
     <title>Microsoft must face Xbox 360 class action claims</title>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Video purports to show Islamic State militants killing captured Ethiopian Christians in Libya</title>
+    <link rel="alternate" href="http://www.startribune.com/world/300578391.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T14:50:22Z</updated>
+    <published>2015-04-19T14:50:22Z</published>
+    <summary type="html">&lt;p&gt;Meanwhile Sunday, the U.S.-led coalition said Kurdish forces recaptured 11 villages in Iraq's Kirkuk province from the Islamic State group following days of intense clashes.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T14:50:22Z</dc:date>
+    <media:content url="http://stmedia.startribune.com/designimages/playBackIcon.png" />
+  </entry>
+  <entry>
     <title>Islamic State threatens to seize Syrian border town from other rebels</title>
     <link rel="alternate" href="http://www.smh.com.au/world/islamic-state-threatens-to-seize-syrian-border-town-from-other-rebels-20150601-ghe4fj.html" />
     <author>
