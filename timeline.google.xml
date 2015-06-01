@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google says 21 percent of tech hires in 2014 were women</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/01/us-google-diversity-idUSKBN0OH3FO20150601?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T21:37:44Z</updated>
+    <published>2015-06-01T21:37:44Z</published>
+    <summary type="html">&lt;p&gt;Google Inc said 21 percent of tech hires last year were women, boosting overall number of women in technical roles by 1 percent, as part of efforts to increase diversity.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T21:37:44Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150601&amp;amp;t=2&amp;amp;i=1052910651&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB501H9" />
+  </entry>
+  <entry>
+    <title>Google says 21 percent of tech hires in 2014 were women</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/01/us-google-diversity-idUSKBN0OH3FO20150601?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T21:37:44Z</updated>
+    <published>2015-06-01T21:37:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-01T21:37:44Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150601&amp;amp;t=2&amp;amp;i=1052910651&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB501H9" />
+  </entry>
+  <entry>
+    <title>Google still struggling to diversify beyond white, Asian men</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-still-struggling-to-diversify-beyond-6299961.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T21:10:46Z</updated>
+    <published>2015-06-01T21:10:46Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google's workforce is still dominated by white and Asian men even after the Internet company hired a woman to fill one out of every five of its openings for computer programmers and other high-paying technology jobs last year.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T21:10:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google still struggling to diversify beyond white, Asian men</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Google-still-struggling-to-diversify-beyond-6299961.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T21:10:46Z</updated>
+    <published>2015-06-01T21:10:46Z</published>
+    <summary type="html">&lt;p&gt;The ongoing lack of diversity emerged in a demographic breakdown that Google released Monday.&lt;/p&gt;&lt;p&gt;Just 18 percent of Google's technology jobs were held by women entering 2015, up a percentage point from the previous year.&lt;/p&gt;&lt;p&gt;The latest snapshot of Google's workforce comes roughly a year after Google publicly disclosed the gender and ethnic makeup of its payroll for the first time to cast spotlight on a diversity problem vexing the entire technology industry.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T21:10:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Google debuts new privacy tools</title>
     <link rel="alternate" href="http://thehill.com/policy/technology/243596-google-debuts-new-privacy-tools" />
     <author>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.xbox_or_playstation_or_nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Investors cheer Nintendo move into smartphone games</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T08:30:27Z</updated>
+    <published>2015-03-19T08:30:27Z</published>
+    <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;&lt;p&gt;The move into smartphone apps could further dent console sales, some analysts said, despite assurances by company president Satoru Iwata that Nintendo was committed to making gaming machines.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T08:30:27Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T02:41:04Z</updated>
+    <published>2015-03-18T02:41:04Z</published>
+    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;&lt;p&gt;Nintendo, based in the ancient city of Kyoto, announced Tuesday it was teaming up with Tokyo-based mobile gaming company DeNA to develop games for smartphones.&lt;/p&gt;&lt;p&gt;But Iwata added that the announcement did not mark a move away from consoles, saying Nintendo would release a new system as a successor to its Wii U home console, which came on to the market in late 2012.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T02:41:04Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
+  </entry>
+  <entry>
     <title>Super Mario to go mobile as Nintendo ventures into gaming apps</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-news/super-mario-to-go-mobile-as-nintendo-ventures-into-gaming-apps/article23492555/?cmpid=rss1" />
     <author>
@@ -14,18 +38,6 @@
     <summary type="html">&lt;p&gt;Nintendo, which already warned its annual operating profit would halve on weak console sales, said on Tuesday it was teaming up with online gaming firm DeNA Co. Ltd. to develop and operate gaming apps.&lt;/p&gt;&lt;p&gt;The two companies will also launch later this year an online membership service accessible on mobile devices as well as Nintendo's existing Wii U console and the portable 3DS.&lt;/p&gt;&lt;p&gt;Although Iwata didn't disclose any details about Nintendo's first mobile game, he said it would not be a hand-me-down from the company's famed console titles.&lt;/p&gt;&lt;p&gt;As a result, Nintendo will acquire a 10-per-cent stake in DeNA while DeNA will acquire a 1.2-per-cent stake in Nintendo.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T11:26:12Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/9be/technology/tech-news/article23492554.ece/ALTERNATES/w220/web-nintendo-0317.JPG" />
-  </entry>
-  <entry>
-    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T02:41:04Z</updated>
-    <published>2015-03-18T02:41:04Z</published>
-    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;&lt;p&gt;Nintendo, based in the ancient city of Kyoto, announced Tuesday it was teaming up with Tokyo-based mobile gaming company DeNA to develop games for smartphones.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T02:41:04Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
   </entry>
   <entry>
     <title>Nintendo World Championships back after 25 years</title>
@@ -184,18 +196,6 @@
     <summary type="html">&lt;p&gt;if each has a separate PlayStation 3 or 4 (only one can be a PS4).&lt;/p&gt;&lt;p&gt;Many shows from the past three days are automatically available for viewing, but only through the PlayStation, not on mobile.&lt;/p&gt;&lt;p&gt;One stream at a time on a variety of devices, including Roku, Amazon Fire TV and Xbox One for big-screen TVs.&lt;/p&gt;</summary>
     <dc:date>2015-03-25T07:10:19Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/35/32/74/7712514/3/622x350.jpg" />
-  </entry>
-  <entry>
-    <title>Investors cheer Nintendo move into smartphone games</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T08:30:27Z</updated>
-    <published>2015-03-19T08:30:27Z</published>
-    <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;</summary>
-    <dc:date>2015-03-19T08:30:27Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
   </entry>
   <entry>
     <title>Microsoft must face Xbox 360 class action claims</title>

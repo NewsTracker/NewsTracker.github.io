@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore posts worst monthly murder toll since 1972</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/01/us-usa-police-baltimore-idUSKBN0OH3AB20150601?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T20:11:19Z</updated>
+    <published>2015-06-01T20:11:19Z</published>
+    <summary type="html">&lt;p&gt;Asked if police were making fewer arrests after Gray's death, contributing to the murder rise, Police Commissioner Anthony Batts told reporters last week that there were "a lot of levels of confusion" among Baltimore officers.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T20:11:19Z</dc:date>
+  </entry>
+  <entry>
     <title>The latest on Baltimore police-custody death: Court records show race of officers charged</title>
     <link rel="alternate" href="http://www.foxnews.com/us/2015/05/01/latest-on-baltimore-police-custody-death-court-records-show-race-officers/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
     <author>

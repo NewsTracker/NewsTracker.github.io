@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>High court throws out Anthony Elonis' conviction for Facebook threats</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3105984/High-court-throws-conviction-Facebook-threats.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T22:04:09Z</updated>
+    <published>2015-06-01T22:04:09Z</published>
+    <summary type="html">&lt;p&gt;Elonis served prison time for posting a series of statements on Facebook in 2010 after his wife left him.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T22:04:09Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/06/01/20/29422F4500000578-3105984-image-a-18_1433186673866.jpg" />
+  </entry>
+  <entry>
+    <title>Supreme Court tosses conviction in Facebook threat case</title>
+    <link rel="alternate" href="http://www.cbsnews.com/videos/supreme-court-tosses-conviction-in-facebook-threat-case/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T20:02:44Z</updated>
+    <published>2015-06-01T20:02:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-01T20:02:44Z</dc:date>
+  </entry>
+  <entry>
     <title>High court throws out conviction for Facebook threats</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/High-court-throws-out-conviction-for-Facebook-6298986.php" />
     <author>

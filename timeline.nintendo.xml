@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Investors cheer Nintendo move into smartphone games</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T08:30:27Z</updated>
+    <published>2015-03-19T08:30:27Z</published>
+    <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;&lt;p&gt;The move into smartphone apps could further dent console sales, some analysts said, despite assurances by company president Satoru Iwata that Nintendo was committed to making gaming machines.&lt;/p&gt;&lt;p&gt;Nintendo, however, may be shifting away from hardware, Mr Iwata said it was developing a new gaming platform, the NX, as well as an online membership service to be launched this year.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T08:30:27Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
+  </entry>
+  <entry>
     <title>Nintendo shares marked up 21% smartphone gaming plan</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -25,18 +37,6 @@
     <published>2015-05-14T03:43:07Z</published>
     <summary type="html" />
     <dc:date>2015-05-14T03:43:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Investors cheer Nintendo move into smartphone games</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T08:30:27Z</updated>
-    <published>2015-03-19T08:30:27Z</published>
-    <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;</summary>
-    <dc:date>2015-03-19T08:30:27Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
   </entry>
   <entry>
     <title>'Super Mario' to go mobile as Nintendo ventures into smartphone games</title>
