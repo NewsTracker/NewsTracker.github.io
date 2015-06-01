@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google posts mixed 1Q results amid new threats to company</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-posts-mixed-1Q-results-amid-new-threats-to-6219961.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T20:36:34Z</updated>
+    <published>2015-04-23T20:36:34Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google has been looking more vulnerable as a technological upheaval nibbles at its dominance in Internet search, while the company also deals with a potentially massive regulatory headache in Europe.&lt;/p&gt;&lt;p&gt;But those threats haven't done much to undercut Google's power or profits yet.&lt;/p&gt;&lt;p&gt;Google's first-quarter earnings rose 4 percent to $3.6 billion as the company's Internet-leading advertising network lifted revenue by 14 percent to $17.3 billion from the same time last year.&lt;/p&gt;&lt;p&gt;It marked the sixth consecutive quarter that Google's earnings have fallen below the analysts' targets that shape investors' expectations.&lt;/p&gt;&lt;p&gt;Google's stock nevertheless surged $14.54, or nearly 3 percent, to $572 in extended trading.&lt;/p&gt;&lt;p&gt;If not for employee stock compensation, Google said it would have earned $6.57 per share, four cents below the estimates among analysts polled by FactSet.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T20:36:34Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/00/70/7867944/3/628x471.jpg" />
+  </entry>
+  <entry>
     <title>Manziel tosses water bottle at heckler during PGA event (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/johnny-manziel-run-fan-nelson-golf-tournament-200237247--nfl.html" />
     <author>
@@ -263,18 +275,6 @@
     <summary type="html">&lt;p&gt;Google's service is also promising to automatically switch customers to publicly available Wi-Fi networks to avoid incurring charges for using data on the cellular networks.&lt;/p&gt;&lt;p&gt;Google, though, is hoping Project Fi reshapes the market.&lt;/p&gt;&lt;p&gt;Getting on the wireless service requires a Nexus 6 smartphone, a model made by Motorola for Google as a showcase for how it would like its services to work with its Android operating system.&lt;/p&gt;</summary>
     <dc:date>2015-05-04T18:03:01Z</dc:date>
     <media:content url="http://ww2.hdnux.com/photos/36/16/43/7923917/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Google posts mixed 1Q results amid new threats to company</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-posts-mixed-1Q-results-amid-new-threats-to-6219961.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-23T20:36:34Z</updated>
-    <published>2015-04-23T20:36:34Z</published>
-    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google has been looking more vulnerable as a technological upheaval nibbles at its dominance in Internet search, while the company also deals with a potentially massive regulatory headache in Europe.&lt;/p&gt;&lt;p&gt;But those threats haven't done much to undercut Google's power or profits yet.&lt;/p&gt;&lt;p&gt;Google's first-quarter earnings rose 4 percent to $3.6 billion as the company's Internet-leading advertising network lifted revenue by 14 percent to $17.3 billion from the same time last year.&lt;/p&gt;&lt;p&gt;It marked the sixth consecutive quarter that Google's earnings have fallen below the analysts' targets that shape investors' expectations.&lt;/p&gt;&lt;p&gt;Google's stock nevertheless surged $14.54, or nearly 3 percent, to $572 in extended trading.&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T20:36:34Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/36/00/70/7867944/3/628x471.jpg" />
   </entry>
   <entry>
     <title>Mets put 3B David Wright on 15-day DL, recall Eric Campbell (Yahoo Sports)</title>

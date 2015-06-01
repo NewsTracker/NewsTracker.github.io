@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State says it has full control of Syria's Palmyra</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3091690/Islamic-State-says-control-Syrias-Palmyra.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T00:46:47Z</updated>
+    <published>2015-05-22T00:46:47Z</published>
+    <summary type="html">&lt;p&gt;Islamic State said in a statement posted by followers on Twitter that it was in full charge of Palmyra, including its military bases, marking the first time it had taken a city directly from the Syrian military and allied forces.&lt;/p&gt;&lt;p&gt;"ISIL (Islamic State) has reportedly been carrying out door-to-door searches in the city, looking for people affiliated with the government," Shamdasani said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T00:46:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Embittered, Moroccan leaves family for Islamic State</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/embittered-moroccan-leaves-family-for-islamic-stat/nmLHp/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T01:13:57Z</updated>
+    <published>2015-05-21T01:13:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-21T01:13:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State drives back Syria insurgents near Turkey</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3104606/Islamic-State-pushes-rival-Syria-insurgents-near-Turkey.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -821,17 +843,6 @@
     <summary type="html" />
     <dc:date>2015-05-22T17:49:39Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/S2QxNQg3ReqDOU.Db8N5Yg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-22T144302Z_1_LYNXMPEB4L0R5_RTROPTP_2_SAUDI-SECURITY.JPG" />
-  </entry>
-  <entry>
-    <title>Islamic State says it has full control of Syria's Palmyra</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3091690/Islamic-State-says-control-Syrias-Palmyra.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-22T00:46:47Z</updated>
-    <published>2015-05-22T00:46:47Z</published>
-    <summary type="html">&lt;p&gt;Islamic State said in a statement posted by followers on Twitter that it was in full charge of Palmyra, including its military bases, marking the first time it had taken a city directly from the Syrian military and allied forces.&lt;/p&gt;</summary>
-    <dc:date>2015-05-22T00:46:47Z</dc:date>
   </entry>
   <entry>
     <title>Canadian jets strike Islamic State staging area in Syria</title>
