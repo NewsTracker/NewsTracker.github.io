@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fin24.com | Russia warns Google, Twitter, Facebook on web laws</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Russia-warns-Google-Twitter-Facebook-on-web-laws-20150522" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T07:51:37Z</updated>
+    <published>2015-05-22T07:51:37Z</published>
+    <summary type="html">&lt;p&gt;In its semi-annual Transparency Report, Google said it provided some information on users in response to 5% of 134 Russian government requests made in the second half of 2014 - again far less than in the US.&lt;/p&gt;&lt;p&gt;Moscow - Russia's media watchdog has written to Google, Twitter and Facebook warning them against violating Russian internet laws and a spokesman said on Thursday they risk being blocked if they do not comply with the rules.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T07:51:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Have You Taken Google's Virtual, Interactive Abbey Road Studios Tour?</title>
     <link rel="alternate" href="http://www.vulture.com/2015/04/have-you-taken-googles-abbey-road-studios-tour.html" />
     <author>
@@ -279,17 +290,6 @@
     <summary type="html" />
     <dc:date>2015-05-22T16:24:47Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/nZ8IVrweNuvBiAdYYW0grQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/15abe7977de66a4c891d001a05df48ab" />
-  </entry>
-  <entry>
-    <title>Fin24.com | Russia warns Google, Twitter, Facebook on web laws</title>
-    <link rel="alternate" href="http://www.fin24.com/Tech/News/Russia-warns-Google-Twitter-Facebook-on-web-laws-20150522" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-22T07:51:37Z</updated>
-    <published>2015-05-22T07:51:37Z</published>
-    <summary type="html">&lt;p&gt;In its semi-annual Transparency Report, Google said it provided some information on users in response to 5% of 134 Russian government requests made in the second half of 2014 - again far less than in the US.&lt;/p&gt;</summary>
-    <dc:date>2015-05-22T07:51:37Z</dc:date>
   </entry>
   <entry>
     <title>Google Maps: Search for a racial slur and Google will point you to the White House</title>

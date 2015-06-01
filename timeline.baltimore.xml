@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Homicide count for May in Baltimore rises to 43</title>
+    <link rel="alternate" href="http://news.yahoo.com/homicide-count-may-baltimore-rises-43-230050004.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T23:00:50Z</updated>
+    <published>2015-05-31T23:00:50Z</published>
+    <summary type="html">&lt;p&gt;With 43 homicides, May is the deadliest month since the early 1970s, when 44 people were killed in December 1971 and 45 people in August 1972, according to the Baltimore Sun.&lt;/p&gt;&lt;p&gt;There have been 116 homicides in Baltimore in 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T23:00:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Homicide count in Baltimore reaches 43 for May marking deadliest month in more than 40 years</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/05/31/homicide-count-in-baltimore-reaches-43-for-may-marking-deadliest-month-in-more/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T23:00:42Z</updated>
+    <published>2015-05-31T23:00:42Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - Three fatal shootings in Baltimore on Sunday bring May's homicide count to 43, making it the most violent month in more than 40 years.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T23:00:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Baltimore sees its 40th homicide in May, a record month</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/may/30/baltimore-sees-its-40th-homicide-in-may-a-record/" />
     <author>
