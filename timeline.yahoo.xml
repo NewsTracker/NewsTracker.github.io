@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Nadal marching at French, up 2 sets vs. Sock (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/latest-manic-monday-french-open-092053397--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T15:33:35Z</updated>
+    <published>2015-06-01T15:33:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-01T15:33:35Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Manziel tosses water bottle at heckler during PGA event (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/johnny-manziel-run-fan-nelson-golf-tournament-200237247--nfl.html" />
     <author>

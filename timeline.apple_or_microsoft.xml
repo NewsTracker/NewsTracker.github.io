@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T18:46:15Z</updated>
+    <published>2015-05-22T18:46:15Z</published>
+    <summary type="html">&lt;p&gt;Microsoft shares were down 1 percent at $46.93 on the Nasdaq.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T18:46:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft Windows 10, with mobile in mind, arrives in July</title>
     <link rel="alternate" href="http://www.seattlepi.com/news/article/Microsoft-Windows-10-with-mobile-in-mind-6298653.php" />
     <author>

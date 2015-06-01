@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Redacted words more trouble for Hillary Clinton than released emails</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/redacted-words-more-trouble-for-hillary-clinton-than-released-emails-20150523-gh7zgi.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-23T00:53:34Z</updated>
+    <published>2015-05-23T00:53:34Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton orders ice cream during a stop at in Derry, New Hampshire on Saturday.&lt;/p&gt;&lt;p&gt;One month after Mr Sullivan sent Mrs Clinton Ms Rice's television transcript, she forwarded the note to an aide with a short request: "Pls print."&lt;/p&gt;</summary>
+    <dc:date>2015-05-23T00:53:34Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/7/z/y/o/image.related.articleLeadwide.620x349.gh7zgi.png/1432342404512.jpg" />
+  </entry>
+  <entry>
     <title>Archives show Hillary Clinton OK'd tax breaks for nonprofits</title>
     <link rel="alternate" href="http://www.sfgate.com/news/article/Archives-show-Hillary-Clinton-OK-d-tax-breaks-for-6280283.php" />
     <author>
@@ -82,18 +94,6 @@
     <published>2015-05-28T16:03:21Z</published>
     <summary type="html" />
     <dc:date>2015-05-28T16:03:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Redacted words more trouble for Hillary Clinton than released emails</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/redacted-words-more-trouble-for-hillary-clinton-than-released-emails-20150523-gh7zgi.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-23T00:53:34Z</updated>
-    <published>2015-05-23T00:53:34Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton orders ice cream during a stop at in Derry, New Hampshire on Saturday.&lt;/p&gt;</summary>
-    <dc:date>2015-05-23T00:53:34Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/g/h/7/z/y/o/image.related.articleLeadwide.620x349.gh7zgi.png/1432342404512.jpg" />
   </entry>
   <entry>
     <title>Hillary Clinton got sensitive email about the 2012 Benghazi attack on her unsecured private server</title>

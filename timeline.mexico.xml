@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tropical Storm Blanca forms in Pacific Ocean off Mexico</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article22782558.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T15:12:06Z</updated>
+    <published>2015-06-01T15:12:06Z</published>
+    <summary type="html">&lt;p&gt;The second named storm of the season was centered about 335 miles (540 kilometers) south-southwest of Zihuatanejo, Mexico, on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T15:12:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tropical Storm Blanca Forms in Pacific off Mexico, Expected to Strengthen Over Next 2 Days</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/tropical-storm-blanca-forms-pacific-off-mexico-expected-31443886" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T14:55:02Z</updated>
+    <published>2015-06-01T14:55:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-01T14:55:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Enrique Iglesias recovering after fingers sliced at concert</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/article22741353.html%23storylink=rss" />
     <author>
