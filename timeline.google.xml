@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google debuts new privacy tools</title>
+    <link rel="alternate" href="http://thehill.com/policy/technology/243596-google-debuts-new-privacy-tools" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T14:37:07Z</updated>
+    <published>2015-06-01T14:37:07Z</published>
+    <summary type="html">&lt;p&gt;"When you trust your personal information with us, you should expect powerful controls that keep it safe and private as well as useful answers to your questions," said Google Product Manager Guemmy Kim in a blog post.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T14:37:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Google tries to demystify privacy controls with new approach</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Google-tries-to-demystify-privacy-controls-with-6298607.php" />
     <author>
