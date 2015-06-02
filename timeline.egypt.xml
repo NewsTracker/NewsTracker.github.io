@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt arrests top Muslim Brotherhood leaders</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-arrests-top-muslim-brotherhood-leaders-075427497.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T07:54:27Z</updated>
+    <published>2015-06-02T07:54:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T07:54:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt says uncovers Brotherhood plot, day before Mursi sentencing</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/01/us-egypt-brotherhood-plot-idUSKBN0OH3EG20150601?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
