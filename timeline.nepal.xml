@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest on Nepal: Most people in Kathmandu return indoors</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19922190.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T06:24:10Z</updated>
+    <published>2015-05-01T06:24:10Z</published>
+    <summary type="html">&lt;p&gt;Kathmandu municipal workers sweep a pavement near earthquake damaged buildings in Kathmandu, Nepal, Friday, May 1, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T06:24:10Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>The Latest on Nepal: Under rubble, man says he drank urine</title>
+    <link rel="alternate" href="http://www.miamiherald.com/living/health-fitness/article19784322.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T06:08:20Z</updated>
+    <published>2015-04-29T06:08:20Z</published>
+    <summary type="html">&lt;p&gt;Nepalese people pack their belongings to go back home after sleeping on open grounds for four nights to be safe from earthquake in Kathmandu, Nepal, Wednesday, April 29, 2015.&lt;/p&gt;&lt;p&gt;A man sleeps in his store with the shutters open in Kathmandu, Nepal, Tuesday, April 28, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T06:08:20Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>The Latest: Death toll in Nepal quake more than 3,200</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19696149.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T03:58:04Z</updated>
+    <published>2015-04-27T03:58:04Z</published>
+    <summary type="html">&lt;p&gt;Nepal's Deputy Inspector General of Police Komal Singh Bam says at least 3,218 people have been confirmed killed in Saturday's earthquake.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T03:58:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Copter Chartered by Aid Group Crashes in Nepal, Killing 4</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/helicopter-crashes-nepal-mountains-killing-board-31463649" />
     <author>
@@ -1913,18 +1948,6 @@
     <dc:date>2015-05-01T07:30:08Z</dc:date>
   </entry>
   <entry>
-    <title>The Latest on Nepal: Most people in Kathmandu return indoors</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article19922190.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-01T06:24:10Z</updated>
-    <published>2015-05-01T06:24:10Z</published>
-    <summary type="html">&lt;p&gt;Kathmandu municipal workers sweep a pavement near earthquake damaged buildings in Kathmandu, Nepal, Friday, May 1, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-05-01T06:24:10Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
     <title>The Latest on Nepal: $1,000 for each family of those killed</title>
     <link rel="alternate" href="http://news.yahoo.com/latest-nepal-airbus-offers-aircraft-sat-imagery-052015155.html" />
     <author>
@@ -2328,18 +2351,6 @@
     <published>2015-04-29T08:53:58Z</published>
     <summary type="html">&lt;p&gt;Nepalese people block traffic and shout slogans against the government as they protest the slow pace of aid delivery for the earthquake affected in Kathmandu, Nepal, Wednesday, April 29, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-04-29T08:53:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest on Nepal: Under rubble, man says he drank urine</title>
-    <link rel="alternate" href="http://www.miamiherald.com/living/health-fitness/article19784322.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-29T06:08:20Z</updated>
-    <published>2015-04-29T06:08:20Z</published>
-    <summary type="html">&lt;p&gt;Nepalese people pack their belongings to go back home after sleeping on open grounds for four nights to be safe from earthquake in Kathmandu, Nepal, Wednesday, April 29, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-04-29T06:08:20Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>The Latest on Nepal: Under rubble, man says he drank urine</title>

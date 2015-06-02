@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>National Guard called in to keep the peace in Baltimore</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2015-04-28-US--Suspect%20Dies-Baltimore/id-b6c6736e336140feb67c83b1cc8ee42b" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T13:33:00Z</updated>
+    <published>2015-04-28T13:33:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-28T13:33:00Z</dc:date>
+  </entry>
+  <entry>
     <title>ACLU, others bid to reopen suit over Baltimore jail conditions</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/02/us-usa-baltimore-prison-idUSKBN0OI1XE20150602?feedType=RSS&amp;amp;feedName=domesticNews" />
     <author>

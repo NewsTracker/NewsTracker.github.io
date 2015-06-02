@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama says Israel's commitment to a Palestinian state in doubt after Netanyahu remarks</title>
+    <link rel="alternate" href="http://www.startribune.com/obama-israel-s-commitment-to-palestinian-state-in-doubt/305881741/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T19:40:13Z</updated>
+    <published>2015-06-02T19:40:13Z</published>
+    <summary type="html">&lt;p&gt;Netanyahu has since walked back his remarks, saying he is committed to a Palestinian state under certain conditions.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T19:40:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>Obama: Israel's commitment to Palestinian state in doubt</title>
+    <link rel="alternate" href="http://news.yahoo.com/obama-israels-commitment-palestinian-state-doubt-193735883.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T19:37:35Z</updated>
+    <published>2015-06-02T19:37:35Z</published>
+    <summary type="html">&lt;p&gt;But in an interview broadcast Tuesday on Israel's Channel 2 TV's investigative program "Uvda," Obama said that Netanyahu's initial remarks were "fairly unequivocal."&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T19:37:35Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
     <title>Netanyahu slams Palestinians over Israel boycott campaign</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/netanyahu-slams-palestine-over-israel-boycott-campaign/" />
     <author>

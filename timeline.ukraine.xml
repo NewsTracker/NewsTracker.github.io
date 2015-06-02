@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine negotiators meet, but progress unseen</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/politics/ukraine-negotiators-meet-but-progress-unseen-1.2402957" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T18:31:06Z</updated>
+    <published>2015-06-02T18:31:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T18:31:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine group meets, without apparent progress</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11458842&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T18:30:19Z</updated>
+    <published>2015-06-02T18:30:19Z</published>
+    <summary type="html">&lt;p&gt;MINSK, Belarus (AP) " Negotiators seeking a resolution of Ukraine's conflict have ended their latest session without obvious progress.&lt;/p&gt;&lt;p&gt;Although fighting reduced substantially after that agreement, both Ukraine and the separatist rebels it is fighting in the east claim daily violations.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T18:30:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Analysis: US experts on Russia fear escalation over Ukraine crisis, see a wider conflict</title>
     <link rel="alternate" href="http://www.startribune.com/business/302291031.html" />
     <author>
