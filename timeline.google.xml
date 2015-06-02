@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google's staff worldwide still overwhelmingly white and Asian men</title>
+    <link rel="alternate" href="http://www.theguardian.com/technology/2015/jun/02/googles-staff-worldwide-still-overwhelmingly-white-and-asian-men" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T02:49:20Z</updated>
+    <published>2015-06-02T02:49:20Z</published>
+    <summary type="html">&lt;p&gt;Overall, Google employed 53,600 people at the end of 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T02:49:20Z</dc:date>
+    <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/9a6f601e9d47ab0866c1538c62fa665dcd043052/0_49_3493_2096/500.jpg" />
+  </entry>
+  <entry>
     <title>Google still struggling to diversify beyond white, Asian men</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article22833495.html%23storylink=rss" />
     <author>
