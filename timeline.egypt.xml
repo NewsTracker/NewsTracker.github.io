@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>2 Brotherhood leaders held in Egypt</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/2-brotherhood-leaders-held-in-egypt-31271835.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T09:11:10Z</updated>
+    <published>2015-06-02T09:11:10Z</published>
+    <summary type="html">&lt;p&gt;On May 16, a court sentenced Morsi to death and referred the case to Egypt's top Muslim cleric for a consultative opinion - a normal step for all death sentences.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T09:11:10Z</dc:date>
+    <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31271834.ece/28d96/ALTERNATES/h342/PANews%20BT_P-18bf26f8-d62b-45f1-9ac1-f30dec3cf576_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt arrests top Muslim Brotherhood leaders</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/02/egypt-arrests-top-muslim-brotherhood-leaders" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T08:44:08Z</updated>
+    <published>2015-06-02T08:44:08Z</published>
+    <summary type="html">&lt;p&gt;On Tuesday, an Egyptian court is expected to look into Morsi's death sentence, over a mass prison break during Egypt's 2011 uprising that eventually brought him to power.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T08:44:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt arrests top Muslim Brotherhood leaders</title>
     <link rel="alternate" href="http://news.yahoo.com/egypt-arrests-top-muslim-brotherhood-leaders-075427497.html" />
     <author>
