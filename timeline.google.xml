@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google still struggling to diversify beyond white, Asian men</title>
+    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/06/01/google-still-struggling-to-diversify-beyond-white-asian-men" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T22:50:17Z</updated>
+    <published>2015-06-01T22:50:17Z</published>
+    <summary type="html">&lt;p&gt;The report underscored the challenges that Google and most other major technology companies face as they try to add more women, blacks and Hispanics to their payrolls after many years of primarily relying on the technical skills of white and Asian men.&lt;/p&gt;&lt;p&gt;"Early indications show promise, but we know that with an organization our size, year-on-year growth and meaningful change is going to take time," said Nancy Lee, Google's vice president of people operations.&lt;/p&gt;&lt;p&gt;Whites held 59 percent of Google's tech jobs in the U.S., while Asians filled 35 percent of the positions, according to the report.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T22:50:17Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/926d82f/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png" />
+  </entry>
+  <entry>
     <title>Google says 21 percent of tech hires in 2014 were women</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/01/us-google-diversity-idUSKBN0OH3FO20150601?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>

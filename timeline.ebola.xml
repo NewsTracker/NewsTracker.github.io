@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UN official says Ebola will end in Sierra Leone in weeks</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/UN-official-says-Ebola-will-end-in-Sierra-Leone-6300245.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T23:25:23Z</updated>
+    <published>2015-06-01T23:25:23Z</published>
+    <summary type="html">&lt;p&gt;Nabarro said in an interview with The Associated Press on Monday that the Ebola epidemic "absolutely isn't over" though Liberia has been Ebola free since May 9.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T23:25:23Z</dc:date>
+  </entry>
+  <entry>
     <title>As Ebola disappears, no useful data seen from vaccine trials, says WHO</title>
     <link rel="alternate" href="http://www.foxnews.com/health/2015/05/12/as-ebola-disappears-no-useful-data-seen-from-vaccine-trials-says-who/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fhealth+%28Internal+-+Health+-+Text%29" />
     <author>
