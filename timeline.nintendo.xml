@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T02:41:04Z</updated>
+    <published>2015-03-18T02:41:04Z</published>
+    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;&lt;p&gt;But Iwata added that the announcement did not mark a move away from consoles, saying Nintendo would release a new system as a successor to its Wii U home console, which came on to the market in late 2012.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T02:41:04Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
+  </entry>
+  <entry>
     <title>Nintendo World Championships Return After 25 Years</title>
     <link rel="alternate" href="http://time.com/3858219/nintendo-mario-kart-super-smash-bros-pokemon-championship/" />
     <author>
@@ -25,18 +37,6 @@
     <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T08:30:27Z</dc:date>
     <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
-  </entry>
-  <entry>
-    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T02:41:04Z</updated>
-    <published>2015-03-18T02:41:04Z</published>
-    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T02:41:04Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
   </entry>
   <entry>
     <title>'Super Mario' to go mobile as Nintendo ventures into smartphone games</title>

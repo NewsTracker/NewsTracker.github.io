@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State fighters battle militants in northern Syria</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Islamic-State-fighters-battle-militants-in-6301407.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T13:44:30Z</updated>
+    <published>2015-06-02T13:44:30Z</published>
+    <summary type="html">&lt;p&gt;The fighting came a day after U.S. State Department spokeswoman Marie Harf said authorities heard reports forces loyal to Syrian President Bashar Assad launched airstrikes supporting the Islamic State group's advance.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T13:44:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. accuses Syria of backing Islamic State's Aleppo advance</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/02/us-mideast-crisis-syria-usa-idUSKBN0OI13D20150602?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T10:39:17Z</updated>
+    <published>2015-06-02T10:39:17Z</published>
+    <summary type="html">&lt;p&gt;In rebel-held Aleppo, a local council that helps run civilian affairs called on fighters to be ready for battle with Islamic State, the Observatory said on Tuesday, citing a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T10:39:17Z</dc:date>
+  </entry>
+  <entry>
     <title>U.S. accuses Syria of backing Islamic State's Aleppo advance</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3107241/U-S-accuses-Syria-backing-Islamic-States-Aleppo-advance.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -6929,7 +6951,7 @@
     <media:content url="http://www.usnews.com/dims4/USNEWS/fd3ae02/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2F67%2F7d%2Fb1d026154808be5169e12d9eea1a%2Ftwitter-icon.png" />
   </entry>
   <entry>
-    <title>Nigeria?s Boko Haram pledges allegiance to Islamic State</title>
+    <title>Nigeria’s Boko Haram pledges allegiance to Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/world/article/Nigeria-s-Boko-Haram-pledges-allegiance-to-6121265.php" />
     <author>
       <name />

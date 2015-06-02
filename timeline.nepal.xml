@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Helicopter crashes in Nepal mountains, killing 4 on board</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/02/helicopter-crashes-in-nepal-mountains-killing-4/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T12:00:51Z</updated>
+    <published>2015-06-02T12:00:51Z</published>
+    <summary type="html">&lt;p&gt;The helicopter was returning to Kathmandu when it crashed on the Yamuna Danda hill near Balefi village, Nepal Police spokesman Kamal Singh Bam said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T12:00:51Z</dc:date>
+    <media:content url="http://media.utsandiego.com/img/photos/2015/06/01/vinsonrescue_r142x90.jpg?a4c645db5e0d43838ff6d631be583dfe8b15e757" />
+  </entry>
+  <entry>
+    <title>Bodies retrieved from US chopper in Nepal</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/16/bodies-retrieved-us-chopper-nepal" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T06:02:17Z</updated>
+    <published>2015-05-16T06:02:17Z</published>
+    <summary type="html">&lt;p&gt;"Eight bodies have been recovered," the Nepal Army said on Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T06:02:17Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20150515001133304412-original_800x600.jpg?itok=wnVii6I7" />
+  </entry>
+  <entry>
+    <title>Aid still scarce in Nepal?s remote villages as anger grows</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article20081535.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T14:21:43Z</updated>
+    <published>2015-05-02T14:21:43Z</published>
+    <summary type="html">&lt;p&gt;He said the team had hoped to reach the areas by helicopter from Chautara, but none were available to charter and they could not get on choppers flown by Nepal's army, so they were returning to Kathmandu.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T14:21:43Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Nepal sets up post-quake camps for sexual minorities</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/01/nepal-sets-post-quake-camps-sexual-minorities" />
     <author>
@@ -391,18 +427,6 @@
     <summary type="html" />
     <dc:date>2015-05-16T07:12:15Z</dc:date>
     <media:content url="http://media.npr.org/assets/img/2015/05/16/ap864816693959_custom-870b8b7f4da4a6831d609fdc05c1ba0768458e60-s800-c15.jpg" />
-  </entry>
-  <entry>
-    <title>Bodies retrieved from US chopper in Nepal</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/16/bodies-retrieved-us-chopper-nepal" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-16T06:02:17Z</updated>
-    <published>2015-05-16T06:02:17Z</published>
-    <summary type="html">&lt;p&gt;"Eight bodies have been recovered," the Nepal Army said on Saturday.&lt;/p&gt;</summary>
-    <dc:date>2015-05-16T06:02:17Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20150515001133304412-original_800x600.jpg?itok=wnVii6I7" />
   </entry>
   <entry>
     <title>Brick factories prepare for business boom in Nepal amid desperate need to rebuild after quake</title>
@@ -3605,7 +3629,7 @@
     <dc:date>2015-04-09T15:54:40Z</dc:date>
   </entry>
   <entry>
-    <title>China plans rail tunnel UNDERNEATH Mount Everest which would link the country with Nepal?</title>
+    <title>China plans rail tunnel UNDERNEATH Mount Everest which would link the country with Nepal </title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3031966/China-plans-rail-tunnel-UNDERNEATH-Mount-Everest-link-country-Nepal.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

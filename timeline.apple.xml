@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple's Siri has new role in new 'smart' home systems</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11458740&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T12:35:14Z</updated>
+    <published>2015-06-02T12:35:14Z</published>
+    <summary type="html">&lt;p&gt;While a number of companies are working on similar products, analysts say Apple could persuade more consumers to try them by making it easy to control different products from a familiar device, such as the iPhone.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T12:35:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple's Siri has new role in new 'smart' home systems</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11458740&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T12:35:14Z</updated>
+    <published>2015-06-02T12:35:14Z</published>
+    <summary type="html">&lt;p&gt;Apple announced its "HomeKit" software project a year ago, but isn't making the new products.&lt;/p&gt;&lt;p&gt;The tie-in with Apple means a user can control those apps with Siri, the voice-activated digital assistant on Apple's iPhones and iPads.&lt;/p&gt;&lt;p&gt;Users must link with an Apple TV box to control from outside the home.&lt;/p&gt;&lt;p&gt;Apple also says products using HomeKit software must meet standards for compatibility, so they work with HomeKit products made by other manufacturers, and for encryption, which keeps hackers from taking over a system or stealing user information.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T12:35:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple's streaming music service may come next week</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/01/22429381.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T20:49:35Z</updated>
+    <published>2015-06-01T20:49:35Z</published>
+    <summary type="html">&lt;p&gt;The Journal notes that Apple hasn't finalized deals for its subscription service with the major record labels, so there is a chance that an announcement may be postponed until the ink on those deals is dry.&lt;/p&gt;&lt;p&gt;Beats Music is expected to be rolled into Apple's own service when it launches.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T20:49:35Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/Features/2015/06/01/1297707030881.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>An apple a day might keep the pharmacist away: study</title>
     <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
     <author>
@@ -1589,7 +1623,7 @@
     <dc:date>2015-04-15T14:41:44Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Watch could cost you ?2,500 more in Britain</title>
+    <title>Apple Watch could cost you £2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2074,7 +2108,7 @@
     <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150408&amp;amp;t=2&amp;amp;i=1038840669&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB370KG" />
   </entry>
   <entry>
-    <title>Apple Watch review: You?ll want one, but you don?t need one</title>
+    <title>Apple Watch review: You’ll want one, but you don’t need one</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-watch-review-youll-want-one-but-you-dont-need-one" />
     <author>
       <name />

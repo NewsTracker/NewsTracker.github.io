@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cyclone Pam: Is it time for a category-6 cyclone rating?</title>
+    <link rel="alternate" href="http://www.smh.com.au/environment/climate-change/cyclone-pam-is-it-time-for-a-category6-cyclone-rating-20150316-1m04qv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T06:39:10Z</updated>
+    <published>2015-03-16T06:39:10Z</published>
+    <summary type="html">&lt;p&gt;The unusual strength of Cyclone Pam, which devastated Vanuatu over the weekend, may stir debate about the need for a category-6 rating for storms to reflect their increasing severity.&lt;/p&gt;&lt;p&gt;Cyclone Pam may have exceeded both measures.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T06:39:10Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/0/5/3/f/image.related.articleLeadwide.620x349.1m04qv.png/1426487936286.jpg" />
+  </entry>
+  <entry>
     <title>Temporary houses for NT cyclone victims</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3106776/Temporary-houses-NT-cyclone-victims.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1185,18 +1197,6 @@
     <summary type="html">&lt;p&gt;Relief workers were still battling to reach many of the islands pummeled by Cyclone Pam's gusts of more than 300 kph (185 mph) on Friday and Saturday.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T04:49:17Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/gholb8oAbFIH6U4KMYfumg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-03-17T045706Z_1_LYNXMPEB2G05V_RTROPTP_2_WEATHER-VANUATU-CYCLONE.JPG" />
-  </entry>
-  <entry>
-    <title>Cyclone Pam: Is it time for a category-6 cyclone rating?</title>
-    <link rel="alternate" href="http://www.smh.com.au/environment/climate-change/cyclone-pam-is-it-time-for-a-category6-cyclone-rating-20150316-1m04qv.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T06:39:10Z</updated>
-    <published>2015-03-16T06:39:10Z</published>
-    <summary type="html">&lt;p&gt;The unusual strength of Cyclone Pam, which devastated Vanuatu over the weekend, may stir debate about the need for a category-6 rating for storms to reflect their increasing severity.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T06:39:10Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/m/0/5/3/f/image.related.articleLeadwide.620x349.1m04qv.png/1426487936286.jpg" />
   </entry>
   <entry>
     <title>AP Interview: Vanuatu President Rues Cyclone Devastation</title>
