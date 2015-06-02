@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft reportedly considering bid for Salesforce</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T21:43:27Z</updated>
+    <published>2015-05-05T21:43:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-05T21:43:27Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/0520/20140520_043710_0521salesforce2_300.jpg" />
+  </entry>
+  <entry>
+    <title>Microsoft opens door to Android, Apple phone apps</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/us-microsoft-windows-idUSKBN0NK1UZ20150430?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T04:30:33Z</updated>
+    <published>2015-04-30T04:30:33Z</published>
+    <summary type="html">&lt;p&gt;Its new browser will arrive as Microsoft Edge, replacing the waning Internet Explorer, when Windows 10 is released, the company said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T04:30:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Windows 10 available July 29: Microsoft</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/06/01/windows-10-available-july-29-microsoft" />
     <author>

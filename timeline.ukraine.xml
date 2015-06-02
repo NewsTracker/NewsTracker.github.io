@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Analysis: US experts on Russia fear escalation over Ukraine crisis, see a wider conflict</title>
+    <link rel="alternate" href="http://www.startribune.com/business/302291031.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T07:25:14Z</updated>
+    <published>2015-05-02T07:25:14Z</published>
+    <summary type="html">&lt;p&gt;Putin has said he's never going to desert the people in eastern Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T07:25:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Russian missile maker: MH17 shot down by Ukrainian missile</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Russian-missile-maker-MH17-shot-down-by-6301110.php" />
     <author>

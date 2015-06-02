@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>ACLU, others bid to reopen suit over Baltimore jail conditions</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/02/us-usa-baltimore-prison-idUSKBN0OI1XE20150602?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T15:47:20Z</updated>
+    <published>2015-06-02T15:47:20Z</published>
+    <summary type="html">&lt;p&gt;The filing is the latest black eye for the criminal justice system in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T15:47:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>ACLU: Squalid conditions at troubled Baltimore jail</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/us/article/ACLU-Squalid-conditions-at-troubled-Baltimore-6301610.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T15:19:10Z</updated>
+    <published>2015-06-02T15:19:10Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - The ACLU and Public Justice Center are asking a federal judge to reopen a lawsuit against the state of Maryland, saying there are squalid conditions at a troubled Baltimore jail.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T15:19:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Baltimore posts worst monthly murder toll since 1972</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/01/us-usa-police-baltimore-idUSKBN0OH3AB20150601?feedType=RSS&amp;amp;feedName=domesticNews" />
     <author>

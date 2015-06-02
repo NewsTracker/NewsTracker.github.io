@@ -4,6 +4,64 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's el-Sissi heads to Germany, seeking Western support</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-bars-rights-activist-traveling-germany-122150680.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T15:32:04Z</updated>
+    <published>2015-06-02T15:32:04Z</published>
+    <summary type="html">&lt;p&gt;Just this past Sunday, Egypt's state-sanctioned rights body criticized the practice of detaining suspects for extended periods pending the filing of formal charges and trial.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T15:32:04Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/Hi.msrZKztebdVctd._WrA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/ae634291a28e3e18780f6a7067000c4d.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt's el-Sissi heads to Germany, seeking Western support</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article22859727.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T14:46:39Z</updated>
+    <published>2015-06-02T14:46:39Z</published>
+    <summary type="html">&lt;p&gt;Germany's Siemens AG has made the largest single commitment so far to Egypt under el-Sissi's yearlong rule - a 10 billion euro agreement to build power plants.&lt;/p&gt;&lt;p&gt;Human rights groups on Tuesday urged Merkel to link closer ties to Egypt addressing pervasive violations.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T14:46:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt court postpones final ruling on Morsi death sentence until June 16</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/6/2/egypt-to-rule-on-morsi-death-sentence-june-16.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T12:34:00Z</updated>
+    <published>2015-06-02T12:34:00Z</published>
+    <summary type="html">&lt;p&gt;The court set June 16 as the date to decide on Morsi's death sentence, after it receives an opinion in the matter from Shawki Allam, Egypt's grand mufti.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T12:34:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/5/16/former-egyptian-president-morsi-sentenced-to-death/_jcr_content/image.adapt.480.low.morsi_05162015.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt executes six members of Isis-aligned militant group Sinai Province</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/17/egypt-executes-six-members-of-isis-aligned-militant-group-sinai-province" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T12:47:20Z</updated>
+    <published>2015-05-17T12:47:20Z</published>
+    <summary type="html">&lt;p&gt;Egypt rejects allegations by critics that its judiciary is politicised.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T12:47:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mohammed Morsi sentenced to 20 years in jail for bloody crackdown on 2012 protests</title>
+    <link rel="alternate" href="http://news.nationalpost.com/news/world/mohammed-morsi-sentenced-to-20-years-in-jail-for-bloody-crackdown-on-2012-protests" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T12:49:01Z</updated>
+    <published>2015-04-21T12:49:01Z</published>
+    <summary type="html">&lt;p&gt;"They want to pass a life sentence for democracy in Egypt," Darrag said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T12:49:01Z</dc:date>
+    <media:content url="http://wpmedia.news.nationalpost.com/2015/04/aptopix_mideast_egypt_edited-1.jpg?w=620" />
+  </entry>
+  <entry>
     <title>Egypt arrests 2 top Islamists, sets date for Morsi sentence</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egypt-arrests-top-Muslim-Brotherhood-leaders-6300922.php" />
     <author>
@@ -1477,7 +1535,7 @@
     <media:content url="http://ww4.hdnux.com/photos/35/62/63/7810287/3/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>Bombings linked to Islamic State ally kill at least 12 in Egypt’s Sinai</title>
+    <title>Bombings linked to Islamic State ally kill at least 12 in Egypt?s Sinai</title>
     <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/04/13/world/bombings-linked-islamic-state-ally-kill-least-12-egypts-sinai/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=bombings-linked-islamic-state-ally-kill-least-12-egypts-sinai&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
     <author>
       <name />

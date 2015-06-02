@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Federer loses to pal Wawrinka in 3 sets at French Open (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/2008-champion-ivanovic-back-semifinals-french-open-134934422--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T17:24:39Z</updated>
+    <published>2015-06-02T17:24:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T17:24:39Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Yahoo sticks with Microsoft in search deal, but tweaks some terms</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_27928195/yahoo-sticks-microsoft-search-deal-but-tweaks-some?source=rss" />
     <author>

@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boko Haram Attack on Northern Nigerian City Kills 20</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/boko-haram-attacks-northeast-city-jet-fighter-deploys-31461571" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T17:09:14Z</updated>
+    <published>2015-06-02T17:09:14Z</published>
+    <summary type="html">&lt;p&gt;Boko Haram once again attacked the northeast Nigerian city of Maiduguri on Tuesday, waking residents with deafening explosions in the early hours of the morning and then a suicide bombing that witnesses said killed as many as 20 people.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T17:09:14Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/logo/AP_logo_update_20130709.gif" />
+  </entry>
+  <entry>
+    <title>Boko Haram attack on northern Nigerian city kills 20</title>
+    <link rel="alternate" href="http://news.yahoo.com/boko-haram-attacks-northeast-city-again-jet-fighter-085445210.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T17:07:42Z</updated>
+    <published>2015-06-02T17:07:42Z</published>
+    <summary type="html">&lt;p&gt;Over the weekend, more than 30 people died in another Boko Haram assault involving another suicide bombing and rocket-propelled grenades.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T17:07:42Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/UUukv1pVHhoj.4AIbid7yw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/b8c95dc3a2d63f18780f6a706700460e.jpg" />
+  </entry>
+  <entry>
+    <title>Boko Haram video allegedly shows militants killing soldiers</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-06-02-AF--Boko%20Haram/id-1c050da8755749fbb8323c55219e794f" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T15:58:20Z</updated>
+    <published>2015-06-02T15:58:20Z</published>
+    <summary type="html">&lt;p&gt;MAIDUGURI, Nigeria (AP) - A new Boko Haram video allegedly shows a militant shooting wounded soldiers in the head, and charred parts claimed to be the remnants of a downed Nigerian jet fighter.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T15:58:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Children rescued from Boko Haram so traumatised they have forgotten their names</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/children-rescued-from-boko-haram-so-traumatised-they-have-forgotten-their-names-20150314-143yck.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T01:55:35Z</updated>
+    <published>2015-03-14T01:55:35Z</published>
+    <summary type="html">&lt;p&gt;Nigerian girls who fled Boko Haram to Chad gather in a school set up by UNICEF at the Baga Sola refugee camp.&lt;/p&gt;&lt;p&gt;Nairobi, Kenya: After years in a Boko Haram camp, the children had forgotten their native language.&lt;/p&gt;&lt;p&gt;They had been rescued by the country's military in November from a squalid Boko Haram encampment near the border with Nigeria.&lt;/p&gt;&lt;p&gt;Boko Haram is now under siege by Nigerian and other African troops.&lt;/p&gt;</summary>
+    <dc:date>2015-03-14T01:55:35Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/4/4/0/4/m/image.related.articleLeadwide.620x349.143yck.png/1426312009057.jpg" />
+  </entry>
+  <entry>
     <title>Boko Haram attacks northeast city again, jet fighter deploys</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Boko-Haram-attacks-northeast-city-again-jet-6300985.php" />
     <author>
@@ -1904,18 +1951,6 @@
     <published>2015-03-14T11:14:57Z</published>
     <summary type="html">&lt;p&gt;Nigeria acknowledged on Thursday that it is getting help from regional security operatives amid reports that South Africa and other foreign contractors are involved in the fight against Boko Haram.&lt;/p&gt;</summary>
     <dc:date>2015-03-14T11:14:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Children rescued from Boko Haram so traumatised they have forgotten their names</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/children-rescued-from-boko-haram-so-traumatised-they-have-forgotten-their-names-20150314-143yck.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-14T01:55:35Z</updated>
-    <published>2015-03-14T01:55:35Z</published>
-    <summary type="html">&lt;p&gt;Nigerian girls who fled Boko Haram to Chad gather in a school set up by UNICEF at the Baga Sola refugee camp.&lt;/p&gt;&lt;p&gt;Nairobi, Kenya: After years in a Boko Haram camp, the children had forgotten their native language.&lt;/p&gt;&lt;p&gt;They had been rescued by the country's military in November from a squalid Boko Haram encampment near the border with Nigeria.&lt;/p&gt;</summary>
-    <dc:date>2015-03-14T01:55:35Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/4/4/0/4/m/image.related.articleLeadwide.620x349.143yck.png/1426312009057.jpg" />
   </entry>
   <entry>
     <title>France increases its efforts in the fight against Boko Haram</title>

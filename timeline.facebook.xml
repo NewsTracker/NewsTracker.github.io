@@ -4,6 +4,75 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook announces plans to start building third data center in Des Moines suburb of Altoona</title>
+    <link rel="alternate" href="http://www.startribune.com/facebook-to-build-third-data-center-in-central-iowa/305867191/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T18:00:40Z</updated>
+    <published>2015-06-02T18:00:40Z</published>
+    <summary type="html">&lt;p&gt;Facebook did not provide information about construction costs.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T18:00:40Z</dc:date>
+    <media:content url="http://stmedia.stimg.co/BestofMN_2015.jpg?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
+  </entry>
+  <entry>
+    <title>Facebook to Build Third Data Center in Central Iowa</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/facebook-build-data-center-central-iowa-31476172" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T17:55:21Z</updated>
+    <published>2015-06-02T17:55:21Z</published>
+    <summary type="html">&lt;p&gt;Facebook is building another data center in central Iowa.&lt;/p&gt;&lt;p&gt;Facebook began serving traffic from its first data center in Altoona in November 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T17:55:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook opens artificial intelligence lab in Paris</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/tech/2015/06/02/facebook-artificial-intelligence-research-lab-in-paris/28351577/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-techtopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T16:44:28Z</updated>
+    <published>2015-06-02T16:44:28Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T16:44:28Z</dc:date>
+    <media:content url="http://www.gannett-cdn.com/-mm-/baa7d5ece890abc8f1f017098398d44043c63dc6/r=84&amp;amp;amp;c=84x84/http/videos.usatoday.net/Brightcove2/29906170001/2014/09/29906170001_3796587434001_thumb-newslook746673.jpg?pubId=29906170001" />
+  </entry>
+  <entry>
+    <title>Facebook to open AI lab in Paris</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/technology-32977242%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T13:48:17Z</updated>
+    <published>2015-06-02T13:48:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T13:48:17Z</dc:date>
+    <media:content url="http://static.bbci.co.uk/frameworks/barlesque/2.83.10/orb/4/img/bbc-blocks-dark.png" />
+  </entry>
+  <entry>
+    <title>Facebook raises minimum pay for contractors to $15 per hour</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/technology/facebook-raises-minimum-pay-for-contractors-to-15-per-hour-1.3073969?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T12:26:33Z</updated>
+    <published>2015-05-14T12:26:33Z</published>
+    <summary type="html">&lt;p&gt;Facebook implemented the wage increase for some workers at its Menlo Park headquarters as of May 1.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T12:26:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook moves into new Gehry-designed headquarters</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/facebook-moves-into-new-gehry-designed-headquarters-1.2305310" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T11:15:00Z</updated>
+    <published>2015-03-31T11:15:00Z</published>
+    <summary type="html">&lt;p&gt;(San Francisco-AFP) - Facebook moved into its new Frank Gehry-designed headquarters in Silicon Valley, with a rooftop park and "the largest open floor plan in the world."&lt;/p&gt;&lt;p&gt;"That's on purpose," Zuckerberg said on his Facebook timeline.&lt;/p&gt;&lt;p&gt;Facebook's new Menlo Park headquarters is one of several major projects by tech companies in the region.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T11:15:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Fin24.com | Facebook accused of trampling on privacy</title>
     <link rel="alternate" href="http://www.fin24.com/Tech/News/Facebook-accused-of-trampling-on-privacy-20150515" />
     <author>
@@ -1386,17 +1455,6 @@
     <media:content url="http://edition.cnn.com/2015/03/31/living/feat-mothers-facebook-apology-movie-theater/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
   </entry>
   <entry>
-    <title>Facebook moves into new Gehry-designed headquarters</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/facebook-moves-into-new-gehry-designed-headquarters-1.2305310" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-31T11:15:00Z</updated>
-    <published>2015-03-31T11:15:00Z</published>
-    <summary type="html">&lt;p&gt;(San Francisco-AFP) - Facebook moved into its new Frank Gehry-designed headquarters in Silicon Valley, with a rooftop park and "the largest open floor plan in the world."&lt;/p&gt;&lt;p&gt;"That's on purpose," Zuckerberg said on his Facebook timeline.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T11:15:00Z</dc:date>
-  </entry>
-  <entry>
     <title>Facebook Reveals Plan for Unmanned Internet Airplanes</title>
     <link rel="alternate" href="http://abcnews.go.com/Technology/facebook-reveals-plan-unmanned-internet-airplanes/story?id=29926936" />
     <author>
@@ -1503,7 +1561,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />
