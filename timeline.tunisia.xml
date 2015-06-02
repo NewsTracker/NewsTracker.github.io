@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>'17 tourists shot dead' in tunisia</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/pa/article-3000752/Eight-dead-museum-shooting.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T18:11:21Z</updated>
+    <published>2015-03-18T18:11:21Z</published>
+    <summary type="html">&lt;p&gt;The museum is a leading tourist attraction that chronicles Tunisia's history and houses one of the world's largest collections of Roman mosaics.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T18:11:21Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-P-137dc37c-ad68-42a6-829b-f0d1fcd12342-6X80l97v5HSK2-92_634x356.jpg" />
+  </entry>
+  <entry>
     <title>Tunisian museum reopens after deadly attack against tourists</title>
     <link rel="alternate" href="http://news.yahoo.com/tunisian-museum-reopens-deadly-attack-against-tourists-165206778.html" />
     <author>

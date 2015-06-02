@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Israel's Netanyahu gets 2-week extension as he struggles to assemble governing coalition</title>
+    <link rel="alternate" href="http://www.startribune.com/world/300624071.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-20T08:00:19Z</updated>
+    <published>2015-04-20T08:00:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-20T08:00:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Netanyahu tells Israel's Arabs he 'regrets' election-day rallying call</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/23/us-israel-netanyahu-arabs-idUSKBN0MJ20P20150323?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-23T19:06:28Z</updated>
+    <published>2015-03-23T19:06:28Z</published>
+    <summary type="html">&lt;p&gt;JERUSALEM (Reuters) - Israeli Prime Minister Benjamin Netanyahu said on Monday he regretted offending Israel's Arabs during a rallying call on election day last week that his critics had denounced as racist.&lt;/p&gt;&lt;p&gt;Speaking to the group of Israeli Arabs at his official residence in Jerusalem on Monday, Netanyahu said: "I consider myself as prime minister of each one of you, of all Israel's citizens, regardless of religion, race or gender."&lt;/p&gt;</summary>
+    <dc:date>2015-03-23T19:06:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Netanyahu to use Congress' bully pulpit to assail Iran talks</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Netanyahu-to-use-Congress-bully-pulpit-to-assail-6111466.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T08:08:06Z</updated>
+    <published>2015-03-03T08:08:06Z</published>
+    <summary type="html">&lt;p&gt;Two weeks ahead of voting in his own re-election back home, Netanyahu took the podium of the U.S. House where presidents often make major addresses, contending that any nuclear deal with Iran could threaten his nation's survival.&lt;/p&gt;&lt;p&gt;Netanyahu's speech reverberated in Israel, too.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T08:08:06Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/34/77/46/7600519/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Obama says Israel's commitment to a Palestinian state in doubt after Netanyahu remarks</title>
     <link rel="alternate" href="http://www.startribune.com/obama-israel-s-commitment-to-palestinian-state-in-doubt/305881741/" />
     <author>
@@ -1114,17 +1148,6 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Netanyahu tells Israel's Arabs he 'regrets' election-day rallying call</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/03/23/us-israel-netanyahu-arabs-idUSKBN0MJ20P20150323?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-23T19:06:28Z</updated>
-    <published>2015-03-23T19:06:28Z</published>
-    <summary type="html">&lt;p&gt;JERUSALEM (Reuters) - Israeli Prime Minister Benjamin Netanyahu said on Monday he regretted offending Israel's Arabs during a rallying call on election day last week that his critics had denounced as racist.&lt;/p&gt;</summary>
-    <dc:date>2015-03-23T19:06:28Z</dc:date>
-  </entry>
-  <entry>
     <title>Netanyahu tells Israel's Arabs he "regrets" election-day rallying call</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3008183/Netanyahu-tells-Israels-Arabs-regrets-election-day-rallying-call.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -2187,18 +2210,6 @@
     <published>2015-03-03T10:40:48Z</published>
     <summary type="html">&lt;p&gt;The officials said earlier they expected the talks would resume and likely continue through Netanyahu's address to Congress, delivered in the late afternoon local time in Montreux.&lt;/p&gt;</summary>
     <dc:date>2015-03-03T10:40:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Netanyahu to use Congress' bully pulpit to assail Iran talks</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Netanyahu-to-use-Congress-bully-pulpit-to-assail-6111466.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T08:08:06Z</updated>
-    <published>2015-03-03T08:08:06Z</published>
-    <summary type="html">&lt;p&gt;Two weeks ahead of voting in his own re-election back home, Netanyahu took the podium of the U.S. House where presidents often make major addresses, contending that any nuclear deal with Iran could threaten his nation's survival.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T08:08:06Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/34/77/46/7600519/3/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Netanyahu to use Congress' bully pulpit to assail Iran talks</title>

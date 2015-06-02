@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft reportedly considering bid for Salesforce</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T19:55:09Z</updated>
+    <published>2015-05-05T19:55:09Z</published>
+    <summary type="html">&lt;p&gt;Microsoft isn't in talks with Salesforce, and no deal is imminent, the people said.&lt;/p&gt;&lt;p&gt;Still, Redmond, Washington-based Microsoft has long expected it might compete for Salesforce if it was for sale, one of the people said.&lt;/p&gt;&lt;p&gt;Microsoft and Salesforce reached an agreement last year to make the companies' software work better together.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T19:55:09Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/0520/20140520_043710_0521salesforce2_300.jpg" />
+  </entry>
+  <entry>
     <title>Apple's Siri has new role in new 'smart' home systems</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Apple-s-Siri-has-new-role-in-new-smart-home-6301258.php" />
     <author>
@@ -855,18 +867,6 @@
     <summary type="html">&lt;p&gt;Microsoft Corp. is evaluating a bid for Salesforce.com Inc., after the cloud software provider was approached by another would-be buyer, people with knowledge of the matter said.&lt;/p&gt;</summary>
     <dc:date>2015-05-05T20:07:27Z</dc:date>
     <media:content url="http://wpmedia.business.financialpost.com/2010/06/marc-benioff1.jpg?w=620" />
-  </entry>
-  <entry>
-    <title>Microsoft reportedly considering bid for Salesforce</title>
-    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-05T19:55:09Z</updated>
-    <published>2015-05-05T19:55:09Z</published>
-    <summary type="html">&lt;p&gt;Microsoft isn't in talks with Salesforce, and no deal is imminent, the people said.&lt;/p&gt;&lt;p&gt;Still, Redmond, Washington-based Microsoft has long expected it might compete for Salesforce if it was for sale, one of the people said.&lt;/p&gt;</summary>
-    <dc:date>2015-05-05T19:55:09Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/0520/20140520_043710_0521salesforce2_300.jpg" />
   </entry>
   <entry>
     <title>Salesforce shares spike on report of Microsoft evaluating bid</title>

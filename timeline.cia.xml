@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Former Maryland man held at Guantanamo alleges CIA torture</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Former-Maryland-man-held-at-Guantanamo-alleges-6302289.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T20:16:50Z</updated>
+    <published>2015-06-02T20:16:50Z</published>
+    <summary type="html">&lt;p&gt;The center says he was twice subjected to the simulated drowning technique known as waterboarding, sexually assaulted, hung on a wooden beam and kept in darkness for a year in secret CIA captivity overseas.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T20:16:50Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/66/10/8086064/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>Former Maryland man held at Guantanamo alleges CIA torture</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/02/former-maryland-man-held-at-guantanamo-alleges-cia-torture" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T20:16:50Z</updated>
+    <published>2015-06-02T20:16:50Z</published>
+    <summary type="html">&lt;p&gt;Khan, a former Maryland resident, was subjected to more incidents of mistreatment while in CIA custody than previously disclosed, according to the Center for Constitutional Rights, a New York legal organization that represents him and other prisoners.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T20:16:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Former Maryland man held at Guantanamo alleges CIA torture</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/former-maryland-man-held-at-guantanamo-alleges-cia/nmS9K/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T20:16:50Z</updated>
+    <published>2015-06-02T20:16:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T20:16:50Z</dc:date>
+  </entry>
+  <entry>
     <title>Authors of Senate torture report seek to fact check a new memoir by former CIA official</title>
     <link rel="alternate" href="http://www.startribune.com/senate-staff-disputes-ex-cia-official-s-defense-of-torture/305863191/" />
     <author>
