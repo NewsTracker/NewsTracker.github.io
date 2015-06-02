@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>An apple a day might keep the pharmacist away: study</title>
+    <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T19:47:18Z</updated>
+    <published>2015-03-30T19:47:18Z</published>
+    <summary type="html">&lt;p&gt;An apple a day might not keep the doctor away, but it might help keep the pharmacist at bay, a new study suggests.&lt;/p&gt;&lt;p&gt;Apple eaters in the study had higher educational attainment, were more likely to be from a racial or ethnic minority, and were less likely to smoke.&lt;/p&gt;&lt;p&gt;Just 753 participants, or 9%, ate at least one small apple day.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T19:47:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple's streaming music service may come next week</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/06/01/22429381.html?cid=rsstechnologynews" />
     <author>
@@ -2269,17 +2280,6 @@
     <published>2015-03-31T12:00:00Z</published>
     <summary type="html">&lt;p&gt;"Apple is open. Open to everyone, regardless of where they come from, what they look like, how they worship or who they love," he said.&lt;/p&gt;</summary>
     <dc:date>2015-03-31T12:00:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>An apple a day might keep the pharmacist away: study</title>
-    <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T19:47:18Z</updated>
-    <published>2015-03-30T19:47:18Z</published>
-    <summary type="html">&lt;p&gt;An apple a day might not keep the doctor away, but it might help keep the pharmacist at bay, a new study suggests.&lt;/p&gt;&lt;p&gt;Apple eaters in the study had higher educational attainment, were more likely to be from a racial or ethnic minority, and were less likely to smoke.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T19:47:18Z</dc:date>
   </entry>
   <entry>
     <title>An apple a day may not keep the doctor away, study says</title>

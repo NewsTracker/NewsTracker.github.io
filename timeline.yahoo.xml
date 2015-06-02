@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Williams tops Stephens; Sharapova out; Djokovic-Nadal on tap (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/sharapova-loses-safarova-4th-round-french-open-110916563--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T19:59:07Z</updated>
+    <published>2015-06-01T19:59:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-01T19:59:07Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>UAB president: University bringing football back in 2016 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/uab-restore-dropped-football-program-2016-season-190617629--ncaaf.html" />
     <author>

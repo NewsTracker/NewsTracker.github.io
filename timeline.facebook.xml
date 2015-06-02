@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fin24.com | Facebook accused of trampling on privacy</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Facebook-accused-of-trampling-on-privacy-20150515" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T12:16:31Z</updated>
+    <published>2015-05-15T12:16:31Z</published>
+    <summary type="html">&lt;p&gt;It urged internet users to install privacy software to shield themselves from Facebook's tracking systems, whether they have an account with the social network or not.&lt;/p&gt;&lt;p&gt;It said Facebook had refused to recognise Belgian and other EU national jurisdictions, with the company insisting it was subject only to the law in Ireland, the site of its European headquarters.&lt;/p&gt;&lt;p&gt;Facebook later said this was a bug and it is working to fix it.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T12:16:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook pushes to improve benefits, pay for contractors</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Facebook-pushes-to-improve-benefits-pay-for-6261076.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T21:51:33Z</updated>
+    <published>2015-05-13T21:51:33Z</published>
+    <summary type="html">&lt;p&gt;" If Facebook can raise pay to $15, so can McDonald's."&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T21:51:33Z</dc:date>
+    <media:content url="http://www.chron.com/img/hdn/share/fb_share_2.png" />
+  </entry>
+  <entry>
     <title>Drag queens, Native Americans and others protest Facebook's 'real name' policy</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28230395/" />
     <author>
@@ -176,17 +199,6 @@
     <published>2015-05-18T12:10:15Z</published>
     <summary type="html">&lt;p&gt;The natural order of the universe was disrupted recently when BuzzFeed, NBC News, The New York Times and a number of other media companies ceded to Facebook the marketing and monetization of portions of their valuable content.&lt;/p&gt;&lt;p&gt;If Facebook sells the ads displayed next to the publisher's content, both sides will split the proceeds equally.&lt;/p&gt;&lt;p&gt;In addition to the trio mentioned above, the other media companies that will be funneling content to Facebook are The Atlantic, BBC News, Bild, The Guardian, National Geographic and Spiegel Online.&lt;/p&gt;&lt;p&gt;The choice to throw in with Facebook could not have been easy for the proud media companies.&lt;/p&gt;</summary>
     <dc:date>2015-05-18T12:10:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Fin24.com | Facebook accused of trampling on privacy</title>
-    <link rel="alternate" href="http://www.fin24.com/Tech/News/Facebook-accused-of-trampling-on-privacy-20150515" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-15T12:16:31Z</updated>
-    <published>2015-05-15T12:16:31Z</published>
-    <summary type="html">&lt;p&gt;It urged internet users to install privacy software to shield themselves from Facebook's tracking systems, whether they have an account with the social network or not.&lt;/p&gt;&lt;p&gt;It said Facebook had refused to recognise Belgian and other EU national jurisdictions, with the company insisting it was subject only to the law in Ireland, the site of its European headquarters.&lt;/p&gt;</summary>
-    <dc:date>2015-05-15T12:16:31Z</dc:date>
   </entry>
   <entry>
     <title>UPDATE 1-Facebook "tramples European privacy law" - Belgian watchdog</title>

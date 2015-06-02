@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mh17.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russian missile maker: MH17 shot down by Ukrainian missile</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Russian-missile-maker-MH17-shot-down-by-6301110.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T11:46:51Z</updated>
+    <published>2015-06-02T11:46:51Z</published>
+    <summary type="html">&lt;p&gt;Rebels have staunchly denied even possessing a functioning Buk missile launcher at the time that MH17 was brought down, although one was seen in separatist-controlled Snizhne by AP reporters a few hours before the plane crashed.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T11:46:51Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russian maker of the Buk missile says MH17 shot down by older missile, in Ukrainian service</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11458703&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T10:35:15Z</updated>
+    <published>2015-06-02T10:35:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T10:35:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Case mounts against Russians in MH17 crash</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3080805/Case-mounts-against-Russians-MH17-crash.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

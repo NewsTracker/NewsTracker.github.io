@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt arrests 2 top Islamists, sets date for Morsi sentence</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egypt-arrests-top-Muslim-Brotherhood-leaders-6300922.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T10:32:25Z</updated>
+    <published>2015-06-02T10:32:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T10:32:25Z</dc:date>
+  </entry>
+  <entry>
     <title>2 Brotherhood leaders held in Egypt</title>
     <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/2-brotherhood-leaders-held-in-egypt-31271835.html" />
     <author>

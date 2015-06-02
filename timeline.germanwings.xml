@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings co-pilot practiced descents hours before crash</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/crime/article/French-investigators-to-release-report-on-6245268.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T20:24:15Z</updated>
+    <published>2015-05-06T20:24:15Z</published>
+    <summary type="html">&lt;p&gt;With the Barcelona-bound Germanwings flight data, "we have here the previous proof."&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T20:24:15Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/21/03/7934196/3/gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>News24.com | Cathedral service to mourn victims of Germanwings crash</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Cathedral-service-to-mourn-victims-of-Germanwings-crash-20150417" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-17T08:33:38Z</updated>
+    <published>2015-04-17T08:33:38Z</published>
+    <summary type="html">&lt;p&gt;The Germanwings Airbus 320 was on route from Barcelona to Duesseldorf when it crashed in the French Alps on 24 March, killing everyone aboard, including 72 Germans and 50 Spaniards.&lt;/p&gt;</summary>
+    <dc:date>2015-04-17T08:33:38Z</dc:date>
+    <media:content url="http://cdn.24.co.za/files/Cms/General/d/3058/372239fef87649bf8191477444d32af0.jpg" />
+  </entry>
+  <entry>
     <title>Spanish royals in Paris for visit; will honor crash workers</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article22851240.html%23storylink=rss" />
     <author>
