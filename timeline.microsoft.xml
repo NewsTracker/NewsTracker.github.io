@@ -4,16 +4,16 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Microsoft reportedly considering bid for Salesforce</title>
-    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
+    <title>Windows 10 available July 29: Microsoft</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/01/windows-10-available-july-29-microsoft" />
     <author>
       <name />
     </author>
-    <updated>2015-05-05T21:43:27Z</updated>
-    <published>2015-05-05T21:43:27Z</published>
-    <summary type="html" />
-    <dc:date>2015-05-05T21:43:27Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/0520/20140520_043710_0521salesforce2_300.jpg" />
+    <updated>2015-06-01T14:15:43Z</updated>
+    <published>2015-06-01T14:15:43Z</published>
+    <summary type="html">&lt;p&gt;Touch-friendly Windows 10, which features the return of the Start menu and will run across PCs, tablets and smartphones, is Microsoft's latest attempt to win over mobile users and features a new browser called "Edge."&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T14:15:43Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297706916930_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>Microsoft Windows 10, with mobile in mind, arrives in July</title>
@@ -36,65 +36,6 @@
     <published>2015-06-01T10:38:21Z</published>
     <summary type="html">&lt;p&gt;Microsoft Corp. says Windows 10 will be available in 190 countries as a free upgrade on July 29 for anyone currently running Windows 8.1 or 7, the two previous versions of the software.&lt;/p&gt;</summary>
     <dc:date>2015-06-01T10:38:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Microsoft opens door to Android, iOS apps</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/04/29/android-apps-on-windows-phones" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-29T23:14:55Z</updated>
-    <published>2015-04-29T23:14:55Z</published>
-    <summary type="html">&lt;p&gt;Its new browser will arrive as Microsoft Edge, replacing the waning Internet Explorer, when Windows 10 is released, the company said.&lt;/p&gt;</summary>
-    <dc:date>2015-04-29T23:14:55Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297694024178_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
-    <title>As Explorer loses ground, Microsoft readies new web browser</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/As-Explorer-loses-ground-Microsoft-readies-new-6143211.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T21:45:41Z</updated>
-    <published>2015-03-18T21:45:41Z</published>
-    <summary type="html">&lt;p&gt;After 20 years of competing against rival web browsers, Microsoft is gearing up to launch its own alternative to its once-dominant Internet surfing program.&lt;/p&gt;&lt;p&gt;Microsoft has built a new web browser designed for the modern web and mobile devices to go with its new Windows 10 operating system that's coming later this year.&lt;/p&gt;&lt;p&gt;Explorer will still be available, but Microsoft hinted this week that its new - and as-yet unnamed - browser will get top billing in the future.&lt;/p&gt;&lt;p&gt;Microsoft didn't invent the web browser, but it has invested heavily to promote Explorer since it was first launched in 1995.&lt;/p&gt;&lt;p&gt;Microsoft is betting heavily that its new Windows 10 software will appeal to computer users who are increasingly using mobile devices.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T21:45:41Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/35/22/14/7676711/3/622x350.jpg" />
-  </entry>
-  <entry>
-    <title>Tech lookahead: Microsoft announces Windows 10 release date</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-lookahead/article24719017/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-01T09:18:43Z</updated>
-    <published>2015-06-01T09:18:43Z</published>
-    <summary type="html">&lt;p&gt;Microsoft Corp said on Monday its new Windows 10 operating system will be available worldwide on July 29, as a free upgrade for users of the most recent versions of Windows.&lt;/p&gt;&lt;p&gt;Touch-friendly Windows 10, which features the return of the Start menu and will run across PCs, tablets and smartphones, is Microsoft's latest attempt to win over mobile users and features a new browser called 'Edge'.&lt;/p&gt;</summary>
-    <dc:date>2015-06-01T09:18:43Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/6e0/report-on-business/international-business/us-business/article24088447.ece/ALTERNATES/w220/micro.JPG" />
-  </entry>
-  <entry>
-    <title>Microsoft says Windows 10 available on July 29</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/01/us-microsoft-windows-idUSKBN0OH1U320150601?feedType=RSS&amp;amp;feedName=technologyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-01T09:00:46Z</updated>
-    <published>2015-06-01T09:00:46Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-01T09:00:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>Microsoft results show company's shift, but is it enough?</title>
-    <link rel="alternate" href="http://news.yahoo.com/microsoft-results-show-companys-shift-enough-213116607.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-23T23:13:19Z</updated>
-    <published>2015-04-23T23:13:19Z</published>
-    <summary type="html">&lt;p&gt;This Jan. 21, 2015 photo shows Microsoft CEO Satya Nadella speaking at an event demonstrating new features of its flagship operating system Windows at the company's headquarters in Redmond, Wash.&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T23:13:19Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/NIxGSHlCGfx4UMLqKFjsqA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/be1551fb316c7912740f6a706700159c.jpg" />
   </entry>
   <entry>
     <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
@@ -1065,6 +1006,18 @@
     <published>2015-03-23T18:25:01Z</published>
     <summary type="html" />
     <dc:date>2015-03-23T18:25:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>As Explorer loses ground, Microsoft readies new web browser</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/As-Explorer-loses-ground-Microsoft-readies-new-6143211.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T21:45:41Z</updated>
+    <published>2015-03-18T21:45:41Z</published>
+    <summary type="html">&lt;p&gt;After 20 years of competing against rival web browsers, Microsoft is gearing up to launch its own alternative to its once-dominant Internet surfing program.&lt;/p&gt;&lt;p&gt;Microsoft has built a new web browser designed for the modern web and mobile devices to go with its new Windows 10 operating system that's coming later this year.&lt;/p&gt;&lt;p&gt;Explorer will still be available, but Microsoft hinted this week that its new - and as-yet unnamed - browser will get top billing in the future.&lt;/p&gt;&lt;p&gt;Microsoft didn't invent the web browser, but it has invested heavily to promote Explorer since it was first launched in 1995.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T21:45:41Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/22/14/7676711/3/622x350.jpg" />
   </entry>
   <entry>
     <title>Microsoft must face Xbox 360 class action claims</title>

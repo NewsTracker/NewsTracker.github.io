@@ -4,29 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Israel's Netanyahu gets 2-week extension as he struggles to assemble governing coalition</title>
-    <link rel="alternate" href="http://www.startribune.com/world/300624071.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-20T08:00:19Z</updated>
-    <published>2015-04-20T08:00:19Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-20T08:00:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Israel's Netanyahu takes conciliatory tone</title>
-    <link rel="alternate" href="http://news.yahoo.com/israels-netanyahu-tapped-form-government-182408476.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-25T19:24:11Z</updated>
-    <published>2015-03-25T19:24:11Z</published>
-    <summary type="html">&lt;p&gt;Netanyahu spoke at a ceremony where the country's president, Reuven Rivlin, officially handed him the task of forming the next government.&lt;/p&gt;</summary>
-    <dc:date>2015-03-25T19:24:11Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/6lc5Zinq3Mwrsf.kA4iFpg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/homerun/huffingtonpost.com.rss/26d900ea595670d2a3fadeaa2cdd259a.cf.jpg" />
-  </entry>
-  <entry>
     <title>Netanyahu slams Palestinians over Israel boycott campaign</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/netanyahu-slams-palestine-over-israel-boycott-campaign/" />
     <author>
@@ -36,17 +13,6 @@
     <published>2015-06-01T06:02:36Z</published>
     <summary type="html">&lt;p&gt;Netanyahu made the comments Sunday at a meeting of his new Cabinet just two days after a Palestinian proposal to suspend Israel from world football was dropped at the last moment.&lt;/p&gt;&lt;p&gt;Netanyahu warned that such efforts to boycott Israel continue.&lt;/p&gt;&lt;p&gt;Netanyahu said that he was pleased the Palestinian attempt to have Israel suspended from FIFA, world soccer's governing body, was rebuffed in the end, but warned that Israel will face similar boycott efforts in the future.&lt;/p&gt;</summary>
     <dc:date>2015-06-01T06:02:36Z</dc:date>
-  </entry>
-  <entry>
-    <title>Centrist leader vows not to join Israeli government, accuses Netanyahu of racism</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/politics/centrist-leader-vows-not-to-join-israeli-government-accuses-netanyahu-of-racism-1.2287530" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-19T13:47:32Z</updated>
-    <published>2015-03-19T13:47:32Z</published>
-    <summary type="html">&lt;p&gt;"What Netanyahu did recently touched on racism," Herzog said of the prime minister's remarks.&lt;/p&gt;</summary>
-    <dc:date>2015-03-19T13:47:32Z</dc:date>
   </entry>
   <entry>
     <title>Netanyahu says committed to Palestinian state</title>
@@ -70,52 +36,6 @@
     <summary type="html">&lt;p&gt;Germany's Foreign Minister Frank-Walter Steinmeier and Israel's Prime Minister Benjamin Netanyahu in Jerusalem.&lt;/p&gt;&lt;p&gt;Speaking after talks with visiting German Foreign Minister Frank-Walter Steinmeier on Sunday, Mr Netanyahu said he was committed to the establishment of a Palestinian state, calling on the Palestinian leadership to return to negotiations unconditionally.&lt;/p&gt;&lt;p&gt;Mr Netanyahu sparked international concern when he ruled out the establishment of a Palestinian state while campaigning for the March 17 general election but later backtracked on the comments.&lt;/p&gt;</summary>
     <dc:date>2015-05-31T15:55:16Z</dc:date>
     <media:content url="http://www.smh.com.au/content/dam/images/g/h/d/p/9/h/image.related.articleLeadwide.620x349.ghdp9f.png/1433087633594.jpg" />
-  </entry>
-  <entry>
-    <title>Palestinians to Obama: We Told You So About Netanyahu</title>
-    <link rel="alternate" href="http://news.yahoo.com/palestinians-obama-told-netanyahu-182253598.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-24T18:22:53Z</updated>
-    <published>2015-03-24T18:22:53Z</published>
-    <summary type="html">&lt;p&gt;Now that President Obama is calling Israeli Prime Minister Benjamin Netanyahu an unwilling partner in Israeli-Palestinian peace talks, Palestinian representatives in the United States have a simple message for him: We told you so.&lt;/p&gt;</summary>
-    <dc:date>2015-03-24T18:22:53Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/7J9XzYOitzgmjFfD6j8OSw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/gma/us.abcnews.go.com/AP_netanyahu_2_jtm_150323_16x9_992.jpg" />
-  </entry>
-  <entry>
-    <title>Israel's Netanyahu apologizes to country's Arab minority</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3008089/Israels-Netanyahu-apologizes-countrys-Arab-minority.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-24T02:44:20Z</updated>
-    <published>2015-03-24T02:44:20Z</published>
-    <summary type="html">&lt;p&gt;He said Netanyahu's prediction that a Palestinian state wouldn't come about on his watch was "very troubling" and questioned Netanyahu's broader commitment to the two-state solution the U.S. and Israel have officially supported for years.&lt;/p&gt;</summary>
-    <dc:date>2015-03-24T02:44:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Despite tie, Netanyahu secures shot at 4th term as Israel PM</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Despite-tie-Netanyahu-secures-shot-at-4th-term-6140229.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T23:23:26Z</updated>
-    <published>2015-03-17T23:23:26Z</published>
-    <summary type="html">&lt;p&gt;Israel's parliament election ended in a deadlock, according to TV exit polls, but Prime Minister Benjamin Netanyahu seems to hold the advantage ahead of coalition talks.&lt;/p&gt;&lt;p&gt;In the event of a Netanyahu-Herzog unity government, the Joint List expects to take on the high profile role of leader of the opposition.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T23:23:26Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/35/20/70/7671310/5/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>As Israelis prepare to vote, struggling Netanyahu puts legacy on the line in bid for 4th term</title>
-    <link rel="alternate" href="http://www.startribune.com/world/296355141.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-15T23:03:53Z</updated>
-    <published>2015-03-15T23:03:53Z</published>
-    <summary type="html">&lt;p&gt;Peace efforts with the Palestinians made no headway during the past six years, and Netanyahu has backtracked from his earlier support for a Palestinian state.&lt;/p&gt;</summary>
-    <dc:date>2015-03-15T23:03:53Z</dc:date>
   </entry>
   <entry>
     <title>Netanyahu offers to resume peace talks with settlement focus, official says</title>
@@ -955,6 +875,18 @@
     <dc:date>2015-03-25T19:24:43Z</dc:date>
   </entry>
   <entry>
+    <title>Israel's Netanyahu takes conciliatory tone</title>
+    <link rel="alternate" href="http://news.yahoo.com/israels-netanyahu-tapped-form-government-182408476.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T19:24:11Z</updated>
+    <published>2015-03-25T19:24:11Z</published>
+    <summary type="html">&lt;p&gt;Netanyahu spoke at a ceremony where the country's president, Reuven Rivlin, officially handed him the task of forming the next government.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T19:24:11Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/6lc5Zinq3Mwrsf.kA4iFpg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en-US/homerun/huffingtonpost.com.rss/26d900ea595670d2a3fadeaa2cdd259a.cf.jpg" />
+  </entry>
+  <entry>
     <title>Netanyahu gets go-ahead to form Israel's next government</title>
     <link rel="alternate" href="http://news.yahoo.com/netanyahu-set-ahead-form-israels-next-government-124843241.html" />
     <author>
@@ -1661,6 +1593,18 @@
     <summary type="html">&lt;p&gt;Some say Netanyahu has a better chance than Herzog of cobbling together a government, by courting his "natural allies," rightist and religious parties.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T23:23:39Z</dc:date>
     <media:content url="http://l1.yimg.com/bt/api/res/1.2/8dn6ALuQEpkala.2mvwdEA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/efdb55c33fdb0e0c710f6a7067009049.jpg" />
+  </entry>
+  <entry>
+    <title>Despite tie, Netanyahu secures shot at 4th term as Israel PM</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Despite-tie-Netanyahu-secures-shot-at-4th-term-6140229.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T23:23:26Z</updated>
+    <published>2015-03-17T23:23:26Z</published>
+    <summary type="html">&lt;p&gt;Israel's parliament election ended in a deadlock, according to TV exit polls, but Prime Minister Benjamin Netanyahu seems to hold the advantage ahead of coalition talks.&lt;/p&gt;&lt;p&gt;In the event of a Netanyahu-Herzog unity government, the Joint List expects to take on the high profile role of leader of the opposition.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T23:23:26Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/20/70/7671310/5/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Despite tie, Netanyahu secures shot at 4th term as Israel PM</title>

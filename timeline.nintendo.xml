@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nintendo World Championships Return After 25 Years</title>
+    <link rel="alternate" href="http://time.com/3858219/nintendo-mario-kart-super-smash-bros-pokemon-championship/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T03:43:07Z</updated>
+    <published>2015-05-14T03:43:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-14T03:43:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Investors cheer Nintendo move into smartphone games</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
     <author>
@@ -11,7 +22,7 @@
     </author>
     <updated>2015-03-19T08:30:27Z</updated>
     <published>2015-03-19T08:30:27Z</published>
-    <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;&lt;p&gt;The move into smartphone apps could further dent console sales, some analysts said, despite assurances by company president Satoru Iwata that Nintendo was committed to making gaming machines.&lt;/p&gt;&lt;p&gt;Nintendo, however, may be shifting away from hardware, Mr Iwata said it was developing a new gaming platform, the NX, as well as an online membership service to be launched this year.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Nintendo is now worth $31 billion.&lt;/p&gt;</summary>
     <dc:date>2015-03-19T08:30:27Z</dc:date>
     <media:content url="http://www.abc.net.au/news/image/3948032-3x2-340x227.jpg" />
   </entry>
@@ -23,20 +34,9 @@
     </author>
     <updated>2015-03-18T02:41:04Z</updated>
     <published>2015-03-18T02:41:04Z</published>
-    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;&lt;p&gt;Nintendo, based in the ancient city of Kyoto, announced Tuesday it was teaming up with Tokyo-based mobile gaming company DeNA to develop games for smartphones.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;</summary>
     <dc:date>2015-03-18T02:41:04Z</dc:date>
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
-  </entry>
-  <entry>
-    <title>Nintendo World Championships Return After 25 Years</title>
-    <link rel="alternate" href="http://time.com/3858219/nintendo-mario-kart-super-smash-bros-pokemon-championship/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-14T03:43:07Z</updated>
-    <published>2015-05-14T03:43:07Z</published>
-    <summary type="html" />
-    <dc:date>2015-05-14T03:43:07Z</dc:date>
   </entry>
   <entry>
     <title>'Super Mario' to go mobile as Nintendo ventures into smartphone games</title>
