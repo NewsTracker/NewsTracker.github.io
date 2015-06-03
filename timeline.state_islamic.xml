@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State fighters attack northeastern Syrian city</title>
+    <link rel="alternate" href="http://news.yahoo.com/islamic-state-fighters-attack-northeastern-syrian-city-101143969.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T13:31:03Z</updated>
+    <published>2015-06-03T13:31:03Z</published>
+    <summary type="html">&lt;p&gt;The TV said government warplanes have struck the Islamic State stronghold of Shaddadeh, south of Hassakeh.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T13:31:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State fighters attack northeastern Syrian city</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/03/islamic-state-fighters-attack-northeastern-syrian-city" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T13:30:41Z</updated>
+    <published>2015-06-03T13:30:41Z</published>
+    <summary type="html">&lt;p&gt;In September, the CIA said that Islamic State group has up to 31,500 fighters.&lt;/p&gt;&lt;p&gt;An Islamic State-affiliated Facebook page said the airstrikes on Shaddadeh destroyed seven homes without causing any casualties.&lt;/p&gt;&lt;p&gt;The Britain-based Syrian Observatory for Human Rights said the Syrian air force is also taking part in the battle around Hassakeh and that Islamic State gunmen have entered the prison building.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T13:30:41Z</dc:date>
+  </entry>
+  <entry>
     <title>Syrian army battles Islamic State in northeast Syria</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3108951/Syrian-army-battles-Islamic-State-northeast-Syria.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

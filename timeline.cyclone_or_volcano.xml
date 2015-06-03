@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Indonesia Raises Alert Status of Volcano to Highest Level</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/indonesia-raises-alert-status-volcano-highest-level-31490358" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T13:39:39Z</updated>
+    <published>2015-06-03T13:39:39Z</published>
+    <summary type="html">&lt;p&gt;The volcano had been dormant for four centuries before springing to life in August 2010, killing two people and forcing 30,000 to flee.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T13:39:39Z</dc:date>
+  </entry>
+  <entry>
     <title>Indonesia raises alert status of volcano to highest level</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11459443&amp;amp;ref=rss" />
     <author>

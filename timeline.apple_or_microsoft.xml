@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft Confirms Acquisition of Wunderlist App</title>
+    <link rel="alternate" href="http://www.wsj.com/articles/microsoft-confirms-acquisition-of-wunderlist-task-management-app-1433265119?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T18:06:33Z</updated>
+    <published>2015-06-02T18:06:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T18:06:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Court questions Google on patent values in Microsoft case</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-microsoft-google-patents-idUSKBN0MZ23Y20150408?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>

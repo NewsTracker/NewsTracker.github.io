@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T18:46:15Z</updated>
+    <published>2015-05-22T18:46:15Z</published>
+    <summary type="html">&lt;p&gt;Microsoft Corp (MSFT.O) and Salesforce.com Inc (CRM.N) held "significant talks" this spring but failed to agree on a price, CNBC reported, citing people familiar with the matter.&lt;/p&gt;&lt;p&gt;Microsoft was willing to offer about $55 billion for the world's biggest maker of online sales software.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T18:46:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
       <name />
@@ -105,17 +116,6 @@
     <published>2015-06-01T10:38:21Z</published>
     <summary type="html">&lt;p&gt;Microsoft Corp. says Windows 10 will be available in 190 countries as a free upgrade on July 29 for anyone currently running Windows 8.1 or 7, the two previous versions of the software.&lt;/p&gt;</summary>
     <dc:date>2015-06-01T10:38:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-22T18:46:15Z</updated>
-    <published>2015-05-22T18:46:15Z</published>
-    <summary type="html">&lt;p&gt;Microsoft Corp (MSFT.O) and Salesforce.com Inc (CRM.N) held "significant talks" this spring but failed to agree on a price, CNBC reported, citing people familiar with the matter.&lt;/p&gt;</summary>
-    <dc:date>2015-05-22T18:46:15Z</dc:date>
   </entry>
   <entry>
     <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
