@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>3 civilians killed in surge of shelling in east Ukraine</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article22981197.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T09:42:05Z</updated>
+    <published>2015-06-03T09:42:05Z</published>
+    <summary type="html">&lt;p&gt;People observe damage in their flat after shelling between Russia-backed separatists and Ukrainian government troops in Donetsk, Eastern Ukraine Monday, June 1, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T09:42:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Romania turns hacking crisis into advantage, helping Ukraine</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article20804904.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T08:04:23Z</updated>
+    <published>2015-05-13T08:04:23Z</published>
+    <summary type="html">&lt;p&gt;Ukraine is turning to an unlikely partner in its struggle to defend itself against Russian cyber warfare: Romania.&lt;/p&gt;&lt;p&gt;So much so that NATO tapped Bucharest to defend Ukraine from Russian digital espionage by sending experts to monitor Kiev government institutes and train Ukrainian IT specialists.&lt;/p&gt;&lt;p&gt;Romania, a member of NATO's cyber coalition exercises, volunteered to lead the Ukraine Cyber Defense Trust Fund - and tapped the state-owned Rasirom company.&lt;/p&gt;&lt;p&gt;Ukraine says Russia's Federal Security Service is coordinating attacks on government offices as part of a proxy war against Ukraine's government, amid real fighting between Ukrainian forces and pro-Russian rebels in the east.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T08:04:23Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Violence escalates in east Ukraine ahead of talks</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3036799/Violence-escalates-east-Ukraine-ahead-talks.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-13T23:11:51Z</updated>
+    <published>2015-04-13T23:11:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-13T23:11:51Z</dc:date>
+  </entry>
+  <entry>
     <title>2 Civilians Killed in Surge of Shelling in East Ukraine</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/civilians-killed-surge-shelling-east-ukraine-31488986" />
     <author>
@@ -611,18 +646,6 @@
     <published>2015-05-13T15:21:01Z</published>
     <summary type="html" />
     <dc:date>2015-05-13T15:21:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Romania turns hacking crisis into advantage, helping Ukraine</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article20804904.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-13T08:04:23Z</updated>
-    <published>2015-05-13T08:04:23Z</published>
-    <summary type="html">&lt;p&gt;Ukraine is turning to an unlikely partner in its struggle to defend itself against Russian cyber warfare: Romania.&lt;/p&gt;&lt;p&gt;So much so that NATO tapped Bucharest to defend Ukraine from Russian digital espionage by sending experts to monitor Kiev government institutes and train Ukrainian IT specialists.&lt;/p&gt;&lt;p&gt;Romania, a member of NATO's cyber coalition exercises, volunteered to lead the Ukraine Cyber Defense Trust Fund - and tapped the state-owned Rasirom company.&lt;/p&gt;</summary>
-    <dc:date>2015-05-13T08:04:23Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Romania turns hacking crisis into advantage, helping Ukraine</title>

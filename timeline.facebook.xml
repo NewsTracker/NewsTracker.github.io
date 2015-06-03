@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fin24.com | Russia warns Google, Twitter, Facebook on web laws</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Russia-warns-Google-Twitter-Facebook-on-web-laws-20150522" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T07:51:37Z</updated>
+    <published>2015-05-22T07:51:37Z</published>
+    <summary type="html">&lt;p&gt;Moscow - Russia's media watchdog has written to Google, Twitter and Facebook warning them against violating Russian internet laws and a spokesman said on Thursday they risk being blocked if they do not comply with the rules.&lt;/p&gt;&lt;p&gt;Facebook says it responds to government data requests about its users that comply with company policies and local laws and meet international standards of legal process.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T07:51:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook ready to test news project</title>
     <link rel="alternate" href="http://www.startribune.com/facebook-ready-to-test-news-project/303549391/" />
     <author>
@@ -256,17 +267,6 @@
     <published>2015-05-28T23:40:11Z</published>
     <summary type="html">&lt;p&gt;Khanna wrote that he still uses Facebook Messenger, but turned his location off.&lt;/p&gt;</summary>
     <dc:date>2015-05-28T23:40:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Fin24.com | Russia warns Google, Twitter, Facebook on web laws</title>
-    <link rel="alternate" href="http://www.fin24.com/Tech/News/Russia-warns-Google-Twitter-Facebook-on-web-laws-20150522" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-22T07:51:37Z</updated>
-    <published>2015-05-22T07:51:37Z</published>
-    <summary type="html">&lt;p&gt;Moscow - Russia's media watchdog has written to Google, Twitter and Facebook warning them against violating Russian internet laws and a spokesman said on Thursday they risk being blocked if they do not comply with the rules.&lt;/p&gt;</summary>
-    <dc:date>2015-05-22T07:51:37Z</dc:date>
   </entry>
   <entry>
     <title>Russia 'will block' Google, Twitter and Facebook if they withhold blogger data</title>

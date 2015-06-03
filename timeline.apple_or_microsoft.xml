@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Court questions Google on patent values in Microsoft case</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-microsoft-google-patents-idUSKBN0MZ23Y20150408?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T19:25:38Z</updated>
+    <published>2015-04-08T19:25:38Z</published>
+    <summary type="html">&lt;p&gt;The value of Google's patents can affect how it negotiates royalty rates with other tech companies, and firms including Apple Inc and Intel Corp filed court papers supporting Microsoft.&lt;/p&gt;&lt;p&gt;After the 2012 trial before U.S. District Judge James Robart, the judge said the appropriate royalty rate was about $1.8 million, slightly above Microsoft's estimate, but well below Motorola's demand for as much as $4 billion a year.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T19:25:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple CEO Tim Cook plans to give away most of his fortune</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/03/27/apple-ceo-tim-cook-joins-long-list-magnates-committing-to-donate-most-their-to/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T16:58:49Z</updated>
+    <published>2015-03-27T16:58:49Z</published>
+    <summary type="html">&lt;p&gt;Microsoft founder Bill Gates and Berkshire Hathaway CEO Warren Buffett are among dozens of wealthy people planning to give away their fortunes.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T16:58:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Week in Tech: Week in Tech: Laser eyes, Apple's home invasion, and a new era for Spotify</title>
     <link rel="alternate" href="http://www.techradar.com/us/news/car-tech/week-in-tech-laser-eyes-apple-s-home-invasion-and-a-new-era-for-spotify-1294623?src=rss&amp;amp;attr=all" />
     <author>
@@ -2611,17 +2633,6 @@
     <published>2015-04-08T21:04:48Z</published>
     <summary type="html" />
     <dc:date>2015-04-08T21:04:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Court questions Google on patent values in Microsoft case</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-microsoft-google-patents-idUSKBN0MZ23Y20150408?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T19:25:38Z</updated>
-    <published>2015-04-08T19:25:38Z</published>
-    <summary type="html">&lt;p&gt;The value of Google's patents can affect how it negotiates royalty rates with other tech companies, and firms including Apple Inc and Intel Corp filed court papers supporting Microsoft.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T19:25:38Z</dc:date>
   </entry>
   <entry>
     <title>Apple Watch stylish but not for everyone, reviewers say</title>
