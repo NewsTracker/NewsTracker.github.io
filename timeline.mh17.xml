@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mh17.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russian investigators point finger at Ukraine over downing of MH17</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/03/us-ukraine-crisis-russia-aeroplane-idUSKBN0OJ22320150603?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T15:13:23Z</updated>
+    <published>2015-06-03T15:13:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-03T15:13:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Russian missile maker: MH17 shot down by Ukrainian missile</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Russian-missile-maker-MH17-shot-down-by-6301110.php" />
     <author>

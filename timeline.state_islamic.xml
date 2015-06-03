@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>More than 10,000 jihadists killed in air strikes against Islamic State, US claims</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/more-than-10000-jihadists-killed-in-air-strikes-against-islamic-state-us-claims-20150603-ghg811.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T15:44:02Z</updated>
+    <published>2015-06-03T15:44:02Z</published>
+    <summary type="html">&lt;p&gt;Islamic State now controls "25 per cent less of Iraq after nine months, a lot of their equipment has been destroyed and many Daesh [IS] members have been eliminated," said Blinken.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T15:44:02Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/4/x/6/0/image.related.articleLeadwide.620x349.ghg811.png/1433346233154.jpg" />
+  </entry>
+  <entry>
+    <title>Western mothers use social media to plead for their children to leave Syria</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/jun/03/western-mothers-social-media-plead-children-leave-syria" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T14:43:56Z</updated>
+    <published>2015-06-03T14:43:56Z</published>
+    <summary type="html">&lt;p&gt;A group of western mothers whose children have joined Islamic State and other extremists in Syria and Iraq have appealed for them to return home, quoting from the Qur'an.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T14:43:56Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State fighters attack northeastern Syrian city</title>
     <link rel="alternate" href="http://news.yahoo.com/islamic-state-fighters-attack-northeastern-syrian-city-101143969.html" />
     <author>

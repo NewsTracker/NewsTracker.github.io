@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hurricane Blanca grows off Mexico coast, headed for tourist hub</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/03/us-usa-storms-blanca-idUSKBN0OJ1TG20150603?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T15:39:04Z</updated>
+    <published>2015-06-03T15:39:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-03T15:39:04Z</dc:date>
+  </entry>
+  <entry>
     <title>State officials eye broadband in New Mexico rural schools</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article22981509.html%23storylink=rss" />
     <author>
