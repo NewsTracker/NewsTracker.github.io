@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US official: Airstrikes killed 10,000 Islamic State fighters</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Islamic-State-fighters-attack-northeastern-Syrian-6303684.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T17:39:58Z</updated>
+    <published>2015-06-03T17:39:58Z</published>
+    <summary type="html">&lt;p&gt;It also comes months after the Pentagon dismissed such counts as "simply not a relevant figure" in the fight against the Islamic State group.&lt;/p&gt;&lt;p&gt;In September, the CIA said that Islamic State group has up to 31,500 fighters, meaning that could represent a loss of a third of its forces.&lt;/p&gt;&lt;p&gt;Meanwhile Wednesday, the Islamic State group targeted Hassakeh in an apparent attempt to reverse some of the advances made recently by Kurdish fighters in the northeastern Syrian province.&lt;/p&gt;&lt;p&gt;Kurdish fighters have captured dozens of towns and villages there with the help of U.S.-led airstrikes and are getting close to Tel Abyad, a major Islamic State-held border town near Turkey.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T17:39:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Embittered, Moroccan leaves family for Islamic State</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/embittered-moroccan-leaves-family-for-islamic-stat/nmLHp/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T01:13:57Z</updated>
+    <published>2015-05-21T01:13:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-21T01:13:57Z</dc:date>
+  </entry>
+  <entry>
     <title>More than 10,000 jihadists killed in air strikes against Islamic State, US claims</title>
     <link rel="alternate" href="http://www.smh.com.au/world/more-than-10000-jihadists-killed-in-air-strikes-against-islamic-state-us-claims-20150603-ghg811.html" />
     <author>

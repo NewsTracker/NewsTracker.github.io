@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigerian to lead multinational force fighting Boko Haram</title>
+    <link rel="alternate" href="http://news.yahoo.com/nigerian-lead-multinational-force-fighting-boko-haram-172443620.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T17:24:43Z</updated>
+    <published>2015-06-03T17:24:43Z</published>
+    <summary type="html">&lt;p&gt;LAGOS, Nigeria (AP) - Nigeria has named a general to lead the multinational force fighting Boko Haram, taking over the command from Chad.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T17:24:43Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/fA0IfA2YLtMuuR774pnFnA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_ZA/News/Reuters/2015-06-02T064047Z_1007970001_LYNXMPEB51097_RTROPTP_2_OZATP-US-NIGERIA-PRESIDENT-BOKOHARAM.JPG.cf.jpg" />
+  </entry>
+  <entry>
+    <title>More women and children freed from Boko Haram in Nigeria</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/chi-boko-haram-girls-20150430-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T11:41:00Z</updated>
+    <published>2015-04-30T11:41:00Z</published>
+    <summary type="html">&lt;p&gt;The army spokesman said several Boko Haram field commanders and foot soldiers were killed and combat tanks and munitions of high caliber used by Boko Haram were recovered while others were destroyed.&lt;/p&gt;&lt;p&gt;Their kidnapping brought Boko Haram, whose nickname means "Western education is forbidden" in the local Hausa language, to the world's attention.&lt;/p&gt;&lt;p&gt;"Some have been repeatedly raped, sold into sexual slavery or indoctrinated and even forced to fight for Boko Haram."&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T11:41:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Nigerian troops who fled Boko Haram now have them on the run</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/05/nigerian-troops-who-fled-boko-haram-now-have-them-on-the-run" />
     <author>
@@ -740,17 +763,6 @@
     <summary type="html">&lt;p&gt;Some of the women and girls are pregnant, according to Muhammad Gavi, a spokesman for a self-defense group that fights Boko Haram who said some members have seen the females.&lt;/p&gt;</summary>
     <dc:date>2015-04-30T21:48:26Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/1xJHO8.4QXH2XMm5HRI7Ag--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/d8de094529410c13750f6a706700b976.jpg" />
-  </entry>
-  <entry>
-    <title>More women and children freed from Boko Haram in Nigeria</title>
-    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/chi-boko-haram-girls-20150430-story.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-30T11:41:00Z</updated>
-    <published>2015-04-30T11:41:00Z</published>
-    <summary type="html">&lt;p&gt;The army spokesman said several Boko Haram field commanders and foot soldiers were killed and combat tanks and munitions of high caliber used by Boko Haram were recovered while others were destroyed.&lt;/p&gt;&lt;p&gt;Their kidnapping brought Boko Haram, whose nickname means "Western education is forbidden" in the local Hausa language, to the world's attention.&lt;/p&gt;</summary>
-    <dc:date>2015-04-30T11:41:00Z</dc:date>
   </entry>
   <entry>
     <title>Nigerian military rescues more women, girls from Boko Haram</title>
