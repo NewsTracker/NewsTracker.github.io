@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google planning to expand metro Atlanta data center</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article22964355.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T00:36:37Z</updated>
+    <published>2015-06-03T00:36:37Z</published>
+    <summary type="html">&lt;p&gt;Google officials said Tuesday that they're planning to invest $300 million in the expansion of their facility in Lithia Springs and are expecting to create 25 new jobs.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T00:36:37Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Canadian firms slow to adopt digital tech, Google Canada boss says</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/canada/british-columbia/google-canada-boss-prods-slow-canadian-businesses-to-seize-digital-tools-1.3097784?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T22:39:31Z</updated>
+    <published>2015-06-02T22:39:31Z</published>
+    <summary type="html">&lt;p&gt;Sebastian, who spent eight years with Google in Chicago, says there's resistance to change in the business here in Canada.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T22:39:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google adds tweets to mobile search</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/20/google-adds-tweets-to-mobile-search" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-20T15:25:23Z</updated>
+    <published>2015-05-20T15:25:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-20T15:25:23Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297702292040_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Google is starting small, thinking big with 'Project Fi'</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Google-is-starting-small-thinking-big-with-6241054.php" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>CIA'S Brennan: Islamic State's momentum blunted in Syria, Iraq</title>
+    <link rel="alternate" href="http://news.yahoo.com/cias-brennan-islamic-states-momentum-blunted-syria-iraq-135141779.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-22T17:06:51Z</updated>
+    <published>2015-03-22T17:06:51Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (Reuters) - The momentum of Islamic State in Iraq and Syria has been blunted and the extremist group is not "on the march" as it was previously, CIA Director John Brennan said on Sunday.&lt;/p&gt;&lt;p&gt;Brennan also credited Iraqi government forces for pushing back against Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-03-22T17:06:51Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/4Wi8kOeBnD13PY4JB_HIDQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-03-22T170949Z_1_LYNXMPEB2L0AW_RTROPTP_2_USA-SECURITY-BRENNAN.JPG" />
+  </entry>
+  <entry>
     <title>Islamic State killed 400 people in Syria's Palmyra: State TV</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/05/24/islamic-state-killed-400-people-in-syrias-palmyra-state-tv" />
     <author>
@@ -6231,18 +6243,6 @@
     <published>2015-03-22T22:16:02Z</published>
     <summary type="html">&lt;p&gt;TORONTO (AP) - Canada's prime minister will talk about his plan to extend and expand Canada's military mission against the Islamic State group at a meeting with NATO's secretary general.&lt;/p&gt;</summary>
     <dc:date>2015-03-22T22:16:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>CIA'S Brennan: Islamic State's momentum blunted in Syria, Iraq</title>
-    <link rel="alternate" href="http://news.yahoo.com/cias-brennan-islamic-states-momentum-blunted-syria-iraq-135141779.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-22T17:06:51Z</updated>
-    <published>2015-03-22T17:06:51Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (Reuters) - The momentum of Islamic State in Iraq and Syria has been blunted and the extremist group is not "on the march" as it was previously, CIA Director John Brennan said on Sunday.&lt;/p&gt;</summary>
-    <dc:date>2015-03-22T17:06:51Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/4Wi8kOeBnD13PY4JB_HIDQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-03-22T170949Z_1_LYNXMPEB2L0AW_RTROPTP_2_USA-SECURITY-BRENNAN.JPG" />
   </entry>
   <entry>
     <title>Morocco dismantles cell planning attacks, officials say</title>

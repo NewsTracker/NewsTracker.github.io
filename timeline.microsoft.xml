@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft buys German start-up behind Wunderlist app</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3107118/Microsoft-buy-German-start-Wunderlist-app-report.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T01:06:44Z</updated>
+    <published>2015-06-03T01:06:44Z</published>
+    <summary type="html">&lt;p&gt;Microsoft on Tuesday said that it has bought 6Wunderkinder GmbH, a Berlin-based startup behind the Wunderlist to-do list app.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T01:06:44Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft building 2 cloud data centres in Canada</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnologynews" />
     <author>

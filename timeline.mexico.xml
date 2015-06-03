@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Pena Nieto's ruling PRI in the lead ahead of Mexico mid-terms: poll</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/03/us-mexico-poll-idUSKBN0OI2RY20150603?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T00:57:28Z</updated>
+    <published>2015-06-03T00:57:28Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-03T00:57:28Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150602&amp;amp;t=2&amp;amp;i=1053211778&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB511CL" />
+  </entry>
+  <entry>
+    <title>Low wages, trade deals luring auto plants and jobs to Mexico</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/article/Low-wages-trade-deals-luring-auto-plants-and-6213976.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T16:37:59Z</updated>
+    <published>2015-04-21T16:37:59Z</published>
+    <summary type="html">&lt;p&gt;Mexico also trumps the U.S. on free trade.&lt;/p&gt;&lt;p&gt;While Mexico's auto industry booms and workers welcome the above-average wages, they are speaking out more loudly about working conditions.&lt;/p&gt;&lt;p&gt;Sherman reported from Mexico City.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T16:37:59Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/35/75/42/7854257/3/gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Mexico congressional candidate slain near capital, armed attackers burn thousands of ballots</title>
     <link rel="alternate" href="http://www.startribune.com/mexico-candidate-slain-1-000s-of-ballots-burned-in-attack/305913991/" />
     <author>
@@ -2159,18 +2183,6 @@
     <summary type="html">&lt;p&gt;Lured by low wages and tax-saving free trade agreements, auto companies from the U.S. and overseas are accelerating plans to build new factories and add jobs in Mexico.&lt;/p&gt;</summary>
     <dc:date>2015-04-21T17:13:04Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Low wages, trade deals luring auto plants and jobs to Mexico</title>
-    <link rel="alternate" href="http://www.seattlepi.com/news/article/Low-wages-trade-deals-luring-auto-plants-and-6213976.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-21T16:37:59Z</updated>
-    <published>2015-04-21T16:37:59Z</published>
-    <summary type="html">&lt;p&gt;Mexico also trumps the U.S. on free trade.&lt;/p&gt;&lt;p&gt;While Mexico's auto industry booms and workers welcome the above-average wages, they are speaking out more loudly about working conditions.&lt;/p&gt;</summary>
-    <dc:date>2015-04-21T16:37:59Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/35/75/42/7854257/3/gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Low wages, trade deals luring auto plants and jobs to Mexico</title>
