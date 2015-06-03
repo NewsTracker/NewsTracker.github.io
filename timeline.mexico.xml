@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico congressional candidate slain near capital, armed attackers burn thousands of ballots</title>
+    <link rel="alternate" href="http://www.startribune.com/mexico-candidate-slain-1-000s-of-ballots-burned-in-attack/305913991/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:25:15Z</updated>
+    <published>2015-06-02T23:25:15Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - A Mexican congressional hopeful was shot dead in a town bordering the capital Tuesday, becoming the fourth candidate to be slain ahead of Sunday's midterm elections.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:25:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico Candidate Slain; 1,000s of Ballots Burned in Attack</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-candidate-slain-1000s-ballots-burned-attack-31483552" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:24:07Z</updated>
+    <published>2015-06-02T23:24:07Z</published>
+    <summary type="html">&lt;p&gt;Miguel Angel Luna, mayor of Valle de Chalco in the state of Mexico southeast of Mexico City, was attacked by armed men at his campaign offices, according to a statement from his Democratic Revolution Party.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:24:07Z</dc:date>
+  </entry>
+  <entry>
     <title>NFL looking for more international games in Mexico, Germany</title>
     <link rel="alternate" href="http://news.yahoo.com/nfl-looking-more-international-games-mexico-germany-145538057.html" />
     <author>

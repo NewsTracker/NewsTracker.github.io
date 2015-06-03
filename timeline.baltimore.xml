@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Original Washington Monument, in Baltimore, to reopen July 4</title>
+    <link rel="alternate" href="http://news.yahoo.com/original-washington-monument-baltimore-reopen-july-4-222606614.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T22:26:06Z</updated>
+    <published>2015-06-02T22:26:06Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - The original Washington Monument, located in Baltimore, will be reopened and rededicated following a renovation.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T22:26:06Z</dc:date>
+  </entry>
+  <entry>
     <title>National Guard called in to keep the peace in Baltimore</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/386c25518f464186bf7a2ac026580ce7/Article_2015-04-28-US--Suspect%20Dies-Baltimore/id-b6c6736e336140feb67c83b1cc8ee42b" />
     <author>

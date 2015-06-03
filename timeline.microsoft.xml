@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft building 2 cloud data centres in Canada</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:36:11Z</updated>
+    <published>2015-06-02T23:36:11Z</published>
+    <summary type="html">&lt;p&gt;Microsoft wouldn't say.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:36:11Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Microsoft building 2 cloud data centres in Canada</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:36:11Z</updated>
+    <published>2015-06-02T23:36:11Z</published>
+    <summary type="html">&lt;p&gt;TORONTO - The Microsoft Cloud is coming to Canada.&lt;/p&gt;&lt;p&gt;Microsoft announced Tuesday that it will build two "Cloud" data centres - one in Toronto and one in Quebec City - next year.&lt;/p&gt;&lt;p&gt;The data centres will be the physical home to the technology that powers Microsoft's cloud services for businesses.&lt;/p&gt;&lt;p&gt;Why does Microsoft want to locate the cloud in Canada?&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:36:11Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Microsoft reportedly considering bid for Salesforce</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
     <author>

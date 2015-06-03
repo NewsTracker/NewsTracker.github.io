@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Snowden awarded freedom of expression prize in Norway</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3107585/Snowden-awarded-freedom-expression-prize-Norway.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:21:44Z</updated>
+    <published>2015-06-02T23:21:44Z</published>
+    <summary type="html">&lt;p&gt;Snowden, a former analyst at the US National Security Agency, has lived in exile in Russia since 2013 after revealing mass spying programmes by the United States and its allies.&lt;/p&gt;&lt;p&gt;Snowden was awarded Sweden's Right Livelihood Award in 2014 but chose to accept it by video link rather than leaving his exile in Russia.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:21:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Snowden awarded freedom of expression prize in Norway</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Snowden-awarded-freedom-of-expression-prize-in-Norway/articleshow/47521602.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:14:56Z</updated>
+    <published>2015-06-02T23:14:56Z</published>
+    <summary type="html">&lt;p&gt;OSLO: Former security contractor Edward Snowden won a Norwegian prize for freedom of expression Tuesday and received yet another invitation to leave his exile and receive the award in person.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:14:56Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47521606,width-300,resizemode-4/snowden.jpg" />
+  </entry>
+  <entry>
     <title>In wake of Snowden leaks, NSA domestic spy program limits pass Congress</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/in-wake-of-snowden-leaks-nsa-domestic-spy-program-limits-pass-congress-20150602-ghfe11" />
     <author>
