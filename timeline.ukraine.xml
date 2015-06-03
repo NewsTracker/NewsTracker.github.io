@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>2 Civilians Killed in Surge of Shelling in East Ukraine</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/civilians-killed-surge-shelling-east-ukraine-31488986" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T07:46:39Z</updated>
+    <published>2015-06-03T07:46:39Z</published>
+    <summary type="html">&lt;p&gt;Authorities in east Ukraine say two civilians in a government-controlled area have been killed amid a surge of shelling as combat flares between the armed forces and separatist rebels.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T07:46:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>2 civilians killed in surge of shelling in east Ukraine</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/2-civilians-killed-in-surge-of-shelling-in-east-uk/nmTRD/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T07:46:09Z</updated>
+    <published>2015-06-03T07:46:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-03T07:46:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Two civilians killed in rebel attack in east Ukraine: governor</title>
+    <link rel="alternate" href="http://news.yahoo.com/two-civilians-killed-rebel-attack-east-ukraine-governor-074238965.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T07:42:38Z</updated>
+    <published>2015-06-03T07:42:38Z</published>
+    <summary type="html">&lt;p&gt;"It is clear that the passenger car with civilians was fired on with mortars by a raiding group which occasionally penetrates far into territory controlled by Ukraine," Governor Hennadiy Moskal said in an online statement.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T07:42:38Z</dc:date>
+    <media:content url="http://l.yimg.com/a/p/us/news/editorial/d/0c/d0c3eb8ca18907492a4b337b5cec5193.jpeg" />
+  </entry>
+  <entry>
     <title>Ukraine negotiators meet, but progress unseen</title>
     <link rel="alternate" href="http://www.ctvnews.ca/politics/ukraine-negotiators-meet-but-progress-unseen-1.2402957" />
     <author>
