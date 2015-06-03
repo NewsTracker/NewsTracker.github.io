@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook ready to test news project</title>
+    <link rel="alternate" href="http://www.startribune.com/facebook-ready-to-test-news-project/303549391/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T04:17:37Z</updated>
+    <published>2015-05-13T04:17:37Z</published>
+    <summary type="html">&lt;p&gt;For publishers, the Facebook initiative represents the latest in a series of existential balancing acts.&lt;/p&gt;&lt;p&gt;Publishers have little choice but to cooperate with Facebook, said Vivian Schiller, a former executive at NBC, the New York Times and Twitter who now advises media companies and brands.&lt;/p&gt;&lt;p&gt;Facebook is also permitting the news companies to collect data about readers.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T04:17:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>IBM, Facebook team up on analytics, advertising</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3070972/IBM-Facebook-team-analytics-advertising.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T22:02:43Z</updated>
+    <published>2015-05-06T22:02:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T22:02:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook announces plans to start building third data center in Des Moines suburb of Altoona</title>
     <link rel="alternate" href="http://www.startribune.com/facebook-to-build-third-data-center-in-central-iowa/305867191/" />
     <author>
@@ -382,17 +404,6 @@
     <summary type="html">&lt;p&gt;The news publishers can either sell and embed advertisements in the articles and keep all of the revenue, or allow Facebook to sell ads.&lt;/p&gt;</summary>
     <dc:date>2015-05-13T05:43:42Z</dc:date>
     <media:content url="http://s4.reutersmedia.net/resources_v2/images/rcom-logo-hdr.png" />
-  </entry>
-  <entry>
-    <title>Facebook ready to test news project</title>
-    <link rel="alternate" href="http://www.startribune.com/facebook-ready-to-test-news-project/303549391/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-13T04:17:37Z</updated>
-    <published>2015-05-13T04:17:37Z</published>
-    <summary type="html">&lt;p&gt;For publishers, the Facebook initiative represents the latest in a series of existential balancing acts.&lt;/p&gt;&lt;p&gt;Publishers have little choice but to cooperate with Facebook, said Vivian Schiller, a former executive at NBC, the New York Times and Twitter who now advises media companies and brands.&lt;/p&gt;</summary>
-    <dc:date>2015-05-13T04:17:37Z</dc:date>
   </entry>
   <entry>
     <title>Man arrested after 'liking' mug shot on Facebook posts bond</title>

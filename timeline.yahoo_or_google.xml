@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gallo HR, record 4 RBIs in MLB debut, Texas 15-2 over ChiSox (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/gallo-hr-record-4-rbis-mlb-debut-texas-025245930--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T03:52:08Z</updated>
+    <published>2015-06-03T03:52:08Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-03T03:52:08Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Google?s mobilegeddon</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/technology-32393050%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T07:58:09Z</updated>
+    <published>2015-04-21T07:58:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-21T07:58:09Z</dc:date>
+    <media:content url="http://ichef.bbci.co.uk/news/200/media/images/82452000/jpg/_82452160_thinkstock_google.jpg" />
+  </entry>
+  <entry>
     <title>Google planning to expand metro Atlanta data center</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article22964355.html%23storylink=rss" />
     <author>
