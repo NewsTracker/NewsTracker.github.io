@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt death sentences worry U.S., U.N., Turkey</title>
+    <link rel="alternate" href="http://news.yahoo.com/middle-east-turmoil-egypts-mursi-executed-turkish-presidency-103631777.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T19:31:20Z</updated>
+    <published>2015-05-18T19:31:20Z</published>
+    <summary type="html">&lt;p&gt;The U.S. State Department said Egypt's practice of mass trials and sentences was unjust and often used against members of the opposition or non-violent activists.&lt;/p&gt;&lt;p&gt;In Ankara, Turkey's presidential spokesman warned the Middle East would be thrown into turmoil if Egypt carried out its death sentences.&lt;/p&gt;&lt;p&gt;Speaking to Egypt's state news agency, an unidentified Egyptian official said Cairo was not surprised by Turkey's comments.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T19:31:20Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/3SOGPEAxRtdWJff935PYYw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE4MjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-18T193120Z_2_LYNXMPEB4H0E7_RTROPTP_2_EGYPT-COURT-MURSI.JPG" />
+  </entry>
+  <entry>
     <title>Gunmen in Egypt kill 2 police officers outside Giza Pyramids</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article22984440.html%23storylink=rss" />
     <author>
@@ -469,18 +481,6 @@
     <summary type="html">&lt;p&gt;Egypt denies accusations by human rights groups that its security forces have committed abuses in a clampdown that has killed about 1,000 Islamists and jailed thousands of others.&lt;/p&gt;</summary>
     <dc:date>2015-05-19T06:58:23Z</dc:date>
     <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150519&amp;amp;t=2&amp;amp;i=1049476116&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB4I08N" />
-  </entry>
-  <entry>
-    <title>Egypt death sentences worry U.S., U.N., Turkey</title>
-    <link rel="alternate" href="http://news.yahoo.com/middle-east-turmoil-egypts-mursi-executed-turkish-presidency-103631777.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-18T19:31:20Z</updated>
-    <published>2015-05-18T19:31:20Z</published>
-    <summary type="html">&lt;p&gt;The U.S. State Department said Egypt's practice of mass trials and sentences was unjust and often used against members of the opposition or non-violent activists.&lt;/p&gt;&lt;p&gt;In Ankara, Turkey's presidential spokesman warned the Middle East would be thrown into turmoil if Egypt carried out its death sentences.&lt;/p&gt;</summary>
-    <dc:date>2015-05-18T19:31:20Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/3SOGPEAxRtdWJff935PYYw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE4MjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-18T193120Z_2_LYNXMPEB4H0E7_RTROPTP_2_EGYPT-COURT-MURSI.JPG" />
   </entry>
   <entry>
     <title>Egypt's stock market rises after halt of capital gains tax</title>

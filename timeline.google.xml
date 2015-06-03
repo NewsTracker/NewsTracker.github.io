@@ -5,6 +5,28 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Google founder defends accident records of self-driving cars</title>
+    <link rel="alternate" href="http://www.latimes.com/business/la-fi-google-cars-20150603-story.html?track=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T21:48:01Z</updated>
+    <published>2015-06-03T21:48:01Z</published>
+    <summary type="html">&lt;p&gt;With that collision, Google's self-driving cars have now been involved in 12 accidents while covering more than 1.7 million miles during the past six years, according to the company.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T21:48:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google founder defends accident records of self-driving cars</title>
+    <link rel="alternate" href="http://www.chron.com/news/article/Google-founder-defends-accident-records-of-6304821.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T20:07:14Z</updated>
+    <published>2015-06-03T20:07:14Z</published>
+    <summary type="html">&lt;p&gt;The self-driving cars have never been at fault, according to Google, though a company employee was in control at the time of one crash.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T20:07:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google founder defends accident records of self-driving cars</title>
     <link rel="alternate" href="http://www.seattlepi.com/news/article/Google-founder-defends-accident-records-of-6304821.php" />
     <author>
       <name />

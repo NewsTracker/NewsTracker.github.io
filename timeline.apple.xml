@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple recalls Beats Pill speakers because they may overheat</title>
+    <link rel="alternate" href="http://www.miamiherald.com/living/health-fitness/article22994742.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T20:47:05Z</updated>
+    <published>2015-06-03T20:47:05Z</published>
+    <summary type="html">&lt;p&gt;Apple said customers can apply for a $325 refund on its website.&lt;/p&gt;&lt;p&gt;Apple, based in Cupertino, California, said it will send customers boxes for free to return the speakers.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T20:47:05Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Apple recalls some Beats Pill XL speakers</title>
     <link rel="alternate" href="http://news.yahoo.com/apple-recalls-beats-pill-xl-speakers-143657748--finance.html" />
     <author>

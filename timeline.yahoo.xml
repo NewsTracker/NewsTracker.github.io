@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo lands rights to show NFL game on Internet this fall</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article22996737.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T21:57:05Z</updated>
+    <published>2015-06-03T21:57:05Z</published>
+    <summary type="html">&lt;p&gt;Landing the rights to show the game represents a coup for Yahoo, which is trying to widen its audience and sell more advertising after more than six years of little or no revenue growth.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T21:57:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Yahoo lands rights to show NFL game on Internet this fall</title>
+    <link rel="alternate" href="http://news.yahoo.com/nfl-chooses-yahoo-partner-experiment-stream-game-151447290.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T21:53:51Z</updated>
+    <published>2015-06-03T21:53:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-03T21:53:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Yahoo to live-stream Bills-Jaguars game from London</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/06/03/yahoo-to-live-stream-bills-jaguars-game-from-london" />
     <author>
