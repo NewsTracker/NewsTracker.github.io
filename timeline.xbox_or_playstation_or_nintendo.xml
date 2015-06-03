@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.xbox_or_playstation_or_nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Details on PlayStation Vue, comparison with Sling TV</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Details-on-PlayStation-Vue-comparison-with-Sling-6157087.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T07:10:19Z</updated>
+    <published>2015-03-25T07:10:19Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - Sony's new PlayStation Vue online TV service launched in three cities last week with more than 50 channels starting at $50.&lt;/p&gt;&lt;p&gt;You'll be able to use the PlayStation Vue password.&lt;/p&gt;&lt;p&gt;Three people can watch programs simultaneously - if each has a separate PlayStation 3 or 4 (only one can be a PS4).&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T07:10:19Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/35/32/74/7712514/3/628x471.jpg" />
+  </entry>
+  <entry>
     <title>Investors cheer Nintendo move into smartphone games</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-03-19/investors-cheer-nintendo-move-into-smartphone-games/6333406" />
     <author>
@@ -149,18 +161,6 @@
     <published>2015-03-25T07:11:28Z</published>
     <summary type="html">&lt;p&gt;A $50-a-year PlayStation Plus subscription is normally needed.&lt;/p&gt;</summary>
     <dc:date>2015-03-25T07:11:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>Details on PlayStation Vue, comparison with Sling TV</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Details-on-PlayStation-Vue-comparison-with-Sling-6157087.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-25T07:10:19Z</updated>
-    <published>2015-03-25T07:10:19Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK (AP) - Sony's new PlayStation Vue online TV service launched in three cities last week with more than 50 channels starting at $50.&lt;/p&gt;&lt;p&gt;You'll be able to use the PlayStation Vue password.&lt;/p&gt;</summary>
-    <dc:date>2015-03-25T07:10:19Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/35/32/74/7712514/3/628x471.jpg" />
   </entry>
   <entry>
     <title>Details on PlayStation Vue, comparison with Sling TV</title>

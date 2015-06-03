@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gunmen in Egypt kill 2 police officers outside Giza Pyramids</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article22984440.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T19:57:07Z</updated>
+    <published>2015-06-03T19:57:07Z</published>
+    <summary type="html">&lt;p&gt;The gunmen opened fire on a police vehicle at the back of the Giza Pyramids plateau on a main highway that leads to southern Egypt, wounding the two tourism police officers, a security official said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T19:57:07Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Egypt conference to tell world Egypt is ready for investment</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/03/10/egypt-conference-to-tell-world-egypt-is-ready-for-investment" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-10T17:42:48Z</updated>
+    <published>2015-03-10T17:42:48Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this Feb. 11, 2015 file photo, young students walk to their homes during a sandstorm in 6 October city, a suburb southwest of Cairo, Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-03-10T17:42:48Z</dc:date>
+  </entry>
+  <entry>
     <title>Merkel tells Egypt's Sisi: death penalty is wrong but let's trade</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3109457/Merkel-tells-Egypts-Sisi-death-penalty-wrong-lets-trade.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -2935,17 +2958,6 @@
     <published>2015-03-13T14:58:03Z</published>
     <summary type="html">&lt;p&gt;SHARM EL-SHEIKH, Egypt (AP) - Secretary of State John Kerry delivered words of encouragement Friday for Egypt's efforts to attract greater foreign investment but no new military assistance as demanded by the country's president.&lt;/p&gt;&lt;p&gt;It must do one or other under the 2015 federal budget to unblock hundreds of millions of dollars in military aid for Egypt.&lt;/p&gt;</summary>
     <dc:date>2015-03-13T14:58:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt conference to tell world Egypt is ready for investment</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/03/10/egypt-conference-to-tell-world-egypt-is-ready-for-investment" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-10T17:42:48Z</updated>
-    <published>2015-03-10T17:42:48Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this Feb. 11, 2015 file photo, young students walk to their homes during a sandstorm in 6 October city, a suburb southwest of Cairo, Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-03-10T17:42:48Z</dc:date>
   </entry>
   <entry>
     <title>Egypt conference to tell world Egypt is ready for investment</title>

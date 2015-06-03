@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google founder defends accident records of self-driving cars</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/article/Google-founder-defends-accident-records-of-6304821.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T19:29:36Z</updated>
+    <published>2015-06-03T19:29:36Z</published>
+    <summary type="html">&lt;p&gt;(AP) - Google co-founder Sergey Brin says the Internet company isn't releasing the accident reports involving its self-driving cars to protect the privacy of the other motorists in the crashes.&lt;/p&gt;&lt;p&gt;Brin says the total number of accidents climbed to 12 within the past week when another of Google's self-driving cars was rear-ended at a traffic signal.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T19:29:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Three Google directors survive challenge over pay</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/us-business/three-google-directors-survive-challenge-over-pay/article24776773/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T18:35:00Z</updated>
+    <published>2015-06-03T18:35:00Z</published>
+    <summary type="html">&lt;p&gt;Three Google directors survive challenge over pay Add to...&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T18:35:00Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/89d/report-on-business/rob-commentary/executive-insight/article16517370.ece/ALTERNATES/w220/GOOGLE_.JPG" />
+  </entry>
+  <entry>
     <title>Yahoo to Live-Stream Oct. 25 NFL Game in London</title>
     <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/06/03/yahoo-to-live-stream-oct-25-nfl-game-in-london/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
     <author>
