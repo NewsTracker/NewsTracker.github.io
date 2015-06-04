@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Blackhawks D Keith plays 9 minutes in 1st period (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/latest-stanley-cup-southern-style-225409817--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T01:25:03Z</updated>
+    <published>2015-06-04T01:25:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T01:25:03Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Mariners get Trumbo from Diamondbacks in 6-player trade (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/seattle-gets-trumbo-arizona-part-6-player-swap-235619557--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T01:18:42Z</updated>
+    <published>2015-06-04T01:18:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T01:18:42Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/RtXVDwi0P3_MfwAEHwTZ.A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201505272115765498744" />
+  </entry>
+  <entry>
     <title>Yahoo Shutting Down China Office in Latest Cost-Cutting Move</title>
     <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/yahoo-closing-china-operation-beijing-29747049" />
     <author>

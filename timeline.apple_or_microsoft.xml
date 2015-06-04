@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The new Apple TV may feature a redesigned remote with a touchpad</title>
+    <link rel="alternate" href="http://www.foxnews.com/tech/2015/05/05/new-apple-tv-may-feature-redesigned-remote-with-touchpad/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T12:59:42Z</updated>
+    <published>2015-05-05T12:59:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-05T12:59:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft Results Show Company's Shift, but Is It Enough?</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/microsoft-results-show-companys-shift-30540823" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T23:13:44Z</updated>
+    <published>2015-04-23T23:13:44Z</published>
+    <summary type="html">&lt;p&gt;This Jan. 21, 2015 photo shows Microsoft CEO Satya Nadella speaking at an event demonstrating new features of its flagship operating system Windows at the company's headquarters in Redmond, Wash.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T23:13:44Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple TV box launch postponed: Report</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/06/03/22433656.html?cid=rsstechnologynews" />
     <author>

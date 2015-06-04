@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court sentences 11 to death over 2012 football riot</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3045585/Egypt-court-sentences-11-death-2012-football-riot.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T12:03:11Z</updated>
+    <published>2015-04-19T12:03:11Z</published>
+    <summary type="html">&lt;p&gt;The Port Said riots were the deadliest sport-related riots in Egypt, where football fans regularly clash against rival supporters or with security forces.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T12:03:11Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/19/article-doc-1t7s1-6Xu8ckmZEHSK2-66_634x438.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt to try another 379 Brotherhood members over sit-in violence</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3031179/Egypt-try-379-Brotherhood-members-sit-violence.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T23:02:02Z</updated>
+    <published>2015-04-08T23:02:02Z</published>
+    <summary type="html">&lt;p&gt;Egypt's government faces an Islamist insurgency based in that strategic region and growing discontent with what critics perceive as heavy handed security tactics.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T23:02:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt death sentences worry U.S., U.N., Turkey</title>
     <link rel="alternate" href="http://news.yahoo.com/middle-east-turmoil-egypts-mursi-executed-turkish-presidency-103631777.html" />
     <author>
