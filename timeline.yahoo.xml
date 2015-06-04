@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo Shutting Down China Office in Latest Cost-Cutting Move</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/yahoo-closing-china-operation-beijing-29747049" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T19:16:12Z</updated>
+    <published>2015-03-19T19:16:12Z</published>
+    <summary type="html">&lt;p&gt;Yahoo hired Mayer in July 2012 to engineer a turnaround, but so far she hasn't been able to boost the company's revenue even though advertisers have been shifting more of their spending to the Internet and mobile devices.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T19:16:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Yahoo lands rights to show NFL game on Internet this fall</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article22996737.html%23storylink=rss" />
     <author>
