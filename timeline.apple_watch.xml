@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_watch.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Watch: Soon available for sale in stores</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article23093628.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T18:10:06Z</updated>
+    <published>2015-06-04T18:10:06Z</published>
+    <summary type="html">&lt;p&gt;Soon you'll be able to buy an Apple Watch like you'd buy most other watches - in a store.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T18:10:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Apple Watch to hit retail stores on June 26</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/04/us-apple-watch-idUSKBN0OK1I920150604?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T17:01:41Z</updated>
+    <published>2015-06-04T17:01:41Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T17:01:41Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150604&amp;amp;t=2&amp;amp;i=1053690623&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB530N8" />
+  </entry>
+  <entry>
+    <title>Apple Watch to hit stores on June 26</title>
+    <link rel="alternate" href="http://technology.canoe.com/Mobile/News/2015/06/04/22435086.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T16:28:35Z</updated>
+    <published>2015-06-04T16:28:35Z</published>
+    <summary type="html">&lt;p&gt;"The response to Apple Watch has surpassed our expectations in every way," said Jeff Williams, senior vice president of operations.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T16:28:35Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/Mobile/News/2015/06/04/1297708408949.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Canadian man ticketed for using his Apple Watch while driving on highway</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3103406/Canadian-man-ticketed-using-Apple-Watch-driving-highway.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -455,7 +491,7 @@
     <dc:date>2015-04-15T14:41:44Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Watch could cost you £2,500 more in Britain</title>
+    <title>Apple Watch could cost you ?2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook rolls out new Android app for emerging markets</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/04/facebook-rolls-out-new-android-app-for-emerging-markets" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T19:05:58Z</updated>
+    <published>2015-06-04T19:05:58Z</published>
+    <summary type="html">&lt;p&gt;Facebook Lite is part of the world's largest social media network's expansion into emerging markets.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T19:05:58Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297708505496_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Regina woman, 18, accused of urging young boys to fight in Facebook video: Cops</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/04/regina-woman-18-accused-of-urging-young-boys-to-fight-in-facebook-video-cops" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T15:39:23Z</updated>
+    <published>2015-06-04T15:39:23Z</published>
+    <summary type="html">&lt;p&gt;An 18-year-old Regina woman has been charged with assault after she was allegedly heard off-camera urging two boys, ages seven and nine, to fight in a clip posted on Facebook last month, police say.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T15:39:23Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297708386082_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Facebook addiction linked to depression</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/04/us-mental-health-facebook-idUSKBN0OK01L20150604?feedType=RSS&amp;amp;feedName=healthNews" />
     <author>
@@ -1573,7 +1597,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Disgraced Blatter starts FIFA reform work</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-sport/disgraced-blatter-starts-fifa-reform-work-20150605-3x81m.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T19:47:11Z</updated>
+    <published>2015-06-04T19:47:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T19:47:11Z</dc:date>
+    <media:content url="http://images.smh.com.au/2015/06/04/6585679/1_Fifa_bg-92x52.jpg" />
+  </entry>
+  <entry>
+    <title>Disgraced FIFA president starts work on reforms amid crisis</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article23102988.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T19:15:05Z</updated>
+    <published>2015-06-04T19:15:05Z</published>
+    <summary type="html">&lt;p&gt;"Working hard on reforms after meeting Audit &amp; Compliance Committee Independent Chairman Scala," Blatter wrote, along with a link to a statement released by FIFA.&lt;/p&gt;&lt;p&gt;In his statement on Thursday, the first since calling for new elections to find a successor, Blatter said he met with FIFA audit panel chairman Domenico Scala "to establish a framework for action and a timetable" for his final months.&lt;/p&gt;&lt;p&gt;"I want a comprehensive program of reform and I am very aware that only the FIFA Congress can pass these reforms," Blatter said in the statement.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T19:15:05Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>FIFA: Blatter resignation won't lead many to quit</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/347875155d53465d95cec892aeb06419/Article_2015-06-04-SOC--FIFA-Other%20Resignations/id-d881695fdd1848beaedfc452d1b2aa67" />
     <author>
@@ -1454,7 +1478,7 @@
     <media:content url="http://news.bbcimg.co.uk/media/images/82180000/jpg/_82180435_baltter_hayatou.jpg" />
   </entry>
   <entry>
-    <title>All African nations say they’ll vote for FIFA’s Blatter</title>
+    <title>All African nations say they?ll vote for FIFA?s Blatter</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/All-African-nations-say-they-ll-vote-for-6185069.php" />
     <author>
       <name />

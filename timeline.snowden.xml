@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US secretly expanded warrantless NSA internet spying to find hackers, Snowden documents show</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/us-secretly-expanded-warrantless-nsa-internet-spying-to-find-hackers-snowden-documents-show-20150604-ghh5n6" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T17:08:37Z</updated>
+    <published>2015-06-04T17:08:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T17:08:37Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/9/u/a/f/image.related.articleLeadwide.620x349.ghh5n6.png/1433444878861.jpg" />
+  </entry>
+  <entry>
     <title>US: Don't let defense utter 'Snowden' to jurors</title>
     <link rel="alternate" href="http://news.yahoo.com/us-dont-let-defense-utter-snowden-jurors-232517437.html" />
     <author>
@@ -24,18 +36,6 @@
     <published>2015-06-03T23:25:13Z</published>
     <summary type="html">&lt;p&gt;CHICAGO - Prosecutors want a federal judge in a Chicago terrorism case to prohibit the defense from mentioning Edward Snowden at a 21-year-old suspect's upcoming trial.&lt;/p&gt;&lt;p&gt;Prosecutors worry the defense could seek to blurt out Snowden's name and related topics at Daoud's July trial.&lt;/p&gt;</summary>
     <dc:date>2015-06-03T23:25:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>In wake of Snowden leaks, NSA domestic spy program limits pass Congress</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/in-wake-of-snowden-leaks-nsa-domestic-spy-program-limits-pass-congress-20150603-ghfe11.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T21:14:10Z</updated>
-    <published>2015-06-02T21:14:10Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-02T21:14:10Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/m/f/k/1/o/image.related.articleLeadwide.620x349.ghfe11.png/1433301186730.jpg" />
   </entry>
   <entry>
     <title>Leaks were worth it, says snowden</title>
@@ -70,6 +70,18 @@
     <summary type="html">&lt;p&gt;OSLO: Former security contractor Edward Snowden won a Norwegian prize for freedom of expression Tuesday and received yet another invitation to leave his exile and receive the award in person.&lt;/p&gt;</summary>
     <dc:date>2015-06-02T23:14:56Z</dc:date>
     <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47521606,width-300,resizemode-4/snowden.jpg" />
+  </entry>
+  <entry>
+    <title>In wake of Snowden leaks, NSA domestic spy program limits pass Congress</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/in-wake-of-snowden-leaks-nsa-domestic-spy-program-limits-pass-congress-20150603-ghfe11.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T21:14:10Z</updated>
+    <published>2015-06-02T21:14:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-02T21:14:10Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/f/k/1/o/image.related.articleLeadwide.620x349.ghfe11.png/1433301186730.jpg" />
   </entry>
   <entry>
     <title>In wake of Snowden leaks, NSA domestic spy program limits pass Congress</title>

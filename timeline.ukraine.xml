@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Eastern Ukraine tense after outbreak of fighting</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-06-04-EU-Ukraine/id-0ffad5069a2146ecbab6f44e67609175" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T20:15:52Z</updated>
+    <published>2015-06-04T20:15:52Z</published>
+    <summary type="html">&lt;p&gt;A Russian-backed rebel smokes in a trench near Marinka in the suburbs of Donetsk, eastern Ukraine, Thursday, June 4, 2015.&lt;/p&gt;&lt;p&gt;Ukrainian soldiers from the 25th airborne brigade ride on an APC on the outskirts of Marinka, Donetsk region, eastern Ukraine, Thursday, June 4, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T20:15:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Eastern Ukraine Tense After Outbreak of Fighting</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/ukraines-president-warns-possibility-rebel-offensive-31518770" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T19:04:31Z</updated>
+    <published>2015-06-04T19:04:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T19:04:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine's Poroshenko warns of threat of 'full-scale invasion' from Russia</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/ukraine-s-poroshenko-warns-of-threat-of-full-scale-invasion-from-russia-1.3099761?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T10:10:16Z</updated>
+    <published>2015-06-04T10:10:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T10:10:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine's president warns of possibility of rebel offensive</title>
     <link rel="alternate" href="http://news.yahoo.com/ukraines-president-warns-possibility-rebel-offensive-094237557.html" />
     <author>
