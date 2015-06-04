@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cyclone Pam: Australia gives Vanuatu $5 million in aid</title>
+    <link rel="alternate" href="http://www.theage.com.au/environment/weather/cyclone-pam-australia-gives-vanuatu-5-million-in-aid-20150315-144f23.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T15:34:39Z</updated>
+    <published>2015-03-15T15:34:39Z</published>
+    <summary type="html">&lt;p&gt;Cyclone Pam left a trail of devastation across the Pacific island nation on Saturday, with 250 km/h winds levelling entire villages in the capital, Port Vila.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T15:34:39Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/4/4/c/w/3/image.related.articleLeadNarrow.300x0.144f23.png/1426433667339.jpg" />
+  </entry>
+  <entry>
     <title>Volcano erupts for third time in 8 days</title>
     <link rel="alternate" href="http://edition.cnn.com/2015/04/30/world/chile-calbuco-volcano/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+CNN+-+World%29" />
     <author>
