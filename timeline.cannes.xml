@@ -4,41 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cannes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>CANNES WATCH: Star-studded Calvin Klein event honors women</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article21357993.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-19T10:55:06Z</updated>
-    <published>2015-05-19T10:55:06Z</published>
-    <summary type="html">&lt;p&gt;"You'll have a hit movie that women are at the forefront of and people are like 'Oh, it's all changing.' And then I feel like it resorts back to what it was before ... But I do feel that things are changing," said Blunt, who stars in "Sicario," one of the 19 films competing this year for Cannes' top prize.&lt;/p&gt;&lt;p&gt;Also at the event was Miller's fellow Cannes jury member, actor Jake Gyllenhaal, French actress Isabelle Huppert, as well as models Natalia Vodianova and Doutzen Kroes.&lt;/p&gt;</summary>
-    <dc:date>2015-05-19T10:55:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Refugee drama 'Dheepan' named best film at Cannes</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article22142274.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-24T19:55:05Z</updated>
-    <published>2015-05-24T19:55:05Z</published>
-    <summary type="html">&lt;p&gt;Cannes' third prize, the jury prize, went to Greek director Yorgos Lanthimos for his offbeat social satire, "The Lobster."&lt;/p&gt;</summary>
-    <dc:date>2015-05-24T19:55:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Les femmes (and les blockbusters) are all the talk at Cannes</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article21285954.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-18T15:54:29Z</updated>
-    <published>2015-05-18T15:54:29Z</published>
-    <summary type="html">&lt;p&gt;This year's Cannes Film Festival is about halfway through, but one thing is already clear: This festival belongs to les femmes.&lt;/p&gt;&lt;p&gt;From the word go, this year's Cannes has been dominated by women and debate about gender equality in the movie industry.&lt;/p&gt;&lt;p&gt;Cannes, in its 68th festival, is in some ways an unlikely place for an explosion of attention to sexism.&lt;/p&gt;&lt;p&gt;Yearly topics regularly grip the festival, raging through the Cannes cacophony like wildfire.&lt;/p&gt;</summary>
-    <dc:date>2015-05-18T15:54:29Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
     <title>Fashion's greatest hits, misses on the Cannes red carpet</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article22177299.html%23storylink=rss" />
     <author>
@@ -154,6 +119,17 @@
     <summary type="html">&lt;p&gt;CANNES, France - The 68th Cannes Film Festival was brought to a surprising close Sunday with Jacques Audiard's Sri Lankan refugee film taking the festival's coveted top honor, the Palme d'Or.&lt;/p&gt;</summary>
     <dc:date>2015-05-24T22:45:09Z</dc:date>
     <media:content url="http://ww1.hdnux.com/photos/36/53/02/8040620/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Refugee drama 'Dheepan' named best film at Cannes</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article22142274.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-24T19:55:05Z</updated>
+    <published>2015-05-24T19:55:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-24T19:55:05Z</dc:date>
   </entry>
   <entry>
     <title>French film 'Dheepan' wins top Palme d'Or award in Cannes</title>
@@ -729,6 +705,18 @@
   </entry>
   <entry>
     <title>CANNES WATCH: Star-studded Calvin Klein event honors women</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article21357993.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T10:55:06Z</updated>
+    <published>2015-05-19T10:55:06Z</published>
+    <summary type="html">&lt;p&gt;"You'll have a hit movie that women are at the forefront of and people are like 'Oh, it's all changing.' And then I feel like it resorts back to what it was before ... But I do feel that things are changing," said Blunt, who stars in "Sicario," one of the 19 films competing this year for Cannes' top prize.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T10:55:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>CANNES WATCH: Star-studded Calvin Klein event honors women</title>
     <link rel="alternate" href="http://news.yahoo.com/cannes-watch-star-studded-calvin-klein-event-honors-100557710.html" />
     <author>
       <name />
@@ -863,6 +851,18 @@
     <published>2015-05-18T17:14:22Z</published>
     <summary type="html">&lt;p&gt;After a two-year hiatus, Pixar has made a sensational return to the Cannes Film Festival with "Inside Out," the kind of fresh take on animation that the studio built itself on.&lt;/p&gt;&lt;p&gt;"Inside Out" premiered Monday at Cannes and was among the most enthusiastically received films of the festival.&lt;/p&gt;&lt;p&gt;The reception to "Inside Out" was so good that some at Cannes wondered whether it should have been included in the festival's prestigious Palme d'Or competition.&lt;/p&gt;</summary>
     <dc:date>2015-05-18T17:14:22Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Les femmes (and les blockbusters) are all the talk at Cannes</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article21285954.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T15:54:29Z</updated>
+    <published>2015-05-18T15:54:29Z</published>
+    <summary type="html">&lt;p&gt;This year's Cannes Film Festival is about halfway through, but one thing is already clear: This festival belongs to les femmes.&lt;/p&gt;&lt;p&gt;From the word go, this year's Cannes has been dominated by women and debate about gender equality in the movie industry.&lt;/p&gt;&lt;p&gt;Cannes, in its 68th festival, is in some ways an unlikely place for an explosion of attention to sexism.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T15:54:29Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>

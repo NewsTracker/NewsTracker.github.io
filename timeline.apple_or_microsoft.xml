@@ -4,26 +4,49 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>The new Apple TV may feature a redesigned remote with a touchpad</title>
-    <link rel="alternate" href="http://www.foxnews.com/tech/2015/05/05/new-apple-tv-may-feature-redesigned-remote-with-touchpad/" />
+    <title>In Tech: Microsoft tries to win mobile friends</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/In-Tech-Microsoft-tries-to-win-mobile-friends-6305979.php" />
     <author>
       <name />
     </author>
-    <updated>2015-05-05T12:59:42Z</updated>
-    <published>2015-05-05T12:59:42Z</published>
-    <summary type="html" />
-    <dc:date>2015-05-05T12:59:42Z</dc:date>
+    <updated>2015-06-04T08:04:43Z</updated>
+    <published>2015-06-04T08:04:43Z</published>
+    <summary type="html">&lt;p&gt;That includes Android and iOS versions of Microsoft's Office programs, which the Redmond, Washington, company created in-house and released earlier this year.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T08:04:43Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/70/10/8094247/3/622x350.jpg" />
   </entry>
   <entry>
-    <title>Microsoft Results Show Company's Shift, but Is It Enough?</title>
-    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/microsoft-results-show-companys-shift-30540823" />
+    <title>In Tech: Microsoft tries to win mobile friends</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11460002&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-04-23T23:13:44Z</updated>
-    <published>2015-04-23T23:13:44Z</published>
-    <summary type="html">&lt;p&gt;This Jan. 21, 2015 photo shows Microsoft CEO Satya Nadella speaking at an event demonstrating new features of its flagship operating system Windows at the company's headquarters in Redmond, Wash.&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T23:13:44Z</dc:date>
+    <updated>2015-06-04T07:05:14Z</updated>
+    <published>2015-06-04T07:05:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T07:05:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>In Tech: Microsoft shoots for friends in the mobile world, Instagram boosts advertising</title>
+    <link rel="alternate" href="http://www.startribune.com/in-tech-microsoft-tries-to-win-mobile-friends/306094901/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T07:05:06Z</updated>
+    <published>2015-06-04T07:05:06Z</published>
+    <summary type="html">&lt;p&gt;But Microsoft is hoping you'll try Wunderlist, created by a German tech startup that Microsoft bought this week.&lt;/p&gt;&lt;p&gt;Then there's a mobile calendar called Sunrise, made by a company Microsoft bought in February.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T07:05:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>In Tech: Microsoft Tries to Win Mobile Friends</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/tech-microsoft-win-mobile-friends-31517762" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T07:02:13Z</updated>
+    <published>2015-06-04T07:02:13Z</published>
+    <summary type="html">&lt;p&gt;You could use Apple's Reminders or Google's Keep.&lt;/p&gt;&lt;p&gt;Microsoft's acquisition of German firm 6Wunderkinder this week for an undisclosed sum is part of its broader effort to win friends in the mobile world.&lt;/p&gt;&lt;p&gt;Microsoft Corp. also bought the startup behind an email app called Accompli, which - like Sunrise and Wunderlist - has won praise from tech reviewers for its clean design and useful features.&lt;/p&gt;&lt;p&gt;Microsoft has since rebranded the Accompli app as "Outlook" for mobile devices.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T07:02:13Z</dc:date>
   </entry>
   <entry>
     <title>Apple TV box launch postponed: Report</title>
@@ -131,74 +154,6 @@
     <dc:date>2015-06-03T14:29:23Z</dc:date>
   </entry>
   <entry>
-    <title>Microsoft Confirms Acquisition of Wunderlist App</title>
-    <link rel="alternate" href="http://www.wsj.com/articles/microsoft-confirms-acquisition-of-wunderlist-task-management-app-1433265119?mod=rss_Technology" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T18:06:33Z</updated>
-    <published>2015-06-02T18:06:33Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-02T18:06:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>Court questions Google on patent values in Microsoft case</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-microsoft-google-patents-idUSKBN0MZ23Y20150408?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T19:25:38Z</updated>
-    <published>2015-04-08T19:25:38Z</published>
-    <summary type="html">&lt;p&gt;The value of Google's patents can affect how it negotiates royalty rates with other tech companies, and firms including Apple Inc and Intel Corp filed court papers supporting Microsoft.&lt;/p&gt;&lt;p&gt;After the 2012 trial before U.S. District Judge James Robart, the judge said the appropriate royalty rate was about $1.8 million, slightly above Microsoft's estimate, but well below Motorola's demand for as much as $4 billion a year.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T19:25:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple CEO Tim Cook plans to give away most of his fortune</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/03/27/apple-ceo-tim-cook-joins-long-list-magnates-committing-to-donate-most-their-to/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-27T16:58:49Z</updated>
-    <published>2015-03-27T16:58:49Z</published>
-    <summary type="html">&lt;p&gt;Microsoft founder Bill Gates and Berkshire Hathaway CEO Warren Buffett are among dozens of wealthy people planning to give away their fortunes.&lt;/p&gt;</summary>
-    <dc:date>2015-03-27T16:58:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Week in Tech: Week in Tech: Laser eyes, Apple's home invasion, and a new era for Spotify</title>
-    <link rel="alternate" href="http://www.techradar.com/us/news/car-tech/week-in-tech-laser-eyes-apple-s-home-invasion-and-a-new-era-for-spotify-1294623?src=rss&amp;amp;attr=all" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-22T14:14:00Z</updated>
-    <published>2015-05-22T14:14:00Z</published>
-    <summary type="html">&lt;p&gt;Did Apple just leak the iPhone 6C?&lt;/p&gt;</summary>
-    <dc:date>2015-05-22T14:14:00Z</dc:date>
-    <media:content url="http://cdn0.mos.techradar.futurecdn.net//art/events/WWDC%202015%20close%20up-50-80.jpg" />
-  </entry>
-  <entry>
-    <title>Inked and irked: Apple Watch users report tattoo problems</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/01/inked-and-irked-apple-watch-users-report-tattoo-problems" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-01T19:27:30Z</updated>
-    <published>2015-05-01T19:27:30Z</published>
-    <summary type="html">&lt;p&gt;Apple, for its part, acknowledged the issue on its support website.&lt;/p&gt;&lt;p&gt;This isn't Apple's first "-gate" problem.&lt;/p&gt;</summary>
-    <dc:date>2015-05-01T19:27:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple Inc in talks to offer online TV service for iPhone, iPad and set-top box, report says</title>
-    <link rel="alternate" href="http://business.financialpost.com/2015/03/17/apple-inc-in-talks-to-offer-online-tv-service-for-iphone-ipad-and-set-top-box-report-says/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T11:55:51Z</updated>
-    <published>2015-03-17T11:55:51Z</published>
-    <summary type="html">&lt;p&gt;Apple and Comcast were in early-stage discussions last year to offer a streaming-television service that would allow Apple set-top boxes to bypass congestion on the web.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T11:55:51Z</dc:date>
-    <media:content url="http://wpmedia.business.financialpost.com/2015/03/apple-tv.jpg?w=620" />
-  </entry>
-  <entry>
     <title>Microsoft building 2 cloud data centres in Canada</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnology" />
     <author>
@@ -211,28 +166,16 @@
     <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
   </entry>
   <entry>
-    <title>Microsoft reportedly considering bid for Salesforce</title>
-    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-05T19:55:09Z</updated>
-    <published>2015-05-05T19:55:09Z</published>
-    <summary type="html">&lt;p&gt;Microsoft isn't in talks with Salesforce, and no deal is imminent, the people said.&lt;/p&gt;&lt;p&gt;Still, Redmond, Washington-based Microsoft has long expected it might compete for Salesforce if it was for sale, one of the people said.&lt;/p&gt;&lt;p&gt;Microsoft and Salesforce reached an agreement last year to make the companies' software work better together.&lt;/p&gt;</summary>
-    <dc:date>2015-05-05T19:55:09Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/0520/20140520_043710_0521salesforce2_300.jpg" />
-  </entry>
-  <entry>
     <title>Apple's Siri has new role in new 'smart' home systems</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Apple-s-Siri-has-new-role-in-new-smart-home-6301258.php" />
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article22853922.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-06-02T13:05:30Z</updated>
-    <published>2015-06-02T13:05:30Z</published>
+    <updated>2015-06-02T21:52:06Z</updated>
+    <published>2015-06-02T21:52:06Z</published>
     <summary type="html">&lt;p&gt;Instead, other companies have been working to make devices that meet Apple's criteria for compatibility and security.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T13:05:30Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/36/65/47/8083939/3/landscape_32.jpg" />
+    <dc:date>2015-06-02T21:52:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Apple's Siri has new role in new 'smart' home systems</title>
@@ -264,20 +207,9 @@
     </author>
     <updated>2015-06-01T20:49:35Z</updated>
     <published>2015-06-01T20:49:35Z</published>
-    <summary type="html">&lt;p&gt;The Journal notes that Apple hasn't finalized deals for its subscription service with the major record labels, so there is a chance that an announcement may be postponed until the ink on those deals is dry.&lt;/p&gt;&lt;p&gt;Beats Music is expected to be rolled into Apple's own service when it launches.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The Journal notes that Apple hasn't finalized deals for its subscription service with the major record labels, so there is a chance that an announcement may be postponed until the ink on those deals is dry.&lt;/p&gt;</summary>
     <dc:date>2015-06-01T20:49:35Z</dc:date>
     <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/Features/2015/06/01/1297707030881.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
-  </entry>
-  <entry>
-    <title>An apple a day might keep the pharmacist away: study</title>
-    <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T19:47:18Z</updated>
-    <published>2015-03-30T19:47:18Z</published>
-    <summary type="html">&lt;p&gt;An apple a day might not keep the doctor away, but it might help keep the pharmacist at bay, a new study suggests.&lt;/p&gt;&lt;p&gt;Apple eaters in the study had higher educational attainment, were more likely to be from a racial or ethnic minority, and were less likely to smoke.&lt;/p&gt;&lt;p&gt;Just 753 participants, or 9%, ate at least one small apple day.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T19:47:18Z</dc:date>
   </entry>
   <entry>
     <title>Apple's streaming music service may come next week</title>
@@ -323,7 +255,7 @@
     </author>
     <updated>2015-06-01T10:38:21Z</updated>
     <published>2015-06-01T10:38:21Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;The operating system is intended to give apps a similar feel on all devices and comes with a new Web browser integrated with Cortana, the company's voice-activated answer to Apple's Siri.&lt;/p&gt;</summary>
     <dc:date>2015-06-01T10:38:21Z</dc:date>
   </entry>
   <entry>
@@ -334,7 +266,7 @@
     </author>
     <updated>2015-06-01T10:38:21Z</updated>
     <published>2015-06-01T10:38:21Z</published>
-    <summary type="html">&lt;p&gt;The operating system is intended to give apps a similar feel on all devices and comes with a new Web browser integrated with Cortana, the company's voice-activated answer to Apple's Siri.&lt;/p&gt;&lt;p&gt;Microsoft Corp. says Windows 10 will be available in 190 countries as a free upgrade on July 29 for anyone currently running Windows 8.1 or 7, the two previous versions of the software.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Microsoft Corp. says Windows 10 will be available in 190 countries as a free upgrade on July 29 for anyone currently running Windows 8.1 or 7, the two previous versions of the software.&lt;/p&gt;</summary>
     <dc:date>2015-06-01T10:38:21Z</dc:date>
   </entry>
   <entry>
@@ -1076,6 +1008,18 @@
     <media:content url="http://wpmedia.business.financialpost.com/2010/06/marc-benioff1.jpg?w=620" />
   </entry>
   <entry>
+    <title>Microsoft reportedly considering bid for Salesforce</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T19:55:09Z</updated>
+    <published>2015-05-05T19:55:09Z</published>
+    <summary type="html">&lt;p&gt;Microsoft isn't in talks with Salesforce, and no deal is imminent, the people said.&lt;/p&gt;&lt;p&gt;Still, Redmond, Washington-based Microsoft has long expected it might compete for Salesforce if it was for sale, one of the people said.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T19:55:09Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/0520/20140520_043710_0521salesforce2_300.jpg" />
+  </entry>
+  <entry>
     <title>Salesforce shares spike on report of Microsoft evaluating bid</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/salesforce-shares-spike-report-microsoft-195400225.html" />
     <author>
@@ -1143,6 +1087,17 @@
     <published>2015-05-01T20:28:36Z</published>
     <summary type="html">&lt;p&gt;He has a black tattoo on the inside of his wrist - but not the side where he has worn the Apple Watch.&lt;/p&gt;</summary>
     <dc:date>2015-05-01T20:28:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Inked and irked: Apple Watch users report tattoo problems</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/01/inked-and-irked-apple-watch-users-report-tattoo-problems" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T19:27:30Z</updated>
+    <published>2015-05-01T19:27:30Z</published>
+    <summary type="html">&lt;p&gt;Apple, for its part, acknowledged the issue on its support website.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T19:27:30Z</dc:date>
   </entry>
   <entry>
     <title>Inked and irked: Apple Watch users report tattoo problems</title>
@@ -2293,7 +2248,7 @@
     <dc:date>2015-04-15T14:41:44Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Watch could cost you ?2,500 more in Britain</title>
+    <title>Apple Watch could cost you £2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2773,6 +2728,17 @@
     <dc:date>2015-04-08T21:04:48Z</dc:date>
   </entry>
   <entry>
+    <title>Court questions Google on patent values in Microsoft case</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/08/us-microsoft-google-patents-idUSKBN0MZ23Y20150408?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T19:25:38Z</updated>
+    <published>2015-04-08T19:25:38Z</published>
+    <summary type="html">&lt;p&gt;The value of Google's patents can affect how it negotiates royalty rates with other tech companies, and firms including Apple Inc and Intel Corp filed court papers supporting Microsoft.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T19:25:38Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple Watch stylish but not for everyone, reviewers say</title>
     <link rel="alternate" href="http://technology.canoe.ca/Mobile/Features/2015/04/08/22333561.html?cid=rsstechnology" />
     <author>
@@ -2809,7 +2775,7 @@
     <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150408&amp;amp;t=2&amp;amp;i=1038840669&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB370KG" />
   </entry>
   <entry>
-    <title>Apple Watch review: You?ll want one, but you don?t need one</title>
+    <title>Apple Watch review: You’ll want one, but you don’t need one</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-watch-review-youll-want-one-but-you-dont-need-one" />
     <author>
       <name />
@@ -3156,6 +3122,17 @@
     <published>2015-03-31T12:00:00Z</published>
     <summary type="html">&lt;p&gt;"Apple is open. Open to everyone, regardless of where they come from, what they look like, how they worship or who they love," he said.&lt;/p&gt;</summary>
     <dc:date>2015-03-31T12:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>An apple a day might keep the pharmacist away: study</title>
+    <link rel="alternate" href="http://www.nydailynews.com/life-style/health/apple-day-pharmacist-study-article-1.2167423" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T19:47:18Z</updated>
+    <published>2015-03-30T19:47:18Z</published>
+    <summary type="html">&lt;p&gt;An apple a day might not keep the doctor away, but it might help keep the pharmacist at bay, a new study suggests.&lt;/p&gt;&lt;p&gt;Apple eaters in the study had higher educational attainment, were more likely to be from a racial or ethnic minority, and were less likely to smoke.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T19:47:18Z</dc:date>
   </entry>
   <entry>
     <title>An apple a day may not keep the doctor away, study says</title>

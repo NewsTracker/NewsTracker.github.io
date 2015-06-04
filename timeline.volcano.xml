@@ -4,29 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Scientists watching Hawaii's Kilauea Volcano for new eruption</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/18/us-usa-hawaii-volcano-idUSKBN0O326920150518?feedType=RSS&amp;amp;feedName=environmentNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-18T21:09:01Z</updated>
-    <published>2015-05-18T21:09:01Z</published>
-    <summary type="html">&lt;p&gt;Scientists are closely watching a volcano on Hawaii's Big Island for a possible eruption after volatile changes in the level of a lake of lava on its summit and a series of earthquakes, the U.S. Geological Survey said on Monday.&lt;/p&gt;&lt;p&gt;An eruption in the Southwest Rift Zone would not pose a risk to people because that side of the volcano is not inhabited.&lt;/p&gt;&lt;p&gt;Seismic activity around the Kilauea Volcano had slowed but remained elevated and the lake of lava had sunk over the past several days, observatory said.&lt;/p&gt;</summary>
-    <dc:date>2015-05-18T21:09:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Volcano erupts for third time in 8 days</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/04/30/world/chile-calbuco-volcano/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+CNN+-+World%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-01T01:25:47Z</updated>
-    <published>2015-05-01T01:25:47Z</published>
-    <summary type="html">&lt;p&gt;The volcano has not erupted since 1961.&lt;/p&gt;</summary>
-    <dc:date>2015-05-01T01:25:47Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/04/30/world/chile-calbuco-volcano/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
     <title>Indonesia Raises Alert Status of Volcano to Highest Level</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/indonesia-raises-alert-status-volcano-highest-level-31490358" />
     <author>
@@ -36,17 +13,6 @@
     <published>2015-06-03T13:39:39Z</published>
     <summary type="html">&lt;p&gt;The volcano had been dormant for four centuries before springing to life in August 2010, killing two people and forcing 30,000 to flee.&lt;/p&gt;</summary>
     <dc:date>2015-06-03T13:39:39Z</dc:date>
-  </entry>
-  <entry>
-    <title>Thousands flee after volcano erupts in Chile</title>
-    <link rel="alternate" href="http://nypost.com/2015/03/03/thousands-flee-after-volcano-erupts-in-chile/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-03T14:59:10Z</updated>
-    <published>2015-03-03T14:59:10Z</published>
-    <summary type="html">&lt;p&gt;Chilean authorities had issued an orange alert Monday because of increased activity at the volcano.&lt;/p&gt;</summary>
-    <dc:date>2015-03-03T14:59:10Z</dc:date>
   </entry>
   <entry>
     <title>Indonesia raises alert status of volcano to highest level</title>
@@ -262,6 +228,17 @@
     <published>2015-05-25T16:32:41Z</published>
     <summary type="html">&lt;p&gt;QUITO A volcano perched atop one of Ecuador's Galapagos islands erupted in the early hours of Monday, the National Park said, potentially threatening a unique species of pink iguanas.&lt;/p&gt;&lt;p&gt;"The Wolf volcano is not located near a populated area. There is not risk for the human population. This is the only population of pink iguanas in the world," The Galapagos National Park said on Twitter.&lt;/p&gt;&lt;p&gt;In April, unusual activity was also reported at the Sierra volcano on the same Isabela island, the archipelago's biggest, where yellow iguanas and giant turtles also live.&lt;/p&gt;</summary>
     <dc:date>2015-05-25T16:32:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Scientists watching Hawaii's Kilauea Volcano for new eruption</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/18/us-usa-hawaii-volcano-idUSKBN0O326920150518?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T21:09:01Z</updated>
+    <published>2015-05-18T21:09:01Z</published>
+    <summary type="html">&lt;p&gt;Scientists are closely watching a volcano on Hawaii's Big Island for a possible eruption after volatile changes in the level of a lake of lava on its summit and a series of earthquakes, the U.S. Geological Survey said on Monday.&lt;/p&gt;&lt;p&gt;An eruption in the Southwest Rift Zone would not pose a risk to people because that side of the volcano is not inhabited.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T21:09:01Z</dc:date>
   </entry>
   <entry>
     <title>Earthquakes on Hawaii volcano could signal new eruption</title>

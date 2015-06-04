@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>After Ebola, world still unprepared for global pandemic: MSF</title>
+    <link rel="alternate" href="http://news.yahoo.com/ebola-world-still-unprepared-global-pandemic-msf-075251040.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T07:52:51Z</updated>
+    <published>2015-06-04T07:52:51Z</published>
+    <summary type="html">&lt;p&gt;Late and slow international response, the absence of solid leadership as well as the lack of treatments and vaccines are a recurrent scenario in many of today's health emergencies and are not unique to the Ebola epidemic, the medical charity said.&lt;/p&gt;&lt;p&gt;While Liberia was recently declared Ebola-free, a spike in new cases in Guinea has stoked concerns the virus could spread again.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T07:52:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Ban Ki-moon urges final push on Ebola</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/03/ban-ki-moon-urges-final-push-ebola" />
     <author>
@@ -22,8 +33,19 @@
     </author>
     <updated>2015-06-02T23:51:00Z</updated>
     <published>2015-06-02T23:51:00Z</published>
-    <summary type="html">&lt;p&gt;Liberia, once the worst affected country, is now Ebola free, but Ban warned that in Sierra Leone and Guinea "the battle has not yet been won" and "any lapse in vigilance could allow the virus to spread."&lt;/p&gt;&lt;p&gt;Ban said he will convene an International Ebola Recovery Conference in New York on July 10 to mobilize resources to start early recovery in Liberia, Sierra Leone and Guinea.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Liberia, once the worst affected country, is now Ebola free, but Ban warned that in Sierra Leone and Guinea "the battle has not yet been won" and "any lapse in vigilance could allow the virus to spread."&lt;/p&gt;&lt;p&gt;"We must also translate lessons learned from this Ebola outbreak into stronger national and international systems to prevent and respond to health crises," he said.&lt;/p&gt;</summary>
     <dc:date>2015-06-02T23:51:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>UN chief urges every nation to help end Ebola in West Africa, saying 1 case puts all at risk</title>
+    <link rel="alternate" href="http://www.startribune.com/un-chief-urges-all-nations-to-help-end-ebola-in-west-africa/305907111/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:15:21Z</updated>
+    <published>2015-06-02T23:15:21Z</published>
+    <summary type="html">&lt;p&gt;Ban said he will convene an International Ebola Recovery Conference in New York on July 10 to mobilize resources to start early recovery in Liberia, Sierra Leone and Guinea.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:15:21Z</dc:date>
   </entry>
   <entry>
     <title>Ebola threat to Guinea Bissau rises as border zone heats up</title>

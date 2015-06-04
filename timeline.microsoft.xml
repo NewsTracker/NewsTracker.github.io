@@ -4,48 +4,37 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=businessNews" />
+    <title>In Tech: Microsoft tries to win mobile friends</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11460002&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-05-22T18:46:15Z</updated>
-    <published>2015-05-22T18:46:15Z</published>
-    <summary type="html">&lt;p&gt;Microsoft Corp (MSFT.O) and Salesforce.com Inc (CRM.N) held "significant talks" this spring but failed to agree on a price, CNBC reported, citing people familiar with the matter.&lt;/p&gt;&lt;p&gt;Microsoft was willing to offer about $55 billion for the world's biggest maker of online sales software.&lt;/p&gt;</summary>
-    <dc:date>2015-05-22T18:46:15Z</dc:date>
+    <updated>2015-06-04T07:05:14Z</updated>
+    <published>2015-06-04T07:05:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T07:05:14Z</dc:date>
   </entry>
   <entry>
-    <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <title>In Tech: Microsoft shoots for friends in the mobile world, Instagram boosts advertising</title>
+    <link rel="alternate" href="http://www.startribune.com/in-tech-microsoft-tries-to-win-mobile-friends/306094901/" />
     <author>
       <name />
     </author>
-    <updated>2015-05-22T18:46:15Z</updated>
-    <published>2015-05-22T18:46:15Z</published>
-    <summary type="html">&lt;p&gt;Microsoft shares were down 1 percent at $46.93 on the Nasdaq.&lt;/p&gt;</summary>
-    <dc:date>2015-05-22T18:46:15Z</dc:date>
+    <updated>2015-06-04T07:05:06Z</updated>
+    <published>2015-06-04T07:05:06Z</published>
+    <summary type="html">&lt;p&gt;But Microsoft is hoping you'll try Wunderlist, created by a German tech startup that Microsoft bought this week.&lt;/p&gt;&lt;p&gt;Then there's a mobile calendar called Sunrise, made by a company Microsoft bought in February.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T07:05:06Z</dc:date>
   </entry>
   <entry>
-    <title>Microsoft opens door to Android, Apple phone apps</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/us-microsoft-windows-idUSKBN0NK1UZ20150430?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <title>In Tech: Microsoft Tries to Win Mobile Friends</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/tech-microsoft-win-mobile-friends-31517762" />
     <author>
       <name />
     </author>
-    <updated>2015-04-30T04:30:33Z</updated>
-    <published>2015-04-30T04:30:33Z</published>
-    <summary type="html">&lt;p&gt;Its new browser will arrive as Microsoft Edge, replacing the waning Internet Explorer, when Windows 10 is released, the company said.&lt;/p&gt;&lt;p&gt;The apps would automatically use Microsoft's services such as Bing maps, rather than Google's services, as an app would on an Android phone.&lt;/p&gt;</summary>
-    <dc:date>2015-04-30T04:30:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>Microsoft buys German start-up behind Wunderlist app</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3107118/Microsoft-buy-German-start-Wunderlist-app-report.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-03T01:06:44Z</updated>
-    <published>2015-06-03T01:06:44Z</published>
-    <summary type="html">&lt;p&gt;Microsoft on Tuesday said that it has bought 6Wunderkinder GmbH, a Berlin-based startup behind the Wunderlist to-do list app.&lt;/p&gt;</summary>
-    <dc:date>2015-06-03T01:06:44Z</dc:date>
+    <updated>2015-06-04T07:02:13Z</updated>
+    <published>2015-06-04T07:02:13Z</published>
+    <summary type="html">&lt;p&gt;Microsoft's acquisition of German firm 6Wunderkinder this week for an undisclosed sum is part of its broader effort to win friends in the mobile world.&lt;/p&gt;&lt;p&gt;Microsoft Corp. also bought the startup behind an email app called Accompli, which - like Sunrise and Wunderlist - has won praise from tech reviewers for its clean design and useful features.&lt;/p&gt;&lt;p&gt;Microsoft has since rebranded the Accompli app as "Outlook" for mobile devices.&lt;/p&gt;&lt;p&gt;The expansion is being financed by Google Inc. and other prominent investors, including Microsoft co-founder Paul Allen, who have poured $592 million into Magic Leap so far.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T07:02:13Z</dc:date>
   </entry>
   <entry>
     <title>Microsoft building 2 cloud data centres in Canada</title>
@@ -70,18 +59,6 @@
     <summary type="html">&lt;p&gt;TORONTO - The Microsoft Cloud is coming to Canada.&lt;/p&gt;&lt;p&gt;Microsoft announced Tuesday that it will build two "Cloud" data centres - one in Toronto and one in Quebec City - next year.&lt;/p&gt;&lt;p&gt;The data centres will be the physical home to the technology that powers Microsoft's cloud services for businesses.&lt;/p&gt;&lt;p&gt;Why does Microsoft want to locate the cloud in Canada?&lt;/p&gt;</summary>
     <dc:date>2015-06-02T23:36:11Z</dc:date>
     <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
-  </entry>
-  <entry>
-    <title>Microsoft reportedly considering bid for Salesforce</title>
-    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28053191/microsoft-reportedly-considering-bid-salesforce?source=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-05T21:43:27Z</updated>
-    <published>2015-05-05T21:43:27Z</published>
-    <summary type="html" />
-    <dc:date>2015-05-05T21:43:27Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/0520/20140520_043710_0521salesforce2_300.jpg" />
   </entry>
   <entry>
     <title>Windows 10 available July 29: Microsoft</title>
@@ -116,6 +93,17 @@
     <published>2015-06-01T10:38:21Z</published>
     <summary type="html">&lt;p&gt;Microsoft Corp. says Windows 10 will be available in 190 countries as a free upgrade on July 29 for anyone currently running Windows 8.1 or 7, the two previous versions of the software.&lt;/p&gt;</summary>
     <dc:date>2015-06-01T10:38:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/22/us-salesforce-com-m-a-microsoft-idUSKBN0O722520150522?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T18:46:15Z</updated>
+    <published>2015-05-22T18:46:15Z</published>
+    <summary type="html">&lt;p&gt;Microsoft Corp (MSFT.O) and Salesforce.com Inc (CRM.N) held "significant talks" this spring but failed to agree on a price, CNBC reported, citing people familiar with the matter.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T18:46:15Z</dc:date>
   </entry>
   <entry>
     <title>Microsoft, Salesforce talks fell through on pricing: CNBC</title>

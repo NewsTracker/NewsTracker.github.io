@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>NewsTracker: european games</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.european_games.xml" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Dutch plan nationwide bid for 2019 European Games</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/29/us-games-netherlands-idUSKBN0NK0TX20150429?feedType=RSS&amp;amp;feedName=sportsNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T09:12:49Z</updated>
+    <published>2015-04-29T09:12:49Z</published>
+    <summary type="html">&lt;p&gt;BERLIN (Reuters) - The Netherlands will launch a bid to host the second edition of the European Games in 2019, planning a financially low-risk nationwide concept for the continental competition.&lt;/p&gt;&lt;p&gt;The inaugural European Games is being held in Baku, Azerbaijan in June and will be the first continental multi-sports event for the region's senior athletes.&lt;/p&gt;&lt;p&gt;"The organization of the European Games in 2019 is a special opportunity for the Netherlands," the Dutch Olympic committee said in a statement after their general assembly on Tuesday.&lt;/p&gt;&lt;p&gt;There is no other official candidate for the 2019 edition with the European Olympic Committees (EOC), in charge of the Games, saying a decision on the host city would be made later this year.&lt;/p&gt;&lt;p&gt;The European Games will also have competition from the European Sports championships to be launched in 2018.&lt;/p&gt;</summary>
+    <dc:date>2015-04-29T09:12:49Z</dc:date>
+  </entry>
+  <entry>
+    <title>European Games not under threat from new championships - Clegg</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/24/european-games-not-under-threat-new-championships-clegg" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T16:02:43Z</updated>
+    <published>2015-04-23T16:02:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-23T16:02:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>Games-European Games not under threat from new championships-Clegg</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3052482/Games-European-Games-not-threat-new-championships-Clegg.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T16:01:59Z</updated>
+    <published>2015-04-23T16:01:59Z</published>
+    <summary type="html">&lt;p&gt;"I do not feel any additional pressure because of that decision," Clegg told a small group of reporters when asked whether the European Games were set to battle it out with the new event over the same market.&lt;/p&gt;&lt;p&gt;They are backed by the European arms of the federations, so these sports are opting for a low-key presence at the Baku Games.&lt;/p&gt;&lt;p&gt;Baku, awarded the Games less than three years ago, has been racing to complete preparations as the European Olympic Committees (EOC) attempt to establish their event as the continent's answer to other regional Games like the Asian or Pan American Games.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T16:01:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Rights groups criticize Azerbaijan ahead of European Games</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11411951&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T13:30:05Z</updated>
+    <published>2015-03-04T13:30:05Z</published>
+    <summary type="html">&lt;p&gt;"The Baku 2015 European Games Operations Committee is a sports organization preparing a sporting event, so it would not be appropriate for us to comment on what is clearly a political issue," it said in a statement to The Associated Press.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T13:30:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Human rights groups cite abuses in Azerbaijan with 100 days to go to European Games</title>
+    <link rel="alternate" href="http://www.startribune.com/world/294982631.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T13:05:08Z</updated>
+    <published>2015-03-04T13:05:08Z</published>
+    <summary type="html">&lt;p&gt;GENEVA - With the opening of the inaugural European Games in Baku 100 days away, human rights groups on Wednesday called on host nation Azerbaijan to release political prisoners held on "trumped up" charges.&lt;/p&gt;&lt;p&gt;The European Games run June 12-28, and are widely seen as trying to soften the authoritarian image of Azerbaijan under President Ilham Aliyev.&lt;/p&gt;&lt;p&gt;The European Games is among a series of sports projects in Azerbaijan.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T13:05:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>European Games to be show in US by Universal Sports</title>
+    <link rel="alternate" href="http://news.yahoo.com/european-games-show-us-universal-sports-170820151.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-20T17:08:20Z</updated>
+    <published>2015-02-20T17:08:20Z</published>
+    <summary type="html">&lt;p&gt;BAKU, Azerbaijan (AP) - Organizers of the inaugural European Games in Baku have reached an agreement with Universal Sports Network for the event to be broadcast in the United States.&lt;/p&gt;</summary>
+    <dc:date>2015-02-20T17:08:20Z</dc:date>
+  </entry>
+</feed>

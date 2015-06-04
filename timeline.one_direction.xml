@@ -4,17 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.one_direction.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>More people moving from Australia to New Zealand than in the other direction for first time in 24 years</title>
-    <link rel="alternate" href="http://www.independent.co.uk/news/world/australasia/more-people-moving-from-australia-to-new-zealand-than-in-the-other-direction-for-first-time-in-24-years-10268060.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-21T23:46:00Z</updated>
-    <published>2015-05-21T23:46:00Z</published>
-    <summary type="html">&lt;p&gt;Last month, for the first time in 24 years, more people headed east across the Tasman Sea than in the opposite direction.&lt;/p&gt;&lt;p&gt;In April, according to new government figures, 100 more people crossed The Ditch - as the Tasman Sea is known colloquially - in an easterly direction than those going west.&lt;/p&gt;</summary>
-    <dc:date>2015-05-21T23:46:00Z</dc:date>
-  </entry>
-  <entry>
     <title>Is this why Zayn Malik quit One Direction?</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&amp;amp;objectid=11454288&amp;amp;ref=rss" />
     <author>
@@ -36,6 +25,17 @@
     <published>2015-05-23T15:02:54Z</published>
     <summary type="html" />
     <dc:date>2015-05-23T15:02:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>More people moving from Australia to New Zealand than in the other direction for first time in 24 years</title>
+    <link rel="alternate" href="http://www.independent.co.uk/news/world/australasia/more-people-moving-from-australia-to-new-zealand-than-in-the-other-direction-for-first-time-in-24-years-10268060.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T23:46:00Z</updated>
+    <published>2015-05-21T23:46:00Z</published>
+    <summary type="html">&lt;p&gt;Last month, for the first time in 24 years, more people headed east across the Tasman Sea than in the opposite direction.&lt;/p&gt;&lt;p&gt;In April, according to new government figures, 100 more people crossed The Ditch - as the Tasman Sea is known colloquially - in an easterly direction than those going west.&lt;/p&gt;</summary>
+    <dc:date>2015-05-21T23:46:00Z</dc:date>
   </entry>
   <entry>
     <title>Twitter founder feeling 'Super' as he heads in new direction</title>
@@ -278,7 +278,7 @@
     <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://jam.canoe.ca/Jam/Music/2015/03/25/zayn650.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
   </entry>
   <entry>
-    <title>Zayn Malik Quits Boy Band One Direction: ?I Want to Be a Normal 22 Year Old?</title>
+    <title>Zayn Malik Quits Boy Band One Direction: ‘I Want to Be a Normal 22 Year Old’</title>
     <link rel="alternate" href="http://www.startribune.com/entertainment/music/297542041.html" />
     <author>
       <name />

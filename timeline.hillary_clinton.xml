@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chafee fills out field of Hillary Clinton's challengers</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article23070321.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T07:26:42Z</updated>
+    <published>2015-06-04T07:26:42Z</published>
+    <summary type="html">&lt;p&gt;There's still eight months to go before the first votes of 2016 take place in the Iowa caucuses, enough time for a challenger to rise and pose a threat to Hillary Rodham Clinton's place as the front-runner for the Democratic Party's presidential nomination.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T07:26:42Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Chafee fills out field of Democrats seeking to challenge Clinton's place as 2016 front-runner</title>
+    <link rel="alternate" href="http://www.startribune.com/chafee-fills-out-field-of-hillary-clinton-s-challengers/306095601/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T07:25:31Z</updated>
+    <published>2015-06-04T07:25:31Z</published>
+    <summary type="html">&lt;p&gt;The 52-year-old O'Malley casts himself as the face of the party's next generation, a not-so-subtle contrast to Bill and Hillary Clinton's longtime roles in the party.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T07:25:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Chafee fills out field of Hillary Clinton's challengers</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Chafee-fills-out-field-of-Hillary-Clinton-s-6306043.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T07:19:01Z</updated>
+    <published>2015-06-04T07:19:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T07:19:01Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/70/07/8094196/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Clinton wants voting rights overhaul, more early voting</title>
     <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/06/03/clinton-wants-voting-rights-overhaul-more-early-voting" />
     <author>
@@ -35,29 +70,6 @@
     <published>2015-06-03T16:57:08Z</published>
     <summary type="html">&lt;p&gt;Hillary Rodham Clinton will discuss Latino issues at a national conference this month in Las Vegas.&lt;/p&gt;</summary>
     <dc:date>2015-06-03T16:57:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>At NH summit, GOP 2016 hopefuls take turns attacking Clinton ahead of her arrival - GOP hopefuls try to woo voters with policy, humor</title>
-    <link rel="alternate" href="http://www.foxnews.com/politics/2015/04/19/at-new-hampshire-summit-big-gop-field-takes-turns-attacking-clinton-ahead-her/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-19T13:38:52Z</updated>
-    <published>2015-04-19T13:38:52Z</published>
-    <summary type="html">&lt;p&gt;I?m sorry, this is Hillary Clinton?s speech, not my speech,?&lt;/p&gt;</summary>
-    <dc:date>2015-04-19T13:38:52Z</dc:date>
-  </entry>
-  <entry>
-    <title>Archives show Hillary Clinton OK'd tax breaks for nonprofits</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/article/Archives-show-Hillary-Clinton-OK-d-tax-breaks-for-6280283.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-22T18:13:45Z</updated>
-    <published>2015-05-22T18:13:45Z</published>
-    <summary type="html" />
-    <dc:date>2015-05-22T18:13:45Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/36/47/60/8027159/3/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Clinton plans first major campaign speech in New York City</title>
@@ -894,7 +906,7 @@
     <dc:date>2015-04-17T00:01:19Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton faces a challenge in voters? trust</title>
+    <title>Hillary Clinton faces a challenge in voters’ trust</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article18703005.html%23storylink=rss" />
     <author>
       <name />
@@ -1784,7 +1796,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Hillary Clinton?s campaign signs lease for Brooklyn Heights</title>
+    <title>Hillary Clinton’s campaign signs lease for Brooklyn Heights</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-campaign-signs-lease-brooklyn-heights-article-1.2172344?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>
       <name />
