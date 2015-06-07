@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Germanwings plane evacuated after bomb scare</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3036193/Germanwings-plane-evacuated-bomb-scare.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T23:01:32Z</updated>
+    <published>2015-04-12T23:01:32Z</published>
+    <summary type="html">&lt;p&gt;An examination of the baggage and the aircraft itself yielded no results, Germanwings said in a separate statement later on Sunday evening.&lt;/p&gt;&lt;p&gt;Germanwings said passengers would be able to fly to Milan on a different aircraft on Sunday night while the searched plane has been cleared for air traffic.&lt;/p&gt;&lt;p&gt;Lufthansa has faced questions about its pilot screening process since the March 24 Germanwings crash which appears to have been caused by a co-pilot who suffered from depression and deliberately steered the plane into a mountain.&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T23:01:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>Germanwings plane crash: victims' remains airlifted from remote Alps site</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/germanwings-plane-crash-victims-remains-airlifted-from-remote-alps-site-20150326-1m81j8.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T01:43:19Z</updated>
+    <published>2015-03-26T01:43:19Z</published>
+    <summary type="html">&lt;p&gt;Seyne-les-Alpes: Helicopters have begun airlifting the remains of the victims of the Germanwings plane crash from the disaster site in the French Alps.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T01:43:19Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/m/8/2/f/a/image.related.articleLeadwide.620x349.1m81j8.png/1427334110793.jpg" />
+  </entry>
+  <entry>
     <title>Return of Germanwings victims' remains delayed</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/06/04/relatives-germanwings-victims-angered-by-delay-in-return-remains/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
@@ -281,17 +304,6 @@
     <published>2015-04-15T17:23:38Z</published>
     <summary type="html" />
     <dc:date>2015-04-15T17:23:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Germanwings plane evacuated after bomb scare</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3036193/Germanwings-plane-evacuated-bomb-scare.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T23:01:32Z</updated>
-    <published>2015-04-12T23:01:32Z</published>
-    <summary type="html">&lt;p&gt;An examination of the baggage and the aircraft itself yielded no results, Germanwings said in a separate statement later on Sunday evening.&lt;/p&gt;&lt;p&gt;Germanwings said passengers would be able to fly to Milan on a different aircraft on Sunday night while the searched plane has been cleared for air traffic.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T23:01:32Z</dc:date>
   </entry>
   <entry>
     <title>Germanwings plane evacuated after bomb scare</title>

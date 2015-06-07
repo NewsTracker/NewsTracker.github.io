@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple wants a lead role in streaming music</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article23334498.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T18:30:05Z</updated>
+    <published>2015-06-07T18:30:05Z</published>
+    <summary type="html">&lt;p&gt;Apple is expected to announce its new paid streaming-music service at its annual conference for software developers, which kicks off Monday, June 8, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T18:30:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Apple wants a lead role in streaming music</title>
+    <link rel="alternate" href="http://news.yahoo.com/apple-wants-lead-role-streaming-music-160134522.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T17:48:03Z</updated>
+    <published>2015-06-07T17:48:03Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Apple's iTunes helped change the way music-lovers bought their favorite songs, replacing plastic discs with digital downloads.&lt;/p&gt;&lt;p&gt;In a keynote session, CEO Tim Cook and other executives are also expected to show off new features in Apple's operating software for iPhones, iPads and Macintosh computers, as well as tools for building new apps for the Apple Watch.&lt;/p&gt;&lt;p&gt;But Apple uses its annual World Wide Developers Conference to highlight the software, online services and apps that make those devices indispensable to consumers around the world.&lt;/p&gt;&lt;p&gt;That puts the spotlight on Apple's music initiative.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T17:48:03Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/hO4zQ2G05gb9DkJdoBQ0FA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/2ff7ff2b7112b919780f6a7067008d16.jpg" />
+  </entry>
+  <entry>
+    <title>Microsoft Results Show Company's Shift, but Is It Enough?</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/microsoft-results-show-companys-shift-30540823" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T23:13:44Z</updated>
+    <published>2015-04-23T23:13:44Z</published>
+    <summary type="html">&lt;p&gt;This Jan. 21, 2015 photo shows Microsoft CEO Satya Nadella speaking at an event demonstrating new features of its flagship operating system Windows at the company's headquarters in Redmond, Wash.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T23:13:44Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple Watch: Soon Available for Sale in Stores</title>
     <link rel="alternate" href="https://www.yahoo.com/tech/s/apple-watch-soon-available-sale-stores-160812626.html?src=rss" />
     <author>

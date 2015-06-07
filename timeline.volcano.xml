@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Thousands flee after volcano erupts in Chile</title>
+    <link rel="alternate" href="http://nypost.com/2015/03/03/thousands-flee-after-volcano-erupts-in-chile/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:59:10Z</updated>
+    <published>2015-03-03T14:59:10Z</published>
+    <summary type="html">&lt;p&gt;Chilean authorities had issued an orange alert Monday because of increased activity at the volcano.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T14:59:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Indonesia Raises Alert Status of Volcano to Highest Level</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/indonesia-raises-alert-status-volcano-highest-level-31490358" />
     <author>

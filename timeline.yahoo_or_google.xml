@@ -4,6 +4,77 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google data on driverless car accidents made public</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102738172" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-06T04:03:00Z</updated>
+    <published>2015-06-06T04:03:00Z</published>
+    <summary type="html">&lt;p&gt;None of these accidents were caused by a fault with the car, Google said.&lt;/p&gt;&lt;p&gt;The accidents mostly involved Google's self-driving Lexus RX450h sport utility vehicles.&lt;/p&gt;</summary>
+    <dc:date>2015-06-06T04:03:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google Releases More Details on Self-Driving Car Accidents</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/google-make-monthly-reports-driving-cars-31562091" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-05T22:40:39Z</updated>
+    <published>2015-06-05T22:40:39Z</published>
+    <summary type="html">&lt;p&gt;All but two of the accidents happened in Google's hometown of Mountain View, where the company plans to begin testing its latest self-driving car - a pod-like vehicle - this summer.&lt;/p&gt;</summary>
+    <dc:date>2015-06-05T22:40:39Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/Technology/WireAP_fc705104ed0b4b78b56d9464af08ab0a_16x9_992.jpg" />
+  </entry>
+  <entry>
+    <title>Google releases more details on self-driving car accidents</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-will-make-monthly-reports-on-self-driving-6309712.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-05T22:39:44Z</updated>
+    <published>2015-06-05T22:39:44Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - Google is disclosing more details about the 12 accidents involving its self-driving cars so far as part of a commitment to provide monthly updates about the safety and performance of the vehicles.&lt;/p&gt;&lt;p&gt;As it has been doing for several weeks, Google said that the self-driving technology was not to blame for any of the accidents.&lt;/p&gt;</summary>
+    <dc:date>2015-06-05T22:39:44Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/36/72/53/8104655/3/628x471.jpg" />
+  </entry>
+  <entry>
+    <title>Tiger Woods commits to play in Greenbrier Classic (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/tiger-woods-commits-play-greenbrier-classic-152442973--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-29T15:28:54Z</updated>
+    <published>2015-04-29T15:28:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-29T15:28:54Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/EJZx2EW_cC6dxUPI69gc0Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504241028377245821" />
+  </entry>
+  <entry>
+    <title>Mets put 3B David Wright on 15-day DL, recall Eric Campbell (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/mets-putting-david-wright-15-day-disabled-list-191857454--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T23:32:54Z</updated>
+    <published>2015-04-15T23:32:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-15T23:32:54Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/cEFYqQPS9N.oYVEhGu2TUA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201504142122769421419" />
+  </entry>
+  <entry>
+    <title>EU charges Google with market abuse</title>
+    <link rel="alternate" href="http://www.rte.ie/news/business/2015/0415/694185-google-probe/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T22:04:11Z</updated>
+    <published>2015-04-15T22:04:11Z</published>
+    <summary type="html">&lt;p&gt;Rather, by firing a shot across Google's bows, it may favour competitors in new areas as technology develops, a priority for the new European Commission led by Jean-Claude Juncker, which wants to foster home-grown enterprise.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T22:04:11Z</dc:date>
+    <media:content url="http://img.rasset.ie/000a70e4-642.jpg" />
+  </entry>
+  <entry>
     <title>4-way tie at Memorial as Woods struggles to stay in game (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/4-way-tie-memorial-woods-struggles-stay-game-183254365--golf.html" />
     <author>

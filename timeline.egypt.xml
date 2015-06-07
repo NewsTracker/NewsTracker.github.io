@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's president issues rare apology after lawyer beaten</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypts-president-issues-rare-apology-lawyer-beaten-184831029.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T19:51:09Z</updated>
+    <published>2015-06-07T19:51:09Z</published>
+    <summary type="html">&lt;p&gt;Rights activists report a return of torture, abuses and arbitrary arrests surpassing even the 29-year rule of autocrat Hosni Mubarak, who was toppled in Egypt's 2011 revolt.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T19:51:09Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/tNXxuMaFMLVq1_paVgG7DA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQwMTtpbD1wbGFuZTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/ap_webfeeds/2a1067da1d748319780f6a706700c66e.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt's president issues rare apology after lawyer beaten</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11461521&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T18:55:16Z</updated>
+    <published>2015-06-07T18:55:16Z</published>
+    <summary type="html">&lt;p&gt;But in Egypt, police and powerful security agencies act with near impunity against opponents or those trying to engage in unwelcome political activity.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T18:55:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt's Mubarak to be retried over killing of protesters</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/04/egypts-mubarak-to-be-retried-over-killing-of-protesters" />
     <author>

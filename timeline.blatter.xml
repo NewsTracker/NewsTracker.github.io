@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA email connects Sepp Blatter to $10M, newspaper claims</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article23329620.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T19:10:05Z</updated>
+    <published>2015-06-07T19:10:05Z</published>
+    <summary type="html">&lt;p&gt;FIFA said in a statement to The Associated Press on Sunday that sending money to Warner was the idea of the South African government and Blatter was being updated by Mbeki in their discussions.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T19:10:05Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>FIFA email connects Sepp Blatter to $10M, newspaper claims</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/sports/other-sports/article23329620.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T19:10:05Z</updated>
+    <published>2015-06-07T19:10:05Z</published>
+    <summary type="html">&lt;p&gt;The newspaper said that in the email, which was not published, Valcke wrote that the $10 million was "based on discussions between FIFA and the South African government, and also between our President (Blatter) and President Thabo Mbeki."&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T19:10:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Disgraced Blatter starts FIFA reform work</title>
     <link rel="alternate" href="http://www.smh.com.au//breaking-news-sport/disgraced-blatter-starts-fifa-reform-work-20150605-3x81m.html" />
     <author>

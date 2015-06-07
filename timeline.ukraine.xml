@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>One dead after patrol boat blows up and sinks off Ukraine's Mariupol</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/07/us-ukraine-crisis-boat-idUSKBN0ON0O620150607?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T19:52:50Z</updated>
+    <published>2015-06-07T19:52:50Z</published>
+    <summary type="html">&lt;p&gt;KIEV A search operation was under way on Sunday for a border guard official missing after a patrol boat sank off Ukraine's port city of Mariupol following an explosion, the border guard said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T19:52:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece and Ukraine crises drown out G7 summit agenda</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102738889" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T03:06:00Z</updated>
+    <published>2015-06-07T03:06:00Z</published>
+    <summary type="html">&lt;p&gt;Leaders from the Group of Seven (G7) industrial nations meet on Sunday in the Bavarian Alps for a summit overshadowed by Greece's debt crisis and ongoing violence in Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T03:06:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Romania turns hacking crisis into advantage, helping Ukraine</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article20804904.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T08:04:23Z</updated>
+    <published>2015-05-13T08:04:23Z</published>
+    <summary type="html">&lt;p&gt;Ukraine is turning to an unlikely partner in its struggle to defend itself against Russian cyber warfare: Romania.&lt;/p&gt;&lt;p&gt;So much so that NATO tapped Bucharest to defend Ukraine from Russian digital espionage by sending experts to monitor Kiev government institutes and train Ukrainian IT specialists.&lt;/p&gt;&lt;p&gt;Romania, a member of NATO's cyber coalition exercises, volunteered to lead the Ukraine Cyber Defense Trust Fund - and tapped the state-owned Rasirom company.&lt;/p&gt;&lt;p&gt;Ukraine says Russia's Federal Security Service is coordinating attacks on government offices as part of a proxy war against Ukraine's government, amid real fighting between Ukrainian forces and pro-Russian rebels in the east.&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T08:04:23Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Eastern Ukraine tense after outbreak of fighting</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-06-04-EU-Ukraine/id-0ffad5069a2146ecbab6f44e67609175" />
     <author>
@@ -814,18 +848,6 @@
     <published>2015-05-13T15:21:01Z</published>
     <summary type="html" />
     <dc:date>2015-05-13T15:21:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Romania turns hacking crisis into advantage, helping Ukraine</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article20804904.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-13T08:04:23Z</updated>
-    <published>2015-05-13T08:04:23Z</published>
-    <summary type="html">&lt;p&gt;Ukraine is turning to an unlikely partner in its struggle to defend itself against Russian cyber warfare: Romania.&lt;/p&gt;&lt;p&gt;So much so that NATO tapped Bucharest to defend Ukraine from Russian digital espionage by sending experts to monitor Kiev government institutes and train Ukrainian IT specialists.&lt;/p&gt;&lt;p&gt;Romania, a member of NATO's cyber coalition exercises, volunteered to lead the Ukraine Cyber Defense Trust Fund - and tapped the state-owned Rasirom company.&lt;/p&gt;</summary>
-    <dc:date>2015-05-13T08:04:23Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Romania turns hacking crisis into advantage, helping Ukraine</title>

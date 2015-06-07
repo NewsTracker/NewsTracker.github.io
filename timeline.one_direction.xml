@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.one_direction.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>One Direction fan fic to be made into film</title>
+    <link rel="alternate" href="http://jam.canoe.com/Movies/2015/06/06/22438611-wenn-story.html?cid=rssentertainmentmovies" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-06T18:09:48Z</updated>
+    <published>2015-06-06T18:09:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-06T18:09:48Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://jam.canoe.com/Movies/2015/06/06/1297709284853.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Is this why Zayn Malik quit One Direction?</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&amp;amp;objectid=11454288&amp;amp;ref=rss" />
     <author>
@@ -278,7 +290,7 @@
     <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://jam.canoe.ca/Jam/Music/2015/03/25/zayn650.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
   </entry>
   <entry>
-    <title>Zayn Malik Quits Boy Band One Direction: ‘I Want to Be a Normal 22 Year Old’</title>
+    <title>Zayn Malik Quits Boy Band One Direction: ?I Want to Be a Normal 22 Year Old?</title>
     <link rel="alternate" href="http://www.startribune.com/entertainment/music/297542041.html" />
     <author>
       <name />

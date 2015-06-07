@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ex-cyclone to cause wild weather in NT</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/03/25/goulburn-islanders-call-storm-shelter" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T20:43:11Z</updated>
+    <published>2015-03-24T20:43:11Z</published>
+    <summary type="html">&lt;p&gt;After two evacuations in one month, a Goulburn Island resident is calling on the Northern Territory government to invest in a cyclone shelter in the community.&lt;/p&gt;&lt;p&gt;All 427 of the island's residents were flown to Darwin for four days in February as category 4 Cyclone Lam bore down, and again for two days this week as category 2 Cyclone Nathan approached, which was forecast to intensify to a category 3.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T20:43:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Half of Vanuatu's population affected by Cyclone Pam: UN</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3005077/Half-Vanuatus-population-affected-Cyclone-Pam-UN.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-21T03:06:08Z</updated>
+    <published>2015-03-21T03:06:08Z</published>
+    <summary type="html">&lt;p&gt;More than half of the South Pacific island nation Vanuatu's population has been affected by Cyclone Pam, the UN said Saturday as the death toll rose to 16.&lt;/p&gt;&lt;p&gt;"Around 166,000 people, more than half of Vanuatu's population, have been affected by Tropical Cyclone Pam on 22 islands," the Office for the Coordination of Humanitarian Affairs (OCHA) said in a situation report.&lt;/p&gt;</summary>
+    <dc:date>2015-03-21T03:06:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Cyclone Pam: Australia gives Vanuatu $5 million in aid</title>
+    <link rel="alternate" href="http://www.theage.com.au/environment/weather/cyclone-pam-australia-gives-vanuatu-5-million-in-aid-20150315-144f23.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T15:34:39Z</updated>
+    <published>2015-03-15T15:34:39Z</published>
+    <summary type="html">&lt;p&gt;Cyclone Pam left a trail of devastation across the Pacific island nation on Saturday, with 250 km/h winds levelling entire villages in the capital, Port Vila.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T15:34:39Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/4/4/c/w/3/image.related.articleLeadNarrow.300x0.144f23.png/1426433667339.jpg" />
+  </entry>
+  <entry>
+    <title>Thousands flee after volcano erupts in Chile</title>
+    <link rel="alternate" href="http://nypost.com/2015/03/03/thousands-flee-after-volcano-erupts-in-chile/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-03T14:59:10Z</updated>
+    <published>2015-03-03T14:59:10Z</published>
+    <summary type="html">&lt;p&gt;Chilean authorities had issued an orange alert Monday because of increased activity at the volcano.&lt;/p&gt;</summary>
+    <dc:date>2015-03-03T14:59:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Indonesia Raises Alert Status of Volcano to Highest Level</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/indonesia-raises-alert-status-volcano-highest-level-31490358" />
     <author>
@@ -910,17 +955,6 @@
   </entry>
   <entry>
     <title>Ex-cyclone to cause wild weather in NT</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/03/25/goulburn-islanders-call-storm-shelter" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-24T20:43:11Z</updated>
-    <published>2015-03-24T20:43:11Z</published>
-    <summary type="html">&lt;p&gt;After two evacuations in one month, a Goulburn Island resident is calling on the Northern Territory government to invest in a cyclone shelter in the community.&lt;/p&gt;</summary>
-    <dc:date>2015-03-24T20:43:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ex-cyclone to cause wild weather in NT</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3009954/Ex-cyclone-cause-wild-weather-NT.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
@@ -952,17 +986,6 @@
     <published>2015-03-24T00:35:01Z</published>
     <summary type="html">&lt;p&gt;SYDNEY (Reuters) - Tropical Cyclone Nathan smashed into northern Australia on Tuesday bringing gale-force winds and heavy rainfall to one of the country's most remote regions.&lt;/p&gt;</summary>
     <dc:date>2015-03-24T00:35:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Half of Vanuatu's population affected by Cyclone Pam: UN</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-3005077/Half-Vanuatus-population-affected-Cyclone-Pam-UN.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-21T03:06:08Z</updated>
-    <published>2015-03-21T03:06:08Z</published>
-    <summary type="html">&lt;p&gt;More than half of the South Pacific island nation Vanuatu's population has been affected by Cyclone Pam, the UN said Saturday as the death toll rose to 16.&lt;/p&gt;</summary>
-    <dc:date>2015-03-21T03:06:08Z</dc:date>
   </entry>
   <entry>
     <title>5 things to know about Vanuatu's devastating cyclone</title>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US backs fresh Israeli strikes on Gaza Strip</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/us-backs-fresh-israeli-strikes-on-gaza-strip-20150607-ghio3d" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T16:43:16Z</updated>
+    <published>2015-06-07T16:43:16Z</published>
+    <summary type="html">&lt;p&gt;Mr Netanyahu's office declined comment on Bennett's speech.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T16:43:16Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/i/o/4/p/image.related.articleLeadwide.620x349.ghio3d.png/1433695254183.jpg" />
+  </entry>
+  <entry>
+    <title>Netanyahu angry at silence over Gaza rocket attacks</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/netanyahu-angry-silence-gaza-rocket-attacks-isis/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T16:43:16Z</updated>
+    <published>2015-06-07T16:43:16Z</published>
+    <summary type="html">&lt;p&gt;Benjamin Netanyahu said he hasn't heard a word of condemnation from the world about three rocket attacks from Gaza over the past two weeks.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T16:43:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Obama: Netanyahu's Palestine stance erodes Israel's credibility</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3108166/Obama-Netanyahus-Palestine-stance-erodes-Israels-credibility.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
