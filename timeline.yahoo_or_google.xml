@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>IOC approves new events for 2018 Winter Games in Pyeongchang (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/ioc-approves-events-2018-winter-games-pyeongchang-144547792--oly.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T15:22:44Z</updated>
+    <published>2015-06-08T15:22:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-08T15:22:44Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/tfDDRQ7nbC23dtz3lkhtoQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506071106399978761" />
+  </entry>
+  <entry>
     <title>Police: Car found abandoned belongs to Patriots linebacker (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/police-car-found-abandoned-belongs-patriots-linebacker-120212229--nfl.html" />
     <author>
