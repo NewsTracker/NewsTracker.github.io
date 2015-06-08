@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ruling party leads, 1st independent wins in Mexico elections</title>
+    <link rel="alternate" href="http://news.yahoo.com/ruling-party-leads-1st-independent-wins-mexico-elections-054624872.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T13:38:36Z</updated>
+    <published>2015-06-08T13:38:36Z</published>
+    <summary type="html">&lt;p&gt;The biggest loser was the Democratic Revolution Party, which has been Mexico's leading leftist party for a quarter century.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T13:38:36Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/7fMT9ofzU8aVSrlq1ttNLQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/cf7cd053976dc319780f6a706700f7f1.jpg" />
+  </entry>
+  <entry>
+    <title>North Korea warns will act to get back ship held by Mexico</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/04/08/22333976.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T21:04:36Z</updated>
+    <published>2015-04-08T21:04:36Z</published>
+    <summary type="html">&lt;p&gt;Mexico said the ship remains in the port of Tuxpan.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T21:04:36Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/World/2015/04/08/North-Korea.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Last-minute rush expected as deadline nears for Gulf of Mexico oil spill settlement claims</title>
     <link rel="alternate" href="http://www.startribune.com/midnight-deadline-approaches-for-oil-spill-settlement-claims/306450281/" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Children rescued from Boko Haram so traumatised they have forgotten their names</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/children-rescued-from-boko-haram-so-traumatised-they-have-forgotten-their-names-20150314-143yck.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T01:55:35Z</updated>
+    <published>2015-03-14T01:55:35Z</published>
+    <summary type="html">&lt;p&gt;Nigerian girls who fled Boko Haram to Chad gather in a school set up by UNICEF at the Baga Sola refugee camp.&lt;/p&gt;&lt;p&gt;Nairobi, Kenya: After years in a Boko Haram camp, the children had forgotten their native language.&lt;/p&gt;&lt;p&gt;They had been rescued by the country's military in November from a squalid Boko Haram encampment near the border with Nigeria.&lt;/p&gt;&lt;p&gt;Boko Haram is now under siege by Nigerian and other African troops.&lt;/p&gt;</summary>
+    <dc:date>2015-03-14T01:55:35Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/4/4/0/4/m/image.related.articleLeadwide.620x349.143yck.png/1426312009057.jpg" />
+  </entry>
+  <entry>
     <title>U.S. to send team to Nigeria to renew cooperation over Boko Haram</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/us-to-send-team-to-nigeria-to-renew-cooperation-over-boko-haram/article24808766/?cmpid=rss1" />
     <author>
@@ -2028,18 +2040,6 @@
     <published>2015-03-14T11:14:57Z</published>
     <summary type="html">&lt;p&gt;Nigeria acknowledged on Thursday that it is getting help from regional security operatives amid reports that South Africa and other foreign contractors are involved in the fight against Boko Haram.&lt;/p&gt;</summary>
     <dc:date>2015-03-14T11:14:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Children rescued from Boko Haram so traumatised they have forgotten their names</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/children-rescued-from-boko-haram-so-traumatised-they-have-forgotten-their-names-20150314-143yck.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-14T01:55:35Z</updated>
-    <published>2015-03-14T01:55:35Z</published>
-    <summary type="html">&lt;p&gt;Nigerian girls who fled Boko Haram to Chad gather in a school set up by UNICEF at the Baga Sola refugee camp.&lt;/p&gt;&lt;p&gt;Nairobi, Kenya: After years in a Boko Haram camp, the children had forgotten their native language.&lt;/p&gt;&lt;p&gt;They had been rescued by the country's military in November from a squalid Boko Haram encampment near the border with Nigeria.&lt;/p&gt;</summary>
-    <dc:date>2015-03-14T01:55:35Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/4/4/0/4/m/image.related.articleLeadwide.620x349.143yck.png/1426312009057.jpg" />
   </entry>
   <entry>
     <title>France increases its efforts in the fight against Boko Haram</title>

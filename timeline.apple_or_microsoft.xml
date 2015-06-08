@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple set to unveil new music streaming service</title>
+    <link rel="alternate" href="http://www.cbsnews.com/videos/apple-set-to-unveil-new-music-streaming-service/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T14:02:03Z</updated>
+    <published>2015-06-08T14:02:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-08T14:02:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple WWDC: What to expect from the tech giant's keynote</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/business/apple-wwdc-what-to-expect-from-the-tech-giant-s-keynote-1.2411331" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T05:22:39Z</updated>
+    <published>2015-06-08T05:22:39Z</published>
+    <summary type="html">&lt;p&gt;Analysts also expect enhancements to the mobile-payment service known as Apple Pay.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T05:22:39Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple wants a lead role in streaming music</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article23334498.html%23storylink=rss" />
     <author>

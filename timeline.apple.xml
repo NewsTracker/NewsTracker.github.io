@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple WWDC expected to focus on watch, music [Video]</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/08/apple-expected-to-focus-on-watch-music-at-developer-conference" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T13:37:19Z</updated>
+    <published>2015-06-08T13:37:19Z</published>
+    <summary type="html">&lt;p&gt;Apple is expected to unveil a new music service and better tools to build apps for its smartwatch at its annual gathering of developers in San Francisco on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T13:37:19Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297708408949_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
+    <title>Apple WWDC: What to expect from the tech giant's keynote</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/business/apple-wwdc-what-to-expect-from-the-tech-giant-s-keynote-1.2411331" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T05:22:39Z</updated>
+    <published>2015-06-08T05:22:39Z</published>
+    <summary type="html">&lt;p&gt;Analysts also expect enhancements to the mobile-payment service known as Apple Pay.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T05:22:39Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple expected to focus on watch, music at developer conference</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/08/us-apple-developers-idUSKBN0OO0ME20150608?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
