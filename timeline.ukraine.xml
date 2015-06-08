@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Exclusive: Russia refuses to sign IAEA annual report, says Sevastopol not in Ukraine</title>
+    <link rel="alternate" href="http://news.yahoo.com/exclusive-russia-refuses-sign-iaea-annual-report-says-154305155.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T17:02:37Z</updated>
+    <published>2015-06-08T17:02:37Z</published>
+    <summary type="html">&lt;p&gt;VIENNA (Reuters) - Russia has refused to sign off on the U.N. nuclear watchdog's annual report because the document lists a nuclear reactor near Crimea's Sevastopol as being in Ukraine, two diplomats present at the meeting told Reuters on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T17:02:37Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Economic toll of conflict builds up for Ukraine</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article21368805.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T13:36:06Z</updated>
+    <published>2015-05-19T13:36:06Z</published>
+    <summary type="html">&lt;p&gt;Even though Ukraine's crisis was sparked by protests in late 2013 calling for closer relations with the European Union and has since signed a deal strengthening its ties with the bloc, all of that has yet to translate into an economic gain.&lt;/p&gt;&lt;p&gt;One aspect where Ukraine has seen some benefits from closer EU ties is that it gets more energy from the bloc, whereas it used to get almost all its gas from Russia.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T13:36:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Obama says Russian troops operating in Ukraine, sanctions biting</title>
     <link rel="alternate" href="http://news.yahoo.com/obama-says-russian-troops-operating-ukraine-sanctions-biting-144920840.html" />
     <author>
@@ -759,18 +783,6 @@
     <published>2015-05-21T07:24:09Z</published>
     <summary type="html">&lt;p&gt;Carl Bildt, then Sweden's foreign minister, was a key player at the Vilnius summit, seeing the hand of Moscow behind Ukraine's sudden about-face to dismiss the EU.&lt;/p&gt;</summary>
     <dc:date>2015-05-21T07:24:09Z</dc:date>
-  </entry>
-  <entry>
-    <title>Economic toll of conflict builds up for Ukraine</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article21368805.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-19T13:36:06Z</updated>
-    <published>2015-05-19T13:36:06Z</published>
-    <summary type="html">&lt;p&gt;Even though Ukraine's crisis was sparked by protests in late 2013 calling for closer relations with the European Union and has since signed a deal strengthening its ties with the bloc, all of that has yet to translate into an economic gain.&lt;/p&gt;</summary>
-    <dc:date>2015-05-19T13:36:06Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Economic toll of conflict builds up for Ukraine</title>

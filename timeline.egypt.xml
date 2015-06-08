@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama administration criticizes Egypt in report to Congress</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/08/obama-administration-criticizes-egypt-in-report/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T17:53:25Z</updated>
+    <published>2015-06-08T17:53:25Z</published>
+    <summary type="html">&lt;p&gt;The report, quietly submitted to lawmakers last month, said that while Egypt has implemented some democratic reforms, "the overall trajectory of rights and democracy has been negative."&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T17:53:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Obama administration criticizes Egypt in report to Congress</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/obama-administration-criticizes-egypt-in-report-to/nmYNM/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T17:53:25Z</updated>
+    <published>2015-06-08T17:53:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-08T17:53:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>NEWSMAKER-Egypt's Mursi defiant as court seeks death penalty</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3084346/NEWSMAKER-Egypts-Mursi-defiant-court-seeks-death-penalty.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T14:03:21Z</updated>
+    <published>2015-05-16T14:03:21Z</published>
+    <summary type="html">&lt;p&gt;Before any executions can take place, the cases must be referred to Egypt's top religious authority, the Grand Mufti, although his opinion is non-binding.&lt;/p&gt;&lt;p&gt;Long Egypt's main political opposition, the Brotherhood did not imagine until 2011 it could rule the country, and some argue the decision to seek the presidency was a miscalculation.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T14:03:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Syria Opposition in Egypt to Search for Political Solution</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/syria-opposition-egypt-search-political-solution-31609364" />
     <author>
@@ -768,17 +801,6 @@
     <published>2015-05-16T15:51:41Z</published>
     <summary type="html">&lt;p&gt;The case was filed by Mortada Mansour, the head of the Zamalek Football Club, one of Egypt's most popular teams.&lt;/p&gt;</summary>
     <dc:date>2015-05-16T15:51:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>NEWSMAKER-Egypt's Mursi defiant as court seeks death penalty</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3084346/NEWSMAKER-Egypts-Mursi-defiant-court-seeks-death-penalty.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-16T14:03:21Z</updated>
-    <published>2015-05-16T14:03:21Z</published>
-    <summary type="html">&lt;p&gt;Before any executions can take place, the cases must be referred to Egypt's top religious authority, the Grand Mufti, although his opinion is non-binding.&lt;/p&gt;</summary>
-    <dc:date>2015-05-16T14:03:21Z</dc:date>
   </entry>
   <entry>
     <title>Egyptian court seeks death penalty for former president Mursi</title>

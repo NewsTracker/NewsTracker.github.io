@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Holmes: Mind 'was kind of falling apart' before shooting</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article22585029.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T01:57:05Z</updated>
+    <published>2015-05-30T01:57:05Z</published>
+    <summary type="html">&lt;p&gt;In a segment shown Thursday, Holmes told Reid he sometimes cries before he goes to bed because he regrets the shooting.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T01:57:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Jury chosen in trial of James Holmes, Aurora movie theatre shooter</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/james-holmes-trial-jury-selected-in-aurora-mass-shooting-trial-1.3033370?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T03:00:47Z</updated>
+    <published>2015-04-15T03:00:47Z</published>
+    <summary type="html">&lt;p&gt;A jury was seated Tuesday in the death penalty trial of Colorado theater shooter James Holmes after a selection process that experts say was among the largest and most complicated in U.S. history.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T03:00:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Theater gunman's writings alternate between ramblings, plans</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article22445835.html%23storylink=rss" />
     <author>

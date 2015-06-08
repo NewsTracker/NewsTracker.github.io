@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigerian troops repel Boko Haram attack on Maiduguri</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/30/nigerian-troops-repel-boko-haram-attack-on-maiduguri" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T09:00:47Z</updated>
+    <published>2015-05-30T09:00:47Z</published>
+    <summary type="html">&lt;p&gt;Experts doubt that Boko Haram currently has the capacity to seize Maiduguri, but a major attack inside the city could still be disastrous for civilians.&lt;/p&gt;&lt;p&gt;Buhari in his inaugural address on Friday vowed to intensify the fight against Boko Haram, notably by shifting operational command from the capital Abuja to Maiduguri.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T09:00:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hundreds abducted by Boko Haram are being used as human shields, Nigeria says</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/hundreds-abducted-by-boko-haram-are-being-used-as-human-shields-nigeria-says/article23612219/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T15:55:39Z</updated>
+    <published>2015-03-25T15:55:39Z</published>
+    <summary type="html">&lt;p&gt;Damasak had been held for months by Boko Haram, who used the trading town as an administrative centre.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T15:55:39Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/bc3/video/article22533320.ece/ALTERNATES/w140/2015-01-20T023225Z_3_LOVEB0J0720XR_RTRMADP_0_NIGERIA-VIOLENCE-CHAD-REFUGEES-O.XML" />
+  </entry>
+  <entry>
     <title>Children rescued from Boko Haram so traumatised they have forgotten their names</title>
     <link rel="alternate" href="http://www.smh.com.au/world/children-rescued-from-boko-haram-so-traumatised-they-have-forgotten-their-names-20150314-143yck.html" />
     <author>
@@ -205,17 +228,6 @@
     <published>2015-05-30T11:12:00Z</published>
     <summary type="html">&lt;p&gt;An intelligence officer said Boko Haram was firing the rocket-propelled grenades.&lt;/p&gt;&lt;p&gt;Buhari said he will move the headquarters for the war against Boko Haram from Abuja, the capital in central Nigeria, to Maiduguri.&lt;/p&gt;</summary>
     <dc:date>2015-05-30T11:12:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nigerian troops repel Boko Haram attack on Maiduguri</title>
-    <link rel="alternate" href="http://www.theguardian.com/world/2015/may/30/nigerian-troops-repel-boko-haram-attack-on-maiduguri" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-30T09:00:47Z</updated>
-    <published>2015-05-30T09:00:47Z</published>
-    <summary type="html">&lt;p&gt;Experts doubt that Boko Haram currently has the capacity to seize Maiduguri, but a major attack inside the city could still be disastrous for civilians.&lt;/p&gt;</summary>
-    <dc:date>2015-05-30T09:00:47Z</dc:date>
   </entry>
   <entry>
     <title>Nigeria military repels Boko Haram attack in northeast</title>

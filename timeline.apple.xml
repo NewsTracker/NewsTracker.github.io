@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest from Apple show: Siri to be a better assistant</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/texas/article/The-Latest-from-Apple-show-Crowds-gather-before-6313869.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T17:47:52Z</updated>
+    <published>2015-06-08T17:47:52Z</published>
+    <summary type="html">&lt;p&gt;Apple isn't saying anything ahead of time, though it's widely expected the company will unveil updates to its mobile and Mac operating systems, along with a new music service.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T17:47:52Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/75/26/8115645/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Latest from Apple's WWDC: Mac update called 'El Capitan'</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/latest-from-apple-s-wwdc-mac-update-called-el-capitan-1.2412093" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T17:42:00Z</updated>
+    <published>2015-06-08T17:42:00Z</published>
+    <summary type="html">&lt;p&gt;Apple says this fall's update to its Mac operating system will be called El Capitan -- the name of a landmark in Yosemite National Park.&lt;/p&gt;&lt;p&gt;It follows a recent practice of Apple naming the Mac operating system after geographical locations in California.&lt;/p&gt;&lt;p&gt;The new Mac system will be more formally known as OS X 10.11, as it's the 11th update to a system adapted from the NeXT operating system that co-founder Steve Jobs brought to Apple when he returned in 1997 after an exile.&lt;/p&gt;&lt;p&gt;The Worldwide Developers Conference in San Francisco is Apple's chance to preview software updates for Macs, iPhones, iPads and the Apple Watch.&lt;/p&gt;&lt;p&gt;It's similar to Apple's Worldwide Developers Conference in that it gives Google the stage for showcasing upcoming features and products.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T17:42:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple WWDC expected to focus on watch, music [Video]</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/06/08/apple-expected-to-focus-on-watch-music-at-developer-conference" />
     <author>
