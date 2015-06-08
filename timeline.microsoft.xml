@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft opens door to Android, Apple phone apps</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/30/us-microsoft-windows-idUSKBN0NK1UZ20150430?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T04:30:33Z</updated>
+    <published>2015-04-30T04:30:33Z</published>
+    <summary type="html">&lt;p&gt;Microsoft has found itself in a circular trap, as many developers will not build apps for Windows phones which have few users, and few people want the phones which have fewer apps than Android or Apple phones.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T04:30:33Z</dc:date>
+  </entry>
+  <entry>
     <title>In Tech: Microsoft tries to win mobile friends</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11460002&amp;amp;ref=rss" />
     <author>

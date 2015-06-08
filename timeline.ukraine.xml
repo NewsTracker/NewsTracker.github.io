@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine journalist Oles Buzina killed by masked gunmen in Kiev: interior ministry</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ukraine-journalist-oles-buzina-killed-by-masked-gunmen-in-kiev-interior-ministry-20150416-1mmvgl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T12:29:03Z</updated>
+    <published>2015-04-16T12:29:03Z</published>
+    <summary type="html">&lt;p&gt;Russian President Vladimir Putin: "This is not the first political assassination. Ukraine is dealing with a whole string of such murders."&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T12:29:03Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/m/v/s/g/image.related.articleLeadwide.620x349.1mmvgl.png/1429194488316.jpg" />
+  </entry>
+  <entry>
+    <title>Misery, tuberculosis in prisons of war-torn east Ukraine</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article17826428.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T13:09:06Z</updated>
+    <published>2015-04-08T13:09:06Z</published>
+    <summary type="html">&lt;p&gt;MSF works on both sides of the front line between rebel and government forces, giving them better access to patients than either Ukraine or rebel authorities have.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T13:09:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Obama calls on G7 to stand up to Russian aggression in Ukraine</title>
     <link rel="alternate" href="http://www.sabc.co.za/news/a/04f78e0048a8990c8b2b9f6b2036b546/Obama-calls-on-G7-to-stand-up-to-Russian-aggression-in-Ukraine-20150607" />
     <author>

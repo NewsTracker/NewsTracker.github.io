@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Theater gunman's writings alternate between ramblings, plans</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article22445835.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T01:57:05Z</updated>
+    <published>2015-05-28T01:57:05Z</published>
+    <summary type="html">&lt;p&gt;It's unclear when Holmes wrote the entries.&lt;/p&gt;&lt;p&gt;Holmes jots down notes about the Garden of Eden, the myths of Prometheus and Faust, and writes various, almost nonsensical essays on philosophical issues.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T01:57:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>James Holmes murder trial includes gruesome evidence, tears</title>
     <link rel="alternate" href="http://www.latimes.com/nation/la-na-james-holmes-gruesome-evidence-20150601-story.html?track=rss" />
     <author>
@@ -281,18 +293,6 @@
     <published>2015-05-28T13:41:13Z</published>
     <summary type="html">&lt;p&gt;After a month of testimony from victims and investigators, prosecutors this week shifted to Holmes' mental state.&lt;/p&gt;&lt;p&gt;They showed jurors Holmes' notes on how long it would take police to respond to an attack on the suburban Denver movie theater, as well as his dating website profile that asked, "Will you visit me in prison?"&lt;/p&gt;&lt;p&gt;A state-appointed psychiatrist who examined Holmes, William Reid, is expected to testify Thursday.&lt;/p&gt;&lt;p&gt;District Attorney George Brauchler has already told jurors that the doctor concluded Holmes was legally sane.&lt;/p&gt;&lt;p&gt;Defense attorney Daniel King told jurors that much of the notebook consists of Holmes' confused musings about his life.&lt;/p&gt;</summary>
     <dc:date>2015-05-28T13:41:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Theater gunman's writings alternate between ramblings, plans</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article22445835.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-28T01:57:05Z</updated>
-    <published>2015-05-28T01:57:05Z</published>
-    <summary type="html">&lt;p&gt;It's unclear when Holmes wrote the entries.&lt;/p&gt;</summary>
-    <dc:date>2015-05-28T01:57:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Theater gunman's writings alternate between ramblings, plans</title>
