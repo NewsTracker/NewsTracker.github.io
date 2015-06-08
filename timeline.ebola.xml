@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>World Health Organization approves 1st quick test for Ebola</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11405546&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-20T14:45:04Z</updated>
+    <published>2015-02-20T14:45:04Z</published>
+    <summary type="html">&lt;p&gt;Almost 24,000 people have been infected and nearly 9,400 people have died from the current Ebola outbreak, which began in West Africa over a year ago.&lt;/p&gt;&lt;p&gt;Until now, Ebola tests have been mainly conducted in laboratories.&lt;/p&gt;</summary>
+    <dc:date>2015-02-20T14:45:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Fiancee chronicles love, life with man who died of Ebola in Texas</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/04/28/fiancee-chronicles-love-life-with-man-who-died-of-ebola-in-texas" />
     <author>
@@ -2902,17 +2913,6 @@
     <published>2015-02-20T16:48:46Z</published>
     <summary type="html">&lt;p&gt;BERLIN (AP) - The World Health Organization said Friday it has approved a quick test for Ebola that will dramatically cut the time it takes to determine - with reasonable accuracy - whether someone is infected with the deadly virus.&lt;/p&gt;&lt;p&gt;The new test can provide results within 15 minutes by detecting an Ebola protein.&lt;/p&gt;</summary>
     <dc:date>2015-02-20T16:48:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>World Health Organization approves 1st quick test for Ebola</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11405546&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-02-20T14:45:04Z</updated>
-    <published>2015-02-20T14:45:04Z</published>
-    <summary type="html">&lt;p&gt;Almost 24,000 people have been infected and nearly 9,400 people have died from the current Ebola outbreak, which began in West Africa over a year ago.&lt;/p&gt;</summary>
-    <dc:date>2015-02-20T14:45:04Z</dc:date>
   </entry>
   <entry>
     <title>WHO approves 15-minute test for Ebola</title>

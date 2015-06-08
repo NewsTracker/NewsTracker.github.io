@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple expected to focus on watch, music at developer conference</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/08/us-apple-developers-idUSKBN0OO0ME20150608?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T08:04:21Z</updated>
+    <published>2015-06-08T08:04:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-08T08:04:21Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150608&amp;amp;t=2&amp;amp;i=1054564675&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB5708L" />
+  </entry>
+  <entry>
     <title>Apple wants a lead role in streaming music</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article23334498.html%23storylink=rss" />
     <author>
