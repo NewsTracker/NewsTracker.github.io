@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Truex breaks through at Pocono for 1st win since 2013 (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/truex-breaks-pocono-1st-win-since-2013-203957169--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T22:08:32Z</updated>
+    <published>2015-06-07T22:08:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-07T22:08:32Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/HvIsrcExcqnrytsm1EV2EQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506071649605489989" />
+  </entry>
+  <entry>
+    <title>FIFA email connects Sepp Blatter to $10M, newspaper claims (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/fifa-email-connects-sepp-blatter-10m-newspaper-claims-102132109--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T19:08:04Z</updated>
+    <published>2015-06-07T19:08:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-07T19:08:04Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Yahoo chooses to stay with Microsoft in updated search deal</title>
     <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Yahoo-chooses-to-stay-with-Microsoft-in-updated-6204097.php" />
     <author>

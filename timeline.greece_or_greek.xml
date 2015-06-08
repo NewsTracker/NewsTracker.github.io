@@ -4,6 +4,74 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>EU chief rebukes Greece, demands swift debt plan</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3114293/EU-chief-rebukes-Greece-demands-swift-debt-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T18:09:17Z</updated>
+    <published>2015-06-07T18:09:17Z</published>
+    <summary type="html">&lt;p&gt;European Council President Donald Tusk, who chairs EU summits, criticised the leftist Greek government's virulent rhetoric against European and IMF lenders.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T18:09:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek Bank Deposits Fall to Lowest in More Than a Decade</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/greek-bank-deposits-fall-lowest-decade-31386192" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T12:47:58Z</updated>
+    <published>2015-05-29T12:47:58Z</published>
+    <summary type="html">&lt;p&gt;As negotiations dragged on, Greek deposits ebbed steadily, though there was no sign of the kind of mass withdrawals that would force the government to put restrictions on money transfer to keep the banking system from collapse.&lt;/p&gt;&lt;p&gt;He said the deal would "once and for all" settle all outstanding problems, including the most contentious: Some kind of relief for Greece's crushing debt load, and reforms to the pension system and labor market.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T12:47:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek bank deposits fall to lowest in more than a decade</title>
+    <link rel="alternate" href="http://news.yahoo.com/greek-bank-deposits-fall-lowest-more-decade-105456913--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T12:46:57Z</updated>
+    <published>2015-05-29T12:46:57Z</published>
+    <summary type="html">&lt;p&gt;"Despite denials from Athens, it is likely that the Greek government will apply for this solution before the next payment is due," Teneo Intelligence analyst Wolfango Piccoli said in a note Friday.&lt;/p&gt;&lt;p&gt;Piccoli also warned that European creditors might soon present Greece with a take-it-or-leave-it offer, which, if unpalatable to Athens could prompt a referendum.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T12:46:57Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/d1cspDHcFRdIYUMYckd9eQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/f1088e2bd534c917770f6a7067002a2c.jpg" />
+  </entry>
+  <entry>
+    <title>US stocks fall after drop in China, Greece deadline looms</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article22503234.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T19:22:06Z</updated>
+    <published>2015-05-28T19:22:06Z</published>
+    <summary type="html">&lt;p&gt;Greece has given investors a headache for years now, and many are skeptical that this round of talks will resolve any of the country's debt issues.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T19:22:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Germany hints at preparations of a Plan B on Greece</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3055201/Germany-hints-preparations-Plan-B-Greece.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-25T13:37:55Z</updated>
+    <published>2015-04-25T13:37:55Z</published>
+    <summary type="html">&lt;p&gt;He indicated that if he were to answer in the affirmative that ministers were working on a Plan B -- what to do when Greece runs out of money and cannot pay back its debt -- he could trigger panic.&lt;/p&gt;&lt;p&gt;The finance minister of Slovenia suggested at that meeting that because the talks, that have been going on for three months, were leading nowhere, perhaps euro zone ministers should starting discussing a Plan B -- what happens if Greece defaults.&lt;/p&gt;</summary>
+    <dc:date>2015-04-25T13:37:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>UEFA, FIFA warn Greece over government's planned new laws</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;amp;objectid=11437093&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T16:55:12Z</updated>
+    <published>2015-04-22T16:55:12Z</published>
+    <summary type="html">&lt;p&gt;In 2006, FIFA briefly suspended Greece when European champion for government interference.&lt;/p&gt;&lt;p&gt;NYON, Switzerland (AP) " UEFA and FIFA say they have sent a final warning to Greece that it faces suspension from international football for government interference.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T16:55:12Z</dc:date>
+  </entry>
+  <entry>
     <title>EU official: Greece wasn't handed take-it-or-leave-it bid</title>
     <link rel="alternate" href="http://news.yahoo.com/eu-didnt-greece-leave-offer-131807728--finance.html" />
     <author>
@@ -898,29 +966,6 @@
     <summary type="html" />
     <dc:date>2015-05-29T13:57:07Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greek Bank Deposits Fall to Lowest in More Than a Decade</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/greek-bank-deposits-fall-lowest-decade-31386192" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-29T12:47:58Z</updated>
-    <published>2015-05-29T12:47:58Z</published>
-    <summary type="html">&lt;p&gt;As negotiations dragged on, Greek deposits ebbed steadily, though there was no sign of the kind of mass withdrawals that would force the government to put restrictions on money transfer to keep the banking system from collapse.&lt;/p&gt;</summary>
-    <dc:date>2015-05-29T12:47:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek bank deposits fall to lowest in more than a decade</title>
-    <link rel="alternate" href="http://news.yahoo.com/greek-bank-deposits-fall-lowest-more-decade-105456913--finance.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-29T12:46:57Z</updated>
-    <published>2015-05-29T12:46:57Z</published>
-    <summary type="html">&lt;p&gt;"Despite denials from Athens, it is likely that the Greek government will apply for this solution before the next payment is due," Teneo Intelligence analyst Wolfango Piccoli said in a note Friday.&lt;/p&gt;</summary>
-    <dc:date>2015-05-29T12:46:57Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/d1cspDHcFRdIYUMYckd9eQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/f1088e2bd534c917770f6a7067002a2c.jpg" />
   </entry>
   <entry>
     <title>Greek bank deposits fall to lowest in more than a decade</title>
@@ -3046,17 +3091,6 @@
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/DY0EMqFLkIWTHpwlRescpA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-04-25T134436Z_1_LYNXMPEB3O086_RTROPTP_3_EUROZONE-GREECE-DEAL_original.jpg" />
   </entry>
   <entry>
-    <title>Germany hints at preparations of a Plan B on Greece</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3055201/Germany-hints-preparations-Plan-B-Greece.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-25T13:37:55Z</updated>
-    <published>2015-04-25T13:37:55Z</published>
-    <summary type="html">&lt;p&gt;He indicated that if he were to answer in the affirmative that ministers were working on a Plan B -- what to do when Greece runs out of money and cannot pay back its debt -- he could trigger panic.&lt;/p&gt;&lt;p&gt;The finance minister of Slovenia suggested at that meeting that because the talks, that have been going on for three months, were leading nowhere, perhaps euro zone ministers should starting discussing a Plan B -- what happens if Greece defaults.&lt;/p&gt;</summary>
-    <dc:date>2015-04-25T13:37:55Z</dc:date>
-  </entry>
-  <entry>
     <title>UBS chairman says Greek default increasingly seen by IMF as controllable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/25/us-ubs-group-greece-idUSKBN0NG0EQ20150425?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
@@ -3522,17 +3556,6 @@
     <published>2015-04-22T22:02:24Z</published>
     <summary type="html">&lt;p&gt;"We hope that both federations understand the serious, accumulating problems of Greek football and that they will engage constructively and actively in the process of consolidation, democratisation and transparency," he added.&lt;/p&gt;</summary>
     <dc:date>2015-04-22T22:02:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>UEFA, FIFA warn Greece over government's planned new laws</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;amp;objectid=11437093&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T16:55:12Z</updated>
-    <published>2015-04-22T16:55:12Z</published>
-    <summary type="html">&lt;p&gt;In 2006, FIFA briefly suspended Greece when European champion for government interference.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T16:55:12Z</dc:date>
   </entry>
   <entry>
     <title>Germany: 'Very limited expectations' of Greece deal Friday</title>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State: not just beheadings but taxes and business rules too</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-not-just-beheadings-but-taxes-and-business-rules-too-20150608-ghiv44.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T05:49:41Z</updated>
+    <published>2015-06-08T05:49:41Z</published>
+    <summary type="html">&lt;p&gt;While IS charges zakat - an Islamic alms payment similar to income tax - from those who can afford it, Ammar says that in return businesses are protected from theft and corruption.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T05:49:41Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/4/x/6/0/image.related.thumbnail.90x60.ghiv44.png/1433742578881.jpg" />
+  </entry>
+  <entry>
+    <title>Britain to send 125 more troops to Iraq in fight against IS</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3114421/Britain-send-125-troops-Iraq-fight-against-IS.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T17:48:42Z</updated>
+    <published>2015-06-07T17:48:42Z</published>
+    <summary type="html">&lt;p&gt;LONDON (AP) - Prime Minister David Cameron says Britain will send 125 more troops to Iraq to train local forces fighting the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T17:48:42Z</dc:date>
+  </entry>
+  <entry>
     <title>EU's Mogherini blames Islamic State for Tunisia attack</title>
     <link rel="alternate" href="http://news.yahoo.com/eus-mogherini-blames-islamic-state-tunisia-attack-155056350.html" />
     <author>

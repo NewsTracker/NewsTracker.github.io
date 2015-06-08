@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.formula_1_or_f1.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>F1 leader Lewis Hamilton wins Canadian Grand Prix</title>
+    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/06/07/f1-leader-lewis-hamilton-wins-canadian-grand-prix" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T21:15:42Z</updated>
+    <published>2015-06-07T21:15:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-07T21:15:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>German Grand Prix cut from 2015 Formula One calendar</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;amp;objectid=11420894&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T18:45:15Z</updated>
+    <published>2015-03-20T18:45:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-20T18:45:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Ricciardo in love with Montreal's F1 track</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3106739/Ricciardo-love-Montreals-F1-track.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

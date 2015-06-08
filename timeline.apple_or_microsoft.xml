@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Apple wants a lead role in streaming music</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article23334498.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T18:30:05Z</updated>
+    <published>2015-06-07T18:30:05Z</published>
+    <summary type="html">&lt;p&gt;Along with a new music service, industry experts had been expecting Apple to announce a new streaming-video package and upgrades for its Apple TV service.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T18:30:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Apple wants a lead role in streaming music</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article23334498.html%23storylink=rss" />
     <author>
       <name />
