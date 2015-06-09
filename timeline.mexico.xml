@@ -4,39 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Human rights team concerned by torture allegations in Mexico</title>
-    <link rel="alternate" href="http://news.yahoo.com/human-rights-team-concerned-torture-allegations-mexico-185733062.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-11T19:26:35Z</updated>
-    <published>2015-05-11T19:26:35Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY (AP) - A team of outside experts investigating Mexico's handling of the disappearance of 43 students said Monday some of those arrested in relation to the case have said they were tortured, which could affect the outcome if true.&lt;/p&gt;&lt;p&gt;The team from the Inter-American Commission on Human Rights also said on its third visit to Mexico that it was concerned that there were currently 13 different criminal proceedings spread across six courts in different locations.&lt;/p&gt;</summary>
-    <dc:date>2015-05-11T19:26:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mexico City probes metro collision; worker dies in aftermath</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11444052&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-05T21:25:13Z</updated>
-    <published>2015-05-05T21:25:13Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY (AP) " Mexico City authorities are investigating whether bad weather or excessive speed may have played a part in a two-train metro crash that injured 12 people.&lt;/p&gt;&lt;p&gt;Witnesses said the accident happened Monday evening during a heavy hail storm along Line 5 of the metro system near Mexico City's international airport.&lt;/p&gt;</summary>
-    <dc:date>2015-05-05T21:25:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Gunmen open fire on Mexico Army chopper as violence roils major state</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3064700/Gunmen-open-fire-Mexican-Army-helicopter-3-killed--ministry.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-02T00:02:18Z</updated>
-    <published>2015-05-02T00:02:18Z</published>
-    <summary type="html">&lt;p&gt;Though the official homicide toll in Jalisco has fallen since Pena Nieto took office in December 2012, the president identified the state as one of the areas most at risk when he set out plans to improve security in Mexico last November.&lt;/p&gt;</summary>
-    <dc:date>2015-05-02T00:02:18Z</dc:date>
-  </entry>
-  <entry>
     <title>Ambush that killed 15 police in western Mexico a rarity</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-08-LT--Mexico-Violence/id-ac715f59b86546ce9c309f7bc9407e72" />
     <author>
@@ -1586,6 +1553,17 @@
     <published>2015-05-11T20:33:39Z</published>
     <summary type="html">&lt;p&gt;MEXICO CITY (AP) - Mexico has announced the opening of bidding for oil and gas drilling rights in 26 areas, the latest in a sweeping oil reform that allows participation of foreign companies.&lt;/p&gt;</summary>
     <dc:date>2015-05-11T20:33:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>Human rights team concerned by torture allegations in Mexico</title>
+    <link rel="alternate" href="http://news.yahoo.com/human-rights-team-concerned-torture-allegations-mexico-185733062.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T19:26:35Z</updated>
+    <published>2015-05-11T19:26:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-11T19:26:35Z</dc:date>
   </entry>
   <entry>
     <title>Mexico may have right girl to return to mother in Texas</title>

@@ -4,50 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Syria says Islamic State kills hundreds, including children, in Palmyra</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3095023/Syria-says-Islamic-State-executes-hundreds-Palmyra.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-24T19:19:58Z</updated>
-    <published>2015-05-24T19:19:58Z</published>
-    <summary type="html">&lt;p&gt;Western countries and their Arab allies are bombing Islamic State but supporting other anti-Assad forces elsewhere in the country, where government troops have lost territory in recent months.&lt;/p&gt;</summary>
-    <dc:date>2015-05-24T19:19:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Doubts raised about Islamic State's claim in Texas attack</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-06-US--Prophet%20Cartoon%20Contest-Shooting/id-4bd2658620174096a4599ebaa3560591" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-06T05:59:41Z</updated>
-    <published>2015-05-06T05:59:41Z</published>
-    <summary type="html">&lt;p&gt;Simpson had worshipped at the Islamic Community Center of Phoenix for about a decade, but he quit showing up over the past two or three months, the president of the mosque told The Associated Press.&lt;/p&gt;</summary>
-    <dc:date>2015-05-06T05:59:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Paris terror attack foiled when Islamic radical shoots self</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/world/paris-terror-attack-foiled-islamic-radical-shoots-article-1.2194112?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T11:35:43Z</updated>
-    <published>2015-04-22T11:35:43Z</published>
-    <summary type="html">&lt;p&gt;In the man's apartment, in southeastern Paris, more weapons were found as well as Islamic extremist material, the official said.&lt;/p&gt;&lt;p&gt;In that case, at least two of the gunmen had been flagged to French intelligence - and the third had been recently released from prison after serving a sentence involving his ties to Islamic extremists - but surveillance was called off months before the attack.&lt;/p&gt;&lt;p&gt;PARIS - An Islamic extremist with an arsenal of loaded guns was only prevented from opening fire on Sunday morning churchgoers because he accidentally shot himself, French officials said.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T11:35:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Islamic State video purports to show Kurdish peshmerga beheadings</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/03/20/us-mideast-crisis-islamicstate-beheading-idUSKBN0MG0VH20150320?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T09:50:11Z</updated>
-    <published>2015-03-20T09:50:11Z</published>
-    <summary type="html">&lt;p&gt;ERBIL, Iraq (Reuters) - Islamic State has published a video purporting to show the beheading of three Kurdish peshmerga fighters in northern Iraq by militants who threatened to kill "dozens" more of those being held captive.&lt;/p&gt;&lt;p&gt;Another of the militants then directly addressed Kurdish leader Masoud Barzani: "We warned you before that for every rocket you fire on those under the care of the Islamic State, you will kill one of your prisoners with your own hands."&lt;/p&gt;&lt;p&gt;Kurdish forces shelled inside Mosul several days ago in what the peshmerga ministry said was retaliation for an Islamic State missile that landed in a vegetable market outside the regional capital of Erbil on Monday.&lt;/p&gt;&lt;p&gt;More than 1,000 peshmerga have been killed in combat with Islamic State militants since they overran a third of Iraq last summer, but several hundred Kurds have joined the other side and are fighting against their ethnic kin.&lt;/p&gt;&lt;p&gt;Islamic State has previously beheaded Western aid workers and journalists as well as domestic opponents in Syria and Iraq.&lt;/p&gt;</summary>
-    <dc:date>2015-03-20T09:50:11Z</dc:date>
-  </entry>
-  <entry>
     <title>Islamic State's Saudi branch calls for clearing Arabian Peninsula of Shi'ites</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3103692/Islamic-States-Saudi-branch-calls-clearing-Arabian-Peninsula-Shiites.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -3368,6 +3324,17 @@
     <dc:date>2015-04-22T13:14:52Z</dc:date>
   </entry>
   <entry>
+    <title>Paris terror attack foiled when Islamic radical shoots self</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/world/paris-terror-attack-foiled-islamic-radical-shoots-article-1.2194112?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T11:35:43Z</updated>
+    <published>2015-04-22T11:35:43Z</published>
+    <summary type="html">&lt;p&gt;In the man's apartment, in southeastern Paris, more weapons were found as well as Islamic extremist material, the official said.&lt;/p&gt;&lt;p&gt;In that case, at least two of the gunmen had been flagged to French intelligence - and the third had been recently released from prison after serving a sentence involving his ties to Islamic extremists - but surveillance was called off months before the attack.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T11:35:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Thousands of Ethiopians march against Islamic extremism</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19204539.html%23storylink=rss" />
     <author>
@@ -6646,6 +6613,17 @@
     <published>2015-03-20T14:41:43Z</published>
     <summary type="html" />
     <dc:date>2015-03-20T14:41:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State video purports to show Kurdish peshmerga beheadings</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/03/20/us-mideast-crisis-islamicstate-beheading-idUSKBN0MG0VH20150320?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T09:50:11Z</updated>
+    <published>2015-03-20T09:50:11Z</published>
+    <summary type="html">&lt;p&gt;ERBIL, Iraq (Reuters) - Islamic State has published a video purporting to show the beheading of three Kurdish peshmerga fighters in northern Iraq by militants who threatened to kill "dozens" more of those being held captive.&lt;/p&gt;&lt;p&gt;Another of the militants then directly addressed Kurdish leader Masoud Barzani: "We warned you before that for every rocket you fire on those under the care of the Islamic State, you will kill one of your prisoners with your own hands."&lt;/p&gt;&lt;p&gt;Kurdish forces shelled inside Mosul several days ago in what the peshmerga ministry said was retaliation for an Islamic State missile that landed in a vegetable market outside the regional capital of Erbil on Monday.&lt;/p&gt;&lt;p&gt;More than 1,000 peshmerga have been killed in combat with Islamic State militants since they overran a third of Iraq last summer, but several hundred Kurds have joined the other side and are fighting against their ethnic kin.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T09:50:11Z</dc:date>
   </entry>
   <entry>
     <title>Islamic State claims responsibility for Tunisia attack</title>

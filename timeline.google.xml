@@ -4,29 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Russia threatens block on Google, Twitter, Facebook</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/russia-threatens-block-google-twitter-134627601.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-22T16:24:47Z</updated>
-    <published>2015-05-22T16:24:47Z</published>
-    <summary type="html">&lt;p&gt;Google, Twitter and Facebook face being blocked in Russia after being warned against violating the country's controversial blogging laws.&lt;/p&gt;</summary>
-    <dc:date>2015-05-22T16:24:47Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/nZ8IVrweNuvBiAdYYW0grQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/15abe7977de66a4c891d001a05df48ab" />
-  </entry>
-  <entry>
-    <title>Google versus Oracle case exposes differences within Obama administration</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/05/15/us-google-oracle-lawsuit-insight-idUSKBN0O017Z20150515?feedType=RSS&amp;amp;feedName=technologyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-15T17:08:25Z</updated>
-    <published>2015-05-15T17:08:25Z</published>
-    <summary type="html">&lt;p&gt;A San Francisco federal judge decided that the Java APIs replicated by Google were not subject to copyright protection and were free for all to use.&lt;/p&gt;</summary>
-    <dc:date>2015-05-15T17:08:25Z</dc:date>
-  </entry>
-  <entry>
     <title>Google app store gets more oversight</title>
     <link rel="alternate" href="http://technology.canoe.ca/Mobile/News/2015/03/17/22291851.html?cid=rsstechnology" />
     <author>
@@ -558,6 +535,18 @@
     <published>2015-05-23T17:42:00Z</published>
     <summary type="html">&lt;p&gt;SAN FRANCISCO -- Google has filed a patent for toys that pay attention to who is in a room and can interact with other media devices.&lt;/p&gt;</summary>
     <dc:date>2015-05-23T17:42:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russia threatens block on Google, Twitter, Facebook</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/russia-threatens-block-google-twitter-134627601.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T16:24:47Z</updated>
+    <published>2015-05-22T16:24:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-22T16:24:47Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/nZ8IVrweNuvBiAdYYW0grQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/15abe7977de66a4c891d001a05df48ab" />
   </entry>
   <entry>
     <title>Fin24.com | Russia warns Google, Twitter, Facebook on web laws</title>
