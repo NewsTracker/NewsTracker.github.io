@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court sentences TV broadcaster to 1 year for slander</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-court-sentences-tv-broadcaster-1-slander-185741212.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T18:57:41Z</updated>
+    <published>2015-06-09T18:57:41Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-09T18:57:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt's CIB buying Citibank's local retail operations</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11462662&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T18:10:16Z</updated>
+    <published>2015-06-09T18:10:16Z</published>
+    <summary type="html">&lt;p&gt;Citibank Egypt's website says it has 100,000 retail customers and operates 9 branches, including 8 in Cairo, and one in Alexandria.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T18:10:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt's CIB buying Citibank's local retail operations</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/09/egypts-cib-buying-citibanks-local-retail-operations" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T18:04:23Z</updated>
+    <published>2015-06-09T18:04:23Z</published>
+    <summary type="html">&lt;p&gt;CAIRO (AP) - Egypt's Commercial International Bank, the country's largest private-sector bank, has signed an agreement to acquire Citibank Egypt's retail operations that had been up for sale.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T18:04:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Overpopulated Egypt Seeks to Reduce Fertility Rate by 2030</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-aims-reduce-fertility-rate-24-2030-31634845" />
     <author>

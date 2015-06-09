@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Who-s-Who-in-music-streaming-Apple-Spotify-6316853.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T21:01:24Z</updated>
+    <published>2015-06-09T21:01:24Z</published>
+    <summary type="html">&lt;p&gt;- With last year's purchase of headphones maker Beats, Apple got Beats Music, which offers unlimited listening and offline playback for $10 a month.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T21:01:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/09/whos-who-in-music-streaming-apple-spotify-pandora-more" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T21:01:24Z</updated>
+    <published>2015-06-09T21:01:24Z</published>
+    <summary type="html">&lt;p&gt;The maker of iPods and iPhones announced Apple Music, an app that combines Beats 1, a 24-hour, seven-day live radio station, with an on-demand music streaming service.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T21:01:24Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple unveils music-streaming app</title>
     <link rel="alternate" href="http://www.belfasttelegraph.co.uk/entertainment/music/news/apple-unveils-musicstreaming-app-31287859.html" />
     <author>

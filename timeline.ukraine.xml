@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine fuel depot fire kills 1, several injured near Kiev</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/09/ukraine-fuel-depot-fire-kills-1-several-injured-near-kiev" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T16:58:02Z</updated>
+    <published>2015-06-09T16:58:02Z</published>
+    <summary type="html">&lt;p&gt;KIEV, Ukraine (AP) - Ukrainian firefighters on Tuesday managed to contain a major blaze that had engulfed a fuel depot near Kiev, preventing it from spreading to another fuel depot and a nearby military base.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T16:58:02Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/f7b22dc/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F6c%2F441377966dba2877e4bba89038c58f%2Fmedia%3Aaa41d6a349314f428e96a04f5429da18Ukraine.JPEG" />
+  </entry>
+  <entry>
+    <title>Ukraine journalist Oles Buzina killed by masked gunmen in Kiev: interior ministry</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ukraine-journalist-oles-buzina-killed-by-masked-gunmen-in-kiev-interior-ministry-20150416-1mmvgl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T12:29:03Z</updated>
+    <published>2015-04-16T12:29:03Z</published>
+    <summary type="html">&lt;p&gt;Russian President Vladimir Putin: "This is not the first political assassination. Ukraine is dealing with a whole string of such murders."&lt;/p&gt;&lt;p&gt;Oles Buzina, 45, was known for his pro-Russian opinion pieces published in Ukraine's Sevodnya daily newspaper, which is part of the media empire of Ukraine's richest businessman Rinat Akhmetov.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T12:29:03Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/m/v/s/g/image.related.articleLeadwide.620x349.1mmvgl.png/1429194488316.jpg" />
+  </entry>
+  <entry>
+    <title>Separatist leaders threaten to abandon Ukraine ceasefire</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/separatist-leaders-threaten-to-abandon-ukraine-ceasefire-1.2285196" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T09:39:00Z</updated>
+    <published>2015-03-18T09:39:00Z</published>
+    <summary type="html">&lt;p&gt;"We agreed to a special status for the Donbass within a renewed Ukraine, although our people wanted total independence. We agreed to this to avoid the spilling of fraternal blood," the statement said.&lt;/p&gt;&lt;p&gt;A Ukrainian foreign ministry spokesman said in an emailed statement that enacting the special status law without elections approved by Kyiv would result in the legitimization of what Ukraine considers unlawful rebel governments.&lt;/p&gt;&lt;p&gt;Russian Foreign Minister Sergey Lavrov said Ukraine's parliament had undertaken a wholesale rewriting of the agreement.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T09:39:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Drone footage of Ukraine fire</title>
     <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/europe/ukraine/11662757/Drone-footage-of-Ukraine-fire.html" />
     <author>
@@ -249,18 +284,6 @@
     <summary type="html">&lt;p&gt;He also said some members of his unit had crossed into Ukraine.&lt;/p&gt;</summary>
     <dc:date>2015-05-28T07:08:52Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/88c/news/world/article24658721.ece/ALTERNATES/w220/MOS009-UKRAINE-CRISIS+RUSSI.JPG" />
-  </entry>
-  <entry>
-    <title>Ukraine journalist Oles Buzina killed by masked gunmen in Kiev: interior ministry</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ukraine-journalist-oles-buzina-killed-by-masked-gunmen-in-kiev-interior-ministry-20150416-1mmvgl.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-16T12:29:03Z</updated>
-    <published>2015-04-16T12:29:03Z</published>
-    <summary type="html">&lt;p&gt;Russian President Vladimir Putin: "This is not the first political assassination. Ukraine is dealing with a whole string of such murders."&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T12:29:03Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/m/v/s/g/image.related.articleLeadwide.620x349.1mmvgl.png/1429194488316.jpg" />
   </entry>
   <entry>
     <title>Misery, tuberculosis in prisons of war-torn east Ukraine</title>
@@ -3821,17 +3844,6 @@
     <summary type="html">&lt;p&gt;Zakharchenko and Plotnitsky said placement of a peacekeeping contingent had not been agreed at cease-fire negotiations concluded between the leaders of Ukraine, Russia, Germany and France last month in the Belarusian capital, Minsk.&lt;/p&gt;</summary>
     <dc:date>2015-03-18T10:15:31Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/ZQpjUvVu0gEtguK4FUD4Rw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/f72b4f428643bf0d710f6a7067004b57.jpg.cf.jpg" />
-  </entry>
-  <entry>
-    <title>Separatist leaders threaten to abandon Ukraine ceasefire</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/world/separatist-leaders-threaten-to-abandon-ukraine-ceasefire-1.2285196" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T09:39:00Z</updated>
-    <published>2015-03-18T09:39:00Z</published>
-    <summary type="html">&lt;p&gt;"We agreed to a special status for the Donbass within a renewed Ukraine, although our people wanted total independence. We agreed to this to avoid the spilling of fraternal blood," the statement said.&lt;/p&gt;&lt;p&gt;A Ukrainian foreign ministry spokesman said in an emailed statement that enacting the special status law without elections approved by Kyiv would result in the legitimization of what Ukraine considers unlawful rebel governments.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T09:39:00Z</dc:date>
   </entry>
   <entry>
     <title>Ukraine rebels warn they could abandon cease-fire amid anger over changes to self-rule law</title>
