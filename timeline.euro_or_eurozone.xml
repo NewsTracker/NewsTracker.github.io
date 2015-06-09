@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.euro_or_eurozone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Asian stocks sag, Greek worries continue to dog euro</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3020717/Asian-stocks-sag-Greek-worries-continue-dog-euro.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T01:12:40Z</updated>
+    <published>2015-04-01T01:12:40Z</published>
+    <summary type="html">&lt;p&gt;The euro was little changed at $1.0742, having shed 0.9 percent overnight.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T01:12:40Z</dc:date>
+  </entry>
+  <entry>
     <title>European shares fall amid Greek impasse, weak euro zone data</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3102573/European-shares-tumble-amid-Greek-impasse-weak-euro-zone-data.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1591,17 +1602,6 @@
     <published>2015-04-06T02:15:27Z</published>
     <summary type="html">&lt;p&gt;Greece is in difficult negotiations with creditors over its bailout program, which has delayed the disbursement of a 7.2 billion euro ($7.9 billion) aid tranche.&lt;/p&gt;&lt;p&gt;Greece must repay a 450 million euro IMF loan installment on Thursday.&lt;/p&gt;</summary>
     <dc:date>2015-04-06T02:15:27Z</dc:date>
-  </entry>
-  <entry>
-    <title>Asian stocks sag, Greek worries continue to dog euro</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3020717/Asian-stocks-sag-Greek-worries-continue-dog-euro.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-01T01:12:40Z</updated>
-    <published>2015-04-01T01:12:40Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-01T01:12:40Z</dc:date>
   </entry>
   <entry>
     <title>Asian stocks sag, Greek worries continue to dog euro</title>

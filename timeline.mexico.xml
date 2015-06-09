@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico soccer probe targets coach Herrera, 2 players over partisan tweets on election day</title>
+    <link rel="alternate" href="http://www.startribune.com/mexican-soccer-probes-coach-2-players-over-partisan-tweets/306642141/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T15:35:37Z</updated>
+    <published>2015-06-09T15:35:37Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - The Mexican Soccer Federation is investigating national team coach Miguel Herrera and two players over politically tinged tweets sent the day of the country's recent elections.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T15:35:37Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexican Soccer probes coach, 2 players over partisan tweets</title>
+    <link rel="alternate" href="http://news.yahoo.com/mexican-soccer-probes-coach-2-players-over-partisan-143231023.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T15:29:25Z</updated>
+    <published>2015-06-09T15:29:25Z</published>
+    <summary type="html">&lt;p&gt;Peralta, who plays professionally for Club America of Mexico City, sent tweets urging Mexicans to vote using a hash tag that translates as "WearGreen" and was used by others to promote the party.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T15:29:25Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/UI4NaN.xgtenW.2Z2QJWfQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtpbD1wbGFuZTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/ap_webfeeds/6207c9f07229be19780f6a7067001e3d.jpg" />
+  </entry>
+  <entry>
     <title>The Latest: New Mexico Legislature OKs bills, adjourns</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article23485900.html%23storylink=rss" />
     <author>

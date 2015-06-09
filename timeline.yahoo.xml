@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Detroit Red Wings hire Jeff Blashill to replace Babcock (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/detroit-red-wings-hire-jeff-blashill-replace-babcock-151042413--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T15:30:46Z</updated>
+    <published>2015-06-09T15:30:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-09T15:30:46Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/L0zgg1tlfS0HdnMFaReOMw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506091018371012850" />
+  </entry>
+  <entry>
     <title>US beats defending champ Russia 4-2 at ice hockey worlds (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/us-beats-defending-champ-russia-4-2-ice-164338275--nhl.html" />
     <author>

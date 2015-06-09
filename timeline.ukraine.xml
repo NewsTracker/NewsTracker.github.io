@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Drone footage of Ukraine fire</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/europe/ukraine/11662757/Drone-footage-of-Ukraine-fire.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T14:46:57Z</updated>
+    <published>2015-06-09T14:46:57Z</published>
+    <summary type="html">&lt;p&gt;However, Ukraine urgently evacuated hundreds of residents from the site of a series of fuel depot blasts after the fire spread, leaving several people missing and at least one confirmed dead.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T14:46:57Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03205/ukraine_-_mariupol_3205859g.jpg" />
+  </entry>
+  <entry>
     <title>Ukraine fuel depot fire kills 1, several injured near Kiev</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/09/ukraine-fuel-depot-fire-kills-1-several-injured-near-kiev" />
     <author>
