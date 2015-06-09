@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore clashes: violence flares after Freddie Gray's funeral</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11567160/Baltimore-clashes-violence-flares-after-Freddie-Grays-funeral.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:42:11Z</updated>
+    <published>2015-04-27T21:42:11Z</published>
+    <summary type="html">&lt;p&gt;Seven Baltimore police officers were injured on Monday as rioters threw bricks and stones and burned patrol cars in violent protests after the funeral of a black man who died in police custody.&lt;/p&gt;&lt;p&gt;Baltimore Police Captain Eric Kowalczyk said at a police briefing that one of the injured police officers was unresponsive and several had broken bones.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:42:11Z</dc:date>
+  </entry>
+  <entry>
     <title>2 more slayings as spike in Baltimore violence continues</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3114470/2-slayings-spike-Baltimore-violence-continues.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -2522,17 +2533,6 @@
     <published>2015-04-27T22:40:18Z</published>
     <summary type="html" />
     <dc:date>2015-04-27T22:40:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Baltimore clashes: violence flares after Freddie Gray's funeral</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/11567160/Baltimore-clashes-violence-flares-after-Freddie-Grays-funeral.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-27T21:42:11Z</updated>
-    <published>2015-04-27T21:42:11Z</published>
-    <summary type="html">&lt;p&gt;Seven Baltimore police officers were injured on Monday as rioters threw bricks and stones and burned patrol cars in violent protests after the funeral of a black man who died in police custody.&lt;/p&gt;</summary>
-    <dc:date>2015-04-27T21:42:11Z</dc:date>
   </entry>
   <entry>
     <title>AP PHOTOS: Riots hit Baltimore after Freddie Gray funeral</title>

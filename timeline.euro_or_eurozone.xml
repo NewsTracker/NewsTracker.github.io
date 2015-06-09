@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.euro_or_eurozone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Euro zone recovery just got a 'reality check'</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/euro-zone-recovery-just-got-090630451.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T09:06:30Z</updated>
+    <published>2015-04-23T09:06:30Z</published>
+    <summary type="html">&lt;p&gt;"Euro zone manufacturing and services expansion unexpectedly moderated in April according to the purchasing managers, perhaps providing a reality check on the strength of the region's upturn."&lt;/p&gt;&lt;p&gt;The euro zone's economic recovery could be at risk of losing momentum, surveys from the region's services and manufacturing sectors indicated Thursday.&lt;/p&gt;&lt;p&gt;"Looking ahead, there is a clear risk that the composite PMI falls further as concerns about the situation in Greece and a possible euro exit intensify, raising the threat of a renewed economic slowdown in the euro-zone,"said Hinds.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T09:06:30Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
     <title>6 sentenced for 44 million-euro fraud of state company</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11462047&amp;amp;ref=rss" />
     <author>
@@ -1110,18 +1122,6 @@
     <summary type="html">&lt;p&gt;The eurozone's top official has said "time is running out" for Greece to reach a deal with bailout creditors.&lt;/p&gt;&lt;p&gt;Many in the markets think Greece has until May 11, when eurozone finance ministers are scheduled to meet next, to secure a deal.&lt;/p&gt;</summary>
     <dc:date>2015-04-24T06:56:06Z</dc:date>
     <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31167539.ece/63381/ALTERNATES/h342/PANews%20BT_P-7b7e1169-7820-4b5c-b189-35cfa33f7469_I1.jpg" />
-  </entry>
-  <entry>
-    <title>Euro zone recovery just got a 'reality check'</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/euro-zone-recovery-just-got-090630451.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-23T09:06:30Z</updated>
-    <published>2015-04-23T09:06:30Z</published>
-    <summary type="html">&lt;p&gt;"Euro zone manufacturing and services expansion unexpectedly moderated in April according to the purchasing managers, perhaps providing a reality check on the strength of the region's upturn."&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T09:06:30Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
   </entry>
   <entry>
     <title>Shares, euro sag after euro zone PMIs disappoint</title>

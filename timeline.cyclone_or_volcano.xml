@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Great Barrier Reef braces for cyclone hit</title>
+    <link rel="alternate" href="http://cnews.canoe.ca/CNEWS/World/2015/03/19/22296121.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T04:46:56Z</updated>
+    <published>2015-03-19T04:46:56Z</published>
+    <summary type="html">&lt;p&gt;Queensland Premier Annastacia Palaszczuk said up to 9,000 people could be directly in the path of the cyclone by the time it builds to category four strength, the second highest level.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T04:46:56Z</dc:date>
+    <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://cnews.canoe.ca/CNEWS/Microgalleries/2015/03/21/tide.jpg&amp;amp;amp;size=200x112&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Cyclone Marcia: Climate change is expanding the tropics</title>
+    <link rel="alternate" href="http://www.theage.com.au/environment/climate-change/cyclone-marcia-climate-change-is-expanding-the-tropics-20150220-13kdfi.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-20T05:59:54Z</updated>
+    <published>2015-02-20T05:59:54Z</published>
+    <summary type="html">&lt;p&gt;Queensland residents and authorities are rushing to prepare as Cyclone Marcia intensifies and makes her presence felt.&lt;/p&gt;</summary>
+    <dc:date>2015-02-20T05:59:54Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/3/k/f/v/2/image.related.articleLeadwide.620x349.13kdfi.png/1424412062792.jpg" />
+  </entry>
+  <entry>
     <title>Volcano erupts for third time in 8 days</title>
     <link rel="alternate" href="http://edition.cnn.com/2015/04/30/world/chile-calbuco-volcano/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+CNN+-+World%29" />
     <author>

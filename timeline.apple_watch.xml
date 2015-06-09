@@ -4,15 +4,16 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_watch.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Latest from Apple's WWDC: Music app to cost $10 a month</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/latest-from-apple-s-wwdc-music-app-to-cost-10-a-month-1.2412093" />
+    <title>How to get an Apple Watch by Tuesday</title>
+    <link rel="alternate" href="http://money.cnn.com/2015/04/22/technology/apple-watch-early-lottery/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fmoney_latest+%28CNNMoney%3A+Latest+News%29" />
     <author>
       <name />
     </author>
-    <updated>2015-06-08T17:42:00Z</updated>
-    <published>2015-06-08T17:42:00Z</published>
-    <summary type="html">&lt;p&gt;Apple uses the Worldwide Developers Conference to preview new features for Macs, iPhones and other devices.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T17:42:00Z</dc:date>
+    <updated>2015-04-22T13:10:50Z</updated>
+    <published>2015-04-22T13:10:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-22T13:10:50Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/money/dam/assets/150422083256-apple-watch-early-lottery-780x439.jpg" />
   </entry>
   <entry>
     <title>Apple expected to focus on watch, music at developer conference</title>

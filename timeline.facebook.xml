@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia threatens block on Google, Twitter, Facebook</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/russia-threatens-block-google-twitter-134627601.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T16:24:47Z</updated>
+    <published>2015-05-22T16:24:47Z</published>
+    <summary type="html">&lt;p&gt;Google, Twitter and Facebook face being blocked in Russia after being warned against violating the country's controversial blogging laws.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T16:24:47Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/nZ8IVrweNuvBiAdYYW0grQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/15abe7977de66a4c891d001a05df48ab" />
+  </entry>
+  <entry>
+    <title>Why publishers had to partner with Facebook</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/books/article21274368.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T12:10:15Z</updated>
+    <published>2015-05-18T12:10:15Z</published>
+    <summary type="html">&lt;p&gt;The natural order of the universe was disrupted recently when BuzzFeed, NBC News, The New York Times and a number of other media companies ceded to Facebook the marketing and monetization of portions of their valuable content.&lt;/p&gt;&lt;p&gt;If Facebook sells the ads displayed next to the publisher's content, both sides will split the proceeds equally.&lt;/p&gt;&lt;p&gt;In addition to the trio mentioned above, the other media companies that will be funneling content to Facebook are The Atlantic, BBC News, Bild, The Guardian, National Geographic and Spiegel Online.&lt;/p&gt;&lt;p&gt;The choice to throw in with Facebook could not have been easy for the proud media companies.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T12:10:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google, Facebook join Red Cross to find thousands missing after Nepal quake</title>
+    <link rel="alternate" href="http://news.yahoo.com/google-facebook-join-red-cross-thousands-missing-nepal-164119287.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:47:34Z</updated>
+    <published>2015-04-27T21:47:34Z</published>
+    <summary type="html">&lt;p&gt;Facebook has also launched its Safety Check tool https://www.facebook.com/safetycheck/nepalearthquake for Nepal, drawing praise from Facebook members.&lt;/p&gt;&lt;p&gt;"It's a simple way to let family and friends know you're okay. If you're in one of the areas affected by the earthquake, you'll get a notification asking if you're safe, and whether you want to check on any of your friends," Facebook CEO Mark Zuckerberg posted.&lt;/p&gt;&lt;p&gt;"When you or someone in your family is in danger, you'll try ANY kind of contact and I'm glad Facebook helped me today. Connection is what matters."&lt;/p&gt;&lt;p&gt;"My father and friends are in the area and one of the first contact points we had to get some news was Facebook. This media is not always about likes and fun," the woman wrote in response to Zuckerberg's post.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:47:34Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Facebook unveils plans for more office space</title>
+    <link rel="alternate" href="http://www.latimes.com/business/la-fi-tn-facebook-expansion-20150407-story.html?track=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T18:52:00Z</updated>
+    <published>2015-04-07T18:52:00Z</published>
+    <summary type="html">&lt;p&gt;Facebook's expansion in Menlo Park, Calif., is showing no signs of slowing down.&lt;/p&gt;&lt;p&gt;Also designed by Gehry, the two office buildings would total 985,719 square feet and have a similar look, feel and height to the new Facebook building across from its main headquarters.&lt;/p&gt;&lt;p&gt;Facebook would demolish nine buildings on the site to make way for the new buildings, one of which would include space for events that can hold as many as 2,000 people.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T18:52:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Women pictured on Penn St. frat's Facebook page talk to cops</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article16379135.html%23storylink=rss" />
     <author>
@@ -305,17 +351,6 @@
     <summary type="html">&lt;p&gt;A company website that publishes statistics on how Facebook handles data requests shows it rejected both of two Russian government requests for information on its users in 2014.&lt;/p&gt;</summary>
     <dc:date>2015-05-22T02:08:32Z</dc:date>
     <media:content url="http://www.theguardian.com//i.guim.co.uk/static/w-300/h--/q-95/sys-images/Guardian/Pix/pictures/2015/5/22/1432260289783/a29cf511-cfbe-4436-a018-51b3d0f13ee3-300x180.jpeg" />
-  </entry>
-  <entry>
-    <title>Why publishers had to partner with Facebook</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/books/article21274368.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-18T12:10:15Z</updated>
-    <published>2015-05-18T12:10:15Z</published>
-    <summary type="html">&lt;p&gt;The natural order of the universe was disrupted recently when BuzzFeed, NBC News, The New York Times and a number of other media companies ceded to Facebook the marketing and monetization of portions of their valuable content.&lt;/p&gt;&lt;p&gt;If Facebook sells the ads displayed next to the publisher's content, both sides will split the proceeds equally.&lt;/p&gt;&lt;p&gt;In addition to the trio mentioned above, the other media companies that will be funneling content to Facebook are The Atlantic, BBC News, Bild, The Guardian, National Geographic and Spiegel Online.&lt;/p&gt;&lt;p&gt;The choice to throw in with Facebook could not have been easy for the proud media companies.&lt;/p&gt;</summary>
-    <dc:date>2015-05-18T12:10:15Z</dc:date>
   </entry>
   <entry>
     <title>Fin24.com | Facebook accused of trampling on privacy</title>
@@ -762,18 +797,6 @@
     <published>2015-04-29T04:05:14Z</published>
     <summary type="html">&lt;p&gt;Pew also found that nearly half of Web users learn about politics and government from Facebook, roughly the same percentage as those who seek the news through local television and double those who visit Yahoo or Google News.&lt;/p&gt;</summary>
     <dc:date>2015-04-29T04:05:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google, Facebook join Red Cross to find thousands missing after Nepal quake</title>
-    <link rel="alternate" href="http://news.yahoo.com/google-facebook-join-red-cross-thousands-missing-nepal-164119287.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-27T21:47:34Z</updated>
-    <published>2015-04-27T21:47:34Z</published>
-    <summary type="html">&lt;p&gt;Facebook has also launched its Safety Check tool https://www.facebook.com/safetycheck/nepalearthquake for Nepal, drawing praise from Facebook members.&lt;/p&gt;&lt;p&gt;"It's a simple way to let family and friends know you're okay. If you're in one of the areas affected by the earthquake, you'll get a notification asking if you're safe, and whether you want to check on any of your friends," Facebook CEO Mark Zuckerberg posted.&lt;/p&gt;&lt;p&gt;"When you or someone in your family is in danger, you'll try ANY kind of contact and I'm glad Facebook helped me today. Connection is what matters."&lt;/p&gt;</summary>
-    <dc:date>2015-04-27T21:47:34Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
   </entry>
   <entry>
     <title>Facebook launches video calling in Messenger app</title>
@@ -1264,17 +1287,6 @@
     <summary type="html" />
     <dc:date>2015-04-08T20:49:05Z</dc:date>
     <media:content url="http://i2.cdn.turner.com/money/dam/assets/150408153825-facebook-messenger-website-standalone-576x324.jpg" />
-  </entry>
-  <entry>
-    <title>Facebook unveils plans for more office space</title>
-    <link rel="alternate" href="http://www.latimes.com/business/la-fi-tn-facebook-expansion-20150407-story.html?track=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-07T18:52:00Z</updated>
-    <published>2015-04-07T18:52:00Z</published>
-    <summary type="html">&lt;p&gt;Facebook's expansion in Menlo Park, Calif., is showing no signs of slowing down.&lt;/p&gt;&lt;p&gt;Also designed by Gehry, the two office buildings would total 985,719 square feet and have a similar look, feel and height to the new Facebook building across from its main headquarters.&lt;/p&gt;</summary>
-    <dc:date>2015-04-07T18:52:00Z</dc:date>
   </entry>
   <entry>
     <title>Facebook unveils plans for more office space</title>
