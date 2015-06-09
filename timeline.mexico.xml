@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico President Poised for Majority Despite Discontent</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/ruling-party-leads-1st-independent-wins-mexico-elections-31604551" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T19:16:27Z</updated>
+    <published>2015-06-08T19:16:27Z</published>
+    <summary type="html">&lt;p&gt;Under Mexico's mixed system of direct and proportional elections for congressional seats, analysts predicted the PRI coalition will ultimately control 245 to 263 seats in the 500-seat legislature.&lt;/p&gt;&lt;p&gt;The third main political force, the conservative National Action of the Party that produced Mexico's two previous presidents, maintained more or less steady support with about 21 percent of the vote.&lt;/p&gt;&lt;p&gt;The most notable example was the election of Jaime Rodriguez, known as "El Bronco," who became the first independent candidate in Mexico to win a governor's race, in Nuevo Leon state.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T19:16:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Ambush that killed 15 police in western Mexico a rarity</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-04-08-LT--Mexico-Violence/id-ac715f59b86546ce9c309f7bc9407e72" />
     <author>
