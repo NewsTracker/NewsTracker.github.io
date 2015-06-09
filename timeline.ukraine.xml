@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine fuel depot fire kills 1, several injured near Kiev</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/09/ukraine-fuel-depot-fire-kills-1-several-injured-near-kiev" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T10:14:36Z</updated>
+    <published>2015-06-09T10:14:36Z</published>
+    <summary type="html">&lt;p&gt;At least one killed and a number of firemen were injured on Tuesday as they fought to control a blazing fuel depot outside Ukraine's capital Kiev.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T10:14:36Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/f7b22dc/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F6c%2F441377966dba2877e4bba89038c58f%2Fmedia%3Aaa41d6a349314f428e96a04f5429da18Ukraine.JPEG" />
+  </entry>
+  <entry>
+    <title>Ukraine fuel depot fire kills 1, several injured near Kiev</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Ukraine-fuel-depot-fire-kills-1-several-injured-6315508.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T10:14:36Z</updated>
+    <published>2015-06-09T10:14:36Z</published>
+    <summary type="html">&lt;p&gt;KIEV, Ukraine (AP) - Ukrainian officials say that a major blaze has engulfed a fuel depot near the capital, leaving one man dead and injuring several others.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T10:14:36Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/76/46/8120706/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Ukraine fuel depot fire kills 1, several injured near Kiev</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/09/ukraine-fuel-depot-fire-kills-1-several-injured/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T10:14:36Z</updated>
+    <published>2015-06-09T10:14:36Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-09T10:14:36Z</dc:date>
+    <media:content url="http://media.utsandiego.com/img/photos/2015/06/09/3c4e7e06c1d5e119780f6a7067000e38_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
+  </entry>
+  <entry>
+    <title>Kazakhstan votes for continuity while keeping eye on Ukraine</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Kazakhstan-votes-for-continuity-while-keeping-eye-6221173.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-24T09:16:14Z</updated>
+    <published>2015-04-24T09:16:14Z</published>
+    <summary type="html">&lt;p&gt;Leonard reported from Kiev, Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-24T09:16:14Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/01/46/7870909/5/920x920.jpg" />
+  </entry>
+  <entry>
     <title>'Gigantic' blast hits fuel depot near Kiev, several feared dead</title>
     <link rel="alternate" href="http://news.yahoo.com/gigantic-fire-erupts-fuel-depot-near-kiev-several-073358348.html" />
     <author>

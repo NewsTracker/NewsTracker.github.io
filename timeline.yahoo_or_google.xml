@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google reports mobile searches now top desktop queries</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/google-reports-mobile-searches-now-top-desktop-queries-1.2359656" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T16:35:00Z</updated>
+    <published>2015-05-05T16:35:00Z</published>
+    <summary type="html">&lt;p&gt;Google is adding three more states -- Texas, Illinois and Pennsylvania -- to the auto insurance service.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T16:35:00Z</dc:date>
+  </entry>
+  <entry>
     <title>TCU back to CWS, beats Texas A&amp;M 5-4 in 16 innings (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/tcu-back-cws-beats-texas-m-5-4-061601359-ncaabb.html" />
     <author>

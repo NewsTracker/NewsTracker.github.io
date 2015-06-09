@@ -4,6 +4,75 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's winemakers seek to revive ancient art</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article23565037.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T13:36:24Z</updated>
+    <published>2015-06-09T13:36:24Z</published>
+    <summary type="html">&lt;p&gt;In this Wednesday, May 27, 2015 photo, a worker inspects wine bottles at the Gianaclis winery, one of Egypt's main wineries, in the Nile Delta, north of Cairo, Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T13:36:24Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Egypt Court Sentences 11 to Death Over 2012 Soccer Riot</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-court-sentences-11-death-2012-soccer-riot-31631480" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T11:51:28Z</updated>
+    <published>2015-06-09T11:51:28Z</published>
+    <summary type="html">&lt;p&gt;The riot, Egypt's worst and among the world's deadliest, led to the temporary suspension of Egypt's top flight soccer league.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T11:51:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt court sentences 11 to death over 2012 soccer riot</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Egypt-court-sentences-11-to-death-over-2012-6315500.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T11:50:42Z</updated>
+    <published>2015-06-09T11:50:42Z</published>
+    <summary type="html">&lt;p&gt;The February 2012 riot began at the end of a league match in Port Said between Cairo's Al-Ahly, Egypt's most successful club, and home side Al-Masry.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T11:50:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt court upholds death sentences for 11 soccer fans</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/6/9/egypt-court-upholds-death-sentences-for-11-soccer-fans.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T11:32:00Z</updated>
+    <published>2015-06-09T11:32:00Z</published>
+    <summary type="html">&lt;p&gt;The judge had referred the death sentence in April to Egypt's Grand Mufti Shawqi Allam, the country's most senior religious authority, in a step required by law for convictions in capital cases.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T11:32:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/2/9/soccer-deaths-raise-the-stakes-for-egypts-president-sisi/_jcr_content/image.adapt.480.low.Egypt_soccer_20150209.jpg" />
+  </entry>
+  <entry>
+    <title>Death sentence for football rioters</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/death-sentence-for-football-rioters-31288489.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T10:16:24Z</updated>
+    <published>2015-06-09T10:16:24Z</published>
+    <summary type="html">&lt;p&gt;A criminal court in Egypt's coastal city of Port Said has sentenced 11 people to death over a 2012 football riot that left more than 70 dead and several hundreds injured.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T10:16:24Z</dc:date>
+    <media:content url="http://cdn1.belfasttelegraph.co.uk/news/world-news/article31288488.ece/d4253/ALTERNATES/h342/PANews%20BT_P-72346f9b-078d-4fda-acf3-9bcba0b4e9ab_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt security forces step up sexual violence since Mursi's ouster-human rights group</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3087336/Egypt-security-forces-step-sexual-violence-Mursis-ouster-human-rights-group.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-19T07:42:37Z</updated>
+    <published>2015-05-19T07:42:37Z</published>
+    <summary type="html">&lt;p&gt;Sisi says Egypt faces an existential threat from the Muslim Brotherhood, which Cairo has branded a terrorist group.&lt;/p&gt;</summary>
+    <dc:date>2015-05-19T07:42:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt says Human Rights Watch report politicized, biased</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/09/us-egypt-rights-idUSKBN0OP0RT20150609?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>

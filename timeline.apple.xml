@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>WWDC 2015: Apple finally puts women on stage</title>
+    <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/wwdc-2015-apple-finally-puts-women-on-stage-20150609-ghjflk.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T20:15:17Z</updated>
+    <published>2015-06-08T20:15:17Z</published>
+    <summary type="html">&lt;p&gt;There are three women on Google's board compared to Apple's two.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T20:15:17Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/1/3/z/k/9/i/image.related.articleLeadwide.620x349.ghjflk.png/1433846344802.jpg" />
+  </entry>
+  <entry>
     <title>Apple Music brings change to streaming, but is it enough?</title>
     <link rel="alternate" href="http://news.yahoo.com/apple-music-brings-change-streaming-enough-070237533.html" />
     <author>
