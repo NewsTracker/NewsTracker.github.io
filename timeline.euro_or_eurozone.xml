@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.euro_or_eurozone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Eurozone period of falling prices ends in April</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article19923729.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T14:39:11Z</updated>
+    <published>2015-04-30T14:39:11Z</published>
+    <summary type="html">&lt;p&gt;Tom Rogers, senior economic adviser to the EY Eurozone Forecast, said the unchanged unemployment rate was "somewhat disappointing" but held out the hope that there will be improvements in the months to come.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T14:39:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Euro-Pro recalls 143K vacuum cleaners because of shock risk</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3050809/Euro-Pro-recalls-143K-vacuum-cleaners-shock-risk.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T16:21:06Z</updated>
+    <published>2015-04-22T16:21:06Z</published>
+    <summary type="html">&lt;p&gt;The agency says consumers should contact Euro-Pro to get a replacement wand.&lt;/p&gt;&lt;p&gt;It says Euro-Pro has received 62 reports of the wand detaching from the handle of the vacuum cleaner, but hasn't received any reports of injuries.&lt;/p&gt;&lt;p&gt;The Consumer Product Safety Commission said Euro-Pro Operating LLC is recalling four models of its Shark brand Rotator Powered Lift-Airway vacuum cleaner.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T16:21:06Z</dc:date>
+  </entry>
+  <entry>
     <title>6 sentenced for 44 million-euro fraud of state company</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11462047&amp;amp;ref=rss" />
     <author>
@@ -1133,17 +1155,6 @@
     <published>2015-04-23T08:36:25Z</published>
     <summary type="html" />
     <dc:date>2015-04-23T08:36:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>Euro-Pro recalls 143K vacuum cleaners because of shock risk</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3050809/Euro-Pro-recalls-143K-vacuum-cleaners-shock-risk.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T16:21:06Z</updated>
-    <published>2015-04-22T16:21:06Z</published>
-    <summary type="html">&lt;p&gt;The agency says consumers should contact Euro-Pro to get a replacement wand.&lt;/p&gt;&lt;p&gt;It says Euro-Pro has received 62 reports of the wand detaching from the handle of the vacuum cleaner, but hasn't received any reports of injuries.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T16:21:06Z</dc:date>
   </entry>
   <entry>
     <title>Wall St mixed; euro rises against dollar</title>

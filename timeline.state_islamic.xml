@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Syrian official: Islamic State militants in Palmyra's museum</title>
+    <link rel="alternate" href="http://news.yahoo.com/syrian-official-islamic-state-militants-palmyras-museum-093436329.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-23T19:50:46Z</updated>
+    <published>2015-05-23T19:50:46Z</published>
+    <summary type="html">&lt;p&gt;But Abdulkarim warned that the Islamic State group's control of the town remains a danger to its archaeological sites.&lt;/p&gt;&lt;p&gt;Al-Azm said the only way to save the ancient site is by driving the Islamic State group out of the town.&lt;/p&gt;</summary>
+    <dc:date>2015-05-23T19:50:46Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/TDvzHvwVW5dgdtEZkbvz8A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/568ab9eb05ae4a17770f6a706700cdee.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State issues audio of Baghdadi calling supporters to join him</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3082330/Islamic-State-issues-audio-Baghdadi-calling-supporters-join-him.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T23:04:45Z</updated>
+    <published>2015-05-14T23:04:45Z</published>
+    <summary type="html">&lt;p&gt;With the United States conducting air strikes against Islamic State positions, reports have circulated that Baghdadi had been seriously wounded and had handed leadership over to a deputy.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T23:04:45Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State's Saudi branch calls for clearing Arabian Peninsula of Shi'ites</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3103692/Islamic-States-Saudi-branch-calls-clearing-Arabian-Peninsula-Shiites.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1198,18 +1221,6 @@
     <summary type="html">&lt;p&gt;One officer said the Shi'ite-led forces exchanged fire with Islamic State but there was no immediate word on casualties.&lt;/p&gt;&lt;p&gt;At the same time, Islamic State units have been pushing toward Fallujah to try to absorb more territory between it and Ramadi that would bring them closer to Baghdad, the Iraqi capital, around 80 km (50 miles) to the east.&lt;/p&gt;</summary>
     <dc:date>2015-05-23T21:46:10Z</dc:date>
     <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150523&amp;amp;t=2&amp;amp;i=1050599977&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB4M02J" />
-  </entry>
-  <entry>
-    <title>Syrian official: Islamic State militants in Palmyra's museum</title>
-    <link rel="alternate" href="http://news.yahoo.com/syrian-official-islamic-state-militants-palmyras-museum-093436329.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-23T19:50:46Z</updated>
-    <published>2015-05-23T19:50:46Z</published>
-    <summary type="html">&lt;p&gt;But Abdulkarim warned that the Islamic State group's control of the town remains a danger to its archaeological sites.&lt;/p&gt;</summary>
-    <dc:date>2015-05-23T19:50:46Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/TDvzHvwVW5dgdtEZkbvz8A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/568ab9eb05ae4a17770f6a706700cdee.jpg" />
   </entry>
   <entry>
     <title>Shi'ite militias advance on Islamic State insurgents near Iraq's Ramadi</title>

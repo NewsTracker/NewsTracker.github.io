@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_watch.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple?s Watch Gets Native Apps</title>
+    <link rel="alternate" href="http://blogs.wsj.com/digits/2015/06/08/apples-watch-gets-native-apps/?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T22:32:11Z</updated>
+    <published>2015-06-08T22:32:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-08T22:32:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple show: Music streaming, watch apps and 'El Capitan'</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11462230&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T22:20:16Z</updated>
+    <published>2015-06-08T22:20:16Z</published>
+    <summary type="html">&lt;p&gt;Developers will now be able to make apps specifically for Apple Watch and interact directly with the watch's sensors and controls, such as the dial.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T22:20:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Latest from Apple's WWDC: Music app to cost $10 a month</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/latest-from-apple-s-wwdc-music-app-to-cost-10-a-month-1.2412093" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T17:42:00Z</updated>
+    <published>2015-06-08T17:42:00Z</published>
+    <summary type="html">&lt;p&gt;Apple uses the Worldwide Developers Conference to preview new features for Macs, iPhones and other devices.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T17:42:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple expected to focus on watch, music at developer conference</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/08/us-apple-developers-idUSKBN0OO0ME20150608?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>

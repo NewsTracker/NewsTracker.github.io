@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Analysis: US experts on Russia fear escalation over Ukraine crisis, see a wider conflict</title>
+    <link rel="alternate" href="http://www.startribune.com/business/302291031.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-02T07:25:14Z</updated>
+    <published>2015-05-02T07:25:14Z</published>
+    <summary type="html">&lt;p&gt;Putin has said he's never going to desert the people in eastern Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-05-02T07:25:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine Says 7 Soldiers Die When Truck Hits Mine</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/ukraine-soldiers-die-truck-hits-mine-31619245" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T19:01:26Z</updated>
+    <published>2015-06-08T19:01:26Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's military says seven soldiers have died in eastern Ukraine after their truck hit a mine near the largest city in the war-torn east.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T19:01:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine says 7 soldiers die when truck hits mine</title>
+    <link rel="alternate" href="http://news.yahoo.com/ukraine-says-7-soldiers-die-truck-hits-mine-190052858.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T19:00:52Z</updated>
+    <published>2015-06-08T19:00:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-08T19:00:52Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/Xe8l3RPHOfsZ2uHQQoQnqA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-06-08T130459Z_1007000002_LYNXMPEB570J8_RTROPTP_2_CNEWS-US-UKRAINE-CRISIS-RUSSIA-HISTORY.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>Exclusive: Russia refuses to sign IAEA annual report, says Sevastopol not in Ukraine</title>
     <link rel="alternate" href="http://news.yahoo.com/exclusive-russia-refuses-sign-iaea-annual-report-says-154305155.html" />
     <author>

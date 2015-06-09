@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google, Facebook join Red Cross to find thousands missing after Nepal quake</title>
+    <link rel="alternate" href="http://news.yahoo.com/google-facebook-join-red-cross-thousands-missing-nepal-164119287.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:47:34Z</updated>
+    <published>2015-04-27T21:47:34Z</published>
+    <summary type="html">&lt;p&gt;Facebook has also launched its Safety Check tool https://www.facebook.com/safetycheck/nepalearthquake for Nepal, drawing praise from Facebook members.&lt;/p&gt;&lt;p&gt;"It's a simple way to let family and friends know you're okay. If you're in one of the areas affected by the earthquake, you'll get a notification asking if you're safe, and whether you want to check on any of your friends," Facebook CEO Mark Zuckerberg posted.&lt;/p&gt;&lt;p&gt;"When you or someone in your family is in danger, you'll try ANY kind of contact and I'm glad Facebook helped me today. Connection is what matters."&lt;/p&gt;&lt;p&gt;"My father and friends are in the area and one of the first contact points we had to get some news was Facebook. This media is not always about likes and fun," the woman wrote in response to Zuckerberg's post.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:47:34Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
     <title>Women pictured on Penn St. frat's Facebook page talk to cops</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article16379135.html%23storylink=rss" />
     <author>
@@ -762,18 +774,6 @@
     <published>2015-04-29T04:05:14Z</published>
     <summary type="html">&lt;p&gt;Pew also found that nearly half of Web users learn about politics and government from Facebook, roughly the same percentage as those who seek the news through local television and double those who visit Yahoo or Google News.&lt;/p&gt;</summary>
     <dc:date>2015-04-29T04:05:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google, Facebook join Red Cross to find thousands missing after Nepal quake</title>
-    <link rel="alternate" href="http://news.yahoo.com/google-facebook-join-red-cross-thousands-missing-nepal-164119287.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-27T21:47:34Z</updated>
-    <published>2015-04-27T21:47:34Z</published>
-    <summary type="html">&lt;p&gt;Facebook has also launched its Safety Check tool https://www.facebook.com/safetycheck/nepalearthquake for Nepal, drawing praise from Facebook members.&lt;/p&gt;&lt;p&gt;"It's a simple way to let family and friends know you're okay. If you're in one of the areas affected by the earthquake, you'll get a notification asking if you're safe, and whether you want to check on any of your friends," Facebook CEO Mark Zuckerberg posted.&lt;/p&gt;&lt;p&gt;"When you or someone in your family is in danger, you'll try ANY kind of contact and I'm glad Facebook helped me today. Connection is what matters."&lt;/p&gt;</summary>
-    <dc:date>2015-04-27T21:47:34Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
   </entry>
   <entry>
     <title>Facebook launches video calling in Messenger app</title>
