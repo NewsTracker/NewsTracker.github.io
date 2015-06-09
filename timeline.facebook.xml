@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia threatens block on Google, Twitter, Facebook</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/russia-threatens-block-google-twitter-134627601.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T16:24:47Z</updated>
+    <published>2015-05-22T16:24:47Z</published>
+    <summary type="html">&lt;p&gt;Google, Twitter and Facebook face being blocked in Russia after being warned against violating the country's controversial blogging laws.&lt;/p&gt;&lt;p&gt;Twitter and Facebook have been popular platforms for critics of Russian President Vladimir Putin, so the Moscow move has not come as a surprise to the companies and industry-watchers.&lt;/p&gt;</summary>
+    <dc:date>2015-05-22T16:24:47Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/nZ8IVrweNuvBiAdYYW0grQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/15abe7977de66a4c891d001a05df48ab" />
+  </entry>
+  <entry>
     <title>Google, Facebook join Red Cross to find thousands missing after Nepal quake</title>
     <link rel="alternate" href="http://news.yahoo.com/google-facebook-join-red-cross-thousands-missing-nepal-164119287.html" />
     <author>

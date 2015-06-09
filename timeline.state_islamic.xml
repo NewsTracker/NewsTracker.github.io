@@ -4,6 +4,63 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>France proves fertile ground for Islamic State recruitment</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/france-proves-fertile-ground-for-islamic-state-recruitment-20150609-ghk47e.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T08:04:34Z</updated>
+    <published>2015-06-09T08:04:34Z</published>
+    <summary type="html">&lt;p&gt;The number of French recruits to Islamic State is rising unstoppably, in spite of waves of new measures to halt it, according to French officials.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T08:04:34Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/g/9/3/8/image.related.articleLeadwide.620x349.ghk47e.png/1433836986286.jpg" />
+  </entry>
+  <entry>
+    <title>The Islamic State: A year of death and destruction</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/The-Islamic-State-A-year-of-death-and-destruction/articleshow/47596261.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T06:02:18Z</updated>
+    <published>2015-06-09T06:02:18Z</published>
+    <summary type="html">&lt;p&gt;The Islamic State jihadist group launched a sweeping offensive a year ago that overran large chunks of Iraqi territory, led to thousands of deaths and displaced millions of people.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T06:02:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ramadi will be recaptured from Islamic State within days, Iraqi leader says</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/la-fg-iraq-ramadi-20150525-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T10:54:00Z</updated>
+    <published>2015-05-25T10:54:00Z</published>
+    <summary type="html">&lt;p&gt;The Iraqi prime minister insisted that pro-government forces, who have suffered thousands of casualties in the battle against Islamic State, have the determination to fight.&lt;/p&gt;&lt;p&gt;In Tikrit, as in Ramadi, loyalist fighters also greatly outnumbered Islamic State forces.&lt;/p&gt;</summary>
+    <dc:date>2015-05-25T10:54:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Syria says Islamic State kills hundreds, including children, in Palmyra</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3095023/Syria-says-Islamic-State-executes-hundreds-Palmyra.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-24T19:19:58Z</updated>
+    <published>2015-05-24T19:19:58Z</published>
+    <summary type="html">&lt;p&gt;Western countries and their Arab allies are bombing Islamic State but supporting other anti-Assad forces elsewhere in the country, where government troops have lost territory in recent months.&lt;/p&gt;</summary>
+    <dc:date>2015-05-24T19:19:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>A history of the Islamic State group as video purports to show killing of Ethiopian Christians</title>
+    <link rel="alternate" href="http://www.startribune.com/world/300584011.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-19T15:00:29Z</updated>
+    <published>2015-04-19T15:00:29Z</published>
+    <summary type="html">&lt;p&gt;The militants rename themselves the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-04-19T15:00:29Z</dc:date>
+    <media:content url="http://stmedia.startribune.com/designimages/playBackIcon.png" />
+  </entry>
+  <entry>
     <title>Syrian official: Islamic State militants in Palmyra's museum</title>
     <link rel="alternate" href="http://news.yahoo.com/syrian-official-islamic-state-militants-palmyras-museum-093436329.html" />
     <author>
@@ -47,17 +104,6 @@
     <published>2015-05-29T14:03:41Z</published>
     <summary type="html">&lt;p&gt;Iraqi authorities lifted a decade-old night-time curfew on Baghdad early this year, seeking to restore a sense of normality to the capital as security forces battle Islamic State insurgents who have overrun large parts of the country.&lt;/p&gt;</summary>
     <dc:date>2015-05-29T14:03:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ramadi will be recaptured from Islamic State within days, Iraqi leader says</title>
-    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/la-fg-iraq-ramadi-20150525-story.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-25T10:54:00Z</updated>
-    <published>2015-05-25T10:54:00Z</published>
-    <summary type="html">&lt;p&gt;The Iraqi prime minister insisted that pro-government forces, who have suffered thousands of casualties in the battle against Islamic State, have the determination to fight.&lt;/p&gt;</summary>
-    <dc:date>2015-05-25T10:54:00Z</dc:date>
   </entry>
   <entry>
     <title>Islamic State says it has full control of Syria's Palmyra</title>

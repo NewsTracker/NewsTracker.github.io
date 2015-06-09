@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Remains of some Germanwings crash victims being sent home</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/germanwings-crash-remains-of-some-victims-being-returned-to-germany-1.3105610?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T09:26:29Z</updated>
+    <published>2015-06-09T09:26:29Z</published>
+    <summary type="html">&lt;p&gt;Germanwings' parent company Lufthansa has chartered a plane to bring the coffins to Germany, and has said that other remains will be repatriated by month's end.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T09:26:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>Remains of Germanwings crash victims head home</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/remains-of-germanwings-crash-victims-head-home-1.2413208" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T09:15:11Z</updated>
+    <published>2015-06-09T09:15:11Z</published>
+    <summary type="html">&lt;p&gt;Germanwings' parent Lufthansa has said other remains will be repatriated by month's end.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T09:15:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>11 weeks after Germanwings crash, victims' remains head home</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11462496&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T08:45:19Z</updated>
+    <published>2015-06-09T08:45:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-09T08:45:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Germanwings plane evacuated after bomb scare</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3036193/Germanwings-plane-evacuated-bomb-scare.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
