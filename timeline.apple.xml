@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple unveils music-streaming app</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/entertainment/music/news/apple-unveils-musicstreaming-app-31287859.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T23:21:13Z</updated>
+    <published>2015-06-08T23:21:13Z</published>
+    <summary type="html">&lt;p&gt;Apple Music will launch in more than 100 countries on June 30, costing 9.99 dollars ( 6.50) per month, but free for the first three months for one person, or 14.99 dollars for families of up to six people.&lt;/p&gt;&lt;p&gt;"This will be the first Apple-branded app or service to reach Android and is a strategic shift for Apple in its approach to the main rival smartphone platform," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T23:21:13Z</dc:date>
+    <media:content url="http://cdn2.belfasttelegraph.co.uk/incoming/article31287358.ece/64b5c/ALTERNATES/w90square/US%20Apple%2018544.jpg" />
+  </entry>
+  <entry>
     <title>WWDC 2015: Apple finally puts women on stage</title>
     <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/wwdc-2015-apple-finally-puts-women-on-stage-20150609-ghjflk.html" />
     <author>

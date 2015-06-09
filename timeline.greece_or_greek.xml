@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece makes new proposals to end bailout impasse</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article23561050.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T16:51:04Z</updated>
+    <published>2015-06-09T16:51:04Z</published>
+    <summary type="html">&lt;p&gt;New Greek proposals aimed at ending a long standoff with international bailout creditors and unlocking vital rescue funds were received with little visible enthusiasm in Brussels on Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T16:51:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Greece makes new proposals to end bailout impasse</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greece-says-it-has-made-new-proposals-to-end-6315545.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T16:47:57Z</updated>
+    <published>2015-06-09T16:47:57Z</published>
+    <summary type="html">&lt;p&gt;While Greece should still be able to pay pensions and salaries, and keep the essential functions of state running through tax revenues, a default would likely kill its banks.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T16:47:57Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/76/46/8120722/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Greece moves to sideline Varoufakis after reform talks fiasco</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3057310/Greek-govt-reshuffles-EU-IMF-negotiating-team-Riga-debacle.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T21:42:42Z</updated>
+    <published>2015-04-27T21:42:42Z</published>
+    <summary type="html">&lt;p&gt;The news spurred a rally in Greek stocks and bonds.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T21:42:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Merkel to press Greece's Tsipras for progress on reforms</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-eurozone-greece-idUSKBN0NE1CP20150423?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T12:26:44Z</updated>
+    <published>2015-04-23T12:26:44Z</published>
+    <summary type="html">&lt;p&gt;"At the highest level, the Germans want to keep Greece in the euro area and find a solution, but time is running short and there may have to be more drama before Tsipras can put his foot down and reach an agreement," one senior official said.&lt;/p&gt;&lt;p&gt;A Greek government official told Reuters in Athens that Tsipras would outline specific reforms to Merkel in a bid to appease creditors and is hoping she will intervene so that there is a breakthrough in the negotiations.&lt;/p&gt;&lt;p&gt;European Commission Vice President Valdis Dombrovskis, speaking in Berlin, said there were increasing doubts about the situation in Greece, warning that if financial instability returned, there would be no economic growth this year.&lt;/p&gt;&lt;p&gt;Greek daily Kathimerini reported that Athens is considering asking the euro zone's rescue fund to buy Greek government bonds held by the ECB to pay for debt redemptions due this summer.&lt;/p&gt;&lt;p&gt;The ECB agreed on Wednesday to raise the cap on emergency liquidity assistance to Greek banks to 75.5 billion euros and did not toughen the conditions on collateral they have to present for funding, banking sources said.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T12:26:44Z</dc:date>
+  </entry>
+  <entry>
     <title>EU officials swiftly dismiss Greek reform offer</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/greek-pm-tsipras-says-accord-071029010.html" />
     <author>
@@ -3034,17 +3080,6 @@
     <dc:date>2015-04-27T23:14:18Z</dc:date>
   </entry>
   <entry>
-    <title>Greece moves to sideline Varoufakis after reform talks fiasco</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3057310/Greek-govt-reshuffles-EU-IMF-negotiating-team-Riga-debacle.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-27T21:42:42Z</updated>
-    <published>2015-04-27T21:42:42Z</published>
-    <summary type="html">&lt;p&gt;The news spurred a rally in Greek stocks and bonds.&lt;/p&gt;</summary>
-    <dc:date>2015-04-27T21:42:42Z</dc:date>
-  </entry>
-  <entry>
     <title>Change to Greek bailout negotiating team fuels market hopes</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article19699197.html%23storylink=rss" />
     <author>
@@ -3655,17 +3690,6 @@
     <updated>2015-04-23T12:26:44Z</updated>
     <published>2015-04-23T12:26:44Z</published>
     <summary type="html">&lt;p&gt;The ECB's chief economist, Peter Praet, said the central bank was prepared to keep authorizing emergency lending to Greek banks for now because they were assessed to be solvent.&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T12:26:44Z</dc:date>
-  </entry>
-  <entry>
-    <title>Merkel to press Greece's Tsipras for progress on reforms</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/23/us-eurozone-greece-idUSKBN0NE1CP20150423?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-23T12:26:44Z</updated>
-    <published>2015-04-23T12:26:44Z</published>
-    <summary type="html">&lt;p&gt;"At the highest level, the Germans want to keep Greece in the euro area and find a solution, but time is running short and there may have to be more drama before Tsipras can put his foot down and reach an agreement," one senior official said.&lt;/p&gt;&lt;p&gt;A Greek government official told Reuters in Athens that Tsipras would outline specific reforms to Merkel in a bid to appease creditors and is hoping she will intervene so that there is a breakthrough in the negotiations.&lt;/p&gt;&lt;p&gt;European Commission Vice President Valdis Dombrovskis, speaking in Berlin, said there were increasing doubts about the situation in Greece, warning that if financial instability returned, there would be no economic growth this year.&lt;/p&gt;&lt;p&gt;Greek daily Kathimerini reported that Athens is considering asking the euro zone's rescue fund to buy Greek government bonds held by the ECB to pay for debt redemptions due this summer.&lt;/p&gt;</summary>
     <dc:date>2015-04-23T12:26:44Z</dc:date>
   </entry>
   <entry>

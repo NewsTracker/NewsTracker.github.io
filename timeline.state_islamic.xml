@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>From middle-class Australian to Islamic State bride</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/20/from-middle-class-australian-to-islamic-state-bride" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T01:11:05Z</updated>
+    <published>2015-05-21T01:11:05Z</published>
+    <summary type="html">&lt;p&gt;CANBERRA, Australia (AP) - Quietly - almost secretly - Zehra Duman morphed from private school student to Islamic State bride and online recruiter for the movement.&lt;/p&gt;&lt;p&gt;Now calling herself Zehra Abdullatif or Umm ("Mother") Abdullatif, the Muslim fighter's wife told her online followers her parents had no clue she would elope to Islamic State.&lt;/p&gt;&lt;p&gt;Australian security agencies have noticed an uptick in Australian women leaving for the Middle East to marry Islamic State fighters.&lt;/p&gt;</summary>
+    <dc:date>2015-05-21T01:11:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Iraq faces huge challenges dislodging Islamic State in Anbar</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article19784472.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T08:53:00Z</updated>
+    <published>2015-04-28T08:53:00Z</published>
+    <summary type="html">&lt;p&gt;Since taking over large parts of the province, the Islamic State group hasn't been idle.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T08:53:00Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Russian security czar worried about Islamic State recruiters</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11462586&amp;amp;ref=rss" />
     <author>
@@ -1499,17 +1522,6 @@
     <summary type="html">&lt;p&gt;On April 2, Muslim Kushtanashvili and schoolmate Ramzan Bagakashvili, 18, joined the valley's recruits to Islamic State.&lt;/p&gt;</summary>
     <dc:date>2015-05-21T03:46:05Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>From middle-class Australian to Islamic State bride</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/20/from-middle-class-australian-to-islamic-state-bride" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-21T01:11:05Z</updated>
-    <published>2015-05-21T01:11:05Z</published>
-    <summary type="html">&lt;p&gt;CANBERRA, Australia (AP) - Quietly - almost secretly - Zehra Duman morphed from private school student to Islamic State bride and online recruiter for the movement.&lt;/p&gt;&lt;p&gt;Now calling herself Zehra Abdullatif or Umm ("Mother") Abdullatif, the Muslim fighter's wife told her online followers her parents had no clue she would elope to Islamic State.&lt;/p&gt;</summary>
-    <dc:date>2015-05-21T01:11:05Z</dc:date>
   </entry>
   <entry>
     <title>Family astonished by woman's transformation to Islamic State bride, online recruiter</title>

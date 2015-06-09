@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal earthquake threatens decades of progress: NGO</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nepal-earthquake-threatens-decades-of-progress-ngo-20150505-gguk4z.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T15:06:25Z</updated>
+    <published>2015-05-05T15:06:25Z</published>
+    <summary type="html">&lt;p&gt;The Nepal earthquake has put at risk decades of progress in health and other development indicators made by the Himalayan nation.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T15:06:25Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/g/u/m/1/p/image.related.articleLeadwide.620x349.gguk4z.png/1430838368341.jpg" />
+  </entry>
+  <entry>
+    <title>Bodies retrieved from US chopper in Nepal</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/16/bodies-retrieved-us-chopper-nepal" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-16T06:02:17Z</updated>
+    <published>2015-05-16T06:02:17Z</published>
+    <summary type="html">&lt;p&gt;"Eight bodies have been recovered," the Nepal Army said on Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-05-16T06:02:17Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20150515001133304412-original_800x600.jpg?itok=wnVii6I7" />
+  </entry>
+  <entry>
     <title>Political agreement paves the way for new Nepal constitution</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Political-agreement-pave-the-way-for-new-Nepal-6314982.php" />
     <author>
@@ -501,18 +525,6 @@
     <summary type="html" />
     <dc:date>2015-05-16T07:12:15Z</dc:date>
     <media:content url="http://media.npr.org/assets/img/2015/05/16/ap864816693959_custom-870b8b7f4da4a6831d609fdc05c1ba0768458e60-s800-c15.jpg" />
-  </entry>
-  <entry>
-    <title>Bodies retrieved from US chopper in Nepal</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/16/bodies-retrieved-us-chopper-nepal" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-16T06:02:17Z</updated>
-    <published>2015-05-16T06:02:17Z</published>
-    <summary type="html">&lt;p&gt;"Eight bodies have been recovered," the Nepal Army said on Saturday.&lt;/p&gt;</summary>
-    <dc:date>2015-05-16T06:02:17Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20150515001133304412-original_800x600.jpg?itok=wnVii6I7" />
   </entry>
   <entry>
     <title>Brick factories prepare for business boom in Nepal amid desperate need to rebuild after quake</title>
