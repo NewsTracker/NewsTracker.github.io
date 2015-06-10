@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Poll: Americans less willing than Europeans to send financial aid to Ukraine</title>
+    <link rel="alternate" href="http://www.startribune.com/poll-americans-and-europeans-differ-on-aid-to-ukraine/306732581/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T04:05:12Z</updated>
+    <published>2015-06-10T04:05:12Z</published>
+    <summary type="html">&lt;p&gt;Of the eight countries, only Italy was less supportive of sending economic aid to Ukraine than the U.S., where 62 percent of those surveyed were in favor.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T04:05:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Poll: Americans and Europeans differ on aid to Ukraine</title>
+    <link rel="alternate" href="http://news.yahoo.com/poll-americans-europeans-differ-aid-ukraine-040232814.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T04:03:19Z</updated>
+    <published>2015-06-10T04:03:19Z</published>
+    <summary type="html">&lt;p&gt;MOSCOW (AP) - A new survey shows that Americans are less willing than Europeans to send economic aid to Ukraine, where the government is struggling to keep the economy afloat while battling Russian-backed separatists.&lt;/p&gt;&lt;p&gt;While Ukraine is not a NATO member, other former Soviet republics are and they worry that the Western alliance would not defend them if it meant military confrontation with Russia.&lt;/p&gt;&lt;p&gt;But when asked whether NATO should send arms to Ukraine, the U.S. and Poland were most in favor, at 46 percent and 50 percent, respectively.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T04:03:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Fierce artillery battle persists for rail hub in east Ukraine</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/fierce-artillery-battle-persists-for-rail-hub-in-east-ukraine/article23013121/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-02-16T19:53:44Z</updated>
+    <published>2015-02-16T19:53:44Z</published>
+    <summary type="html">&lt;p&gt;Ukraine, however, blamed that attack on the rebels.&lt;/p&gt;</summary>
+    <dc:date>2015-02-16T19:53:44Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/8f7/video/article22941340.ece/ALTERNATES/w140/2015-02-12T132347Z_1_LOVEB1B117MJ3_RTRMADP_0_UKRAINE-CRISIS-IMF-O.XML" />
+  </entry>
+  <entry>
     <title>Ukraine fuel depot fire kills 1, several injured near Kiev</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/09/ukraine-fuel-depot-fire-kills-1-several-injured-near-kiev" />
     <author>
