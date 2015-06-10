@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Libya talks endangered as Islamic State group advances</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/09/libya-talks-endangered-as-islamic-state-group-advances" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T20:01:05Z</updated>
+    <published>2015-06-09T20:01:05Z</published>
+    <summary type="html">&lt;p&gt;The threat of the Islamic State group, which already holds two cities and several towns in Libya, is one of the factors fueling the United Nations' push to resolve the country's chronic chaos.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T20:01:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Embittered, Moroccan leaves family for Islamic State</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/embittered-moroccan-leaves-family-for-islamic-stat/nmLHp/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T01:13:57Z</updated>
+    <published>2015-05-21T01:13:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-21T01:13:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State group releases new audio message purportedly from leader al-Baghdadi</title>
+    <link rel="alternate" href="http://www.startribune.com/is-group-releases-audio-message-purportedly-from-leader/303790451/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T19:55:38Z</updated>
+    <published>2015-05-14T19:55:38Z</published>
+    <summary type="html">&lt;p&gt;"No one should believe that the war that we are waging is the war of the Islamic State. It is the war of all Muslims, but the Islamic State is spearheading it. It is the war of Muslims against infidels."&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T19:55:38Z</dc:date>
+    <media:content url="http://stmedia.stimg.co/ows_143162209932507.jpg?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
+  </entry>
+  <entry>
     <title>From middle-class Australian to Islamic State bride</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/05/20/from-middle-class-australian-to-islamic-state-bride" />
     <author>

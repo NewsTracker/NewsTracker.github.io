@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Video shows Holmes saying he regrets attack</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article22520970.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-29T01:22:05Z</updated>
+    <published>2015-05-29T01:22:05Z</published>
+    <summary type="html">&lt;p&gt;A video recorded about two years after the Colorado theater shooting shows James Holmes telling a state-appointed psychiatrist he regrets the deadly attack and sometimes cries about it.&lt;/p&gt;&lt;p&gt;William Reid testified Thursday that Holmes was able to form intent and knew the consequences of what he was doing at the time of the July 2012 attack.&lt;/p&gt;&lt;p&gt;Judge Carlos Samour also instructed jurors to consider a psychiatrist's testimony only as to James Holmes' plea of not guilty by reason of insanity.&lt;/p&gt;</summary>
+    <dc:date>2015-05-29T01:22:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Judge in Colorado theater shooting trial dismisses 3 jurors</title>
     <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/06/09/judge-in-colorado-theater-shooting-trial-dismisses-2-jurors" />
     <author>
@@ -301,18 +313,6 @@
     <published>2015-05-29T08:16:32Z</published>
     <summary type="html">&lt;p&gt;Dr. William Reid was the first expert witness to testify about Holmes' mental state at the time of the July 20, 2012, massacre, which also left 70 people injured.&lt;/p&gt;&lt;p&gt;He said Holmes suffered a "physical and mental breakdown" in November 2012, five months after his arrest, when he was treated at a Denver hospital and began taking anti-psychotic and other medications.&lt;/p&gt;</summary>
     <dc:date>2015-05-29T08:16:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Video shows Holmes saying he regrets attack</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article22520970.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-29T01:22:05Z</updated>
-    <published>2015-05-29T01:22:05Z</published>
-    <summary type="html">&lt;p&gt;A video recorded about two years after the Colorado theater shooting shows James Holmes telling a state-appointed psychiatrist he regrets the deadly attack and sometimes cries about it.&lt;/p&gt;&lt;p&gt;William Reid testified Thursday that Holmes was able to form intent and knew the consequences of what he was doing at the time of the July 2012 attack.&lt;/p&gt;</summary>
-    <dc:date>2015-05-29T01:22:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>The Latest: Video shows Holmes saying he regrets attack</title>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft thinks it can guess your age</title>
+    <link rel="alternate" href="http://money.cnn.com/2015/04/30/technology/how-old-am-i-microsoft/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fmoney_latest+%28CNNMoney%3A+Latest+News%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T20:19:38Z</updated>
+    <published>2015-04-30T20:19:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-30T20:19:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft phones infringe patents: Judge</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/27/microsoft-phones-infringe-patents-judge" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-27T20:35:31Z</updated>
+    <published>2015-04-27T20:35:31Z</published>
+    <summary type="html">&lt;p&gt;The judge, Theodore Essex, said that Microsoft infringed two wireless cellular patents owned by InterDigital, a patent licenser, and said it would not be against the public interest to ban the Microsoft devices from being imported into the United States.&lt;/p&gt;&lt;p&gt;Microsoft acquired Nokia's handset division last year.&lt;/p&gt;</summary>
+    <dc:date>2015-04-27T20:35:31Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297693198390_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
     <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Who-s-Who-in-music-streaming-Apple-Spotify-6316853.php" />
     <author>
@@ -1864,18 +1887,6 @@
     <published>2015-04-27T20:40:16Z</published>
     <summary type="html">&lt;p&gt;Apple sold more than 61 million iPhones in the quarter, accounting for more than two-thirds of its $58 billion in revenue for the quarter and the lion's share of its $13.6 billion in profit.&lt;/p&gt;</summary>
     <dc:date>2015-04-27T20:40:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Microsoft phones infringe patents: Judge</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/04/27/microsoft-phones-infringe-patents-judge" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-27T20:35:31Z</updated>
-    <published>2015-04-27T20:35:31Z</published>
-    <summary type="html">&lt;p&gt;The judge, Theodore Essex, said that Microsoft infringed two wireless cellular patents owned by InterDigital, a patent licenser, and said it would not be against the public interest to ban the Microsoft devices from being imported into the United States.&lt;/p&gt;</summary>
-    <dc:date>2015-04-27T20:35:31Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297693198390_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>US STOCKS-Wall St slips as biotechs drop; Apple shares up</title>
