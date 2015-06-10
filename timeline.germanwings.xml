@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Horrifying transcript gives timeline of Germanwings plane crash in Alps</title>
+    <link rel="alternate" href="http://www.latimes.com/world/europe/la-fg-captain-yelled-at-lubitz-20150329-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-30T02:53:00Z</updated>
+    <published>2015-03-30T02:53:00Z</published>
+    <summary type="html">&lt;p&gt;Captain of Germanwings flight shouted Open the damn door!&lt;/p&gt;&lt;p&gt;Germanwings and its parent company, Lufthansa, say they never received a sick note from Lubitz, suggesting he hid his illness from the airline.&lt;/p&gt;</summary>
+    <dc:date>2015-03-30T02:53:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Remains of 15 teens killed in Germanwings crash come home</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/10/bodies-of-15-children-killed-in-germanwings-crash-come-home" />
     <author>
@@ -935,17 +946,6 @@
     <published>2015-03-30T04:53:06Z</published>
     <summary type="html">&lt;p&gt;CANBERRA, Australia - Australia on Monday responded to the Germanwings air disaster by mandating that at least two crew members be present at all times in cockpits of larger domestic and international airliners.&lt;/p&gt;</summary>
     <dc:date>2015-03-30T04:53:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>Horrifying transcript gives timeline of Germanwings plane crash in Alps</title>
-    <link rel="alternate" href="http://www.latimes.com/world/europe/la-fg-captain-yelled-at-lubitz-20150329-story.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T02:53:00Z</updated>
-    <published>2015-03-30T02:53:00Z</published>
-    <summary type="html">&lt;p&gt;Captain of Germanwings flight shouted Open the damn door!&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T02:53:00Z</dc:date>
   </entry>
   <entry>
     <title>Reports girlfriend of Germanwings co-pilot Andreas Lubitz pregnant with his child</title>

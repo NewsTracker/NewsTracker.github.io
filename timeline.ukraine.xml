@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Pope calls for peace in Putin talks</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/pope-calls-for-peace-in-putin-talks-31293586.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T19:36:09Z</updated>
+    <published>2015-06-10T19:36:09Z</published>
+    <summary type="html">&lt;p&gt;Pope Francis has met privately with Russian president Vladimir Putin at the Vatican, using the talks to call for a "sincere and great effort" aimed at bringing peace to Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T19:36:09Z</dc:date>
+    <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31293585.ece/fffd1/ALTERNATES/h342/PANews%20BT_P-0c86005b-ce52-41f6-94ce-1076a31384fb_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Pope tells Putin: 'Sincere' peace efforts needed for Ukraine</title>
+    <link rel="alternate" href="http://news.yahoo.com/putin-visits-italy-pope-g-7-snub-over-085532019.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T19:04:08Z</updated>
+    <published>2015-06-10T19:04:08Z</published>
+    <summary type="html">&lt;p&gt;Lombardi said Francis stressed the need "to commit oneself in a sincere and great effort to bring" peace to Ukraine, through dialogue and implementation of the Minsk accords.&lt;/p&gt;&lt;p&gt;Renzi greeted Putin as Russia's "dear" president and didn't voice any criticism against the country's actions in Ukraine, saying simply that they both agreed there must be full implementation of the Minsk peace accord.&lt;/p&gt;&lt;p&gt;They said sanctions against Russia won't be lifted until Moscow fully implements its part of the Ukraine peace accord, and could be increased if needed.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T19:04:08Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Pope tells Putin: 'Sincere' peace efforts needed for Ukraine</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Putin-visits-Italy-pope-after-G-7-snub-over-6317959.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T19:03:44Z</updated>
+    <published>2015-06-10T19:03:44Z</published>
+    <summary type="html">&lt;p&gt;Russia accuses Ukraine of failing to launch political dialogue with the rebellious east and of keeping its economic blockade of areas controlled by pro-Russian rebels.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T19:03:44Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/37/00/26/8127911/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Russia's role in Ukraine seen as shifting from sending troops to training rebels</title>
     <link rel="alternate" href="http://www.startribune.com/world/298564541.html" />
     <author>

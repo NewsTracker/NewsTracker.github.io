@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Relief teams reach Vanuatu's cyclone-hit outer islands</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article14547779.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T07:03:04Z</updated>
+    <published>2015-03-17T07:03:04Z</published>
+    <summary type="html">&lt;p&gt;In this March 15, 2015 photo provided by UNICEF Pacific, a man works to recover from Cyclone Pam in Mele village, on the outskirts of the capital Port Vila, Vanuatu.&lt;/p&gt;&lt;p&gt;Adrian Banga surveys his destroyed house in Port Vila, Vanuatu in the aftermath of Cyclone Pam, Monday, March 16, 2015.&lt;/p&gt;&lt;p&gt;Radio and telephone communications with the outer islands were just beginning to be restored, but remained patchy four days after Cyclone Pam tore through the islands.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T07:03:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Indonesia volcano at high alert level unleashes fresh burst</title>
     <link rel="alternate" href="http://www.usnews.com/news/science/news/articles/2015/06/10/indonesia-volcano-at-high-alert-level-unleashes-fresh-burst" />
     <author>
@@ -1240,18 +1252,6 @@
     <published>2015-03-18T01:01:20Z</published>
     <summary type="html" />
     <dc:date>2015-03-18T01:01:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Relief teams reach Vanuatu's cyclone-hit outer islands</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/living/health-family/article14547779.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T07:03:04Z</updated>
-    <published>2015-03-17T07:03:04Z</published>
-    <summary type="html">&lt;p&gt;In this March 15, 2015 photo provided by UNICEF Pacific, a man works to recover from Cyclone Pam in Mele village, on the outskirts of the capital Port Vila, Vanuatu.&lt;/p&gt;&lt;p&gt;Adrian Banga surveys his destroyed house in Port Vila, Vanuatu in the aftermath of Cyclone Pam, Monday, March 16, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T07:03:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Cyclone Pam lifts chance of El Nino this year in Australia, forecasters says</title>
