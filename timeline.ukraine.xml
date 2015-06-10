@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia's role in Ukraine seen as shifting from sending troops to training rebels</title>
+    <link rel="alternate" href="http://www.startribune.com/world/298564541.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-03T06:45:35Z</updated>
+    <published>2015-04-03T06:45:35Z</published>
+    <summary type="html">&lt;p&gt;More recently, as a shaky cease-fire has taken hold, Russia has kept fewer troops in Ukraine but increased rebel training.&lt;/p&gt;</summary>
+    <dc:date>2015-04-03T06:45:35Z</dc:date>
+  </entry>
+  <entry>
     <title>Putin visits Italy, pope after G-7 snub over Ukraine</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463118&amp;amp;ref=rss" />
     <author>

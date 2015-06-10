@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt police shoot two suicide bombers as a third blows himself up in Luxor</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/egypt-police-shoot-two-suicide-bombers-as-a-third-blows-himself-up-in-luxor-20150610-ghl4uk.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T13:56:13Z</updated>
+    <published>2015-06-10T13:56:13Z</published>
+    <summary type="html">&lt;p&gt;Egypt police shoot two suicide bombers as a third...&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T13:56:13Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/l/4/v/n/image.related.articleLeadwide.620x349.ghl4uk.png/1433936357337.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt police shoot two suicide bombers as a third blows himself up in Luxor</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/egypt-police-shoot-two-suicide-bombers-as-a-third-blows-himself-up-in-luxor-20150610-ghl4uk.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T13:56:13Z</updated>
+    <published>2015-06-10T13:56:13Z</published>
+    <summary type="html">&lt;p&gt;A suicide bomber blew himself up near near one of Egypt's most popular tourist destinations on Wednesday, security sources and witnesses said, the second attack in a little more than a week targeting the country's vital tourism industry.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T13:56:13Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/l/4/v/n/image.related.articleLeadwide.620x349.ghl4uk.png/1433936357337.jpg" />
+  </entry>
+  <entry>
     <title>The latest on Egypt attack: 4 wounded in shootout</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/The-latest-on-Egypt-attack-4-wounded-in-shootout-6318028.php" />
     <author>

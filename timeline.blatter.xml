@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA shelves bidding for 2026 World Cup, seeks Blatter replacement</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/10/fifa-shelves-bidding-for-2026-world-cup-seeks-blatter-replacement" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T14:43:16Z</updated>
+    <published>2015-06-10T14:43:16Z</published>
+    <summary type="html">&lt;p&gt;Scandal-plagued FIFA postponed the bidding for the right to host the 2026 World Cup on Wednesday and embarked on the search to find a replacement for outgoing President Sepp Blatter.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T14:43:16Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297710732747_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>UEFA President Michel Platini says he won't talk about FIFA</title>
     <link rel="alternate" href="http://news.yahoo.com/uefa-chief-platini-meets-french-president-hollande-083000201.html" />
     <author>

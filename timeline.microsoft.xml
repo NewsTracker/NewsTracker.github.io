@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo chooses to stay with Microsoft in updated search deal</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Yahoo-chooses-to-stay-with-Microsoft-in-updated-6204097.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T23:09:59Z</updated>
+    <published>2015-04-16T23:09:59Z</published>
+    <summary type="html">&lt;p&gt;The original deal called for Microsoft to pay 88 percent of the search revenue to Yahoo.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T23:09:59Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/67/43/7829720/3/628x471.jpg" />
+  </entry>
+  <entry>
     <title>Nokia Theatre, home of the Emmys, renamed Microsoft Theater</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-06-09-US--Microsoft%20Theater-Nokia%20Theatre/id-f5f83d8782cf4ba0ba9102c1a484cfd5" />
     <author>
