@@ -4,6 +4,50 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>IS, al-Qaida militants clash in Libya after leader killed</title>
+    <link rel="alternate" href="http://news.yahoo.com/al-qaida-militants-clash-libya-leader-killed-090144601.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T09:01:44Z</updated>
+    <published>2015-06-10T09:01:44Z</published>
+    <summary type="html">&lt;p&gt;BENGHAZI, Libya (AP) - Al-Qaida-linked militants are battling an Islamic State affiliate in eastern Libya after one of their leaders was shot dead by masked gunmen.&lt;/p&gt;&lt;p&gt;Akr's group, known as the Shura Council of Darna's Jihadists, announced his killing in a statement on Wednesday, blaming it on Islamic State militants and vowing retaliation.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T09:01:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State blows up empty prison complex in Syria's Palmyra</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3103931/Islamic-State-blows-prison-complex-Syrias-Palmyra.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T19:18:34Z</updated>
+    <published>2015-05-30T19:18:34Z</published>
+    <summary type="html">&lt;p&gt;The Observatory said this week Islamic State had however shot to death around 20 men in the city's ancient amphitheatre, accusing them of being pro-government.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T19:18:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State takes control of Syria's Palmyra in westward advance</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3090923/Islamic-State-takes-control-Syrias-Palmyra-westward-advance.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T11:45:57Z</updated>
+    <published>2015-05-21T11:45:57Z</published>
+    <summary type="html">&lt;p&gt;The assault on the city is part of a westward advance by Islamic State that is adding to pressures on Assad's overstretched army and pro-government militia, which have also recently lost ground in the northwest and south.&lt;/p&gt;</summary>
+    <dc:date>2015-05-21T11:45:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>Turkey faces delicate battle against Islamic State sympathizers at home</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/22/us-mideast-crisis-turkey-networks-idUSKBN0ND0VM20150422?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T09:17:32Z</updated>
+    <published>2015-04-22T09:17:32Z</published>
+    <summary type="html">&lt;p&gt;But pockets of Turkish social media hum with pro-Islamic State activity and at least six websites provide daily updates on its self-declared caliphate, carved out in Syria and Iraq.&lt;/p&gt;&lt;p&gt;"From the beginning Turkey didn't fully appreciate the danger of the Islamic State networks. Now it has become riskier to dismantle them," said Bahadir Dincer, Middle East Expert at the Ankara-based think-tank USAK.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T09:17:32Z</dc:date>
+  </entry>
+  <entry>
     <title>For migrants used to danger, Islamic State poses new threat</title>
     <link rel="alternate" href="http://news.yahoo.com/migrants-used-danger-islamic-state-poses-threat-183631696.html" />
     <author>
@@ -3561,17 +3605,6 @@
     <summary type="html">&lt;p&gt;Ethiopians raised slogans including one that said "We want revenge for our sons' blood," referring to Ethiopians seen being beheaded or shot in a video released by the Islamic extremist group Islamic State.&lt;/p&gt;</summary>
     <dc:date>2015-04-22T09:58:19Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/R4dTe3MlOA0sBrf4sR2Ebg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/ap_webfeeds/2e066bb1b79a3911740f6a706700bf44.jpg.cf.jpg" />
-  </entry>
-  <entry>
-    <title>Turkey faces delicate battle against Islamic State sympathizers at home</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/22/us-mideast-crisis-turkey-networks-idUSKBN0ND0VM20150422?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T09:17:32Z</updated>
-    <published>2015-04-22T09:17:32Z</published>
-    <summary type="html">&lt;p&gt;But pockets of Turkish social media hum with pro-Islamic State activity and at least six websites provide daily updates on its self-declared caliphate, carved out in Syria and Iraq.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T09:17:32Z</dc:date>
   </entry>
   <entry>
     <title>Sunni tribesmen battle their own after breaking with Islamic State group over killings</title>

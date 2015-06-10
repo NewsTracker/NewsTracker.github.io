@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UEFA President Michel Platini says he won't talk about FIFA</title>
+    <link rel="alternate" href="http://news.yahoo.com/uefa-chief-platini-meets-french-president-hollande-083000201.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T09:42:38Z</updated>
+    <published>2015-06-10T09:42:38Z</published>
+    <summary type="html">&lt;p&gt;Platini, a former France great and a leading candidate to replace Blatter as FIFA president, spoke Wednesday after meeting with French President Francois Hollande.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T09:42:38Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/aD0Glfv8C54.xiDdxoZ.kA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/03899b20eab6f719780f6a7067000a20.jpg" />
+  </entry>
+  <entry>
     <title>FIFA to kick off Blatter succession process in July</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/10/us-soccer-fifa-election-idUSKBN0OQ0L620150610?feedType=RSS&amp;amp;feedName=topNews" />
     <author>

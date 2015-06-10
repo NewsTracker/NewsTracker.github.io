@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook earns 51% of ad revenue overseas</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/exclusive-facebook-earns-51-percent-111751218.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T11:17:51Z</updated>
+    <published>2015-06-10T11:17:51Z</published>
+    <summary type="html">&lt;p&gt;A 3D plastic representation of the Facebook logo is seen in this illustration in Zenica, Bosnia and Herzegovina, May 13, 2015.&lt;/p&gt;&lt;p&gt;While Facebook has reported regional growth in percentage terms, this is the first time it has detailed ad sales outside the United States and Canada as a percent of worldwide sales.&lt;/p&gt;&lt;p&gt;"The next 1 billion consumers are going to come from these countries," said Carolyn Everson, vice president, global marketing solutions at Facebook.&lt;/p&gt;&lt;p&gt;Total advertising revenue for the quarter increased 46 percent to $3.3 billion, the vast majority of Facebook's $3.5 billion in quarterly revenue.&lt;/p&gt;&lt;p&gt;International advertising revenue rose 36 percent from a year earlier, Facebook said.&lt;/p&gt;&lt;p&gt;Mobile advertising represents more than 70 percent of Facebook's total ad revenue, and mobile is particularly strong and attractive to advertisers in emerging markets, Everson said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T11:17:51Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/jghqJBgXnxL9zDlE5Wz_Bw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/SG_AHTTP_REUTERS-EN_WRAPPER_NEW_1/2015-06-09T191010Z_1_LYNXMPEB580WQ_RTROPTP_3_VARIETY-ENTERTAINMENT-DIGITAL-NEWS_original.jpg" />
+  </entry>
+  <entry>
     <title>Russia threatens block on Google, Twitter, Facebook</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/russia-threatens-block-google-twitter-134627601.html" />
     <author>

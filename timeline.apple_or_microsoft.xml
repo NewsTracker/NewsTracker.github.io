@@ -5,6 +5,30 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Spotify gets investment as it faces competition from Apple</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Spotify-gets-investment-as-it-faces-competition-6318117.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T12:38:24Z</updated>
+    <published>2015-06-10T12:38:24Z</published>
+    <summary type="html">&lt;p&gt;It is seeing increasing competition, however, with Apple launching its Apple Music streaming service at the end of June.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T12:38:24Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/75/67/8117713/3/headline_list_thumb137.jpg" />
+  </entry>
+  <entry>
+    <title>Review: The best new features coming from Apple, Google</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Review-The-best-new-features-coming-from-Apple-6317745.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T08:09:18Z</updated>
+    <published>2015-06-10T08:09:18Z</published>
+    <summary type="html">&lt;p&gt;Apple Watch will also be able to play video for the first time - if you don't mind the small screen.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T08:09:18Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/00/06/8126894/3/622x350.jpg" />
+  </entry>
+  <entry>
+    <title>Spotify gets investment as it faces competition from Apple</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/10/spotify-gets-investment-as-it-faces-competition/" />
     <author>
       <name />

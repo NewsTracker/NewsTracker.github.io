@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The latest on Egypt attack: 4 wounded in shootout</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/The-latest-on-Egypt-attack-4-wounded-in-shootout-6318028.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T13:36:47Z</updated>
+    <published>2015-06-10T13:36:47Z</published>
+    <summary type="html">&lt;p&gt;A pool of blood and an abandoned sandal are seen at the site of a suicide bombing, near Karnak Temple in Luxor, Egypt, Wednesday, June 10, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T13:36:47Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/00/14/8127270/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Suicide bomber targets ancient Egyptian temple in Luxor</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/suicide-bomber-targets-ancient-egyptian-temple-in-luxor-1.2415011" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T09:13:00Z</updated>
+    <published>2015-06-10T09:13:00Z</published>
+    <summary type="html">&lt;p&gt;A tourist has her picture taken at the ruins of the Karnak Temple in Luxor, Egypt on Nov. 30, 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T09:13:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Suicide bomber targets ancient Egyptian temple in Luxor</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Suicide-bomber-targets-ancient-Egyptian-temple-in-Luxor/articleshow/47613128.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T09:12:18Z</updated>
+    <published>2015-06-10T09:12:18Z</published>
+    <summary type="html">&lt;p&gt;LUXOR, Egypt: Egyptian officials say a suicide bomber has blown himself up at the ancient temple of Karnak in Luxor, a southern city frequented by millions of foreign and Egyptian tourists every year.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T09:12:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Suicide bomber attacks Egypt's Luxor temple tourist site</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/11664436/Suicide-bomber-attacks-Egypts-Luxor-temple-tourist-site.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T09:11:25Z</updated>
+    <published>2015-06-10T09:11:25Z</published>
+    <summary type="html">&lt;p&gt;Gunmen on a motorcycle shot dead two members of Egypt's tourism and antiquities police force on a road near the Giza pyramids last week.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T09:11:25Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03318/egypt-karnakUSE_3318126b.jpg" />
+  </entry>
+  <entry>
     <title>Suicide bomber attacks tourist site in Luxor, four Egyptians wounded</title>
     <link rel="alternate" href="http://news.yahoo.com/suicide-bomber-attacks-south-egypts-tourist-city-luxor-090930409--business.html" />
     <author>
