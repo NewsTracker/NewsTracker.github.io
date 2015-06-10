@@ -4,18 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Google versus Oracle case exposes differences within Obama administration</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/google-versus-oracle-case-exposes-120446335.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-15T12:04:46Z</updated>
-    <published>2015-05-15T12:04:46Z</published>
-    <summary type="html">&lt;p&gt;Oracle won a federal appeals court ruling last year that allows it to copyright parts of Java, while Google argues it should be free to use Java without paying a licensing fee.&lt;/p&gt;&lt;p&gt;Google, which used Java to design its Android smartphone operating system, appealed to the U.S. Supreme Court.&lt;/p&gt;&lt;p&gt;According to Google, an Oracle victory would obstruct "an enormous amount of innovation" because software developers would not be able to freely build on each others' work.&lt;/p&gt;&lt;p&gt;Google's Android operating system is the world's best-selling smartphone platform.&lt;/p&gt;&lt;p&gt;Oracle sued Google in 2010, claiming that Google had improperly incorporated parts of Java into Android.&lt;/p&gt;&lt;p&gt;A Google representative declined to comment.&lt;/p&gt;</summary>
-    <dc:date>2015-05-15T12:04:46Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/ROXrJMXVVoCR90bQsFkueA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-05-15T120446Z_1_LYNXMPEB4E0IC_RTROPTP_3_CHINA-BUSINESS_original.jpg" />
-  </entry>
-  <entry>
     <title>Review: The best new features coming from Apple, Google</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463073&amp;amp;ref=rss" />
     <author>
@@ -1503,6 +1491,18 @@
     <published>2015-05-15T12:04:46Z</published>
     <summary type="html">&lt;p&gt;"Google's argument - that the code lost all copyright protection because it became popular and Google wanted Android to be popular, too - would not fly for any other work," Oracle's attorneys wrote.&lt;/p&gt;</summary>
     <dc:date>2015-05-15T12:04:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google versus Oracle case exposes differences within Obama administration</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/google-versus-oracle-case-exposes-120446335.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-15T12:04:46Z</updated>
+    <published>2015-05-15T12:04:46Z</published>
+    <summary type="html">&lt;p&gt;Oracle won a federal appeals court ruling last year that allows it to copyright parts of Java, while Google argues it should be free to use Java without paying a licensing fee.&lt;/p&gt;&lt;p&gt;Google, which used Java to design its Android smartphone operating system, appealed to the U.S. Supreme Court.&lt;/p&gt;&lt;p&gt;According to Google, an Oracle victory would obstruct "an enormous amount of innovation" because software developers would not be able to freely build on each others' work.&lt;/p&gt;&lt;p&gt;Google's Android operating system is the world's best-selling smartphone platform.&lt;/p&gt;&lt;p&gt;Oracle sued Google in 2010, claiming that Google had improperly incorporated parts of Java into Android.&lt;/p&gt;</summary>
+    <dc:date>2015-05-15T12:04:46Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/ROXrJMXVVoCR90bQsFkueA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-05-15T120446Z_1_LYNXMPEB4E0IC_RTROPTP_3_CHINA-BUSINESS_original.jpg" />
   </entry>
   <entry>
     <title>Latest self-driving Google car heading to public streets</title>
