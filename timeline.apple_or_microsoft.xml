@@ -5,6 +5,29 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Review: The best new features coming from Apple, Google</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Review-The-best-new-features-coming-from-Apple-6317745.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T08:09:18Z</updated>
+    <published>2015-06-10T08:09:18Z</published>
+    <summary type="html">&lt;p&gt;On Apple Watch, apps from outside parties have essentially been extensions of phone apps.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T08:09:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Court agrees Samsung copied Apple, but tosses some damages</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Court-agrees-Samsung-copied-Apple-but-reduces-6270711.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T21:04:15Z</updated>
+    <published>2015-05-18T21:04:15Z</published>
+    <summary type="html">&lt;p&gt;Samsung and Apple agreed last year to settle all patent disputes still pending outside the United States.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T21:04:15Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/42/23/8004820/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>Review: The best new features coming from Apple, Google</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463073&amp;amp;ref=rss" />
     <author>
       <name />

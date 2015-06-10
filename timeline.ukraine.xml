@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Putin Visits Italy, Pope as US Seeks More Vatican Criticism</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/putin-visits-italy-pope-snub-ukraine-31657037" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T09:44:10Z</updated>
+    <published>2015-06-10T09:44:10Z</published>
+    <summary type="html">&lt;p&gt;"It does seem that Russia is supporting the insurgents. And it does seem that there are Russian troops inside Ukraine. This is a very serious situation."&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T09:44:10Z</dc:date>
+  </entry>
+  <entry>
+    <title>Putin visits Italy, pope as US seeks more Vatican criticism</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Putin-visits-Italy-pope-after-G-7-snub-over-6317959.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T09:43:06Z</updated>
+    <published>2015-06-10T09:43:06Z</published>
+    <summary type="html">&lt;p&gt;While the pope has deplored the loss of life in Ukraine and called for all sides to respect the cease-fire, he has not publicly placed any blame on Russia in an apparent bid to not upset relations with the Orthodox Church.&lt;/p&gt;&lt;p&gt;On Tuesday, the U.S. ambassador to the Holy See, Kenneth Hackett, said the United States "would like to see the Vatican increase its" concern about what is happening in Ukraine during the pope's meeting with Putin.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T09:43:06Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/37/00/07/8126944/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>Putin visits Italy, pope after G-7 snub over Ukraine</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463118&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T09:00:18Z</updated>
+    <published>2015-06-10T09:00:18Z</published>
+    <summary type="html">&lt;p&gt;Putin's visit, which includes a visit to Russia's pavilion at the 2015 Expo World's Fair in Milan, is significant after the G-7 made clear that any lifting of sanctions against Russia depends on Moscow fully implementing the Ukraine peace accord.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T09:00:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine names Georgia's Saakashvili as governor of Black Sea hotspot</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3104463/Ukraine-names-Georgias-Saakashvili-governor-Black-Sea-hotspot.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T11:17:04Z</updated>
+    <published>2015-05-31T11:17:04Z</published>
+    <summary type="html">&lt;p&gt;The security of the Black Sea city of Odessa and its surrounding region has become increasingly worrisome for Ukrainians since a separatist conflict broke out in eastern Ukraine following Russia's annexation of Crimea further along the coast.&lt;/p&gt;&lt;p&gt;Like Poroshenko, Saakashvili, whose country fought a brief war with Russia in August 2008, is a strong proponent of NATO and European Union membership for his native Georgia and for Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T11:17:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Poll: Americans less willing than Europeans to send financial aid to Ukraine</title>
     <link rel="alternate" href="http://www.startribune.com/poll-americans-and-europeans-differ-on-aid-to-ukraine/306732581/" />
     <author>
@@ -737,17 +782,6 @@
     <published>2015-06-01T12:32:51Z</published>
     <summary type="html" />
     <dc:date>2015-06-01T12:32:51Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ukraine names Georgia's Saakashvili as governor of Black Sea hotspot</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3104463/Ukraine-names-Georgias-Saakashvili-governor-Black-Sea-hotspot.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-31T11:17:04Z</updated>
-    <published>2015-05-31T11:17:04Z</published>
-    <summary type="html">&lt;p&gt;The security of the Black Sea city of Odessa and its surrounding region has become increasingly worrisome for Ukrainians since a separatist conflict broke out in eastern Ukraine following Russia's annexation of Crimea further along the coast.&lt;/p&gt;</summary>
-    <dc:date>2015-05-31T11:17:04Z</dc:date>
   </entry>
   <entry>
     <title>Ukraine names Georgia's Saakashvili as governor of Black Sea hotspot</title>
