@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google tries to demystify privacy controls with new approach</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11458102&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T10:15:17Z</updated>
+    <published>2015-06-01T10:15:17Z</published>
+    <summary type="html">&lt;p&gt;The new system represents Google's tacit admission that its previous setup confused and frustrated people.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T10:15:17Z</dc:date>
+  </entry>
+  <entry>
     <title>Review: The best new features coming from Apple, Google</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463073&amp;amp;ref=rss" />
     <author>

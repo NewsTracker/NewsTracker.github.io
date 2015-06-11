@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Former Brazil star Zico running for FIFA president</title>
+    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/06/10/former-brazil-star-zico-running-for-fifa-president" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T22:19:38Z</updated>
+    <published>2015-06-10T22:19:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-10T22:19:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>William: fifa must put sport first</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/pa/article-3104320/William-Fifa-sport-first.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-31T06:03:39Z</updated>
+    <published>2015-05-31T06:03:39Z</published>
+    <summary type="html">&lt;p&gt;"Over the next few years, if we want credibly to influence the debate on reform in Fifa, we must continue to strive for excellence in our own organisation.&lt;/p&gt;&lt;p&gt;"If you are elected you have to come, whoever is president of Fifa."&lt;/p&gt;</summary>
+    <dc:date>2015-05-31T06:03:39Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/05/31/article-P-325d44d1-edc6-42dd-a422-9e42215c40a5-6YvfyK9R3-HSK1-57_634x356.jpg" />
+  </entry>
+  <entry>
     <title>Argentine says he won't fight extradition to face US charges in FIFA corruption case</title>
     <link rel="alternate" href="http://www.startribune.com/argentine-willing-to-be-extradited-to-us-in-fifa-case/306829191/" />
     <author>
@@ -1633,18 +1656,6 @@
     <summary type="html">&lt;p&gt;"FIFA, like the IOC, must now show that it can represent the interests of fair play and put the sport first," he said.&lt;/p&gt;</summary>
     <dc:date>2015-05-31T11:15:25Z</dc:date>
     <media:content url="http://edition.cnn.com/2015/05/31/football/prince-william-fifa-blatter-football/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>William: fifa must put sport first</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/pa/article-3104320/William-Fifa-sport-first.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-31T06:03:39Z</updated>
-    <published>2015-05-31T06:03:39Z</published>
-    <summary type="html">&lt;p&gt;"Over the next few years, if we want credibly to influence the debate on reform in Fifa, we must continue to strive for excellence in our own organisation.&lt;/p&gt;</summary>
-    <dc:date>2015-05-31T06:03:39Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/05/31/article-P-325d44d1-edc6-42dd-a422-9e42215c40a5-6YvfyK9R3-HSK1-57_634x356.jpg" />
   </entry>
   <entry>
     <title>Small clubs, youth teams feel victimized by FIFA scandal</title>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google tries to demystify privacy controls with new approach</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/01/google-tries-to-demystify-privacy-controls-with/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T10:11:28Z</updated>
+    <published>2015-06-01T10:11:28Z</published>
+    <summary type="html">&lt;p&gt;The simpler approach debuting Monday features a redesigned "My Account" hub where all of Google's key privacy controls can be found.&lt;/p&gt;&lt;p&gt;"It wasn't well organized and we didn't give a lot of context," concedes Guemmy Kim, Google's product manager of account controls and settings.&lt;/p&gt;&lt;p&gt;Accountholders also can prevent Google from logging their activities on personal computers and mobile devices, though the company will warn that imposing those restrictions might result in less-relevant and slower results from search requests.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T10:11:28Z</dc:date>
+  </entry>
+  <entry>
     <title>AP Source: Kings GM Pete D'Alessandro returning to Nuggets (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-kings-gm-pete-dalessandro-returning-nuggets-190741391--nba.html" />
     <author>
@@ -749,17 +760,6 @@
     <published>2015-06-01T10:15:17Z</published>
     <summary type="html">&lt;p&gt;Until now, the privacy controls were spread across far-flung sections of Google's website with few explanations of the pros and cons of adjusting each setting.&lt;/p&gt;</summary>
     <dc:date>2015-06-01T10:15:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google tries to demystify privacy controls with new approach</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/01/google-tries-to-demystify-privacy-controls-with/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-01T10:11:28Z</updated>
-    <published>2015-06-01T10:11:28Z</published>
-    <summary type="html">&lt;p&gt;The simpler approach debuting Monday features a redesigned "My Account" hub where all of Google's key privacy controls can be found.&lt;/p&gt;&lt;p&gt;"It wasn't well organized and we didn't give a lot of context," concedes Guemmy Kim, Google's product manager of account controls and settings.&lt;/p&gt;</summary>
-    <dc:date>2015-06-01T10:11:28Z</dc:date>
   </entry>
   <entry>
     <title>Manziel tosses water bottle at heckler during PGA event (Yahoo Sports)</title>

@@ -5,6 +5,53 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Greek leader meets creditors, seeks bailout breakthrough</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-leader-heads-to-brussels-to-meet-merkel-holl/nmZQn/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T23:26:24Z</updated>
+    <published>2015-06-10T23:26:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-10T23:26:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek leader meets creditors, seeks bailout breakthrough</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greek-leader-heads-to-Brussels-to-meet-Merkel-6317955.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T23:26:24Z</updated>
+    <published>2015-06-10T23:26:24Z</published>
+    <summary type="html">&lt;p&gt;The lack of visible progress in the negotiations over the past weeks has revived fears Greece could default on its debts and drop out of the euro, a move that would create huge uncertainty for Europe and global markets.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T23:26:24Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/00/34/8128306/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Greece to keep repaying creditors -- as long as it can</title>
+    <link rel="alternate" href="http://news.yahoo.com/greece-keep-repaying-creditors-long-official-111451843.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-25T20:13:33Z</updated>
+    <published>2015-05-25T20:13:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-25T20:13:33Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/bXk2X1TsTPz8GMhucBtY_Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8179308-1-1-0.jpg" />
+  </entry>
+  <entry>
+    <title>No financial aid request from Tspiras in Moscow</title>
+    <link rel="alternate" href="http://www.euronews.com/2015/04/08/no-financial-aid-request-from-tspiras-in-moscow/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T15:34:02Z</updated>
+    <published>2015-04-08T15:34:02Z</published>
+    <summary type="html">&lt;p&gt;He said the project could earn Greece "millions of euros" every year and that Athens' Western creditors would also benefit should the Greek economy improve as a result of closer economic cooperation between the European Union member state and Russia.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T15:34:02Z</dc:date>
+    <media:content url="http://static.euronews.com/articles/303729/606x340_303729.jpg?1428507242" />
+  </entry>
+  <entry>
+    <title>Greek leader meets creditors, seeks bailout breakthrough</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greek-leader-heads-to-Brussels-to-meet-Merkel-6317955.php" />
     <author>
       <name />

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Colorado theater shooter asked police if children were hurt</title>
+    <link rel="alternate" href="http://news.yahoo.com/theater-shooting-trial-resumes-testimony-focuses-phone-155107349.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T23:45:42Z</updated>
+    <published>2015-05-04T23:45:42Z</published>
+    <summary type="html">&lt;p&gt;(AP) - A video played for jurors in the trial of Colorado theater shooter James Holmes includes a dazed-sounding Holmes asking detectives "There weren't any children hurt, were there?"&lt;/p&gt;&lt;p&gt;The video shows detectives interviewing Holmes at the Aurora Police Department about two hours after the July 2012 attack, which killed 12 people and injured 70 others.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T23:45:42Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/Jk0Ju25YNPmsnkoDksQBEQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/a08128adcef97013750f6a706700e285.jpg" />
+  </entry>
+  <entry>
     <title>Red-hot Holmes rallies for Houston Open playoff win over Spieth, Wagner</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/sports/golf/red-hot-holmes-rallies-for-houston-open-playoff-win-over-spieth-wagner/article23801205/?cmpid=rss1" />
     <author>
@@ -466,18 +478,6 @@
     <summary type="html">&lt;p&gt;Chuck Mehl testified later that Holmes had seen a sign in the police department that said 'Crimes Against Children Unit,' which might have prompted the question.&lt;/p&gt;</summary>
     <dc:date>2015-05-05T08:02:31Z</dc:date>
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/29/22/2824ADD000000578-3061552-image-a-9_1430344602289.jpg" />
-  </entry>
-  <entry>
-    <title>Colorado theater shooter asked police if children were hurt</title>
-    <link rel="alternate" href="http://news.yahoo.com/theater-shooting-trial-resumes-testimony-focuses-phone-155107349.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-04T23:45:42Z</updated>
-    <published>2015-05-04T23:45:42Z</published>
-    <summary type="html">&lt;p&gt;(AP) - A video played for jurors in the trial of Colorado theater shooter James Holmes includes a dazed-sounding Holmes asking detectives "There weren't any children hurt, were there?"&lt;/p&gt;</summary>
-    <dc:date>2015-05-04T23:45:42Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/Jk0Ju25YNPmsnkoDksQBEQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/a08128adcef97013750f6a706700e285.jpg" />
   </entry>
   <entry>
     <title>Insane or evil? Trial fills in details of Colorado movie gunman Holmes</title>

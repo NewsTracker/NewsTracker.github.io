@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Suicide Bomber Strikes Near Ancient Temple in Luxor, Egypt</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/suicide-bomber-targets-ancient-egyptian-temple-luxor-31657038" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T22:27:06Z</updated>
+    <published>2015-06-10T22:27:06Z</published>
+    <summary type="html">&lt;p&gt;Militants tried to attack the ancient temple of Karnak in southern Egypt on Wednesday, with a suicide bomber blowing himself up and two gunmen battling police.&lt;/p&gt;&lt;p&gt;A campaign against tourism, one of the main sources of foreign revenue, could deal a blow to el-Sissi's promises to repair Egypt's economy.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T22:27:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Suicide bomber strikes near ancient temple in Luxor, Egypt</title>
+    <link rel="alternate" href="http://news.yahoo.com/suicide-bomber-targets-ancient-egyptian-temple-luxor-085756922.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T22:25:35Z</updated>
+    <published>2015-06-10T22:25:35Z</published>
+    <summary type="html">&lt;p&gt;Karnak, one of Egypt's biggest attractions, is a giant complex of temples, statues, obelisks and columns built by pharaonic dynasties alongside the Nile.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T22:25:35Z</dc:date>
+    <media:content url="https://s.yimg.com/uu/api/res/1.2/QOFT2e130FtiIw9xvdfHmQ--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/ap_webfeeds/f8354a8eebc4fc19780f6a7067000ff4.jpg" />
+  </entry>
+  <entry>
     <title>Egypt police shoot two suicide bombers as a third blows himself up in Luxor</title>
     <link rel="alternate" href="http://www.smh.com.au/world/egypt-police-shoot-two-suicide-bombers-as-a-third-blows-himself-up-in-luxor-20150610-ghl4uk.html" />
     <author>
