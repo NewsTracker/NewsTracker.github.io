@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya seeks to voluntarily repatriate 100,000 Somalis</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/11/kenya-govt-seeks-to-voluntarily-repatriate-100-00-somalis" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T15:19:33Z</updated>
+    <published>2015-06-11T15:19:33Z</published>
+    <summary type="html">&lt;p&gt;Government officials have blamed refugee camps in Kenya for the rise in extremism in the country.&lt;/p&gt;&lt;p&gt;The World Food Program said for the second time in just over six months it was being forced to reduce the size of food ratios for about 500,000 refugees living in Dadaab and Kakuma camps in northern Kenya.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T15:19:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Prosecutor: Oklahoma man detailed Kenya sex assaults on kids</title>
     <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/06/10/prosecutor-oklahoma-man-detailed-assaults-on-kenya-children" />
     <author>
@@ -992,7 +1003,7 @@
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/e/r/j/5/image.related.articleLeadwide.620x349.1mhy5c.png/1428623947356.jpg" />
   </entry>
   <entry>
-    <title>Community radio brings forecasts to Kenya?s most climate vulnerable</title>
+    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
       <name />
@@ -1556,7 +1567,7 @@
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150405001118798836-original.jpg?itok=-TteVTsU" />
   </entry>
   <entry>
-    <title>Kenya?s revenge: Naked corpses paraded</title>
+    <title>Kenya’s revenge: Naked corpses paraded</title>
     <link rel="alternate" href="http://www.news.com.au/world/africa/kenya-massacre-police-parade-corpses-of-university-gunmen-through-massacre-town/story-fnh81gzi-1227291754637?from=public_rss" />
     <author>
       <name />

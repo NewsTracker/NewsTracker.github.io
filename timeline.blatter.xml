@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA's top spokesman leaves job, Blatter urged to do same</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463848&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T14:20:18Z</updated>
+    <published>2015-06-11T14:20:18Z</published>
+    <summary type="html">&lt;p&gt;De Gregorio joined FIFA after working on Blatter's campaign team during the 2011 presidential election.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T14:20:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>EU lawmakers urge FIFA's Blatter to go now</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/us-soccer-fifa-eu-idUSKBN0OR1BT20150611?feedType=RSS&amp;amp;feedName=sportsNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T11:39:51Z</updated>
+    <published>2015-06-11T11:39:51Z</published>
+    <summary type="html">&lt;p&gt;"The European Parliament... therefore calls on FIFA to select, in a transparent and inclusive way, an appropriate interim leader to replace Joseph Blatter forthwith."&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T11:39:51Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150611&amp;amp;t=2&amp;amp;i=1055443227&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB5A0KT" />
+  </entry>
+  <entry>
+    <title>European lawmakers urge FIFA president Blatter to go now</title>
+    <link rel="alternate" href="http://news.yahoo.com/european-lawmakers-urge-fifa-president-blatter-now-113450467.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T11:34:50Z</updated>
+    <published>2015-06-11T11:34:50Z</published>
+    <summary type="html">&lt;p&gt;STRASBOURG, France (AP) - European lawmakers have urged FIFA President Sepp Blatter to step down immediately, and for an interim leader to be appointed.&lt;/p&gt;&lt;p&gt;FIFA rules require senior vice president Issa Hayatou of Cameroon to step up as interim president if Blatter leaves before the election.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T11:34:50Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/6FqyPUGOqPRBAh1PASp_OQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-06-10T192518Z_1006980001_LYNXMPEB59108_RTROPTP_2_CSPORTS-US-SOCCER-FIFA-ELECTION-ANALYSIS.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>FIFA shelves bidding for 2026 World Cup, seeks Blatter replacement</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/06/10/fifa-shelves-bidding-for-2026-world-cup-seeks-blatter-replacement" />
     <author>
@@ -1597,7 +1632,7 @@
     <media:content url="http://news.bbcimg.co.uk/media/images/82180000/jpg/_82180435_baltter_hayatou.jpg" />
   </entry>
   <entry>
-    <title>All African nations say they?ll vote for FIFA?s Blatter</title>
+    <title>All African nations say they’ll vote for FIFA’s Blatter</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/All-African-nations-say-they-ll-vote-for-6185069.php" />
     <author>
       <name />

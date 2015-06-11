@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rival challenges Clinton to say where she stands on trade</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/06/11/rival-challenges-clinton-to-say-where-she-stands-on-trade" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T15:40:11Z</updated>
+    <published>2015-06-11T15:40:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T15:40:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Bill Clinton says he will stop giving paid speeches if Hillary wins</title>
     <link rel="alternate" href="http://news.yahoo.com/bill-clinton-says-stop-giving-paid-speeches-hillary-002742027.html" />
     <author>
@@ -975,7 +986,7 @@
     <dc:date>2015-04-17T00:01:19Z</dc:date>
   </entry>
   <entry>
-    <title>Hillary Clinton faces a challenge in voters? trust</title>
+    <title>Hillary Clinton faces a challenge in voters’ trust</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article18703005.html%23storylink=rss" />
     <author>
       <name />
@@ -1865,7 +1876,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Hillary Clinton?s campaign signs lease for Brooklyn Heights</title>
+    <title>Hillary Clinton’s campaign signs lease for Brooklyn Heights</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-campaign-signs-lease-brooklyn-heights-article-1.2172344?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>
       <name />

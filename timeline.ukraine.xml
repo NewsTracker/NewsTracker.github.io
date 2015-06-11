@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: Ukraine renews license for under-fire TV station</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463776&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T10:55:14Z</updated>
+    <published>2015-06-11T10:55:14Z</published>
+    <summary type="html">&lt;p&gt;KIEV, Ukraine (AP) " Ukraine's government broadcasting authority has extended the operating licensing for a popular television station that has been accused of a pro-Russia stance.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T10:55:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nemtsov's final report: 220 Russian soldiers killed in Ukraine</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/5/12/nemtsov-report-220-russians-killed-in-ukraine.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T11:21:00Z</updated>
+    <published>2015-05-12T11:21:00Z</published>
+    <summary type="html">&lt;p&gt;The report said Russians fighting against Kiev troops in east Ukraine earn up to $1,774 a month.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T11:21:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/external/2015/3/mourners-honor-russianoppositionleadernemtsov/_jcr_content/image.adapt.480.low.Russia_Nemtsov_mourners_030215.jpg" />
+  </entry>
+  <entry>
     <title>Educated Ukrainians flee east Ukraine for new lives in Kiev</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article23737606.html%23storylink=rss" />
     <author>

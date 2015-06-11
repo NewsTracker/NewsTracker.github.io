@@ -4,6 +4,74 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple restores grand old bank for new NYC store</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28295706/apple-restores-grand-old-bank-new-nyc-store?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T14:38:34Z</updated>
+    <published>2015-06-11T14:38:34Z</published>
+    <summary type="html">&lt;p&gt;Apple employees gather in the company's new store, Thursday, June 11, 2015, on New York's Upper East Side.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T14:38:34Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0611/20150611__0612apple%7E2_300.JPG" />
+  </entry>
+  <entry>
+    <title>In with the old: Apple restores former bank for new store</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/11/in-with-the-old-apple-restores-former-bank-for-new-store" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T14:10:04Z</updated>
+    <published>2015-06-11T14:10:04Z</published>
+    <summary type="html">&lt;p&gt;It's all part of Apple's effort to keep its stores distinct - not just from other retailers but from each other.&lt;/p&gt;&lt;p&gt;And as Apple looks to open new stores or renovate existing ones - including the iconic New York Fifth Avenue store, with its distinctive glass-cube entrance - the company will look for additional ways to do that.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T14:10:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>In with the old: Apple restores former bank for new store</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/In-with-the-old-Apple-restores-former-bank-for-6320960.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T14:10:04Z</updated>
+    <published>2015-06-11T14:10:04Z</published>
+    <summary type="html">&lt;p&gt;Apple has generic stores, too, such as ones in shopping malls.&lt;/p&gt;&lt;p&gt;Upper East Side will be Apple's 266th store in the U.S. and seventh in New York City, a key market for Apple because it gets twice as much traffic as stores in other U.S. cities.&lt;/p&gt;&lt;p&gt;As Apple opens new stores, it will also renovate about 20 existing U.S. stores, including the ones on Fifth Avenue and San Francisco's Union Square.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T14:10:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>In with the old: Apple restores former bank for new store</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/in-with-the-old-apple-restores-former-bank-for-new/nmbHS/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T14:10:04Z</updated>
+    <published>2015-06-11T14:10:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T14:10:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple workers to CEO Tim Cook: Stop embarrassing us</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102751308" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T11:15:00Z</updated>
+    <published>2015-06-11T11:15:00Z</published>
+    <summary type="html">&lt;p&gt;Another email, sent by a retail worker in Beijing to Cook and other managers in 2013, said Apple treats its employees "as animals" and thieves.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T11:15:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/06/08/102742071-GettyImages-476363156.530x298.jpg?v=1433785861" />
+  </entry>
+  <entry>
+    <title>Column: Apple Music may be overselling its usefulness</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/music-news-reviews/article23743678.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T08:00:00Z</updated>
+    <published>2015-06-11T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;(Plus, soon after the great reveal, news came that Apple was being investigated by two states for antitrust violations in its negotiations with music companies.)&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T08:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple knew about 'demeaning' bag checks on employees before lawsuit</title>
     <link rel="alternate" href="http://www.theguardian.com/technology/2015/jun/11/apple-knew-about-demeaning-bag-checks-on-employees-before-lawsuit" />
     <author>
@@ -2128,7 +2196,7 @@
     <dc:date>2015-04-15T14:41:44Z</dc:date>
   </entry>
   <entry>
-    <title>Apple Watch could cost you ?2,500 more in Britain</title>
+    <title>Apple Watch could cost you £2,500 more in Britain</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/570495/Apple-Watch-more-expensive-UK-Tim-Cook?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2613,7 +2681,7 @@
     <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150408&amp;amp;t=2&amp;amp;i=1038840669&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB370KG" />
   </entry>
   <entry>
-    <title>Apple Watch review: You?ll want one, but you don?t need one</title>
+    <title>Apple Watch review: You’ll want one, but you don’t need one</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-watch-review-youll-want-one-but-you-dont-need-one" />
     <author>
       <name />

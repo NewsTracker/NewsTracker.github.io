@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama nominates senior State Dept. official as Mexico envoy</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article22829205.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T01:52:04Z</updated>
+    <published>2015-06-02T01:52:04Z</published>
+    <summary type="html">&lt;p&gt;Associated Press writer Luis Alonso Lugo reported this story in Washington and Peter Orsi reported from Mexico City.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T01:52:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Groups call for halt to drilling in northwest New Mexico</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article22834437.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T00:37:06Z</updated>
+    <published>2015-06-02T00:37:06Z</published>
+    <summary type="html">&lt;p&gt;Environmental groups on Monday renewed their call to end hydraulic fracturing in northwestern New Mexico as part of an ongoing battle over oil and natural gas development and the protection of cultural and archaeological sites.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T00:37:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico says it found offshore oil reserves in Gulf</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463571&amp;amp;ref=rss" />
     <author>
@@ -634,17 +657,6 @@
     <summary type="html">&lt;p&gt;Mexico's government welcomed Jacobson's nomination.&lt;/p&gt;&lt;p&gt;"Senator Rubio considers our relationship with Mexico to be one of our most important. He is familiar with Ms. Jacobson's government service, and that record is something he will be closely reviewing," Rubio spokeswoman Brooke Sammon said via email.&lt;/p&gt;</summary>
     <dc:date>2015-06-02T01:41:54Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/25ee809/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fd5%2F6a3a6af8053840a444ff21d29566fe%2Fmedia%3A51b209f6e8134df68aac033a632a5a46UnitedStatesMexico.JPEG" />
-  </entry>
-  <entry>
-    <title>Groups call for halt to drilling in northwest New Mexico</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article22834437.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T00:37:06Z</updated>
-    <published>2015-06-02T00:37:06Z</published>
-    <summary type="html">&lt;p&gt;Environmental groups on Monday renewed their call to end hydraulic fracturing in northwestern New Mexico as part of an ongoing battle over oil and natural gas development and the protection of cultural and archaeological sites.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T00:37:06Z</dc:date>
   </entry>
   <entry>
     <title>Obama nominates U.S.?s top Cuba negotiator as ambassador to Mexico</title>
@@ -3095,7 +3107,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -4173,7 +4185,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -4185,7 +4197,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />

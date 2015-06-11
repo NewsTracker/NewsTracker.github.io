@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: european games</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.european_games.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Azerbaijan criticized over rights as European Games begin</title>
+    <link rel="alternate" href="http://news.yahoo.com/azerbaijan-criticized-over-rights-european-games-begin-121519200--spt.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T15:26:41Z</updated>
+    <published>2015-06-11T15:26:41Z</published>
+    <summary type="html">&lt;p&gt;Hosting the European Games has a particular significance for majority-Muslim Azerbaijan, which has long sought to present itself as a European rather than Asian nation, a strategy long followed by neighboring Turkey.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T15:26:41Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/2EjvL81fCDjMHvz06eVHdg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/b2ab188e1497131a790f6a706700270f.jpg" />
+  </entry>
+  <entry>
+    <title>Azerbaijan criticized over rights as European Games begin</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/energy/article/Azerbaijan-criticized-over-rights-as-European-6320749.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T15:26:33Z</updated>
+    <published>2015-06-11T15:26:33Z</published>
+    <summary type="html">&lt;p&gt;Patrick Hickey, the head of the European Olympic Committee attends a news conference on the eve of the opening of the 2015 European Games in Baku, Azerbaijan, Thursday, June 11, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T15:26:33Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/37/01/47/8133096/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>3 Austrian swimmers hit by bus at European Games</title>
+    <link rel="alternate" href="http://www.miamiherald.com/sports/article23739820.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T11:44:04Z</updated>
+    <published>2015-06-11T11:44:04Z</published>
+    <summary type="html">&lt;p&gt;Three teenage synchronized swimmers from Austria were injured Thursday when they were hit by a shuttle bus in the athletes village on the eve of the inaugural European Games, Austrian Olympic officials said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T11:44:04Z</dc:date>
+  </entry>
   <entry>
     <title>European Games under pressure before opening ceremony</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/sports/article23737825.html%23storylink=rss" />

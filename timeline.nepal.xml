@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal landslides triggered by heavy rain bury at least 21 people</title>
+    <link rel="alternate" href="http://www.latimes.com/world/asia/la-fg-nepal-landslide-20150611-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T14:12:00Z</updated>
+    <published>2015-06-11T14:12:00Z</published>
+    <summary type="html">&lt;p&gt;Tens of thousands of foreigners come to Nepal every year to trek on the foothills of the Himalayan peaks.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T14:12:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>21 dead, dozens missing as landslide buries Nepal villages</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/21-dead-dozens-missing-as-landslide-buries-nepal-v/nmbDB/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T11:40:30Z</updated>
+    <published>2015-06-11T11:40:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T11:40:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>21 dead, dozens missing as landslide buries Nepal villages</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-06-11-AS--Nepal-Landslide/id-224e8e38f1044a6baebc782ce9d9352b" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T07:40:00Z</updated>
+    <published>2015-06-11T07:40:00Z</published>
+    <summary type="html">&lt;p&gt;Also, the trails around the Langtang valley in northern Nepal were completely damaged and an entire village buried by a landslide and avalanche set off by the earthquake.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T07:40:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Landslide hits 6 villages in Nepal; 15 feared dead</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article23737186.html%23storylink=rss" />
     <author>
@@ -3794,7 +3827,7 @@
     <dc:date>2015-04-09T15:54:40Z</dc:date>
   </entry>
   <entry>
-    <title>China plans rail tunnel UNDERNEATH Mount Everest which would link the country with Nepal?</title>
+    <title>China plans rail tunnel UNDERNEATH Mount Everest which would link the country with Nepal </title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3031966/China-plans-rail-tunnel-UNDERNEATH-Mount-Everest-link-country-Nepal.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UN official says Ebola will end in Sierra Leone in weeks</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11458489&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T01:25:16Z</updated>
+    <published>2015-06-02T01:25:16Z</published>
+    <summary type="html">&lt;p&gt;According to the latest WHO figures, in the week ending May 24 there were 12 new cases of Ebola " 9 in Guinea and 3 in Sierra Leone, down from a total of 35 cases the previous week.&lt;/p&gt;&lt;p&gt;Touching the body of an Ebola victim can transmit the disease, but traditional burials in Guinea are hands on " and determine whether the spirit of the dead person will move into others in the community in a happy way or will be disturbed and take it out on people, Nabarro said.&lt;/p&gt;&lt;p&gt;He wouldn't predict when West Africa will be Ebola free.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T01:25:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Woman isolated for possible Ebola</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/10/woman-isolated-possible-ebola" />
     <author>
@@ -150,17 +161,6 @@
     <published>2015-06-02T01:25:23Z</published>
     <summary type="html">&lt;p&gt;Nabarro stressed that Ebola is now confined to a small belt along Guinea's coast, noting that the forest region where the outbreak started has been Ebola free for weeks.&lt;/p&gt;</summary>
     <dc:date>2015-06-02T01:25:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>UN official says Ebola will end in Sierra Leone in weeks</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11458489&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T01:25:16Z</updated>
-    <published>2015-06-02T01:25:16Z</published>
-    <summary type="html">&lt;p&gt;According to the latest WHO figures, in the week ending May 24 there were 12 new cases of Ebola " 9 in Guinea and 3 in Sierra Leone, down from a total of 35 cases the previous week.&lt;/p&gt;&lt;p&gt;Touching the body of an Ebola victim can transmit the disease, but traditional burials in Guinea are hands on " and determine whether the spirit of the dead person will move into others in the community in a happy way or will be disturbed and take it out on people, Nabarro said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T01:25:16Z</dc:date>
   </entry>
   <entry>
     <title>UN official says Ebola will end in Sierra Leone in weeks</title>

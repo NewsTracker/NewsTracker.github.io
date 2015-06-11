@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.S. top court throws out man's conviction for Facebook threats</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3106177/U-S-court-throws-mans-conviction-Facebook-threats.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-01T21:08:43Z</updated>
+    <published>2015-06-01T21:08:43Z</published>
+    <summary type="html">&lt;p&gt;Elonis wrote the Facebook posts in 2010, when he was 27, after his wife left him.&lt;/p&gt;</summary>
+    <dc:date>2015-06-01T21:08:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Who Are The 10 Most Popular Celebrities On Facebook?</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/2015/06/11/popular-celebrities-on-facebook_n_7559050.html" />
     <author>
@@ -1677,7 +1688,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
+    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />

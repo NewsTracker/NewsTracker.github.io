@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>How Google's start-up wants to improve city life</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102752159" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T15:41:00Z</updated>
+    <published>2015-06-11T15:41:00Z</published>
+    <summary type="html">&lt;p&gt;In a post on Google Plus, the company's social network, Mr. Page termed Sidewalk Labs "a relatively modest investment" and one "very different from Google's core business."&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T15:41:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/06/11/102752279-larry-page.530x298.jpg?v=1434035151" />
+  </entry>
+  <entry>
+    <title>Apple sending out cars to create Google Street View rival</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/apple-sending-out-cars-to-create-google-street-view-rival-1.2416977" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T11:30:00Z</updated>
+    <published>2015-06-11T11:30:00Z</published>
+    <summary type="html">&lt;p&gt;Google took to blurring faces and car license plate numbers in Street View imagery at its mapping service due to privacy concerns.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T11:30:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Fin24.com | Apple takes on Google Street View</title>
     <link rel="alternate" href="http://www.fin24.com/Tech/News/Apple-takes-on-Google-Street-View-20150611" />
     <author>
@@ -5852,7 +5875,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
