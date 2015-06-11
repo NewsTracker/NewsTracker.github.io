@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>FIFA's top spokesman leaves job, Blatter urged to do same</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/FIFA-s-top-spokesman-leaves-job-Blatter-urged-to-6320964.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T17:46:52Z</updated>
+    <published>2015-06-11T17:46:52Z</published>
+    <summary type="html">&lt;p&gt;FIFA responded by announcing that its executive committee will meet on July 20 in Zurich to decide when from December to February the election to decide Blatter's successor should be held.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T17:46:52Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/37/01/55/8133460/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>FIFA's top spokesman leaves job, Blatter urged to do same</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463848&amp;amp;ref=rss" />
     <author>
       <name />
@@ -1632,7 +1644,7 @@
     <media:content url="http://news.bbcimg.co.uk/media/images/82180000/jpg/_82180435_baltter_hayatou.jpg" />
   </entry>
   <entry>
-    <title>All African nations say they’ll vote for FIFA’s Blatter</title>
+    <title>All African nations say they?ll vote for FIFA?s Blatter</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/All-African-nations-say-they-ll-vote-for-6185069.php" />
     <author>
       <name />

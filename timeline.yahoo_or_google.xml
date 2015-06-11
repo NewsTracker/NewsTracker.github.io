@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dustin Johnson withdraws after 9 holes at St. Jude Classic (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/dustin-johnson-withdraws-9-holes-st-jude-classic-171152403--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T17:16:06Z</updated>
+    <published>2015-06-11T17:16:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T17:16:06Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/7jf4j8dVcJ9LfIXjY1MMLg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506071340492019177" />
+  </entry>
+  <entry>
+    <title>Cavs guard Dellavedova set for Game 4 after hospitalization (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/cavs-guard-dellavedova-set-game-4-hospitalization-164331691--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T16:43:31Z</updated>
+    <published>2015-06-11T16:43:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T16:43:31Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/HbxWLglBJwUblrok0ORFMw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/1c8f050a23177aa0e4216146f6bd7a1e" />
+  </entry>
+  <entry>
+    <title>Google?s mobilegeddon</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/technology-32393050%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T07:58:09Z</updated>
+    <published>2015-04-21T07:58:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-04-21T07:58:09Z</dc:date>
+    <media:content url="http://ichef.bbci.co.uk/news/200/media/images/82452000/jpg/_82452160_thinkstock_google.jpg" />
+  </entry>
+  <entry>
     <title>How Google's start-up wants to improve city life</title>
     <link rel="alternate" href="http://www.cnbc.com/id/102752159" />
     <author>
@@ -5875,7 +5911,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />

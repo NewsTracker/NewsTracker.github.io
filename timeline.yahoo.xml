@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dustin Johnson withdraws after 9 holes at St. Jude Classic (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/dustin-johnson-withdraws-9-holes-st-jude-classic-171152403--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T17:16:06Z</updated>
+    <published>2015-06-11T17:16:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T17:16:06Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/7jf4j8dVcJ9LfIXjY1MMLg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506071340492019177" />
+  </entry>
+  <entry>
+    <title>Cavs guard Dellavedova set for Game 4 after hospitalization (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/cavs-guard-dellavedova-set-game-4-hospitalization-164331691--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T16:43:31Z</updated>
+    <published>2015-06-11T16:43:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T16:43:31Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/HbxWLglBJwUblrok0ORFMw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nba.com/1c8f050a23177aa0e4216146f6bd7a1e" />
+  </entry>
+  <entry>
     <title>AP Source: Kings GM Pete D'Alessandro returning to Nuggets (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-kings-gm-pete-dalessandro-returning-nuggets-190741391--nba.html" />
     <author>

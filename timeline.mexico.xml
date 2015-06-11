@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tropical storm Carlos forms off Mexico's Pacific coast</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/us-storm-carlos-mexico-idUSKBN0OR25G20150611?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T15:49:10Z</updated>
+    <published>2015-06-11T15:49:10Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY Tropical storm Carlos formed off the southern Pacific coast of Mexico on Thursday and was expected to gain some strength in the coming days, the U.S. National Hurricane Center said.&lt;/p&gt;&lt;p&gt;The center said the storm was expected to move in a path northward, parallel to the coast of Mexico and that no watches or warnings were in effect.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T15:49:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Obama nominates senior State Dept. official as Mexico envoy</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article22829205.html%23storylink=rss" />
     <author>
@@ -3107,7 +3118,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -4185,7 +4196,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -4197,7 +4208,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />

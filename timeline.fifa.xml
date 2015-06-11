@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Argentines wanted in FIFA case ask to remain free</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463950&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T19:00:34Z</updated>
+    <published>2015-06-11T19:00:34Z</published>
+    <summary type="html">&lt;p&gt;Two Argentine businessmen wanted in a FIFA bribery investigation are petitioning an appeals court to remain free while officials consider U.S. requests for their extradition.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T19:00:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>FIFA's top spokesman leaves job, Blatter urged to do same</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/FIFA-s-top-spokesman-leaves-job-Blatter-urged-to-6320964.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T17:46:52Z</updated>
+    <published>2015-06-11T17:46:52Z</published>
+    <summary type="html">&lt;p&gt;Still, Blatter praised FIFA's handling of the ongoing corruption crisis in the organization's in-house magazine.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T17:46:52Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/37/01/55/8133460/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>FIFA's top spokesman leaves job, Blatter urged to do same</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/11/fifas-top-spokesman-leaves-job-blatter-urged-to-do-same" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T17:46:52Z</updated>
+    <published>2015-06-11T17:46:52Z</published>
+    <summary type="html">&lt;p&gt;FIFA responded by announcing that its executive committee will meet on July 20 in Zurich to decide when from December to February the election to decide Blatter's successor should be held.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T17:46:52Z</dc:date>
+  </entry>
+  <entry>
     <title>FIFA's top spokesman leaves job, Blatter urged to do same</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/11/fifas-top-spokesman-leaves-job-blatter-urged-to-do-same" />
     <author>
@@ -3577,7 +3611,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/07/13/27589EC300000578-3028845-image-a-25_1428411272259.jpg" />
   </entry>
   <entry>
-    <title>Greg Dyke watch: Fifa announce FA chairman has returned the £16,000 watch he was given as a gift</title>
+    <title>Greg Dyke watch: Fifa announce FA chairman has returned the ?16,000 watch he was given as a gift</title>
     <link rel="alternate" href="http://www.independent.co.uk/sport/football/news-and-comment/greg-dyke-watch-fifa-announce-fa-chairman-has-returned-the-16000-watch-he-was-given-as-a-gift-10160134.html" />
     <author>
       <name />

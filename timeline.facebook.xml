@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Jets' Bowles Urges Players to Be Smart on Social Media</title>
+    <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/jets-bowles-urges-players-smart-social-media-31698853" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T19:19:22Z</updated>
+    <published>2015-06-11T19:19:22Z</published>
+    <summary type="html">&lt;p&gt;That's the message New York Jets coach Todd Bowles has given his players about using forums such as Twitter, Instagram and Facebook.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T19:19:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Oculus' virtual-reality headset to simulate touch, gestures</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Oculus-virtual-reality-headset-to-simulate-6321683.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T19:13:08Z</updated>
+    <published>2015-06-11T19:13:08Z</published>
+    <summary type="html">&lt;p&gt;Oculus' virtual-reality technology is so highly regarded that Facebook bought it for $2 billion last year.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T19:13:08Z</dc:date>
+  </entry>
+  <entry>
     <title>U.S. top court throws out man's conviction for Facebook threats</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3106177/U-S-court-throws-mans-conviction-Facebook-threats.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1688,7 +1710,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />

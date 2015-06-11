@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gunman in Kenya University Massacre Was Government Official?s Son</title>
+    <link rel="alternate" href="http://time.com/3771689/gunman-kenya-massacre-official-son-garissa/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+time%2Fworld+%28TIME%3A+Top+World+Stories%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-05T19:11:27Z</updated>
+    <published>2015-04-05T19:11:27Z</published>
+    <summary type="html">&lt;p&gt;Kenya's government has said another source of instability is the country's refugee camps, with more than 423,000 Somali refugees.&lt;/p&gt;</summary>
+    <dc:date>2015-04-05T19:11:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenyatta says Garissa attackers 'embedded' in Kenya Muslim community</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/4/kenyatta-says-garissa-attackers-embedded-in-kenya-muslim-community.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-04T21:03:00Z</updated>
+    <published>2015-04-04T21:03:00Z</published>
+    <summary type="html">&lt;p&gt;Four attackers died at Garissa, but Kenya has not named them or announced their nationalities.&lt;/p&gt;&lt;p&gt;The attack at Garissa, which lies 120 miles from the Somali border, has put Kenya on high alert and spooked its Christian communities after reports the gunmen sought out Christian students while sparing some Muslims.&lt;/p&gt;&lt;p&gt;Kenya has offered $215,000 reward for his arrest.&lt;/p&gt;</summary>
+    <dc:date>2015-04-04T21:03:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/4/3/why-is-al-shabab-attacking-kenya/_jcr_content/image.adapt.480.low.040315_AlShabab2.jpg" />
+  </entry>
+  <entry>
     <title>Kenya seeks to voluntarily repatriate 100,000 Somalis</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/11/kenya-govt-seeks-to-voluntarily-repatriate-100-00-somalis" />
     <author>
@@ -1003,7 +1026,7 @@
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/e/r/j/5/image.related.articleLeadwide.620x349.1mhy5c.png/1428623947356.jpg" />
   </entry>
   <entry>
-    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
+    <title>Community radio brings forecasts to Kenya?s most climate vulnerable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
       <name />
@@ -1543,18 +1566,6 @@
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150405001118798836-original.jpg?itok=-TteVTsU" />
   </entry>
   <entry>
-    <title>Kenyatta says Garissa attackers 'embedded' in Kenya Muslim community</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/4/4/kenyatta-says-garissa-attackers-embedded-in-kenya-muslim-community.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-04T21:03:00Z</updated>
-    <published>2015-04-04T21:03:00Z</published>
-    <summary type="html">&lt;p&gt;Four attackers died at Garissa, but Kenya has not named them or announced their nationalities.&lt;/p&gt;&lt;p&gt;The attack at Garissa, which lies 120 miles from the Somali border, has put Kenya on high alert and spooked its Christian communities after reports the gunmen sought out Christian students while sparing some Muslims.&lt;/p&gt;</summary>
-    <dc:date>2015-04-04T21:03:00Z</dc:date>
-    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/4/3/why-is-al-shabab-attacking-kenya/_jcr_content/image.adapt.480.low.040315_AlShabab2.jpg" />
-  </entry>
-  <entry>
     <title>Three days of mourning as Kenya grapples with Garissa massacre</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/04/05/three-days-mourning-kenya-grapples-garissa-massacre" />
     <author>
@@ -1567,7 +1578,7 @@
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150405001118798836-original.jpg?itok=-TteVTsU" />
   </entry>
   <entry>
-    <title>Kenya’s revenge: Naked corpses paraded</title>
+    <title>Kenya?s revenge: Naked corpses paraded</title>
     <link rel="alternate" href="http://www.news.com.au/world/africa/kenya-massacre-police-parade-corpses-of-university-gunmen-through-massacre-town/story-fnh81gzi-1227291754637?from=public_rss" />
     <author>
       <name />
