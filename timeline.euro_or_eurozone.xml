@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.euro_or_eurozone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Belgium finds way to issue its own Waterloo euro coin</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/belgium-finds-way-to-issue-its-own-waterloo-euro-coin-20150611-ghlejv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T02:15:35Z</updated>
+    <published>2015-06-11T02:15:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T02:15:35Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/l/f/e/6/image.related.articleLeadwide.620x349.ghlejv.png/1433988821411.jpg" />
+  </entry>
+  <entry>
+    <title>Belgium finds way to issue its own Waterloo euro coin</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/belgium-finds-way-to-issue-its-own-waterloo-euro-coin-20150611-ghlejv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T02:15:35Z</updated>
+    <published>2015-06-11T02:15:35Z</published>
+    <summary type="html">&lt;p&gt;This week, Belgium decided to circumvent French resistance by invoking a little-known European Union rule that allows countries to issue euro coins of their choice, provided they are in an irregular denomination.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T02:15:35Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/l/f/e/6/image.related.articleLeadwide.620x349.ghlejv.png/1433988821411.jpg" />
+  </entry>
+  <entry>
     <title>GLOBAL MARKETS-Euro at 3-month high, bond yields key</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/14/markets-global-idUSL5N0Y525920150514?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fin24.com | Apple takes on Google Street View</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Apple-takes-on-Google-Street-View-20150611" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T08:05:15Z</updated>
+    <published>2015-06-11T08:05:15Z</published>
+    <summary type="html">&lt;p&gt;For years, a Street View team has been ranging the world for Google Maps.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T08:05:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Google tries to demystify privacy controls with new approach</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/01/google-tries-to-demystify-privacy-controls-with/" />
     <author>
