@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine's Poroshenko sacks powerful eastern governor</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/25/ukraines-poroshenko-sacks-powerful-eastern-governor.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-25T15:44:00Z</updated>
+    <published>2015-03-25T15:44:00Z</published>
+    <summary type="html">&lt;p&gt;Some suggested it could mark the start of an internal power struggle between Poroshenko and the powerful tycoon who has emerged from political upheaval and war in Ukraine to be the most dominant of the big business oligarchs controlling key parts of the economy.&lt;/p&gt;&lt;p&gt;Some say Poroshenko may have been motivated reluctantly to take a tough line with Kolomoisky to demonstrate to the International Monetary Fund and other of Ukraine's Western creditors that he was determined to clean up the chaotic loss-making state energy sector.&lt;/p&gt;</summary>
+    <dc:date>2015-03-25T15:44:00Z</dc:date>
+    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/3/13/ukraine-requests-un-peacekeeper-deployment/_jcr_content/image.adapt.480.low.ukrainesoldiers_03132015.jpg" />
+  </entry>
+  <entry>
     <title>Report: Ukraine renews license for under-fire TV station</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463776&amp;amp;ref=rss" />
     <author>
@@ -3604,18 +3616,6 @@
     <summary type="html">&lt;p&gt;KIEV, Ukraine (AP) - The United States has delivered 10 armored vehicles to Ukraine as part of a military support program intended to assist the fight against Russian-backed separatist forces in the country's east.&lt;/p&gt;&lt;p&gt;President Barack Obama's administration has said it will provide Ukraine's military with $75 million in nonlethal aid, but has refrained from offering lethal equipment despite calls from Congress to do so.&lt;/p&gt;</summary>
     <dc:date>2015-03-25T16:14:56Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/9D1yAjHAixDgVQq.Hh6hCw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/633b97c7881bc70d710f6a70670019a1.jpg" />
-  </entry>
-  <entry>
-    <title>Ukraine's Poroshenko sacks powerful eastern governor</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/3/25/ukraines-poroshenko-sacks-powerful-eastern-governor.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-25T15:44:00Z</updated>
-    <published>2015-03-25T15:44:00Z</published>
-    <summary type="html">&lt;p&gt;Some suggested it could mark the start of an internal power struggle between Poroshenko and the powerful tycoon who has emerged from political upheaval and war in Ukraine to be the most dominant of the big business oligarchs controlling key parts of the economy.&lt;/p&gt;</summary>
-    <dc:date>2015-03-25T15:44:00Z</dc:date>
-    <media:content url="http://america.aljazeera.com/content/ajam/articles/2015/3/13/ukraine-requests-un-peacekeeper-deployment/_jcr_content/image.adapt.480.low.ukrainesoldiers_03132015.jpg" />
   </entry>
   <entry>
     <title>Ukraine's president dismisses powerful regional governor</title>
