@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt opens borders with Gaza for the first time in months</title>
+    <link rel="alternate" href="http://news.yahoo.com/egypt-opens-borders-gaza-first-time-months-074137951.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-13T11:48:27Z</updated>
+    <published>2015-06-13T11:48:27Z</published>
+    <summary type="html">&lt;p&gt;RAFAH, Gaza Strip (AP) - Egypt opened its borders with the Gaza Strip for the first time in months Saturday, allowing Palestinians to enter and leave the isolated coastal strip.&lt;/p&gt;</summary>
+    <dc:date>2015-06-13T11:48:27Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/yWqA1haM4NiLugo_XRp0WA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/fbcd124866d7421a790f6a7067001c11.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt opens borders with Gaza for the first time in months</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Egypt-opens-borders-with-Gaza-for-the-first-time-6325067.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-13T11:48:12Z</updated>
+    <published>2015-06-13T11:48:12Z</published>
+    <summary type="html">&lt;p&gt;A Palestinian family waits to cross the border into Egypt, at the Rafah crossing in the southern Gaza Strip, Saturday, June 13, 2015.&lt;/p&gt;&lt;p&gt;The Rafah border crossing will operate for six hours a day for the coming three days and 15,000 people Palestinians have applied to exit to Egypt, said Maher Abu Sabha, head of the Gaza side of the crossing.&lt;/p&gt;</summary>
+    <dc:date>2015-06-13T11:48:12Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/04/51/8145494/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Egypt opens Rafah crossing into Gaza in sign of easing tensions</title>
     <link rel="alternate" href="http://news.yahoo.com/egypt-opens-rafah-crossing-gaza-sign-easing-tensions-094658443.html" />
     <author>

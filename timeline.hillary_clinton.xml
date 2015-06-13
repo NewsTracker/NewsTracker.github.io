@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Clinton campaign to focus on economic security, opportunity</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18282287.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-12T01:00:06Z</updated>
+    <published>2015-04-12T01:00:06Z</published>
+    <summary type="html">&lt;p&gt;Dozens of supporters, elected officials and Democratic leaders gathered at the fundraiser the day before Hillary Clinton is expected to officially announce her presidential campaign.&lt;/p&gt;&lt;p&gt;The campaign, the memo said, "is not about Hillary Clinton and not about us - it's about the everyday Americans who are trying to build a better life for themselves and their families."&lt;/p&gt;</summary>
+    <dc:date>2015-04-12T01:00:06Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Hillary Clinton will vow to back working Americans at major rally in New York</title>
     <link rel="alternate" href="http://www.theguardian.com/us-news/2015/jun/13/hilary-clinton-will-vow-to-back-working-americans-at-major-rally-in-new-york" />
     <author>
@@ -1530,18 +1542,6 @@
     <summary type="html">&lt;p&gt;Hillary Clinton would make a fine US president, Barack Obama told reporters on Saturday, on the eve of the expected launch of her candidacy for the Democratic Party's nod in 2016.&lt;/p&gt;</summary>
     <dc:date>2015-04-12T03:01:34Z</dc:date>
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/04/12/03/2779134C00000578-3035413-image-a-6_1428805528728.jpg" />
-  </entry>
-  <entry>
-    <title>Clinton campaign to focus on economic security, opportunity</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article18282287.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-12T01:00:06Z</updated>
-    <published>2015-04-12T01:00:06Z</published>
-    <summary type="html">&lt;p&gt;Dozens of supporters, elected officials and Democratic leaders gathered at the fundraiser the day before Hillary Clinton is expected to officially announce her presidential campaign.&lt;/p&gt;</summary>
-    <dc:date>2015-04-12T01:00:06Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Clinton campaign to focus on economic security, opportunity</title>
