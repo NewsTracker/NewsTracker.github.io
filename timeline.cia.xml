@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Documents show bitter CIA dispute over pre-9/11 performance</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/12/us-usa-security-cia-idUSKBN0OS2GO20150612?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-12T22:57:07Z</updated>
+    <published>2015-06-12T22:57:07Z</published>
+    <summary type="html">&lt;p&gt;The lobby of the CIA Headquarters Building in McLean, Virginia, August 14, 2008.&lt;/p&gt;&lt;p&gt;WASHINGTON Top CIA officials fought bitterly in the years after the Sept.&lt;/p&gt;&lt;p&gt;But the documents released by the CIA on Friday also reflect the arguments of former CIA Director George Tenet and his lieutenants that U.S. intelligence was intently focused on al Qaeda and leader Osama bin Laden.&lt;/p&gt;&lt;p&gt;At stake in the years-long dispute are the legacies of former top CIA officials and the agency itself.&lt;/p&gt;&lt;p&gt;The documents, which former CIA officials pressed the agency to release, include a July 2005 memo from 17 top officers of the CIA's Counterterrorism Center disputing Helgerson's report.&lt;/p&gt;</summary>
+    <dc:date>2015-06-12T22:57:07Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150612&amp;amp;t=2&amp;amp;i=1055843871&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB5B11Q" />
+  </entry>
+  <entry>
+    <title>Former CIA leader defends drone strikes, torture</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/89ae8247abe8493fae24405546e9a1aa/Article_2015-05-04-US--CIA-Morell%20Book/id-a3f9cbe32c6e4a119e588bb248c16d11" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T19:59:46Z</updated>
+    <published>2015-05-04T19:59:46Z</published>
+    <summary type="html">&lt;p&gt;While Morell says he is personally troubled by the harshest technique the CIA used on detainees, water boarding, he makes a case that agency leaders had no choice but to use what many consider torture in the years after the 9/11 attacks.&lt;/p&gt;&lt;p&gt;It is difficult for CIA officers to legally talk about the agency's drone strikes, because they are technically covert and deniable.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T19:59:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Retired CIA operative becomes breakout spy novelist</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article23769118.html%23storylink=rss" />
     <author>
@@ -461,17 +484,6 @@
     <summary type="html">&lt;p&gt;(AP) - A federal magistrate has ordered a psychiatric evaluation for an ex-FBI agent arrested at CIA headquarters after a confrontation with security officers.&lt;/p&gt;&lt;p&gt;According to court records, Davis on Thursday morning visited NSA headquarters at Fort Meade, Maryland, then drove to CIA headquarters at Langley.&lt;/p&gt;&lt;p&gt;She was arrested after refusing to follow CIA security officers' instructions.&lt;/p&gt;&lt;p&gt;One officer said she tried to reach for an officer's gun while partially handcuffed and shouted that the CIA could be bombed.&lt;/p&gt;</summary>
     <dc:date>2015-05-05T15:46:28Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
-  </entry>
-  <entry>
-    <title>Former CIA leader defends drone strikes, torture</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/89ae8247abe8493fae24405546e9a1aa/Article_2015-05-04-US--CIA-Morell%20Book/id-a3f9cbe32c6e4a119e588bb248c16d11" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-04T19:59:46Z</updated>
-    <published>2015-05-04T19:59:46Z</published>
-    <summary type="html">&lt;p&gt;While Morell says he is personally troubled by the harshest technique the CIA used on detainees, water boarding, he makes a case that agency leaders had no choice but to use what many consider torture in the years after the 9/11 attacks.&lt;/p&gt;</summary>
-    <dc:date>2015-05-04T19:59:46Z</dc:date>
   </entry>
   <entry>
     <title>Former CIA leader defends drone strikes, torture</title>

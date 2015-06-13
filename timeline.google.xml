@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google launches a YouTube built for gamers</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/12/us-google-youtube-gaming-idUSKBN0OS27C20150612?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-12T20:30:40Z</updated>
+    <published>2015-06-12T20:30:40Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-12T20:30:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>YouTube plans to woo gamers with separate app and site</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/youtube-plans-to-woo-gamers-with-separate-app-and-site-1.2419632" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-12T18:21:23Z</updated>
+    <published>2015-06-12T18:21:23Z</published>
+    <summary type="html">&lt;p&gt;The move by Google-owned YouTube takes direct aim at Twitch.&lt;/p&gt;</summary>
+    <dc:date>2015-06-12T18:21:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Twitter's Dick Costolo to step down as CEO in yet another shake-up</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/us-twitter-moves-dickcostolo-idUSKBN0OR2Q020150611?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>

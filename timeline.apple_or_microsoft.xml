@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft building 2 cloud data centres in Canada</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:36:11Z</updated>
+    <published>2015-06-02T23:36:11Z</published>
+    <summary type="html">&lt;p&gt;"When a global company of the reputation of Microsoft chooses to make additional investments in Toronto, that's a happy day," Tory said at the announcement.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:36:11Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Microsoft must face Xbox 360 class action claims</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/18/microsoft-must-face-class-action-claims-over-alleged-xbox-defect" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T21:06:55Z</updated>
+    <published>2015-03-18T21:06:55Z</published>
+    <summary type="html">&lt;p&gt;Microsoft countered that class certification was improper because just 0.4 % of Xbox owners reported disc scratches, and that misuse was the cause.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T21:06:55Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297676678843_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>EU tax probes on Apple, Amazon, Starbucks at advanced stage: European Commission</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/eu-taxavoidance-amazon-apple-idUSKBN0OR26B20150611?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
@@ -3986,18 +4010,6 @@
     <summary type="html">&lt;p&gt;After 20 years of competing against rival web browsers, Microsoft is gearing up to launch its own alternative to its once-dominant Internet surfing program.&lt;/p&gt;&lt;p&gt;Microsoft has built a new web browser designed for the modern web and mobile devices to go with its new Windows 10 operating system that's coming later this year.&lt;/p&gt;&lt;p&gt;Explorer will still be available, but Microsoft hinted this week that its new - and as-yet unnamed - browser will get top billing in the future.&lt;/p&gt;&lt;p&gt;Microsoft didn't invent the web browser, but it has invested heavily to promote Explorer since it was first launched in 1995.&lt;/p&gt;</summary>
     <dc:date>2015-03-18T21:45:41Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/35/22/14/7676711/3/622x350.jpg" />
-  </entry>
-  <entry>
-    <title>Microsoft must face Xbox 360 class action claims</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/03/18/microsoft-must-face-class-action-claims-over-alleged-xbox-defect" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T21:06:55Z</updated>
-    <published>2015-03-18T21:06:55Z</published>
-    <summary type="html">&lt;p&gt;Microsoft countered that class certification was improper because just 0.4 % of Xbox owners reported disc scratches, and that misuse was the cause.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T21:06:55Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297676678843_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>Only 39% of iPhone users interested in Apple Watch: poll</title>

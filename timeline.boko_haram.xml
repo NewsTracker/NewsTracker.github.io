@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UN urges stepped-up action against Boko Haram and LRA</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11464013&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T20:30:22Z</updated>
+    <published>2015-06-11T20:30:22Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T20:30:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Boko Haram attack on northern Nigerian city kills 20</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3107087/Boko-Haram-attacks-northeast-city-jet-fighter-deploys.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T18:01:57Z</updated>
+    <published>2015-06-02T18:01:57Z</published>
+    <summary type="html">&lt;p&gt;In Tuesday's video, an armed fighter said Boko Haram still holds several northeastern towns and has thousands of fighters - claims impossible to substantiate.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T18:01:57Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/06/02/10/294A18F000000578-0-image-m-79_1433237863233.jpg" />
+  </entry>
+  <entry>
+    <title>Boko Haram video allegedly shows militants killing soldiers</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3107087/Boko-Haram-attacks-northeast-city-jet-fighter-deploys.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T16:01:47Z</updated>
+    <published>2015-06-02T16:01:47Z</published>
+    <summary type="html">&lt;p&gt;An armed fighter with his face covered by a scarf claims Boko Haram still holds several northeastern towns.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T16:01:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Nigeria, neighbors forge anti-Boko Haram force</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/us-nigeria-violence-idUSKBN0OR13420150611?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>

@@ -4,6 +4,63 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore suffers deadliest month in 15 years as arrests plunge following Freddie Gray case</title>
+    <link rel="alternate" href="http://www.startribune.com/baltimore-residents-fearful-amid-homicide-spike/305286391/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-28T20:02:50Z</updated>
+    <published>2015-05-28T20:02:50Z</published>
+    <summary type="html">&lt;p&gt;As family members cried and held each other on the quiet, leafy block in Southwest Baltimore where they lived, Wilder said she felt as if "my heart has been ripped out."&lt;/p&gt;&lt;p&gt;Thursday's deaths continue a grisly and dramatic uptick in murders across Baltimore that has so far claimed the lives of 38 people.&lt;/p&gt;</summary>
+    <dc:date>2015-05-28T20:02:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>MLB: Orioles win in return to Baltimore</title>
+    <link rel="alternate" href="http://www.mercurynews.com/sports/ci_28097725/mlb-orioles-win-return-baltimore?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-12T05:46:08Z</updated>
+    <published>2015-05-12T05:46:08Z</published>
+    <summary type="html">&lt;p&gt;Orioles 5, Blue Jays 2: Manny Machado, Chris Davis and Adam Jones hit homers, and the Orioles won in their return to Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-05-12T05:46:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gray 'victory rally' in Baltimore</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/baltimores-mayor-lifts-curfew-31191403.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T05:01:13Z</updated>
+    <published>2015-05-03T05:01:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-03T05:01:13Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31191402.ece/3e904/ALTERNATES/h342/PANews%20BT_P-05295278-e360-44b8-b3e0-a79d311efcb4_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Orioles play home games in Florida after riots in Baltimore</title>
+    <link rel="alternate" href="http://www.miamiherald.com/sports/article20050752.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T23:40:06Z</updated>
+    <published>2015-05-01T23:40:06Z</published>
+    <summary type="html">&lt;p&gt;Baltimore Orioles manager Buck Showalter looked out of place.&lt;/p&gt;&lt;p&gt;But the attire is appropriate this weekend with Baltimore "hosting" the relocated three-game series in Florida.&lt;/p&gt;&lt;p&gt;Baltimore infielder Steve Pearce, from nearby Lakeland, Florida., not only is playing the unusual home game, but is making his pro debut at second base.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T23:40:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>New plaza funded by Southwest Airlines opens in Baltimore as grant program expands to 6 cities</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/300890631.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T06:20:29Z</updated>
+    <published>2015-04-22T06:20:29Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - A new public plaza funded by a grant from Southwest Airlines is opening in Baltimore, and the airline is expanding its grant program for public places to six new cities.&lt;/p&gt;&lt;p&gt;Baltimore is a former grant recipient.&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T06:20:29Z</dc:date>
+  </entry>
+  <entry>
     <title>14 alleged gang members indicted on racketeering charges</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article23750056.html%23storylink=rss" />
     <author>
@@ -310,17 +367,6 @@
     <published>2015-05-28T20:04:14Z</published>
     <summary type="html">&lt;p&gt;Police say they found a woman and a boy around 8 years old shot to death in southwest Baltimore.&lt;/p&gt;</summary>
     <dc:date>2015-05-28T20:04:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Baltimore suffers deadliest month in 15 years as arrests plunge following Freddie Gray case</title>
-    <link rel="alternate" href="http://www.startribune.com/baltimore-residents-fearful-amid-homicide-spike/305286391/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-28T20:02:50Z</updated>
-    <published>2015-05-28T20:02:50Z</published>
-    <summary type="html">&lt;p&gt;As family members cried and held each other on the quiet, leafy block in Southwest Baltimore where they lived, Wilder said she felt as if "my heart has been ripped out."&lt;/p&gt;</summary>
-    <dc:date>2015-05-28T20:02:50Z</dc:date>
   </entry>
   <entry>
     <title>Baltimore Gets Bloodier as Arrests Drop Post-Freddie Gray</title>
@@ -1649,18 +1695,6 @@
     <summary type="html">&lt;p&gt;About 1,000 protesters decrying police brutality marched in Manhattan at a May Day rally that took on a new message amid national outrage over a Baltimore man's death in police custody.&lt;/p&gt;&lt;p&gt;A group of Chicago protesters has demanded an end to police brutality in support of Freddie Gray, who died after his spine was severed while in police custody in Baltimore last month.&lt;/p&gt;</summary>
     <dc:date>2015-05-02T03:21:27Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/05/01/6e/b7/6768e66455394bd08ade8de29cdc5e87-08677d41053a48a7badd3d7de846cf71-0.jpg" />
-  </entry>
-  <entry>
-    <title>Orioles play home games in Florida after riots in Baltimore</title>
-    <link rel="alternate" href="http://www.miamiherald.com/sports/article20050752.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-01T23:40:06Z</updated>
-    <published>2015-05-01T23:40:06Z</published>
-    <summary type="html">&lt;p&gt;Baltimore Orioles manager Buck Showalter looked out of place.&lt;/p&gt;&lt;p&gt;But the attire is appropriate this weekend with Baltimore "hosting" the relocated three-game series in Florida.&lt;/p&gt;</summary>
-    <dc:date>2015-05-01T23:40:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Orioles Play Home Games in Florida After Riots in Baltimore</title>
@@ -3437,17 +3471,6 @@
     <summary type="html">&lt;p&gt;Amid tears and cries for justice, demonstrators poured into the streets of Baltimore carrying signs emblazoned with the name of a man who died from a spinal injury he suffered while in police custody.&lt;/p&gt;</summary>
     <dc:date>2015-04-22T07:58:59Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/04/22/8f/33/2f4924e08bde48b29254dc3204d8f58f-4de84a75ecb4446f87bbdf28aafcdb9d-2.jpg" />
-  </entry>
-  <entry>
-    <title>New plaza funded by Southwest Airlines opens in Baltimore as grant program expands to 6 cities</title>
-    <link rel="alternate" href="http://www.startribune.com/nation/300890631.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T06:20:29Z</updated>
-    <published>2015-04-22T06:20:29Z</published>
-    <summary type="html">&lt;p&gt;BALTIMORE - A new public plaza funded by a grant from Southwest Airlines is opening in Baltimore, and the airline is expanding its grant program for public places to six new cities.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T06:20:29Z</dc:date>
   </entry>
   <entry>
     <title>Justice Dept. opens Baltimore police probe; 1K protest</title>

@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>EU parliament urges Blatter to quit FIFA immediately</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-11/blatter-defies-eu-parliament-calls-to-quit-fifa-immediately/6540164" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T11:10:40Z</updated>
+    <published>2015-06-11T11:10:40Z</published>
+    <summary type="html">&lt;p&gt;The European Parliament said Blatter's failure to depart immediately would block efforts to rid FIFA of rampant corruption.&lt;/p&gt;&lt;p&gt;EU politicians heaped pressure on Blatter, 79, voting in favour of an eight-page resolution with a series of demands to clean up football.&lt;/p&gt;&lt;p&gt;He also introduced the news conference where Blatter announced his resignation and appeared close to tears as the departing president announced his exit.&lt;/p&gt;&lt;p&gt;The race to succeed Blatter gathered a new challenger on Wednesday when football great Zico formally declared his candidacy for the FIFA presidency, but the Brazilian admitted his chances of success were limited.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T11:10:40Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6540348-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Blatter quits as FIFA chief after corruption scandal</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/03/blatter-quits-fifa-chief-after-corruption-scandal" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T17:19:07Z</updated>
+    <published>2015-06-02T17:19:07Z</published>
+    <summary type="html">&lt;p&gt;Blatter, 79, announced the decision at a news conference in Zurich, six days after the FBI raided a hotel in Zurich and arrested several FIFA officials and just four days after he was re-elected to a fifth term as president.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T17:19:07Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-06-02T165116Z_1_LYNXMPEB510XN_RTROPTP_2_SOCCER-FIFA-BLATTER.JPG?itok=AApEgQgu" />
+  </entry>
+  <entry>
+    <title>Sepp Blatter Says He Will Resign as FIFA President</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/02/blatter-says-he-will-resign-as-fifa-president" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T16:51:42Z</updated>
+    <published>2015-06-02T16:51:42Z</published>
+    <summary type="html">&lt;p&gt;FIFA President Sepp Blatter will resign from soccer's governing body amid a widening corruption scandal and has promised to call for fresh elections to choose a successor.&lt;/p&gt;&lt;p&gt;Three days earlier, Blatter was defiant and feisty in the same room when fending off questions about FIFA's battered reputation and the chance U.S. federal agencies could seek his arrest.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T16:51:42Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/44972c8/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fe7%2F828a7582f2874bb902814fec7985b5%2Fmedia%3Ab092770be3a34f3f881a1af34ad5da44EuropeWeekinSport.JPEG" />
+  </entry>
+  <entry>
     <title>FIFA's top spokesman leaves job, Blatter urged to do same</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/FIFA-s-top-spokesman-leaves-job-Blatter-urged-to-6320964.php" />
     <author>
@@ -459,18 +495,6 @@
     <summary type="html">&lt;p&gt;Walking away: Sepp Blatter resigns as president of FIFA.&lt;/p&gt;</summary>
     <dc:date>2015-06-02T17:35:15Z</dc:date>
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/f/d/5/t/image.related.articleLeadwide.620x349.ghfd58.png/1433274373250.jpg" />
-  </entry>
-  <entry>
-    <title>Sepp Blatter Says He Will Resign as FIFA President</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/02/blatter-says-he-will-resign-as-fifa-president" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T16:51:42Z</updated>
-    <published>2015-06-02T16:51:42Z</published>
-    <summary type="html">&lt;p&gt;FIFA President Sepp Blatter will resign from soccer's governing body amid a widening corruption scandal and has promised to call for fresh elections to choose a successor.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T16:51:42Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/44972c8/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fe7%2F828a7582f2874bb902814fec7985b5%2Fmedia%3Ab092770be3a34f3f881a1af34ad5da44EuropeWeekinSport.JPEG" />
   </entry>
   <entry>
     <title>FIFA Says Valcke Not Behind $10M Payment in Corruption Probe</title>

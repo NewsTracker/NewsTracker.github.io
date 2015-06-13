@@ -4,6 +4,50 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>House passes defense spending bill</title>
+    <link rel="alternate" href="http://news.yahoo.com/house-votes-down-war-powers-amendment-181111519--politics.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T21:21:27Z</updated>
+    <published>2015-06-11T21:21:27Z</published>
+    <summary type="html">&lt;p&gt;On Wednesday, Obama ordered the deployment of up to 450 more American troops to Iraq in an effort to reverse major battlefield losses to the Islamic State, an escalation but not a significant shift in the struggling U.S. strategy to defeat the extremist group.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T21:21:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>House passes defense spending bill</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/House-votes-down-war-powers-amendment-6321536.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T21:21:15Z</updated>
+    <published>2015-06-11T21:21:15Z</published>
+    <summary type="html">&lt;p&gt;Before the final vote, the House rejected an amendment to force lawmakers to vote by the end of March on new war powers to fight Islamic State militants.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T21:21:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Iraq PM says allies not doing enough to counter Islamic State</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3107147/Iraq-PM-says-allies-not-doing-battle-Islamic-State.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T12:00:14Z</updated>
+    <published>2015-06-02T12:00:14Z</published>
+    <summary type="html">&lt;p&gt;Many of Iraq's minority Sunnis dislike hardline Sunni Islamic State but also fear the Shi'ite militias after years of bloody sectarian strife.&lt;/p&gt;&lt;p&gt;Prime Minister Haider al-Abadi, a moderate Shi'ite, can only persuade Sunni tribes to fight Islamic State if he demonstrates that he can control the powerful Shi'ite militias whose military muscle he now depends on.&lt;/p&gt;&lt;p&gt;"It is known, both internally and internationally, that the most effective force fighting ISIL (Islamic State) terrorists on the ground and in a direct manner are the peshmerga."&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T12:00:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. accuses Syria of backing Islamic State's Aleppo advance</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3107241/U-S-accuses-Syria-backing-Islamic-States-Aleppo-advance.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T11:22:16Z</updated>
+    <published>2015-06-02T11:22:16Z</published>
+    <summary type="html">&lt;p&gt;In rebel-held Aleppo, a local council that helps run civilian affairs called on fighters to be ready for battle with Islamic State, the Observatory said on Tuesday, citing a statement.&lt;/p&gt;&lt;p&gt;Syrian officials have previously dismissed as nonsense allegations by Washington and Syrian opposition activists that the Syrian military has helped Islamic State's fight against rival Syrian insurgent forces.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T11:22:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Pentagon: Price tag for war on Islamic State is $2.7 billion, most of it for Air Force</title>
     <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/06/11/pentagon-price-tag-for-war-on-islamic-state-is-27-billion-most-it-for-air-force/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
     <author>
@@ -948,28 +992,6 @@
     <published>2015-06-02T13:44:30Z</published>
     <summary type="html">&lt;p&gt;The fighting came a day after U.S. State Department spokeswoman Marie Harf said authorities heard reports forces loyal to Syrian President Bashar Assad launched airstrikes supporting the Islamic State group's advance.&lt;/p&gt;</summary>
     <dc:date>2015-06-02T13:44:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>Iraq PM says allies not doing enough to counter Islamic State</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3107147/Iraq-PM-says-allies-not-doing-battle-Islamic-State.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T12:00:14Z</updated>
-    <published>2015-06-02T12:00:14Z</published>
-    <summary type="html">&lt;p&gt;Many of Iraq's minority Sunnis dislike hardline Sunni Islamic State but also fear the Shi'ite militias after years of bloody sectarian strife.&lt;/p&gt;&lt;p&gt;Prime Minister Haider al-Abadi, a moderate Shi'ite, can only persuade Sunni tribes to fight Islamic State if he demonstrates that he can control the powerful Shi'ite militias whose military muscle he now depends on.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T12:00:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>U.S. accuses Syria of backing Islamic State's Aleppo advance</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3107241/U-S-accuses-Syria-backing-Islamic-States-Aleppo-advance.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T11:22:16Z</updated>
-    <published>2015-06-02T11:22:16Z</published>
-    <summary type="html">&lt;p&gt;In rebel-held Aleppo, a local council that helps run civilian affairs called on fighters to be ready for battle with Islamic State, the Observatory said on Tuesday, citing a statement.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T11:22:16Z</dc:date>
   </entry>
   <entry>
     <title>U.S. accuses Syria of backing Islamic State's Aleppo advance</title>

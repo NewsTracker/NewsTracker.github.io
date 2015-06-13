@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.euro_or_eurozone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Interpol suspends 20 million euro partnership with Fifa</title>
+    <link rel="alternate" href="http://www.euronews.com/2015/06/12/interpol-suspends-20-million-euro-partnership-with-fifa/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-12T20:20:56Z</updated>
+    <published>2015-06-12T20:20:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-12T20:20:56Z</dc:date>
+    <media:content url="http://static.euronews.com/articles/307930/606x340_307930.jpg?1434140456" />
+  </entry>
+  <entry>
     <title>Belgium finds way to issue its own Waterloo euro coin</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/belgium-finds-way-to-issue-its-own-waterloo-euro-coin-20150611-ghlejv.html" />
     <author>
