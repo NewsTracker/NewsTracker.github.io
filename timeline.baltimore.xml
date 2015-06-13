@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore Officials: No Immediate Decision in Gray Case</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/baltimore-officials-decision-gray-case-30694161" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T08:35:21Z</updated>
+    <published>2015-04-30T08:35:21Z</published>
+    <summary type="html">&lt;p&gt;But widespread protests Wednesday night - not only in Baltimore, but in several cities including Boston, New York and Washington, D.C. - made it clear that tensions over the case are far from subsiding.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T08:35:21Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>Baltimore suffers deadliest month in 15 years as arrests plunge following Freddie Gray case</title>
     <link rel="alternate" href="http://www.startribune.com/baltimore-residents-fearful-amid-homicide-spike/305286391/" />
     <author>

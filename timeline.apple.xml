@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Watch Is Not Yet A Home Run With Users, Survey Shows</title>
+    <link rel="alternate" href="http://www.forbes.com/sites/aarontilley/2015/06/13/apple-watch-is-not-yet-a-home-run-with-users-survey-shows/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-13T16:41:00Z</updated>
+    <published>2015-06-13T16:41:00Z</published>
+    <summary type="html">&lt;p&gt;Apple is clearly working out these third-party app issues, though.&lt;/p&gt;</summary>
+    <dc:date>2015-06-13T16:41:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Court agrees Samsung copied Apple, but tosses some damages</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Court-agrees-Samsung-copied-Apple-but-reduces-6270711.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T21:04:15Z</updated>
+    <published>2015-05-18T21:04:15Z</published>
+    <summary type="html">&lt;p&gt;"When this case was first filed, it was a big deal. But I don't think the litigation has served all the purposes that Apple and Samsung originally desired," said Michael Carrier, a Rutgers law professor who has followed the dispute closely.&lt;/p&gt;&lt;p&gt;While Apple won large monetary awards by arguing that Samsung copied some of its products, it had less success in persuading courts to issue injunctions that would have kept Samsung's versions off the market.&lt;/p&gt;&lt;p&gt;The long-running case was one of several lawsuits in which Apple, Samsung and other tech companies locked horns in a global battle for pre-eminence in the smartphone market.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T21:04:15Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/42/23/8004820/3/622x350.jpg" />
+  </entry>
+  <entry>
     <title>EU tax probes on Apple, Amazon, Starbucks at advanced stage: European Commission</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/eu-taxavoidance-amazon-apple-idUSKBN0OR26B20150611?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
@@ -1119,18 +1142,6 @@
     <summary type="html">&lt;p&gt;(Reuters) - Billionaire investor Carl Icahn said on Monday Apple Inc's (AAPL.O) stock was "still dramatically undervalued" and that it should be trading at $240, nearly double its current price.&lt;/p&gt;</summary>
     <dc:date>2015-05-19T00:44:15Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/jg0azNw_81Ie8SvejFoquw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-05-18T161102Z_2_LYNXMPEB4H0OM_RTROPTP_3_APPLE-ICAHN_original.jpg" />
-  </entry>
-  <entry>
-    <title>Court agrees Samsung copied Apple, but tosses some damages</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/Court-agrees-Samsung-copied-Apple-but-reduces-6270711.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-18T21:04:15Z</updated>
-    <published>2015-05-18T21:04:15Z</published>
-    <summary type="html">&lt;p&gt;"When this case was first filed, it was a big deal. But I don't think the litigation has served all the purposes that Apple and Samsung originally desired," said Michael Carrier, a Rutgers law professor who has followed the dispute closely.&lt;/p&gt;&lt;p&gt;While Apple won large monetary awards by arguing that Samsung copied some of its products, it had less success in persuading courts to issue injunctions that would have kept Samsung's versions off the market.&lt;/p&gt;</summary>
-    <dc:date>2015-05-18T21:04:15Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/36/42/23/8004820/3/622x350.jpg" />
   </entry>
   <entry>
     <title>Court agrees Samsung copied Apple, but tosses some damages</title>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine says 6 servicemen killed in fighting</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article23944912.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-13T12:43:12Z</updated>
+    <published>2015-06-13T12:43:12Z</published>
+    <summary type="html">&lt;p&gt;A Russia-backed rebel loads shells in a tank at Donetsk airport, eastern Ukraine, Friday, June 12, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-06-13T12:43:12Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>US now sees Russia directing Ukraine's rebels</title>
+    <link rel="alternate" href="http://news.yahoo.com/us-now-sees-russia-directing-ukraines-rebels-073146944--politics.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T07:39:27Z</updated>
+    <published>2015-04-30T07:39:27Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this March 11, 2015, file photo, a Ukrainian serviceman takes position at the front line outside Kurahovo, in the Donetsk region of Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T07:39:27Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/QM81dO5itmpXQMHH21o4FA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/0e02f5c150561a13750f6a7067000c61.jpg" />
+  </entry>
+  <entry>
     <title>Caught in the middle: War in Ukraine creates no man's lands</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article23943973.html%23storylink=rss" />
     <author>

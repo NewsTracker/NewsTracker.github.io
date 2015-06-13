@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft building 2 cloud data centres in Canada</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:36:11Z</updated>
+    <published>2015-06-02T23:36:11Z</published>
+    <summary type="html">&lt;p&gt;Microsoft wouldn't say.&lt;/p&gt;&lt;p&gt;"When a global company of the reputation of Microsoft chooses to make additional investments in Toronto, that's a happy day," Tory said at the announcement.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:36:11Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Microsoft building 2 cloud data centres in Canada</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T23:36:11Z</updated>
+    <published>2015-06-02T23:36:11Z</published>
+    <summary type="html">&lt;p&gt;TORONTO - The Microsoft Cloud is coming to Canada.&lt;/p&gt;&lt;p&gt;Microsoft announced Tuesday that it will build two "Cloud" data centres - one in Toronto and one in Quebec City - next year.&lt;/p&gt;&lt;p&gt;The data centres will be the physical home to the technology that powers Microsoft's cloud services for businesses.&lt;/p&gt;&lt;p&gt;Why does Microsoft want to locate the cloud in Canada?&lt;/p&gt;&lt;p&gt;For security reasons, Microsoft wouldn't reveal the actual location.&lt;/p&gt;&lt;p&gt;"They don't have to procure data centre space, procure servers or lease servers or run fibre or worry about power or any of those things," explained Kevin Turner, Microsoft's worldwide chief operating officer.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T23:36:11Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Oculus teams with Microsoft on VR headset</title>
     <link rel="alternate" href="http://www.ft.com/cms/s/9fc909fc-1062-11e5-b4dc-00144feabdc0,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F9fc909fc-1062-11e5-b4dc-00144feabdc0.html%3Fftcamp%3Dpublished_links%252Frss%252Fhome_europe%252Ffeed%252F%252Fproduct&amp;amp;ftcamp=published_links%2Frss%2Fhome_europe%2Ffeed%2F%2Fproduct&amp;amp;_i_referer=" />
     <author>
@@ -161,30 +185,6 @@
     <published>2015-06-04T07:02:13Z</published>
     <summary type="html">&lt;p&gt;Microsoft's acquisition of German firm 6Wunderkinder this week for an undisclosed sum is part of its broader effort to win friends in the mobile world.&lt;/p&gt;&lt;p&gt;Microsoft Corp. also bought the startup behind an email app called Accompli, which - like Sunrise and Wunderlist - has won praise from tech reviewers for its clean design and useful features.&lt;/p&gt;&lt;p&gt;Microsoft has since rebranded the Accompli app as "Outlook" for mobile devices.&lt;/p&gt;&lt;p&gt;The expansion is being financed by Google Inc. and other prominent investors, including Microsoft co-founder Paul Allen, who have poured $592 million into Magic Leap so far.&lt;/p&gt;</summary>
     <dc:date>2015-06-04T07:02:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Microsoft building 2 cloud data centres in Canada</title>
-    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnologynews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T23:36:11Z</updated>
-    <published>2015-06-02T23:36:11Z</published>
-    <summary type="html">&lt;p&gt;Microsoft wouldn't say.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T23:36:11Z</dc:date>
-    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
-  </entry>
-  <entry>
-    <title>Microsoft building 2 cloud data centres in Canada</title>
-    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnology" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T23:36:11Z</updated>
-    <published>2015-06-02T23:36:11Z</published>
-    <summary type="html">&lt;p&gt;TORONTO - The Microsoft Cloud is coming to Canada.&lt;/p&gt;&lt;p&gt;Microsoft announced Tuesday that it will build two "Cloud" data centres - one in Toronto and one in Quebec City - next year.&lt;/p&gt;&lt;p&gt;The data centres will be the physical home to the technology that powers Microsoft's cloud services for businesses.&lt;/p&gt;&lt;p&gt;Why does Microsoft want to locate the cloud in Canada?&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T23:36:11Z</dc:date>
-    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/01/1297706916930.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
   </entry>
   <entry>
     <title>Windows 10 available July 29: Microsoft</title>

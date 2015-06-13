@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook pushes to improve benefits, pay for contractors</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Facebook-pushes-to-improve-benefits-pay-for-6261076.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-13T21:51:33Z</updated>
+    <published>2015-05-13T21:51:33Z</published>
+    <summary type="html">&lt;p&gt;" If Facebook can raise pay to $15, so can McDonald's."&lt;/p&gt;</summary>
+    <dc:date>2015-05-13T21:51:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Oculus unveils virtual reality headset Rift</title>
     <link rel="alternate" href="http://technology.canoe.com/Gaming/News/2015/06/11/22447961.html?cid=rsstechnology" />
     <author>

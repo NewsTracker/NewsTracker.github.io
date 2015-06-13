@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Ellis Addresses FIFA Scandal</title>
+    <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/latest-fifa-vice-president-chung-mulls-running-31490266" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T23:52:07Z</updated>
+    <published>2015-06-03T23:52:07Z</published>
+    <summary type="html">&lt;p&gt;U.S. women's coach Jill Ellis addressed the FIFA corruption scandal before the team held its first practice in Canada in advance of the Women's World Cup.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T23:52:07Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/Sports/WireAP_c35bf31254c148618f78c9ebd1fa5db5_16x9_992.jpg" />
+  </entry>
+  <entry>
+    <title>Sepp Blatter Back at Work at FIFA Headquarters</title>
+    <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/sepp-blatter-back-work-fifa-headquarters-31491866" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T12:31:55Z</updated>
+    <published>2015-06-03T12:31:55Z</published>
+    <summary type="html">&lt;p&gt;That probe led to the arrest of seven soccer officials in Zurich last week, kicking off the FIFA scandal and eventually leading to Blatter's decision to step down.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T12:31:55Z</dc:date>
+  </entry>
+  <entry>
     <title>Interpol suspends decade-long partnership with FIFA amid corruption investigations</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sport/football/article-3122225/Interpol-suspends-decade-long-partnership-FIFA-amid-corruption-investigations.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -990,18 +1013,6 @@
     <summary type="html">&lt;p&gt;FIFA President Sepp Blatter, who has run the governing body since 1998, said Tuesday he will be resigning, an announcement made six days after the indictments were unsealed and four days after he was elected to a fifth term.&lt;/p&gt;</summary>
     <dc:date>2015-06-04T02:22:16Z</dc:date>
     <media:content url="http://jto.s3.amazonaws.com/wp-content/uploads/2015/06/sp-blazer-a-20150605-200x200.jpg" />
-  </entry>
-  <entry>
-    <title>The Latest: Ellis Addresses FIFA Scandal</title>
-    <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/latest-fifa-vice-president-chung-mulls-running-31490266" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-03T23:52:07Z</updated>
-    <published>2015-06-03T23:52:07Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-03T23:52:07Z</dc:date>
-    <media:content url="http://a.abcnews.com/images/Sports/WireAP_c35bf31254c148618f78c9ebd1fa5db5_16x9_992.jpg" />
   </entry>
   <entry>
     <title>FIFA whistleblower Chuck Blazer admits bribes in World Cup choices</title>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA says Valcke not behind $10M payment in corruption probe (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/report-fifas-valcke-believed-behind-10m-payment-230849612--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T14:26:40Z</updated>
+    <published>2015-06-02T14:26:40Z</published>
+    <summary type="html">&lt;p&gt;Prince Ali, the Jordanian who lost to Blatter in last week's presidential election, told CNN that Blatter should resign because of the widening scandal.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T14:26:40Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>EU parliament urges Blatter to quit FIFA immediately</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-06-11/blatter-defies-eu-parliament-calls-to-quit-fifa-immediately/6540164" />
     <author>

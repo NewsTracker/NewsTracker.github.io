@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Carlos becomes a hurricane over Pacific off southwest Mexico</title>
+    <link rel="alternate" href="http://news.yahoo.com/tropical-storm-carlos-forms-south-mexico-162817197.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-13T20:26:56Z</updated>
+    <published>2015-06-13T20:26:56Z</published>
+    <summary type="html">&lt;p&gt;MIAMI (AP) - Hurricane Carlos hovered Saturday over the Pacific Ocean south of Acapulco, Mexico, hours after a hurricane watch was issued for a swath of that country's southwest coastline, forecasters said.&lt;/p&gt;&lt;p&gt;Mexico's government has issued a hurricane watch from Lazaro Cardenas to Punta San Telmo along Mexico's southwest mainland coast, meaning hurricane conditions were possible within that area within 48 hours.&lt;/p&gt;</summary>
+    <dc:date>2015-06-13T20:26:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico polls: ruling party ahead despite dissatisfaction</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/03/mexico-polls-ruling-party-ahead-despite-dissatisfaction" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T19:20:56Z</updated>
+    <published>2015-06-03T19:20:56Z</published>
+    <summary type="html">&lt;p&gt;But, paradoxically, most of the races for governorships in nine of Mexico's 31 states are extremely close, in many cases too close to call.&lt;/p&gt;&lt;p&gt;"Almost nobody thought an independent candidate could win a governorship," said Jose Antonio Crespo, a professor at Mexico's Center for Economic Research and Teaching.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T19:20:56Z</dc:date>
+  </entry>
+  <entry>
     <title>Dismembered bodies of Russian mom, daughter found at Mexico home; prosecutors suspect relative</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/06/12/dismembered-bodies-russian-mom-daughter-found-at-mexico-home-prosecutors/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
