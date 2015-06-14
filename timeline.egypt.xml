@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bus Crashes in Egypt Kill 23, Injure 17 Others</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/bus-crashes-egypt-kill-23-injure-17-31754170" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T13:36:46Z</updated>
+    <published>2015-06-14T13:36:46Z</published>
+    <summary type="html">&lt;p&gt;The World Health Organization says traffic accidents claim the lives of about 12,000 people a year in Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T13:36:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Bus crashes in Egypt kill 23, injure 17 others</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11465212&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T12:15:18Z</updated>
+    <published>2015-06-14T12:15:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-14T12:15:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Separate bus crashes in Egypt kill 23, injure 17 others</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/06/14/separate-bus-crashes-in-egypt-kill-23-injure-17-others/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T12:08:21Z</updated>
+    <published>2015-06-14T12:08:21Z</published>
+    <summary type="html">&lt;p&gt;CAIRO - Officials say two separate road accidents in Egypt Sunday have killed 23 Egyptians and injured 17 others.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T12:08:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt to inaugurate Suez Canal expansion</title>
     <link rel="alternate" href="http://www.smh.com.au/world/egypt-to-inaugurate-suez-canal-expansion-20150614-ghnhii.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hurricane Carlos weakens some, nearly stationary off Mexico</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article23758078.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T12:28:03Z</updated>
+    <published>2015-06-14T12:28:03Z</published>
+    <summary type="html">&lt;p&gt;Hurricane Carlos has weakened slightly but is expected to regain punch, hovering stationary over the Pacific Ocean off Mexico.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T12:28:03Z</dc:date>
+  </entry>
+  <entry>
     <title>Fabricio Werdum shocks Cain Velasquez, Mexico City crowd at UFC 188</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/06/14/fabricio-werdum-shocks-cain-velasquez--mexico-city-crowd-at-ufc-188" />
     <author>

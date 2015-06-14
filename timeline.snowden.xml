@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Britain pulls out spies as Russia, China crack Snowden files: report</title>
+    <link rel="alternate" href="http://news.yahoo.com/britain-pulls-spies-russia-china-crack-snowden-files-115045691.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T12:46:47Z</updated>
+    <published>2015-06-14T12:46:47Z</published>
+    <summary type="html">&lt;p&gt;The revelations about the impact of Snowden on intelligence operations comes days after Britain's terrorism law watchdog said the rules governing the security services' abilities to spy on the public needed to be overhauled.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T12:46:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Britain pulls out spies as Russia, China reportedly crack Snowden files</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/britain-pulls-out-spies-as-russia-china-reportedly-crack-snowden-files-20150614-ghntcv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T12:09:22Z</updated>
+    <published>2015-06-14T12:09:22Z</published>
+    <summary type="html">&lt;p&gt;Mr Snowden downloaded more than 1.7 million secret files from security agencies in the US and Britain in 2013, and leaked details about mass surveillance of phone and internet communications.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T12:09:22Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/h/n/t/d/l/image.related.articleLeadwide.620x349.ghntcv.png/1434283771919.jpg" />
+  </entry>
+  <entry>
+    <title>Britain forced to withdraw spies after Russia and China access secret information stolen by US whistleblower Edward Snowden</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/uk/britain-forced-to-withdraw-spies-after-russia-and-china-access-secret-information-stolen-by-us-whistleblower-edward-snowden-31300784.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-13T23:16:10Z</updated>
+    <published>2015-06-13T23:16:10Z</published>
+    <summary type="html">&lt;p&gt;Snowden triggered a wave of controversy when he leaked tens of thousands of documents about surveillance programmes run by the NSA and foreign counterparts, including Britain's GCHQ, in 2013.&lt;/p&gt;&lt;p&gt;The revelation came with renewed focus on s py agencies' powers to collect communications data in bulk, after a review - commissioned in the wake of the Snowden revelations - said the framework was "undemocratic" and must be entirely rewritten.&lt;/p&gt;</summary>
+    <dc:date>2015-06-13T23:16:10Z</dc:date>
+    <media:content url="http://cdn2.belfasttelegraph.co.uk/opinion/debateni/article29470262.ece/ea762/ALTERNATES/h342/US%20Phones%201312.jpg" />
+  </entry>
+  <entry>
     <title>UK spies 'moved over Snowden files'</title>
     <link rel="alternate" href="http://www.bbc.co.uk/news/uk-33125068%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
     <author>
