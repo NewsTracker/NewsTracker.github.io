@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook tries to halt privacy class action suit</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/04/09/facebook-tries-to-halt-privacy-class-action-suit" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-09T14:52:09Z</updated>
+    <published>2015-04-09T14:52:09Z</published>
+    <summary type="html">&lt;p&gt;Schrems accused Facebook of engaging in delaying tactics.&lt;/p&gt;</summary>
+    <dc:date>2015-04-09T14:52:09Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297685455955_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Facebook pushes to improve benefits, pay for contractors</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Facebook-pushes-to-improve-benefits-pay-for-6261076.php" />
     <author>

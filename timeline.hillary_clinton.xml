@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton pledges to rewrite tax code if elected U.S. President</title>
+    <link rel="alternate" href="http://news.yahoo.com/hillary-clinton-pledges-rewrite-tax-code-elected-u-163952789--business.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-13T16:39:52Z</updated>
+    <published>2015-06-13T16:39:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-13T16:39:52Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/tmstVV2UZqtjono1opsoaQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIxNTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-06-13T163952Z_1_LYNXMPEB5C0AP_RTROPTP_2_USA-ELECTION-CLINTON.JPG" />
+  </entry>
+  <entry>
     <title>Hillary Clinton stakes claim for working-class votes at presidential rally [Video]</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/06/13/hillary-clinton-makes-pitch-to-working-americans-at-big-rally" />
     <author>

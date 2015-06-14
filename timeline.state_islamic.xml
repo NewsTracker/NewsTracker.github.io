@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Syrian Kurds see Islamic State threat to city in northeast</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3048865/Syrian-Kurds-Islamic-State-threat-city-northeast.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T14:02:33Z</updated>
+    <published>2015-04-21T14:02:33Z</published>
+    <summary type="html">&lt;p&gt;But Islamic State remains a danger, said Redur Xelil, YPG spokesman.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T14:02:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Syrian Kurds push deeper into Islamic State stronghold</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/13/us-mideast-crisis-syria-idUSKBN0OT0F120150613?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
@@ -3997,17 +4008,6 @@
     <summary type="html">&lt;p&gt;Smoke rises from the Haouz neighborhood during clashes with Islamic State group militants, in central Ramadi, 70 miles (115 kilometers) west of Baghdad, Iraq, Monday, April 20, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-04-21T15:05:53Z</dc:date>
     <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
-  </entry>
-  <entry>
-    <title>Syrian Kurds see Islamic State threat to city in northeast</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3048865/Syrian-Kurds-Islamic-State-threat-city-northeast.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-21T14:02:33Z</updated>
-    <published>2015-04-21T14:02:33Z</published>
-    <summary type="html" />
-    <dc:date>2015-04-21T14:02:33Z</dc:date>
   </entry>
   <entry>
     <title>Syrian Kurds see Islamic State threat to city in northeast</title>

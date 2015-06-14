@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UK Withdraws Spies Over Snowden Files</title>
+    <link rel="alternate" href="http://news.sky.com/story/1501619/uk-withdraws-spies-over-snowden-files" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T00:02:28Z</updated>
+    <published>2015-06-14T00:02:28Z</published>
+    <summary type="html">&lt;p&gt;A British intelligence source was quoted as saying: "We know Russia and China have access to Snowden's material and will be going through it for years to come, searching for clues to identify potential targets.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T00:02:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Britain forced to withdraw spies after Russia and China access files stolen by US whistleblower Edward Snowden</title>
+    <link rel="alternate" href="http://www.independent.co.uk/news/uk/home-news/britain-forced-to-withdraw-spies-after-russia-and-china-access-files-stolen-by-us-whistleblower-edward-snowden-10318598.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-13T23:18:12Z</updated>
+    <published>2015-06-13T23:18:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-13T23:18:12Z</dc:date>
+    <media:content url="http://www.independent.co.uk/incoming/article10318329.ece/alternates/w460/6-Edward-Snowden-AP.jpg" />
+  </entry>
+  <entry>
     <title>Oliver Stone's 'Snowden' filming at locations around DC</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article17620706.html%23storylink=rss" />
     <author>
