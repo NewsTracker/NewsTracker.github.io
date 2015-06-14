@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Burial set for American killed fighting Islamic State</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/06/14/burial-set-for-american-killed-fighting-islamic-state" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T16:25:15Z</updated>
+    <published>2015-06-14T16:25:15Z</published>
+    <summary type="html">&lt;p&gt;Broomfield, 20 from Massachusetts, died June 3 in battle in a Syrian village near Kobani, making him likely the first U.S. citizen to die fighting alongside Kurds against the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T16:25:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Massachusetts man killed fighting Islamic State in Syria will be buried this week</title>
     <link rel="alternate" href="http://www.startribune.com/burial-set-for-american-killed-fighting-islamic-state/307296841/" />
     <author>
