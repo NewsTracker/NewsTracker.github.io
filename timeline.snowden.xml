@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UK Withdraws Spies Over Snowden Files</title>
+    <link rel="alternate" href="http://news.sky.com/story/1501619/uk-pulls-spies-after-snowden-files-cracked" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T00:02:28Z</updated>
+    <published>2015-06-14T00:02:28Z</published>
+    <summary type="html">&lt;p&gt;"Snowden has done incalculable damage. In some cases the agencies have been forced to intervene and lift their agents from operations to prevent them from being identified and killed."&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T00:02:28Z</dc:date>
+  </entry>
+  <entry>
     <title>Britain pulls out spies as Russia, China crack Snowden files - report</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/14/us-britain-security-idUSKBN0OT0XF20150614?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>

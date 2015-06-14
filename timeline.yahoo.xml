@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo chooses to stay with Microsoft in updated search deal</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Yahoo-chooses-to-stay-with-Microsoft-in-updated-6204097.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T23:09:59Z</updated>
+    <published>2015-04-16T23:09:59Z</published>
+    <summary type="html">&lt;p&gt;The original deal called for Microsoft to pay 88 percent of the search revenue to Yahoo.&lt;/p&gt;&lt;p&gt;Mayer spent 12 years helping Google build its lucrative lead in before becoming Yahoo's CEO in 2011.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T23:09:59Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/67/43/7829720/3/628x471.jpg" />
+  </entry>
+  <entry>
     <title>Blue Jays win 10th straight, Martin HR in 11th beats Red Sox (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/blue-jays-win-10th-straight-martin-hr-11th-211902930--mlb.html" />
     <author>
@@ -266,18 +278,6 @@
     <summary type="html" />
     <dc:date>2015-06-07T19:08:04Z</dc:date>
     <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
-  </entry>
-  <entry>
-    <title>Yahoo chooses to stay with Microsoft in updated search deal</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Yahoo-chooses-to-stay-with-Microsoft-in-updated-6204097.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-16T23:09:59Z</updated>
-    <published>2015-04-16T23:09:59Z</published>
-    <summary type="html">&lt;p&gt;The original deal called for Microsoft to pay 88 percent of the search revenue to Yahoo.&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T23:09:59Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/35/67/43/7829720/3/628x471.jpg" />
   </entry>
   <entry>
     <title>4-way tie at Memorial as Woods struggles to stay in game (Yahoo Sports)</title>

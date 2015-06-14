@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Part-time Ferguson mayor in full-time spotlight</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article14384633.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-14T18:39:04Z</updated>
+    <published>2015-03-14T18:39:04Z</published>
+    <summary type="html">&lt;p&gt;Despite calls for him to go, Knowles is the last man standing in Ferguson city government after a Justice Department report highly critical of the city's police force and court system prompted six officials to resign.&lt;/p&gt;</summary>
+    <dc:date>2015-03-14T18:39:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>U.S. calls for sweeping changes to Ferguson police force</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/u-s-calls-for-sweeping-changes-to-ferguson-police-force-1.2265542" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-05T16:39:00Z</updated>
+    <published>2015-03-05T16:39:00Z</published>
+    <summary type="html">&lt;p&gt;While the federal government declined to prosecute Wilson, it raised grave concerns about the operation of Ferguson's police department and municipal court.&lt;/p&gt;</summary>
+    <dc:date>2015-03-05T16:39:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Ferguson election could reshape City Council</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article17604512.html%23storylink=rss" />
     <author>
@@ -27,7 +50,7 @@
     <dc:date>2015-05-31T04:03:26Z</dc:date>
   </entry>
   <entry>
-    <title>Mats Hummels 'gave his word' to Sir Alex Ferguson he WILL join Manchester United!?</title>
+    <title>Mats Hummels 'gave his word' to Sir Alex Ferguson he WILL join Manchester United! </title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sport/football/article-3019289/Mats-Hummels-gave-word-Sir-Alex-Ferguson-join-Manchester-United.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
       <name />
