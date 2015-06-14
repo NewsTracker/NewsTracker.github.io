@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>After Ebola, world still unprepared for global pandemic: MSF</title>
+    <link rel="alternate" href="http://news.yahoo.com/ebola-world-still-unprepared-global-pandemic-msf-075251040.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T07:52:51Z</updated>
+    <published>2015-06-04T07:52:51Z</published>
+    <summary type="html">&lt;p&gt;Late and slow international response, the absence of solid leadership as well as the lack of treatments and vaccines are a recurrent scenario in many of today's health emergencies and are not unique to the Ebola epidemic, the medical charity said.&lt;/p&gt;&lt;p&gt;While Liberia was recently declared Ebola-free, a spike in new cases in Guinea has stoked concerns the virus could spread again.&lt;/p&gt;&lt;p&gt;World leaders from Germany, the United States, Britain, France, Canada, Italy and Japan will meet in Germany next week, and are expected to discuss Ebola and neglected diseases, among other issues, MSF said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T07:52:51Z</dc:date>
+  </entry>
+  <entry>
     <title>City paid $30K to settle Ebola fears lawsuit over girl, 7</title>
     <link rel="alternate" href="http://news.yahoo.com/city-paid-30k-settle-ebola-fears-lawsuit-over-180939478.html" />
     <author>
@@ -175,17 +186,6 @@
     <summary type="html">&lt;p&gt;WHO has acknowledged acting too slowly to control the Ebola epidemic.&lt;/p&gt;&lt;p&gt;Britain, China, the U.S. and others all built Ebola clinics in West Africa, but many weren't ready until late fall - after the epidemic's peak.&lt;/p&gt;</summary>
     <dc:date>2015-03-20T17:13:07Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>After Ebola, world still unprepared for global pandemic: MSF</title>
-    <link rel="alternate" href="http://news.yahoo.com/ebola-world-still-unprepared-global-pandemic-msf-075251040.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-04T07:52:51Z</updated>
-    <published>2015-06-04T07:52:51Z</published>
-    <summary type="html">&lt;p&gt;Late and slow international response, the absence of solid leadership as well as the lack of treatments and vaccines are a recurrent scenario in many of today's health emergencies and are not unique to the Ebola epidemic, the medical charity said.&lt;/p&gt;&lt;p&gt;While Liberia was recently declared Ebola-free, a spike in new cases in Guinea has stoked concerns the virus could spread again.&lt;/p&gt;</summary>
-    <dc:date>2015-06-04T07:52:51Z</dc:date>
   </entry>
   <entry>
     <title>Ban Ki-moon urges final push on Ebola</title>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google wants to count the calories in your Instagram food porn photos</title>
+    <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/582232/Instagram-Im2Calories-Google-Calorie-Count?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-tech+%28Daily+Express+%3A%3A+Science+%26+Tech+Feed%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T14:02:00Z</updated>
+    <published>2015-06-04T14:02:00Z</published>
+    <summary type="html">&lt;p&gt;Google research scientist Kevin Murphy made reference to the Im2Calories project last month at the Rework Deep Learning Summit, in Boston.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T14:02:00Z</dc:date>
+    <media:content url="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" />
+  </entry>
+  <entry>
     <title>Google founder defends accident records of self-driving cars</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-06-03-US--Google-Annual%20Meeting/id-f12f4e3cc4c44310aa504a8a18dbe26d" />
     <author>
@@ -253,18 +265,6 @@
     <published>2015-04-17T11:54:54Z</published>
     <summary type="html">&lt;p&gt;But new pecking order in Google's mobile search may relegate some sites to the back pages of the search results, even if their content is more relevant to a search request than other sites that happen to be easier to access on smartphones.&lt;/p&gt;&lt;p&gt;Google's search formula weighs a variety of factors to determine the rankings of its results.&lt;/p&gt;</summary>
     <dc:date>2015-04-17T11:54:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google wants to count the calories in your Instagram food porn photos</title>
-    <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/582232/Instagram-Im2Calories-Google-Calorie-Count?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-tech+%28Daily+Express+%3A%3A+Science+%26+Tech+Feed%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-04T14:02:00Z</updated>
-    <published>2015-06-04T14:02:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-04T14:02:00Z</dc:date>
-    <media:content url="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" />
   </entry>
   <entry>
     <title>Google founder defends accident records of self-driving cars</title>
