@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fabricio Werdum shocks Cain Velasquez, Mexico City crowd at UFC 188</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/14/fabricio-werdum-shocks-cain-velasquez--mexico-city-crowd-at-ufc-188" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T05:47:39Z</updated>
+    <published>2015-06-14T05:47:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-14T05:47:39Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297711481579_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
     <title>Kirby inspires England to 2-1 win over Mexico</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3123197/Kirby-inspires-England-2-1-win-Mexico.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -3276,7 +3288,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -4354,7 +4366,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -4366,7 +4378,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />

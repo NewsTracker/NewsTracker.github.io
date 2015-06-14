@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google founder defends accident records of self-driving cars</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-06-03-US--Google-Annual%20Meeting/id-f12f4e3cc4c44310aa504a8a18dbe26d" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T21:53:33Z</updated>
+    <published>2015-06-03T21:53:33Z</published>
+    <summary type="html">&lt;p&gt;Including the most recent accident, Google says its self-driving cars have been rear-ended eight times, side-swiped twice and hit by another vehicle rolling through a stop sign.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T21:53:33Z</dc:date>
+  </entry>
+  <entry>
     <title>ISS recommends Google shareholders withhold votes for 3 directors</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/iss-recommends-google-shareholders-withhold-123803614.html" />
     <author>
@@ -2507,7 +2518,7 @@
     <media:content url="http://s1.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150402&amp;amp;t=2&amp;amp;i=1037457334&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB310RA" />
   </entry>
   <entry>
-    <title>Google makes people think they’re smarter</title>
+    <title>Google makes people think they?re smarter</title>
     <link rel="alternate" href="http://www.news.com.au/technology/home-entertainment/a-new-study-has-found-internet-access-makes-you-think-youre-smarter-than-you-really-are/story-fnjwukfu-1227289772019?from=public_rss" />
     <author>
       <name />
@@ -2719,7 +2730,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2823,7 +2834,7 @@
     <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/03/25/googlecars650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
   </entry>
   <entry>
-    <title>Cubs’ Jackson blames Google Maps for missing start</title>
+    <title>Cubs? Jackson blames Google Maps for missing start</title>
     <link rel="alternate" href="http://nypost.com/2015/03/25/cubs-jackson-blames-google-maps-for-missing-start/" />
     <author>
       <name />

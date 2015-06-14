@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cruz apologizes on Facebook for Biden joke</title>
+    <link rel="alternate" href="http://www.foxnews.com/politics/2015/06/04/cruz-apologizes-on-facebook-for-joke-made-about-biden/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T20:00:44Z</updated>
+    <published>2015-06-04T20:00:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-04T20:00:44Z</dc:date>
+    <media:content url="http://global.fncstatic.com/static/v/fn2/img/politics/approval-president.png" />
+  </entry>
+  <entry>
     <title>Facebook tries to halt privacy class action suit</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/04/09/facebook-tries-to-halt-privacy-class-action-suit" />
     <author>
@@ -1756,7 +1768,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
+    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />

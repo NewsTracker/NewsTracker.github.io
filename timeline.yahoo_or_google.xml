@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bills McCoy says he's done talking about ex-coach Chip Kelly (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bills-mccoy-says-hes-done-talking-ex-coach-175050517--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T19:03:55Z</updated>
+    <published>2015-06-03T19:03:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-03T19:03:55Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/amr9EXj5YvKPkW6kFWEhkQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506031236453906419" />
+  </entry>
+  <entry>
     <title>Blue Jays win 10th straight, Martin HR in 11th beats Red Sox (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/blue-jays-win-10th-straight-martin-hr-11th-211902930--mlb.html" />
     <author>
@@ -6005,7 +6017,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />

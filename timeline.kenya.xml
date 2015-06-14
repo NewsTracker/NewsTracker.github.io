@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya army says it has killed 11 militants in attack</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/14/kenya-army-says-it-has-killed-11-militants-in/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T09:14:01Z</updated>
+    <published>2015-06-14T09:14:01Z</published>
+    <summary type="html">&lt;p&gt;Al-Shabab militants is carrying out attacks in Kenya because it is among several African countries that have deployed troops to Somalia to fight the militants who are waging an insurgency against Somalia's weak government.&lt;/p&gt;&lt;p&gt;Authorities says since deploying its troops to Somalia in Oct. 2011, Kenya has suffered numerous gun and explosive attacks by al-Shabab.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T09:14:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya: Court orders government to register gay rights group</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3057699/Kenya-Court-orders-government-register-gay-rights-group.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1038,7 +1049,7 @@
     <media:content url="http://www.brisbanetimes.com.au/content/dam/images/1/m/e/r/j/5/image.related.articleLeadwide.620x349.1mhy5c.png/1428623947356.jpg" />
   </entry>
   <entry>
-    <title>Community radio brings forecasts to Kenya’s most climate vulnerable</title>
+    <title>Community radio brings forecasts to Kenya?s most climate vulnerable</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/04/09/us-kenya-weather-forecasting-idUSKBN0N00W420150409?feedType=RSS&amp;amp;feedName=environmentNews" />
     <author>
       <name />
@@ -1590,7 +1601,7 @@
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150405001118798836-original.jpg?itok=-TteVTsU" />
   </entry>
   <entry>
-    <title>Kenya’s revenge: Naked corpses paraded</title>
+    <title>Kenya?s revenge: Naked corpses paraded</title>
     <link rel="alternate" href="http://www.news.com.au/world/africa/kenya-massacre-police-parade-corpses-of-university-gunmen-through-massacre-town/story-fnh81gzi-1227291754637?from=public_rss" />
     <author>
       <name />

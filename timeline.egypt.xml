@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt to inaugurate Suez Canal expansion</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/egypt-to-inaugurate-suez-canal-expansion-20150614-ghnhii.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T07:22:11Z</updated>
+    <published>2015-06-14T07:22:11Z</published>
+    <summary type="html">&lt;p&gt;Construction work on Egypt's New Suez Canal project.&lt;/p&gt;&lt;p&gt;Ismailiya, Egypt: Egypt will inaugurate a "new Suez canal" shipping route in August aimed at speeding up traffic along the existing waterway and boosting revenues, officials say.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T07:22:11Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/h/n/p/8/1/image.related.articleLeadNarrow.300x0.ghnhii.png/1434266443961.jpg" />
+  </entry>
+  <entry>
     <title>Egypt Sentences 23 to Prison for Killing 4 Shiite Men</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-orders-retrial-militants-accused-killing-police-31740190" />
     <author>
@@ -2175,7 +2187,7 @@
     <media:content url="http://ww4.hdnux.com/photos/35/62/63/7810287/3/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>Bombings linked to Islamic State ally kill at least 12 in Egypt’s Sinai</title>
+    <title>Bombings linked to Islamic State ally kill at least 12 in Egypt?s Sinai</title>
     <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/04/13/world/bombings-linked-islamic-state-ally-kill-least-12-egypts-sinai/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=bombings-linked-islamic-state-ally-kill-least-12-egypts-sinai&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
     <author>
       <name />
