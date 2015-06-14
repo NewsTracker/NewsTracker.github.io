@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>One Ukrainian serviceman killed as eastern attacks intensify</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3123428/One-Ukrainian-serviceman-killed-eastern-attacks-intensify.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T11:50:23Z</updated>
+    <published>2015-06-14T11:50:23Z</published>
+    <summary type="html">&lt;p&gt;The truce brokered by the leaders of Ukraine, Russia, Germany and France in Minsk, Belarus, has stemmed large-scale fighting but skirmishes claim lives almost daily on both sides.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T11:50:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine accuses captured Russian soldiers of ?terrorist crimes?</title>
+    <link rel="alternate" href="http://www.sfgate.com/world/article/Ukraine-accuses-captured-Russian-soldiers-of-6271313.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-18T21:22:47Z</updated>
+    <published>2015-05-18T21:22:47Z</published>
+    <summary type="html">&lt;p&gt;He was alluding to the capture last summer of 10 Russian paratroopers in eastern Ukraine who Putin said must have accidentally crossed the Russian-Ukrainian border.&lt;/p&gt;</summary>
+    <dc:date>2015-05-18T21:22:47Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/36/42/04/8003841/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>West clings to fraying Ukraine peace deal despite Kiev doubts</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3085034/West-clings-fraying-Ukraine-peace-deal-despite-Kiev-doubts.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Obama congratulates Netanyahu on election in phone call</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article15347642.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T00:58:04Z</updated>
+    <published>2015-03-20T00:58:04Z</published>
+    <summary type="html">&lt;p&gt;J Street is an Israel advocacy group that often criticizes the Israeli government - and especially Netanyahu.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T00:58:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Netanyahu campaign pledge could cost Israel at UN</title>
+    <link rel="alternate" href="http://www.dw.de/netanyahu-campaign-pledge-could-cost-israel-at-un/a-18329123?maca=en-rss-en-world-4025-rdf" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-19T20:14:00Z</updated>
+    <published>2015-03-19T20:14:00Z</published>
+    <summary type="html">&lt;p&gt;Benjamin Netanyahu says the Palestinian Authority should cut out Gaza Strip rulers Hamas and engage Israel in "genuine" peace talks.&lt;/p&gt;</summary>
+    <dc:date>2015-03-19T20:14:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Israel's Netanyahu Criticizes Upcoming UN Report On Gaza War</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/2015/06/14/netanyahu-un-gaza-war-report_n_7579456.html" />
     <author>
@@ -1445,18 +1468,6 @@
     <summary type="html">&lt;p&gt;The call came as the White House continued to push back against Netanyahu's pre-election rejection of a two-state solution to Palestinian-Israeli peace.&lt;/p&gt;</summary>
     <dc:date>2015-03-20T00:58:04Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Obama congratulates Netanyahu on election in phone call</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article15347642.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-20T00:58:04Z</updated>
-    <published>2015-03-20T00:58:04Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-20T00:58:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>In Netanyahu call, Obama says US reassessing peace approach</title>
