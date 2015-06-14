@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Vanuatu Struggles to Account for Cyclone Damage</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/15/vanuatu-struggles-to-account-for-cyclone-damage-deaths" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-16T04:14:08Z</updated>
+    <published>2015-03-16T04:14:08Z</published>
+    <summary type="html">&lt;p&gt;Looking weary and red-eyed, Baldwin Lonsdale said in an interview Monday with The Associated Press that the latest information he has is that six people are confirmed dead and 30 injured from Cyclone Pam.&lt;/p&gt;&lt;p&gt;Officials in Vanuatu had still not made contact with outlying islands and were struggling to determine the scale of devastation from the cyclone, which tore through early Saturday, packing winds of 270 kilometers (168 miles) per hour.&lt;/p&gt;</summary>
+    <dc:date>2015-03-16T04:14:08Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/09b7cae/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F20%2Ffb432783a1afe0c4faedd10eeccfd3%2Fmedia%3A915dd305d55c46ecadc0bca33c8f9542VanuatuCyclonePam.JPEG" />
+  </entry>
+  <entry>
+    <title>Cyclone Pam: Australia gives Vanuatu $5 million in aid</title>
+    <link rel="alternate" href="http://www.theage.com.au/environment/weather/cyclone-pam-australia-gives-vanuatu-5-million-in-aid-20150315-144f23.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T15:34:39Z</updated>
+    <published>2015-03-15T15:34:39Z</published>
+    <summary type="html">&lt;p&gt;Cyclone Pam left a trail of devastation across the Pacific island nation on Saturday, with 250 km/h winds levelling entire villages in the capital, Port Vila.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T15:34:39Z</dc:date>
+    <media:content url="http://www.theage.com.au/content/dam/images/1/4/4/c/w/3/image.related.articleLeadNarrow.300x0.144f23.png/1426433667339.jpg" />
+  </entry>
+  <entry>
+    <title>Vanuatu appeals for aid after cyclone 'calamity'</title>
+    <link rel="alternate" href="http://news.yahoo.com/devastating-storm-pounds-pacific-island-vanuatu-235637066.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-15T00:18:32Z</updated>
+    <published>2015-03-15T00:18:32Z</published>
+    <summary type="html">&lt;p&gt;Fiji Weather Service meteorologist Neville Koop said the cyclone was weakening as it slowly moved away from Vanuatu, and would pass between Fiji and New Caledonia before brushing the North Island of New Zealand on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-03-15T00:18:32Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/jERgZFDrel8zQP.5HvF2AA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTEyMDtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_us/News/Reuters/2015-03-24T181704Z_1_LYNXMPEB2N0XF_RTROPTP_2_WEATHER-VANUATU-CYCLONE.JPG.cf.jpg" />
+  </entry>
+  <entry>
     <title>Temporary houses for NT cyclone victims</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/aap/article-3106776/Temporary-houses-NT-cyclone-victims.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -414,18 +450,6 @@
     <published>2015-03-16T06:02:49Z</published>
     <summary type="html">&lt;p&gt;Baldwin Lonsdale, president of Vanuatu, the Pacific island nation devastated by a powerful tropical storm last week, was attending a disaster conference in the Japanese city of Sendai when the cyclone struck.&lt;/p&gt;</summary>
     <dc:date>2015-03-16T06:02:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Vanuatu Struggles to Account for Cyclone Damage</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/03/15/vanuatu-struggles-to-account-for-cyclone-damage-deaths" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-16T04:14:08Z</updated>
-    <published>2015-03-16T04:14:08Z</published>
-    <summary type="html">&lt;p&gt;Looking weary and red-eyed, Baldwin Lonsdale said in an interview Monday with The Associated Press that the latest information he has is that six people are confirmed dead and 30 injured from Cyclone Pam.&lt;/p&gt;</summary>
-    <dc:date>2015-03-16T04:14:08Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/09b7cae/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F20%2Ffb432783a1afe0c4faedd10eeccfd3%2Fmedia%3A915dd305d55c46ecadc0bca33c8f9542VanuatuCyclonePam.JPEG" />
   </entry>
   <entry>
     <title>Vanuatu president speaks of devastation from Cyclone Pam</title>

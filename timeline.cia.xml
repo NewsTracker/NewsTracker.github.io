@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Exclusive: Detainee alleges CIA sexual abuse, torture beyond Senate findings</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/02/us-usa-torture-khan-idUSKBN0OI1TW20150602?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T16:20:09Z</updated>
+    <published>2015-06-02T16:20:09Z</published>
+    <summary type="html">&lt;p&gt;CIA officials have said they believed Khan repeatedly lied to them during interrogations.&lt;/p&gt;&lt;p&gt;Khan was captured in Pakistan and held at an unidentified CIA "black site" from 2003 to 2006, according to the Senate report.&lt;/p&gt;&lt;p&gt;Khan's description of his experience matches some of the most disturbing findings of the U.S. Senate report, the product of a five-year review by Democratic staffers of 6.3 million internal CIA documents.&lt;/p&gt;&lt;p&gt;Senate investigators found internal CIA documents confirming that Khan had received involuntary rectal feeding and rectal hydration.&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T16:20:09Z</dc:date>
+  </entry>
+  <entry>
     <title>Polish Prosecutors: US Is Obstructing CIA Prison Probe</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/polish-prosecutors-us-obstructing-cia-prison-probe-31739607" />
     <author>
@@ -277,17 +288,6 @@
     <published>2015-06-02T17:44:09Z</published>
     <summary type="html" />
     <dc:date>2015-06-02T17:44:09Z</dc:date>
-  </entry>
-  <entry>
-    <title>Exclusive: Detainee alleges CIA sexual abuse, torture beyond Senate findings</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/02/us-usa-torture-khan-idUSKBN0OI1TW20150602?feedType=RSS&amp;amp;feedName=topNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T16:20:09Z</updated>
-    <published>2015-06-02T16:20:09Z</published>
-    <summary type="html">&lt;p&gt;CIA officials have said they believed Khan repeatedly lied to them during interrogations.&lt;/p&gt;&lt;p&gt;Khan was captured in Pakistan and held at an unidentified CIA "black site" from 2003 to 2006, according to the Senate report.&lt;/p&gt;&lt;p&gt;Khan's description of his experience matches some of the most disturbing findings of the U.S. Senate report, the product of a five-year review by Democratic staffers of 6.3 million internal CIA documents.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T16:20:09Z</dc:date>
   </entry>
   <entry>
     <title>Exclusive: Detainee alleges CIA sexual abuse, torture beyond Senate findings</title>

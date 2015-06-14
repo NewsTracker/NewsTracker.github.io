@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece to bundle its June IMF payments together</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article23070783.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T19:40:05Z</updated>
+    <published>2015-06-04T19:40:05Z</published>
+    <summary type="html">&lt;p&gt;Tourist walks past a discount shop which reads in Greek "thousand of products from one Euro" on Thursday, June 4, 2015.&lt;/p&gt;&lt;p&gt;For now, Thursday's IMF postponement does not appear to impact Greek banks' ability to draw on vital emergency credit from the Greek central bank, as permitted by the European Central Bank.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T19:40:05Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Greece to bundle its June IMF payments together</title>
+    <link rel="alternate" href="http://news.yahoo.com/greece-syriza-party-officials-reject-deal-proposals-091203507.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T19:34:52Z</updated>
+    <published>2015-06-04T19:34:52Z</published>
+    <summary type="html">&lt;p&gt;On his return to Athens, Tsipras told government officials that "extreme proposals will not be accepted by the Greek government. Everyone must understand that the Greek people have suffered greatly over the last five years and some people must stop playing games at their expense."&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T19:34:52Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/_EhtJgjSxjKYm.IBe6h50w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/9e45785cf4ed6e18780f6a7067007e00.jpg" />
+  </entry>
+  <entry>
+    <title>Tsipras sees Greek deal, but differences remain after EU talks</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3110347/Tsipras-sees-Greek-deal-differences-remain-EU-talks.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T03:01:57Z</updated>
+    <published>2015-06-04T03:01:57Z</published>
+    <summary type="html">&lt;p&gt;Juncker, whose institution is not itself a creditor, has been active in trying to broker a deal and has ruled out Greece stumbling from the euro zone, an outcome many EU officials fear would undermine the long-term stability of the project.&lt;/p&gt;&lt;p&gt;Tsipras, whose government has been critical of a hard line from the IMF, again praised Juncker's executive for showing understanding of the Greek predicament.&lt;/p&gt;&lt;p&gt;Euro zone finance ministers, wary of voters at home who have already contributed to bailing out Greece, are at pains to avoid Athens exploiting divisions between hawks and doves among the various negotiators.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T03:01:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>EU raises eurozone forecast despite bleaker Greek outlook</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/05/eu-raises-eurozone-prediction-despite-bleaker-greek-outlook" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-05T09:29:12Z</updated>
+    <published>2015-05-05T09:29:12Z</published>
+    <summary type="html">&lt;p&gt;BRUSSELS (AP) - The European Union has nudged up its forecast for economic growth across the 19-country eurozone despite a much gloomier outlook for Greece.&lt;/p&gt;&lt;p&gt;The uncertainty, which has grown since the left-wing Syriza party won January's general election on a promise to bring an end to hated austerity policies, has increasingly weighed on the Greek economic outlook.&lt;/p&gt;&lt;p&gt;The Commission's Moscovici conceded that its forecast for Greece is subject "to a high degree of uncertainty" and is premised on a successful conclusion to the current discussions between the Greek government and creditors.&lt;/p&gt;&lt;p&gt;In its forecast, the Commission said the "positive momentum" that was building up last year after Greece's savage recession came to an end has been hurt by the uncertainty since the announcement in December of early elections.&lt;/p&gt;&lt;p&gt;For 2016, the Commission anticipates Greek growth to accelerate to 2.9 percent.&lt;/p&gt;</summary>
+    <dc:date>2015-05-05T09:29:12Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/25b970b/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fde%2F29%2Fb4d1311243bf8d987aef5582c75e%2Fresizes%2F500%2Fthumb-2.jpg" />
+  </entry>
+  <entry>
     <title>Faeroe Islands beat Greece again in Euro 2016 qualifying</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;amp;objectid=11464988&amp;amp;ref=rss" />
     <author>
@@ -1059,18 +1106,6 @@
   </entry>
   <entry>
     <title>Greece to bundle its June IMF payments together</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article23070783.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-04T19:40:05Z</updated>
-    <published>2015-06-04T19:40:05Z</published>
-    <summary type="html">&lt;p&gt;Tourist walks past a discount shop which reads in Greek "thousand of products from one Euro" on Thursday, June 4, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-04T19:40:05Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece to bundle its June IMF payments together</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article23070783.html%23storylink=rss" />
     <author>
       <name />
@@ -1137,17 +1172,6 @@
     <published>2015-06-04T03:39:13Z</published>
     <summary type="html">&lt;p&gt;HONG KONG (AP) - Most Asian stock markets were higher Thursday on hopes Greece can reach a deal with creditors to save the country from financial disaster and signs that Europe's stimulus program is working.&lt;/p&gt;</summary>
     <dc:date>2015-06-04T03:39:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tsipras sees Greek deal, but differences remain after EU talks</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3110347/Tsipras-sees-Greek-deal-differences-remain-EU-talks.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-04T03:01:57Z</updated>
-    <published>2015-06-04T03:01:57Z</published>
-    <summary type="html">&lt;p&gt;Juncker, whose institution is not itself a creditor, has been active in trying to broker a deal and has ruled out Greece stumbling from the euro zone, an outcome many EU officials fear would undermine the long-term stability of the project.&lt;/p&gt;&lt;p&gt;Tsipras, whose government has been critical of a hard line from the IMF, again praised Juncker's executive for showing understanding of the Greek predicament.&lt;/p&gt;</summary>
-    <dc:date>2015-06-04T03:01:57Z</dc:date>
   </entry>
   <entry>
     <title>Tsipras sees Greek deal, but differences remain after EU talks</title>
@@ -3233,18 +3257,6 @@
     <published>2015-05-05T10:02:42Z</published>
     <summary type="html">&lt;p&gt;ATHENS, Greece (AP) - Greek police say the body of 4-year-old Bulgarian girl believed to have been killed by her father will likely never be found due to the way in which her killer disposed of her remains.&lt;/p&gt;</summary>
     <dc:date>2015-05-05T10:02:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>EU raises eurozone forecast despite bleaker Greek outlook</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/05/05/eu-raises-eurozone-prediction-despite-bleaker-greek-outlook" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-05T09:29:12Z</updated>
-    <published>2015-05-05T09:29:12Z</published>
-    <summary type="html">&lt;p&gt;BRUSSELS (AP) - The European Union has nudged up its forecast for economic growth across the 19-country eurozone despite a much gloomier outlook for Greece.&lt;/p&gt;&lt;p&gt;The uncertainty, which has grown since the left-wing Syriza party won January's general election on a promise to bring an end to hated austerity policies, has increasingly weighed on the Greek economic outlook.&lt;/p&gt;&lt;p&gt;The Commission's Moscovici conceded that its forecast for Greece is subject "to a high degree of uncertainty" and is premised on a successful conclusion to the current discussions between the Greek government and creditors.&lt;/p&gt;&lt;p&gt;In its forecast, the Commission said the "positive momentum" that was building up last year after Greece's savage recession came to an end has been hurt by the uncertainty since the announcement in December of early elections.&lt;/p&gt;</summary>
-    <dc:date>2015-05-05T09:29:12Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/25b970b/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2Fde%2F29%2Fb4d1311243bf8d987aef5582c75e%2Fresizes%2F500%2Fthumb-2.jpg" />
   </entry>
   <entry>
     <title>Greek officials lobby EU, ECB for swift loan payout</title>

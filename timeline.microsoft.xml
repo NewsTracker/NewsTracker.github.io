@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fin24.com | Microsoft buys start-up behind Wunderlist</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Microsoft-buys-start-up-behind-Wunderlist-20150603" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T06:14:00Z</updated>
+    <published>2015-06-03T06:14:00Z</published>
+    <summary type="html">&lt;p&gt;"The addition of Wunderlist to the Microsoft product portfolio fits squarely with our ambition to reinvent productivity for a mobile-first, cloud-first world," Eran Megiddo, general manager of Microsoft's OneNote, said in a blog post.&lt;/p&gt;&lt;p&gt;Microsoft said the Wunderlist application will remain free in places where it is already available and that there are no price changes planned for Pro or Business versions of the software.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T06:14:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft building 2 cloud data centres in Canada</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/06/02/22431681.html?cid=rsstechnologynews" />
     <author>

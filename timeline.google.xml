@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>ISS recommends Google shareholders withhold votes for 3 directors</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/iss-recommends-google-shareholders-withhold-123803614.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T15:52:41Z</updated>
+    <published>2015-06-03T15:52:41Z</published>
+    <summary type="html">&lt;p&gt;Most of their wealth comes from their holdings of Google shares.&lt;/p&gt;&lt;p&gt;Google shares were little changed at $553.25 at midday.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T15:52:41Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/JbuX.OjHbfzOak5PYHCkMQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-06-03T133542Z_2_LYNXMPEB520NE_RTROPTP_3_GOOGLE-EU_original.jpg" />
+  </entry>
+  <entry>
     <title>Three Google directors survive challenge over pay</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/us-business/three-google-directors-survive-challenge-over-pay/article24776773/?cmpid=rss1" />
     <author>
@@ -275,18 +287,6 @@
     <published>2015-06-03T19:29:36Z</published>
     <summary type="html">&lt;p&gt;(AP) - Google co-founder Sergey Brin says the Internet company isn't releasing the accident reports involving its self-driving cars to protect the privacy of the other motorists in the crashes.&lt;/p&gt;&lt;p&gt;Brin says the total number of accidents climbed to 12 within the past week when another of Google's self-driving cars was rear-ended at a traffic signal.&lt;/p&gt;</summary>
     <dc:date>2015-06-03T19:29:36Z</dc:date>
-  </entry>
-  <entry>
-    <title>ISS recommends Google shareholders withhold votes for 3 directors</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/iss-recommends-google-shareholders-withhold-123803614.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-03T15:52:41Z</updated>
-    <published>2015-06-03T15:52:41Z</published>
-    <summary type="html">&lt;p&gt;Most of their wealth comes from their holdings of Google shares.&lt;/p&gt;</summary>
-    <dc:date>2015-06-03T15:52:41Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/JbuX.OjHbfzOak5PYHCkMQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-06-03T133542Z_2_LYNXMPEB520NE_RTROPTP_3_GOOGLE-EU_original.jpg" />
   </entry>
   <entry>
     <title>Google planning to expand metro Atlanta data center</title>

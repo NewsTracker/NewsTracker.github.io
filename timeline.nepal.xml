@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal's Prime Minister: 'We Were Not Prepared' for 2nd Quake</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/nepal-villagers-demand-2nd-quake-31033442" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-14T10:12:04Z</updated>
+    <published>2015-05-14T10:12:04Z</published>
+    <summary type="html">&lt;p&gt;He said the government was failing to coordinate the distribution of relief material that has arrived in Nepal.&lt;/p&gt;</summary>
+    <dc:date>2015-05-14T10:12:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Nepal landslides triggered by heavy rain bury at least 21 people</title>
     <link rel="alternate" href="http://www.latimes.com/world/asia/la-fg-nepal-landslide-20150611-story.html" />
     <author>
