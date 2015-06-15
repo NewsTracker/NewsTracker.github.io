@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya: Extremist slain in attack on army could be British</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Kenya-Extremist-slain-in-attack-on-army-could-be-6327291.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-15T09:34:57Z</updated>
+    <published>2015-06-15T09:34:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-15T09:34:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Somali Islamists attack military base in Kenya, 11 militants, two soldiers killed</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3123442/Somali-Islamists-attack-military-base-Kenya-11-militants-two-soldiers-killed.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>

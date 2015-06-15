@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Investors rattled by Greek bailout impasse</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11465653&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-15T08:50:17Z</updated>
+    <published>2015-06-15T08:50:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-15T08:50:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>Asian stock markets slip, euro slides as Greek debt talks appear to go nowhere</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/business/asian-stock-markets-slip-euro-slides-as-greek-debt-talks-appear-to-go-nowhere-1.2422640" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-15T05:57:14Z</updated>
+    <published>2015-06-15T05:57:14Z</published>
+    <summary type="html">&lt;p&gt;HONG KONG -- Asian stocks slipped and the euro sank Monday as Greece inched closer to a possible default after weekend talks with international creditors over freeing up the rest of its bailout funds went nowhere.&lt;/p&gt;</summary>
+    <dc:date>2015-06-15T05:57:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece, creditors fail in ?last attempt? to reach deal</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/greece-creditors-fail-in-last-attempt-to-reach-deal/article24953061/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T21:54:03Z</updated>
+    <published>2015-06-14T21:54:03Z</published>
+    <summary type="html">&lt;p&gt;Talks on ending a deadlock between Greece and its international creditors broke up in failure on Sunday, with European leaders venting their frustration as Athens stumbled closer toward a debt default that threatens its future in the euro.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T21:54:03Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/809/report-on-business/international-business/european-business/article24953060.ece/ALTERNATES/w220/greece.JPG" />
+  </entry>
+  <entry>
     <title>Asia stocks slip, euro down as Greek debt talks falter</title>
     <link rel="alternate" href="http://news.yahoo.com/asia-stocks-slip-euro-down-greek-debt-talks-031108153--finance.html" />
     <author>

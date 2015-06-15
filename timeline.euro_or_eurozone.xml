@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.euro_or_eurozone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Asian stock markets slip, euro slides as Greek debt talks appear to go nowhere</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/business/asian-stock-markets-slip-euro-slides-as-greek-debt-talks-appear-to-go-nowhere-1.2422640" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-15T05:57:14Z</updated>
+    <published>2015-06-15T05:57:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-15T05:57:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Eurozone deflation eases as oil prices appear to bottom out</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/03/31/eurozone-deflation-eases-as-oil-prices-appear-to-bottom-out" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T09:52:23Z</updated>
+    <published>2015-03-31T09:52:23Z</published>
+    <summary type="html">&lt;p&gt;Separate Eurostat figures Tuesday showed the jobless rate in the eurozone down at 11.3 percent in February from 11.4 percent the previous month.&lt;/p&gt;&lt;p&gt;On Tuesday, the euro was down another 0.9 percent at $1.0722 as traders price in the prospect of higher U.S. borrowing rates soon.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T09:52:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Asia Stocks Slip, Euro Down as Greek Debt Talks Falter</title>
     <link rel="alternate" href="http://abcnews.go.com/Business/wireStory/asia-stocks-slip-euro-greek-debt-talks-falter-31766071" />
     <author>
@@ -1819,17 +1841,6 @@
     <updated>2015-03-31T09:52:23Z</updated>
     <published>2015-03-31T09:52:23Z</published>
     <summary type="html" />
-    <dc:date>2015-03-31T09:52:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>Eurozone deflation eases as oil prices appear to bottom out</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/03/31/eurozone-deflation-eases-as-oil-prices-appear-to-bottom-out" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-31T09:52:23Z</updated>
-    <published>2015-03-31T09:52:23Z</published>
-    <summary type="html">&lt;p&gt;Separate Eurostat figures Tuesday showed the jobless rate in the eurozone down at 11.3 percent in February from 11.4 percent the previous month.&lt;/p&gt;</summary>
     <dc:date>2015-03-31T09:52:23Z</dc:date>
   </entry>
   <entry>
