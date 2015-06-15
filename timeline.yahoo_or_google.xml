@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google imports new CFO Ruth Porat from Wall Street</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11422746&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T22:10:14Z</updated>
+    <published>2015-03-24T22:10:14Z</published>
+    <summary type="html">&lt;p&gt;The appointment announced Tuesday fills a void that opened earlier this month after Google's CFO of the past seven years, Patrick Pichette, announced his plans to retire.&lt;/p&gt;&lt;p&gt;Porat, 58, will become Google's highest-ranking female executive when she starts her new job on May 26.&lt;/p&gt;&lt;p&gt;Google has been at the forefront of upheaval during the past 15 years.&lt;/p&gt;&lt;p&gt;Google Inc. and other Silicon Valley heavyweights, including Apple Inc. and Facebook Inc., are trying to add more women to their payrolls.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T22:10:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Bills McCoy says he's done talking about ex-coach Chip Kelly (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/bills-mccoy-says-hes-done-talking-ex-coach-175050517--nfl.html" />
     <author>
@@ -293,17 +304,6 @@
     <published>2015-06-10T07:05:28Z</published>
     <summary type="html">&lt;p&gt;It's also not yet known whether this feature will extend to Google Maps on iPhones.&lt;/p&gt;&lt;p&gt;I look forward to seeing how well Siri and Google Now perform with the upcoming smarts.&lt;/p&gt;</summary>
     <dc:date>2015-06-10T07:05:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google imports new CFO Ruth Porat from Wall Street</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11422746&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-24T22:10:14Z</updated>
-    <published>2015-03-24T22:10:14Z</published>
-    <summary type="html">&lt;p&gt;The appointment announced Tuesday fills a void that opened earlier this month after Google's CFO of the past seven years, Patrick Pichette, announced his plans to retire.&lt;/p&gt;&lt;p&gt;Porat, 58, will become Google's highest-ranking female executive when she starts her new job on May 26.&lt;/p&gt;&lt;p&gt;Google has been at the forefront of upheaval during the past 15 years.&lt;/p&gt;</summary>
-    <dc:date>2015-03-24T22:10:14Z</dc:date>
   </entry>
   <entry>
     <title>Soriano agrees to minor league deal with Cubs (Yahoo Sports)</title>

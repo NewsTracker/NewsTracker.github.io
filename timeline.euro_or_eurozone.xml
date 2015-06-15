@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.euro_or_eurozone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Euro slips, mood darkens as Greece fails to reach deal</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/14/us-markets-global-idUSKBN0OU15F20150614?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T23:58:11Z</updated>
+    <published>2015-06-14T23:58:11Z</published>
+    <summary type="html">&lt;p&gt;The euro skidded 0.4 percent on the day to $1.1215 EUR=, and was down 0.5 percent against the yen at 138.28 EURJPY=.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T23:58:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Greek Uncertainty Continues to Weigh on Global Markets</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/asian-stocks-markets-weigh-greece-us-growth-31459271" />
     <author>
