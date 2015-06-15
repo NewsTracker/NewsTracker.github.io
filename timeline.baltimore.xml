@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Baltimore Lifts Curfew After Days of Tension</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/latest-baltimore-lifts-curfew-days-tension-30769807" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T18:41:50Z</updated>
+    <published>2015-05-03T18:41:50Z</published>
+    <summary type="html">&lt;p&gt;"We know we have challenges in Baltimore. We know there's work to be done."&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T18:41:50Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/v3/pixel_eee.gif" />
+  </entry>
+  <entry>
     <title>John Carroll, Former Editor of LA Times, Baltimore Sun, Dies</title>
     <link rel="alternate" href="http://abcnews.go.com/US/wireStory/john-carroll-editor-la-times-baltimore-sun-dies-31757542" />
     <author>

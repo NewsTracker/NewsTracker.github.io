@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Thousands flee as Indonesia upgrades alert over Mt Sinabung volcano</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-04/thousands-flee-indonesia-upgrades-alert-mount-sinabung-volcano/6523076" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T11:45:57Z</updated>
+    <published>2015-06-04T11:45:57Z</published>
+    <summary type="html">&lt;p&gt;Mount Sinabung Observation Station chief Armen Putra said the amount of ash, smoke and rock spewing from the volcano has ramped up significantly since Sunday.&lt;/p&gt;&lt;p&gt;"Yesterday we worried that the volcano would send hot ash clouds down over the villages, so we moved 2,730 people to a safer place."&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T11:45:57Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6523064-3x2-700x467.jpg" />
+  </entry>
+  <entry>
     <title>Vanuatu appeals for aid after cyclone 'calamity'</title>
     <link rel="alternate" href="http://news.yahoo.com/devastating-storm-pounds-pacific-island-vanuatu-235637066.html" />
     <author>
