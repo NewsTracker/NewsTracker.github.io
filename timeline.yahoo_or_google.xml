@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google Releases More Details on Self-Driving Car Accidents</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/google-make-monthly-reports-driving-cars-31562091" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-05T22:40:39Z</updated>
+    <published>2015-06-05T22:40:39Z</published>
+    <summary type="html">&lt;p&gt;All but two of the accidents happened in Google's hometown of Mountain View, where the company plans to begin testing its latest self-driving car - a pod-like vehicle - this summer.&lt;/p&gt;&lt;p&gt;Consumer Watchdog, a group that has been a longtime Google critic, has been pushing the Mountain View, California, company to release all of the accident reports filed with the California Department of Motor Vehicles and other law enforcement agencies.&lt;/p&gt;&lt;p&gt;Dissatisfied with Google's accounting, Consumer Watchdog on Friday renewed its call for the company to release the official accident reports.&lt;/p&gt;</summary>
+    <dc:date>2015-06-05T22:40:39Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/Technology/WireAP_fc705104ed0b4b78b56d9464af08ab0a_16x9_992.jpg" />
+  </entry>
+  <entry>
+    <title>Three Google directors survive challenge over pay</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/us-business/three-google-directors-survive-challenge-over-pay/article24776773/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-03T18:35:00Z</updated>
+    <published>2015-06-03T18:35:00Z</published>
+    <summary type="html">&lt;p&gt;Three Google directors survive challenge over pay Add to...&lt;/p&gt;&lt;p&gt;Several shareholder proposals were also defeated at the meeting, Google said, including proposals to require a majority vote standard for the election of directors and to report on the costs of renewable energy investments.&lt;/p&gt;&lt;p&gt;Google said all its director candidates won election.&lt;/p&gt;</summary>
+    <dc:date>2015-06-03T18:35:00Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/89d/report-on-business/rob-commentary/executive-insight/article16517370.ece/ALTERNATES/w220/GOOGLE_.JPG" />
+  </entry>
+  <entry>
     <title>Google imports new CFO Ruth Porat from Wall Street</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11422746&amp;amp;ref=rss" />
     <author>
@@ -72,18 +96,6 @@
     <published>2015-06-03T19:29:36Z</published>
     <summary type="html">&lt;p&gt;(AP) - Google co-founder Sergey Brin says the Internet company isn't releasing the accident reports involving its self-driving cars to protect the privacy of the other motorists in the crashes.&lt;/p&gt;&lt;p&gt;Brin says the total number of accidents climbed to 12 within the past week when another of Google's self-driving cars was rear-ended at a traffic signal.&lt;/p&gt;&lt;p&gt;Brin's explanation came in response to a question posed Wednesday by a company critic during Google's annual shareholders meeting.&lt;/p&gt;</summary>
     <dc:date>2015-06-03T19:29:36Z</dc:date>
-  </entry>
-  <entry>
-    <title>Three Google directors survive challenge over pay</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/us-business/three-google-directors-survive-challenge-over-pay/article24776773/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-03T18:35:00Z</updated>
-    <published>2015-06-03T18:35:00Z</published>
-    <summary type="html">&lt;p&gt;Three Google directors survive challenge over pay Add to...&lt;/p&gt;&lt;p&gt;Several shareholder proposals were also defeated at the meeting, Google said, including proposals to require a majority vote standard for the election of directors and to report on the costs of renewable energy investments.&lt;/p&gt;</summary>
-    <dc:date>2015-06-03T18:35:00Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/89d/report-on-business/rob-commentary/executive-insight/article16517370.ece/ALTERNATES/w220/GOOGLE_.JPG" />
   </entry>
   <entry>
     <title>Reports: Google facing antitrust showdown in Europe</title>
@@ -506,18 +518,6 @@
     <published>2015-06-06T04:03:00Z</published>
     <summary type="html">&lt;p&gt;None of these accidents were caused by a fault with the car, Google said.&lt;/p&gt;&lt;p&gt;The accidents mostly involved Google's self-driving Lexus RX450h sport utility vehicles.&lt;/p&gt;</summary>
     <dc:date>2015-06-06T04:03:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google Releases More Details on Self-Driving Car Accidents</title>
-    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/google-make-monthly-reports-driving-cars-31562091" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-05T22:40:39Z</updated>
-    <published>2015-06-05T22:40:39Z</published>
-    <summary type="html">&lt;p&gt;All but two of the accidents happened in Google's hometown of Mountain View, where the company plans to begin testing its latest self-driving car - a pod-like vehicle - this summer.&lt;/p&gt;</summary>
-    <dc:date>2015-06-05T22:40:39Z</dc:date>
-    <media:content url="http://a.abcnews.com/images/Technology/WireAP_fc705104ed0b4b78b56d9464af08ab0a_16x9_992.jpg" />
   </entry>
   <entry>
     <title>Google releases more details on self-driving car accidents</title>

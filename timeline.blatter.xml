@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA: Blatter resignation won't lead many to quit</title>
+    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/06/04/fifa-blatter-resignation-wont-lead-many-to-quit" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-04T06:29:15Z</updated>
+    <published>2015-06-04T06:29:15Z</published>
+    <summary type="html">&lt;p&gt;He is also being investigated for $10 million in bribes paid to land the event, part of the corruption scandal that pushed FIFA President Blatter to resign.&lt;/p&gt;&lt;p&gt;RIO DE JANEIRO (AP) - A consistent ally of Sepp Blatter, Danny Jordaan already has a new job.&lt;/p&gt;</summary>
+    <dc:date>2015-06-04T06:29:15Z</dc:date>
+  </entry>
+  <entry>
     <title>FIFA election chief reminds Blatter of need to step down</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article24194914.html%23storylink=rss" />
     <author>
@@ -332,17 +343,6 @@
     <published>2015-06-04T08:00:21Z</published>
     <summary type="html">&lt;p&gt;FIFA President Sepp Blatter leaves after speaking at a press conference at the FIFA headquarters in Zurich, Switzerland, Tuesday, June 2, 2015.&lt;/p&gt;&lt;p&gt;FILE - In this Sunday, Nov. 25, 2007 file photo FIFA President Sepp Blatter rubs his eye as he speaks at a press conference at the ICC in Durban, South Africa.&lt;/p&gt;</summary>
     <dc:date>2015-06-04T08:00:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA: Blatter resignation won't lead many to quit</title>
-    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/06/04/fifa-blatter-resignation-wont-lead-many-to-quit" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-04T06:29:15Z</updated>
-    <published>2015-06-04T06:29:15Z</published>
-    <summary type="html">&lt;p&gt;He is also being investigated for $10 million in bribes paid to land the event, part of the corruption scandal that pushed FIFA President Blatter to resign.&lt;/p&gt;</summary>
-    <dc:date>2015-06-04T06:29:15Z</dc:date>
   </entry>
   <entry>
     <title>Sport24.co.za | Former FIFA VP Warner fingers Blatter</title>
