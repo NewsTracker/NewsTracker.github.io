@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Quake-Hit Nepal Reopens Damaged Heritage Sites for Tourists</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/quake-hit-nepal-reopens-damaged-heritage-sites-tourists-31767314" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-15T11:26:50Z</updated>
+    <published>2015-06-15T11:26:50Z</published>
+    <summary type="html">&lt;p&gt;Nepal is hosting an international donors' meeting next week in Kathmandu, the capital, to seek money to help rebuild the Himalayan country following the quakes.&lt;/p&gt;</summary>
+    <dc:date>2015-06-15T11:26:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>Behind Nepal's Shangri-la image, poverty and misery</title>
+    <link rel="alternate" href="http://news.yahoo.com/behind-nepals-shangri-la-image-poverty-misery-040214827.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T04:02:14Z</updated>
+    <published>2015-04-30T04:02:14Z</published>
+    <summary type="html">&lt;p&gt;"Nepal was getting better before the earthquake, but now no one knows how far back this will put things," he said.&lt;/p&gt;&lt;p&gt;This is the reality of Nepal today - at least, of this part of the country.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T04:02:14Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/KC856nI_RXLb0CuF.RXcrA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/89e3747950a61b13750f6a7067001b12.jpg" />
+  </entry>
+  <entry>
     <title>Damaged heritage sites reopened in Nepal</title>
     <link rel="alternate" href="http://tvnz.co.nz/world-news/damaged-heritage-sites-reopened-in-nepal-6338501?ref=rss" />
     <author>
@@ -2317,18 +2340,6 @@
     <summary type="html">&lt;p&gt;Nepalese men buy cloths as a shop opens after an earthquake, in Kathmandu, Nepal, Thursday, April 30, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-04-30T04:49:17Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Behind Nepal's Shangri-la image, poverty and misery</title>
-    <link rel="alternate" href="http://news.yahoo.com/behind-nepals-shangri-la-image-poverty-misery-040214827.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-30T04:02:14Z</updated>
-    <published>2015-04-30T04:02:14Z</published>
-    <summary type="html">&lt;p&gt;"Nepal was getting better before the earthquake, but now no one knows how far back this will put things," he said.&lt;/p&gt;</summary>
-    <dc:date>2015-04-30T04:02:14Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/KC856nI_RXLb0CuF.RXcrA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/89e3747950a61b13750f6a7067001b12.jpg" />
   </entry>
   <entry>
     <title>Lydia Ko donating earnings this week to earthquake relief effort in Nepal</title>
