@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>3 New Mexico teen boys charged with cyberattack on Enfamil baby formula website</title>
+    <link rel="alternate" href="http://www.startribune.com/3-teens-charged-with-cyberattack-on-baby-formula-website/308697101/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-20T19:50:08Z</updated>
+    <published>2015-06-20T19:50:08Z</published>
+    <summary type="html">&lt;p&gt;ALBUQUERQUE, N.M. - Authorities say three Rio Rancho, New Mexico, teenage boys orchestrated a cyberattack on the Enfamil baby formula website, attracting the attention of the FBI and Secret Service.&lt;/p&gt;</summary>
+    <dc:date>2015-06-20T19:50:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>New Mexico police search mountains for missing former White House chef</title>
+    <link rel="alternate" href="http://www.theguardian.com/us-news/2015/jun/20/new-mexico-search-white-house-chef-walter-scheib" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-20T17:53:18Z</updated>
+    <published>2015-06-20T17:53:18Z</published>
+    <summary type="html">&lt;p&gt;Authorities resumed a search by air and ground Saturday in a New Mexico mountain range for a former White House chef who has now been missing for a week.&lt;/p&gt;&lt;p&gt;Scheib recently moved from Florida to Taos, New Mexico, and reportedly went for a hike on 13 June in the mountains near the Taos Ski Valley.&lt;/p&gt;</summary>
+    <dc:date>2015-06-20T17:53:18Z</dc:date>
+    <media:content url="ww.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/80e4b130cf68bce144a07675f634f9c607f90a64/0_305_2839_1703/500.jpg" />
+  </entry>
+  <entry>
+    <title>Smart cycle jacket could save lives on Mexico City's roads</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/19/us-mexico-intelligent-cycling-jacket-idUSKBN0OZ1H020150619?feedType=RSS&amp;amp;feedName=scienceNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-19T13:20:31Z</updated>
+    <published>2015-06-19T13:20:31Z</published>
+    <summary type="html">&lt;p&gt;Mexico City's bumper-to-bumper traffic is a problem for the sprawling capital city's cyclists.&lt;/p&gt;</summary>
+    <dc:date>2015-06-19T13:20:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Obama nominates senior State Department official, Cuba negotiator to be ambassador to Mexico</title>
     <link rel="alternate" href="http://www.startribune.com/obama-nominates-senior-state-dept-official-as-mexico-envoy/305753191/" />
     <author>

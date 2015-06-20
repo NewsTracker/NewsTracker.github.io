@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Taylor Swift says no to Apple Music</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/taylor-swift-says-no-to-apple-music/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-19T23:06:33Z</updated>
+    <published>2015-06-19T23:06:33Z</published>
+    <summary type="html">&lt;p&gt;Swift's previous albums, though, will be available on Apple Music though.&lt;/p&gt;</summary>
+    <dc:date>2015-06-19T23:06:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple Watch to hit stores on June 26</title>
     <link rel="alternate" href="http://technology.canoe.com/Mobile/News/2015/06/04/22435086.html?cid=rsstechnology" />
     <author>

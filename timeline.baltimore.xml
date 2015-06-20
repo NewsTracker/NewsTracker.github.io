@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>African American Festival taking place in Baltimore</title>
+    <link rel="alternate" href="http://news.yahoo.com/african-american-festival-taking-place-baltimore-155718210.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-20T15:57:18Z</updated>
+    <published>2015-06-20T15:57:18Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - Officials are expecting up to 350,000 people at the African American Festival this weekend in Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-06-20T15:57:18Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest: Baltimore Lifts Curfew After Days of Tension</title>
     <link rel="alternate" href="http://abcnews.go.com/US/wireStory/latest-baltimore-lifts-curfew-days-tension-30769807" />
     <author>
