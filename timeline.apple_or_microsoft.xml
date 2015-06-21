@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple puts news at core of revamped system</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/apple-puts-news-at-core-of-revamped-system-20150621-ghtgwi.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T04:07:52Z</updated>
+    <published>2015-06-21T04:07:52Z</published>
+    <summary type="html">&lt;p&gt;Apple News, part of the upcoming iOS 9 operating system, aims to be the primary news source for users of the iPhone and iPad.&lt;/p&gt;&lt;p&gt;Customers browse Apple Watches in New York.&lt;/p&gt;&lt;p&gt;Although Apple is likely to use some algorithms to filter stories, the hiring of experienced journalists is a positive step, said Dan Kennedy, a journalism professor at Northeastern University.&lt;/p&gt;&lt;p&gt;Partner news organisations include Conde Nast magazines, ESPN, The New York Times, Hearst, Time Inc., CNN and Bloomberg, but Apple will be opening to other publishers and bloggers.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T04:07:52Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/h/t/k/8/9/image.related.articleLeadNarrow.300x0.ghtgwi.png/1434859663188.jpg" />
+  </entry>
+  <entry>
+    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Who-s-Who-in-music-streaming-Apple-Spotify-6316853.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T21:01:24Z</updated>
+    <published>2015-06-09T21:01:24Z</published>
+    <summary type="html">&lt;p&gt;- With last year's purchase of headphones maker Beats, Apple got Beats Music, which offers unlimited listening and offline playback for $10 a month.&lt;/p&gt;&lt;p&gt;SAN FRANCISCO (AP) - Apple shook up the music world more than a decade ago when it offered an easy way to buy songs digitally for 99 cents each.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T21:01:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple Music brings change to streaming, but is it enough?</title>
+    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/06/09/apple-music-brings-change-to-streaming-but-is-it-enough" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T17:03:12Z</updated>
+    <published>2015-06-09T17:03:12Z</published>
+    <summary type="html">&lt;p&gt;Here's a look at some of the major aspects of Apple Music.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T17:03:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Taylor Swift says no to Apple Music</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/taylor-swift-says-no-to-apple-music/" />
     <author>
@@ -344,17 +378,6 @@
     <summary type="html">&lt;p&gt;The judge, Theodore Essex, said that Microsoft infringed two wireless cellular patents owned by InterDigital, a patent licenser, and said it would not be against the public interest to ban the Microsoft devices from being imported into the United States.&lt;/p&gt;&lt;p&gt;Microsoft acquired Nokia's handset division last year.&lt;/p&gt;</summary>
     <dc:date>2015-04-27T20:35:31Z</dc:date>
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297693198390_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
-    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Who-s-Who-in-music-streaming-Apple-Spotify-6316853.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T21:01:24Z</updated>
-    <published>2015-06-09T21:01:24Z</published>
-    <summary type="html">&lt;p&gt;- With last year's purchase of headphones maker Beats, Apple got Beats Music, which offers unlimited listening and offline playback for $10 a month.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T21:01:24Z</dc:date>
   </entry>
   <entry>
     <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>

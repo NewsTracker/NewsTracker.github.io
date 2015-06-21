@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple puts news at core of revamped system</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/apple-puts-news-at-core-of-revamped-system-20150621-ghtgwi.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T04:07:52Z</updated>
+    <published>2015-06-21T04:07:52Z</published>
+    <summary type="html">&lt;p&gt;Apple News, part of the upcoming iOS 9 operating system, aims to be the primary news source for users of the iPhone and iPad.&lt;/p&gt;&lt;p&gt;Customers browse Apple Watches in New York.&lt;/p&gt;&lt;p&gt;Although Apple is likely to use some algorithms to filter stories, the hiring of experienced journalists is a positive step, said Dan Kennedy, a journalism professor at Northeastern University.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T04:07:52Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/h/t/k/8/9/image.related.articleLeadNarrow.300x0.ghtgwi.png/1434859663188.jpg" />
+  </entry>
+  <entry>
+    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/09/whos-who-in-music-streaming-apple-spotify-pandora/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T21:01:24Z</updated>
+    <published>2015-06-09T21:01:24Z</published>
+    <summary type="html">&lt;p&gt;That is evolving into Apple Music and will have a prominent spot on iPhones and other Apple devices, as well as a unique integration with Siri, Apple's voice-activated digital assistant.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T21:01:24Z</dc:date>
+    <media:content url="http://media.utsandiego.com/img/photos/2015/06/09/9f92aa869b19d419780f6a706700513e_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
+  </entry>
+  <entry>
+    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Who-s-Who-in-music-streaming-Apple-Spotify-6316853.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T21:01:24Z</updated>
+    <published>2015-06-09T21:01:24Z</published>
+    <summary type="html">&lt;p&gt;- With last year's purchase of headphones maker Beats, Apple got Beats Music, which offers unlimited listening and offline playback for $10 a month.&lt;/p&gt;&lt;p&gt;SAN FRANCISCO (AP) - Apple shook up the music world more than a decade ago when it offered an easy way to buy songs digitally for 99 cents each.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T21:01:24Z</dc:date>
+  </entry>
+  <entry>
     <title>Taylor Swift says no to Apple Music</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/taylor-swift-says-no-to-apple-music/" />
     <author>
@@ -254,17 +289,6 @@
     <summary type="html">&lt;p&gt;Yet that devotion for Apple is a problem for Burnham and some other managers of so-called diversified funds like his - they want more Apple than they can buy under self-imposed risk-reducing guidelines that typically have them holding no more than 5% of their assets in any one company.&lt;/p&gt;</summary>
     <dc:date>2015-03-16T16:44:39Z</dc:date>
     <media:content url="http://brightcove.canoe.com.edgesuite.net/2/1745097732/201503/2136/1745097732_4131551703001_5e91846569b6d1692fa3e01bcc98c7a6-tmb1.jpg?pubId=1745097732" />
-  </entry>
-  <entry>
-    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Who-s-Who-in-music-streaming-Apple-Spotify-6316853.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T21:01:24Z</updated>
-    <published>2015-06-09T21:01:24Z</published>
-    <summary type="html">&lt;p&gt;- With last year's purchase of headphones maker Beats, Apple got Beats Music, which offers unlimited listening and offline playback for $10 a month.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T21:01:24Z</dc:date>
   </entry>
   <entry>
     <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>

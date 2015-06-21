@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Soldiers Kill 6 Presumed Criminals in Northern Mexico</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/soldiers-kill-presumed-criminals-northern-mexico-31917445" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T00:11:07Z</updated>
+    <published>2015-06-21T00:11:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-21T00:11:07Z</dc:date>
+    <media:content url="http://a.abcnews.com/assets/images/navigation/abc-logo.png" />
+  </entry>
+  <entry>
     <title>3 New Mexico teen boys charged with cyberattack on Enfamil baby formula website</title>
     <link rel="alternate" href="http://www.startribune.com/3-teens-charged-with-cyberattack-on-baby-formula-website/308697101/" />
     <author>

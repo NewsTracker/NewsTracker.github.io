@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>A weekend of fear in Greece as Monday promises salvation or ruin</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/a-weekend-of-fear-in-greece-as-monday-promises-salvation-or-ruin-20150621-ghtclv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-20T16:15:19Z</updated>
+    <published>2015-06-20T16:15:19Z</published>
+    <summary type="html">&lt;p&gt;Without access to capital markets, Greek lenders have to rely on almost 86 billion of Emergency Liquidity Assistance to stay afloat, subject to weekly boosts by the European Central Bank.&lt;/p&gt;</summary>
+    <dc:date>2015-06-20T16:15:19Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/h/t/c/q/f/image.related.articleLeadwide.620x349.ghtclv.png/1434859922124.jpg" />
+  </entry>
+  <entry>
     <title>Greece mulls next move as clock ticks on debt talks</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/20/us-eurozone-greece-idUSKBN0P00GQ20150620?feedType=RSS&amp;amp;feedName=topNews" />
     <author>

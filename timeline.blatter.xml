@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Insight - The FIFA that Blatter built</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/11/insight-fifa-blatter-built" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T18:53:39Z</updated>
+    <published>2015-06-10T18:53:39Z</published>
+    <summary type="html">&lt;p&gt;Under Blatter, FIFA has handed its development money out strategically.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T18:53:39Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-06-10T183653Z_1_LYNXMPEB590YA_RTROPTP_2_SOCCER-FIFA-BLATTER.JPG?itok=3KjbuZeR" />
+  </entry>
+  <entry>
     <title>FIFA: Blatter resignation won't lead many to quit</title>
     <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/06/04/fifa-blatter-resignation-wont-lead-many-to-quit" />
     <author>

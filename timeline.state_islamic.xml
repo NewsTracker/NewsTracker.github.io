@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sunni Tribes, Abandoned by Iraq, Key to Islamic State Fight</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/sunni-tribes-abandoned-iraq-key-islamic-state-fight-31912317" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-20T21:22:38Z</updated>
+    <published>2015-06-20T21:22:38Z</published>
+    <summary type="html">&lt;p&gt;Parading across a desert base, hundreds of Sunni tribesmen who graduated a crash training course stood ready to take on the Islamic State group on behalf of a government that many believed left them to die at the hands of the extremists.&lt;/p&gt;</summary>
+    <dc:date>2015-06-20T21:22:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Sunni tribes, abandoned by Iraq, key to Islamic State fight</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article25085614.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-20T16:54:00Z</updated>
+    <published>2015-06-20T16:54:00Z</published>
+    <summary type="html">&lt;p&gt;The Islamic State group has massacred hundreds of men, women and children with Anbar's Al Bu Nimr tribe for resisting their rule and cooperating with the Iraqi government.&lt;/p&gt;</summary>
+    <dc:date>2015-06-20T16:54:00Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Conditions turn dire after Islamic State group militants overrun Palestinian camp in Syria</title>
+    <link rel="alternate" href="http://www.startribune.com/world/299098121.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T20:35:30Z</updated>
+    <published>2015-04-08T20:35:30Z</published>
+    <summary type="html">&lt;p&gt;Heavy clashes continued in the camp, a week after extremists from the Islamic State group burst in from the Hajar Aswad district south of Damascus.&lt;/p&gt;&lt;p&gt;They had settled in that area after being pushed out of regions east of the capital by Islamic rebels last year.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T20:35:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State bombs target Syria rivals, kill 31 -monitors</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3030549/Islamic-State-bombs-target-Syria-rivals-kill-31-monitors.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-08T15:01:58Z</updated>
+    <published>2015-04-08T15:01:58Z</published>
+    <summary type="html">&lt;p&gt;Insurgent groups including the Nusra Front took up arms against Islamic State early last year.&lt;/p&gt;&lt;p&gt;Nusra Front said online that one of its leaders was killed in an Islamic State car bomb attack in the area and posted a picture of what appeared to be his body on a blanket.&lt;/p&gt;</summary>
+    <dc:date>2015-04-08T15:01:58Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State-claimed car bombing kills 2 in Yemen's capital</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Yemeni-officials-say-car-bomb-exploded-in-Sanaa-6339154.php" />
     <author>
@@ -957,17 +1002,6 @@
     <published>2015-05-29T15:09:18Z</published>
     <summary type="html">&lt;p&gt;RIYADH, Saudi Arabia - A suicide bomber blew himself up in the parking lot of a Shiite mosque in eastern Saudi Arabia during Friday prayers, killing four people in the second such attack in as many weeks claimed by the Islamic State group.&lt;/p&gt;&lt;p&gt;The Islamic State group claimed responsibility for the attack, saying it was carried out by its "Najd Province," referring to a region in the central Arabian Peninsula.&lt;/p&gt;&lt;p&gt;Last Friday, an Islamic State suicide bomber killed 21 people in the village of al-Qudeeh, in the oil-rich eastern Qatif region.&lt;/p&gt;&lt;p&gt;Saudi Arabia's Shiite minority is a branch of Islam that both the Islamic State group and ultraconservatives in Saudi Arabia regularly denounce as heretical.&lt;/p&gt;&lt;p&gt;The Islamic State group and other Sunni extremists view Shiites as apostates deserving of death.&lt;/p&gt;</summary>
     <dc:date>2015-05-29T15:09:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Conditions turn dire after Islamic State group militants overrun Palestinian camp in Syria</title>
-    <link rel="alternate" href="http://www.startribune.com/world/299098121.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T20:35:30Z</updated>
-    <published>2015-04-08T20:35:30Z</published>
-    <summary type="html">&lt;p&gt;Heavy clashes continued in the camp, a week after extremists from the Islamic State group burst in from the Hajar Aswad district south of Damascus.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T20:35:30Z</dc:date>
   </entry>
   <entry>
     <title>4th man charged in NYC over Islamic State recruitment plot</title>
@@ -5675,17 +5709,6 @@
     <published>2015-04-08T16:01:52Z</published>
     <summary type="html">&lt;p&gt;Some of the Yazidis said they had been held in the Islamic State stronghold of Tel Afar most of the time, but in the days leading up to their release, they were moved from one town to another in Islamic State's self-proclaimed caliphate.&lt;/p&gt;&lt;p&gt;Yazidi activists say many remain in the hands of Islamic State, which has often subjected women to rape or sexual slavery.&lt;/p&gt;</summary>
     <dc:date>2015-04-08T16:01:52Z</dc:date>
-  </entry>
-  <entry>
-    <title>Islamic State bombs target Syria rivals, kill 31 -monitors</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3030549/Islamic-State-bombs-target-Syria-rivals-kill-31-monitors.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-08T15:01:58Z</updated>
-    <published>2015-04-08T15:01:58Z</published>
-    <summary type="html">&lt;p&gt;Insurgent groups including the Nusra Front took up arms against Islamic State early last year.&lt;/p&gt;</summary>
-    <dc:date>2015-04-08T15:01:58Z</dc:date>
   </entry>
   <entry>
     <title>Islamic State releases more than 200 captive Yazidis in Iraq</title>
