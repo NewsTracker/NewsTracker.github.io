@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bill Clinton says he will stop giving paid speeches if Hillary made US president</title>
+    <link rel="alternate" href="http://www.theguardian.com/us-news/2015/jun/11/bill-clinton-says-he-will-stop-giving-paid-speeches-if-hillary-made-us-president" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T01:09:02Z</updated>
+    <published>2015-06-11T01:09:02Z</published>
+    <summary type="html">&lt;p&gt;But an increasing number of Americans have said they find Hillary Clinton untrustworthy in polls.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T01:09:02Z</dc:date>
+  </entry>
+  <entry>
+    <title>In early rush, Clinton deploys organizers coast to coast</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/06/10/clinton-building-vast-network-of-campaign-staff-volunteers" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T18:45:21Z</updated>
+    <published>2015-06-10T18:45:21Z</published>
+    <summary type="html">&lt;p&gt;(AP) - Hillary Rodham Clinton has launched a sweeping national jobs program - for her presidential campaign.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T18:45:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Hillary Clinton has shifted left, but so have Americans</title>
     <link rel="alternate" href="http://www.latimes.com/nation/la-na-democrats-shift-left-20150522-story.html?track=rss" />
     <author>
