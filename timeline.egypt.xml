@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt court sentences 11 to death over 2012 soccer riot</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article23560198.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T23:43:06Z</updated>
+    <published>2015-06-09T23:43:06Z</published>
+    <summary type="html">&lt;p&gt;Seven-time African champion Egypt has failed to qualify for the African Cup of Nations since 2010, the year when it clinched its third successive continental title.&lt;/p&gt;&lt;p&gt;As a result, Palestinians have begun importing fish and other seafood from Israel or Egypt and _ in recent years _ building fish farms.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T23:43:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Bus Crashes in Egypt Kill 23, Injure 17 Others</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/bus-crashes-egypt-kill-23-injure-17-31754170" />
     <author>
@@ -347,18 +359,6 @@
     <summary type="html">&lt;p&gt;Luxor is home to some of Egypt's most famous ancient temples and pharaonic tombs, including that of King Tutankhamun.&lt;/p&gt;&lt;p&gt;The city has been hit hard by a downturn in visitors since Egypt's 2011 uprising.&lt;/p&gt;&lt;p&gt;Associated Press writer Haggag Salama in Luxor, Egypt contributed to this report.&lt;/p&gt;</summary>
     <dc:date>2015-06-10T10:45:19Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/e4da348/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F8b%2Fa91dd5f23e310b43d1e23157cc94aa%2Fmedia%3A3400c76406944ff5a0faf875fe756817MideastEgypt.JPEG" />
-  </entry>
-  <entry>
-    <title>Egypt court sentences 11 to death over 2012 soccer riot</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article23560198.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T23:43:06Z</updated>
-    <published>2015-06-09T23:43:06Z</published>
-    <summary type="html">&lt;p&gt;Seven-time African champion Egypt has failed to qualify for the African Cup of Nations since 2010, the year when it clinched its third successive continental title.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T23:43:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Egypt court sentences TV broadcaster to 1 year for slander</title>

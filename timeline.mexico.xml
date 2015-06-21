@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico's deportations of Central American migrants up 79 percent in first 4 months of 2015</title>
+    <link rel="alternate" href="http://www.startribune.com/mexico-s-deportations-of-central-americans-rise-sharply/307039741/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T20:55:21Z</updated>
+    <published>2015-06-11T20:55:21Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - Mexico deported 79 percent more people from Central America's northern triangle in the first four months of 2015 than it did during the same period a year earlier, according to government statistics.&lt;/p&gt;&lt;p&gt;The Inter-American Commission on Human Rights on Wednesday expressed its "concern over stepped-up actions reportedly being taken against migrant persons" that were put in place after Mexico initiated its Southern Border Plan last year under pressure from the United States.&lt;/p&gt;&lt;p&gt;In 2014, more than 46,000 unaccompanied minors from Central America crossed into the United States, leading the U.S. government to turn to the governments in Mexico and Central America to try to stanch the flow.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T20:55:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico's Deportations of Central Americans Rise Sharply</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexicos-deportations-central-americans-rise-sharply-31703365" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T20:49:57Z</updated>
+    <published>2015-06-11T20:49:57Z</published>
+    <summary type="html">&lt;p&gt;"Enormous numbers of Central Americans are still fleeing, but most of them are now getting caught in Mexico instead of the United States," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T20:49:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hurricane Blanca downgraded as it nears Mexico's Baja California</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/07/us-storm-blanca-mexico-idUSKBN0ON0OA20150607?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T19:59:53Z</updated>
+    <published>2015-06-07T19:59:53Z</published>
+    <summary type="html">&lt;p&gt;CABO SAN LUCAS, Mexico Hurricane Blanca weakened to a Category 1 storm on Sunday as it approached Mexico's Baja California peninsula, according to the latest update from the U.S. National Hurricane Center (NHC).&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T19:59:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Soldiers Kill 6 Presumed Criminals in Northern Mexico</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/soldiers-kill-presumed-criminals-northern-mexico-31917445" />
     <author>
@@ -297,17 +330,6 @@
     <published>2015-06-12T22:40:55Z</published>
     <summary type="html">&lt;p&gt;Mexico's supreme court has ruled it is unconstitutional for Mexican states to bar same-sex marriages.&lt;/p&gt;&lt;p&gt;Gay marriage is legal in some parts of Mexico, including Mexico City and the northern state of Coahuila.&lt;/p&gt;</summary>
     <dc:date>2015-06-12T22:40:55Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mexico's deportations of Central American migrants up 79 percent in first 4 months of 2015</title>
-    <link rel="alternate" href="http://www.startribune.com/mexico-s-deportations-of-central-americans-rise-sharply/307039741/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T20:55:21Z</updated>
-    <published>2015-06-11T20:55:21Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY - Mexico deported 79 percent more people from Central America's northern triangle in the first four months of 2015 than it did during the same period a year earlier, according to government statistics.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T20:55:21Z</dc:date>
   </entry>
   <entry>
     <title>Mexico Supports Probe Into Shooting of US Helicopter</title>

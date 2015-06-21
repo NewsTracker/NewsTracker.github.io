@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook Changes News Feed Algorithm To Prioritize Content From Friends Over Pages</title>
+    <link rel="alternate" href="http://www.forbes.com/sites/amitchowdhry/2015/04/23/facebook-changes-news-feed-algorithm-to-prioritize-content-from-friends-over-pages/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T18:40:00Z</updated>
+    <published>2015-04-23T18:40:00Z</published>
+    <summary type="html">&lt;p&gt;Facebook said that the distribution will vary depending on your audience and posting activity.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T18:40:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Fin24.com | Facebook accused of trampling on privacy</title>
     <link rel="alternate" href="http://www.fin24.com/Tech/News/Facebook-accused-of-trampling-on-privacy-20150515" />
     <author>

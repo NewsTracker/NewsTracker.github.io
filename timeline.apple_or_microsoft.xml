@@ -5,6 +5,65 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Apple puts news at core of revamped system</title>
+    <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/apple-puts-news-at-core-of-revamped-system-20150621-ghtgwi.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T04:07:52Z</updated>
+    <published>2015-06-21T04:07:52Z</published>
+    <summary type="html">&lt;p&gt;Washington: Apple is diving deeper into the news business with a new application that could make the US tech giant a key industry player.&lt;/p&gt;&lt;p&gt;"Apple is eager to have news created by human beings and not algorithms - it fits in with the brand statement Apple has been making," said Judd Slivka, a professor of mobile journalism at the University of Missouri.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T04:07:52Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/h/t/k/8/9/image.related.articleLeadNarrow.300x0.ghtgwi.png/1434879305504.jpg" />
+  </entry>
+  <entry>
+    <title>Apple puts news at core of revamped system</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/digital-life/digital-life-news/apple-puts-news-at-core-of-revamped-system-20150621-ghtgwi.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T04:07:52Z</updated>
+    <published>2015-06-21T04:07:52Z</published>
+    <summary type="html">&lt;p&gt;In a surprising move, Apple has unveiled it will be hiring experienced journalists to manage its news feeds.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T04:07:52Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/h/t/k/8/9/image.related.articleLeadNarrow.300x0.ghtgwi.png/1434879305504.jpg" />
+  </entry>
+  <entry>
+    <title>Nokia Theatre, home of the Emmys, renamed Microsoft Theater</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Nokia-Theatre-home-of-the-Emmys-renamed-6317045.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T21:51:47Z</updated>
+    <published>2015-06-09T21:51:47Z</published>
+    <summary type="html">&lt;p&gt;LOS ANGELES (AP) - Los Angeles' Nokia Theatre will now be known as the Microsoft Theater.&lt;/p&gt;&lt;p&gt;Microsoft and theater owner AEG announced Tuesday that the 7,100-seat venue is being rebranded.&lt;/p&gt;&lt;p&gt;The 40,000-square-foot plaza outside the theater will similarly be known as Microsoft Square, and the nearby 3,100-seat venue Club Nokia will also be rebranded.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T21:51:47Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/77/33/8124110/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Apple Music is CONFIRMED, Apple Pay to hit UK and iPhone to get THREE hour battery boost</title>
+    <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/583070/Apple-Music-Spotify-Rival-WWDC-2015-Live-Announcement-WatchOS-iOS-9-Mac-OS-X?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-tech+%28Daily+Express+%3A%3A+Science+%26+Tech+Feed%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T19:24:00Z</updated>
+    <published>2015-06-08T19:24:00Z</published>
+    <summary type="html">&lt;p&gt;Stories that use Apple's new News format will look best on the app.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T19:24:00Z</dc:date>
+    <media:content url="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" />
+  </entry>
+  <entry>
+    <title>Apple wants a lead role in streaming music</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-06-08-US-TEC--Apple&amp;apos;s%20Show/id-0dc01a185dbb41b9b041bac5739ad142" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T06:01:58Z</updated>
+    <published>2015-06-08T06:01:58Z</published>
+    <summary type="html">&lt;p&gt;But that may be delayed, according to reports by the New York Times and the tech blog Re/code, which said Apple is still negotiating with broadcasters and isn't ready to announce the video service.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T06:01:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple puts news at core of revamped system</title>
     <link rel="alternate" href="http://www.smh.com.au/world/apple-puts-news-at-core-of-revamped-system-20150621-ghtgwi.html" />
     <author>
       <name />
