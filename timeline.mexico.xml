@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Body of ex-White House chef found in New Mexico: Reports</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/22/body-of-ex-white-house-chef-found-in-new-mexico-reports" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-22T17:55:20Z</updated>
+    <published>2015-06-22T17:55:20Z</published>
+    <summary type="html">&lt;p&gt;The body of a former White House chef last seen setting off for a hike alone more than a week ago near Taos, New Mexico, was found on Sunday evening, according to the New Mexico State Police.&lt;/p&gt;</summary>
+    <dc:date>2015-06-22T17:55:20Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297715300601_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Mexico Deports 49 Percent More Minors in First 5 Months</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-deports-49-percent-minors-months-31942147" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-22T16:26:35Z</updated>
+    <published>2015-06-22T16:26:35Z</published>
+    <summary type="html">&lt;p&gt;While the wave of child and teen migrants has dropped off at the U.S. border, detentions of Central American minors are up sharply in Mexico this year.&lt;/p&gt;</summary>
+    <dc:date>2015-06-22T16:26:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico deports 49 percent more minors in first 5 months</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/22/mexico-deports-49-percent-more-minors-in-first-5/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-22T15:39:12Z</updated>
+    <published>2015-06-22T15:39:12Z</published>
+    <summary type="html">&lt;p&gt;Mexico's National Immigration Institute says detentions of Central American minors have risen 49 percent compared to the similar period last year.&lt;/p&gt;</summary>
+    <dc:date>2015-06-22T15:39:12Z</dc:date>
+    <media:content url="http://media.utsandiego.com/img/photos/2015/06/22/8979706edae0201b7a0f6a706700c3ee_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
+  </entry>
+  <entry>
+    <title>Searchers find body of missing ex-White House chef in New Mexico</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/ct-ex-white-house-chef-found-20150622-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-22T15:12:00Z</updated>
+    <published>2015-06-22T15:12:00Z</published>
+    <summary type="html">&lt;p&gt;The body of 61-year-old Walter Scheib was found Sunday night near a hiking trail in mountains in the Taos area, the New Mexico State Police said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-22T15:12:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico's deportations of Central American migrants up 79 percent in first 4 months of 2015</title>
     <link rel="alternate" href="http://www.startribune.com/mexico-s-deportations-of-central-americans-rise-sharply/307039741/" />
     <author>

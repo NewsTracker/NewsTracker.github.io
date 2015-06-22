@@ -4,6 +4,64 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Taylor Swift Has Apple Changing Its Tune</title>
+    <link rel="alternate" href="http://abcnews.go.com/Entertainment/wireStory/open-letter-swift-criticizes-shocking-apple-music-31924658" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-22T17:13:12Z</updated>
+    <published>2015-06-22T17:13:12Z</published>
+    <summary type="html">&lt;p&gt;But Swift said she would withhold her latest album from the service because Apple wasn't planning to pay artists and labels directly for the use of their music during the free, introductory period.&lt;/p&gt;</summary>
+    <dc:date>2015-06-22T17:13:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple Music in Taylor Swift backdown</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/news/entertainment-arts-33220189%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-22T15:11:33Z</updated>
+    <published>2015-06-22T15:11:33Z</published>
+    <summary type="html">&lt;p&gt;"We hear you @taylorswift13 and indie artists. Love, Apple," tweeted executive Eddy @Cue.&lt;/p&gt;</summary>
+    <dc:date>2015-06-22T15:11:33Z</dc:date>
+    <media:content url="http://ichef.bbci.co.uk/news/304/cpsprodpb/75E1/production/_83777103_swift1_624getty.jpg" />
+  </entry>
+  <entry>
+    <title>Record industry warily embraces Apple Music</title>
+    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/06/11/business/record-industry-warily-embraces-apple-music/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=record-industry-warily-embraces-apple-music&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T23:05:00Z</updated>
+    <published>2015-06-10T23:05:00Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO - A decade ago, Apple Inc. helped revitalize a music industry hit hard by online piracy with its iTunes Store.&lt;/p&gt;&lt;p&gt;But despite the generally positive reaction to Apple's announcement, some music companies are still concerned because of the tough economics of the streaming business, said Sherman.&lt;/p&gt;&lt;p&gt;If Apple is successful, said Ted Cohen, a former music executive, others in the industry may decide to weaken or phase out their free tiers, he added.&lt;/p&gt;&lt;p&gt;"Apple Music is more of a me-too product than a breakthrough product," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T23:05:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Review: The best new features coming from Apple, Google</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Review-The-best-new-features-coming-from-Apple-6317745.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T08:09:18Z</updated>
+    <published>2015-06-10T08:09:18Z</published>
+    <summary type="html">&lt;p&gt;Apple Watch will also be able to play video for the first time - if you don't mind the small screen.&lt;/p&gt;&lt;p&gt;On Apple Watch, apps from outside parties have essentially been extensions of phone apps.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T08:09:18Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/00/06/8126894/3/622x350.jpg" />
+  </entry>
+  <entry>
+    <title>The Latest from Apple show: On-demand music-streaming app</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/texas/article/The-Latest-from-Apple-show-Crowds-gather-before-6313869.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T19:08:18Z</updated>
+    <published>2015-06-08T19:08:18Z</published>
+    <summary type="html">&lt;p&gt;Apple also announced at its conference for developers in San Francisco on Monday several new features, including transit directions in Maps, a new app for news and specifically for the iPad, the ability to run multiple apps side by side.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T19:08:18Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/36/75/63/8117486/3/gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Taylor Swift pens open letter to Apple about "shocking" policy</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/taylor-swift-pens-open-letter-to-apple-about-shocking-policy/" />
     <author>
@@ -118,17 +176,6 @@
     <published>2015-06-19T14:17:14Z</published>
     <summary type="html" />
     <dc:date>2015-06-19T14:17:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Record industry warily embraces Apple Music</title>
-    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/06/11/business/record-industry-warily-embraces-apple-music/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=record-industry-warily-embraces-apple-music&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T23:05:00Z</updated>
-    <published>2015-06-10T23:05:00Z</published>
-    <summary type="html">&lt;p&gt;SAN FRANCISCO - A decade ago, Apple Inc. helped revitalize a music industry hit hard by online piracy with its iTunes Store.&lt;/p&gt;&lt;p&gt;But despite the generally positive reaction to Apple's announcement, some music companies are still concerned because of the tough economics of the streaming business, said Sherman.&lt;/p&gt;&lt;p&gt;If Apple is successful, said Ted Cohen, a former music executive, others in the industry may decide to weaken or phase out their free tiers, he added.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T23:05:00Z</dc:date>
   </entry>
   <entry>
     <title>Apple puts news at core of revamped system</title>
@@ -451,18 +498,6 @@
     <summary type="html">&lt;p&gt;It is seeing increasing competition, however, with Apple launching its Apple Music streaming service at the end of June.&lt;/p&gt;</summary>
     <dc:date>2015-06-10T12:38:24Z</dc:date>
     <media:content url="http://ww2.hdnux.com/photos/36/75/67/8117713/3/headline_list_thumb137.jpg" />
-  </entry>
-  <entry>
-    <title>Review: The best new features coming from Apple, Google</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/Review-The-best-new-features-coming-from-Apple-6317745.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T08:09:18Z</updated>
-    <published>2015-06-10T08:09:18Z</published>
-    <summary type="html">&lt;p&gt;Apple Watch will also be able to play video for the first time - if you don't mind the small screen.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T08:09:18Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/00/06/8126894/3/622x350.jpg" />
   </entry>
   <entry>
     <title>Spotify gets investment as it faces competition from Apple</title>

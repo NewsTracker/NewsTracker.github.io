@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>THE LATEST: Greek demonstrators march in Athens to show support for staying in the euro</title>
+    <link rel="alternate" href="http://www.startribune.com/the-latest-on-greece-markets-surge-on-hopes-for-a-deal/308962711/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-22T17:20:35Z</updated>
+    <published>2015-06-22T17:20:35Z</published>
+    <summary type="html">&lt;p&gt;Another meeting, and again a lack of clear Greek proposals, German Finance Wolgang Schaeuble groused Monday.&lt;/p&gt;&lt;p&gt;Leaders of the 19-nation eurozone are gathering in Brussels for a last-ditch summit aimed at clinching a deal between Greece and international lenders as a major debt payment deadline looms.&lt;/p&gt;</summary>
+    <dc:date>2015-06-22T17:20:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Europe cautiously optimistic of Greek debt deal this week</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Markets-surge-ahead-of-last-ditch-summit-on-Greece-6341079.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-22T16:05:23Z</updated>
+    <published>2015-06-22T16:05:23Z</published>
+    <summary type="html">&lt;p&gt;A debt default by Greece could destabilize its banks - Greeks are already withdrawing increasingly large amounts of money - and could in a worst case scenario cause the country to have to leave the euro.&lt;/p&gt;</summary>
+    <dc:date>2015-06-22T16:05:23Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/37/20/41/8194144/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>European leaders working hard to keep Greece in eurozone</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/greece-presents-new-financial-proposals-to-europea/nmhZY/" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google's latest project: reinventing cities</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28297510/googles-latest-project-reinventing-cities?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T22:03:38Z</updated>
+    <published>2015-06-11T22:03:38Z</published>
+    <summary type="html">&lt;p&gt;Google's Chief Executive Larry Page has announced the tech giant's latest moonshot, a new company whose mission is to revolutionize urban life.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T22:03:38Z</dc:date>
+  </entry>
+  <entry>
     <title>Google hires Wall Street's Ruth Porat as new CFO</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_27777443/google-hires-wall-streets-ruth-porat-new-cfo?source=rss" />
     <author>
