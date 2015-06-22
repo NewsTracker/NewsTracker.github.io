@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Pope tells Putin: 'Sincere' peace efforts needed for Ukraine</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Putin-visits-Italy-pope-after-G-7-snub-over-6317959.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T19:03:44Z</updated>
+    <published>2015-06-10T19:03:44Z</published>
+    <summary type="html">&lt;p&gt;Russia accuses Ukraine of failing to launch political dialogue with the rebellious east and of keeping its economic blockade of areas controlled by pro-Russian rebels.&lt;/p&gt;&lt;p&gt;Federico Lombardi said their talks concentrated on the Ukraine conflict and the Middle East, where the Holy See is worried about the fate of the Christian minority.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T19:03:44Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/37/00/26/8127911/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Ukraine evacuates hundreds from site of deadly Kiev fuel blasts</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ukraine-evacuates-hundreds-from-site-of-deadly-kiev-fuel-blasts-20150609-ghk96c.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T14:09:24Z</updated>
+    <published>2015-06-09T14:09:24Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's emergencies ministry began evacuating residents living within two kilometres of the fuel depots.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T14:09:24Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/k/9/b/g/image.related.articleLeadwide.620x349.ghk96c.png/1433852366566.jpg" />
+  </entry>
+  <entry>
     <title>Killings of soldiers and civilians fray Ukraine's ceasefire</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/us-ukraine-crisis-casualties-idUSKBN0OR15U20150611?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
@@ -280,18 +304,6 @@
     <summary type="html">&lt;p&gt;Lombardi said Francis stressed the need "to commit oneself in a sincere and great effort to bring" peace to Ukraine, through dialogue and implementation of the Minsk accords.&lt;/p&gt;&lt;p&gt;Renzi greeted Putin as Russia's "dear" president and didn't voice any criticism against the country's actions in Ukraine, saying simply that they both agreed there must be full implementation of the Minsk peace accord.&lt;/p&gt;&lt;p&gt;They said sanctions against Russia won't be lifted until Moscow fully implements its part of the Ukraine peace accord, and could be increased if needed.&lt;/p&gt;</summary>
     <dc:date>2015-06-10T19:04:08Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
-  </entry>
-  <entry>
-    <title>Pope tells Putin: 'Sincere' peace efforts needed for Ukraine</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Putin-visits-Italy-pope-after-G-7-snub-over-6317959.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T19:03:44Z</updated>
-    <published>2015-06-10T19:03:44Z</published>
-    <summary type="html">&lt;p&gt;Russia accuses Ukraine of failing to launch political dialogue with the rebellious east and of keeping its economic blockade of areas controlled by pro-Russian rebels.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T19:03:44Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/37/00/26/8127911/7/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Russia's role in Ukraine seen as shifting from sending troops to training rebels</title>

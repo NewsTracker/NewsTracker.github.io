@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>France proves fertile ground for Islamic State recruitment</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/france-proves-fertile-ground-for-islamic-state-recruitment-20150609-ghk47e.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T08:04:34Z</updated>
+    <published>2015-06-09T08:04:34Z</published>
+    <summary type="html">&lt;p&gt;The number of French recruits to Islamic State is rising unstoppably, in spite of waves of new measures to halt it, according to French officials.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T08:04:34Z</dc:date>
+    <media:content url="http://www.smh.com.au/content/dam/images/g/h/g/9/3/8/image.related.articleLeadwide.620x349.ghk47e.png/1433836986286.jpg" />
+  </entry>
+  <entry>
+    <title>Iraqi forces drive Islamic State out of central Tikrit: PM</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/01/us-mideast-crisis-iraq-tikrit-idUSKBN0MR1G420150401?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-01T01:01:25Z</updated>
+    <published>2015-04-01T01:01:25Z</published>
+    <summary type="html">&lt;p&gt;Reuters journalists traveling with the police passed houses scarred by bullets, mortars and rockets as well as five or six corpses that security officers said were Islamic State fighters, adding that they might be rigged with explosives.&lt;/p&gt;</summary>
+    <dc:date>2015-04-01T01:01:25Z</dc:date>
+  </entry>
+  <entry>
     <title>U.S. accuses Syria of backing Islamic State's Aleppo advance</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3107241/U-S-accuses-Syria-backing-Islamic-States-Aleppo-advance.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -834,18 +857,6 @@
     <published>2015-04-22T11:58:59Z</published>
     <summary type="html">&lt;p&gt;(PARIS) - An Islamic extremist with an arsenal of loaded guns was only prevented from opening fire on Sunday morning churchgoers because he accidentally shot himself, French officials said.&lt;/p&gt;</summary>
     <dc:date>2015-04-22T11:58:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>France proves fertile ground for Islamic State recruitment</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/france-proves-fertile-ground-for-islamic-state-recruitment-20150609-ghk47e.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T08:04:34Z</updated>
-    <published>2015-06-09T08:04:34Z</published>
-    <summary type="html">&lt;p&gt;The number of French recruits to Islamic State is rising unstoppably, in spite of waves of new measures to halt it, according to French officials.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T08:04:34Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/g/h/g/9/3/8/image.related.articleLeadwide.620x349.ghk47e.png/1433836986286.jpg" />
   </entry>
   <entry>
     <title>The Islamic State: A year of death and destruction</title>
