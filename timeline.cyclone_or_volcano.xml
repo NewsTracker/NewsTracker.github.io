@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>'Volcano of Fire' spews colossal column of ash over Mexican city</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-04-17/volcano-colima-fire-spews-ash-on-mexican-city/6399572" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T22:38:31Z</updated>
+    <published>2015-04-16T22:38:31Z</published>
+    <summary type="html">&lt;p&gt;Mexico's Colima volcano has spewed a giant 3.5-kilometre-high column of ash that rained down on a nearby city, authorities say.&lt;/p&gt;&lt;p&gt;The Jalisco state civil protection agency said a "moderate" quantity of ash fell on Ciudad Guzman, a town near the western state of Colima, where the volcano is located.&lt;/p&gt;&lt;p&gt;The 3,860-metre mountain, also known as the Volcano of Fire, is among the most active in the country.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T22:38:31Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6399564-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Thousands await aid in Vanuatu as death toll increases</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/03/20/thousands-await-aid-in-vanuatu-as-death-toll-increases/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-20T08:57:15Z</updated>
+    <published>2015-03-20T08:57:15Z</published>
+    <summary type="html">&lt;p&gt;Meanwhile, the ash from the volcano has started to make the children cough.&lt;/p&gt;</summary>
+    <dc:date>2015-03-20T08:57:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Thousands flee as Indonesia upgrades alert over Mt Sinabung volcano</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-06-04/thousands-flee-indonesia-upgrades-alert-mount-sinabung-volcano/6523076" />
     <author>
@@ -1046,18 +1069,6 @@
     <summary type="html" />
     <dc:date>2015-04-22T15:31:35Z</dc:date>
     <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150422&amp;amp;t=2&amp;amp;i=1042476889&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB3L0SR" />
-  </entry>
-  <entry>
-    <title>'Volcano of Fire' spews colossal column of ash over Mexican city</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-04-17/volcano-colima-fire-spews-ash-on-mexican-city/6399572" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-16T22:38:31Z</updated>
-    <published>2015-04-16T22:38:31Z</published>
-    <summary type="html">&lt;p&gt;Mexico's Colima volcano has spewed a giant 3.5-kilometre-high column of ash that rained down on a nearby city, authorities say.&lt;/p&gt;&lt;p&gt;The Jalisco state civil protection agency said a "moderate" quantity of ash fell on Ciudad Guzman, a town near the western state of Colima, where the volcano is located.&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T22:38:31Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/6399564-3x2-340x227.jpg" />
   </entry>
   <entry>
     <title>UN appeals for $20 million for Vanuatu cyclone victims</title>

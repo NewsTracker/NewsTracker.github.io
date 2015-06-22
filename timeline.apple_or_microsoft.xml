@@ -4,17 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Record industry warily embraces Apple Music</title>
-    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/06/11/business/record-industry-warily-embraces-apple-music/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=record-industry-warily-embraces-apple-music&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T23:05:00Z</updated>
-    <published>2015-06-10T23:05:00Z</published>
-    <summary type="html">&lt;p&gt;SAN FRANCISCO - A decade ago, Apple Inc. helped revitalize a music industry hit hard by online piracy with its iTunes Store.&lt;/p&gt;&lt;p&gt;But despite the generally positive reaction to Apple's announcement, some music companies are still concerned because of the tough economics of the streaming business, said Sherman.&lt;/p&gt;&lt;p&gt;If Apple is successful, said Ted Cohen, a former music executive, others in the industry may decide to weaken or phase out their free tiers, he added.&lt;/p&gt;&lt;p&gt;"Apple Music is more of a me-too product than a breakthrough product," he said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T23:05:00Z</dc:date>
-  </entry>
-  <entry>
     <title>Taylor Swift pens open letter to Apple about "shocking" policy</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/taylor-swift-pens-open-letter-to-apple-about-shocking-policy/" />
     <author>
@@ -129,6 +118,17 @@
     <published>2015-06-19T14:17:14Z</published>
     <summary type="html" />
     <dc:date>2015-06-19T14:17:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Record industry warily embraces Apple Music</title>
+    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/06/11/business/record-industry-warily-embraces-apple-music/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=record-industry-warily-embraces-apple-music&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T23:05:00Z</updated>
+    <published>2015-06-10T23:05:00Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO - A decade ago, Apple Inc. helped revitalize a music industry hit hard by online piracy with its iTunes Store.&lt;/p&gt;&lt;p&gt;But despite the generally positive reaction to Apple's announcement, some music companies are still concerned because of the tough economics of the streaming business, said Sherman.&lt;/p&gt;&lt;p&gt;If Apple is successful, said Ted Cohen, a former music executive, others in the industry may decide to weaken or phase out their free tiers, he added.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T23:05:00Z</dc:date>
   </entry>
   <entry>
     <title>Apple puts news at core of revamped system</title>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Yahoo-s-1Q-shows-company-remains-mired-in-revenue-6214617.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-21T22:09:36Z</updated>
+    <published>2015-04-21T22:09:36Z</published>
+    <summary type="html">&lt;p&gt;Although Yahoo's stock has nearly tripled under Mayer's leadership, most of the increase has been tied to Yahoo's 24 percent stake in Alibaba Group and 35 percent stake in Yahoo Japan - not Yahoo's core business.&lt;/p&gt;&lt;p&gt;Yet Mayer recently reshuffled Yahoo's top management.&lt;/p&gt;</summary>
+    <dc:date>2015-04-21T22:09:36Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/75/74/7855911/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>JD Martinez hits 3 HRs, Tigers tag Tanaka and top Yanks 12-4 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/jd-martinez-hits-3-hrs-tigers-tag-tanaka-203218863--mlb.html" />
     <author>
@@ -2087,18 +2099,6 @@
     <published>2015-04-21T23:10:13Z</published>
     <summary type="html">&lt;p&gt;Activist shareholder Starboard Value L.P., which owns a nearly 1 percent stake in Yahoo, has been urging Mayer to slash expenses and spin off the Yahoo Japan stake to lift the company's stock.&lt;/p&gt;&lt;p&gt;If the Yahoo Japan is spun off, it would mirror what Mayer has already started to do with an even more valuable stake in Alibaba Group, an e-commerce star in China.&lt;/p&gt;</summary>
     <dc:date>2015-04-21T23:10:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Yahoo's 1Q disappoints, but stock rises on Yahoo Japan hopes</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Yahoo-s-1Q-shows-company-remains-mired-in-revenue-6214617.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-21T22:09:36Z</updated>
-    <published>2015-04-21T22:09:36Z</published>
-    <summary type="html">&lt;p&gt;Although Yahoo's stock has nearly tripled under Mayer's leadership, most of the increase has been tied to Yahoo's 24 percent stake in Alibaba Group and 35 percent stake in Yahoo Japan - not Yahoo's core business.&lt;/p&gt;</summary>
-    <dc:date>2015-04-21T22:09:36Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/35/75/74/7855911/3/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Yahoo's 1Q shows company remains mired in revenue rut</title>

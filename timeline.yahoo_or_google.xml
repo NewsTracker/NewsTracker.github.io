@@ -4,6 +4,76 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>EU alleges Google's abuses hurt consumers, innovation</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/EU-expected-to-file-antitrust-complaint-against-6200793.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T20:31:20Z</updated>
+    <published>2015-04-15T20:31:20Z</published>
+    <summary type="html">&lt;p&gt;Drawing upon a nearly five-year probe, the regulators filed a complaint alleging that Google has been improperly favoring its own shopping comparison service in its own search results.&lt;/p&gt;&lt;p&gt;For now at least, Europe's case is focused on Google's shopping comparison service, known as Google Shopping, which shows various products and prices when consumers make a search request indicating they are looking to buy something.&lt;/p&gt;&lt;p&gt;The popularity of Google's search engine is the main reason why European regulators are trying to force the company to change its ways.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T20:31:20Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/35/65/50/7821856/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Reports: Google facing antitrust showdown in Europe</title>
+    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/04/14/report-google-to-face-antitrust-charges-in-europe" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-15T02:35:23Z</updated>
+    <published>2015-04-15T02:35:23Z</published>
+    <summary type="html">&lt;p&gt;Google confirmed Walker wrote the memo late Tuesday, but the company declined further comment.&lt;/p&gt;</summary>
+    <dc:date>2015-04-15T02:35:23Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/926d82f/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png" />
+  </entry>
+  <entry>
+    <title>Stock split could cost Google over $500 million</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/stock-split-could-cost-google-103743917.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-02T21:19:39Z</updated>
+    <published>2015-04-02T21:19:39Z</published>
+    <summary type="html">&lt;p&gt;It's something that Google can easily afford, given the company holds $64 billion in cash.&lt;/p&gt;</summary>
+    <dc:date>2015-04-02T21:19:39Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/sto6E9c5G_LYmOpcrs4fMg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_HEADLINES_BUSINESS/136dc59dcfd67f0e720f6a706700e68b_original.jpg" />
+  </entry>
+  <entry>
+    <title>Google Maps turns into Pac-Man's chomping grounds</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-Maps-turns-into-Pac-Man-s-chomping-grounds-6170944.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T20:57:04Z</updated>
+    <published>2015-03-31T20:57:04Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - The virtual streets of Google Maps are being transformed into Pac-Man's chomping grounds in celebration of April Fools' Day.&lt;/p&gt;&lt;p&gt;Google added the option to convert its popular navigation service into the Pac-Man video game on Tuesday morning, around the same day the calendar turned to April 1 in Asia.&lt;/p&gt;&lt;p&gt;That ushered in a day when Google shows off its playful side by injecting more frivolity into its services.&lt;/p&gt;&lt;p&gt;The gag on Google Maps enables visitors to click on a Pac-Man symbol in the lower left of the screen to play the video game on whatever location is listed in the address bar.&lt;/p&gt;&lt;p&gt;Planting Pac-Man into maps probably won't be Google's only April Fools' stunt, based on the Mountain View, California, company's colorful past.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T20:57:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google, Microsoft battle drives down prices for PCs, tablets</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article16985768.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-31T18:54:06Z</updated>
+    <published>2015-03-31T18:54:06Z</published>
+    <summary type="html">&lt;p&gt;Google has used the Chromebooks as a prod to bring down the prices of all PCs, something the company wanted to do because it has more opportunities to show the digital ads that bring in most of its revenue when more people can afford to buy an Internet-connected device.&lt;/p&gt;&lt;p&gt;"We cannot be happier that Microsoft is helping drive down the prices of PCs," said Caesar Sengupta, Google's vice president of product management for Chromebooks.&lt;/p&gt;&lt;p&gt;Google is releasing two $149 laptops in an effort to undercut Microsoft's Windows franchise and drive down already falling personal computer prices.&lt;/p&gt;&lt;p&gt;Like the company's Android software for mobile devices, the Chrome system is set up so users will automatically begin using Google's search engine and other services, such as Gmail and YouTube.&lt;/p&gt;</summary>
+    <dc:date>2015-03-31T18:54:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Yahoo Says It Will Buy Back $2 Billion in Stock</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/yahoo-buy-back-billion-stock-29936427" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-26T22:44:19Z</updated>
+    <published>2015-03-26T22:44:19Z</published>
+    <summary type="html">&lt;p&gt;Yahoo owns 384 million shares of Alibaba, and as of Thursday's close its stake is worth about $32 billion.&lt;/p&gt;</summary>
+    <dc:date>2015-03-26T22:44:19Z</dc:date>
+  </entry>
+  <entry>
     <title>JD Martinez hits 3 HRs, Tigers tag Tanaka and top Yanks 12-4 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/jd-martinez-hits-3-hrs-tigers-tag-tanaka-203218863--mlb.html" />
     <author>
@@ -4350,18 +4420,6 @@
   </entry>
   <entry>
     <title>EU alleges Google's abuses hurt consumers, innovation</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/EU-expected-to-file-antitrust-complaint-against-6200793.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-15T20:31:20Z</updated>
-    <published>2015-04-15T20:31:20Z</published>
-    <summary type="html">&lt;p&gt;Drawing upon a nearly five-year probe, the regulators filed a complaint alleging that Google has been improperly favoring its own shopping comparison service in its own search results.&lt;/p&gt;&lt;p&gt;For now at least, Europe's case is focused on Google's shopping comparison service, known as Google Shopping, which shows various products and prices when consumers make a search request indicating they are looking to buy something.&lt;/p&gt;</summary>
-    <dc:date>2015-04-15T20:31:20Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/35/65/50/7821856/5/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>EU alleges Google's abuses hurt consumers, innovation</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/04/15/eu-expected-to-file-antitrust-complaint-against-google" />
     <author>
       <name />
@@ -5935,17 +5993,6 @@
   </entry>
   <entry>
     <title>Google Maps turns into Pac-Man's chomping grounds</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-Maps-turns-into-Pac-Man-s-chomping-grounds-6170944.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-31T20:57:04Z</updated>
-    <published>2015-03-31T20:57:04Z</published>
-    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - The virtual streets of Google Maps are being transformed into Pac-Man's chomping grounds in celebration of April Fools' Day.&lt;/p&gt;&lt;p&gt;Google added the option to convert its popular navigation service into the Pac-Man video game on Tuesday morning, around the same day the calendar turned to April 1 in Asia.&lt;/p&gt;&lt;p&gt;That ushered in a day when Google shows off its playful side by injecting more frivolity into its services.&lt;/p&gt;&lt;p&gt;The gag on Google Maps enables visitors to click on a Pac-Man symbol in the lower left of the screen to play the video game on whatever location is listed in the address bar.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T20:57:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google Maps turns into Pac-Man's chomping grounds</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Google-Maps-turns-into-Pac-Man-s-chomping-grounds-6170944.php" />
     <author>
       <name />
@@ -5954,18 +6001,6 @@
     <published>2015-03-31T19:40:07Z</published>
     <summary type="html" />
     <dc:date>2015-03-31T19:40:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google, Microsoft battle drives down prices for PCs, tablets</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article16985768.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-31T18:54:06Z</updated>
-    <published>2015-03-31T18:54:06Z</published>
-    <summary type="html">&lt;p&gt;Google has used the Chromebooks as a prod to bring down the prices of all PCs, something the company wanted to do because it has more opportunities to show the digital ads that bring in most of its revenue when more people can afford to buy an Internet-connected device.&lt;/p&gt;&lt;p&gt;"We cannot be happier that Microsoft is helping drive down the prices of PCs," said Caesar Sengupta, Google's vice president of product management for Chromebooks.&lt;/p&gt;&lt;p&gt;Google is releasing two $149 laptops in an effort to undercut Microsoft's Windows franchise and drive down already falling personal computer prices.&lt;/p&gt;</summary>
-    <dc:date>2015-03-31T18:54:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Google, Microsoft battle drives down prices for PCs, tablets</title>
