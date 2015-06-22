@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.formula_1_or_f1.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rosberg wins Austrian F1 from Hamilton</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au//breaking-news-sport/rosberg-wins-austrian-f1-from-hamilton-20150622-3y5a4.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T14:22:12Z</updated>
+    <published>2015-06-21T14:22:12Z</published>
+    <summary type="html">&lt;p&gt;Nico Rosberg drove past Lewis Hamilton at the start to win the Austrian Grand Prix on Sunday for a second successive season to close the gap in the Formula One world championship.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T14:22:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Motor racing-Hamilton takes his first Monaco F1 pole</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/05/24/hamilton-takes-his-first-monaco-f1-pole" />
     <author>

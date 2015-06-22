@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.xbox_or_playstation_or_nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T02:41:04Z</updated>
+    <published>2015-03-18T02:41:04Z</published>
+    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;&lt;p&gt;Nintendo and DeNA did not release any details about which characters would be made available to play on smartphones or tablets.&lt;/p&gt;&lt;p&gt;Nintendo has struggled as rivals Sony and Microsoft outpaced it in console sales by embracing hard-core gamers.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T02:41:04Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
+  </entry>
+  <entry>
     <title>Will 'Call of Duty: Black Ops 3' Be Held Back By Xbox 360 And PS3?</title>
     <link rel="alternate" href="http://www.forbes.com/sites/davidthier/2015/06/10/will-call-of-duty-black-ops-3-be-held-back-by-xbox-360-and-ps3/" />
     <author>
@@ -68,18 +80,6 @@
     <published>2015-06-08T14:59:00Z</published>
     <summary type="html" />
     <dc:date>2015-06-08T14:59:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nintendo shares marked up 21% smartphone gaming plan</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/afp/article-2999917/Nintendo-shares-marked-21-smartphone-gaming-plan.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T02:41:04Z</updated>
-    <published>2015-03-18T02:41:04Z</published>
-    <summary type="html">&lt;p&gt;"We have been waiting for Nintendo to make this move and this will offer large upside."&lt;/p&gt;&lt;p&gt;Nintendo and DeNA did not release any details about which characters would be made available to play on smartphones or tablets.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T02:41:04Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/18/article-doc-167ks-6X6u7HFCw-HSK1-38_634x421.jpg" />
   </entry>
   <entry>
     <title>Microsoft: Gears of War on Xbox One will be at E3</title>

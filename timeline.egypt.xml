@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>German authorities detain Al Jazeera journalist at Egypt's request</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-22/german-authorities-detain-al-jazeera-journalist-egypts-request/6562272" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T19:43:19Z</updated>
+    <published>2015-06-21T19:43:19Z</published>
+    <summary type="html">&lt;p&gt;A high-profile Al Jazeera journalist has been arrested in Germany at the request of Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T19:43:19Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6562282-3x2-340x227.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt Names Ambassador to Israel After Nearly 3 Years</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-names-ambassador-israel-years-31926966" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T17:30:24Z</updated>
+    <published>2015-06-21T17:30:24Z</published>
+    <summary type="html">&lt;p&gt;Egypt has named a new ambassador to Israel nearly three years after it had recalled the last one at the outset of the 2012 Israeli offensive in Gaza.&lt;/p&gt;&lt;p&gt;A statement released Sunday said President Abdel-Fattah el-Sissi named ambassador Hazem Khairat as part of a regular reshuffle of Egypt's diplomatic corps.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T17:30:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Al-Jazeera reporter still held in Berlin on Egypt warrant</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Al-Jazeera-reporter-still-held-in-Berlin-on-Egypt-warrant/articleshow/47758578.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T13:13:41Z</updated>
+    <published>2015-06-21T13:13:41Z</published>
+    <summary type="html">&lt;p&gt;"The Berlin prosecutor's office is examining the legal assistance request" from Egypt, he added.&lt;/p&gt;&lt;p&gt;Al-Jazeera journalist Ahmed Mansour was being held in Berlin police custody today awaiting a judge's decision on his further detention on an international arrest warrant issued by his native Egypt, authorities said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T13:13:41Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47758590,width-300,resizemode-4/Germany-Egypt-Al-Jazeera.jpg" />
+  </entry>
+  <entry>
+    <title>Al-Jazeera reporter sues channel over Egypt detention</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/11598400/Al-Jazeera-reporter-sues-channel-over-Egypt-detention.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-11T18:36:34Z</updated>
+    <published>2015-05-11T18:36:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-11T18:36:34Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03300/Egyptian-Canadian-_3300294b.jpg" />
+  </entry>
+  <entry>
     <title>Egypt court sentences 11 to death over 2012 soccer riot</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article23560198.html%23storylink=rss" />
     <author>

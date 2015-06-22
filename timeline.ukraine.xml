@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Killings of soldiers and civilians fray Ukraine's ceasefire</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/us-ukraine-crisis-casualties-idUSKBN0OR15U20150611?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T15:50:25Z</updated>
+    <published>2015-06-11T15:50:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T15:50:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Barack Obama says G7 to stand up to Russian aggression in Ukraine</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Barack-Obama-says-G7-to-stand-up-to-Russian-aggression-in-Ukraine/articleshow/47575598.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-07T13:18:22Z</updated>
+    <published>2015-06-07T13:18:22Z</published>
+    <summary type="html">&lt;p&gt;But the crises in Ukraine and Greece could overshadow the discussions at Schloss Elmau, a luxury hotel near in the picturesque mountains of southern Germany near the Austrian border.&lt;/p&gt;</summary>
+    <dc:date>2015-06-07T13:18:22Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47575618,width-300,resizemode-4/Obama.jpg" />
+  </entry>
+  <entry>
+    <title>US commander: Russia seems set for new offensive in Ukraine</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3062091/US-sees-Russia-directing-Ukraines-rebels.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-30T17:10:22Z</updated>
+    <published>2015-04-30T17:10:22Z</published>
+    <summary type="html">&lt;p&gt;"Some Russian military exercises have caught us by surprise and our textured feel for Russian involvement on the ground in Ukraine has been quite limited."&lt;/p&gt;&lt;p&gt;The shift in U.S. perceptions could have wide-ranging ramifications, even if the Obama administration has cited close linkages between the pro-Russian separatists and Putin's government in Moscow since violence flared up in Ukraine a year ago.&lt;/p&gt;</summary>
+    <dc:date>2015-04-30T17:10:22Z</dc:date>
+  </entry>
+  <entry>
     <title>US Senator McCain slams European stance on Ukraine</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/20/us-senator-mccain-slams-european-stance-on-ukraine" />
     <author>
@@ -2019,17 +2053,6 @@
     <summary type="html">&lt;p&gt;Breedlove said Putin was concerned about Western sanctions imposed against Russia over the Ukraine crisis "and that may be affecting how he currently does things in eastern Ukraine."&lt;/p&gt;</summary>
     <dc:date>2015-04-30T18:43:49Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/HDs2SVTMamaZ2nuelfWC2A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTEw/http://media.zenfs.com/en_us/News/afp.com/d463feb8af033ba0ad073f8f65f7e98ddacb04ce.jpg.cf.jpg" />
-  </entry>
-  <entry>
-    <title>US commander: Russia seems set for new offensive in Ukraine</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3062091/US-sees-Russia-directing-Ukraines-rebels.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-30T17:10:22Z</updated>
-    <published>2015-04-30T17:10:22Z</published>
-    <summary type="html">&lt;p&gt;"Some Russian military exercises have caught us by surprise and our textured feel for Russian involvement on the ground in Ukraine has been quite limited."&lt;/p&gt;</summary>
-    <dc:date>2015-04-30T17:10:22Z</dc:date>
   </entry>
   <entry>
     <title>US commander: Another Russian offensive possible in Ukraine after lull</title>

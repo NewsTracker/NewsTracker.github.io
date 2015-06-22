@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.S. accuses Syria of backing Islamic State's Aleppo advance</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3107241/U-S-accuses-Syria-backing-Islamic-States-Aleppo-advance.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-02T11:22:16Z</updated>
+    <published>2015-06-02T11:22:16Z</published>
+    <summary type="html">&lt;p&gt;In rebel-held Aleppo, a local council that helps run civilian affairs called on fighters to be ready for battle with Islamic State, the Observatory said on Tuesday, citing a statement.&lt;/p&gt;&lt;p&gt;Syrian officials have previously dismissed as nonsense allegations by Washington and Syrian opposition activists that the Syrian military has helped Islamic State's fight against rival Syrian insurgent forces.&lt;/p&gt;&lt;p&gt;It called on "all mujahideen" to respond to Islamic State fighters which it said were receiving "air cover from the regime."&lt;/p&gt;</summary>
+    <dc:date>2015-06-02T11:22:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State tightens grip on Ramadi</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-tightens-grip-on-ramadi-20150517-gh3ft1.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-17T06:43:18Z</updated>
+    <published>2015-05-17T06:43:18Z</published>
+    <summary type="html">&lt;p&gt;Iraqi officials and local officials said Islamic State fighters were combing through neighbourhoods in search of government employees and pro-government tribal fighters, and were conducting public executions.&lt;/p&gt;&lt;p&gt;In Iraq, the mayor of Ramadi, Mohammed Kubaisi, said Islamic State fighters had burned most of the government buildings they captured on Friday and then withdrew "out of fear of the American planes, which would easily be able to target government facilities".&lt;/p&gt;&lt;p&gt;Islamic State had besieged the city since January 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-05-17T06:43:18Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/3/l/d/f/image.related.articleLeadNarrow.300x0.gh3ft1.png/1431844980301.jpg" />
+  </entry>
+  <entry>
+    <title>Across Mideast, Islamic State group challenges al-Qaida, but veteran terror network adapts</title>
+    <link rel="alternate" href="http://www.startribune.com/world/302411941.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-04T13:15:32Z</updated>
+    <published>2015-05-04T13:15:32Z</published>
+    <summary type="html">&lt;p&gt;The approach was a stark contrast to al-Qaida's rival, the Islamic State group, notorious for its savagery.&lt;/p&gt;&lt;p&gt;In a competition with the Islamic State group for recruits and prestige across the Middle East, al-Qaida has sought to distinguish itself from its rival's bloodthirstiness, taking an approach that in jihadi circles would be considered pragmatic.&lt;/p&gt;&lt;p&gt;While the United States and the West might hope that the competition between al-Qaida and the Islamic State group would weaken two major militant threats, each is instead maneuvering to benefit from the region's turmoil.&lt;/p&gt;&lt;p&gt;The Islamic State group's gains over the past year have been sizeable.&lt;/p&gt;&lt;p&gt;Perhaps more importantly, the Islamic State group has a dynamism and fervor that has seemed to fade for al-Qaida.&lt;/p&gt;&lt;p&gt;Beyond its heartland in Syria and Iraq, the Islamic State group has planted flags across the map.&lt;/p&gt;</summary>
+    <dc:date>2015-05-04T13:15:32Z</dc:date>
+  </entry>
+  <entry>
     <title>A short chronology of the Islamic State group</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article25104442.html%23storylink=rss" />
     <author>
@@ -377,17 +411,6 @@
     <published>2015-06-02T12:00:14Z</published>
     <summary type="html">&lt;p&gt;Many of Iraq's minority Sunnis dislike hardline Sunni Islamic State but also fear the Shi'ite militias after years of bloody sectarian strife.&lt;/p&gt;&lt;p&gt;Prime Minister Haider al-Abadi, a moderate Shi'ite, can only persuade Sunni tribes to fight Islamic State if he demonstrates that he can control the powerful Shi'ite militias whose military muscle he now depends on.&lt;/p&gt;&lt;p&gt;"It is known, both internally and internationally, that the most effective force fighting ISIL (Islamic State) terrorists on the ground and in a direct manner are the peshmerga."&lt;/p&gt;</summary>
     <dc:date>2015-06-02T12:00:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>U.S. accuses Syria of backing Islamic State's Aleppo advance</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3107241/U-S-accuses-Syria-backing-Islamic-States-Aleppo-advance.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-02T11:22:16Z</updated>
-    <published>2015-06-02T11:22:16Z</published>
-    <summary type="html">&lt;p&gt;In rebel-held Aleppo, a local council that helps run civilian affairs called on fighters to be ready for battle with Islamic State, the Observatory said on Tuesday, citing a statement.&lt;/p&gt;&lt;p&gt;Syrian officials have previously dismissed as nonsense allegations by Washington and Syrian opposition activists that the Syrian military has helped Islamic State's fight against rival Syrian insurgent forces.&lt;/p&gt;</summary>
-    <dc:date>2015-06-02T11:22:16Z</dc:date>
   </entry>
   <entry>
     <title>Pentagon: Price tag for war on Islamic State is $2.7 billion, most of it for Air Force</title>
@@ -2526,18 +2549,6 @@
     <dc:date>2015-05-17T10:47:52Z</dc:date>
   </entry>
   <entry>
-    <title>Islamic State tightens grip on Ramadi</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-tightens-grip-on-ramadi-20150517-gh3ft1.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-17T06:43:18Z</updated>
-    <published>2015-05-17T06:43:18Z</published>
-    <summary type="html">&lt;p&gt;Iraqi officials and local officials said Islamic State fighters were combing through neighbourhoods in search of government employees and pro-government tribal fighters, and were conducting public executions.&lt;/p&gt;&lt;p&gt;In Iraq, the mayor of Ramadi, Mohammed Kubaisi, said Islamic State fighters had burned most of the government buildings they captured on Friday and then withdrew "out of fear of the American planes, which would easily be able to target government facilities".&lt;/p&gt;</summary>
-    <dc:date>2015-05-17T06:43:18Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/3/l/d/f/image.related.articleLeadNarrow.300x0.gh3ft1.png/1431844980301.jpg" />
-  </entry>
-  <entry>
     <title>U.S. conducts raid in Syria, says it kills senior Islamic State leader</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3084327/U-S-says-troops-kill-senior-Islamic-State-leader-raid.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -3463,17 +3474,6 @@
     <published>2015-05-04T17:44:16Z</published>
     <summary type="html">&lt;p&gt;Barry was a marabout, or important Islamic religious leader, in the 19th century who helped to spread Islam among the animists of central Mali.&lt;/p&gt;</summary>
     <dc:date>2015-05-04T17:44:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Across Mideast, Islamic State group challenges al-Qaida, but veteran terror network adapts</title>
-    <link rel="alternate" href="http://www.startribune.com/world/302411941.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-04T13:15:32Z</updated>
-    <published>2015-05-04T13:15:32Z</published>
-    <summary type="html">&lt;p&gt;The approach was a stark contrast to al-Qaida's rival, the Islamic State group, notorious for its savagery.&lt;/p&gt;&lt;p&gt;In a competition with the Islamic State group for recruits and prestige across the Middle East, al-Qaida has sought to distinguish itself from its rival's bloodthirstiness, taking an approach that in jihadi circles would be considered pragmatic.&lt;/p&gt;&lt;p&gt;While the United States and the West might hope that the competition between al-Qaida and the Islamic State group would weaken two major militant threats, each is instead maneuvering to benefit from the region's turmoil.&lt;/p&gt;&lt;p&gt;The Islamic State group's gains over the past year have been sizeable.&lt;/p&gt;&lt;p&gt;Perhaps more importantly, the Islamic State group has a dynamism and fervor that has seemed to fade for al-Qaida.&lt;/p&gt;</summary>
-    <dc:date>2015-05-04T13:15:32Z</dc:date>
   </entry>
   <entry>
     <title>Egypt charges 40 over allegedly being Islamic State members</title>

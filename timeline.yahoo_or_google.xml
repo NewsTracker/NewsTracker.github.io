@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>JD Martinez hits 3 HRs, Tigers tag Tanaka and top Yanks 12-4 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/jd-martinez-hits-3-hrs-tigers-tag-tanaka-203218863--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T21:14:37Z</updated>
+    <published>2015-06-21T21:14:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-21T21:14:37Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>A-Rod homers for 3,000th hit; 29th player to reach milestone (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/alex-rodriguez-homers-3-000th-hit-29th-player-233611613--mlb.html" />
     <author>

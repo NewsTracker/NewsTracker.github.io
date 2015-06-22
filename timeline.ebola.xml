@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ebola patient thanks hospital staff</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/pa/article-3014749/Ebola-scare-worker-leaves-hospital.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-27T17:05:22Z</updated>
+    <published>2015-03-27T17:05:22Z</published>
+    <summary type="html">&lt;p&gt;An Army Reservist who has been discharged from hospital after being successfully treated for Ebola said it was thanks to medical staff that she is alive.&lt;/p&gt;&lt;p&gt;She joined the Army Reserves in 2013 as a staff nurse and volunteered to help care for Ebola patients in Sierra Leone, arriving there last month.&lt;/p&gt;</summary>
+    <dc:date>2015-03-27T17:05:22Z</dc:date>
+    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/article-P-6639b21f-c887-4a3f-ad42-29a75c4feea3-6XLVMyUJUHSK2-776_634x356.jpg" />
+  </entry>
+  <entry>
     <title>Tekmira says Ebola drug unlikely to work in study</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/19/tekmira-stops-adding-patients-in-african-study-of-ebola-drug" />
     <author>
@@ -1790,18 +1802,6 @@
     <published>2015-03-27T17:20:28Z</published>
     <summary type="html">&lt;p&gt;LONDON (Reuters) - A 25-year-old British military nurse who was the first person in the world to be treated for Ebola with the experimental drug MIL 77 was discharged from hospital on Friday, London's Royal Free Hospital said.&lt;/p&gt;&lt;p&gt;The Chinese-made MIL 77 is a close relative of another experimental medicine ZMapp - which British nurse William Pooley received when he was treated at the Royal Free for Ebola last year.&lt;/p&gt;</summary>
     <dc:date>2015-03-27T17:20:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ebola patient thanks hospital staff</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/pa/article-3014749/Ebola-scare-worker-leaves-hospital.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-27T17:05:22Z</updated>
-    <published>2015-03-27T17:05:22Z</published>
-    <summary type="html">&lt;p&gt;An Army Reservist who has been discharged from hospital after being successfully treated for Ebola said it was thanks to medical staff that she is alive.&lt;/p&gt;</summary>
-    <dc:date>2015-03-27T17:05:22Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/article-P-6639b21f-c887-4a3f-ad42-29a75c4feea3-6XLVMyUJUHSK2-776_634x356.jpg" />
   </entry>
   <entry>
     <title>Sierra Leoneans to stay home in final push to stop Ebola</title>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Netanyahu rejects French-led Palestine peace plan</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-22/netanyahu-rejects-french-led-palestine-peace-plan/6562274" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T19:53:01Z</updated>
+    <published>2015-06-21T19:53:01Z</published>
+    <summary type="html">&lt;p&gt;"In the international proposals that have been suggested to us - which they are actually trying to force upon us - there is no real reference to Israel's security needs or our other national interests," Mr Netanyahu said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T19:53:01Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6562276-3x2-340x227.jpg" />
+  </entry>
+  <entry>
     <title>Netanyahu gives cool reception to French peace initiative</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/police-israeli-police-officer-stabbed-in-jerusalem/nmhYC/" />
     <author>
