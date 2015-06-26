@@ -4,6 +4,85 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google's new self-driving cars cruising Silicon Valley roads</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-s-new-self-driving-cars-cruising-Silicon-6349564.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T21:03:53Z</updated>
+    <published>2015-06-25T21:03:53Z</published>
+    <summary type="html">&lt;p&gt;California's Department of Motor Vehicles have given Google permission to send up to 25 of its latest self-driving cars on neighborhood roads.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T21:03:53Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/37/25/33/8214215/5/628x471.jpg" />
+  </entry>
+  <entry>
+    <title>Google's new self-driving cars cruising Silicon Valley roads</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11471426&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T19:15:21Z</updated>
+    <published>2015-06-25T19:15:21Z</published>
+    <summary type="html">&lt;p&gt;This marks the first time that the pod-like, two seat vehicles have been allowed on public roads since Google unveiled the next generation of its self-driving fleet more than a year ago.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T19:15:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google's New Self-Driving Cars Cruising Silicon Valley Roads</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/googles-driving-cars-cruising-silicon-valley-roads-32031420" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T19:12:23Z</updated>
+    <published>2015-06-25T19:12:23Z</published>
+    <summary type="html">&lt;p&gt;The latest models of Google's self-driving cars are now cruising the streets near the Internet company's Silicon Valley headquarters in a test of how they work around other vehicles driven by people.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T19:12:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google makes a big bet on... Alabama?</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/google-makes-big-bet-alabama-232233891.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-24T23:22:33Z</updated>
+    <published>2015-06-24T23:22:33Z</published>
+    <summary type="html">&lt;p&gt;Google has emphasized using clean energy to power the centers.&lt;/p&gt;</summary>
+    <dc:date>2015-06-24T23:22:33Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/0Mgm.DnF3vLpFkNJPbTddA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en-US/homerun/cnbc.com/34133eea8e7940259e09b28d21b4fb73" />
+  </entry>
+  <entry>
+    <title>Virtually climb El Capitan with Google's first vertical Street View</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/bluesky/technology/la-fi-tn-google-vertical-street-view-20150624-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-24T16:47:00Z</updated>
+    <published>2015-06-24T16:47:00Z</published>
+    <summary type="html">&lt;p&gt;Lynn Hill is one of the climbers featured in Google's vertical Street View of El Capitan in Yosemite National Park.&lt;/p&gt;&lt;p&gt;Google Maps has announced its first vertical Street View, giving people the opportunity to virtually climb El Capitan in Yosemite National Park.&lt;/p&gt;</summary>
+    <dc:date>2015-06-24T16:47:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ruth Porat leaving Morgan Stanley for Google</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/03/24/ruth-porat-leaving-morgan-stanley-for-google" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-24T20:56:48Z</updated>
+    <published>2015-03-24T20:56:48Z</published>
+    <summary type="html">&lt;p&gt;Google's shares rose as much as 2.5% on Tuesday after Porat's appointment was announced by both companies.&lt;/p&gt;&lt;p&gt;Total compensation to Google's departing CFO was twice as much as Porat's for the three years through 2013 - US$62.2 million vs. $29.6 million, according to public filings by the companies.&lt;/p&gt;</summary>
+    <dc:date>2015-03-24T20:56:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Judge puts Mississippi AG's investigation of Google on hold</title>
+    <link rel="alternate" href="http://news.yahoo.com/judge-puts-ags-attempt-investigate-google-hold-175530692.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-02T19:27:10Z</updated>
+    <published>2015-03-02T19:27:10Z</published>
+    <summary type="html">&lt;p&gt;Hood's office has said it's only working with people and companies harmed by problems with Google services.&lt;/p&gt;</summary>
+    <dc:date>2015-03-02T19:27:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Google's latest project: reinventing cities</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28297510/googles-latest-project-reinventing-cities?source=rss" />
     <author>
@@ -2624,7 +2703,7 @@
     <media:content url="http://s1.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150402&amp;amp;t=2&amp;amp;i=1037457334&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB310RA" />
   </entry>
   <entry>
-    <title>Google makes people think they?re smarter</title>
+    <title>Google makes people think they’re smarter</title>
     <link rel="alternate" href="http://www.news.com.au/technology/home-entertainment/a-new-study-has-found-internet-access-makes-you-think-youre-smarter-than-you-really-are/story-fnjwukfu-1227289772019?from=public_rss" />
     <author>
       <name />
@@ -2836,7 +2915,7 @@
     <media:content url="http://i.dailymail.co.uk/i/pix/2015/03/27/11/19421765000005DC-0-image-m-21_1427454665393.jpg" />
   </entry>
   <entry>
-    <title>If you use Safari on a Mac, iPhone or iPad in the UK ? you've won the right to SUE Google</title>
+    <title>If you use Safari on a Mac, iPhone or iPad in the UK – you've won the right to SUE Google</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/566819/Google-Court-of-Appeal-MacBook-iPhone-iPad-UK-Sue-Litigation?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-life-and-style-news+%28Daily+Express+%3A%3A+Life+%26+Style+Feed%29" />
     <author>
       <name />
@@ -2940,7 +3019,7 @@
     <media:content url="http://storage.canoe.ca/v1/dynamic_resize/?src=http://technology.canoe.ca/News/2015/03/25/googlecars650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
   </entry>
   <entry>
-    <title>Cubs? Jackson blames Google Maps for missing start</title>
+    <title>Cubs’ Jackson blames Google Maps for missing start</title>
     <link rel="alternate" href="http://nypost.com/2015/03/25/cubs-jackson-blames-google-maps-for-missing-start/" />
     <author>
       <name />
@@ -3341,17 +3420,6 @@
     <summary type="html">&lt;p&gt;Google and Facebook want more people online, searching around and clicking on ads.&lt;/p&gt;&lt;p&gt;Earlier, Pichai announced Google's plans to start testing the use of solar-powered drone aircraft as "floating cell towers" that could bring coverage to remote areas or even disaster zones.&lt;/p&gt;&lt;p&gt;He also said that Google's "Project Loon" - which uses high-altitude air balloons to provide coverage for rural areas - had advanced to the point that the balloons are expected to be ready in two years.&lt;/p&gt;</summary>
     <dc:date>2015-03-02T21:44:59Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/926d82f/2147483647/thumbnail/55x55/quality/85/?url=%2Fcmsmedia%2Ff9%2Fc6%2F77b52fad43989c86af1be633e5ca%2Fgoogle-icon.png" />
-  </entry>
-  <entry>
-    <title>Judge puts Mississippi AG's investigation of Google on hold</title>
-    <link rel="alternate" href="http://news.yahoo.com/judge-puts-ags-attempt-investigate-google-hold-175530692.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-02T19:27:10Z</updated>
-    <published>2015-03-02T19:27:10Z</published>
-    <summary type="html" />
-    <dc:date>2015-03-02T19:27:10Z</dc:date>
   </entry>
   <entry>
     <title>Google says it plans to offer cellular service</title>

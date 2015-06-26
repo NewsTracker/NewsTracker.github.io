@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>AT&amp;T to Spend $3B on Expanding Iusacell Network in Mexico</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/att-spend-3b-expanding-iusacell-network-mexico-32034825" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T20:58:56Z</updated>
+    <published>2015-06-25T20:58:56Z</published>
+    <summary type="html">&lt;p&gt;AT&amp;T spent about $4.4 billion to buy both Iusacell and the Nextel Mexico mobile system between November and January.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T20:58:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>AT&amp;T to invest $3 billion in expanding newly acquired Iusacell mobile phone network in Mexico</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/06/25/att-to-invest-3-billion-in-expanding-newly-acquired-iusacell-mobile-phone/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T20:58:05Z</updated>
+    <published>2015-06-25T20:58:05Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - AT&amp;T Inc. plans to invest about $3 billion to build up its recently acquired Iusacell mobile phone network in Mexico.&lt;/p&gt;&lt;p&gt;Iusacell announced Thursday that the plan will extend voice and data services to cover about 100 million people in Mexico by 2018.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T20:58:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Univision Cancels Miss USA Over Donald Trump's Mexico Comments</title>
+    <link rel="alternate" href="http://www.npr.org/2015/06/25/417516490/univision-cancels-miss-usa-over-donald-trumps-mexico-comments?utm_medium=RSS&amp;amp;utm_campaign=storiesfromnpr" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T20:37:18Z</updated>
+    <published>2015-06-25T20:37:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-25T20:37:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Body of ex-White House chef found in New Mexico: Reports</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/06/22/body-of-ex-white-house-chef-found-in-new-mexico-reports" />
     <author>
@@ -72,14 +105,13 @@
     <dc:date>2015-06-11T20:49:57Z</dc:date>
   </entry>
   <entry>
-    <title>Hurricane Blanca downgraded as it nears Mexico's Baja California</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/07/us-storm-blanca-mexico-idUSKBN0ON0OA20150607?feedType=RSS&amp;amp;feedName=environmentNews" />
+    <title>&lt;p&gt;CABO SAN LUCAS, Mexico Hurricane Blanca weakened to a Category 1 storm on Sunday as it approached Mexico's Baja California peninsula, according to the latest update from the U.S. National Hurricane Center (NHC).&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
     <author>
       <name />
     </author>
     <updated>2015-06-07T19:59:53Z</updated>
     <published>2015-06-07T19:59:53Z</published>
-    <summary type="html">&lt;p&gt;CABO SAN LUCAS, Mexico Hurricane Blanca weakened to a Category 1 storm on Sunday as it approached Mexico's Baja California peninsula, according to the latest update from the U.S. National Hurricane Center (NHC).&lt;/p&gt;</summary>
     <dc:date>2015-06-07T19:59:53Z</dc:date>
   </entry>
   <entry>
@@ -837,28 +869,24 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Hurricane Blanca nears Mexico's Baja California peninsula</title>
-    <link rel="alternate" href="http://news.yahoo.com/hurricane-blanca-nears-mexicos-baja-california-peninsula-040150542.html" />
+    <title>&lt;p&gt;Mexico's National Water Commission warned of strong winds, thunderstorms and "extraordinary rainfall," with possible localized accumulations of 10 inches (250 millimeters) or more in Baja California Sur state, which is home to Los Cabos.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
     <author>
       <name />
     </author>
     <updated>2015-06-07T19:59:34Z</updated>
     <published>2015-06-07T19:59:34Z</published>
-    <summary type="html">&lt;p&gt;Mexico's National Water Commission warned of strong winds, thunderstorms and "extraordinary rainfall," with possible localized accumulations of 10 inches (250 millimeters) or more in Baja California Sur state, which is home to Los Cabos.&lt;/p&gt;</summary>
     <dc:date>2015-06-07T19:59:34Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/tqSCZoBMntvfvFIraec5Fw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/8acaa4c6714eba19780f6a7067005c20.jpg" />
   </entry>
   <entry>
-    <title>Hurricane Blanca nears Mexico's Baja California peninsula</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Hurricane-Blanca-nears-Mexico-s-Baja-California-6311933.php" />
+    <title />
+    <link rel="alternate" href="" />
     <author>
       <name />
     </author>
     <updated>2015-06-07T19:59:19Z</updated>
     <published>2015-06-07T19:59:19Z</published>
-    <summary type="html" />
     <dc:date>2015-06-07T19:59:19Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/36/74/43/8112363/7/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Hurricane Blanca weakens as it nears Baja California</title>
@@ -3516,7 +3544,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Stanford?s Morris scores as U.S. tops Mexico</title>
+    <title>Stanford’s Morris scores as U.S. tops Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Barcelona-gets-leg-up-on-Paris-Saint-Germain-6202645.php" />
     <author>
       <name />
@@ -4594,7 +4622,7 @@
     <dc:date>2015-03-30T16:22:56Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />
@@ -4606,7 +4634,7 @@
     <media:content url="https://nationalpostcom.files.wordpress.com/2015/03/climate1.jpg?w=620" />
   </entry>
   <entry>
-    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts ? leaving Canada on the sidelines</title>
+    <title>Mexico and U.S. agree to co-operate on greenhouse gas cuts — leaving Canada on the sidelines</title>
     <link rel="alternate" href="http://news.nationalpost.com/2015/03/30/mexico-and-u-s-agree-to-co-operate-on-greenhouse-gas-cuts-leaving-canada-on-the-sidelines/" />
     <author>
       <name />

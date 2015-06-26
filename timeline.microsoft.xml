@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>In Tech: Microsoft Office comes to Android, Foursquare brings back mayors</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/in-tech-microsoft-office-comes-to-android-foursquare-brings-back-mayors-1.2439566" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T11:59:35Z</updated>
+    <published>2015-06-25T11:59:35Z</published>
+    <summary type="html">&lt;p&gt;There are still no comparable apps for phones and tablets running Microsoft's own Windows system, though that will change once Windows 10 gets released next month.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T11:59:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft Office finally available for Android</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/24/microsoft-office-finally-available-for-android" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-24T18:32:12Z</updated>
+    <published>2015-06-24T18:32:12Z</published>
+    <summary type="html">&lt;p&gt;Well, you're in luck, because Microsoft Office apps for Android are now available, the company said in a blog post on Wednesday.&lt;/p&gt;&lt;p&gt;For full access, users need a Microsoft Office 365 subscription.&lt;/p&gt;</summary>
+    <dc:date>2015-06-24T18:32:12Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297716290062_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Fin24.com | Microsoft buys start-up behind Wunderlist</title>
     <link rel="alternate" href="http://www.fin24.com/Tech/News/Microsoft-buys-start-up-behind-Wunderlist-20150603" />
     <author>

@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Yahoo's Stamos joining Facebook as its chief security officer</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/yahoo-s-stamos-joining-facebook-as-its-chief-security-officer-1.2439714" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T13:21:08Z</updated>
+    <published>2015-06-25T13:21:08Z</published>
+    <summary type="html">&lt;p&gt;Alex Stamos said in a Facebook post that he will be joining the social networking company on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T13:21:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Yahoo's Stamos to become Facebook's chief security officer</title>
+    <link rel="alternate" href="http://www.chron.com/business/article/Yahoo-s-Sullivan-to-become-Facebook-s-chief-6348486.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T12:36:06Z</updated>
+    <published>2015-06-25T12:36:06Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - Yahoo's cybersecurity chief says he's heading to Facebook to become its chief security officer.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T12:36:06Z</dc:date>
+    <media:content url="ww.chron.com/img/hdn/share/fb_share_2.png" />
+  </entry>
+  <entry>
+    <title>Fin24.com | Facebook allows phone number sign up for Messenger</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Facebook-allows-phone-number-sign-up-for-Messenger-20150625" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T07:07:26Z</updated>
+    <published>2015-06-25T07:07:26Z</published>
+    <summary type="html">&lt;p&gt;With the latest update, users will be prompted by an option that says "Not on Facebook?" when they open the app.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T07:07:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Mom, 33, arrested on terrorism charges and banned from social media for Facebook rant that called for 'Death to all white cops nationwide' as Baltimore protests erupted into riots</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/news/article-3061971/Mom-33-arrested-terrorism-charges-banned-social-media-Facebook-rant-called-Death-white-cops-nationwide-Baltimore-protests-erupted-riots.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
@@ -1791,7 +1825,7 @@
     <media:content url="http://www.fbnstatic.com/static/managed/img/fb2/news/facebook-app-screen.jpg" />
   </entry>
   <entry>
-    <title>Facebook Inc expands Messenger app features ?to reinvent the way people are communicating?</title>
+    <title>Facebook Inc expands Messenger app features ‘to reinvent the way people are communicating’</title>
     <link rel="alternate" href="http://business.financialpost.com/2015/03/25/facebook-inc-expands-messenger-app-features-to-reinvent-the-way-people-are-communicating/" />
     <author>
       <name />

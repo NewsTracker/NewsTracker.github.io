@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tsarnaev apologizes for Boston Marathon bombing</title>
+    <link rel="alternate" href="http://www.boston.com/news/local/massachusetts/2015/06/24/valencia-tsarnaev-apologizes-for-boston-marathon-bombing/ZLFsxeexMCs5Y0i6XSQH8I/video.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-24T22:44:12Z</updated>
+    <published>2015-06-24T22:44:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-24T22:44:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Tsarnaev friend to be sentenced for misleading investigators after Boston Marathon bombing</title>
     <link rel="alternate" href="http://www.foxnews.com/us/2015/06/14/tsarnaev-friend-to-be-sentenced-for-misleading-investigators-after-boston/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
     <author>
@@ -188,7 +199,7 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>2 Years After Marathon Bombing, We Are ?One Boston?</title>
+    <title>2 Years After Marathon Bombing, We Are ‘One Boston’</title>
     <link rel="alternate" href="http://www.boston.com/news/nation/2015/04/14/years-after-marathon-bombing-are-one-boston/tXG3B3BHGbom32peICnZCL/story.html" />
     <author>
       <name />

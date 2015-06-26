@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Israel's Netanyahu says better Iran deal still possible</title>
+    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/25/israels-netanyahu-says-better-iran-deal-still/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T17:03:53Z</updated>
+    <published>2015-06-25T17:03:53Z</published>
+    <summary type="html">&lt;p&gt;Netanyahu has dubbed it a "bad deal," saying it would leave Iran with the ability to rapidly obtain nuclear weapons.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T17:03:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Netanyahu rejects French-led Palestine peace plan</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-06-22/netanyahu-rejects-french-led-palestine-peace-plan/6562274" />
     <author>
