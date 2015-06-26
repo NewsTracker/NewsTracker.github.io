@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft Corp reveals gigantic US$20,000 84-inch Surface Hub designed for conferencing</title>
+    <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/microsoft-corp-reveals-gigantic-us20000-84-inch-surface-for-conferencing" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T21:02:09Z</updated>
+    <published>2015-06-10T21:02:09Z</published>
+    <summary type="html">&lt;p&gt;It will run a custom version of Windows 10, Microsoft's new operating system due out in late July.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T21:02:09Z</dc:date>
+    <media:content url="http://wpmedia.business.financialpost.com/2015/06/surface.png?w=620" />
+  </entry>
+  <entry>
     <title>In Tech: Microsoft Office comes to Android, Foursquare brings back mayors</title>
     <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/in-tech-microsoft-office-comes-to-android-foursquare-brings-back-mayors-1.2439566" />
     <author>

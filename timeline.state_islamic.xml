@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Vladimir Putin calls Barack Obama to discuss Ukraine and Islamic State</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/vladimir-putin/11700224/Vladimir-Putin-calls-Barack-Obama-to-discuss-Ukraine-and-Islamic-State.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T23:42:53Z</updated>
+    <published>2015-06-25T23:42:53Z</published>
+    <summary type="html">&lt;p&gt;Obama and Putin also discussed Syria, where the self-proclaimed Islamic State group has made rapid gains, as well as historic negotiations between world powers and Iran over its disputed nuclear programme.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T23:42:53Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/02637/obama-putin_2637988b.jpg" />
+  </entry>
+  <entry>
     <title>Islamic State Militants Attack 2 Cities in Northern Syria</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/turk-officials-islamic-state-group-attack-kobani-32014335" />
     <author>

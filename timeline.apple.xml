@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple removing games with Confederate flag from App Store</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11471647&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-26T00:25:18Z</updated>
+    <published>2015-06-26T00:25:18Z</published>
+    <summary type="html">&lt;p&gt;Apple Inc., which is based in Cupertino, California, is the latest company to distance itself from the divisive symbol after the shooting suspect, Dylann Storm Roof, appeared in photos holding the flag.&lt;/p&gt;</summary>
+    <dc:date>2015-06-26T00:25:18Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201526/flag_140x9390303.jpg" />
+  </entry>
+  <entry>
     <title>Apple pulls Confederate flag-bearing Civil War games from App Store</title>
     <link rel="alternate" href="http://money.cnn.com/2015/06/25/technology/apple-pulls-civil-war-games/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fmoney_latest+%28CNNMoney%3A+Latest+News%29" />
     <author>

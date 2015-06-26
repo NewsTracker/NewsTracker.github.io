@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.formula_1_or_f1.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>After hiccup in Monaco, Mercedes F1 success resumes</title>
+    <link rel="alternate" href="http://www.miamiherald.com/sports/article23484544.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T06:35:46Z</updated>
+    <published>2015-06-08T06:35:46Z</published>
+    <summary type="html">&lt;p&gt;But the four-time F1 champion steadily moved up and solidified his hold on third in the standings, with 108 points.&lt;/p&gt;&lt;p&gt;"Did I need this?" the reigning Formula One champion asked the cheering crowd after returning to the top of the podium for the first time since winning three of the first four races of the season.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T06:35:46Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Rosberg wins Austrian F1 from Hamilton</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au//breaking-news-sport/rosberg-wins-austrian-f1-from-hamilton-20150622-3y5a4.html" />
     <author>
@@ -84,18 +96,6 @@
     <summary type="html">&lt;p&gt;"If we are totally dissatisfied we could contemplate an F1 exit," said Helmut Marko, the on-track point-man for Red Bull owner Dietrich Mateschitz.&lt;/p&gt;&lt;p&gt;The latter may have the edge given that Ferrari - the tiebreaker in all such disputes in F1 - has little appetite for a political fight at this stage.&lt;/p&gt;&lt;p&gt;The only thing that could keep Mercedes from running away with the Formula One title again this year lies off the track, not on it.&lt;/p&gt;</summary>
     <dc:date>2015-03-18T12:37:59Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>After hiccup in Monaco, Mercedes F1 success resumes</title>
-    <link rel="alternate" href="http://www.miamiherald.com/sports/article23484544.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T06:35:46Z</updated>
-    <published>2015-06-08T06:35:46Z</published>
-    <summary type="html">&lt;p&gt;But the four-time F1 champion steadily moved up and solidified his hold on third in the standings, with 108 points.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T06:35:46Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>F1 leader Lewis Hamilton wins Canadian Grand Prix</title>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>France mulls offering asylum to Julian Assange and Edward Snowden</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/france-mulls-offering-asylum-to-julian-assange-and-edward-snowden-20150626-ghyg7i.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-26T03:49:44Z</updated>
+    <published>2015-06-26T03:49:44Z</published>
+    <summary type="html">&lt;p&gt;"If France decides to offer asylum to Edward Snowden and Julian Assange, I wouldn't be surprised. It's a possibility," Ms Taubira said in a television interview.&lt;/p&gt;&lt;p&gt;Although WikiLeaks has not indicated the source of the leaked material, the disclosures suggest the group has obtained access to the massive trove of intelligence material leaked by Mr Snowden in May 2013 or else other US intelligence material of similar sensitivity and importance.&lt;/p&gt;</summary>
+    <dc:date>2015-06-26T03:49:44Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/h/r/y/q/k/image.related.articleLeadwide.620x349.ghyg7i.png/1435290572734.jpg" />
+  </entry>
+  <entry>
     <title>Russia, China crack secret Snowden files: Report</title>
     <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/06/14/22452086.html?cid=rssnewsworld" />
     <author>
