@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>England eliminates host Canada in World Cup Q-final, 2-1 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/england-eliminates-host-canada-world-cup-q-final-013032759--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-28T03:40:30Z</updated>
+    <published>2015-06-28T03:40:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-28T03:40:30Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/RTOngiSunHMssF3kLtddAA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506272055753138044" />
+  </entry>
+  <entry>
+    <title>Marlins' slugger Stanton out 4-6 weeks with broken hand (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-stanton-4-6-weeks-broken-hand-152850587--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-27T18:48:01Z</updated>
+    <published>2015-06-27T18:48:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-27T18:48:01Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/RKkBO1TDtUCaj2W_2Lvopw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://d.yimg.com/hd/mlbcom/7/1/0ab30869-87a0-46f9-8239-4fc93e138c66_QcH5hRgkD8TIek8olIS5RKZW3CVqMwSKVFST_ghdtuW-kSvUrclKYuuCYOWtuugBe8G0o1cD1nY-_2_0.jpg?s=dffe8511ff28d52f0060b2ddd581aeb9&amp;amp;c=ac0ff3a941d240a3dd54b866a9ca8ab1&amp;amp;a=mlbcom&amp;amp;mr=0" />
+  </entry>
+  <entry>
     <title>NFL players union complains about Pats disciplining Butler (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/nfl-players-union-complains-pats-disciplining-butler-203738371--nfl.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Quake-hit Nepal reopens damaged heritage sites for tourists</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article24391621.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-15T08:02:05Z</updated>
+    <published>2015-06-15T08:02:05Z</published>
+    <summary type="html">&lt;p&gt;The April 25 and May 12 quakes killed more than 8,700 people and damaged hundreds of thousands of buildings in Nepal, including old temples, palaces and other historical structures that are popular with tourists.&lt;/p&gt;&lt;p&gt;"We are urging people to come to Nepal for holiday to help Nepal rebuild," Sherpa said in Bhaktapur, a city filled with ancient temples that is among the reopened heritage sites.&lt;/p&gt;&lt;p&gt;Bhesh Narayan Dahal, chief of Nepal's Department of Archaeology, said that measures have been taken to ensure that tourists are safe, and that there are plans to provide safety helmets for visitors in some places.&lt;/p&gt;</summary>
+    <dc:date>2015-06-15T08:02:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Behind Nepal's Shangri-la image, poverty and misery</title>
     <link rel="alternate" href="http://news.yahoo.com/behind-nepals-shangri-la-image-poverty-misery-040214827.html" />
     <author>
@@ -25,17 +36,6 @@
     <published>2015-06-15T08:49:00Z</published>
     <summary type="html">&lt;p&gt;Tourists fled Nepal after the first quake, but it also is currently rainy season, a time when relatively few foreign visitors are usually around.&lt;/p&gt;</summary>
     <dc:date>2015-06-15T08:49:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Quake-hit Nepal reopens damaged heritage sites for tourists</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article24391621.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T08:02:05Z</updated>
-    <published>2015-06-15T08:02:05Z</published>
-    <summary type="html">&lt;p&gt;The April 25 and May 12 quakes killed more than 8,700 people and damaged hundreds of thousands of buildings in Nepal, including old temples, palaces and other historical structures that are popular with tourists.&lt;/p&gt;&lt;p&gt;"We are urging people to come to Nepal for holiday to help Nepal rebuild," Sherpa said in Bhaktapur, a city filled with ancient temples that is among the reopened heritage sites.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T08:02:05Z</dc:date>
   </entry>
   <entry>
     <title>Quake-hit Nepal reopens damaged heritage sites for tourists</title>

@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA election monitor urges Blatter to commit to going</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article25701787.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-28T13:51:04Z</updated>
+    <published>2015-06-28T13:51:04Z</published>
+    <summary type="html">&lt;p&gt;Sepp Blatter got a clear message on Sunday from FIFA election monitor Domenico Scala to end speculation he wants to stay in office.&lt;/p&gt;</summary>
+    <dc:date>2015-06-28T13:51:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Former Brazil star Zico wants to run for FIFA president</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article23684263.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T04:35:04Z</updated>
+    <published>2015-06-11T04:35:04Z</published>
+    <summary type="html">&lt;p&gt;Marin was one of seven top soccer officials arrested two weeks ago in connection with the growing bribery and corruption scandal surrounding FIFA.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T04:35:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>FIFA-financed movie nets only $900 in limited US release</title>
+    <link rel="alternate" href="http://news.yahoo.com/fifa-financed-movie-nets-only-900-limited-us-212937491--spt.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-08T22:38:03Z</updated>
+    <published>2015-06-08T22:38:03Z</published>
+    <summary type="html">&lt;p&gt;Made for about $30 million and largely bankrolled by FIFA to trumpet the soccer federation's 111-year history, "United Passions" had no expectations of drawing crowds.&lt;/p&gt;&lt;p&gt;But the minuscule result still was a striking repudiation of a high-priced FIFA puff piece starring Tim Roth as FIFA President Sepp Blatter, who announced last week that he will resign.&lt;/p&gt;&lt;p&gt;The film's U.S. release was planned months before a Justice Department investigation alleged rampant corruption throughout FIFA and indicted 14 FIFA officials and soccer marketing executives.&lt;/p&gt;&lt;p&gt;The movie, which also stars Gerard Depardieu as World Cup creator Jules Rimet and Sam Neill as former FIFA president Joao Havelange, gives a generally rosy view of the scandal-plagued FIFA.&lt;/p&gt;&lt;p&gt;"United Passions" already was a huge write down for FIFA.&lt;/p&gt;</summary>
+    <dc:date>2015-06-08T22:38:03Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/3Fi8pnj2i4rBSEvxJLX.oQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/c05e10ddf5266f18780f6a7067009211.jpg" />
+  </entry>
+  <entry>
     <title>Ben Affleck to Produce FIFA Scandal Film</title>
     <link rel="alternate" href="https://www.yahoo.com/movies/ben-affleck-to-produce-fifa-scandal-film-122508591867.html?src=rss" />
     <author>
@@ -888,18 +923,6 @@
     <published>2015-05-30T23:06:59Z</published>
     <summary type="html">&lt;p&gt;Gone was the tension which put a tremor in his voice after Swiss police raided FIFA's favorite luxury hotel in Zurich early Wednesday.&lt;/p&gt;</summary>
     <dc:date>2015-05-30T23:06:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA-financed movie nets only $900 in limited US release</title>
-    <link rel="alternate" href="http://news.yahoo.com/fifa-financed-movie-nets-only-900-limited-us-212937491--spt.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T22:38:03Z</updated>
-    <published>2015-06-08T22:38:03Z</published>
-    <summary type="html">&lt;p&gt;Made for about $30 million and largely bankrolled by FIFA to trumpet the soccer federation's 111-year history, "United Passions" had no expectations of drawing crowds.&lt;/p&gt;&lt;p&gt;But the minuscule result still was a striking repudiation of a high-priced FIFA puff piece starring Tim Roth as FIFA President Sepp Blatter, who announced last week that he will resign.&lt;/p&gt;&lt;p&gt;The film's U.S. release was planned months before a Justice Department investigation alleged rampant corruption throughout FIFA and indicted 14 FIFA officials and soccer marketing executives.&lt;/p&gt;&lt;p&gt;The movie, which also stars Gerard Depardieu as World Cup creator Jules Rimet and Sam Neill as former FIFA president Joao Havelange, gives a generally rosy view of the scandal-plagued FIFA.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T22:38:03Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/3Fi8pnj2i4rBSEvxJLX.oQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/c05e10ddf5266f18780f6a7067009211.jpg" />
   </entry>
   <entry>
     <title>FIFA-financed movie nets only $900 in limited US release</title>

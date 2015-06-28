@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore police partially identify officers who killed unarmed man</title>
+    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/06/27/22476531.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-27T23:58:20Z</updated>
+    <published>2015-06-27T23:58:20Z</published>
+    <summary type="html">&lt;p&gt;Officers shot 41-year-old Spencer McCain Thursday in Owings Mills, about 15 miles northwest of Baltimore.&lt;/p&gt;</summary>
+    <dc:date>2015-06-27T23:58:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore police open probe into new shooting of unarmed black man</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/27/us-usa-baltimore-shooting-idUSKBN0P70TZ20150627?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-27T18:36:24Z</updated>
+    <published>2015-06-27T18:36:24Z</published>
+    <summary type="html">&lt;p&gt;Baltimore County Police Department salary records show Shenell Wilkes, Jonathan Besaw and Shannon Stargel as the only employees with those last names.&lt;/p&gt;</summary>
+    <dc:date>2015-06-27T18:36:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Records show worries over mental stability of Baltimore officer suspended in fatal incident</title>
+    <link rel="alternate" href="http://www.startribune.com/nation/302101921.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-01T07:20:51Z</updated>
+    <published>2015-05-01T07:20:51Z</published>
+    <summary type="html">&lt;p&gt;Baltimore police were made aware of worries that Rice might pose a risk to himself or others, according to the April 2012 sheriff's report.&lt;/p&gt;</summary>
+    <dc:date>2015-05-01T07:20:51Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore erupts in riots after funeral of man who died in police custody</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/28/us-usa-police-baltimore-idUSKBN0NI1N720150428?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-28T03:20:58Z</updated>
+    <published>2015-04-28T03:20:58Z</published>
+    <summary type="html">&lt;p&gt;Police made at least 27 arrests and Baltimore schools will be shut Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-04-28T03:20:58Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150427&amp;amp;i=107316774&amp;amp;w=240&amp;amp;r=107316774-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Baltimore County police kill unarmed man after suicide threat</title>
     <link rel="alternate" href="http://www.foxnews.com/us/2015/06/26/baltimore-county-police-kill-unarmed-man-after-suicide-threat/" />
     <author>

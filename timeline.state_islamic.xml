@@ -4,6 +4,61 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mali: Gunmen attack village near Ivory Coast border</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/28/mali-gunmen-attack-village-near-ivory-coast-border" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-28T17:31:47Z</updated>
+    <published>2015-06-28T17:31:47Z</published>
+    <summary type="html">&lt;p&gt;Islamic extremists took control of northern Mali in 2012 following a military coup.&lt;/p&gt;</summary>
+    <dc:date>2015-06-28T17:31:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mali: Gunmen attack village near Ivory Coast border</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11472695&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-28T17:25:16Z</updated>
+    <published>2015-06-28T17:25:16Z</published>
+    <summary type="html">&lt;p&gt;BAMAKO, Mali (AP) " Gunmen identifying as Islamic extremists attacked and briefly occupied a village in southern Mali near Ivory Coast on Sunday before security forces drove them out, officials said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-28T17:25:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Afghan official: Islamic State group now present in 3 provinces</title>
+    <link rel="alternate" href="http://www.startribune.com/afghan-official-is-group-present-in-at-least-3-provinces/310449971/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-28T12:10:10Z</updated>
+    <published>2015-06-28T12:10:10Z</published>
+    <summary type="html">&lt;p&gt;KABUL, Afghanistan - An Afghan official says the Islamic State group now has a presence in three provinces but that the government is determined to drive it out.&lt;/p&gt;</summary>
+    <dc:date>2015-06-28T12:10:10Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State teenager said to be UK's youngest suicide bomber</title>
+    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3123599/Islamic-State-teenager-said-UKs-youngest-suicide-bomber.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T16:02:29Z</updated>
+    <published>2015-06-14T16:02:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-14T16:02:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>Turkey faces delicate battle against Islamic State sympathizers at home</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/04/22/us-mideast-crisis-turkey-networks-idUSKBN0ND0VM20150422?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-22T09:17:32Z</updated>
+    <published>2015-04-22T09:17:32Z</published>
+    <summary type="html">&lt;p&gt;But pockets of Turkish social media hum with pro-Islamic State activity and at least six websites provide daily updates on its self-declared caliphate, carved out in Syria and Iraq.&lt;/p&gt;&lt;p&gt;"From the beginning Turkey didn't fully appreciate the danger of the Islamic State networks. Now it has become riskier to dismantle them," said Bahadir Dincer, Middle East Expert at the Ankara-based think-tank USAK.&lt;/p&gt;&lt;p&gt;"A Daesh (Islamic State) attack is the number one threat for Turkey at the moment ... This is a huge risk for the government before the elections."&lt;/p&gt;</summary>
+    <dc:date>2015-04-22T09:17:32Z</dc:date>
+  </entry>
+  <entry>
     <title>Report: Islamic State Claims Credit for Attack at Tunisian Resort That Killed at Least 37</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/report-islamic-state-claims-credit-attack-tunisian-resort-32063835" />
     <author>
@@ -894,17 +949,6 @@
     <published>2015-05-21T11:45:57Z</published>
     <summary type="html">&lt;p&gt;The assault on the city is part of a westward advance by Islamic State that is adding to pressures on Assad's overstretched army and pro-government militia, which have also recently lost ground in the northwest and south.&lt;/p&gt;</summary>
     <dc:date>2015-05-21T11:45:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Turkey faces delicate battle against Islamic State sympathizers at home</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/04/22/us-mideast-crisis-turkey-networks-idUSKBN0ND0VM20150422?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-22T09:17:32Z</updated>
-    <published>2015-04-22T09:17:32Z</published>
-    <summary type="html">&lt;p&gt;But pockets of Turkish social media hum with pro-Islamic State activity and at least six websites provide daily updates on its self-declared caliphate, carved out in Syria and Iraq.&lt;/p&gt;&lt;p&gt;"From the beginning Turkey didn't fully appreciate the danger of the Islamic State networks. Now it has become riskier to dismantle them," said Bahadir Dincer, Middle East Expert at the Ankara-based think-tank USAK.&lt;/p&gt;</summary>
-    <dc:date>2015-04-22T09:17:32Z</dc:date>
   </entry>
   <entry>
     <title>For migrants used to danger, Islamic State poses new threat</title>

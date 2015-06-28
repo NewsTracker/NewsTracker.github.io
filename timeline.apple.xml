@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Spotify Raises $526 Million in Apple Battle</title>
+    <link rel="alternate" href="http://www.wsj.com/articles/spotify-scores-investment-from-teliasonera-in-multimillion-dollar-funding-round-1433918944?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T01:45:43Z</updated>
+    <published>2015-06-11T01:45:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-11T01:45:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>Review: The best new features coming from Apple, Google</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Review-The-best-new-features-coming-from-Apple-6317745.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-10T08:09:18Z</updated>
+    <published>2015-06-10T08:09:18Z</published>
+    <summary type="html">&lt;p&gt;On Apple Watch, apps from outside parties have essentially been extensions of phone apps.&lt;/p&gt;</summary>
+    <dc:date>2015-06-10T08:09:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple finally acknowledges women exist</title>
+    <link rel="alternate" href="http://www.news.com.au/lifestyle/real-life/apple-will-finally-include-a-period-tracker-in-its-new-ios9-health-app/story-fnu2q5nu-1227389911101?from=news.com.au_rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T05:15:00Z</updated>
+    <published>2015-06-09T05:15:00Z</published>
+    <summary type="html">&lt;p&gt;70 per cent of Apple's staff are male.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T05:15:00Z</dc:date>
+    <media:content url="http://resources1.news.com.au/images/2015/06/09/1227389/911073-2ea660b4-0e53-11e5-b871-8bd281a5dd0b.jpg" />
+  </entry>
+  <entry>
     <title>Apple removes Confederate flag games</title>
     <link rel="alternate" href="http://www.bbc.co.uk/newsbeat/article/33280133/apple-removes-games-featuring-the-confederate-flag-from-app-store" />
     <author>

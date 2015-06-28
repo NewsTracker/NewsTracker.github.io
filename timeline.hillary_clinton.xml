@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>First batch of Hillary Clinton's emails released</title>
+    <link rel="alternate" href="http://www.cbsnews.com/videos/first-batch-of-hillary-clintons-emails-released/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-22T22:36:28Z</updated>
+    <published>2015-05-22T22:36:28Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-22T22:36:28Z</dc:date>
+  </entry>
+  <entry>
     <title>State Dept.: 15 emails missing from Clinton cache</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article25520164.html%23storylink=rss" />
     <author>

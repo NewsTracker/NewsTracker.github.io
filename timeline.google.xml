@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>What does Google have in store for the future?</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/Features/2015/06/26/22475396.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-27T10:00:00Z</updated>
+    <published>2015-06-27T10:00:00Z</published>
+    <summary type="html">&lt;p&gt;Did you know that Google has been known to rent goats to "mow" its grass at the Googleplex complex in Mountain View, Calif.?&lt;/p&gt;&lt;p&gt;Google lost out on buying the live-streaming site Twitch last year.&lt;/p&gt;&lt;p&gt;Of course, Google isn't just all about streaming and websites.&lt;/p&gt;</summary>
+    <dc:date>2015-06-27T10:00:00Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/Features/2015/06/26/1297566239866.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>What does Google have in store for the future?</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/Features/2015/06/26/22475396.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-27T10:00:00Z</updated>
+    <published>2015-06-27T10:00:00Z</published>
+    <summary type="html">&lt;p&gt;Rather than just cry about what went wrong and how they lost out on the deal, Google has been hard at work creating its own "Twitch killer."&lt;/p&gt;</summary>
+    <dc:date>2015-06-27T10:00:00Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/Features/2015/06/26/1297566239866.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Google's new self-driving cars cruising Silicon Valley roads</title>
     <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-s-new-self-driving-cars-cruising-Silicon-6349564.php" />
     <author>
