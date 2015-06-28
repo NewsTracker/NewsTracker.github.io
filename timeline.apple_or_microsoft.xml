@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft is sending HoloLens to space to help NASA</title>
+    <link rel="alternate" href="http://www.cnbc.com/id/102790767" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-26T09:13:00Z</updated>
+    <published>2015-06-26T09:13:00Z</published>
+    <summary type="html">&lt;p&gt;This is not the first collaboration between NASA and Microsoft.&lt;/p&gt;</summary>
+    <dc:date>2015-06-26T09:13:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/06/23/102781111-GettyImages-183136694-001.80x60.jpg?v=1435330457" />
+  </entry>
+  <entry>
+    <title>Apple removes Confederate flag games</title>
+    <link rel="alternate" href="http://www.bbc.co.uk/newsbeat/article/33280133/apple-removes-games-featuring-the-confederate-flag-from-app-store" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T20:01:49Z</updated>
+    <published>2015-06-25T20:01:49Z</published>
+    <summary type="html">&lt;p&gt;"We accept Apple's decision and understand that this is a sensitive issue for the American nation."&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T20:01:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple removing games with Confederate flag from App Store</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11471647&amp;amp;ref=rss" />
     <author>

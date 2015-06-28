@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Donald Trump pinata all the rage in Mexico</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/donald-trump-pinata-all-the-rage-in-mexico-20150627-ghz710.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-27T01:50:53Z</updated>
+    <published>2015-06-27T01:50:53Z</published>
+    <summary type="html">&lt;p&gt;A pinata depicting US Republican presidential candidate Donald Trump hangs outside a workshop in Reynosa, Mexico.&lt;/p&gt;&lt;p&gt;On Thursday, Mr Trump said he has great respect for Mexico and loves Mexicans.&lt;/p&gt;&lt;p&gt;Mr Trump said last week on Twitter: "I like Mexico and love the spirit of the Mexican people."&lt;/p&gt;&lt;p&gt;"Oscars were a great night for Mexico &amp; why not - they are ripping off the US more than almost any other nation," Mr Trump tweeted.&lt;/p&gt;</summary>
+    <dc:date>2015-06-27T01:50:53Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/h/z/7/3/x/image.related.articleLeadwide.620x349.ghz710.png/1435369844099.jpg" />
+  </entry>
+  <entry>
     <title>AT&amp;T to Spend $3B on Expanding Iusacell Network in Mexico</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/att-spend-3b-expanding-iusacell-network-mexico-32034825" />
     <author>
