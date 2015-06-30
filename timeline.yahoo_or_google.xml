@@ -4,6 +4,76 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google app to warn drivers about railroad crossings</title>
+    <link rel="alternate" href="http://www.latimes.com/business/la-fi-google-railroad-20150629-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T21:46:00Z</updated>
+    <published>2015-06-29T21:46:00Z</published>
+    <summary type="html">&lt;p&gt;Google has agreed to add audio and visual alerts in its navigation app to warn drivers about railroad crossings.&lt;/p&gt;</summary>
+    <dc:date>2015-06-29T21:46:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Serena Williams' Wimbledon starts slow; Venus wins 6-0, 6-0 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/straight-set-wins-top-ranked-djokovic-williams-day-154236545--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T20:48:43Z</updated>
+    <published>2015-06-29T20:48:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-29T20:48:43Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/DYSG0KTGjuxQl4bgO6RjBA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM5ODtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506291300468170048" />
+  </entry>
+  <entry>
+    <title>Luol Deng staying with Heat, opts-in for $10.1 million (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/luol-deng-staying-heat-opts-10-1-million-181126608--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T18:13:33Z</updated>
+    <published>2015-06-29T18:13:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-29T18:13:33Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/6Pr44ZufMMoqiWNNy9KATA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506291313475850070" />
+  </entry>
+  <entry>
+    <title>Google denied appeal in Oracle software fight</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/29/google-denied-appeal-in-oracle-software-fight" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T16:20:38Z</updated>
+    <published>2015-06-29T16:20:38Z</published>
+    <summary type="html">&lt;p&gt;A Google representative did not immediately comment on the court's decision, and an Oracle spokeswoman could not immediately be reached.&lt;/p&gt;</summary>
+    <dc:date>2015-06-29T16:20:38Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297515602005_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
+    <title>Google denied appeal in Oracle software fight</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/06/29/22479026.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T16:19:21Z</updated>
+    <published>2015-06-29T16:19:21Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON - The U.S. Supreme Court on Monday sided with Oracle Corp. and declined to hear Google Inc.'s appeal in a major software copyright case that has been closely followed by the technology industry.&lt;/p&gt;</summary>
+    <dc:date>2015-06-29T16:19:21Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/06/29/1297515602005.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Justices won't hear Google appeal in dispute with Oracle</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Justices-won-t-hear-Google-appeal-in-dispute-with-6355350.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T13:43:11Z</updated>
+    <published>2015-06-29T13:43:11Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - The Supreme Court is staying out of a long-running legal battle between technology giants Oracle and Google over copyright protection for a computer program that powers most of the world's smartphones and computer tablets.&lt;/p&gt;</summary>
+    <dc:date>2015-06-29T13:43:11Z</dc:date>
+  </entry>
+  <entry>
     <title>England eliminates host Canada in World Cup Q-final, 2-1 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/england-eliminates-host-canada-world-cup-q-final-013032759--sow.html" />
     <author>

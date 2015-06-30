@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Thai ice cream company apologizes for Facebook gay slur</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Thai-ice-cream-company-apologizes-for-Facebook-6355248.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T13:34:23Z</updated>
+    <published>2015-06-29T13:34:23Z</published>
+    <summary type="html">&lt;p&gt;The post on the Facebook page of Wall's Thailand, which was quickly removed, showed black bean-flavored ice cream with the caption #LOVEWINS - the hashtag used by supporters of the court verdict.&lt;/p&gt;</summary>
+    <dc:date>2015-06-29T13:34:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Yahoo's Stamos joining Facebook as its chief security officer</title>
     <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/yahoo-s-stamos-joining-facebook-as-its-chief-security-officer-1.2439714" />
     <author>

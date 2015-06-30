@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Serena Williams' Wimbledon starts slow; Venus wins 6-0, 6-0 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/straight-set-wins-top-ranked-djokovic-williams-day-154236545--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T20:48:43Z</updated>
+    <published>2015-06-29T20:48:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-29T20:48:43Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/DYSG0KTGjuxQl4bgO6RjBA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM5ODtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506291300468170048" />
+  </entry>
+  <entry>
+    <title>Luol Deng staying with Heat, opts-in for $10.1 million (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/luol-deng-staying-heat-opts-10-1-million-181126608--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T18:13:33Z</updated>
+    <published>2015-06-29T18:13:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-29T18:13:33Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/6Pr44ZufMMoqiWNNy9KATA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506291313475850070" />
+  </entry>
+  <entry>
+    <title>Yahoo chooses to stay with Microsoft in updated search deal</title>
+    <link rel="alternate" href="http://news.yahoo.com/yahoo-chooses-stay-microsoft-updated-search-deal-180414119.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T18:50:02Z</updated>
+    <published>2015-04-16T18:50:02Z</published>
+    <summary type="html">&lt;p&gt;This Feb. 19, 2015 photo, Yahoo President and CEO Marissa Mayer delivers the keynote address at the first-ever Yahoo Mobile Developer Conference in San Francisco.&lt;/p&gt;&lt;p&gt;Yahoo had an option of ending the relationship.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T18:50:02Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/4ueCu9rQYmwpJVxdX6.iJw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/265fffef12e0d911730f6a7067001f6a.jpg" />
+  </entry>
+  <entry>
     <title>England eliminates host Canada in World Cup Q-final, 2-1 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/england-eliminates-host-canada-world-cup-q-final-013032759--sow.html" />
     <author>
@@ -2514,18 +2550,6 @@
     <summary type="html">&lt;p&gt;In return, Yahoo will receive most of the revenue from the ads posted alongside the search results on its sites.&lt;/p&gt;</summary>
     <dc:date>2015-04-16T19:44:02Z</dc:date>
     <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0128/20150128__0129yahoo%7E6_300.JPG" />
-  </entry>
-  <entry>
-    <title>Yahoo chooses to stay with Microsoft in updated search deal</title>
-    <link rel="alternate" href="http://news.yahoo.com/yahoo-chooses-stay-microsoft-updated-search-deal-180414119.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-16T18:50:02Z</updated>
-    <published>2015-04-16T18:50:02Z</published>
-    <summary type="html">&lt;p&gt;This Feb. 19, 2015 photo, Yahoo President and CEO Marissa Mayer delivers the keynote address at the first-ever Yahoo Mobile Developer Conference in San Francisco.&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T18:50:02Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/4ueCu9rQYmwpJVxdX6.iJw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/265fffef12e0d911730f6a7067001f6a.jpg" />
   </entry>
   <entry>
     <title>Yahoo chooses to stay with Microsoft in updated search deal</title>

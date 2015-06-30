@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tunisia arrests suspects associated with beach hotel attacker</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/29/tunisia-arrests-suspects-associated-with-beach-hotel-attacker" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T18:32:58Z</updated>
+    <published>2015-06-29T18:32:58Z</published>
+    <summary type="html">&lt;p&gt;They promised Tunisia help in security, intelligence, police training and to help keep tourism alive.&lt;/p&gt;&lt;p&gt;British police are in Tunisia helping in the process of formally identifying victims.&lt;/p&gt;&lt;p&gt;Tour companies have helped thousands of tourists leave Tunisia since Friday's attack on a country that relies heavily on tourism for jobs and foreign currency revenues.&lt;/p&gt;</summary>
+    <dc:date>2015-06-29T18:32:58Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297718206376_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Tunisia arrests suspects associated with beach hotel attacker</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/29/us-tunisia-security-arrests-idUSKCN0P91ID20150629?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T18:04:02Z</updated>
+    <published>2015-06-29T18:04:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-29T18:04:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Tunisian authorities hunt accomplices of gunman</title>
     <link rel="alternate" href="http://tvnz.co.nz/world-news/tunisian-authorities-hunt-accomplices-gunman-6348581?ref=rss" />
     <author>
