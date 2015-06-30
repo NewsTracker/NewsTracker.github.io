@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's president vows 'swift justice' after assassination</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egypt-prepares-for-burial-of-slain-prosecutor-6357320.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:52:13Z</updated>
+    <published>2015-06-30T19:52:13Z</published>
+    <summary type="html">&lt;p&gt;Despite an international outcry against legal abuses and lack of due process, Egypt has waged a 2-year-old crackdown that has led to thousands of arrests, mass convictions and death sentences.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T19:52:13Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/37/32/74/8236805/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt's Sisi promises tougher legal system as prosecutor buried</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/30/us-egypt-anniversary-court-idUSKCN0PA1W120150630?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:35:52Z</updated>
+    <published>2015-06-30T19:35:52Z</published>
+    <summary type="html">&lt;p&gt;Western governments have criticized the mass death sentences but are unlikely to take strong measures against Egypt, seen as a vital partner for security in a region beset by turmoil.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T19:35:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt prepares for burial of slain prosecutor general</title>
     <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/30/egypt-prepares-for-burial-of-slain-prosecutor/" />
     <author>

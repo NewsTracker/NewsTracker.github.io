@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bouchard, Halep lose Wimbledon openers; Federer, Nadal win (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kvitova-opens-wimbledon-defense-6-1-6-0-134845712--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:54:31Z</updated>
+    <published>2015-06-30T19:54:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-30T19:54:31Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/MWY0hkA4B.jfK9f4nXc6mQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQyMTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506301208436951480" />
+  </entry>
+  <entry>
+    <title>Stephen Curry overtakes LeBron James for NBA's top jersey (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/stephen-curry-overtakes-lebron-james-nbas-top-jersey-161834737--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T18:52:33Z</updated>
+    <published>2015-06-30T18:52:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-30T18:52:33Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/61xiF_3WlbmewZL_._UXtw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506241806651640419" />
+  </entry>
+  <entry>
+    <title>Google embeds engineers as professors</title>
+    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/05/03/google-embeds-engineers-as-professors" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T16:18:49Z</updated>
+    <published>2015-05-03T16:18:49Z</published>
+    <summary type="html">&lt;p&gt;She was an African American woman, kept office hours until 2 a.m. if that's what it took to see everyone, and had an additional title: Google In Residence.&lt;/p&gt;&lt;p&gt;In ongoing efforts to diversify Silicon Valley's tech sector, Google is embedding engineers at a handful of Historically Black Colleges and Universities where they teach, mentor and advise on curriculum.&lt;/p&gt;&lt;p&gt;And Howard University graduating senior Christopher Hocutt, 21, whose friends jokingly call him Mr. Google, will be starting at the company full-time.&lt;/p&gt;&lt;p&gt;Google is typical - about 1 percent of its technical staffers are black.&lt;/p&gt;&lt;p&gt;Google software engineer Sabrina Williams, who took a semester away from her Mountain View campus this year to mentor and teach at Howard, is thrilled to see her student becoming a colleague.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T16:18:49Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/b1c70ca/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fd6%2Fce259a24bab3a3f1caecb04e239b99%2Fmedia%3A395edacc018f4da5bb775a14a82665b8GoogleHistoricallyBlackColleges.JPEG" />
+  </entry>
+  <entry>
     <title>Google to remove revenge porn from its search results</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/06/19/google-to-remove-revenge-porn-search-results" />
     <author>
@@ -26,18 +62,6 @@
     <summary type="html" />
     <dc:date>2015-05-20T15:25:23Z</dc:date>
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297702292040_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
-    <title>Google embeds engineers as professors</title>
-    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/05/03/google-embeds-engineers-as-professors" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-03T16:18:49Z</updated>
-    <published>2015-05-03T16:18:49Z</published>
-    <summary type="html">&lt;p&gt;She was an African American woman, kept office hours until 2 a.m. if that's what it took to see everyone, and had an additional title: Google In Residence.&lt;/p&gt;&lt;p&gt;In ongoing efforts to diversify Silicon Valley's tech sector, Google is embedding engineers at a handful of Historically Black Colleges and Universities where they teach, mentor and advise on curriculum.&lt;/p&gt;&lt;p&gt;And Howard University graduating senior Christopher Hocutt, 21, whose friends jokingly call him Mr. Google, will be starting at the company full-time.&lt;/p&gt;&lt;p&gt;Google is typical - about 1 percent of its technical staffers are black.&lt;/p&gt;</summary>
-    <dc:date>2015-05-03T16:18:49Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/b1c70ca/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fd6%2Fce259a24bab3a3f1caecb04e239b99%2Fmedia%3A395edacc018f4da5bb775a14a82665b8GoogleHistoricallyBlackColleges.JPEG" />
   </entry>
   <entry>
     <title>Google posts mixed 1Q results amid new threats to company</title>

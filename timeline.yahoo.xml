@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bouchard, Halep lose Wimbledon openers; Federer, Nadal win (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kvitova-opens-wimbledon-defense-6-1-6-0-134845712--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:54:31Z</updated>
+    <published>2015-06-30T19:54:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-30T19:54:31Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/MWY0hkA4B.jfK9f4nXc6mQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQyMTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506301208436951480" />
+  </entry>
+  <entry>
+    <title>Stephen Curry overtakes LeBron James for NBA's top jersey (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/stephen-curry-overtakes-lebron-james-nbas-top-jersey-161834737--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T18:52:33Z</updated>
+    <published>2015-06-30T18:52:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-30T18:52:33Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/61xiF_3WlbmewZL_._UXtw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506241806651640419" />
+  </entry>
+  <entry>
     <title>Serena Williams' Wimbledon starts slow; Venus wins 6-0, 6-0 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/straight-set-wins-top-ranked-djokovic-williams-day-154236545--ten.html" />
     <author>

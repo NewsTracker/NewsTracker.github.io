@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Federal Report Faults Police Actions During Ferguson Unrest</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/federal-report-faults-police-actions-ferguson-unrest-32126645" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T20:33:56Z</updated>
+    <published>2015-06-30T20:33:56Z</published>
+    <summary type="html">&lt;p&gt;The summary is part of a longer after-action report to be released in the coming weeks focusing on the actions of police in Ferguson, St. Louis city and county and the Missouri State Highway Patrol.&lt;/p&gt;&lt;p&gt;The report suggests that the protests after Brown's death on Aug. 9 were aggravated by the community's hostility toward Ferguson police and worsened when authorities didn't quickly divulge details of his death.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T20:33:56Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/US/HT_david_sweat_jt_150606_4x3t_96.jpg" />
+  </entry>
+  <entry>
+    <title>Federal report faults police actions during Ferguson unrest</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Federal-report-faults-police-actions-during-6357907.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T20:33:38Z</updated>
+    <published>2015-06-30T20:33:38Z</published>
+    <summary type="html">&lt;p&gt;"The protests were ... also a manifestation of the long-standing tension between the Ferguson (Police Department) and the African-American community," the report summary stated.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T20:33:38Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/37/33/12/8237709/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Vandals target Confederate monuments in half-dozen states</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/north-carolina/vandals-target-confederate-monuments-in-half-dozen/nmmMK/" />
     <author>

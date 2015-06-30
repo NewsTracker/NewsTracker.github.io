@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_watch.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>VW launches car-control app for Apple Watch</title>
+    <link rel="alternate" href="http://www.cbsnews.com/videos/vw-launches-car-control-app-for-apple-watch/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T19:06:29Z</updated>
+    <published>2015-05-06T19:06:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-06T19:06:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple expected to focus on watch, music at developer conference</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/08/us-apple-developers-idUSKBN0OO0ME20150608?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>

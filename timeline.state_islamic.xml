@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State threatens to topple Hamas in Gaza</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/30/us-palestinians-islamicstate-hamas-idUSKCN0PA2TR20150630?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T20:39:27Z</updated>
+    <published>2015-06-30T20:39:27Z</published>
+    <summary type="html">&lt;p&gt;"At the same time, within Gaza, ISIS (Islamic State) has been flouting Hamas. But they have common cause against the Jews, in Israel or abroad."&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T20:39:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State beheads female civilians for first time in Syria for 'sorcery': monitor</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-beheads-female-civilians-for-first-time-in-syria-for-sorcery-monitor-20150630-gi1ztw" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:05:07Z</updated>
+    <published>2015-06-30T19:05:07Z</published>
+    <summary type="html">&lt;p&gt;A member to the Islamic State in Iraq and the Levant (ISIL) waves an ISIL flag in Raqqa.&lt;/p&gt;&lt;p&gt;Islamic State also "crucified" five men in al-Mayadeen for eating during daylight hours of the Muslim fasting month of Ramadan, the Observatory said.&lt;/p&gt;&lt;p&gt;Activists say Islamic State uses such public punishments in areas where it is present to control the local population through coercion and fear.&lt;/p&gt;&lt;p&gt;Australian Reece Harding killed fighting Islamic...&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T19:05:07Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/h/4/x/6/0/image.related.articleLeadwide.620x349.gi1ztw.png/1435697487854.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State settles into Ramadi, but the lull unlikely to last</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Islamic-State-settles-into-Ramadi-but-the-lull-unlikely-to-last/articleshow/47477826.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-30T00:57:42Z</updated>
+    <published>2015-05-30T00:57:42Z</published>
+    <summary type="html">&lt;p&gt;The blind man with just one hand arrived at the main mosque in the centre of the Iraqi city of Ramadi at dusk on Wednesday, flanked by Islamic State fighters.&lt;/p&gt;&lt;p&gt;Islamic State fighters have warned residents not to venture outside the city because they say they have laid a web of bombs to hinder any incursion by government forces.&lt;/p&gt;</summary>
+    <dc:date>2015-05-30T00:57:42Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47477834,width-300,resizemode-4/ISISS.jpg" />
+  </entry>
+  <entry>
     <title>Syrian troops regain neighborhood they lost earlier in battles with Islamic State group</title>
     <link rel="alternate" href="http://www.startribune.com/syrian-troops-regain-area-from-is-in-northeastern-city/310927191/" />
     <author>
@@ -1969,18 +2004,6 @@
     <published>2015-05-30T02:09:21Z</published>
     <summary type="html">&lt;p&gt;Beirut: Islamic State and al-Qaeda have formed internet "help desks" to teach jihadists how to avoid being monitored online, a study by the US-based Counter Terrorism Centre has found.&lt;/p&gt;</summary>
     <dc:date>2015-05-30T02:09:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Islamic State settles into Ramadi, but the lull unlikely to last</title>
-    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Islamic-State-settles-into-Ramadi-but-the-lull-unlikely-to-last/articleshow/47477826.cms" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-30T00:57:42Z</updated>
-    <published>2015-05-30T00:57:42Z</published>
-    <summary type="html">&lt;p&gt;The blind man with just one hand arrived at the main mosque in the centre of the Iraqi city of Ramadi at dusk on Wednesday, flanked by Islamic State fighters.&lt;/p&gt;</summary>
-    <dc:date>2015-05-30T00:57:42Z</dc:date>
-    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47477834,width-300,resizemode-4/ISISS.jpg" />
   </entry>
   <entry>
     <title>Interpol says extremists from Africa and Asia are shifting allegiance to Islamic State group</title>

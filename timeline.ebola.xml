@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia quarantines an area where new Ebola case appeared</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Liberia-quarantines-community-where-corpse-tested-6357541.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:53:46Z</updated>
+    <published>2015-06-30T19:53:46Z</published>
+    <summary type="html">&lt;p&gt;Health workers leave after they took a blood specimen from a child to test for the Ebola virus in a area were a 17-year old boy died from the virus on the outskirts of Monrovia, Liberia, Tuesday, June 30, 2015.&lt;/p&gt;&lt;p&gt;Liberian authorities on Tuesday quarantined an area where the corpse of the boy was found, sparking fears this West African country could face another outbreak of the disease nearly two months after being declared Ebola-free.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T19:53:46Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/33/17/8238046/7/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Liberia quarantines community where corpse tested for Ebola</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/30/liberia-quarantines-community-where-corpse-tested-for-ebola" />
     <author>
