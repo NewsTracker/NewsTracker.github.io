@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia quarantines community where corpse tested for Ebola</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/30/liberia-quarantines-community-where-corpse-tested-for-ebola" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T12:00:00Z</updated>
+    <published>2015-06-30T12:00:00Z</published>
+    <summary type="html">&lt;p&gt;The corpse of a 17-year-old man has tested positive for Ebola in Liberia, but no other cases have been reported, the country's deputy health minister said late Monday, June 29, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T12:00:00Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/f92dd96/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F78%2Fb5c0b1e935babb06a975f816404843%2Fmedia%3A4b57b47e0a1b49e29fad7e2fde16de7dLiberiaEbolaWestAfrica.JPEG" />
+  </entry>
+  <entry>
+    <title>Sierra Leone police raid funeral, arrest 13 for organising unsafe burial</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-04-08/police-raid-funeral-in-sierra-leone/6376494" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-07T20:58:10Z</updated>
+    <published>2015-04-07T20:58:10Z</published>
+    <summary type="html">&lt;p&gt;Police in Ebola-hit Sierra Leone have raided a funeral and arrested 13 people suspected of organising an unsafe burial, risking spreading the disease, officers said.&lt;/p&gt;&lt;p&gt;Alimamy Kamara, head of the National Ebola Response Centre (NERC) in charge of Freetown and the surrounding area, said last week that people organising unsafe burials risked two-year jail terms.&lt;/p&gt;&lt;p&gt;The NERC said later on Tuesday that health authorities had wrongly reported Ebola as the cause of a baby's death in the eastern district of Kailahun, which was declared free of the virus weeks ago.&lt;/p&gt;</summary>
+    <dc:date>2015-04-07T20:58:10Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/5636480-16x9-220x124.jpg" />
+  </entry>
+  <entry>
     <title>Liberia reports first Ebola death since country declared free of virus</title>
     <link rel="alternate" href="http://america.aljazeera.com/articles/2015/6/30/liberia-announces-first-ebola-death-since-country-declared-free-of-virus.html" />
     <author>
@@ -1506,18 +1530,6 @@
     <published>2015-04-08T19:50:08Z</published>
     <summary type="html">&lt;p&gt;WASHINGTON (AP) - President Barack Obama has received a briefing about the Ebola outbreak in West Africa and has made clear to aides the urgency of reducing the number of cases to zero.&lt;/p&gt;</summary>
     <dc:date>2015-04-08T19:50:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Sierra Leone police raid funeral, arrest 13 for organising unsafe burial</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-04-08/police-raid-funeral-in-sierra-leone/6376494" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-07T20:58:10Z</updated>
-    <published>2015-04-07T20:58:10Z</published>
-    <summary type="html">&lt;p&gt;Police in Ebola-hit Sierra Leone have raided a funeral and arrested 13 people suspected of organising an unsafe burial, risking spreading the disease, officers said.&lt;/p&gt;&lt;p&gt;Alimamy Kamara, head of the National Ebola Response Centre (NERC) in charge of Freetown and the surrounding area, said last week that people organising unsafe burials risked two-year jail terms.&lt;/p&gt;</summary>
-    <dc:date>2015-04-07T20:58:10Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/5636480-16x9-220x124.jpg" />
   </entry>
   <entry>
     <title>U.S. Ebola patient's condition improves to good: NIH</title>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton attends fundraiser in New Jersey</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article25814683.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T09:55:09Z</updated>
+    <published>2015-06-30T09:55:09Z</published>
+    <summary type="html">&lt;p&gt;Hillary Clinton was in New Jersey raising money for her presidential campaign on the night before Gov. Chris Christie launches his presidential bid.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T09:55:09Z</dc:date>
+  </entry>
+  <entry>
     <title>First batch of Hillary Clinton's emails released</title>
     <link rel="alternate" href="http://www.cbsnews.com/videos/first-batch-of-hillary-clintons-emails-released/" />
     <author>

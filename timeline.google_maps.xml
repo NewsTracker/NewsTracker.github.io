@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google_maps.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google Maps to include railroad crossing data</title>
+    <link rel="alternate" href="http://www.upi.com/Top_News/US/2015/06/30/Google-Maps-to-include-railroad-crossing-data/5201435664181/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T11:56:42Z</updated>
+    <published>2015-06-30T11:56:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-30T11:56:42Z</dc:date>
+    <media:content url="ww.upi.com/upi/dw/img/clear.gif" />
+  </entry>
+  <entry>
     <title>Google Maps: Search for a racial slur and Google will point you to the White House</title>
     <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/578605/Google-Maps-Racist-Search-Barack-Obama-Racism-Apology?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-tech+%28Daily+Express+%3A%3A+Science+%26+Tech+Feed%29" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Why is Facebook opening an office in Africa?</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/technology/facebook/11707515/Why-is-Facebook-opening-an-office-in-Africa.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T09:47:03Z</updated>
+    <published>2015-06-30T09:47:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-30T09:47:03Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/02828/facebook_2828520b.jpg" />
+  </entry>
+  <entry>
     <title>Thai ice cream company apologizes for Facebook gay slur</title>
     <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Thai-ice-cream-company-apologizes-for-Facebook-6355248.php" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US court agrees Apple violated antitrust law in e-book entry</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/entertainment/us-court-agrees-apple-violated-antitrust-law-in-e-/nmpJt/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T14:20:25Z</updated>
+    <published>2015-06-30T14:20:25Z</published>
+    <summary type="html">&lt;p&gt;The 2nd U.S. Circuit Court of Appeals in Manhattan ruled 2-to-1 Tuesday that a lower court judge was right to find Apple violated the laws to upset Amazon.com's control of the market.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T14:20:25Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple unveils Music streaming service to take on Spotify and Tidal</title>
     <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-3115680/Apple-faces-music-iPhone-make-unveiling-streaming-music-service-Spotify-Tidal.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
     <author>
