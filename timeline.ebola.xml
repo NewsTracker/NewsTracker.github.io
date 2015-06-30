@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia reports first Ebola death since country declared free of virus</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/6/30/liberia-announces-first-ebola-death-since-country-declared-free-of-virus.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T08:20:00Z</updated>
+    <published>2015-06-30T08:20:00Z</published>
+    <summary type="html">&lt;p&gt;"A 17-year-old corpse was tested positive for Ebola virus. This took place in Margibi County. There is no need to panic. The corpse has been buried and our contact tracing has started work," said Nyenswah.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T08:20:00Z</dc:date>
+    <media:content url="merica.aljazeera.com/content/ajam/multimedia/2015/6/after-ebola-outbreak-liberias-health-care-system-struggles-to-rebound/_jcr_content/image.adapt.480.low.liberia_healthcare_ward.jpg" />
+  </entry>
+  <entry>
+    <title>Liberia announces fresh Ebola death</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/30/us-health-ebola-liberia-idUSKCN0PA0PB20150630?feedType=RSS&amp;amp;feedName=healthNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T08:00:03Z</updated>
+    <published>2015-06-30T08:00:03Z</published>
+    <summary type="html">&lt;p&gt;A health worker injects a woman with an Ebola vaccine during a trial in Monrovia, February 2, 2015.&lt;/p&gt;&lt;p&gt;MONROVIA A Liberian has died of Ebola in the first recorded case since the country at the heart of an epidemic was declared free of the virus on May 9, Deputy Health Minister Tolbert Nyenswah said on Tuesday.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T08:00:03Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150630&amp;amp;t=2&amp;amp;i=1060294345&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXNPEB5T09D" />
+  </entry>
+  <entry>
     <title>Rapid-detection Ebola test could be game-changer</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/rapid-detection-ebola-test-could-be-game-changer/" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine says it may freeze debt payments to fund war</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Ukraine-says-it-may-freeze-debt-payments-to-fund-war/articleshow/47651046.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-12T23:59:00Z</updated>
+    <published>2015-06-12T23:59:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-12T23:59:00Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47651050,width-300,resizemode-4/Arseniy-Yatsenyuk.jpg" />
+  </entry>
+  <entry>
     <title>US compares China's south China Sea moves to Russia's in Ukraine</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/US-compares-Chinas-south-China-Sea-moves-to-Russias-in-Ukraine/articleshow/47838396.cms" />
     <author>

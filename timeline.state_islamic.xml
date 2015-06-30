@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State beheads women civilians for first time in Syria</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-30/islamic-state-beheads-women-civilians-for-first-time-in-syria/6585042" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T08:34:27Z</updated>
+    <published>2015-06-30T08:34:27Z</published>
+    <summary type="html">&lt;p&gt;Islamic State has beheaded local and foreign men in Syria, including enemy combatants, aid workers and journalists as well as people it has deemed as violating its hardline interpretation of Islamic law.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T08:34:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gaddafi's home town falls to Islamic State in anarchic Libya</title>
+    <link rel="alternate" href="http://news.yahoo.com/gaddafis-home-town-falls-islamic-state-anarchic-libya-094455638.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-21T09:44:55Z</updated>
+    <published>2015-05-21T09:44:55Z</published>
+    <summary type="html">&lt;p&gt;Libya Dawn fighters look at Islamic State militant positions near Sirte March 19, 2015.&lt;/p&gt;&lt;p&gt;But so far Western countries, which are bombing Islamic State positions in Syria and Iraq, have steered clear of that sort of intervention in Libya.&lt;/p&gt;&lt;p&gt;Yuhami, the Misrata commander near the power plant, said their new opponent Islamic State was strong because of the backing of Gaddafi loyalists and foreigners.&lt;/p&gt;&lt;p&gt;So far, Islamic State has not gained territory as quickly in Libya as it did in Iraq and Syria, where it portrays itself as defenders of Sunni Islam in sectarian wars against governments led by Shi'ite Muslims.&lt;/p&gt;</summary>
+    <dc:date>2015-05-21T09:44:55Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/uQNNjT70st64_9R.Y1GvLg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-21T094455Z_1_LYNXMPEB4K0FG_RTROPTP_2_LIBYA-SECURITY.JPG" />
+  </entry>
+  <entry>
     <title>Islamic State seen as potent force a year after caliphate declaration: Pentagon</title>
     <link rel="alternate" href="http://news.yahoo.com/islamic-state-seen-potent-force-caliphate-declaration-pentagon-193306168.html" />
     <author>
@@ -2457,18 +2480,6 @@
     <summary type="html">&lt;p&gt;The Syrian army is now outside the town, from where it is targeting Islamic State reinforcements, he said.&lt;/p&gt;</summary>
     <dc:date>2015-05-21T10:56:06Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Gaddafi's home town falls to Islamic State in anarchic Libya</title>
-    <link rel="alternate" href="http://news.yahoo.com/gaddafis-home-town-falls-islamic-state-anarchic-libya-094455638.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-21T09:44:55Z</updated>
-    <published>2015-05-21T09:44:55Z</published>
-    <summary type="html">&lt;p&gt;Libya Dawn fighters look at Islamic State militant positions near Sirte March 19, 2015.&lt;/p&gt;&lt;p&gt;But so far Western countries, which are bombing Islamic State positions in Syria and Iraq, have steered clear of that sort of intervention in Libya.&lt;/p&gt;&lt;p&gt;Yuhami, the Misrata commander near the power plant, said their new opponent Islamic State was strong because of the backing of Gaddafi loyalists and foreigners.&lt;/p&gt;</summary>
-    <dc:date>2015-05-21T09:44:55Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/uQNNjT70st64_9R.Y1GvLg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-05-21T094455Z_1_LYNXMPEB4K0FG_RTROPTP_2_LIBYA-SECURITY.JPG" />
   </entry>
   <entry>
     <title>Islamic State in control of Palmyra ruins, activists say</title>

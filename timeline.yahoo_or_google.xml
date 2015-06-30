@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google to remove revenge porn from its search results</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/19/google-to-remove-revenge-porn-search-results" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-19T21:52:28Z</updated>
+    <published>2015-06-19T21:52:28Z</published>
+    <summary type="html">&lt;p&gt;That libertarian approach helped establish Google as the world's most dominant search engine, processing roughly two-thirds of all online requests for information.&lt;/p&gt;&lt;p&gt;The new rules announced Friday will allow people whose naked pictures have been posted on a website without their permission to ask Google to prevent links to the image from appearing in its search results.&lt;/p&gt;</summary>
+    <dc:date>2015-06-19T21:52:28Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297714606967_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Google adds tweets to mobile search</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/05/20/google-adds-tweets-to-mobile-search" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-20T15:25:23Z</updated>
+    <published>2015-05-20T15:25:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-05-20T15:25:23Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297702292040_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Google embeds engineers as professors</title>
+    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/05/03/google-embeds-engineers-as-professors" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-03T16:18:49Z</updated>
+    <published>2015-05-03T16:18:49Z</published>
+    <summary type="html">&lt;p&gt;She was an African American woman, kept office hours until 2 a.m. if that's what it took to see everyone, and had an additional title: Google In Residence.&lt;/p&gt;&lt;p&gt;In ongoing efforts to diversify Silicon Valley's tech sector, Google is embedding engineers at a handful of Historically Black Colleges and Universities where they teach, mentor and advise on curriculum.&lt;/p&gt;&lt;p&gt;And Howard University graduating senior Christopher Hocutt, 21, whose friends jokingly call him Mr. Google, will be starting at the company full-time.&lt;/p&gt;&lt;p&gt;Google is typical - about 1 percent of its technical staffers are black.&lt;/p&gt;</summary>
+    <dc:date>2015-05-03T16:18:49Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/b1c70ca/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fd6%2Fce259a24bab3a3f1caecb04e239b99%2Fmedia%3A395edacc018f4da5bb775a14a82665b8GoogleHistoricallyBlackColleges.JPEG" />
+  </entry>
+  <entry>
+    <title>Google posts mixed 1Q results amid new threats to company</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-posts-mixed-1Q-results-amid-new-threats-to-6219961.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-23T20:36:34Z</updated>
+    <published>2015-04-23T20:36:34Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google has been looking more vulnerable as a technological upheaval nibbles at its dominance in Internet search, while the company also deals with a potentially massive regulatory headache in Europe.&lt;/p&gt;&lt;p&gt;But those threats haven't done much to undercut Google's power or profits yet.&lt;/p&gt;&lt;p&gt;Google's first-quarter earnings rose 4 percent to $3.6 billion as the company's Internet-leading advertising network lifted revenue by 14 percent to $17.3 billion from the same time last year.&lt;/p&gt;&lt;p&gt;It marked the sixth consecutive quarter that Google's earnings have fallen below the analysts' targets that shape investors' expectations.&lt;/p&gt;&lt;p&gt;Google's stock nevertheless surged $14.54, or nearly 3 percent, to $572 in extended trading.&lt;/p&gt;&lt;p&gt;If not for employee stock compensation, Google said it would have earned $6.57 per share, four cents below the estimates among analysts polled by FactSet.&lt;/p&gt;</summary>
+    <dc:date>2015-04-23T20:36:34Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/36/00/70/7867944/3/628x471.jpg" />
+  </entry>
+  <entry>
     <title>Google app to warn drivers about railroad crossings</title>
     <link rel="alternate" href="http://www.latimes.com/business/la-fi-google-railroad-20150629-story.html" />
     <author>
@@ -388,18 +436,6 @@
     <published>2015-06-19T22:40:14Z</published>
     <summary type="html" />
     <dc:date>2015-06-19T22:40:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google to remove revenge porn from its search results</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/06/19/google-to-remove-revenge-porn-search-results" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T21:52:28Z</updated>
-    <published>2015-06-19T21:52:28Z</published>
-    <summary type="html">&lt;p&gt;That libertarian approach helped establish Google as the world's most dominant search engine, processing roughly two-thirds of all online requests for information.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T21:52:28Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297714606967_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>Google to censor revenge porn</title>
@@ -881,18 +917,6 @@
     <summary type="html" />
     <dc:date>2015-06-09T01:24:38Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/RVztmBOPSYINk.mXNklLPw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQyNjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506072313836131552" />
-  </entry>
-  <entry>
-    <title>Google posts mixed 1Q results amid new threats to company</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-posts-mixed-1Q-results-amid-new-threats-to-6219961.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-23T20:36:34Z</updated>
-    <published>2015-04-23T20:36:34Z</published>
-    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google has been looking more vulnerable as a technological upheaval nibbles at its dominance in Internet search, while the company also deals with a potentially massive regulatory headache in Europe.&lt;/p&gt;&lt;p&gt;But those threats haven't done much to undercut Google's power or profits yet.&lt;/p&gt;&lt;p&gt;Google's first-quarter earnings rose 4 percent to $3.6 billion as the company's Internet-leading advertising network lifted revenue by 14 percent to $17.3 billion from the same time last year.&lt;/p&gt;&lt;p&gt;It marked the sixth consecutive quarter that Google's earnings have fallen below the analysts' targets that shape investors' expectations.&lt;/p&gt;&lt;p&gt;Google's stock nevertheless surged $14.54, or nearly 3 percent, to $572 in extended trading.&lt;/p&gt;</summary>
-    <dc:date>2015-04-23T20:36:34Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/36/00/70/7867944/3/628x471.jpg" />
   </entry>
   <entry>
     <title>IOC approves new events for 2018 Winter Games in Pyeongchang (Yahoo Sports)</title>
@@ -2766,18 +2790,6 @@
     <summary type="html">&lt;p&gt;Legrand Burge, who chairs Howard University's computer science department, welcomes the temporary addition of Google engineers to his faculty.&lt;/p&gt;&lt;p&gt;Williams had 70 students in one class; about 250 were taught so far this year by Google engineers at all five schools.&lt;/p&gt;&lt;p&gt;This time, he said, Google is bringing a disruptive, Silicon Valley mentality to their campus.&lt;/p&gt;</summary>
     <dc:date>2015-05-03T17:25:03Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/36/15/30/7919130/3/gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Google embeds engineers as professors</title>
-    <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/05/03/google-embeds-engineers-as-professors" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-03T16:18:49Z</updated>
-    <published>2015-05-03T16:18:49Z</published>
-    <summary type="html">&lt;p&gt;She was an African American woman, kept office hours until 2 a.m. if that's what it took to see everyone, and had an additional title: Google In Residence.&lt;/p&gt;&lt;p&gt;In ongoing efforts to diversify Silicon Valley's tech sector, Google is embedding engineers at a handful of Historically Black Colleges and Universities where they teach, mentor and advise on curriculum.&lt;/p&gt;&lt;p&gt;And Howard University graduating senior Christopher Hocutt, 21, whose friends jokingly call him Mr. Google, will be starting at the company full-time.&lt;/p&gt;</summary>
-    <dc:date>2015-05-03T16:18:49Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/b1c70ca/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fd6%2Fce259a24bab3a3f1caecb04e239b99%2Fmedia%3A395edacc018f4da5bb775a14a82665b8GoogleHistoricallyBlackColleges.JPEG" />
   </entry>
   <entry>
     <title>Google embeds engineers as professors</title>

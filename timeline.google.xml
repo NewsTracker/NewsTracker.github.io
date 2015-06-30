@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google to remove revenge porn from its search results</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/19/google-to-remove-revenge-porn-search-results" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-19T21:52:28Z</updated>
+    <published>2015-06-19T21:52:28Z</published>
+    <summary type="html">&lt;p&gt;That libertarian approach helped establish Google as the world's most dominant search engine, processing roughly two-thirds of all online requests for information.&lt;/p&gt;&lt;p&gt;The new rules announced Friday will allow people whose naked pictures have been posted on a website without their permission to ask Google to prevent links to the image from appearing in its search results.&lt;/p&gt;</summary>
+    <dc:date>2015-06-19T21:52:28Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297714606967_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Google app to warn drivers about railroad crossings</title>
     <link rel="alternate" href="http://www.latimes.com/business/la-fi-google-railroad-20150629-story.html" />
     <author>
@@ -209,18 +221,6 @@
     <published>2015-06-19T22:40:14Z</published>
     <summary type="html" />
     <dc:date>2015-06-19T22:40:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google to remove revenge porn from its search results</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/06/19/google-to-remove-revenge-porn-search-results" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T21:52:28Z</updated>
-    <published>2015-06-19T21:52:28Z</published>
-    <summary type="html">&lt;p&gt;That libertarian approach helped establish Google as the world's most dominant search engine, processing roughly two-thirds of all online requests for information.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T21:52:28Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297714606967_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>Google to censor revenge porn</title>

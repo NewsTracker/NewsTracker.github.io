@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Smart cycle jacket could save lives on Mexico City's roads</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/19/us-mexico-intelligent-cycling-jacket-idUSKBN0OZ1H020150619?feedType=RSS&amp;amp;feedName=scienceNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-19T13:20:31Z</updated>
+    <published>2015-06-19T13:20:31Z</published>
+    <summary type="html">&lt;p&gt;Mexico City's bumper-to-bumper traffic is a problem for the sprawling capital city's cyclists.&lt;/p&gt;&lt;p&gt;Damian Real, a physics students, came up with the design for the smart bike jacket with his partner Riberto Rivas, a maths major, at Mexico's National Autonomous University.&lt;/p&gt;</summary>
+    <dc:date>2015-06-19T13:20:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico's deportations of Central American migrants up 79 percent in first 4 months of 2015</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/06/11/mexico-deportations-central-american-migrants-up-7-percent-in-first-4-months/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T20:48:29Z</updated>
+    <published>2015-06-11T20:48:29Z</published>
+    <summary type="html">&lt;p&gt;Data from Mexico's National Immigration Institute say that 51,565 immigrants from Guatemala, Honduras and El Salvador were deported between January and April, up from 28,736, during that period in 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T20:48:29Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/06/11/876/493/Mexico%20Deportations-1.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
     <title>Escapees planned to go to Mexico</title>
     <link rel="alternate" href="http://edition.cnn.com/2015/06/29/us/new-york-prison-break/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+CNN+-+Top+Stories%29" />
     <author>
@@ -261,17 +284,6 @@
     <summary type="html">&lt;p&gt;Authorities resumed a search by air and ground Saturday in a New Mexico mountain range for a former White House chef who has now been missing for a week.&lt;/p&gt;&lt;p&gt;Scheib recently moved from Florida to Taos, New Mexico, and reportedly went for a hike on 13 June in the mountains near the Taos Ski Valley.&lt;/p&gt;</summary>
     <dc:date>2015-06-20T17:53:18Z</dc:date>
     <media:content url="ww.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/80e4b130cf68bce144a07675f634f9c607f90a64/0_305_2839_1703/500.jpg" />
-  </entry>
-  <entry>
-    <title>Smart cycle jacket could save lives on Mexico City's roads</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/19/us-mexico-intelligent-cycling-jacket-idUSKBN0OZ1H020150619?feedType=RSS&amp;amp;feedName=scienceNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T13:20:31Z</updated>
-    <published>2015-06-19T13:20:31Z</published>
-    <summary type="html">&lt;p&gt;Mexico City's bumper-to-bumper traffic is a problem for the sprawling capital city's cyclists.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T13:20:31Z</dc:date>
   </entry>
   <entry>
     <title>Obama nominates senior State Department official, Cuba negotiator to be ambassador to Mexico</title>
