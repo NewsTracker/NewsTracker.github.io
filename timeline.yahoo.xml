@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Penguins acquire Phil Kessel from Maple Leafs in major trade (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/penguins-acquire-phil-kessel-maple-leafs-major-trade-184759025--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T03:44:01Z</updated>
+    <published>2015-07-02T03:44:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-02T03:44:01Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/N1mWFhVD5D1GQP8VCNxjPA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507011440528093945" />
+  </entry>
+  <entry>
+    <title>Carrasco loses no-hitter with 1 strike to go in 9th vs Rays (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/carrasco-loses-no-hitter-1-strike-9th-vs-022257020--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T03:40:14Z</updated>
+    <published>2015-07-02T03:40:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-02T03:40:14Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/EdvgbdCwB5UaeQS4quRTfg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM5MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507012109761844914" />
+  </entry>
+  <entry>
+    <title>Cavaliers break the bank on Day 1 of free agency (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kevin-love-pens-piece-saying-hes-staying-cleveland-185006398--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T01:01:56Z</updated>
+    <published>2015-07-02T01:01:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-02T01:01:56Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/lU.RTJqY777ABVg31H9yGA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506241514548400187" />
+  </entry>
+  <entry>
     <title>Bouchard, Halep lose Wimbledon openers; Federer, Nadal win (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/kvitova-opens-wimbledon-defense-6-1-6-0-134845712--ten.html" />
     <author>

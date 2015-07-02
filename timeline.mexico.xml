@@ -4,6 +4,75 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>NYC reviewing Trump contracts after remarks</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/7/2/nyc-reviewing-trump-contracts-after-remarks.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T05:50:00Z</updated>
+    <published>2015-07-02T05:50:00Z</published>
+    <summary type="html">&lt;p&gt;During the event, Trump said immigrants from Mexico are "bringing drugs, they're bringing crime, they're rapists, and some, I assume, are good people."&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T05:50:00Z</dc:date>
+    <media:content url="merica.aljazeera.com/content/ajam/articles/2015/6/30/tv-companies-cut-ties-with-trump/_jcr_content/image.adapt.480.low.Trump_NBC_063015.jpg" />
+  </entry>
+  <entry>
+    <title>Mexico: 7 Police Charged With Torture in Army Slaying Case</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-police-charged-torture-army-slaying-case-32172699" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T03:40:45Z</updated>
+    <published>2015-07-02T03:40:45Z</published>
+    <summary type="html">&lt;p&gt;Authorities in Mexico on Wednesday formally accused seven state police officers of torturing three women who survived a confrontation a year ago in which soldiers allegedly killed at least a dozen suspected gang members after they surrendered.&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T03:40:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico: 7 police charged with torture in army slaying case</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11474776&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T03:40:16Z</updated>
+    <published>2015-07-02T03:40:16Z</published>
+    <summary type="html">&lt;p&gt;Four of the police officers have been detained and a judge is expected to issue an arrest warrant for the other three, according to a statement from the Attorney General's Office in Mexico State, where the killings took place.&lt;/p&gt;&lt;p&gt;Three women who survived came forward to say that agents of the Mexico State prosecutor's office had tortured them to support the army's version.&lt;/p&gt;&lt;p&gt;Before Wednesday, no charges had been filed against any of the detectives or prosecutor's agents accused of trying to cover up the case, although the Mexico State prosecutor had said about 20 were under investigation.&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T03:40:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>New Mexico governor denounces Trump's comments</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article26004295.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T23:39:04Z</updated>
+    <published>2015-07-01T23:39:04Z</published>
+    <summary type="html">&lt;p&gt;Last year, she won re-election in blue-leaning New Mexico, the state with the largest number of Hispanic residents, by a wide margin.&lt;/p&gt;</summary>
+    <dc:date>2015-07-01T23:39:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>New Mexico governor denounces Trump's comments</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article26004295.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T23:39:04Z</updated>
+    <published>2015-07-01T23:39:04Z</published>
+    <summary type="html">&lt;p&gt;New Mexico Gov. Susana Martinez denounced GOP presidential hopeful Donald Trump's recent remarks about Mexican immigrants and called his comments "horrible."&lt;/p&gt;&lt;p&gt;In addition, Martinez has gone on a number of trade missions to Mexico and has been pushing for more infrastructure at the booming border town of Santa Teresa.&lt;/p&gt;</summary>
+    <dc:date>2015-07-01T23:39:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>1 Year After Mexico Army Slayings, Calls for Justice Mount</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/year-mexico-army-slayings-calls-justice-mount-32133154" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T20:44:03Z</updated>
+    <published>2015-06-30T20:44:03Z</published>
+    <summary type="html">&lt;p&gt;None has been charged, although about 20 are under investigation, the Mexico State prosecutors' office said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T20:44:03Z</dc:date>
+  </entry>
+  <entry>
     <title>1 year after Mexico army slayings, calls for justice mount</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article25837624.html%23storylink=rss" />
     <author>

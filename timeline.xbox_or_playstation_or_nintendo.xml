@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.xbox_or_playstation_or_nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Super Mario to go mobile as Nintendo ventures into gaming apps</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-news/super-mario-to-go-mobile-as-nintendo-ventures-into-gaming-apps/article23492555/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-17T11:26:12Z</updated>
+    <published>2015-03-17T11:26:12Z</published>
+    <summary type="html">&lt;p&gt;Nintendo, which already warned its annual operating profit would halve on weak console sales, said on Tuesday it was teaming up with online gaming firm DeNA Co. Ltd. to develop and operate gaming apps.&lt;/p&gt;&lt;p&gt;The two companies will also launch later this year an online membership service accessible on mobile devices as well as Nintendo's existing Wii U console and the portable 3DS.&lt;/p&gt;&lt;p&gt;Although Iwata didn't disclose any details about Nintendo's first mobile game, he said it would not be a hand-me-down from the company's famed console titles.&lt;/p&gt;&lt;p&gt;As a result, Nintendo will acquire a 10-per-cent stake in DeNA while DeNA will acquire a 1.2-per-cent stake in Nintendo.&lt;/p&gt;</summary>
+    <dc:date>2015-03-17T11:26:12Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/9be/technology/tech-news/article23492554.ece/ALTERNATES/w220/web-nintendo-0317.JPG" />
+  </entry>
+  <entry>
     <title>Oculus and Xbox create VR tie-up</title>
     <link rel="alternate" href="http://www.bbc.co.uk/news/technology-33103833%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
     <author>
@@ -330,18 +342,6 @@
     <published>2015-03-17T11:51:54Z</published>
     <summary type="html">&lt;p&gt;Both sides said they will build a global membership service for various devices including personal computers, smartphones and Nintendo machines.&lt;/p&gt;</summary>
     <dc:date>2015-03-17T11:51:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Super Mario to go mobile as Nintendo ventures into gaming apps</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-news/super-mario-to-go-mobile-as-nintendo-ventures-into-gaming-apps/article23492555/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-17T11:26:12Z</updated>
-    <published>2015-03-17T11:26:12Z</published>
-    <summary type="html">&lt;p&gt;Nintendo, which already warned its annual operating profit would halve on weak console sales, said on Tuesday it was teaming up with online gaming firm DeNA Co. Ltd. to develop and operate gaming apps.&lt;/p&gt;&lt;p&gt;The two companies will also launch later this year an online membership service accessible on mobile devices as well as Nintendo's existing Wii U console and the portable 3DS.&lt;/p&gt;&lt;p&gt;Although Iwata didn't disclose any details about Nintendo's first mobile game, he said it would not be a hand-me-down from the company's famed console titles.&lt;/p&gt;</summary>
-    <dc:date>2015-03-17T11:26:12Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/9be/technology/tech-news/article23492554.ece/ALTERNATES/w220/web-nintendo-0317.JPG" />
   </entry>
   <entry>
     <title>Super Mario to go mobile as Nintendo ventures into smartphone games</title>

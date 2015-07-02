@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russia halts gas supply to Ukraine amid pricing dispute</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/7/1/russia-halts-gas-supply-to-ukraine-amid-pricing-dispute.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T11:54:00Z</updated>
+    <published>2015-07-01T11:54:00Z</published>
+    <summary type="html">&lt;p&gt;"Gazprom is not going to send gas to Ukraine at any price without the advance payment," Miller said in comments carried by Russian news agencies.&lt;/p&gt;</summary>
+    <dc:date>2015-07-01T11:54:00Z</dc:date>
+    <media:content url="merica.aljazeera.com/content/ajam/articles/2015/6/22/eu-extends-sanctions-on-russia-over-ukraine/_jcr_content/image.adapt.480.low.Russia_Peskov_062215_.jpg" />
+  </entry>
+  <entry>
     <title>Russia fails to reach deal on future gas supplies to Ukraine amid price differences</title>
     <link rel="alternate" href="http://www.startribune.com/russia-fails-to-clinch-deal-on-gas-supplies-to-ukraine/311023701/" />
     <author>

@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>2nd Ebola case declared in Liberia as health workers protest</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/01/2nd-ebola-case-declared-in-liberia-as-health-workers-protest" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T18:29:33Z</updated>
+    <published>2015-07-01T18:29:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-01T18:29:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>2nd Ebola case declared in Liberia as health workers protest</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/2nd-ebola-case-declared-in-liberia-as-health-worke/nmp4R/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T18:29:33Z</updated>
+    <published>2015-07-01T18:29:33Z</published>
+    <summary type="html">&lt;p&gt;Health Minister Bernice Dahn said Liberia has paid hazard benefits to "99 percent" of people who worked in the Ebola treatment units in addition to their regular salaries.&lt;/p&gt;&lt;p&gt;Also Wednesday, workers exhumed the body of the 17-year-old male student whose infection, detected after his death, sparked fears of the return of Ebola to Liberia.&lt;/p&gt;</summary>
+    <dc:date>2015-07-01T18:29:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Liberia quarantines an area where new Ebola case appeared</title>
     <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Liberia-quarantines-community-where-corpse-tested-6357541.php" />
     <author>

@@ -4,6 +4,65 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Spot the difference: Facebook introduces a new logo... I think?</title>
+    <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/spot-the-difference-facebook-introduces-a-new-logo-i-think-20150702-gi3eiq.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T04:20:16Z</updated>
+    <published>2015-07-02T04:20:16Z</published>
+    <summary type="html">&lt;p&gt;Spot the difference: Facebook introduces a new logo... I think?&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T04:20:16Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/3/h/m/r/image.related.articleLeadwide.620x349.gi3eiq.png/1435810639938.jpg" />
+  </entry>
+  <entry>
+    <title>Facebook to share ad revenue on videos</title>
+    <link rel="alternate" href="http://nypost.com/2015/07/01/facebook-to-share-ad-revenue-on-videos/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T03:24:07Z</updated>
+    <published>2015-07-02T03:24:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-02T03:24:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook Primps Its Logo With Mobile In Mind</title>
+    <link rel="alternate" href="http://www.forbes.com/sites/kathleenchaykowski/2015/07/01/facebook-primps-its-logo-with-mobile-in-mind/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T18:13:00Z</updated>
+    <published>2015-07-01T18:13:00Z</published>
+    <summary type="html">&lt;p&gt;Facebook worked with Eric Olson, whose Klavika typeface was used in the original logo, to make the new custom font, the company said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-01T18:13:00Z</dc:date>
+    <media:content url="http://blogs-images.forbes.com/kathleenchaykowski/files/2015/07/WordmarkBeforeAfter_v2-1940x1095.jpg" />
+  </entry>
+  <entry>
+    <title>Facebook’s New Logo: Can You Spot the Difference?</title>
+    <link rel="alternate" href="http://blogs.wsj.com/digits/2015/07/01/small-tweak-in-logo-marks-a-deeper-shift-at-facebook/?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T17:46:13Z</updated>
+    <published>2015-07-01T17:46:13Z</published>
+    <summary type="html">&lt;p&gt;"Now that we are established, we set out to modernize the logo to make it feel more friendly and approachable," Facebook creative director Josh Higgins said in a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-07-01T17:46:13Z</dc:date>
+    <media:content url="http://s.wsj.net/blogs/img/digits_logo.png" />
+  </entry>
+  <entry>
+    <title>Austrian's case against Facebook suffers a setback</title>
+    <link rel="alternate" href="http://www.rte.ie/news/business/2015/0701/711922-vienna-facebook-court/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T11:04:58Z</updated>
+    <published>2015-07-01T11:04:58Z</published>
+    <summary type="html">&lt;p&gt;An Austrian student's legal battle against Facebook, accusing it of helping the US security service to collect personal data, suffered a setback after a Vienna court rejected his case on procedural grounds, both sides have said.&lt;/p&gt;&lt;p&gt;"This litigation was unnecessary and we're pleased that the court has roundly rejected these claims," a spokesman for Facebook said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-01T11:04:58Z</dc:date>
+    <media:content url="http://img.rasset.ie/0009547c-642.jpg" />
+  </entry>
+  <entry>
     <title>Las Vegas man accused of threatening Obama in Facebook posts</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article25853248.html%23storylink=rss" />
     <author>
