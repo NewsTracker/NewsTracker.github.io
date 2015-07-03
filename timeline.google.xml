@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google apologizes after report of photo app tagging black people as 'gorillas'</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/07/02/google-apologizes-after-report-of-photo-app-tagging-black-people-as-gorillas" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T14:28:54Z</updated>
+    <published>2015-07-03T14:28:54Z</published>
+    <summary type="html">&lt;p&gt;Google says it's "appalled and genuinely sorry" for what happened with the image-recognition feature.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T14:28:54Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297714606967_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Google's new app blunders by calling black people 'gorillas'</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28423440/googles-new-app-blunders-by-calling-black-people?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T21:27:05Z</updated>
+    <published>2015-07-02T21:27:05Z</published>
+    <summary type="html">&lt;p&gt;The images showed the recently released Google Photos app had sorted a picture of two black people into a category labeled as "gorillas."&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T21:27:05Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2014/1203/20141203__1204google%7E1_300.JPG" />
+  </entry>
+  <entry>
+    <title>Google 'genuinely sorry' after report photo app tagged black people 'gorillas'</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/google-genuinely-sorry-after-report-photo-app-tagged-black-people-gorillas-1.2450232" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T15:02:00Z</updated>
+    <published>2015-07-02T15:02:00Z</published>
+    <summary type="html">&lt;p&gt;The "Google" logo is pictured.&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T15:02:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Google Photo App Labels Black Couple 'Gorillas'</title>
     <link rel="alternate" href="http://news.sky.com/story/1511686/google-photo-app-labels-black-couple-gorillas" />
     <author>

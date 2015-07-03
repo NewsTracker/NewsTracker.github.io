@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Slovak agency: Russian spies increase activities in EU, NATO</title>
+    <link rel="alternate" href="http://news.yahoo.com/slovak-agency-russian-spies-increase-activities-eu-nato-142802669.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T14:28:02Z</updated>
+    <published>2015-07-03T14:28:02Z</published>
+    <summary type="html">&lt;p&gt;BRATISLAVA, Slovakia (AP) - Slovakia's spy agency says Russian agents have significantly increased their activities in Slovakia and all other NATO and European Union countries in connection with the crisis in Ukraine.&lt;/p&gt;&lt;p&gt;The SIS says Russia has been actively supporting the separatists in Ukraine to keep the country under its sphere of influence.&lt;/p&gt;&lt;p&gt;It says Ukraine's conflict strengthened the position of conservatives close to Russian President Vladimir Putin.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T14:28:02Z</dc:date>
+  </entry>
+  <entry>
+    <title>NATO chief in Romania to inspect site where alliance to build facility in reaction to Ukraine</title>
+    <link rel="alternate" href="http://www.startribune.com/nato-chief-to-inspect-site-of-future-alliance-facility/311392251/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T07:35:57Z</updated>
+    <published>2015-07-02T07:35:57Z</published>
+    <summary type="html">&lt;p&gt;BUCHAREST, Romania - NATO Secretary General Jens Stoltenberg is meeting top officials in Romania and will inspect a site where the alliance will build a facility in reaction to the crisis in Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T07:35:57Z</dc:date>
+  </entry>
+  <entry>
     <title>Russia halts gas supply to Ukraine amid pricing dispute</title>
     <link rel="alternate" href="http://america.aljazeera.com/articles/2015/7/1/russia-halts-gas-supply-to-ukraine-amid-pricing-dispute.html" />
     <author>
