@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bubba Watson to remove Confederate flag from 'General Lee' (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bubba-watson-remove-confederate-flag-general-lee-184254804--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T21:58:39Z</updated>
+    <published>2015-07-03T21:58:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-03T21:58:39Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/nI97yq3no0XY5iEXm3Cj1g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507031323481849388" />
+  </entry>
+  <entry>
+    <title>AP sources: Mavericks, DeAndre Jordan agree to 4-year deal (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/ap-sources-mavericks-deandre-jordan-agree-4-deal-203329223--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T21:34:27Z</updated>
+    <published>2015-07-03T21:34:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-03T21:34:27Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/sX.vaGkA7iXeY0u3B.Lwqg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507031535561539882" />
+  </entry>
+  <entry>
+    <title>Nazi concentration camps found in mobile game</title>
+    <link rel="alternate" href="http://technology.canoe.com/Gaming/News/2015/07/03/22486341.html?cid=rsstechnologygaming" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T15:19:49Z</updated>
+    <published>2015-07-03T15:19:49Z</published>
+    <summary type="html">&lt;p&gt;BERLIN -- A Google subsidiary has apologized for making Nazi concentration camps part of a mobile role-playing game.&lt;/p&gt;&lt;p&gt;Gabriele Hammermann, director of the memorial site at Dachau, told the dpa news agency that Google's actions were a humiliation for victims and relatives of the Nazi camps.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T15:19:49Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/Gaming/News/2015/07/03/ingress650c.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Google apologizes for app tagging black people as 'gorillas'</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/07/02/22484626.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T17:05:01Z</updated>
+    <published>2015-07-02T17:05:01Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK -- Google is apologizing after reports surfaced that an automatic image-recognition feature in its Photos application was identifying images of some black people as "gorillas."&lt;/p&gt;&lt;p&gt;A New York man posted a picture of himself and a female friend on Twitter earlier this week, showing that the Google image software had tagged both of them as "gorillas," which is sometimes used as a racial slur.&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T17:05:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Google apologizes after report of photo app tagging black people as 'gorillas'</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/07/02/google-apologizes-after-report-of-photo-app-tagging-black-people-as-gorillas" />
     <author>

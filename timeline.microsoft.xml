@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>As Explorer loses ground, Microsoft readies new web browser</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/As-Explorer-loses-ground-Microsoft-readies-new-6143211.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-18T21:45:41Z</updated>
+    <published>2015-03-18T21:45:41Z</published>
+    <summary type="html">&lt;p&gt;After 20 years of competing against rival web browsers, Microsoft is gearing up to launch its own alternative to its once-dominant Internet surfing program.&lt;/p&gt;&lt;p&gt;Microsoft has built a new web browser designed for the modern web and mobile devices to go with its new Windows 10 operating system that's coming later this year.&lt;/p&gt;&lt;p&gt;Explorer will still be available, but Microsoft hinted this week that its new - and as-yet unnamed - browser will get top billing in the future.&lt;/p&gt;&lt;p&gt;Microsoft didn't invent the web browser, but it has invested heavily to promote Explorer since it was first launched in 1995.&lt;/p&gt;&lt;p&gt;Microsoft is betting heavily that its new Windows 10 software will appeal to computer users who are increasingly using mobile devices.&lt;/p&gt;</summary>
+    <dc:date>2015-03-18T21:45:41Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/35/22/14/7676711/3/622x350.jpg" />
+  </entry>
+  <entry>
     <title>Microsoft hands display ads to AOL, maps to Uber</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/29/us-microsoft-employment-idUSKCN0P92PT20150629?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
@@ -1302,18 +1314,6 @@
     <published>2015-03-23T18:25:01Z</published>
     <summary type="html" />
     <dc:date>2015-03-23T18:25:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>As Explorer loses ground, Microsoft readies new web browser</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/As-Explorer-loses-ground-Microsoft-readies-new-6143211.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T21:45:41Z</updated>
-    <published>2015-03-18T21:45:41Z</published>
-    <summary type="html">&lt;p&gt;After 20 years of competing against rival web browsers, Microsoft is gearing up to launch its own alternative to its once-dominant Internet surfing program.&lt;/p&gt;&lt;p&gt;Microsoft has built a new web browser designed for the modern web and mobile devices to go with its new Windows 10 operating system that's coming later this year.&lt;/p&gt;&lt;p&gt;Explorer will still be available, but Microsoft hinted this week that its new - and as-yet unnamed - browser will get top billing in the future.&lt;/p&gt;&lt;p&gt;Microsoft didn't invent the web browser, but it has invested heavily to promote Explorer since it was first launched in 1995.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T21:45:41Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/35/22/14/7676711/3/622x350.jpg" />
   </entry>
   <entry>
     <title>Microsoft must face Xbox 360 class action claims</title>

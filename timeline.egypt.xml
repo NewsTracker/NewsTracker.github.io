@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rockets land in Israel, Egypt's IS affiliate claims responsibility</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/03/us-israel-palestinians-rocket-claim-idUSKCN0PD26320150703?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T21:05:59Z</updated>
+    <published>2015-07-03T21:05:59Z</published>
+    <summary type="html">&lt;p&gt;Islamic State's Egypt affiliate, Sinai Province, said in a statement posted on Twitter by supporters that it had launched three Grad rockets toward "occupied Palestine".&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T21:05:59Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt marks 2nd anniversary of Islamist ouster with mourning</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/egypt-marks-2nd-anniversary-of-islamist-ouster-wit/nmrQM/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T20:57:13Z</updated>
+    <published>2015-07-03T20:57:13Z</published>
+    <summary type="html">&lt;p&gt;Two years to the day after the army overthrew Egypt's Islamist president, the sounds coming from the mosque at Cairo's Tahrir Square were sadly telling.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T20:57:13Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/03/6d/90/aad568d79cc94341ba8f7fc8128faed0-5989351e162c4dc897cae975e9a7f1ab-0.jpg" />
+  </entry>
+  <entry>
+    <title>First hanging over pro-Morsi violence in Egypt</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0307/685312-egypt/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-07T23:21:24Z</updated>
+    <published>2015-03-07T23:21:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-03-07T23:21:24Z</dc:date>
+    <media:content url="http://img.rasset.ie/000a43fc-219.jpg" />
+  </entry>
+  <entry>
     <title>Egypt's president vows 'swift justice' after assassination</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egypt-prepares-for-burial-of-slain-prosecutor-6357320.php" />
     <author>

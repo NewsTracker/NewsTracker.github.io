@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dr. Dre announces new radio show on Apple Music service</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article26411590.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T21:18:52Z</updated>
+    <published>2015-07-03T21:18:52Z</published>
+    <summary type="html">&lt;p&gt;Apple bought Dre and Jimmy Iovine's Beats by Dre company last year.&lt;/p&gt;&lt;p&gt;Apple's new streaming service features live radio programming, including shows hosted by Zane Lowe, Ebro Darden and Julie Adenuga.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T21:18:52Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Dr. Dre announces new radio show on Apple Music service</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article26411590.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T21:18:52Z</updated>
+    <published>2015-07-03T21:18:52Z</published>
+    <summary type="html">&lt;p&gt;Dr. Dre will be busting through your speakers with a new radio show on Apple Music.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T21:18:52Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Apple Music promises revolution, but traditional DJs are what set it apart</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article26042317.html%23storylink=rss" />
     <author>

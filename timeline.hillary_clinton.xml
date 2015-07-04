@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton to visit New Hampshire next week</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/16/hillary-clinton-to-visit-new-hampshire-next-week" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-04-16T18:36:27Z</updated>
+    <published>2015-04-16T18:36:27Z</published>
+    <summary type="html">&lt;p&gt;CONCORD, N.H. (AP) - Hillary Rodham Clinton will make her first trip as a presidential candidate to the early voting state of New Hampshire next week.&lt;/p&gt;&lt;p&gt;Hillary Clinton last visited New Hampshire in November to stump for Democratic Sen. Jeanne Shaheen and Gov. Maggie Hassan.&lt;/p&gt;&lt;p&gt;The Clinton campaign said the former secretary of state will participate in small events Monday and Tuesday, including roundtables with students and small-business employees.&lt;/p&gt;</summary>
+    <dc:date>2015-04-16T18:36:27Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/4c1c9fc/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fe1%2F48e7defbeb4f4dffa950e2892c05e0%2Fmedia%3A410382c646ea4cdaacb30f1be59af38dDEM2016Clinton.JPEG" />
+  </entry>
+  <entry>
     <title>Hillary Clinton’s emails reveal fax machine confusion</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-emails-reveal-fax-machine-confusion-article-1.2277727?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>
@@ -1233,18 +1245,6 @@
     <summary type="html">&lt;p&gt;Hillary Clinton might have a problem with voters such as Linda Deitz.&lt;/p&gt;&lt;p&gt;But Hillary Clinton is a different story.&lt;/p&gt;</summary>
     <dc:date>2015-04-16T20:38:36Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton to visit New Hampshire next week</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/04/16/hillary-clinton-to-visit-new-hampshire-next-week" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-04-16T18:36:27Z</updated>
-    <published>2015-04-16T18:36:27Z</published>
-    <summary type="html">&lt;p&gt;CONCORD, N.H. (AP) - Hillary Rodham Clinton will make her first trip as a presidential candidate to the early voting state of New Hampshire next week.&lt;/p&gt;&lt;p&gt;Hillary Clinton last visited New Hampshire in November to stump for Democratic Sen. Jeanne Shaheen and Gov. Maggie Hassan.&lt;/p&gt;</summary>
-    <dc:date>2015-04-16T18:36:27Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/4c1c9fc/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fe1%2F48e7defbeb4f4dffa950e2892c05e0%2Fmedia%3A410382c646ea4cdaacb30f1be59af38dDEM2016Clinton.JPEG" />
   </entry>
   <entry>
     <title>Hillary Clinton to visit New Hampshire next week</title>

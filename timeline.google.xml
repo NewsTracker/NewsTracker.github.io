@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nazi concentration camps found in mobile game</title>
+    <link rel="alternate" href="http://technology.canoe.com/Gaming/News/2015/07/03/22486341.html?cid=rsstechnologygaming" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T15:19:49Z</updated>
+    <published>2015-07-03T15:19:49Z</published>
+    <summary type="html">&lt;p&gt;BERLIN -- A Google subsidiary has apologized for making Nazi concentration camps part of a mobile role-playing game.&lt;/p&gt;&lt;p&gt;Gabriele Hammermann, director of the memorial site at Dachau, told the dpa news agency that Google's actions were a humiliation for victims and relatives of the Nazi camps.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T15:19:49Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/Gaming/News/2015/07/03/ingress650c.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Google apologizes for app tagging black people as 'gorillas'</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/07/02/22484626.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T17:05:01Z</updated>
+    <published>2015-07-02T17:05:01Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK -- Google is apologizing after reports surfaced that an automatic image-recognition feature in its Photos application was identifying images of some black people as "gorillas."&lt;/p&gt;&lt;p&gt;A New York man posted a picture of himself and a female friend on Twitter earlier this week, showing that the Google image software had tagged both of them as "gorillas," which is sometimes used as a racial slur.&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T17:05:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Google apologizes after report of photo app tagging black people as 'gorillas'</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/07/02/google-apologizes-after-report-of-photo-app-tagging-black-people-as-gorillas" />
     <author>
