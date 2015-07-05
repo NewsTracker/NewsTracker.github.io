@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sky? Skype? EU court backs Murdoch over Microsoft in name battle</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/05/06/us-microsoft-murdoch-skype-idUSKBN0NQ29E20150506?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-05-06T01:22:36Z</updated>
+    <published>2015-05-06T01:22:36Z</published>
+    <summary type="html">&lt;p&gt;U.S. tech giant Microsoft, which owns the Skype service, may appeal.&lt;/p&gt;</summary>
+    <dc:date>2015-05-06T01:22:36Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150506&amp;amp;t=2&amp;amp;i=1046041089&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB440WV" />
+  </entry>
+  <entry>
     <title>As Explorer loses ground, Microsoft readies new web browser</title>
     <link rel="alternate" href="http://www.chron.com/business/technology/article/As-Explorer-loses-ground-Microsoft-readies-new-6143211.php" />
     <author>

@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>England beats Germany 1-0 in extra time to finish 3rd (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/england-beats-germany-1-0-extra-time-finish-224317305--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-05T01:30:13Z</updated>
+    <published>2015-07-05T01:30:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-05T01:30:13Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/IQbXJ8b.F4NaCSWB3rBPjw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507041741636926053" />
+  </entry>
+  <entry>
+    <title>Chile beats Argentina 4-1 on penalties to win Copa America (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/chile-beats-argentina-4-1-penalties-win-copa-011527265--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-05T01:15:27Z</updated>
+    <published>2015-07-05T01:15:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-05T01:15:27Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/DQxXEcyXY32Vp73_SsmRZA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507041850678246720" />
+  </entry>
+  <entry>
+    <title>LaMarcus Aldridge chooses the San Antonio Spurs (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/lamarcus-aldridge-chooses-san-antonio-spurs-170614232--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-04T21:30:28Z</updated>
+    <published>2015-07-04T21:30:28Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-04T21:30:28Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/uTx3Y32fjujEh43JwDpTtw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507041140420413307" />
+  </entry>
+  <entry>
+    <title>Harper uses patriotic themed bat, homers to help Nats win (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/strasburg-injured-nats-9-3-win-over-sf-184119639--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-04T21:09:34Z</updated>
+    <published>2015-07-04T21:09:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-04T21:09:34Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/epQntLwE_FQtL6K18eLlWw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://d.yimg.com/hd/mlbcom/0/6/6ef5baa1-b421-4227-9f87-9010f232bd0f_H-Sj3_FyX8d6dQxAUTMHkCJD2hPyrRtowJgAgKKqMCobSgltP4f7rOLhnqngyUjqw6Mz3Dz6Dcs-_2_0.jpg?s=3de8f0875f2c5edb2e660a02502be318&amp;amp;c=ccd8f0d0ac42448faa430710b0318d5f&amp;amp;a=mlbcom&amp;amp;mr=0" />
+  </entry>
+  <entry>
     <title>Bubba Watson to remove Confederate flag from 'General Lee' (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/bubba-watson-remove-confederate-flag-general-lee-184254804--golf.html" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.van_morrison.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Van Morrison knighted in Queen's honours list</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0612/707614-queens-honours-list/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-12T22:42:34Z</updated>
+    <published>2015-06-12T22:42:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-06-12T22:42:34Z</dc:date>
+    <media:content url="http://img.rasset.ie/000ab706-642.jpg" />
+  </entry>
+  <entry>
     <title>Lady Gaga, Van Morrison honored at songwriters ceremony</title>
     <link rel="alternate" href="http://nypost.com/2015/06/19/lady-gaga-van-morrison-honored-at-songwriters-ceremony/" />
     <author>

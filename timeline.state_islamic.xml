@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Deadly strikes by US-led coalition targeting IS in Raqqa</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/05/deadly-strikes-by-us-led-coalition-targeting-is/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-05T09:45:10Z</updated>
+    <published>2015-07-05T09:45:10Z</published>
+    <summary type="html">&lt;p&gt;The airstrikes were confirmed by the coalition, Raqqa-base activists and the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-07-05T09:45:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State says it destroyed archaeological pieces from Palmyra</title>
     <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/07/03/islamic-state-palmyra/29661517/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
     <author>
