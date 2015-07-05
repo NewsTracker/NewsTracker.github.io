@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Taylor Swift: 'I've decided to put 1989 on Apple Music ... and happily so'</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article25502572.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T08:00:00Z</updated>
+    <published>2015-06-25T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;Taylor Swift's album "1989" will be available on Apple's new music service, following the company's reversal of a controversial policy on royalties.&lt;/p&gt;&lt;p&gt;"After the events of this week, I've decided to put 1989 on Apple Music ... and happily so," Swift said on Twitter.&lt;/p&gt;&lt;p&gt;Apple Music charges $9.99 a month for its Spotify-like service, which launches Tuesday.&lt;/p&gt;&lt;p&gt;Apple has promised to pay rights holders at least 71.5 percent of its streaming revenue when customers pay the $9.99 a month subscription.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T08:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Dr. Dre announces new radio show on Apple Music service</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article26411590.html%23storylink=rss" />
     <author>
@@ -305,17 +316,6 @@
     <published>2015-06-25T15:53:07Z</published>
     <summary type="html">&lt;p&gt;"This is simply the first time it's felt right in my gut to stream my album. Thank you, Apple, for your change of heart."&lt;/p&gt;</summary>
     <dc:date>2015-06-25T15:53:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Taylor Swift: 'I've decided to put 1989 on Apple Music ... and happily so'</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article25502572.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T08:00:00Z</updated>
-    <published>2015-06-25T08:00:00Z</published>
-    <summary type="html">&lt;p&gt;Taylor Swift's album "1989" will be available on Apple's new music service, following the company's reversal of a controversial policy on royalties.&lt;/p&gt;&lt;p&gt;"After the events of this week, I've decided to put 1989 on Apple Music ... and happily so," Swift said on Twitter.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T08:00:00Z</dc:date>
   </entry>
   <entry>
     <title>Taylor Swift Has Apple Changing Its Tune</title>

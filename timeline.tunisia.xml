@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tunisia declares state of emergency after beach attack</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Tunisia-declares-state-of-emergency-after-beach-attack/articleshow/47938747.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-05T01:30:43Z</updated>
+    <published>2015-07-05T01:30:43Z</published>
+    <summary type="html">&lt;p&gt;Tunisia has faced a post-revolution surge in jihadist violence in which dozens of police and soldiers have been killed.&lt;/p&gt;&lt;p&gt;The jihadist attacks have dealt a heavy blow to the tourism industry, which contributes between seven and eight percent of Tunisia's GDP.&lt;/p&gt;</summary>
+    <dc:date>2015-07-05T01:30:43Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47938759,width-300,resizemode-4/Tunisia-declares-state-of-emergency-after-beach-attack.jpg" />
+  </entry>
+  <entry>
+    <title>Tunisia declares state of emergency after deadly beach hotel</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/world/tunisian-leader-calls-state-emergency-beach-attack-article-1.2281304" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-04T16:19:48Z</updated>
+    <published>2015-07-04T16:19:48Z</published>
+    <summary type="html">&lt;p&gt;With a nationwide televised address, President Beji Caid Essebsi officially reintroduced urgent security measures for Tunisia that had been lifted in March 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-07-04T16:19:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>State of emergency declared in Tunisia</title>
+    <link rel="alternate" href="https://www.tvnz.co.nz/one-news/world/state-of-emergency-declared-in-tunisia-6353092.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-04T15:03:00Z</updated>
+    <published>2015-07-04T15:03:00Z</published>
+    <summary type="html">&lt;p&gt;Tunisia's government has promised new laws to increase police powers and provide for harsher penalties for terrorism convictions.&lt;/p&gt;</summary>
+    <dc:date>2015-07-04T15:03:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Tunisia imposes state of emergency after deadly beach attack</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/tunisian-leader-calls-state-of-emergency-state-med/nmrcm/" />
     <author>

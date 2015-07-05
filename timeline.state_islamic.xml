@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State suicide bombers strike in Iraqi refinery town</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/05/us-mideast-crisis-iraq-idUSKCN0PF0EA20150705?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-05T15:29:22Z</updated>
+    <published>2015-07-05T15:29:22Z</published>
+    <summary type="html">&lt;p&gt;The latest Islamic State offensive comes after authorities said they controlled nearly the whole town and expected to drive insurgents from the refinery within days.&lt;/p&gt;&lt;p&gt;Baiji mayor Mahmoud al-Jabouri said there had been a pattern of withdrawals by Islamic State fighters in the town followed by counter-offensives.&lt;/p&gt;&lt;p&gt;"Islamic State fighters are still holding positions in three neighborhoods in Baiji and they are still receiving reinforcements," said one of the army colonels.&lt;/p&gt;</summary>
+    <dc:date>2015-07-05T15:29:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State attacks Syrian army and Kurds in twin assault</title>
+    <link rel="alternate" href="http://news.yahoo.com/islamic-state-attacks-syrian-army-kurds-offensive-064241784.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T18:27:03Z</updated>
+    <published>2015-06-25T18:27:03Z</published>
+    <summary type="html">&lt;p&gt;Islamic State advanced rapidly last month, seizing cities in Syria and Iraq.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T18:27:03Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/cYI.VUZ6hVEPM9tvGDZYhQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5MztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-06-25T150628Z_1_LYNXMPEB5O0RZ_RTROPTP_2_MIDEAST-CRISIS-SYRIA.JPG" />
+  </entry>
+  <entry>
+    <title>British citizen fighting with Kurds killed in Syria</title>
+    <link rel="alternate" href="http://news.yahoo.com/british-citizen-fighting-kurds-killed-syria-084608055.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-03-04T08:46:08Z</updated>
+    <published>2015-03-04T08:46:08Z</published>
+    <summary type="html">&lt;p&gt;IRBIL, Iraq (AP) - A British citizen fighting alongside Kurdish forces against the Islamic State group has been killed in Syria, a Kurdish commander said Wednesday.&lt;/p&gt;&lt;p&gt;Dozens of foreign fighters have traveled to Syria and neighboring Iraq to fight with Kurdish militias battling the Islamic State group.&lt;/p&gt;&lt;p&gt;Australia was also one of the first countries to criminalize travel to Syria's al-Raqqa province, where the Islamic State group has established the de facto capital of its self-styled caliphate.&lt;/p&gt;</summary>
+    <dc:date>2015-03-04T08:46:08Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/3.tWkCPzIgz8oX.HGWzegQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/26d2daeb25f4cb0a6f0f6a7067009d66.jpg" />
+  </entry>
+  <entry>
     <title>Deadly strikes by US-led coalition targeting IS in Raqqa</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/05/deadly-strikes-by-us-led-coalition-targeting-is/" />
     <author>
@@ -8743,18 +8778,6 @@
     <published>2015-03-04T12:00:58Z</published>
     <summary type="html">&lt;p&gt;The clashes at al-Dhahra are among the first known instances of Libya's Islamist-allied militias battling the Islamic State affiliate.&lt;/p&gt;</summary>
     <dc:date>2015-03-04T12:00:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>British citizen fighting with Kurds killed in Syria</title>
-    <link rel="alternate" href="http://news.yahoo.com/british-citizen-fighting-kurds-killed-syria-084608055.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-04T08:46:08Z</updated>
-    <published>2015-03-04T08:46:08Z</published>
-    <summary type="html">&lt;p&gt;IRBIL, Iraq (AP) - A British citizen fighting alongside Kurdish forces against the Islamic State group has been killed in Syria, a Kurdish commander said Wednesday.&lt;/p&gt;&lt;p&gt;Dozens of foreign fighters have traveled to Syria and neighboring Iraq to fight with Kurdish militias battling the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-03-04T08:46:08Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/3.tWkCPzIgz8oX.HGWzegQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/26d2daeb25f4cb0a6f0f6a7067009d66.jpg" />
   </entry>
   <entry>
     <title>British citizen fighting with Kurds killed in Syria</title>

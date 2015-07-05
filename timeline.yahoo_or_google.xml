@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google's new self-driving cars cruising Silicon Valley roads</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-s-new-self-driving-cars-cruising-Silicon-6349564.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T21:03:53Z</updated>
+    <published>2015-06-25T21:03:53Z</published>
+    <summary type="html">&lt;p&gt;California's Department of Motor Vehicles have given Google permission to send up to 25 of its latest self-driving cars on neighborhood roads.&lt;/p&gt;&lt;p&gt;Google had installed its robotic driving technology in Lexus sports utility vehicles during the first few years of testing before developing the smaller prototype.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T21:03:53Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/37/25/33/8214215/5/628x471.jpg" />
+  </entry>
+  <entry>
     <title>England beats Germany 1-0 in extra time to finish 3rd (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/england-beats-germany-1-0-extra-time-finish-224317305--sow.html" />
     <author>
@@ -393,18 +405,6 @@
     <published>2015-06-11T22:03:38Z</published>
     <summary type="html">&lt;p&gt;Google's Chief Executive Larry Page has announced the tech giant's latest moonshot, a new company whose mission is to revolutionize urban life.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T22:03:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google's new self-driving cars cruising Silicon Valley roads</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-s-new-self-driving-cars-cruising-Silicon-6349564.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T21:03:53Z</updated>
-    <published>2015-06-25T21:03:53Z</published>
-    <summary type="html">&lt;p&gt;California's Department of Motor Vehicles have given Google permission to send up to 25 of its latest self-driving cars on neighborhood roads.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T21:03:53Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/37/25/33/8214215/5/628x471.jpg" />
   </entry>
   <entry>
     <title>NFL players union complains about Pats disciplining Butler (Yahoo Sports)</title>

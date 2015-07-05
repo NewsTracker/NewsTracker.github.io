@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's currency drops to new low against the dollar</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11476257&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-05T12:35:16Z</updated>
+    <published>2015-07-05T12:35:16Z</published>
+    <summary type="html">&lt;p&gt;CAIRO (AP) " Egypt's central bank says the Egyptian pound has fallen to a new low against the dollar, its second such drop since Thursday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-05T12:35:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>IS in Egypt claims rocket attack on Israel</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/IS-in-Egypt-claims-rocket-attack-on-Israel/articleshow/47932910.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T23:18:13Z</updated>
+    <published>2015-07-03T23:18:13Z</published>
+    <summary type="html">&lt;p&gt;Egypt's military deployed F-16 warplanes to bombard IS jihadists who battled troops after launching their surprise dawn attack.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T23:18:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt foiled extremist 'state' in Sinai, president says</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/04/egypts-president-visits-troops-in-embattled-north-sinai" />
     <author>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Israel's Netanyahu Says Better Iran Deal Still Possible</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/israels-netanyahu-iran-deal-32027279" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T17:04:38Z</updated>
+    <published>2015-06-25T17:04:38Z</published>
+    <summary type="html">&lt;p&gt;Benjamin Netanyahu told a graduating class of pilots Thursday that "it is still not too late to insist on a good deal."&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T17:04:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Netanyahu rejects French-led Palestine peace plan</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-22/netanyahu-rejects-french-led-palestine-peace-plan/6562274" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T19:53:01Z</updated>
+    <published>2015-06-21T19:53:01Z</published>
+    <summary type="html">&lt;p&gt;"In the international proposals that have been suggested to us - which they are actually trying to force upon us - there is no real reference to Israel's security needs or our other national interests," Mr Netanyahu said.&lt;/p&gt;&lt;p&gt;"The only way to reach agreements is through bilateral negotiations [between Israel and Palestine], and we will firmly reject attempts to force international dictates on us," Mr Netanyahu said.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T19:53:01Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6562276-3x2-340x227.jpg" />
+  </entry>
+  <entry>
     <title>Massachusetts delegation divided on Netanyahu speech</title>
     <link rel="alternate" href="http://www.washingtontimes.com/news/2015/mar/2/massachusetts-delegation-divided-on-netanyahu-spee/?utm_source=RSS_Feed&amp;amp;utm_medium=RSS" />
     <author>
@@ -60,18 +83,6 @@
     <published>2015-06-25T17:03:53Z</published>
     <summary type="html">&lt;p&gt;Netanyahu has dubbed it a "bad deal," saying it would leave Iran with the ability to rapidly obtain nuclear weapons.&lt;/p&gt;</summary>
     <dc:date>2015-06-25T17:03:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Netanyahu rejects French-led Palestine peace plan</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-22/netanyahu-rejects-french-led-palestine-peace-plan/6562274" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T19:53:01Z</updated>
-    <published>2015-06-21T19:53:01Z</published>
-    <summary type="html">&lt;p&gt;"In the international proposals that have been suggested to us - which they are actually trying to force upon us - there is no real reference to Israel's security needs or our other national interests," Mr Netanyahu said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T19:53:01Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/6562276-3x2-340x227.jpg" />
   </entry>
   <entry>
     <title>Netanyahu gives cool reception to French peace initiative</title>
