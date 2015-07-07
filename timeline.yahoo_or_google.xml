@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Google's new self-driving cars cruising Silicon Valley roads</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28382756/googles-new-self-driving-cars-cruising-silicon-valley?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T22:01:44Z</updated>
+    <published>2015-06-25T22:01:44Z</published>
+    <summary type="html">&lt;p&gt;The debut of the pod-like car will help Google get a better understanding on how well its technology works around other vehicles steered by people.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T22:01:44Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0625/20150625__0626google%7E1_300.JPG" />
+  </entry>
+  <entry>
+    <title>Google's new self-driving cars cruising Silicon Valley roads</title>
     <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-s-new-self-driving-cars-cruising-Silicon-6349564.php" />
     <author>
       <name />

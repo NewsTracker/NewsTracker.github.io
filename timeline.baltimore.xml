@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore County police kill unarmed man after suicide threat</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/06/26/baltimore-county-police-kill-unarmed-man-after-suicide-threat/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-26T05:54:31Z</updated>
+    <published>2015-06-26T05:54:31Z</published>
+    <summary type="html">&lt;p&gt;Since January 2012, police responded to 17 domestic violence calls at the home in a quiet suburban community outside Baltimore, said Cpl.&lt;/p&gt;</summary>
+    <dc:date>2015-06-26T05:54:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Recap: Boston vs. Baltimore</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/sports/mlb/charlotte-knights/article25462477.html%23storylink=rss" />
     <author>
@@ -69,17 +80,6 @@
     <summary type="html">&lt;p&gt;Police made at least 27 arrests and Baltimore schools will be shut Tuesday.&lt;/p&gt;</summary>
     <dc:date>2015-04-28T03:20:58Z</dc:date>
     <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150427&amp;amp;i=107316774&amp;amp;w=240&amp;amp;r=107316774-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Baltimore County police kill unarmed man after suicide threat</title>
-    <link rel="alternate" href="http://www.foxnews.com/us/2015/06/26/baltimore-county-police-kill-unarmed-man-after-suicide-threat/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T05:54:31Z</updated>
-    <published>2015-06-26T05:54:31Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-26T05:54:31Z</dc:date>
   </entry>
   <entry>
     <title>Baltimore County police kill unarmed man after suicide threat</title>
