@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google Inc’s Waze mapping company to launch carpooling pilot program in Israel</title>
+    <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/google-incs-waze-mapping-company-to-launch-carpooling-pilot-program-in-israel" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-06T16:15:19Z</updated>
+    <published>2015-07-06T16:15:19Z</published>
+    <summary type="html">&lt;p&gt;Google bought Israel-based Waze, which uses satellite signals from members' smartphones to offer real-time traffic information, for about US$1 billion two years ago.&lt;/p&gt;</summary>
+    <dc:date>2015-07-06T16:15:19Z</dc:date>
+    <media:content url="http://wpmedia.business.financialpost.com/2015/07/waze.jpg?w=620" />
+  </entry>
+  <entry>
+    <title>Google Tests Carpooling Service for Commuters in Israel</title>
+    <link rel="alternate" href="http://blogs.wsj.com/digits/2015/07/06/google-to-pilot-carpooling-service-for-commuters-in-israel/?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-06T14:30:07Z</updated>
+    <published>2015-07-06T14:30:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-06T14:30:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Google's new self-driving cars cruising Silicon Valley roads</title>
     <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Google-s-new-self-driving-cars-cruising-Silicon-6349564.php" />
     <author>

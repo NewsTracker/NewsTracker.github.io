@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boston Marathon bomber files for new trial</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/07/boston-marathon-bomber-files-new-trial" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-06T19:16:26Z</updated>
+    <published>2015-07-06T19:16:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-06T19:16:26Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20150516001133645727-original_800x600.jpg?itok=hMbLeSub" />
+  </entry>
+  <entry>
+    <title>Boston Marathon bomber Dzhokhar Tsarnaev to seek new trial</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/boston-marathon-bomber-dzhokhar-tsarnaev-to-seek-new-trial-31356381.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-06T19:12:12Z</updated>
+    <published>2015-07-06T19:12:12Z</published>
+    <summary type="html">&lt;p&gt;Boston Marathon bomber Dzhokhar Tsarnaev has filed a motion for a new trial, less than two weeks after he was formally sentenced to death for the 2013 attack.&lt;/p&gt;</summary>
+    <dc:date>2015-07-06T19:12:12Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31227299.ece/5b4cd/ALTERNATES/w620/PANews%20BT_P-a5bdef08-9869-4223-b707-e84cdd737a0d_I1.jpg" />
+  </entry>
+  <entry>
     <title>Tsarnaev apologizes for Boston Marathon bombing</title>
     <link rel="alternate" href="http://www.boston.com/news/local/massachusetts/2015/06/24/valencia-tsarnaev-apologizes-for-boston-marathon-bombing/ZLFsxeexMCs5Y0i6XSQH8I/video.html" />
     <author>

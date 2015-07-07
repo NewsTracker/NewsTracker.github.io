@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>CNN to interview Hillary Clinton about her 2016 presidential campaign</title>
+    <link rel="alternate" href="http://www.startribune.com/clinton-to-sit-with-cnn-for-first-national-interview/311777201/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-06T18:05:16Z</updated>
+    <published>2015-07-06T18:05:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-06T18:05:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>China downplays Hillary Clinton’s claim it hacked U.S. information</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/china-downplays-hillary-clintons-claim-it-hacked-us-information/article25312985/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-06T11:15:33Z</updated>
+    <published>2015-07-06T11:15:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-06T11:15:33Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/abc/video/article24958335.ece/ALTERNATES/w220/Clinton+Pushes+Quality+Childhood+Education" />
+  </entry>
+  <entry>
     <title>Hillary Clinton, Ellen DeGeneres offer online support for gay child</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/hillary-clinton-ellen-degeneres-offer-online-support-for-gay-child-20150705-gi5ja8.html" />
     <author>

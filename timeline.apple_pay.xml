@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_pay.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Pay: Everything you need to know</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/technology/apple/11720595/Apple-Pay-Everything-you-need-to-know.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-06T14:13:29Z</updated>
+    <published>2015-07-06T14:13:29Z</published>
+    <summary type="html">&lt;p&gt;Apple Pay is said to be launching in the UK on July 14.&lt;/p&gt;</summary>
+    <dc:date>2015-07-06T14:13:29Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03366/applepay_3366211b.jpg" />
+  </entry>
+  <entry>
     <title>Apple makes a swift change of tune</title>
     <link rel="alternate" href="http://www.rte.ie/news/business/2015/0622/709665-apple-taylor-swift/" />
     <author>

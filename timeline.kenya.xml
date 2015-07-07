@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Al-Shabaab gunmen kill Kenyan workers in their sleep</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/kenya/11722689/Al-Shabaab-gunmen-kill-Kenyan-workers-in-their-sleep.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T08:48:12Z</updated>
+    <published>2015-07-07T08:48:12Z</published>
+    <summary type="html">&lt;p&gt;Al-Shabaab gunmen killed at least 14 quarry workers as they slept in an overnight attack in northeast Kenya.&lt;/p&gt;&lt;p&gt;Abbas Gullet, secretary general of Kenya Red Cross, said the workers were attacked as they slept.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T08:48:12Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03366/2014_Kenya_attack_3366938b.jpg" />
+  </entry>
+  <entry>
+    <title>Kenya says Islamic extremists kill 14 in Kenya's north</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/06/kenya-says-islamic-extremists-kill-14-in-kenyas/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T05:46:24Z</updated>
+    <published>2015-07-07T05:46:24Z</published>
+    <summary type="html">&lt;p&gt;Eleven people were also wounded in the attack which took place in Soko Mbuzi village in Mandera County near Kenya's border with Somalia, said Mandera County Commissioner Alex Nkoyo.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T05:46:24Z</dc:date>
+  </entry>
+  <entry>
     <title>As South Sudan conflict rages, UN expands refugee camp in Kenya</title>
     <link rel="alternate" href="http://www.smh.com.au/world/as-south-sudan-conflict-rages-un-expands-refugee-camp-in-kenya-20150621-ghth9q.html" />
     <author>
