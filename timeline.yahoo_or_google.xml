@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google testing self-driving prototype cars in Texas</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/07/07/google-testing-self-driving-prototype-cars-in-texas" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T14:35:46Z</updated>
+    <published>2015-07-07T14:35:46Z</published>
+    <summary type="html">&lt;p&gt;Google and other automotive manufacturers and suppliers have said the technology to build self-driving cars should be ready by 2020.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T14:35:46Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297721358257_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Google Tests Self-Driving Cars in Austin</title>
+    <link rel="alternate" href="http://www.nbcnews.com/tech/innovation/google-begins-testing-self-driving-prototype-cars-austin-texas-n387961" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T14:28:38Z</updated>
+    <published>2015-07-07T14:28:38Z</published>
+    <summary type="html">&lt;p&gt;Google executives have said the company does not want to build its own self-driving cars, but would prefer to find a development and production partner.&lt;/p&gt;&lt;p&gt;The Google self-driving cars have humans on board who can assume manual control of the vehicles if necessary.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T14:28:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>What does Google have in store for the future?</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/Features/2015/06/26/22475396.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-27T10:00:00Z</updated>
+    <published>2015-06-27T10:00:00Z</published>
+    <summary type="html">&lt;p&gt;Rather than just cry about what went wrong and how they lost out on the deal, Google has been hard at work creating its own "Twitch killer."&lt;/p&gt;&lt;p&gt;The most amazing thing about Google, to me, is that the company isn't even 20 years old.&lt;/p&gt;</summary>
+    <dc:date>2015-06-27T10:00:00Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/Features/2015/06/26/1297566239866.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>FSU QB Johnson off team after video shows him punching woman (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/video-shows-florida-state-quarterback-punching-woman-face-001938819--ncaaf.html" />
     <author>
@@ -475,18 +510,6 @@
     <updated>2015-06-27T10:00:00Z</updated>
     <published>2015-06-27T10:00:00Z</published>
     <summary type="html">&lt;p&gt;Did you know that Google has been known to rent goats to "mow" its grass at the Googleplex complex in Mountain View, Calif.?&lt;/p&gt;&lt;p&gt;Google lost out on buying the live-streaming site Twitch last year.&lt;/p&gt;&lt;p&gt;Of course, Google isn't just all about streaming and websites.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T10:00:00Z</dc:date>
-    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/Features/2015/06/26/1297566239866.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
-  </entry>
-  <entry>
-    <title>What does Google have in store for the future?</title>
-    <link rel="alternate" href="http://technology.canoe.com/News/Features/2015/06/26/22475396.html?cid=rsstechnology" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T10:00:00Z</updated>
-    <published>2015-06-27T10:00:00Z</published>
-    <summary type="html">&lt;p&gt;Rather than just cry about what went wrong and how they lost out on the deal, Google has been hard at work creating its own "Twitch killer."&lt;/p&gt;</summary>
     <dc:date>2015-06-27T10:00:00Z</dc:date>
     <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/Features/2015/06/26/1297566239866.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
   </entry>

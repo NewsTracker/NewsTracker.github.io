@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya says Islamic extremists kill 14 in Kenya's north</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/07/kenya-says-islamic-extremists-kill-14-in-kenyas-north" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T14:39:23Z</updated>
+    <published>2015-07-07T14:39:23Z</published>
+    <summary type="html">&lt;p&gt;Kenya Police officers carry a body in Mandera, Kenya, Tuesday, July 7, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T14:39:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Al-Shabaab gunmen kill Kenyan workers in their sleep</title>
     <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/kenya/11722689/Al-Shabaab-gunmen-kill-Kenyan-workers-in-their-sleep.html" />
     <author>

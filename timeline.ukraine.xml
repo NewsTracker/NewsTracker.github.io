@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Russia cuts off power supplies to Ukraine rebels</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Russia-cuts-off-power-supplies-to-Ukraine-rebels-20150707" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T14:00:05Z</updated>
+    <published>2015-07-07T14:00:05Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's Energy Minister Volodymyr Demchyshyn said on Tuesday that energy-rich Russia had recently also stopped supplying electricity to the militia-run regions of Lugansk and Donetsk because bills were not being paid.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T14:00:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russia cuts off power supplies to Ukraine rebels: Kiev</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Russia-cuts-off-power-supplies-to-Ukraine-rebels-Kiev/articleshow/47975555.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T13:47:55Z</updated>
+    <published>2015-07-07T13:47:55Z</published>
+    <summary type="html">&lt;p&gt;KIEV: Kiev said on Tuesday that Russia had cut off electricity to Ukraine's rebel-run regions in what appears to be another sign that Moscow is losing interest in plans to splinter its neighbour.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T13:47:55Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47975708,width-300,resizemode-4/Russian-rebel.jpg" />
+  </entry>
+  <entry>
     <title>Dick Durbin letter to Ukraine PM may be Russian forgery</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/dick-durbin-letter-ukraine-pm-russian-forgery-article-1.2283423?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>

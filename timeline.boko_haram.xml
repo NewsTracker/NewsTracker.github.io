@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Bomb blamed on Boko Haram kills 20 in northern Nigeria</title>
+    <link rel="alternate" href="http://news.yahoo.com/bomb-blamed-boko-haram-kills-20-northern-nigeria-120305360.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T16:02:26Z</updated>
+    <published>2015-07-07T16:02:26Z</published>
+    <summary type="html">&lt;p&gt;Nigeria's police force announced heightened security around mosques and churches after Boko Haram assaults Sunday killed more than 60 people.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T16:02:26Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
+  </entry>
+  <entry>
+    <title>Bomb blamed on Boko Haram kills 20 in northern Nigeria</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-07-07-AF--Boko%20Haram/id-152e363ed3594aeeb1ebf43cf32320cf" />
     <author>
       <name />

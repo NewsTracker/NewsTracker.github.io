@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google tests driverless cars in Austin _ with safety drivers</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article26650732.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T16:03:26Z</updated>
+    <published>2015-07-07T16:03:26Z</published>
+    <summary type="html">&lt;p&gt;Google did not say exactly where the driverless cars would be tested.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T16:03:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google testing self-driving prototype cars in Texas</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/07/07/google-testing-self-driving-prototype-cars-in-texas" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T14:35:46Z</updated>
+    <published>2015-07-07T14:35:46Z</published>
+    <summary type="html">&lt;p&gt;Google and other automotive manufacturers and suppliers have said the technology to build self-driving cars should be ready by 2020.&lt;/p&gt;&lt;p&gt;Google executives have said the company does not want to build its own self-driving cars, but would prefer to find a development and production partner.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T14:35:46Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297721358257_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Google Inc’s Waze mapping company to launch carpooling pilot program in Israel</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/google-incs-waze-mapping-company-to-launch-carpooling-pilot-program-in-israel" />
     <author>

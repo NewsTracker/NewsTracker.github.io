@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft's Xbox Music Renamed Groove Music in Upcoming Windows 10</title>
+    <link rel="alternate" href="https://www.yahoo.com/tech/s/microsofts-xbox-music-renamed-groove-202640022.html?src=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T14:15:31Z</updated>
+    <published>2015-07-07T14:15:31Z</published>
+    <summary type="html">&lt;p&gt;But it seems the new Microsoft Groove and Groove Music Pass have nothing to do with Zikera.&lt;/p&gt;</summary>
+    <dc:date>2015-07-07T14:15:31Z</dc:date>
+    <media:content url="https://s.yimg.com/lo/api/res/1.2/Jy_pwVZOBTSaEZWQz9LQOw--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/homerun/cnet.cbs.com/27ae89a091e50812289846e02fd9a195" />
+  </entry>
+  <entry>
     <title>Sky? Skype? EU court backs Murdoch over Microsoft in name battle</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/05/06/us-microsoft-murdoch-skype-idUSKBN0NQ29E20150506?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
