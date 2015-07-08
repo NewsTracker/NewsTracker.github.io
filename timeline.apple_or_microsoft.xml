@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft plans major job cuts: NYT</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/08/us-microsoft-redundancies-idUSKCN0PI0GL20150708?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-08T07:23:08Z</updated>
+    <published>2015-07-08T07:23:08Z</published>
+    <summary type="html">&lt;p&gt;Microsoft Corp, the world's largest software company, plans to announce a new round of layoffs as early as Wednesday as it tries to cut costs further, the New York Times reported.&lt;/p&gt;&lt;p&gt;The latest job cuts are in addition to the 18,000 jobs Microsoft said it planned to cut a year ago, the newspaper said, citing sources familiar with the matter.&lt;/p&gt;&lt;p&gt;The layoffs are expected to affect employees at the hardware group and other parts of the company, including the smartphone business that Microsoft acquired from Nokia last year, the newspaper said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-08T07:23:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Taylor Swift: 'I've decided to put 1989 on Apple Music ... and happily so'</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article25502572.html%23storylink=rss" />
     <author>

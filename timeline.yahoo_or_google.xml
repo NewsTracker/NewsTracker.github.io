@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>PGA Grand Slam to move from Trump Course in Los Angeles (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/pga-grand-slam-move-trump-course-los-angeles-160615915--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-07T21:23:10Z</updated>
+    <published>2015-07-07T21:23:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-07T21:23:10Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/JY7nJS81OnSdt.gkY7._hA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5NDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507071126411814731" />
+  </entry>
+  <entry>
     <title>Google testing self-driving prototype cars in Texas</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/07/07/google-testing-self-driving-prototype-cars-in-texas" />
     <author>
