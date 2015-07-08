@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: playstation</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.playstation.xml" />
   <subtitle>This is a news tracking demo</subtitle>
@@ -24,107 +24,5 @@
     <published>2015-06-08T14:59:00Z</published>
     <summary type="html" />
     <dc:date>2015-06-08T14:59:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Teenager in Austrian 'Playstation' terrorism case gets 2 years</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3097324/Teenager-Austrian-Playstation-terrorism-case-gets-2-years.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-26T11:28:53Z</updated>
-    <published>2015-05-26T11:28:53Z</published>
-    <summary type="html">&lt;p&gt;Those charges were based on data found on the boy's Playstation, including bomb-building plans downloaded from the internet, prosecutors said.&lt;/p&gt;</summary>
-    <dc:date>2015-05-26T11:28:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Teenager in Austrian 'Playstation' terrorism case gets two years</title>
-    <link rel="alternate" href="http://news.yahoo.com/austrian-boy-faces-terrorism-charges-playstation-case-081005754.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-05-26T11:11:56Z</updated>
-    <published>2015-05-26T11:11:56Z</published>
-    <summary type="html" />
-    <dc:date>2015-05-26T11:11:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spotify comes to PlayStation</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/spotify-comes-to-playstation/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T14:07:30Z</updated>
-    <published>2015-03-30T14:07:30Z</published>
-    <summary type="html">&lt;p&gt;PlayStation users have long been able to watch DVDs and stream Netflix, Amazon and YouTube shows with the console.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T14:07:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>PlayStation Gets Spotify, Replacing Sony's Own Music Service</title>
-    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/playstation-spotify-replacing-sonys-music-service-30000661" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T09:03:15Z</updated>
-    <published>2015-03-30T09:03:15Z</published>
-    <summary type="html">&lt;p&gt;Spotify is coming to the PlayStation, replacing Sony's own Music Unlimited service, as the company continues to expand the game console into an entertainment hub beyond video games.&lt;/p&gt;&lt;p&gt;Spotify hits the PlayStation 3 and 4 on Monday, with a new app adapted for large television screens.&lt;/p&gt;&lt;p&gt;Just two weeks ago, Sony launched an online television service, PlayStation Vue, offering more than 50 over-the-air and cable channels starting at $50 a month.&lt;/p&gt;&lt;p&gt;Its music app is available on some Internet-connected TVs and set-top boxes, but Spotify says it worked closely with Sony to optimize its service for the PlayStation.&lt;/p&gt;&lt;p&gt;Existing Spotify customers will get access to the PlayStation app with their usual sign-in.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T09:03:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Sony's PlayStation Music launches with Spotify</title>
-    <link rel="alternate" href="http://www.usatoday.com/story/tech/columnist/baig/2015/03/30/sony-playstation-music-launches-with-spotify/70649922/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-techtopstories" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-30T09:01:54Z</updated>
-    <published>2015-03-30T09:01:54Z</published>
-    <summary type="html">&lt;p&gt;You can also use the PlayStation controller.&lt;/p&gt;</summary>
-    <dc:date>2015-03-30T09:01:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Details on PlayStation Vue, Comparison With Sling TV</title>
-    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/details-playstation-vue-comparison-sling-tv-29887367" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-25T07:11:28Z</updated>
-    <published>2015-03-25T07:11:28Z</published>
-    <summary type="html">&lt;p&gt;A $50-a-year PlayStation Plus subscription is normally needed.&lt;/p&gt;</summary>
-    <dc:date>2015-03-25T07:11:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>Details on PlayStation Vue, comparison with Sling TV</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Details-on-PlayStation-Vue-comparison-with-Sling-6157087.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-25T07:10:19Z</updated>
-    <published>2015-03-25T07:10:19Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK (AP) - Sony's new PlayStation Vue online TV service launched in three cities last week with more than 50 channels starting at $50.&lt;/p&gt;&lt;p&gt;You'll be able to use the PlayStation Vue password.&lt;/p&gt;</summary>
-    <dc:date>2015-03-25T07:10:19Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/35/32/74/7712514/3/628x471.jpg" />
-  </entry>
-  <entry>
-    <title>Details on PlayStation Vue, comparison with Sling TV</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/Details-on-PlayStation-Vue-comparison-with-Sling-6157087.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-25T07:10:19Z</updated>
-    <published>2015-03-25T07:10:19Z</published>
-    <summary type="html">&lt;p&gt;if each has a separate PlayStation 3 or 4 (only one can be a PS4).&lt;/p&gt;&lt;p&gt;Many shows from the past three days are automatically available for viewing, but only through the PlayStation, not on mobile.&lt;/p&gt;</summary>
-    <dc:date>2015-03-25T07:10:19Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/35/32/74/7712514/3/622x350.jpg" />
-  </entry>
-  <entry>
-    <title>Sony launches PlayStation Vue online TV service in 3 U.S. cities</title>
-    <link rel="alternate" href="http://technology.canoe.ca/News/2015/03/18/22294511.html?cid=rsstechnologynews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-03-18T17:09:02Z</updated>
-    <published>2015-03-18T17:09:02Z</published>
-    <summary type="html">&lt;p&gt;Initially, PlayStation Vue is available only on PlayStation 4s and PS3s; per Sony, there are 35 million of those in use across the U.S. Sony said support for Apple's iPad will be coming shortly, and that additional markets will be added in the coming months.&lt;/p&gt;&lt;p&gt;For each PlayStation Vue account, users can simultaneously stream content on up to three consoles (although only on one PS4 at any given time) in the same home at no additional charge.&lt;/p&gt;</summary>
-    <dc:date>2015-03-18T17:09:02Z</dc:date>
-    <media:content url="http://storage.canoe.ca/v1/videolib-prod-static/portalen/img/default_still.gif" />
   </entry>
 </feed>
