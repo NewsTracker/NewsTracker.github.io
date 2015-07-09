@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo_or_google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kershaw strikes out 13 in shutout, Dodgers beat Phillies 5-0 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kershaw-tosses-9-hitter-dodgers-5-0-win-050712476--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T06:11:32Z</updated>
+    <published>2015-07-09T06:11:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-09T06:11:32Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/YDirWspUD3RqrN9K4oK7tA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507090003001949565" />
+  </entry>
+  <entry>
+    <title>NBA 2015-16 salary cap rises to all-time high of $70 million (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/nba-2015-16-salary-cap-rises-time-high-004407083--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T01:16:58Z</updated>
+    <published>2015-07-09T01:16:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-09T01:16:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mickelson refuses to comment on money-laundering allegations (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/mickelson-refuses-money-laundering-allegations-134121520--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-08T22:52:43Z</updated>
+    <published>2015-07-08T22:52:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-08T22:52:43Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/7LGFzHgWutlyAvJ50GW79g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507080903326277018" />
+  </entry>
+  <entry>
     <title>PGA Grand Slam to move from Trump Course in Los Angeles (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/pga-grand-slam-move-trump-course-los-angeles-160615915--golf.html" />
     <author>
@@ -1027,27 +1062,5 @@
     <summary type="html" />
     <dc:date>2015-06-08T13:55:17Z</dc:date>
     <media:content url="http://l1.yimg.com/bt/api/res/1.2/UpKhLEyOPyp4C_ilzw02bw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.cbsboston.com/93fe9427a79f4223309704b7f4a4aeb8" />
-  </entry>
-  <entry>
-    <title>Truex breaks through at Pocono for 1st win since 2013 (Yahoo Sports)</title>
-    <link rel="alternate" href="https://sports.yahoo.com/news/truex-breaks-pocono-1st-win-since-2013-203957169--nascar.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-07T22:08:32Z</updated>
-    <published>2015-06-07T22:08:32Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-07T22:08:32Z</dc:date>
-    <media:content url="https://s1.yimg.com/bt/api/res/1.2/HvIsrcExcqnrytsm1EV2EQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506071649605489989" />
-  </entry>
-  <entry>
-    <title />
-    <link rel="alternate" href="" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-07T19:08:04Z</updated>
-    <published>2015-06-07T19:08:04Z</published>
-    <dc:date>2015-06-07T19:08:04Z</dc:date>
   </entry>
 </feed>

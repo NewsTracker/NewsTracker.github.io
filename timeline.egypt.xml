@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Roadside bomb injures 20 policemen in the restive north of Egypt's Sinai</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/09/roadside-bomb-injures-20-policemen-in-restive-north-egypt-sinai/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T10:52:38Z</updated>
+    <published>2015-07-09T10:52:38Z</published>
+    <summary type="html">&lt;p&gt;AL-ARISH, Egypt - Security officials say 20 policemen were injured when their bus and armored personnel carrier were hit by a roadside bomb in the turbulent north of Egypt's Sinai Peninsula.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T10:52:38Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt anti-terror bill speeds trials, tightens hand on media</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-07-06-ML-Egypt-Terrorism/id-1d57610f5bba4bf7b6c897c2243179e3" />
     <author>
@@ -858,37 +869,5 @@
     <published>2015-06-08T13:13:40Z</published>
     <summary type="html">&lt;p&gt;Egypt's foreign minister says his country is hosting the second meeting of Syrian opposition this year in a bid to champion a political process amid an international and regional focus on a military solution to the conflict now in its fifth year.&lt;/p&gt;</summary>
     <dc:date>2015-06-08T13:13:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt ex-official says FIFA's Warner sought money, citing influence in World Cup selection</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3114657/Egypt-ex-official-says-FIFAs-Warner-sought-money-citing-influence-World-Cup-selection.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-07T23:44:31Z</updated>
-    <published>2015-06-07T23:44:31Z</published>
-    <summary type="html">&lt;p&gt;Al-Dahshouri Harb told Reuters in a telephone interview that Warner expressed interest to him in being an adviser to Egypt's bid and had said the money could be used to support poor football associations in Latin American countries.&lt;/p&gt;&lt;p&gt;Egypt famously failed to receive a single vote when the host of the 2010 World Cup was announced in 2004.&lt;/p&gt;</summary>
-    <dc:date>2015-06-07T23:44:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>&lt;p&gt;Rights activists report a return of torture, abuses and arbitrary arrests surpassing even the 29-year rule of autocrat Hosni Mubarak, who was toppled in Egypt's 2011 revolt.&lt;/p&gt;</title>
-    <link rel="alternate" href="" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-07T19:51:09Z</updated>
-    <published>2015-06-07T19:51:09Z</published>
-    <dc:date>2015-06-07T19:51:09Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt's president issues rare apology after lawyer beaten</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11461521&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-07T18:55:16Z</updated>
-    <published>2015-06-07T18:55:16Z</published>
-    <summary type="html">&lt;p&gt;But in Egypt, police and powerful security agencies act with near impunity against opponents or those trying to engage in unwelcome political activity.&lt;/p&gt;</summary>
-    <dc:date>2015-06-07T18:55:16Z</dc:date>
   </entry>
 </feed>

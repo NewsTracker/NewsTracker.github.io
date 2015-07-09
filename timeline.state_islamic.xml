@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FBI chief warns encryption emboldens would-be Islamic State attackers</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/08/us-usa-fbi-islamic-state-idUSKCN0PI24J20150708?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-08T20:13:44Z</updated>
+    <published>2015-07-08T20:13:44Z</published>
+    <summary type="html">&lt;p&gt;Comey told a U.S. Senate Judiciary Committee hearing that Islamic State, also known by the acronym ISIL, is imploring supporters through Twitter to carry out attacks.&lt;/p&gt;&lt;p&gt;Comey later told the Senate Select Committee on Intelligence that the FBI now estimated more than 200 Americans have traveled or attempted to travel to Syria to fight for Islamic militants.&lt;/p&gt;</summary>
+    <dc:date>2015-07-08T20:13:44Z</dc:date>
+  </entry>
+  <entry>
     <title>A secret to IS success: Shock troops who fight to the death</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article26719306.html%23storylink=rss" />
     <author>
@@ -1170,27 +1181,5 @@
     <published>2015-06-08T14:29:29Z</published>
     <summary type="html">&lt;p&gt;BORDER GUARD FORCES COMMAND, Jordan - Jordan's military has installed the second phase of a surveillance system that U.S. officials say provides an effective defense against infiltration attempts by Islamic State militants.&lt;/p&gt;&lt;p&gt;Jordan plays a high-profile role in the U.S.-led military coalition against Islamic State which controls large parts of neighboring Syria and Iraq and also poses a threat to the kingdom's security.&lt;/p&gt;</summary>
     <dc:date>2015-06-08T14:29:29Z</dc:date>
-  </entry>
-  <entry>
-    <title>Islamic State: not just beheadings but taxes and business rules too</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-not-just-beheadings-but-taxes-and-business-rules-too-20150608-ghiv44.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T05:49:41Z</updated>
-    <published>2015-06-08T05:49:41Z</published>
-    <summary type="html">&lt;p&gt;While IS charges zakat - an Islamic alms payment similar to income tax - from those who can afford it, Ammar says that in return businesses are protected from theft and corruption.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T05:49:41Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/4/x/6/0/image.related.thumbnail.90x60.ghiv44.png/1433742578881.jpg" />
-  </entry>
-  <entry>
-    <title>&lt;p&gt;LONDON (AP) - Prime Minister David Cameron says Britain will send 125 more troops to Iraq to train local forces fighting the Islamic State group.&lt;/p&gt;</title>
-    <link rel="alternate" href="" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-07T17:48:42Z</updated>
-    <published>2015-06-07T17:48:42Z</published>
-    <dc:date>2015-06-07T17:48:42Z</dc:date>
   </entry>
 </feed>

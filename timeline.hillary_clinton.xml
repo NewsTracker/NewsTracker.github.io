@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Benghazi panel chair: Clinton subpoena claim inaccurate</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article26752213.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-08T21:31:04Z</updated>
+    <published>2015-07-08T21:31:04Z</published>
+    <summary type="html">&lt;p&gt;Gowdy said the committee issued the March 4 subpoena to Clinton personally after learning the full extent of her use of private emails while serving as secretary of state.&lt;/p&gt;</summary>
+    <dc:date>2015-07-08T21:31:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Hillary Clinton: 'People should and do trust me'</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/07/07/politics/hillary-clinton-iowa-first-interview/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+CNN+-+U.S.%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-08T14:10:15Z</updated>
+    <published>2015-07-08T14:10:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-08T14:10:15Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/140612112132-hillary-clinton-natural-topics.jpg" />
+  </entry>
+  <entry>
     <title>CNN to interview Hillary Clinton about her 2016 presidential campaign</title>
     <link rel="alternate" href="http://www.startribune.com/clinton-to-sit-with-cnn-for-first-national-interview/311777201/" />
     <author>
@@ -311,15 +335,5 @@
     <published>2015-06-10T23:00:05Z</published>
     <summary type="html">&lt;p&gt;Michelle Kwan is joining Hillary Clinton's presidential campaign and will work on outreach programs.&lt;/p&gt;</summary>
     <dc:date>2015-06-10T23:00:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>&lt;p&gt;- Connecticut Gov. Dannel P. Malloy on Sunday endorsed Hillary Rodham Clinton for president, saying she has the best experience to lead the country.&lt;/p&gt;</title>
-    <link rel="alternate" href="" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-07T19:50:15Z</updated>
-    <published>2015-06-07T19:50:15Z</published>
-    <dc:date>2015-06-07T19:50:15Z</dc:date>
   </entry>
 </feed>

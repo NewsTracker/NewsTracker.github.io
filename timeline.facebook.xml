@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Reason Behind the Subtle Facebook Icon Change</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/reason-subtle-facebook-icon-change/story?id=32297650" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-08T14:33:33Z</updated>
+    <published>2015-07-08T14:33:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-08T14:33:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook puts women in front with new friends icon</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/technology/facebook/11726248/Facebook-puts-women-in-front-with-new-friends-icon.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-08T13:35:22Z</updated>
+    <published>2015-07-08T13:35:22Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-08T13:35:22Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03368/facebook_3368695b.jpg" />
+  </entry>
+  <entry>
     <title>Facebook to build new, wind-powered data center</title>
     <link rel="alternate" href="http://www.latimes.com/business/la-fi-tn-facebook-data-20150707-story.html" />
     <author>

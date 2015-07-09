@@ -16,18 +16,6 @@
     <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/Mobile/News/2015/06/19/1297714429188.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
   </entry>
   <entry>
-    <title>Apple expected to focus on watch, music at developer conference</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/08/us-apple-developers-idUSKBN0OO0ME20150608?feedType=RSS&amp;amp;feedName=technologyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T08:04:21Z</updated>
-    <published>2015-06-08T08:04:21Z</published>
-    <summary type="html">&lt;p&gt;Apple is expected to unveil a new music service and better tools to build apps for its smartwatch at its annual gathering of developers in San Francisco on Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T08:04:21Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150608&amp;amp;t=2&amp;amp;i=1054564675&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB5708L" />
-  </entry>
-  <entry>
     <title>Apple?s Watch Gets Native Apps</title>
     <link rel="alternate" href="http://blogs.wsj.com/digits/2015/06/08/apples-watch-gets-native-apps/?mod=rss_Technology" />
     <author>
@@ -59,17 +47,5 @@
     <published>2015-06-08T17:42:00Z</published>
     <summary type="html">&lt;p&gt;Apple uses the Worldwide Developers Conference to preview new features for Macs, iPhones and other devices.&lt;/p&gt;</summary>
     <dc:date>2015-06-08T17:42:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple expected to focus on watch, music at developer conference</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/08/us-apple-developers-idUSKBN0OO0ME20150608?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T08:04:21Z</updated>
-    <published>2015-06-08T08:04:21Z</published>
-    <summary type="html">&lt;p&gt;Like other Apple products, the watch's commercial success will likely hinge on a compelling collection of apps.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T08:04:21Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150608&amp;amp;t=2&amp;amp;i=1054564675&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB5708L" />
   </entry>
 </feed>

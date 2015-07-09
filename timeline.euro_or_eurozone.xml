@@ -4,6 +4,63 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.euro_or_eurozone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Big Euro teams to avoid small World Cup qualifying groups</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/sports/article26848027.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T10:44:04Z</updated>
+    <published>2015-07-09T10:44:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-09T10:44:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Big Euro teams to avoid small World Cup qualifying groups</title>
+    <link rel="alternate" href="http://www.miamiherald.com/sports/article26848027.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T10:44:04Z</updated>
+    <published>2015-07-09T10:44:04Z</published>
+    <summary type="html">&lt;p&gt;Romania and Wales entered the top 10 on FIFA's rankings on Thursday after going unbeaten to lead their Euro 2016 qualifying groups.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T10:44:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece rushing to finalize reforms and remain in euro</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article26846224.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T09:40:11Z</updated>
+    <published>2015-07-09T09:40:11Z</published>
+    <summary type="html">&lt;p&gt;U.S. Treasury Secretary Jack Lew added pressure on the European lenders, arguing debt relief was needed for a deal - and describing a Greek euro-exit as a "geopolitical mistake.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T09:40:11Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Greece rushing to finalize reforms and remain in euro</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greece-racing-to-finalize-reforms-and-remain-in-eu/nmtxr/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T09:36:45Z</updated>
+    <published>2015-07-09T09:36:45Z</published>
+    <summary type="html">&lt;p&gt;Failure to reach a deal could be the first step toward Greece leaving the shared euro currency.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T09:36:45Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/09/6e/6c/b5ed63b28f2243afa2ac21f21410633f-f5c06b14c68043249d75995ddba1a161-6.jpg" />
+  </entry>
+  <entry>
+    <title>Greece rushing to finalize reforms and remain in euro</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11478406&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T08:35:15Z</updated>
+    <published>2015-07-09T08:35:15Z</published>
+    <summary type="html">&lt;p&gt;If Tsipras does not get a deal, Greece faces an almost inevitable collapse of the banking system, which would be the first step for the country to fall out of the euro.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T08:35:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Euro zone gives Greece until Sunday for debt deal</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Euro-zone-gives-Greece-until-Sunday-for-debt-deal/articleshow/47982838.cms" />
     <author>
@@ -557,17 +614,5 @@
     <summary type="html" />
     <dc:date>2015-06-08T16:35:14Z</dc:date>
     <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201522/SCCZEN_AP150526043007_140x93.jpg" />
-  </entry>
-  <entry>
-    <title>Injured Iniesta to miss Spain's Euro qualifier with Belarus</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3114531/Injured-Iniesta-miss-Spains-Euro-qualifier-Belarus.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-07T20:37:28Z</updated>
-    <published>2015-06-07T20:37:28Z</published>
-    <summary type="html">&lt;p&gt;BARCELONA, June 7 (Reuters) - Barcelona midfielder Andres Iniesta will miss Spain's Euro 2016 qualifier in Belarus due to injury, it has been confirmed on the national team's website on Sunday.&lt;/p&gt;</summary>
-    <dc:date>2015-06-07T20:37:28Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/06/07/23/296E7E1500000578-0-image-m-16_1433715120343.jpg" />
   </entry>
 </feed>
