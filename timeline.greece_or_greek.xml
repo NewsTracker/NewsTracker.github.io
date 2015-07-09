@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece rushes to finalize reforms and remain in euro</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26846224.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T13:15:04Z</updated>
+    <published>2015-07-09T13:15:04Z</published>
+    <summary type="html">&lt;p&gt;Hopes for a deal rose after Donald Tusk, who chairs the EU summits, said Greece's plan would have to be accompanied by creditors' suggestions on how to make the country's debt manageable in the longer term.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T13:15:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>If Greece gets easier rescue terms, other bailout states could face popular demands for same</title>
+    <link rel="alternate" href="http://www.startribune.com/easier-terms-for-greece-could-open-a-can-of-worms-in-europe/312837621/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T12:15:28Z</updated>
+    <published>2015-07-09T12:15:28Z</published>
+    <summary type="html">&lt;p&gt;That makes the Greek debt controversy a political threat in Spain, with potential economic consequences spilling beyond the borders of the European Union's fifth-largest economy.&lt;/p&gt;&lt;p&gt;With that in mind, the Irish government's message to Greece is the most clear-cut of Europe's fellow bailout recipients: If you want to get out of the hole, admit you dug it yourself, stop blaming others - and do everything possible to reassure creditors you can be trusted to pay your bills.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T12:15:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>Easier terms for Greece could open a can of worms in Europe</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/easier-terms-for-greece-could-open-a-can-of-worms-/nmt28/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T12:10:04Z</updated>
+    <published>2015-07-09T12:10:04Z</published>
+    <summary type="html">&lt;p&gt;Eurozone governments taking a tough line on Greece's demand for debt relief and easier bailout terms fear opening a can of worms.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T12:10:04Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/09/be/89/b83626de333e41c8951f22ef0872759d-89c39f46c9974064b391f12f6ee7aeab-0.jpg" />
+  </entry>
+  <entry>
     <title>The Latest: EU's Tusk latest to urge some Greek debt help</title>
     <link rel="alternate" href="http://news.yahoo.com/latest-eu-economics-chief-says-greece-deal-possible-074059545.html" />
     <author>
@@ -2641,27 +2676,5 @@
     <summary type="html">&lt;p&gt;President Barak Obama also weighed into the dispute from the G-7 meeting, saying the Greek government must undertake economic reforms, but also that the international community must recognize "the extraordinary challenges" Greece faces.&lt;/p&gt;</summary>
     <dc:date>2015-06-08T15:00:04Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greek negotiators in Brussels to explore deal possibility</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/08/greek-negotiators-in-brussels-to-explore-deal-possibility" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T13:48:42Z</updated>
-    <published>2015-06-08T13:48:42Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-08T13:48:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek negotiators in Brussels to explore deal possibility</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/ap/article-3115212/Greek-negotiators-Brussels-explore-deal-possibility.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T13:34:10Z</updated>
-    <published>2015-06-08T13:34:10Z</published>
-    <summary type="html">&lt;p&gt;Jitters over Greece swelled last week when the government decided to delay a payment due last Friday to the IMF.&lt;/p&gt;&lt;p&gt;Though Sakellaridis reiterated Greece considers its proposal - a 47-page document delivered by Tsipras during a visit to Brussels last week - to be the basis for a deal, he said there was room for negotiation.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T13:34:10Z</dc:date>
   </entry>
 </feed>

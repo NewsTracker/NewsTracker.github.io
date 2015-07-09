@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Netanyahu says Israel working to release men</title>
+    <link rel="alternate" href="http://news.yahoo.com/latest-2nd-israeli-held-gaza-bedouin-093504309.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T12:55:59Z</updated>
+    <published>2015-07-09T12:55:59Z</published>
+    <summary type="html">&lt;p&gt;In a statement Thursday, Prime Minister Benjamin Netanyahu said he spoke to the family of one of the men, an Israeli Ethiopian, telling them he "has not spared any effort" to return the man to Israel.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T12:55:59Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/_qsiLZ5wQsO.8wJUOiBVBw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/b64b45429613b21e7b0f6a7067007a57.jpg" />
+  </entry>
+  <entry>
     <title>Israel's Netanyahu Says Better Iran Deal Still Possible</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/israels-netanyahu-iran-deal-32027279" />
     <author>
@@ -94,16 +106,5 @@
     <published>2015-06-11T15:46:26Z</published>
     <summary type="html" />
     <dc:date>2015-06-11T15:46:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Netanyahu criticizes world's 'silence' on Gaza rockets</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/politics/netanyahu-criticizes-world-silence-gaza-rockets-article-1.2250286?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T12:53:45Z</updated>
-    <published>2015-06-08T12:53:45Z</published>
-    <summary type="html">&lt;p&gt;"It will be interesting to see if this silence continues when we use all our strength in exercising our right to defend ourselves," Netanyahu said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T12:53:45Z</dc:date>
   </entry>
 </feed>

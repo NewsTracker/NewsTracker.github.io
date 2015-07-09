@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Afghan spy agency says third Islamic State commander killed in drone strike</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/09/us-afghanistan-attack-idUSKCN0PJ1IR20150709?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T13:05:42Z</updated>
+    <published>2015-07-09T13:05:42Z</published>
+    <summary type="html">&lt;p&gt;KABUL The Afghan intelligence agency on Thursday said a third top Islamic State commander in Afghanistan was killed in a U.S. drone strike in the country's east this week.&lt;/p&gt;&lt;p&gt;Shahid was killed in the same strike that killed Islamic State number two in Afghanistan Gul Zaman, along with 49 militants in the eastern Achin district of Nangarhar province where Islamic State militants have recently gained ground after pushing out the Taliban.&lt;/p&gt;&lt;p&gt;A small but increasing number of mostly ex-Taliban militants are pledging allegiance to the Islamic State in Afghanistan, making them a target of deadly strikes there by the U.S. unmanned aircraft.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T13:05:42Z</dc:date>
+  </entry>
+  <entry>
     <title>FBI chief warns encryption emboldens would-be Islamic State attackers</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/08/us-usa-fbi-islamic-state-idUSKCN0PI24J20150708?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>

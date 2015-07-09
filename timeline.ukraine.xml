@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Romania: Italian foreign minister discusses Greece, Ukraine</title>
+    <link rel="alternate" href="http://news.yahoo.com/romania-italian-foreign-minister-discusses-greece-ukraine-124342819.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T13:16:50Z</updated>
+    <published>2015-07-09T13:16:50Z</published>
+    <summary type="html">&lt;p&gt;BUCHAREST, Romania (AP) - Italy's foreign minister has discussed the situations in Greece, Moldova and Ukraine with Romanian officials.&lt;/p&gt;&lt;p&gt;Iohannis and Gentiloni also talked about Romania's eastern neighbors, Moldova and Ukraine, which have both signed EU association agreements.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T13:16:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>European lawmakers condemn Russia's actions in Crimea, Ukraine</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/politics/european-lawmakers-condemn-russia-s-actions-in-crimea-ukraine-1.2460923" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T11:31:58Z</updated>
+    <published>2015-07-09T11:31:58Z</published>
+    <summary type="html">&lt;p&gt;Representing more than 50 countries, 96 lawmakers on Thursday condemned Russia's "unilateral and unjustified assault on Ukraine's sovereignty and territorial integrity."&lt;/p&gt;&lt;p&gt;Russia was absent from 40th anniversary meeting in the Finnish capital as its delegates were denied visas in line with the European Union's travel bans for Russia's actions in the Ukraine crisis.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T11:31:58Z</dc:date>
+  </entry>
+  <entry>
     <title>News24.com | Russia cuts off power supplies to Ukraine rebels</title>
     <link rel="alternate" href="http://www.news24.com/World/News/Russia-cuts-off-power-supplies-to-Ukraine-rebels-20150707" />
     <author>
@@ -650,29 +672,5 @@
     <summary type="html">&lt;p&gt;"Russia is in deep recession. So Russia's actions in Ukraine are hurting Russia and hurting the Russian people," Obama said.&lt;/p&gt;</summary>
     <dc:date>2015-06-08T15:49:52Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
-  </entry>
-  <entry>
-    <title>History becomes a weapon in Russia-West rift over Ukraine</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/08/us-ukraine-crisis-russia-history-idUSKBN0OO14S20150608?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T13:04:59Z</updated>
-    <published>2015-06-08T13:04:59Z</published>
-    <summary type="html">&lt;p&gt;The Nazi-Soviet pact that divided Poland in 1939 - which saw Moscow seize much of what is now Ukraine, Belarus and the Baltic States - is now seen in a positive light.&lt;/p&gt;&lt;p&gt;During the crisis in Ukraine, Moscow has portrayed ethnic Russians or Russian speakers living in the former Soviet republic as threatened by fascists.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T13:04:59Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources/media/global/assets/images/20150608/20150608_2651434220150608111217.jpg" />
-  </entry>
-  <entry>
-    <title>History becomes a weapon in Russia-West rift over Ukraine</title>
-    <link rel="alternate" href="http://news.yahoo.com/history-becomes-weapon-russia-west-rift-over-ukraine-130459338.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T13:04:59Z</updated>
-    <published>2015-06-08T13:04:59Z</published>
-    <summary type="html">&lt;p&gt;MOSCOW (Reuters) - History has become a weapon in Russia's battle with the West over Ukraine as President Vladimir Putin looks increasingly to the past to whip up patriotism and rally support.&lt;/p&gt;&lt;p&gt;The Baltic States and Ukraine have also passed laws about history.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T13:04:59Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/qttwMEdOHdytLRuTsfpOKQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIxNDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-06-08T130459Z_1007000002_LYNXMPEB570J8_RTROPTP_2_CNEWS-US-UKRAINE-CRISIS-RUSSIA-HISTORY.JPG" />
   </entry>
 </feed>

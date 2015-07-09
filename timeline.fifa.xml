@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA expels Chuck Blazer for life for bribery, corruption</title>
+    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/09/fifa-expels-chuck-blazer-for-life-for-bribery-corruption" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T11:26:11Z</updated>
+    <published>2015-07-09T11:26:11Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this May 29, 2011 file photo FIFA official Chuck Blazer leaves the FIFA headquarters in Zurich, Switzerland.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T11:26:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Former FIFA Official Banned From Soccer For Life</title>
     <link rel="alternate" href="http://www.huffingtonpost.com/entry/chuck-blazer-banned_559e2e29e4b05b1d028fb71d?" />
     <author>
