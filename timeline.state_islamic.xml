@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FBI says it thwarted Islamic State-inspired July 4 attacks</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/09/us-usa-security-fourth-idUSKCN0PJ2AU20150709?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T21:26:23Z</updated>
+    <published>2015-07-09T21:26:23Z</published>
+    <summary type="html">&lt;p&gt;Separately, a national security source said multiple overseas plots by Islamic State sympathizers had also been halted in recent days.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T21:26:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>FBI says it thwarted Islamic State-inspired July 4 attacks</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/09/us-usa-security-fourth-idUSKCN0PJ2AU20150709?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T21:26:23Z</updated>
+    <published>2015-07-09T21:26:23Z</published>
+    <summary type="html">&lt;p&gt;Some of those arrested were communicating with Islamic State via encrypted data, a second U.S. security source said.&lt;/p&gt;&lt;p&gt;Comey estimated that dozens of people influenced by Islamic State have "gone dark" and disappeared from the FBI's watch because of encrypted data.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T21:26:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Afghan spy agency says third Islamic State commander killed in drone strike</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/09/us-afghanistan-attack-idUSKCN0PJ1IR20150709?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
@@ -1158,39 +1180,5 @@
     <summary type="html">&lt;p&gt;"The plant ... was taken," Islamic State said in a message on social media, adding that the capture of the plant meant that the militants had driven their enemies out of the entire city.&lt;/p&gt;&lt;p&gt;Forces loyal to the self-declared government that controls the capital Tripoli pulled out of the plant after Islamic State attacked it on Tuesday morning.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T11:24:23Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/MVmFUqbc7H6kOdnuwq8_iA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_ZA/News/Reuters/2015-06-09T072945Z_1007970001_LYNXMPEB58084_RTROPTP_2_OZATP-UK-LIBYA-SECURITY.JPG.cf.jpg" />
-  </entry>
-  <entry>
-    <title>France proves fertile ground for Islamic State recruitment</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/france-proves-fertile-ground-for-islamic-state-recruitment-20150609-ghk47e.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T08:04:34Z</updated>
-    <published>2015-06-09T08:04:34Z</published>
-    <summary type="html">&lt;p&gt;The number of French recruits to Islamic State is rising unstoppably, in spite of waves of new measures to halt it, according to French officials.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T08:04:34Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/g/h/g/9/3/8/image.related.articleLeadwide.620x349.ghk47e.png/1433836986286.jpg" />
-  </entry>
-  <entry>
-    <title>The Islamic State: A year of death and destruction</title>
-    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/The-Islamic-State-A-year-of-death-and-destruction/articleshow/47596261.cms" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T06:02:18Z</updated>
-    <published>2015-06-09T06:02:18Z</published>
-    <summary type="html">&lt;p&gt;The Islamic State jihadist group launched a sweeping offensive a year ago that overran large chunks of Iraqi territory, led to thousands of deaths and displaced millions of people.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T06:02:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Jordan military unveils anti-Islamic State surveillance system on border with Syria, Iraq</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/06/08/jordan-military-unveils-anti-islamic-state-surveillance-system-on-border-with/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T14:29:29Z</updated>
-    <published>2015-06-08T14:29:29Z</published>
-    <summary type="html">&lt;p&gt;BORDER GUARD FORCES COMMAND, Jordan - Jordan's military has installed the second phase of a surveillance system that U.S. officials say provides an effective defense against infiltration attempts by Islamic State militants.&lt;/p&gt;&lt;p&gt;Jordan plays a high-profile role in the U.S.-led military coalition against Islamic State which controls large parts of neighboring Syria and Iraq and also poses a threat to the kingdom's security.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T14:29:29Z</dc:date>
   </entry>
 </feed>

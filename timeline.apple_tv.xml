@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom">
   <title>NewsTracker: apple tv</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_tv.xml" />
   <subtitle>This is a news tracking demo</subtitle>
-  <entry>
-    <title>Apple TV is a non-event at WWDC</title>
-    <link rel="alternate" href="http://www.usatoday.com/story/tech/columnist/baig/2015/06/08/apple-tv-wwdc-no-go-for-now/28680031/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-techtopstories" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T19:04:43Z</updated>
-    <published>2015-06-08T19:04:43Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-08T19:04:43Z</dc:date>
-    <media:content url="http://www.gannett-cdn.com/-mm-/34a4823d8afe8d83140a6e85e07f5abfab4691bb/r=299&amp;amp;amp;c=299x168/http/videos.usatoday.net/Brightcove2/29906170001/2015/06/29906170001_4276211489001_video-still-for-video-4274287916001.jpg?pubId=29906170001" />
-  </entry>
 </feed>

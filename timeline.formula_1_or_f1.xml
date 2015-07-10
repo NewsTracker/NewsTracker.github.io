@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: formula 1 or f1</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.formula_1_or_f1.xml" />
   <subtitle>This is a news tracking demo</subtitle>
@@ -24,17 +24,5 @@
     <published>2015-06-21T14:22:12Z</published>
     <summary type="html">&lt;p&gt;Nico Rosberg drove past Lewis Hamilton at the start to win the Austrian Grand Prix on Sunday for a second successive season to close the gap in the Formula One world championship.&lt;/p&gt;</summary>
     <dc:date>2015-06-21T14:22:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>Rowan Atkinson sells McLaren F1 he crashed twice</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/news/celebritynews/11660024/Rowan-Atkinson-sells-McLaren-F1.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T15:17:05Z</updated>
-    <published>2015-06-08T15:17:05Z</published>
-    <summary type="html">&lt;p&gt;David Clark, boss of Taylor and Crawley and the man who originally sold Atkinson the F1, confirmed he has sold the car.&lt;/p&gt;&lt;p&gt;The Mr Bean star would use the F1 as his daily car and also took it on a number of tours for McLaren owners.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T15:17:05Z</dc:date>
-    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03334/Rowan-Atkinson-mcl_3334114b.jpg" />
   </entry>
 </feed>

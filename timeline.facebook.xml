@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook makes it easier to tweak what you see in your feed</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Facebook-makes-it-easier-to-tweak-what-you-see-in-6375589.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T19:40:12Z</updated>
+    <published>2015-07-09T19:40:12Z</published>
+    <summary type="html">&lt;p&gt;This product image provided by Facebook shows the News Feed Preferences setting within the Facebook app for iPhone.&lt;/p&gt;&lt;p&gt;Facebook wants to give users more control to weed through the clutter of boring, unwanted information, often from long-forgotten acquaintances, on their news feed _ and see more of what they want to see.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T19:40:12Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/37/46/04/8282405/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Is Facebook Planning To Launch Its Own Music Streaming Service?</title>
+    <link rel="alternate" href="http://www.forbes.com/sites/abigailtracy/2015/07/09/look-out-apple-music-facebook-may-have-its-own-spotify-killer-in-the-works/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T13:24:00Z</updated>
+    <published>2015-07-09T13:24:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-09T13:24:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook forces some small businesses to shift their social media game plan</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/books/article26849638.html%23storylink=rss" />
     <author>
@@ -309,27 +332,5 @@
     <summary type="html">&lt;p&gt;A 3D plastic representation of the Facebook logo is seen in this illustration in Zenica, Bosnia and Herzegovina, May 13, 2015.&lt;/p&gt;&lt;p&gt;While Facebook has reported regional growth in percentage terms, this is the first time it has detailed ad sales outside the United States and Canada as a percent of worldwide sales.&lt;/p&gt;&lt;p&gt;"The next 1 billion consumers are going to come from these countries," said Carolyn Everson, vice president, global marketing solutions at Facebook.&lt;/p&gt;&lt;p&gt;Total advertising revenue for the quarter increased 46 percent to $3.3 billion, the vast majority of Facebook's $3.5 billion in quarterly revenue.&lt;/p&gt;&lt;p&gt;International advertising revenue rose 36 percent from a year earlier, Facebook said.&lt;/p&gt;&lt;p&gt;Mobile advertising represents more than 70 percent of Facebook's total ad revenue, and mobile is particularly strong and attractive to advertisers in emerging markets, Everson said.&lt;/p&gt;</summary>
     <dc:date>2015-06-10T11:17:51Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/jghqJBgXnxL9zDlE5Wz_Bw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/SG_AHTTP_REUTERS-EN_WRAPPER_NEW_1/2015-06-09T191010Z_1_LYNXMPEB580WQ_RTROPTP_3_VARIETY-ENTERTAINMENT-DIGITAL-NEWS_original.jpg" />
-  </entry>
-  <entry>
-    <title>38 members ousted from Penn State frat after chapter is suspended over nude Facebook photos</title>
-    <link rel="alternate" href="http://www.startribune.com/38-members-ousted-from-suspended-penn-state-fraternity/306502151/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T16:01:05Z</updated>
-    <published>2015-06-08T16:01:05Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-08T16:01:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>38 Members Ousted From Suspended Penn State Fraternity</title>
-    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/38-members-ousted-suspended-penn-state-fraternity-31613907" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T15:58:56Z</updated>
-    <published>2015-06-08T15:58:56Z</published>
-    <summary type="html">&lt;p&gt;Nearly 40 members have been removed from a Penn State fraternity that's been suspended for three years over a Facebook page featuring photos of nude and semi-nude women.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T15:58:56Z</dc:date>
   </entry>
 </feed>

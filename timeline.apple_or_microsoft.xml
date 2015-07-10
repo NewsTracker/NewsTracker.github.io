@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Review: Microsoft Office in a world of multiple devices</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/07/09/review-microsoft-navigates-shift-in-how-use-multiple-devices-with-new-office/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T19:18:25Z</updated>
+    <published>2015-07-09T19:18:25Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-09T19:18:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Review: Microsoft Office in a world of multiple devices</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Review-Microsoft-Office-in-a-world-of-multiple-6375843.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T19:18:25Z</updated>
+    <published>2015-07-09T19:18:25Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) - Microsoft's new Office apps do a good job of helping us navigate a world in which we frequently switch from one device to another - from a Mac to a Windows PC, with a smartphone or tablet along the way.&lt;/p&gt;&lt;p&gt;Those with an Office 365 subscription can get the Mac Office starting Thursday at http://office.microsoft.com.&lt;/p&gt;</summary>
+    <dc:date>2015-07-09T19:18:25Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/46/13/8282862/3/gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Judge voids $532M award in iTunes infringement case</title>
+    <link rel="alternate" href="http://www.cnbc.com/2015/07/08/judge-tosses-532-million-award-in-apple-itunes-infringement-case.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-08T15:25:00Z</updated>
+    <published>2015-07-08T15:25:00Z</published>
+    <summary type="html">&lt;p&gt;Apple had argued that the damages were too high because jurors might have improperly considered the entire market value of the products, rather than distinguishing between patented and unpatented features.&lt;/p&gt;&lt;p&gt;The lawsuit said Patrick Racz, a co-inventor of Smartflash's patents, had discussed some of his ideas in 2000 with officials of a European company, including Augustin Farrugia, who later became a senior director at Apple.&lt;/p&gt;</summary>
+    <dc:date>2015-07-08T15:25:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft sheds some of its ad business, mapping service</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Microsoft-sheds-some-of-its-ad-business-mapping-6356522.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T23:02:43Z</updated>
+    <published>2015-06-29T23:02:43Z</published>
+    <summary type="html">&lt;p&gt;AOL, meanwhile, is adopting Microsoft's Bing search engine, replacing Google as the default option for visitors who want to search the Internet on AOL websites.&lt;/p&gt;&lt;p&gt;That means Microsoft will get a share of revenue from advertising that's tied directly to Internet searches performed on AOL.&lt;/p&gt;&lt;p&gt;Under its agreement with AOL, Microsoft is unloading a business that's declined in importance over recent years.&lt;/p&gt;&lt;p&gt;Both companies characterized the deal as a win-win because Microsoft will gain more search advertising while AOL, which has been beefing up its display business, will now add Microsoft's websites to a host of other online properties where AOL can place messages for advertising clients.&lt;/p&gt;&lt;p&gt;Microsoft and AOL declined to reveal details of how they will share revenue from the new pact.&lt;/p&gt;</summary>
+    <dc:date>2015-06-29T23:02:43Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft Cuts 7,800 Jobs as Phone Sales Flag</title>
     <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/microsoft-cuts-7800-jobs-phone-sales-flag-32298427" />
     <author>
@@ -282,17 +327,6 @@
     <dc:date>2015-06-29T23:02:43Z</dc:date>
   </entry>
   <entry>
-    <title>Microsoft sheds some of its ad business, mapping service</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/Microsoft-sheds-some-of-its-ad-business-mapping-6356522.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T23:02:43Z</updated>
-    <published>2015-06-29T23:02:43Z</published>
-    <summary type="html">&lt;p&gt;AOL, meanwhile, is adopting Microsoft's Bing search engine, replacing Google as the default option for visitors who want to search the Internet on AOL websites.&lt;/p&gt;&lt;p&gt;That means Microsoft will get a share of revenue from advertising that's tied directly to Internet searches performed on AOL.&lt;/p&gt;&lt;p&gt;Under its agreement with AOL, Microsoft is unloading a business that's declined in importance over recent years.&lt;/p&gt;&lt;p&gt;Both companies characterized the deal as a win-win because Microsoft will gain more search advertising while AOL, which has been beefing up its display business, will now add Microsoft's websites to a host of other online properties where AOL can place messages for advertising clients.&lt;/p&gt;</summary>
-    <dc:date>2015-06-29T23:02:43Z</dc:date>
-  </entry>
-  <entry>
     <title>Microsoft Corp reveals gigantic US$20,000 84-inch Surface Hub designed for conferencing</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/microsoft-corp-reveals-gigantic-us20000-84-inch-surface-for-conferencing" />
     <author>
@@ -303,18 +337,6 @@
     <summary type="html">&lt;p&gt;It will run a custom version of Windows 10, Microsoft's new operating system due out in late July.&lt;/p&gt;&lt;p&gt;Microsoft unveiled a prototype of the new device in January.&lt;/p&gt;</summary>
     <dc:date>2015-06-10T21:02:09Z</dc:date>
     <media:content url="http://wpmedia.business.financialpost.com/2015/06/surface.png?w=620" />
-  </entry>
-  <entry>
-    <title>Apple finally acknowledges women exist</title>
-    <link rel="alternate" href="http://www.news.com.au/lifestyle/real-life/apple-will-finally-include-a-period-tracker-in-its-new-ios9-health-app/story-fnu2q5nu-1227389911101?from=news.com.au_rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T05:15:00Z</updated>
-    <published>2015-06-09T05:15:00Z</published>
-    <summary type="html">&lt;p&gt;70 per cent of Apple's staff are male.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T05:15:00Z</dc:date>
-    <media:content url="http://resources1.news.com.au/images/2015/06/09/1227389/911073-2ea660b4-0e53-11e5-b871-8bd281a5dd0b.jpg" />
   </entry>
   <entry>
     <title>Microsoft is sending HoloLens to space to help NASA</title>
@@ -350,18 +372,6 @@
     <summary type="html">&lt;p&gt;Apple Inc., which is based in Cupertino, California, is the latest company to distance itself from the divisive symbol after the shooting suspect, Dylann Storm Roof, appeared in photos holding the flag.&lt;/p&gt;</summary>
     <dc:date>2015-06-26T00:25:18Z</dc:date>
     <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201526/flag_140x9390303.jpg" />
-  </entry>
-  <entry>
-    <title>Apple unveils Music streaming service to take on Spotify and Tidal</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/sciencetech/article-3115680/Apple-faces-music-iPhone-make-unveiling-streaming-music-service-Spotify-Tidal.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T22:07:02Z</updated>
-    <published>2015-06-08T22:07:02Z</published>
-    <summary type="html">&lt;p&gt;Susan Prescott of Apple showed off the new app.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T22:07:02Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/06/08/20/2974CD3D00000578-3115680-image-a-38_1433791873946.jpg" />
   </entry>
   <entry>
     <title>Apple pulls Confederate flag-bearing Civil War games from App Store</title>
@@ -516,18 +526,6 @@
     <media:content url="http://ww3.hdnux.com/photos/37/00/06/8126894/3/622x350.jpg" />
   </entry>
   <entry>
-    <title>The Latest from Apple show: On-demand music-streaming app</title>
-    <link rel="alternate" href="http://www.seattlepi.com/news/texas/article/The-Latest-from-Apple-show-Crowds-gather-before-6313869.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T19:08:18Z</updated>
-    <published>2015-06-08T19:08:18Z</published>
-    <summary type="html">&lt;p&gt;Apple also announced at its conference for developers in San Francisco on Monday several new features, including transit directions in Maps, a new app for news and specifically for the iPad, the ability to run multiple apps side by side.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T19:08:18Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/36/75/63/8117486/3/gallery_thumb.jpg" />
-  </entry>
-  <entry>
     <title>Taylor Swift pens open letter to Apple about "shocking" policy</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/taylor-swift-pens-open-letter-to-apple-about-shocking-policy/" />
     <author>
@@ -678,18 +676,6 @@
     <summary type="html">&lt;p&gt;LOS ANGELES (AP) - Los Angeles' Nokia Theatre will now be known as the Microsoft Theater.&lt;/p&gt;&lt;p&gt;Microsoft and theater owner AEG announced Tuesday that the 7,100-seat venue is being rebranded.&lt;/p&gt;&lt;p&gt;The 40,000-square-foot plaza outside the theater will similarly be known as Microsoft Square, and the nearby 3,100-seat venue Club Nokia will also be rebranded.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T21:51:47Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/36/77/33/8124110/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Apple Music is CONFIRMED, Apple Pay to hit UK and iPhone to get THREE hour battery boost</title>
-    <link rel="alternate" href="http://www.express.co.uk/life-style/science-technology/583070/Apple-Music-Spotify-Rival-WWDC-2015-Live-Announcement-WatchOS-iOS-9-Mac-OS-X?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-tech+%28Daily+Express+%3A%3A+Science+%26+Tech+Feed%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T19:24:00Z</updated>
-    <published>2015-06-08T19:24:00Z</published>
-    <summary type="html">&lt;p&gt;Stories that use Apple's new News format will look best on the app.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T19:24:00Z</dc:date>
-    <media:content url="http://cdn.images.express.co.uk/img/page/placeholder-horizontal.gif" />
   </entry>
   <entry>
     <title>Apple puts news at core of revamped system</title>
@@ -938,148 +924,5 @@
     <published>2015-06-09T21:01:24Z</published>
     <summary type="html">&lt;p&gt;The maker of iPods and iPhones announced Apple Music, an app that combines Beats 1, a 24-hour, seven-day live radio station, with an on-demand music streaming service.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T21:01:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple unveils music-streaming app</title>
-    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/entertainment/music/news/apple-unveils-musicstreaming-app-31287859.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T23:21:13Z</updated>
-    <published>2015-06-08T23:21:13Z</published>
-    <summary type="html">&lt;p&gt;Apple Music will launch in more than 100 countries on June 30, costing 9.99 dollars ( 6.50) per month, but free for the first three months for one person, or 14.99 dollars for families of up to six people.&lt;/p&gt;&lt;p&gt;"This will be the first Apple-branded app or service to reach Android and is a strategic shift for Apple in its approach to the main rival smartphone platform," he said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T23:21:13Z</dc:date>
-    <media:content url="http://cdn2.belfasttelegraph.co.uk/incoming/article31287358.ece/64b5c/ALTERNATES/w90square/US%20Apple%2018544.jpg" />
-  </entry>
-  <entry>
-    <title>WWDC 2015: Apple finally puts women on stage</title>
-    <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/wwdc-2015-apple-finally-puts-women-on-stage-20150609-ghjflk.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T20:15:17Z</updated>
-    <published>2015-06-08T20:15:17Z</published>
-    <summary type="html">&lt;p&gt;(Here are reports for Apple, Google, and Microsoft.)&lt;/p&gt;&lt;p&gt;There are three women on Google's board compared to Apple's two.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T20:15:17Z</dc:date>
-    <media:content url="http://www.smh.com.au/content/dam/images/1/3/z/k/9/i/image.related.articleLeadwide.620x349.ghjflk.png/1433846344802.jpg" />
-  </entry>
-  <entry>
-    <title>Apple Music brings change to streaming, but is it enough?</title>
-    <link rel="alternate" href="http://news.yahoo.com/apple-music-brings-change-streaming-enough-070237533.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T07:02:37Z</updated>
-    <published>2015-06-09T07:02:37Z</published>
-    <summary type="html">&lt;p&gt;"It'll change the way you experience music forever," CEO Tim Cook promised Monday at Apple's annual conference for software developers, held in San Francisco.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T07:02:37Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/s0iSFiZqYvckpp3tmHiMpg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/73b26ba59b04d419780f6a70670087fa.jpg" />
-  </entry>
-  <entry>
-    <title>Apple Music brings change to streaming, but is it enough?</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/09/apple-music-brings-change-to-streaming-but-is-it/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T07:02:18Z</updated>
-    <published>2015-06-09T07:02:18Z</published>
-    <summary type="html">&lt;p&gt;The service will be free to users with an Apple ID.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T07:02:18Z</dc:date>
-    <media:content url="http://media.utsandiego.com/img/photos/2015/06/09/73b26ba59b04d419780f6a70670087fa_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
-  </entry>
-  <entry>
-    <title>Can Apple win the streaming wars?</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102743329" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T07:01:00Z</updated>
-    <published>2015-06-09T07:01:00Z</published>
-    <summary type="html">&lt;p&gt;Can Apple win the streaming wars?&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T07:01:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/06/08/102742766-4105e134a99f415288a4822023e07e19bcf24c93_expanded_xlarge.80x60.jpg?v=1433799949" />
-  </entry>
-  <entry>
-    <title>The Latest from Apple show: Apple Music to cost $10 a month</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article23512651.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T23:10:03Z</updated>
-    <published>2015-06-08T23:10:03Z</published>
-    <summary type="html">&lt;p&gt;Attendees line up outside of the Moscone West building for the first day of the Apple Worldwide Developers Conference in San Francisco, Monday, June 8, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T23:10:03Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>The Latest from Apple show: Apple Music to cost $10 a month</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article23512651.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T23:10:03Z</updated>
-    <published>2015-06-08T23:10:03Z</published>
-    <summary type="html">&lt;p&gt;Craig Federighi, Apple senior vice president of Software Engineering, speaks about Apple CarPlay at the Apple Worldwide Developers Conference in San Francisco, Monday, June 8, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T23:10:03Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Everything you need to know about Apple Pay in the UK</title>
-    <link rel="alternate" href="http://www.techradar.com/news/phone-and-communications/mobile-phones/everything-you-need-to-know-about-apple-pay-in-the-uk-1296157?src=rss&amp;amp;attr=all" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T20:26:00Z</updated>
-    <published>2015-06-08T20:26:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-08T20:26:00Z</dc:date>
-    <media:content url="http://cdn.mos.techradar.com/art/AAevents/Apple%20WWDC%202015/Screens/13-apple-pay-uk-public-transportation-320-80.jpg" />
-  </entry>
-  <entry>
-    <title>The Latest from Apple show: Apple Music to cost $10 a month</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/texas/article/The-Latest-from-Apple-show-Crowds-gather-before-6313869.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T19:40:08Z</updated>
-    <published>2015-06-08T19:40:08Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-08T19:40:08Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/36/75/63/8117486/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Apple Music unveiled at WWDC</title>
-    <link rel="alternate" href="http://www.usatoday.com/story/tech/personal/2015/06/08/live-coverage-apple-wwdc/28674973/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomtech-personaltalk" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T19:29:55Z</updated>
-    <published>2015-06-08T19:29:55Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-08T19:29:55Z</dc:date>
-    <media:content url="http://www.gannett-cdn.com/-mm-/34a4823d8afe8d83140a6e85e07f5abfab4691bb/r=299&amp;amp;amp;c=299x168/http/videos.usatoday.net/Brightcove2/29906170001/2015/06/29906170001_4276211489001_video-still-for-video-4274287916001.jpg?pubId=29906170001" />
-  </entry>
-  <entry>
-    <title>The Latest from Apple show: Siri to be a better assistant</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/texas/article/The-Latest-from-Apple-show-Crowds-gather-before-6313869.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T17:47:52Z</updated>
-    <published>2015-06-08T17:47:52Z</published>
-    <summary type="html">&lt;p&gt;Apple isn't saying anything ahead of time, though it's widely expected the company will unveil updates to its mobile and Mac operating systems, along with a new music service.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T17:47:52Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/36/75/26/8115645/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Latest from Apple's WWDC: Mac update called 'El Capitan'</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/latest-from-apple-s-wwdc-mac-update-called-el-capitan-1.2412093" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-08T17:42:00Z</updated>
-    <published>2015-06-08T17:42:00Z</published>
-    <summary type="html">&lt;p&gt;Apple says this fall's update to its Mac operating system will be called El Capitan -- the name of a landmark in Yosemite National Park.&lt;/p&gt;&lt;p&gt;It follows a recent practice of Apple naming the Mac operating system after geographical locations in California.&lt;/p&gt;&lt;p&gt;The new Mac system will be more formally known as OS X 10.11, as it's the 11th update to a system adapted from the NeXT operating system that co-founder Steve Jobs brought to Apple when he returned in 1997 after an exile.&lt;/p&gt;&lt;p&gt;The Worldwide Developers Conference in San Francisco is Apple's chance to preview software updates for Macs, iPhones, iPads and the Apple Watch.&lt;/p&gt;&lt;p&gt;It's similar to Apple's Worldwide Developers Conference in that it gives Google the stage for showcasing upcoming features and products.&lt;/p&gt;</summary>
-    <dc:date>2015-06-08T17:42:00Z</dc:date>
   </entry>
 </feed>
