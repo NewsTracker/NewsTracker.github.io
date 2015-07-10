@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Denmark tells its citizens not to travel to Tunisia</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11479209&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T14:35:17Z</updated>
+    <published>2015-07-10T14:35:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-10T14:35:17Z</dc:date>
+  </entry>
+  <entry>
     <title>Tunisia defends efforts to protect foreign tourists</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/10/tunisia-defends-efforts-to-protect-british-tourists" />
     <author>

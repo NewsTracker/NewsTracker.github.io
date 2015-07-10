@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State kills at least 145 civilians in Syria's Kobani</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/26/us-mideast-crisis-syria-idUSKBN0P60UY20150626?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-26T16:46:41Z</updated>
+    <published>2015-06-26T16:46:41Z</published>
+    <summary type="html">&lt;p&gt;BEIRUT Islamic State fighters killed at least 145 civilians in an attack on the Syrian town of Kobani and a nearby village, in what a monitoring group described on Friday as one of the worst massacres carried out by the hardline group in Syria.&lt;/p&gt;&lt;p&gt;Unlike the Kobani raid, the Islamic State attack on Hasaka appears aimed at wresting control of the government-held parts of city, which is divided into areas run separately by President Bashar al-Assad's government and the YPG.&lt;/p&gt;&lt;p&gt;Islamic State pressed a separate assault to capture government-held parts of the northeastern city of Hasaka, blowing up a security building and triggering a government appeal for all residents to take up arms.&lt;/p&gt;</summary>
+    <dc:date>2015-06-26T16:46:41Z</dc:date>
+  </entry>
+  <entry>
     <title>IS beheads two women in Syria: monitor</title>
     <link rel="alternate" href="http://news.yahoo.com/first-beheads-two-women-syria-monitor-073538672.html" />
     <author>
@@ -535,17 +546,6 @@
     <updated>2015-06-26T16:46:41Z</updated>
     <published>2015-06-26T16:46:41Z</published>
     <summary type="html">&lt;p&gt;While Islamic State had managed to advance slightly in Hasaka on Friday, seizing one army position, fierce army air strikes had hindered the attack, Abdulrahman said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T16:46:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Islamic State kills at least 145 civilians in Syria's Kobani</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/26/us-mideast-crisis-syria-idUSKBN0P60UY20150626?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T16:46:41Z</updated>
-    <published>2015-06-26T16:46:41Z</published>
-    <summary type="html">&lt;p&gt;BEIRUT Islamic State fighters killed at least 145 civilians in an attack on the Syrian town of Kobani and a nearby village, in what a monitoring group described on Friday as one of the worst massacres carried out by the hardline group in Syria.&lt;/p&gt;&lt;p&gt;Unlike the Kobani raid, the Islamic State attack on Hasaka appears aimed at wresting control of the government-held parts of city, which is divided into areas run separately by President Bashar al-Assad's government and the YPG.&lt;/p&gt;</summary>
     <dc:date>2015-06-26T16:46:41Z</dc:date>
   </entry>
   <entry>

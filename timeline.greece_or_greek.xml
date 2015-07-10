@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece's Tsipras to sell austerity deal to reluctant party</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/greeces-tsipras-sell-austerity-deal-111433389.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T15:04:42Z</updated>
+    <published>2015-07-10T15:04:42Z</published>
+    <summary type="html">&lt;p&gt;The package would be far larger than the 7.2 billion euros creditors had been offering to Greece during the previous five months of fruitless negotiations.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T15:04:42Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/RdCkRpZGr0NH8uZCIA1Ciw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_FINANCIALTIMES/d1de1cb6bfe2cd1e7b0f6a706700aa00_original.jpg" />
+  </entry>
+  <entry>
+    <title>Wall St. higher on hopes of Greek debt deal</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/10/us-markets-stocks-idUSKCN0PK17A20150710?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T15:02:34Z</updated>
+    <published>2015-07-10T15:02:34Z</published>
+    <summary type="html">&lt;p&gt;"Greece isn't a done deal but the probability of a 'Grexit' is reducing."&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T15:02:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>US stocks open higher as Greece moves closer to a debt deal</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article26933650.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T13:50:04Z</updated>
+    <published>2015-07-10T13:50:04Z</published>
+    <summary type="html">&lt;p&gt;Asian stock rose for a second day on Friday as the Greek government proposed a broad financial overhaul to its creditors and Beijing's attempts to arrest a sharp slide in the Chinese market appeared to be working.&lt;/p&gt;&lt;p&gt;U.S. stocks are posting solid gains in early trading as Greece moves closer to sealing a deal for new loans from its creditors.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T13:50:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>The Latest: French premier says Greek reform plan 'complete'</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26934703.html%23storylink=rss" />
     <author>

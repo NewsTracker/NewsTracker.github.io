@@ -4,16 +4,37 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Ukraine evacuates hundreds from site of deadly Kiev fuel blasts</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ukraine-evacuates-hundreds-from-site-of-deadly-kiev-fuel-blasts-20150609-ghk96c.html" />
+    <title>Gunman kills 3 postal workers in Ukraine, steals $115,000</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26943844.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-06-09T14:09:24Z</updated>
-    <published>2015-06-09T14:09:24Z</published>
-    <summary type="html">&lt;p&gt;Ukraine's emergencies ministry began evacuating residents living within two kilometres of the fuel depots.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T14:09:24Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/k/9/b/g/image.related.articleLeadwide.620x349.ghk96c.png/1433852366566.jpg" />
+    <updated>2015-07-10T13:55:07Z</updated>
+    <published>2015-07-10T13:55:07Z</published>
+    <summary type="html">&lt;p&gt;Both the government of Ukraine and its people have been under severe economic stress recently.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T13:55:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gunman kills 3 postal workers in Ukraine, steals $115,000</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/10/gunman-kills-3-postal-workers-in-ukraine-steals-115-000" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T13:49:47Z</updated>
+    <published>2015-07-10T13:49:47Z</published>
+    <summary type="html">&lt;p&gt;MOSCOW (AP) - An unidentified gunman shot and killed three postal workers Friday as they were transporting money in eastern Ukraine, escaping with the equivalent of $115,000, police said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T13:49:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Russia's Putin upbeat on Ukraine crisis solution</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/10/us-ukraine-crisis-putin-idUSKCN0PK1I820150710?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T13:29:59Z</updated>
+    <published>2015-07-10T13:29:59Z</published>
+    <summary type="html">&lt;p&gt;UFA, Russia Russian President Vladimir Putin said on Friday that there were more chances for Ukraine crisis to be successfully resolved rather than for it to fail.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T13:29:59Z</dc:date>
   </entry>
   <entry>
     <title>Romania: Italian foreign minister discusses Greece, Ukraine</title>
@@ -566,17 +587,5 @@
     <summary type="html">&lt;p&gt;KIEV, Ukraine (AP) - Ukrainian firefighters on Tuesday managed to contain a major blaze that had engulfed a fuel depot near Kiev, preventing it from spreading to another fuel depot and a nearby military base.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T16:58:02Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/f7b22dc/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F6c%2F441377966dba2877e4bba89038c58f%2Fmedia%3Aaa41d6a349314f428e96a04f5429da18Ukraine.JPEG" />
-  </entry>
-  <entry>
-    <title>Drone footage of Ukraine fire</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/europe/ukraine/11662757/Drone-footage-of-Ukraine-fire.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T14:46:57Z</updated>
-    <published>2015-06-09T14:46:57Z</published>
-    <summary type="html">&lt;p&gt;However, Ukraine urgently evacuated hundreds of residents from the site of a series of fuel depot blasts after the fire spread, leaving several people missing and at least one confirmed dead.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T14:46:57Z</dc:date>
-    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03205/ukraine_-_mariupol_3205859g.jpg" />
   </entry>
 </feed>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Swiss say 1 of 7 FIFA officials agrees to extradition to US</title>
+    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/10/swiss-say-1-of-7-fifa-officials-agrees-to-extradition-to-us" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T14:33:46Z</updated>
+    <published>2015-07-10T14:33:46Z</published>
+    <summary type="html">&lt;p&gt;The widening American investigation alleges bribery and racketeering worth more than $150 million involving high-ranking FIFA officials over a 24-year span.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T14:33:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Lifting the lid on one of FIFA's big secrets: Executive pay</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26940259.html%23storylink=rss" />
     <author>
@@ -955,51 +966,5 @@
     <published>2015-06-09T17:40:52Z</published>
     <summary type="html">&lt;p&gt;"It didn't transgress any FIFA practices, any practices applicable to the bidding process. What else can we say?"&lt;/p&gt;</summary>
     <dc:date>2015-06-09T17:40:52Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA suspect Burzaco turns himself in to Italian police</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article23562163.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T15:35:04Z</updated>
-    <published>2015-06-09T15:35:04Z</published>
-    <summary type="html">&lt;p&gt;Burzaco, who was indicted by U.S. authorities in connection to the FIFA corruption case, is currently in a jail cell pending a hearing later Tuesday on whether to confirm the arrest, as is procedure in Italy.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T15:35:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>FIFA scandal: Alejandro Burzaco turns himself into police</title>
-    <link rel="alternate" href="http://www.cbc.ca/sports/soccer/fifa-scandal-alejandro-burzaco-turns-himself-into-police-1.3105981?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T15:32:18Z</updated>
-    <published>2015-06-09T15:32:18Z</published>
-    <summary type="html">&lt;p&gt;In a separate Swiss investigation, authorities seized documents at FIFA headquarters in their probe into the bidding contests for the 2018 and 2022 World Cup tournaments.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T15:32:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA Suspect Burzaco Turns Himself in to Italian Police</title>
-    <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/fifa-suspect-burzaco-turns-italian-police-31633246" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T15:30:44Z</updated>
-    <published>2015-06-09T15:30:44Z</published>
-    <summary type="html">&lt;p&gt;Burzaco was named on Interpol's most wanted list last Wednesday, along with five other men with ties to FIFA.&lt;/p&gt;&lt;p&gt;Leoz, a former FIFA executive committee member who is under house arrest in Paraguay, was also named on the Interpol list, as was FIFA vice president Jack Warner and Jose Margulies, a Brazilian broadcast executive.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T15:30:44Z</dc:date>
-  </entry>
-  <entry>
-    <title>Argentine sought by U.S. in FIFA scandal surrenders in Italy</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/09/argentine-sought-us-fifa-scandal-surrenders-italy" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T14:04:12Z</updated>
-    <published>2015-06-09T14:04:12Z</published>
-    <summary type="html">&lt;p&gt;ROME (Reuters) - Businessman Alejandro Burzaco, one of three Argentines wanted by U.S. authorities over the FIFA bribery investigation, surrendered voluntarily to police in northern Italy on Tuesday.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T14:04:12Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-06-09T121420Z_1_LYNXMPEB580HN_RTROPTP_2_SOCCER-FIFA.JPG?itok=Jty7u3SZ" />
   </entry>
 </feed>

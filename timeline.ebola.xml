@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia records Ebola death after country declared virus-free</title>
+    <link rel="alternate" href="http://news.yahoo.com/liberia-records-death-ebola-082903770.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T11:39:14Z</updated>
+    <published>2015-06-30T11:39:14Z</published>
+    <summary type="html">&lt;p&gt;The new case will test Liberia's response capacity at a time when international health organisations have wound down their presence in the affected countries, said Fatoumata Lejeune-Kaba, spokeswoman for the U.N. Ebola response mission.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T11:39:14Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/F2ibTvNbR_Bs4JxZP1e8ow--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5NztxPTc1O3c9MzAw/http://media.zenfs.com/en_ZA/News/Reuters/2015-06-30T082750Z_1007970001_LYNXNPEB5T0A7_RTROPTP_2_OZATP-UK-HEALTH-EBOLA-LIBERIA.JPG" />
+  </entry>
+  <entry>
     <title>Test shows new Liberian Ebola case similar to earlier virus</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/10/us-health-ebola-idUSKCN0PK0ZY20150710?feedType=RSS&amp;amp;feedName=healthNews" />
     <author>

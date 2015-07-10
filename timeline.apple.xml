@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Music: Everything You Need to Know</title>
+    <link rel="alternate" href="http://www.rollingstone.com/music/news/apple-music-everything-you-need-to-know-20150630" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T09:55:00Z</updated>
+    <published>2015-06-30T09:55:00Z</published>
+    <summary type="html">&lt;p&gt;The default screen shows the newest of the new from all genres each week, as picked by Apple's editors.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T09:55:00Z</dc:date>
+    <media:content url="http://assets.rollingstone.com/assets/2015/media/201375/_original/1435611830/1035x685-iPhone6-3Up-AppleMusic-Features-PR-PRINT.jpg" />
+  </entry>
+  <entry>
     <title>China fears propel Apple shares toward five-day losing streak</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/09/us-apple-stock-idUSKCN0PJ2MM20150709?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone_or_volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Colima Volcano blasts ash, lava in western Mexico</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11479220&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T15:15:19Z</updated>
+    <published>2015-07-10T15:15:19Z</published>
+    <summary type="html">&lt;p&gt;The activity at the Colima Volcano began Thursday and continued Friday morning.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T15:15:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Eruption of Indonesian volcano sparks travel chaos</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/10/eruption-of-indonesian-volcano-sparks-travel-chaos" />
     <author>

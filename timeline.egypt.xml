@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Omar Sharif, of &amp;quot;Doctor Zhivago,&amp;quot; &amp;quot;Lawrence of Arabia,&amp;quot; dies</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11479204&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T14:20:21Z</updated>
+    <published>2015-07-10T14:20:21Z</published>
+    <summary type="html">&lt;p&gt;Yousra, Egypt's biggest actress for much of the past 30 years and a close friend of Sharif, compared Sharif to a "clean-cut" diamond.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T14:20:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>'Lawrence of Arabia' actor Omar Sharif dies at 83</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/entertainment/lawrence-of-arabia-actor-omar-sharif-dies-at-83-1.2463209" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T14:18:00Z</updated>
+    <published>2015-07-10T14:18:00Z</published>
+    <summary type="html">&lt;p&gt;Sharif was Egypt's biggest box-office star when David Lean cast him in 1962's "Lawrence of Arabia," but he was a virtual unknown elsewhere.&lt;/p&gt;&lt;p&gt;The 1968 film was banned in his native Egypt because he was cast as a Jew.&lt;/p&gt;&lt;p&gt;Born Michael Shalhoub in Egypt's Mediterranean coastal city of Alexandria, Sharif was the son of Christian Syrian-Lebanese parents.&lt;/p&gt;&lt;p&gt;Some of Egypt's most iconic film posters are of Hamama and Sharif.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T14:18:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Roadside bomb injures 20 policemen in the restive north of Egypt's Sinai</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/07/09/roadside-bomb-injures-20-policemen-in-restive-north-egypt-sinai/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
@@ -723,16 +745,5 @@
     <published>2015-06-09T18:04:23Z</published>
     <summary type="html">&lt;p&gt;CAIRO (AP) - Egypt's Commercial International Bank, the country's largest private-sector bank, has signed an agreement to acquire Citibank Egypt's retail operations that had been up for sale.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T18:04:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>Overpopulated Egypt Seeks to Reduce Fertility Rate by 2030</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-aims-reduce-fertility-rate-24-2030-31634845" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T15:40:53Z</updated>
-    <published>2015-06-09T15:40:53Z</published>
-    <summary type="html">&lt;p&gt;Egypt aims to reduce its surging fertility rate over the next 15 years, a government minister said Tuesday, in an effort to address overpopulation concerns in the Arab world's most populous country.&lt;/p&gt;&lt;p&gt;With around 90 million people - a population the United Nations projects to hit 103 million by 2030 - Egypt has struggled for decades to provide its citizens with jobs and services.&lt;/p&gt;&lt;p&gt;A 2014 study by Egypt's Health Ministry and an organization funded by the U.S. Agency for International Development showed that the birth rate, which had been falling since at least 1980, rose dramatically after 2008.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T15:40:53Z</dc:date>
   </entry>
 </feed>

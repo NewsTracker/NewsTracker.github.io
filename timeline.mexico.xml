@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Colima Volcano blasts ash, lava in western Mexico</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11479220&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T15:15:19Z</updated>
+    <published>2015-07-10T15:15:19Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (AP) " A volcano in western Mexico has erupted, spewing ash more than 4 miles (7 kilometers) into the air and sending lava down its flanks.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T15:15:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Colima Volcano Blasts Ash, Lava in Western Mexico</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/colima-volcano-blasts-ash-lava-western-mexico-32357217" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T15:11:15Z</updated>
+    <published>2015-07-10T15:11:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-10T15:11:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>Movie review: 'Cartel Land' goes deep inside vigilantes' fight on both sides of Mexico-U.S. drug war</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/movies-news-reviews/article26945383.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T08:00:00Z</updated>
+    <published>2015-07-10T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;Like the Israeli-Palestinian conflict, the hellish morass that is the drug war in Mexico has resulted in numerous documentaries, including such recent efforts as "Narco Cultura" and "Western."&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T08:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Julio Iglesias returns with album dedicated to Mexico</title>
     <link rel="alternate" href="http://www.ctvnews.ca/entertainment/julio-iglesias-returns-with-album-dedicated-to-mexico-1.2463012" />
     <author>
@@ -933,28 +966,5 @@
     <summary type="html">&lt;p&gt;Daniela Montoya's booming goal from outside the penalty area in the 82nd minute helped Colombia recover for a 1-1 draw against Mexico in the women's World Cup in Moncton, New Brunswick on Tuesday.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T22:33:15Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/5nQvCKKJxCl2mu2B3S72kg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/ac0ee349c498ee19780f6a70670029ed.jpg" />
-  </entry>
-  <entry>
-    <title>Mexico soccer probe targets coach Herrera, 2 players over partisan tweets on election day</title>
-    <link rel="alternate" href="http://www.startribune.com/mexican-soccer-probes-coach-2-players-over-partisan-tweets/306642141/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T15:35:37Z</updated>
-    <published>2015-06-09T15:35:37Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY - The Mexican Soccer Federation is investigating national team coach Miguel Herrera and two players over politically tinged tweets sent the day of the country's recent elections.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T15:35:37Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mexican Soccer probes coach, 2 players over partisan tweets</title>
-    <link rel="alternate" href="http://news.yahoo.com/mexican-soccer-probes-coach-2-players-over-partisan-143231023.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T15:29:25Z</updated>
-    <published>2015-06-09T15:29:25Z</published>
-    <summary type="html">&lt;p&gt;Peralta, who plays professionally for Club America of Mexico City, sent tweets urging Mexicans to vote using a hash tag that translates as "WearGreen" and was used by others to promote the party.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T15:29:25Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/UI4NaN.xgtenW.2Z2QJWfQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtpbD1wbGFuZTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/ap_webfeeds/6207c9f07229be19780f6a7067001e3d.jpg" />
   </entry>
 </feed>
