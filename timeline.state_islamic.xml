@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>IS beheads two women in Syria: monitor</title>
+    <link rel="alternate" href="http://news.yahoo.com/first-beheads-two-women-syria-monitor-073538672.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T08:20:54Z</updated>
+    <published>2015-06-30T08:20:54Z</published>
+    <summary type="html">&lt;p&gt;"The Islamic State group executed two women by beheading them in Deir Ezzor province, and this is the first time the Observatory has documented women being killed by the group in this manner," Observatory chief Rami Abdel Rahman said.&lt;/p&gt;&lt;p&gt;The Islamic State group has become infamous for gruesome executions and is reported to have stoned women to death on allegations of adultery.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T08:20:54Z</dc:date>
+  </entry>
+  <entry>
     <title>FBI says it thwarted Islamic State-inspired July 4 attacks</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/09/us-usa-security-fourth-idUSKCN0PJ2AU20150709?feedType=RSS&amp;amp;feedName=topNews" />
     <author>
@@ -1122,63 +1133,5 @@
     <published>2015-06-09T20:01:05Z</published>
     <summary type="html">&lt;p&gt;The threat of the Islamic State group, which already holds two cities and several towns in Libya, is one of the factors fueling the United Nations' push to resolve the country's chronic chaos.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T20:01:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Russian security czar worried about Islamic State recruiters</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11462586&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T13:05:16Z</updated>
-    <published>2015-06-09T13:05:16Z</published>
-    <summary type="html">&lt;p&gt;MOSCOW (AP) " Russia's security chief says recruiters of the Islamic State group are active in the country and called for closer international cooperation to combat them.&lt;/p&gt;&lt;p&gt;He said the Islamic State and other terror groups are focusing on youth and ethnic minorities in trying to find supporters.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T13:05:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>State Department spokesman: Overcoming Islamic State onslaught in Iraq could take 3-5 years</title>
-    <link rel="alternate" href="http://www.startribune.com/state-dep-t-spokesman-saving-iraq-could-take-3-5-years/306605681/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T12:25:14Z</updated>
-    <published>2015-06-09T12:25:14Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON - An Obama administration official says it could take at least three to five years for Iraq to overcome the Islamic State onslaught.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T12:25:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Islamic State seizes power plant near Libyan city of Sirte</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/islamic-state-seizes-power-plant-near-libyan-city-of-sirte/article24870446/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T11:39:27Z</updated>
-    <published>2015-06-09T11:39:27Z</published>
-    <summary type="html">&lt;p&gt;Since the start of the year militants in Libya loyal to Islamic State have claimed responsibility for killing dozens of Egyptian and Ethiopian Christians, as well attacks on Tripoli's luxury Corinthia hotel, embassies and oilfields.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T11:39:27Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/1b6/news/world/article24870445.ece/ALTERNATES/w220/CNEWS_US_LIBYA_SECURITY.JPG" />
-  </entry>
-  <entry>
-    <title>Islamic State attacks government office on western fringe of Baghdad</title>
-    <link rel="alternate" href="http://news.yahoo.com/islamic-state-attacks-government-office-western-fringe-baghdad-113401892.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T11:34:01Z</updated>
-    <published>2015-06-09T11:34:01Z</published>
-    <summary type="html">&lt;p&gt;Located on the western fringe of Baghdad, Amiriyat al-Falluja is one of the few remaining pockets of territory under government control in Anbar province, most of which is held by Islamic State.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T11:34:01Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
-  </entry>
-  <entry>
-    <title>Islamic State seizes power plant near Libyan city of Sirte</title>
-    <link rel="alternate" href="http://news.yahoo.com/islamic-state-seizes-power-plant-near-libyan-city-102113134.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T11:24:23Z</updated>
-    <published>2015-06-09T11:24:23Z</published>
-    <summary type="html">&lt;p&gt;"The plant ... was taken," Islamic State said in a message on social media, adding that the capture of the plant meant that the militants had driven their enemies out of the entire city.&lt;/p&gt;&lt;p&gt;Forces loyal to the self-declared government that controls the capital Tripoli pulled out of the plant after Islamic State attacked it on Tuesday morning.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T11:24:23Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/MVmFUqbc7H6kOdnuwq8_iA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDt3aWR0aD0zMDA7aGVpZ2h0PTE1NjtxPTc1O3B5b2ZmPTMw/http://media.zenfs.com/en_ZA/News/Reuters/2015-06-09T072945Z_1007970001_LYNXMPEB58084_RTROPTP_2_OZATP-UK-LIBYA-SECURITY.JPG.cf.jpg" />
   </entry>
 </feed>

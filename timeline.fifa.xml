@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Lifting the lid on one of FIFA's big secrets: Executive pay</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26940259.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T11:14:04Z</updated>
+    <published>2015-07-10T11:14:04Z</published>
+    <summary type="html">&lt;p&gt;That included Blatter and the 24 other members of his executive committee, plus 12 executives at FIFA headquarters.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T11:14:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Lifting the lid on one of FIFA's big secrets: Executive pay</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article26940259.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T11:14:04Z</updated>
+    <published>2015-07-10T11:14:04Z</published>
+    <summary type="html">&lt;p&gt;Failing to publish the amounts paid to Blatter and other top executives vehicles the impression that FIFA must still have something to hide, when it should be setting an example for the rest of football to follow.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T11:14:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Lifting the lid on one of FIFA's big secrets: Executive pay</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/lifting-the-lid-on-one-of-fifas-big-secrets-execut/nmwgS/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T11:11:44Z</updated>
+    <published>2015-07-10T11:11:44Z</published>
+    <summary type="html">&lt;p&gt;As FIFA slid toward what has now become a full-blown collapse of its reputation and credibility, one of Sepp Blatter's advisers suggested to the president of football's governing body that he should lift the lid on one of his most tightly guarded secrets.&lt;/p&gt;&lt;p&gt;Pieth says the FIFA president explained that doing so risked embarrassing and upsetting his allies on the FIFA board whose pay is also secret.&lt;/p&gt;&lt;p&gt;Failing to publish the pay of Blatter and other executives gives the impression that FIFA must still have something to hide, when it should set an example for football to follow.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T11:11:44Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/10/a9/b7/d6dbc85eb015423a906ffdf574ee7e68-4d22b438b944419f99ea73a7fef1667d-0_1.jpg" />
+  </entry>
+  <entry>
     <title>FIFA expels Chuck Blazer for life for bribery, corruption</title>
     <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/09/fifa-expels-chuck-blazer-for-life-for-bribery-corruption" />
     <author>
@@ -965,27 +1001,5 @@
     <summary type="html">&lt;p&gt;ROME (Reuters) - Businessman Alejandro Burzaco, one of three Argentines wanted by U.S. authorities over the FIFA bribery investigation, surrendered voluntarily to police in northern Italy on Tuesday.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T14:04:12Z</dc:date>
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-06-09T121420Z_1_LYNXMPEB580HN_RTROPTP_2_SOCCER-FIFA.JPG?itok=Jty7u3SZ" />
-  </entry>
-  <entry>
-    <title>FIFA suspect Burzaco turns himself in to Italian police</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11462584&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T12:35:15Z</updated>
-    <published>2015-06-09T12:35:15Z</published>
-    <summary type="html">&lt;p&gt;MILAN (AP) " An Argentine businessman who was indicted by U.S. authorities in connection to the FIFA corruption case turned himself in to Italian police on Tuesday.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T12:35:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA suspect Burzaco turns himself in to Italian police</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/09/fifa-suspect-burzaco-turns-himself-in-to-italian/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T12:30:52Z</updated>
-    <published>2015-06-09T12:30:52Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-09T12:30:52Z</dc:date>
   </entry>
 </feed>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: French premier says Greek reform plan 'complete'</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26934703.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T11:50:04Z</updated>
+    <published>2015-07-10T11:50:04Z</published>
+    <summary type="html">&lt;p&gt;French Prime Minister Manuel Valls laid out his hopes for an imminent Greek bailout deal after the country's government sent "solid, serious and complete" reform proposals to creditors.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T11:50:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Greek PM Tsipras seeks party backing after abrupt concessions</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/10/us-eurozone-greece-idUSKBN0P40EO20150710?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
@@ -2562,40 +2574,5 @@
     <summary type="html">&lt;p&gt;While Greece should still be able to pay pensions and salaries, and keep the essential functions of state running through tax revenues, a default would likely kill its banks.&lt;/p&gt;</summary>
     <dc:date>2015-06-09T16:47:57Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/36/76/46/8120722/7/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>EU officials swiftly dismiss Greek reform offer</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greek-pm-tsipras-says-accord-071029010.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T13:04:12Z</updated>
-    <published>2015-06-09T13:04:12Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-09T13:04:12Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/MnY.tQBPKwToXoJay7Oucg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-06-09T130540Z_1_LYNXMPEB580JS_RTROPTP_3_EUROZONE-GREECE_original.jpg" />
-  </entry>
-  <entry>
-    <title>New Greek reform proposal not sufficient - EU officials</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greek-reform-proposal-not-sufficient-112822879.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T12:58:34Z</updated>
-    <published>2015-06-09T12:58:34Z</published>
-    <summary type="html">&lt;p&gt;Other officials said the Greek proposal was divided into two documents, one of which addressed mainly fiscal issues like the size of the primary budget surplus and the other spelled out Athens' ideas for a major debt restructuring.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T12:58:34Z</dc:date>
-    <media:content url="http://l.yimg.com/a/p/us/news/editorial/d/0c/d0c3eb8ca18907492a4b337b5cec5193.jpeg" />
-  </entry>
-  <entry>
-    <title>Greece makes new proposals to end bailout impasse</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/09/greece-says-it-has-made-new-proposals-to-end-bailout-impasse" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T11:38:54Z</updated>
-    <published>2015-06-09T11:38:54Z</published>
-    <summary type="html">&lt;p&gt;He said the documents included alternative ideas on budget measures required for creditors to approve the bailout payment, and proposals on "a workable plan" to render Greece's crushing debt load viable.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T11:38:54Z</dc:date>
   </entry>
 </feed>

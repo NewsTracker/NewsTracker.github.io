@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple_or_microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US court agrees Apple violated antitrust law in e-book entry</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article25823539.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:58:06Z</updated>
+    <published>2015-06-30T19:58:06Z</published>
+    <summary type="html">&lt;p&gt;In a statement, Apple said the ruling did nothing to change the fact that it did not conspire to fix e-book pricing.&lt;/p&gt;&lt;p&gt;In the majority opinion, though, Livingston said it was "startling" that Jacobs would agree Apple intentionally organized a conspiracy among publishers to raise e-book prices and then say the company was entitled to do so because the conspiracy helped it become an e-book retailer.&lt;/p&gt;&lt;p&gt;"Apple took steps to compete with a monopolist and open the market to more entrants, generating only minor competitive restraints in the process," Jacobs wrote.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T19:58:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Review: Microsoft Office in a world of multiple devices</title>
     <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/07/09/review-microsoft-navigates-shift-in-how-use-multiple-devices-with-new-office/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
     <author>
@@ -221,18 +233,6 @@
     <published>2015-06-11T01:45:43Z</published>
     <summary type="html" />
     <dc:date>2015-06-11T01:45:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>US court agrees Apple violated antitrust law in e-book entry</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article25823539.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T19:58:06Z</updated>
-    <published>2015-06-30T19:58:06Z</published>
-    <summary type="html">&lt;p&gt;In a statement, Apple said the ruling did nothing to change the fact that it did not conspire to fix e-book pricing.&lt;/p&gt;&lt;p&gt;In the majority opinion, though, Livingston said it was "startling" that Jacobs would agree Apple intentionally organized a conspiracy among publishers to raise e-book prices and then say the company was entitled to do so because the conspiracy helped it become an e-book retailer.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T19:58:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Appeals court agrees Apple violated antitrust law in e-books case</title>

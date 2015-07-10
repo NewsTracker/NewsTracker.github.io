@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine evacuates hundreds from site of deadly Kiev fuel blasts</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/ukraine-evacuates-hundreds-from-site-of-deadly-kiev-fuel-blasts-20150609-ghk96c.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-09T14:09:24Z</updated>
+    <published>2015-06-09T14:09:24Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's emergencies ministry began evacuating residents living within two kilometres of the fuel depots.&lt;/p&gt;</summary>
+    <dc:date>2015-06-09T14:09:24Z</dc:date>
+    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/k/9/b/g/image.related.articleLeadwide.620x349.ghk96c.png/1433852366566.jpg" />
+  </entry>
+  <entry>
     <title>Romania: Italian foreign minister discusses Greece, Ukraine</title>
     <link rel="alternate" href="http://news.yahoo.com/romania-italian-foreign-minister-discusses-greece-ukraine-124342819.html" />
     <author>
