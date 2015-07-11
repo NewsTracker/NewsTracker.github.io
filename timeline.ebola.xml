@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tests show Ebola in Liberia linked to virus found months ago</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/Tests-show-Ebola-in-Liberia-linked-to-virus-found-6377690.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T20:02:25Z</updated>
+    <published>2015-07-10T20:02:25Z</published>
+    <summary type="html">&lt;p&gt;Five new cases of Ebola have been confirmed in the town of Nedowein, including the teen who died June 28.&lt;/p&gt;&lt;p&gt;The four others with Ebola are among 149 identified contacts, WHO said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T20:02:25Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/47/55/8289110/7/920x920.jpg" />
+  </entry>
+  <entry>
     <title>Liberia records Ebola death after country declared virus-free</title>
     <link rel="alternate" href="http://news.yahoo.com/liberia-records-death-ebola-082903770.html" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Review: Microsoft Office navigates a world of multiple devices</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28466575/review-microsoft-office-navigates-world-multiple-devices?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-10T23:32:11Z</updated>
+    <published>2015-07-10T23:32:11Z</published>
+    <summary type="html">&lt;p&gt;This product image provided by Microsoft shows Microsoft Word for Mac, part of the new Microsoft Office 2016 Mac suite.&lt;/p&gt;</summary>
+    <dc:date>2015-07-10T23:32:11Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0710/20150710__0711microsoft%7E2_300.JPG" />
+  </entry>
+  <entry>
     <title>Microsoft Office now on multiple devices</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/10/microsoft-office-now-multiple-devices" />
     <author>
@@ -279,50 +291,5 @@
     <summary type="html">&lt;p&gt;Orders start July 1 for the Surface Hub, which Microsoft hopes will become a fixture in meeting rooms around the world.&lt;/p&gt;&lt;p&gt;The Surface Hub will "pay for itself and make money" said Mike Angiulo, who runs Microsoft's devices group.&lt;/p&gt;</summary>
     <dc:date>2015-06-10T20:08:47Z</dc:date>
     <media:content url="http://wpmedia.business.financialpost.com/2015/06/surface.png?w=620" />
-  </entry>
-  <entry>
-    <title>Nokia Theatre, home of the Emmys, renamed Microsoft Theater</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/495d344a0d10421e9baa8ee77029cfbd/Article_2015-06-09-US--Microsoft%20Theater-Nokia%20Theatre/id-f5f83d8782cf4ba0ba9102c1a484cfd5" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T06:16:57Z</updated>
-    <published>2015-06-10T06:16:57Z</published>
-    <summary type="html">&lt;p&gt;Microsoft and theater owner AEG announced Tuesday, June 9, 2015, that the 7,100-seat venue is being rebranded following Microsoft's acquisition of the Nokia smartphone business last year.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T06:16:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nokia Theatre, Home of the Emmys, Renamed Microsoft Theater</title>
-    <link rel="alternate" href="http://abcnews.go.com/Entertainment/wireStory/nokia-theatre-home-emmys-renamed-microsoft-theater-31649152" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T21:53:26Z</updated>
-    <published>2015-06-09T21:53:26Z</published>
-    <summary type="html">&lt;p&gt;Microsoft Corp. acquired Nokia Corp.'s smartphone business last year.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T21:53:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nokia Theatre, home of the Emmys, renamed Microsoft Theater</title>
-    <link rel="alternate" href="http://news.yahoo.com/nokia-theatre-home-emmys-renamed-microsoft-theater-215158984.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T21:51:58Z</updated>
-    <published>2015-06-09T21:51:58Z</published>
-    <summary type="html">&lt;p&gt;Microsoft and theater owner AEG announced Tuesday that the 7,100-seat venue is being rebranded.&lt;/p&gt;&lt;p&gt;The 40,000-square-foot plaza outside the theater will similarly be known as Microsoft Square, and the nearby 3,100-seat venue Club Nokia will also be rebranded.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T21:51:58Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/OrgbKooyCxE3xvUO4Rokhw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/0939421dc476ed19780f6a706700f0b2.jpg" />
-  </entry>
-  <entry>
-    <title>Nokia Theatre, home of the Emmys, renamed Microsoft Theater</title>
-    <link rel="alternate" href="http://www.usnews.com/news/entertainment/articles/2015/06/09/nokia-theatre-home-of-the-emmys-renamed-microsoft-theater" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T21:51:47Z</updated>
-    <published>2015-06-09T21:51:47Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-09T21:51:47Z</dc:date>
   </entry>
 </feed>

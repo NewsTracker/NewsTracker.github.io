@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FTC exploring Apple rules for streaming music rivals in App Store</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/11/us-apple-music-antitrust-idUSKCN0PL03O20150711?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T03:15:25Z</updated>
+    <published>2015-07-11T03:15:25Z</published>
+    <summary type="html">&lt;p&gt;Apple takes a 30 percent cut of all in-app purchases for digital goods, such as music streaming subscriptions and games, sold on its platform.&lt;/p&gt;&lt;p&gt;Apple has long been a leader in digital music through its iTunes Store, but it has been a relatively late entrant to on-demand streaming.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T03:15:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>FTC exploring Apple rules for streaming music rivals in App Store</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/ftc-exploring-apple-rules-streaming-031525278.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T03:15:25Z</updated>
+    <published>2015-07-11T03:15:25Z</published>
+    <summary type="html">&lt;p&gt;Streaming services' chief grievances with Apple stem from the company's 30 percent cut.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T03:15:25Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/k0uWYnnLEk1SX.BktVeDhA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE_original.jpg" />
+  </entry>
+  <entry>
+    <title>5 things for Apple (and you) to keep in mind as Apple Music is launched</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/music-news-reviews/article25830955.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T08:00:00Z</updated>
+    <published>2015-06-30T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;Apple can make people spend $700 on a phone without blinking, but can it get a critical mass to pay another $10 a month?&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T08:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple Music: Everything You Need to Know</title>
     <link rel="alternate" href="http://www.rollingstone.com/music/news/apple-music-everything-you-need-to-know-20150630" />
     <author>
@@ -211,17 +245,6 @@
     <published>2015-06-11T01:45:43Z</published>
     <summary type="html" />
     <dc:date>2015-06-11T01:45:43Z</dc:date>
-  </entry>
-  <entry>
-    <title>Review: The best new features coming from Apple, Google</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Review-The-best-new-features-coming-from-Apple-6317745.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T08:09:18Z</updated>
-    <published>2015-06-10T08:09:18Z</published>
-    <summary type="html">&lt;p&gt;On Apple Watch, apps from outside parties have essentially been extensions of phone apps.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T08:09:18Z</dc:date>
   </entry>
   <entry>
     <title>Apple removes Confederate flag games</title>
@@ -527,29 +550,6 @@
     <media:content url="ww.smh.com.au/content/dam/images/g/h/t/k/8/9/image.related.articleLeadNarrow.300x0.ghtgwi.png/1434859663188.jpg" />
   </entry>
   <entry>
-    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/09/whos-who-in-music-streaming-apple-spotify-pandora/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T21:01:24Z</updated>
-    <published>2015-06-09T21:01:24Z</published>
-    <summary type="html">&lt;p&gt;That is evolving into Apple Music and will have a prominent spot on iPhones and other Apple devices, as well as a unique integration with Siri, Apple's voice-activated digital assistant.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T21:01:24Z</dc:date>
-    <media:content url="http://media.utsandiego.com/img/photos/2015/06/09/9f92aa869b19d419780f6a706700513e_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
-  </entry>
-  <entry>
-    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Who-s-Who-in-music-streaming-Apple-Spotify-6316853.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T21:01:24Z</updated>
-    <published>2015-06-09T21:01:24Z</published>
-    <summary type="html">&lt;p&gt;- With last year's purchase of headphones maker Beats, Apple got Beats Music, which offers unlimited listening and offline playback for $10 a month.&lt;/p&gt;&lt;p&gt;SAN FRANCISCO (AP) - Apple shook up the music world more than a decade ago when it offered an easy way to buy songs digitally for 99 cents each.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T21:01:24Z</dc:date>
-  </entry>
-  <entry>
     <title>Taylor Swift says no to Apple Music</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/taylor-swift-says-no-to-apple-music/" />
     <author>
@@ -672,84 +672,5 @@
     <summary type="html">&lt;p&gt;The employee complaints, which a judge ordered unsealed, are part of a 2013 lawsuit alleging Apple should compensate employees for the time it takes to conduct the searches.&lt;/p&gt;&lt;p&gt;In the 2012 email to Cook, with a subject line "Fearless feedback from Apple retail specialist", the employee said Apple's policy implied the company did not trust its workers.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T03:13:36Z</dc:date>
     <media:content url="http://www.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/e878100539384fc53e3134739df4f737446d0b07/0_0_4056_2437/500.jpg" />
-  </entry>
-  <entry>
-    <title>Spotify gets investment as it faces competition from Apple</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/Spotify-gets-investment-as-it-faces-competition-6318117.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T12:38:24Z</updated>
-    <published>2015-06-10T12:38:24Z</published>
-    <summary type="html">&lt;p&gt;It is seeing increasing competition, however, with Apple launching its Apple Music streaming service at the end of June.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T12:38:24Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/36/75/67/8117713/3/headline_list_thumb137.jpg" />
-  </entry>
-  <entry>
-    <title>Spotify gets investment as it faces competition from Apple</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/10/spotify-gets-investment-as-it-faces-competition/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T11:05:40Z</updated>
-    <published>2015-06-10T11:05:40Z</published>
-    <summary type="html">&lt;p&gt;COPENHAGEN, Denmark (AP) - Music streaming company Spotify says it has gotten a new investment from TeliaSonera, a Nordic telecoms company, as it looks to compete globally with similar services from Apple Inc. and others.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T11:05:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Review: The best new features coming from Apple, Google</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11463073&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T07:10:15Z</updated>
-    <published>2015-06-10T07:10:15Z</published>
-    <summary type="html">&lt;p&gt;With Apple, it will be a core feature.&lt;/p&gt;&lt;p&gt;Apple Maps has improved a lot for driving and walking directions since it ousted Google Maps in 2012 as the default service on iPhones.&lt;/p&gt;&lt;p&gt;Siri on Apple devices and Google Now on Android devices are supposed to get smarter by doing more based on context.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T07:10:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Review: The best new features coming from Apple, Google</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/10/review-the-best-new-features-coming-from-apple/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T07:05:28Z</updated>
-    <published>2015-06-10T07:05:28Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-10T07:05:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple Music faces antitrust probes in US</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102747112" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T06:06:00Z</updated>
-    <published>2015-06-10T06:06:00Z</published>
-    <summary type="html">&lt;p&gt;The letter said Universal Music Group had no agreements with Apple or music entities like Sony Music Entertainment and Warner Music Group that would impede the availability of free or ad-supported services.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T06:06:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/06/09/102745901-RTX1FP5V.530x298.jpg?v=1433874701" />
-  </entry>
-  <entry>
-    <title>Apple Music faces antitrust scrutiny in NY, Connecticut</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/10/us-apple-music-investigation-idUSKBN0OQ0BG20150610?feedType=RSS&amp;amp;feedName=topNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T05:24:07Z</updated>
-    <published>2015-06-10T05:24:07Z</published>
-    <summary type="html">&lt;p&gt;The attorneys general of New York and Connecticut are investigating Apple Inc's negotiations with music companies to look for signs of potential antitrust violations.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T05:24:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Who's Who in music streaming: Apple, Spotify, Pandora &amp; more</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/09/whos-who-in-music-streaming-apple-spotify-pandora-more" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-09T21:01:24Z</updated>
-    <published>2015-06-09T21:01:24Z</published>
-    <summary type="html">&lt;p&gt;The maker of iPods and iPhones announced Apple Music, an app that combines Beats 1, a 24-hour, seven-day live radio station, with an on-demand music streaming service.&lt;/p&gt;</summary>
-    <dc:date>2015-06-09T21:01:24Z</dc:date>
   </entry>
 </feed>
