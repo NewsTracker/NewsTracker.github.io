@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Car bombing at Italian Consulate in Egypt's capital kills 1</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27031450.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T13:45:04Z</updated>
+    <published>2015-07-11T13:45:04Z</published>
+    <summary type="html">&lt;p&gt;Italian Foreign Minister Paolo Gentiloni said that Italy would increase security at Italian sites in Cairo and greater Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T13:45:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Car bombing at Italian Consulate in Egypt's capital kills 1</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/11/egypt-official-explosion-outside-italian-consulate-in-cairo" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T13:42:59Z</updated>
+    <published>2015-07-11T13:42:59Z</published>
+    <summary type="html">&lt;p&gt;No group immediately claimed responsibility for the blast, though Egypt faces threats from insurgent factions including an Islamic State affiliate in its restive Sinai Peninsula that the military says killed at least 17 soldiers in a recent assault there.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T13:42:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Car Bombing at Italian Consulate in Egypt's Capital Kills 1</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egyptian-official-explosion-italian-consulate-cairo-damages-building-32376971" />
     <author>

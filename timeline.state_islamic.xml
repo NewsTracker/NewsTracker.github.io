@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Islamic State claims Italian Consulate blast</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/The-Latest-Blast-at-Italian-Consulate-in-Cairo-6378938.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T15:46:57Z</updated>
+    <published>2015-07-11T15:46:57Z</published>
+    <summary type="html">&lt;p&gt;The claim, signed Islamic State Egypt, says the car contained 450 kilograms (990 pounds) of explosives.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T15:46:57Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/37/50/42/8292495/41/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State supporters circulate claim of responsibility for Cairo Italian Consulate bombing</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/11/islamic-state-supporters-circulate-claim-of/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T15:33:07Z</updated>
+    <published>2015-07-11T15:33:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-11T15:33:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Afghan official says that highest-ranking IS figure in Afghanistan killed in US strike</title>
     <link rel="alternate" href="http://www.startribune.com/official-senior-islamic-state-figure-killed-in-a-us-strike/313684091/" />
     <author>

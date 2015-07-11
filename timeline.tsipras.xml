@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tsipras.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece's Tsipras digs in against bailout</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/02/us-eurozone-greece-idUSKBN0P40EO20150702?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T05:57:03Z</updated>
+    <published>2015-07-02T05:57:03Z</published>
+    <summary type="html">&lt;p&gt;Less than 24 hours after he wrote a conciliatory letter to creditors asking for a new bailout that would accept many of their terms, Tsipras abruptly switched back into combative mode in a television address.&lt;/p&gt;&lt;p&gt;Euro zone finance ministers held an hour-long conference call to discuss the previous night's offer from Tsipras, but were adamant that no further discussions would be held until after Sunday's vote.&lt;/p&gt;&lt;p&gt;In his overnight letter to creditors, seen by Reuters, Tsipras agreed to accept most of their demands for taxes and pension cuts and asked for a new 29 billion euro loan to cover all debt service payments in the next two years.&lt;/p&gt;&lt;p&gt;Lagarde declined to be drawn out on whether she viewed Tsipras was a reliable negotiating partner after his latest switch, although she did say the Fund wanted to see evidence of reforms before talks about any new potential debt package.&lt;/p&gt;&lt;p&gt;The Tsipras letter asking for a new bailout deal appeared to move closer to accepting creditor demands.&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T05:57:03Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150701&amp;amp;i=109263044&amp;amp;w=240&amp;amp;r=109263044-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Greek debt crisis: Greeks muse on future path after Alexis Tsipras' abrupt reversal</title>
     <link rel="alternate" href="http://www.smh.com.au/world/greek-debt-crisis-greeks-muse-on-future-path-after-alexis-tsipras-abrupt-reversal-20150711-gia16t.html" />
     <author>
@@ -208,18 +220,6 @@
     <published>2015-07-03T13:15:19Z</published>
     <summary type="html" />
     <dc:date>2015-07-03T13:15:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece's Tsipras digs in against bailout</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/02/us-eurozone-greece-idUSKBN0P40EO20150702?feedType=RSS&amp;amp;feedName=topNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-02T05:57:03Z</updated>
-    <published>2015-07-02T05:57:03Z</published>
-    <summary type="html">&lt;p&gt;Less than 24 hours after he wrote a conciliatory letter to creditors asking for a new bailout that would accept many of their terms, Tsipras abruptly switched back into combative mode in a television address.&lt;/p&gt;&lt;p&gt;Euro zone finance ministers held an hour-long conference call to discuss the previous night's offer from Tsipras, but were adamant that no further discussions would be held until after Sunday's vote.&lt;/p&gt;&lt;p&gt;In his overnight letter to creditors, seen by Reuters, Tsipras agreed to accept most of their demands for taxes and pension cuts and asked for a new 29 billion euro loan to cover all debt service payments in the next two years.&lt;/p&gt;</summary>
-    <dc:date>2015-07-02T05:57:03Z</dc:date>
-    <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150701&amp;amp;i=109263044&amp;amp;w=240&amp;amp;r=109263044-1&amp;amp;t=2" />
   </entry>
   <entry>
     <title>Greece's Tsipras digs in against bailout</title>
@@ -498,16 +498,5 @@
     <summary type="html">&lt;p&gt;Tsipras again said he saw a solution at hand.&lt;/p&gt;&lt;p&gt;Tsipras renewed a call for a restructuring of Athens' debts as part of any solution.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T11:25:03Z</dc:date>
     <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/news/876/493/greece22.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Greek leader heads to Brussels to meet Merkel, Hollande</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/greek-leader-heads-to-brussels-to-meet-merkel-hollande/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T15:56:04Z</updated>
-    <published>2015-06-10T15:56:04Z</published>
-    <summary type="html">&lt;p&gt;However, Merkel recently indicated she would have an opportunity to speak to Tsipras on Wednesday.&lt;/p&gt;&lt;p&gt;Tsipras must also face down hardliners within his own party, many of which have called for a break in relations with creditors and for Greece to go it alone, even if it means leaving the euro.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T15:56:04Z</dc:date>
   </entry>
 </feed>

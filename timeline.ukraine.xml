@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine says 7 wounded in attack by armed group in western city</title>
+    <link rel="alternate" href="http://www.startribune.com/ukraine-says-7-wounded-in-armed-gang-attack-in-western-city/313763881/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T15:00:52Z</updated>
+    <published>2015-07-11T15:00:52Z</published>
+    <summary type="html">&lt;p&gt;MOSCOW - Ukraine's Interior Minister says four civilians and three police officers have been wounded in an attack by armed men whose weapons include grenades in a western city.&lt;/p&gt;&lt;p&gt;Mukhachevo is in far western Ukraine, near the border with Poland and Slovakia.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T15:00:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ukraine Says 7 Wounded in Armed Gang Attack in Western City</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/ukraine-wounded-armed-gang-attack-western-city-32382285" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T14:57:49Z</updated>
+    <published>2015-07-11T14:57:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-11T14:57:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine's self-defense units look for the enemy within</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27032740.html%23storylink=rss" />
     <author>
