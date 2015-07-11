@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>American Federation of Teachers Endorses Hillary Clinton</title>
+    <link rel="alternate" href="http://abcnews.go.com/Politics/american-federation-teachers-endorses-hillary-clinton-president/story?id=32386858" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T21:45:47Z</updated>
+    <published>2015-07-11T21:45:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-11T21:45:47Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/Politics/AP_hillary_clinton_ml_150703_16x9_992.jpg" />
+  </entry>
+  <entry>
+    <title>Teachers' union endorses Clinton's 2016 presidential bid</title>
+    <link rel="alternate" href="http://www.foxnews.com/politics/2015/07/11/teachers-union-endorses-clinton-2016-presidential-bid/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T20:47:04Z</updated>
+    <published>2015-07-11T20:47:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-11T20:47:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton to center campaign on raising middle-class incomes</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article27047974.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T20:33:31Z</updated>
+    <published>2015-07-11T20:33:31Z</published>
+    <summary type="html">&lt;p&gt;Clinton plans to make boosting middle-class incomes and wages the focus of her presidential campaign's economic agenda.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T20:33:31Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Clinton to outline steps to bolster middle class income in campaign economic speech on Monday</title>
     <link rel="alternate" href="http://www.startribune.com/clinton-to-make-boosting-wages-central-to-her-economic-plan/313812761/" />
     <author>

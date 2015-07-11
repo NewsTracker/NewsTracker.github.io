@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>At least 2 dead in in Ukraine sports club attack</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/at-least-2-dead-in-in-ukraine-sports-club-attack/nmxPp/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T19:05:54Z</updated>
+    <published>2015-07-11T19:05:54Z</published>
+    <summary type="html">&lt;p&gt;Right Sector was one of the most militant factions in the massive protests in Ukraine's capital that led to pro-Russia President Viktor Yanukovych fleeing the country in February 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T19:05:54Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/11/9b/dd/0e38676b4cd947c385fc030fcd29bd02-b3c6a39a35b4482e876f3afaafc220da-0.jpg" />
+  </entry>
+  <entry>
+    <title>At least 2 dead in in Ukraine sports club attack</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/11/at-least-2-dead-in-in-ukraine-sports-club-attack" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T19:05:54Z</updated>
+    <published>2015-07-11T19:05:54Z</published>
+    <summary type="html">&lt;p&gt;At least two people were killed Saturday in a gun and grenade attack in a western Ukraine city involving the country's notorious nationalist militia Right Sector.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T19:05:54Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine says 7 wounded in attack by armed group in western city</title>
     <link rel="alternate" href="http://www.startribune.com/ukraine-says-7-wounded-in-armed-gang-attack-in-western-city/313763881/" />
     <author>
@@ -505,29 +528,5 @@
     <summary type="html">&lt;p&gt;Putin for his part stressed the price Italian businesses are paying for the economic sanctions lodged by the European Union against Russia, which annexed Crimea from Ukraine during the conflict.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T02:17:25Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/37/00/26/8127911/7/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Pope Francis urges Vladimir Putin to commit to 'sincere, great effort' for Ukraine peace</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/pope-francis-urges-vladimir-putin-to-commit-to-great-effort-for-ukraine-peace-20150611-ghl69w" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T19:35:13Z</updated>
-    <published>2015-06-10T19:35:13Z</published>
-    <summary type="html">&lt;p&gt;The Vatican said the Pope told Mr Putin that it was essential to resolve the "grave humanitarian situation" in Ukraine, allow aid into conflict areas, and work for "progressive detente in the region".&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T19:35:13Z</dc:date>
-    <media:content url="http://www.brisbanetimes.com.au/content/dam/images/g/h/l/6/a/r/image.related.articleLeadwide.620x349.ghl69w.png/1433977714466.jpg" />
-  </entry>
-  <entry>
-    <title>Pope calls for peace in Putin talks</title>
-    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/pope-calls-for-peace-in-putin-talks-31293586.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T19:36:09Z</updated>
-    <published>2015-06-10T19:36:09Z</published>
-    <summary type="html">&lt;p&gt;Pope Francis has met privately with Russian president Vladimir Putin at the Vatican, using the talks to call for a "sincere and great effort" aimed at bringing peace to Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T19:36:09Z</dc:date>
-    <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31293585.ece/fffd1/ALTERNATES/h342/PANews%20BT_P-0c86005b-ce52-41f6-94ce-1076a31384fb_I1.jpg" />
   </entry>
 </feed>

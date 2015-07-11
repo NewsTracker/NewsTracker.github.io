@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New Mexico cities top others in US for export growth</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27043987.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T21:00:05Z</updated>
+    <published>2015-07-11T21:00:05Z</published>
+    <summary type="html">&lt;p&gt;Three New Mexico cities have been ranked among the top five metropolitan areas in the country with the most export growth, New Mexico Gov. Susan Martinez said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T21:00:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Ash and cinders prompt evacuation of village near Colima volcano in western Mexico</title>
     <link rel="alternate" href="http://www.startribune.com/19-evacuated-as-colima-volcano-spews-ash-in-western-mexico/313852701/" />
     <author>
@@ -909,27 +920,5 @@
     <published>2015-06-11T01:34:09Z</published>
     <summary type="html">&lt;p&gt;Mexico didn't appear to object to moves to replace the National Guard troops.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T01:34:09Z</dc:date>
-  </entry>
-  <entry>
-    <title>Congress considering repeal of meat labeling law</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Congress-considering-repeal-of-meat-labeling-law-6319152.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T19:59:03Z</updated>
-    <published>2015-06-10T19:59:03Z</published>
-    <summary type="html">&lt;p&gt;The supporters have called on the U.S. government to negotiate with Canada and Mexico to find labels acceptable to all countries.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T19:59:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>US Congress considering repeal of meat labeling law</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11463312&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T19:35:16Z</updated>
-    <published>2015-06-10T19:35:16Z</published>
-    <summary type="html">&lt;p&gt;Canada and Mexico have said they will now ask the WTO for permission to raise tariffs on U.S. goods.&lt;/p&gt;&lt;p&gt;Canada and Mexico have opposed the law because it causes their animals to be segregated from those of U.S. origin " a costly process that has forced some U.S. companies to stop buying exports.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T19:35:16Z</dc:date>
   </entry>
 </feed>

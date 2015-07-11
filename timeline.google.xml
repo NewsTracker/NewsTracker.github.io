@@ -4,18 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Review: The best new features coming from Apple, Google</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article23643535.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T20:20:05Z</updated>
-    <published>2015-06-10T20:20:05Z</published>
-    <summary type="html">&lt;p&gt;Google says the feature will come to Google Maps on iPhones soon after the Android release.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T20:20:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
     <title>Google tests driverless cars in Austin _ with safety drivers</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article26650732.html%23storylink=rss" />
     <author>

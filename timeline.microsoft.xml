@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft hands display ads to AOL, maps to Uber</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/29/us-microsoft-employment-idUSKCN0P92PT20150629?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-29T23:25:31Z</updated>
+    <published>2015-06-29T23:25:31Z</published>
+    <summary type="html">&lt;p&gt;The moves mean Microsoft will focus on its growing search advertising business based on its Bing search engine, and displaying maps on its Windows devices rather than generating the maps themselves.&lt;/p&gt;</summary>
+    <dc:date>2015-06-29T23:25:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Review: Microsoft Office navigates a world of multiple devices</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28466575/review-microsoft-office-navigates-world-multiple-devices?source=rss" />
     <author>
@@ -168,17 +179,6 @@
     <media:content url="https://s.yimg.com/lo/api/res/1.2/Jy_pwVZOBTSaEZWQz9LQOw--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/homerun/cnet.cbs.com/27ae89a091e50812289846e02fd9a195" />
   </entry>
   <entry>
-    <title>Microsoft hands display ads to AOL, maps to Uber</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/29/us-microsoft-employment-idUSKCN0P92PT20150629?feedType=RSS&amp;amp;feedName=technologyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T23:25:31Z</updated>
-    <published>2015-06-29T23:25:31Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-29T23:25:31Z</dc:date>
-  </entry>
-  <entry>
     <title>Microsoft sheds some of its ad business, mapping service</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article25787338.html%23storylink=rss" />
     <author>
@@ -235,18 +235,6 @@
     <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/06/23/102781111-GettyImages-183136694-001.80x60.jpg?v=1435330457" />
   </entry>
   <entry>
-    <title>Microsoft Corp reveals gigantic US$20,000 84-inch Surface Hub designed for conferencing</title>
-    <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/microsoft-corp-reveals-gigantic-us20000-84-inch-surface-for-conferencing" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T21:02:09Z</updated>
-    <published>2015-06-10T21:02:09Z</published>
-    <summary type="html">&lt;p&gt;It will run a custom version of Windows 10, Microsoft's new operating system due out in late July.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T21:02:09Z</dc:date>
-    <media:content url="http://wpmedia.business.financialpost.com/2015/06/surface.png?w=620" />
-  </entry>
-  <entry>
     <title>In Tech: Microsoft Office comes to Android, Foursquare brings back mayors</title>
     <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/in-tech-microsoft-office-comes-to-android-foursquare-brings-back-mayors-1.2439566" />
     <author>
@@ -279,17 +267,5 @@
     <published>2015-06-11T18:44:21Z</published>
     <summary type="html" />
     <dc:date>2015-06-11T18:44:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Microsoft Corp reveals gigantic US$20,000 84-inch Surface Hub</title>
-    <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/microsoft-corp-reveals-gigantic-us20000-84-inch-surface-for-conferencing" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T20:08:47Z</updated>
-    <published>2015-06-10T20:08:47Z</published>
-    <summary type="html">&lt;p&gt;Orders start July 1 for the Surface Hub, which Microsoft hopes will become a fixture in meeting rooms around the world.&lt;/p&gt;&lt;p&gt;The Surface Hub will "pay for itself and make money" said Mike Angiulo, who runs Microsoft's devices group.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T20:08:47Z</dc:date>
-    <media:content url="http://wpmedia.business.financialpost.com/2015/06/surface.png?w=620" />
   </entry>
 </feed>
