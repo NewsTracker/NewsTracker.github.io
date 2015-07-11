@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mh17.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Service ahead of MH17 disaster anniversary</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0711/714089-mh17-families-seek-justice/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T16:32:06Z</updated>
+    <published>2015-07-11T16:32:06Z</published>
+    <summary type="html">&lt;p&gt;Families of those killed when Malaysia Airlines flight MH17 was shot down over Ukraine last year demanded justice at a memorial ceremony ahead of the first anniversary of the disaster.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T16:32:06Z</dc:date>
+    <media:content url="http://img.rasset.ie/000ad7dd-642.jpg" />
+  </entry>
+  <entry>
     <title>Dutch seek UN tribunal over downing of MH17</title>
     <link rel="alternate" href="http://www.rte.ie/news/2015/0703/712481-dutch-seek-un-tribunal-to-prosecute-downing-of-mh1/" />
     <author>

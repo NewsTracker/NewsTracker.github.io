@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore County police kill unarmed man after suicide threat</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/06/26/baltimore-county-police-kill-unarmed-man-after-suicide-threat/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-26T04:54:53Z</updated>
+    <published>2015-06-26T04:54:53Z</published>
+    <summary type="html">&lt;p&gt;According to 2013 census figures, 27.5 percent of Baltimore County's population is black and 64.1 percent is white.&lt;/p&gt;&lt;p&gt;Also in the home at the time were two of his young daughters and their mother, Shannon Sulton, who told police McCain beat and threatened her, Baltimore County Police Chief Jim Johnson said at a news conference.&lt;/p&gt;</summary>
+    <dc:date>2015-06-26T04:54:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Baltimore mayor fires police commissioner amid homicide rise</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Baltimore-mayor-fires-police-commissioner-6373404.php" />
     <author>
@@ -126,17 +137,6 @@
     <published>2015-06-27T18:36:24Z</published>
     <summary type="html">&lt;p&gt;Baltimore County Police Department salary records show Shenell Wilkes, Jonathan Besaw and Shannon Stargel as the only employees with those last names.&lt;/p&gt;</summary>
     <dc:date>2015-06-27T18:36:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Baltimore County police kill unarmed man after suicide threat</title>
-    <link rel="alternate" href="http://www.foxnews.com/us/2015/06/26/baltimore-county-police-kill-unarmed-man-after-suicide-threat/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T04:54:53Z</updated>
-    <published>2015-06-26T04:54:53Z</published>
-    <summary type="html">&lt;p&gt;According to 2013 census figures, 27.5 percent of Baltimore County's population is black and 64.1 percent is white.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T04:54:53Z</dc:date>
   </entry>
   <entry>
     <title>DOJ asks Baltimore residents about police conduct</title>

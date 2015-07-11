@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ash and cinders prompt evacuation of village near Colima volcano in western Mexico</title>
+    <link rel="alternate" href="http://www.startribune.com/19-evacuated-as-colima-volcano-spews-ash-in-western-mexico/313852701/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T18:55:09Z</updated>
+    <published>2015-07-11T18:55:09Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - Ash and cinders spewing from the Colima Volcano in western Mexico have prompted authorities to evacuate 19 people from a nearby village.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T18:55:09Z</dc:date>
+  </entry>
+  <entry>
     <title>Colima Volcano blasts ash, lava in western Mexico</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article26952997.html%23storylink=rss" />
     <author>
