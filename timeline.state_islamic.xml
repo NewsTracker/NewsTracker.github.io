@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State attacks Syrian army and Kurds in twin assault</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/25/us-mideast-crisis-syria-idUSKBN0P50LA20150625?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-25T21:17:05Z</updated>
+    <published>2015-06-25T21:17:05Z</published>
+    <summary type="html">&lt;p&gt;Syrian state TV said Islamic State was expelling residents from their homes in al-Nashwa, executing people and detaining them.&lt;/p&gt;</summary>
+    <dc:date>2015-06-25T21:17:05Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150625&amp;amp;i=109106528&amp;amp;w=240&amp;amp;r=109106528-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Islamic State says behind bombing at Italian consulate in Cairo [Video]</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/07/11/islamic-state-says-behind-bombing-at-italian-consulate-in-cairo" />
     <author>

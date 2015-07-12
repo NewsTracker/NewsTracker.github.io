@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>70 evacuated as Colima volcano spews ash in western Mexico</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/science/article/19-evacuated-as-Colima-volcano-spews-ash-in-6379362.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T03:43:29Z</updated>
+    <published>2015-07-12T03:43:29Z</published>
+    <summary type="html">&lt;p&gt;Lava flows down the banks of the Colima Volcano, also known as the...&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T03:43:29Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/37/50/15/8291177/23/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>70 evacuated as Colima volcano spews ash in western Mexico</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27043195.html%23storylink=rss" />
     <author>
       <name />

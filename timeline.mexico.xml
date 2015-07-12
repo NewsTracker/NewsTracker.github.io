@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Trump criticizes border policy as well as trade agenda</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article27032335.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T02:10:04Z</updated>
+    <published>2015-07-12T02:10:04Z</published>
+    <summary type="html">&lt;p&gt;"I respect Mexico greatly as a country. But the problem we have is their leaders are much sharper than ours, and they're killing us at the border and they're killing us on trade."&lt;/p&gt;&lt;p&gt;When he called for a wall along the U.S.-Mexico border, the audience in Las Vegas groaned.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T02:10:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Mexico&amp;#039;s Pacheco wins springboard gold, earns Rio berth</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/12/mexicos-pacheco-wins-springboard-gold-earns-rio-berth" />
     <author>
@@ -900,16 +912,5 @@
     <published>2015-06-11T15:49:10Z</published>
     <summary type="html">&lt;p&gt;MEXICO CITY Tropical storm Carlos formed off the southern Pacific coast of Mexico on Thursday and was expected to gain some strength in the coming days, the U.S. National Hurricane Center said.&lt;/p&gt;&lt;p&gt;The center said the storm was expected to move in a path northward, parallel to the coast of Mexico and that no watches or warnings were in effect.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T15:49:10Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mexico says it found offshore oil reserves in Gulf</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11463571&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T01:45:18Z</updated>
-    <published>2015-06-11T01:45:18Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY (AP) " Mexico's state-owned oil company says it found four shallow-water offshore oil and gas fields in the Gulf of Mexico with total possible reserves of 350 million barrels of crude equivalent.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T01:45:18Z</dc:date>
   </entry>
 </feed>
