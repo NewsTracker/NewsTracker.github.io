@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: formula 1 or f1</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.formula_1_or_f1.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>The Latest: F1 champion Hamilton misses Wimbledon final</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/sports/the-latest-ali-nili-will-be-chair-umpire-in-wimble/nmxZ3/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T19:57:20Z</updated>
+    <published>2015-07-12T19:57:20Z</published>
+    <summary type="html">&lt;p&gt;Formula One champion Lewis Hamilton missed out on watching the Wimbledon final because he didn't meet the All England Club's dress code.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T19:57:20Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/12/16/7e/17d9a9bdd72b47dda7caaea3cf925a6f-85e6986981564b1b80aa9d3c807fea38-0.jpg" />
+  </entry>
   <entry>
     <title>Aston Martin F1 deal &amp;#039;improbable&amp;#039;, says CEO</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/07/aston-martin-f1-deal-improbable-says-ceo" />

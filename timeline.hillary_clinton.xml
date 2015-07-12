@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>American Federation of Teachers endorses Hillary Clinton</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/american-federation-teachers-endorses-hillary-clinton-article-1.2289470" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T01:47:26Z</updated>
+    <published>2015-07-12T01:47:26Z</published>
+    <summary type="html">&lt;p&gt;"Hillary Clinton is a tested leader who shares our values, is supported by our members, and is prepared for a tough fight on behalf of students, families and communities."&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T01:47:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>American Federation of Teachers endorses Hillary Clinton</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/american-federation-teachers-endorses-hillary-clinton-article-1.2289470?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>
       <name />

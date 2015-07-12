@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tour leader Froome confident heading to Pyrenees mountains (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bmc-wins-team-time-trial-stage-9-tour-153259393--spt.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T17:33:27Z</updated>
+    <published>2015-07-12T17:33:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-12T17:33:27Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/gZ3GMIDufhY0oq1WlyHjSw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507121113404345987" />
+  </entry>
+  <entry>
     <title>Kyle Busch wins Sprint Cup 400-mile race at Kentucky (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/kyle-busch-wins-sprint-cup-400-mile-race-030827191--nascar.html" />
     <author>

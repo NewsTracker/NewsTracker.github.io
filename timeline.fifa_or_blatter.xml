@@ -4,14 +4,16 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>&lt;p&gt;Swiss prosecutors are working with a separate United States probe of racketeering and bribery implicating senior FIFA officials.&lt;/p&gt;&lt;p&gt;Though Lauber's case focuses on the 2018-2022 contests won by Russia and Qatar, respectively, he said it could include other FIFA business.&lt;/p&gt;</title>
-    <link rel="alternate" href="" />
+    <title>Novak Djokovic Beats Roger Federer In Four Sets To Win Wimbledon Title</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/2015/07/12/novak-djokovic-wimbledon_n_7779490.html" />
     <author>
       <name />
     </author>
     <updated>2015-07-12T16:47:08Z</updated>
     <published>2015-07-12T16:47:08Z</published>
+    <summary type="html">&lt;p&gt;Swiss prosecutors are working with a separate United States probe of racketeering and bribery implicating senior FIFA officials.&lt;/p&gt;&lt;p&gt;Though Lauber's case focuses on the 2018-2022 contests won by Russia and Qatar, respectively, he said it could include other FIFA business.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T16:47:08Z</dc:date>
+    <media:content url="http://s1.huffpost.com/images/blank.gif" />
   </entry>
   <entry>
     <title>Swiss FIFA inquiry receives more &amp;#039;suspicious activity&amp;#039; reports</title>
@@ -940,17 +942,5 @@
     <summary type="html">&lt;p&gt;In the statement, Interpol's secretary general, Jurgen Stock, said the decision had been taken "in light of the current context surrounding FIFA."&lt;/p&gt;</summary>
     <dc:date>2015-06-12T20:17:09Z</dc:date>
     <media:content url="http://static01.nyt.com/images/2015/06/11/world/11FIFA-web/11FIFA-web-thumbStandard.jpg" />
-  </entry>
-  <entry>
-    <title>FIFA announce election for Sepp Blatter successor to be held between December and February in Zurich</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/sport/football/article-3120618/FIFA-announce-election-Sepp-Blatter-successor-held-December-February-Zurich.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T22:02:32Z</updated>
-    <published>2015-06-11T22:02:32Z</published>
-    <summary type="html">&lt;p&gt;The extraordinary elective Congress will take place in Zurich between December 2015 and February 2016,' said FIFA.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T22:02:32Z</dc:date>
-    <media:content url="http://i.dailymail.co.uk/i/pix/2015/06/10/19/2983F51300000578-0-image-m-34_1433959701947.jpg" />
   </entry>
 </feed>

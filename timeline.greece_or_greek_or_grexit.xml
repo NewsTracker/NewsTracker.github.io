@@ -4,14 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>&lt;p&gt;Skeptical European creditors raced Sunday to narrow differences both among themselves and with Athens, aiming to come up with a tentative agreement to stave off an immediate financial collapse in Greece that would reverberate across the continent.&lt;/p&gt;&lt;p&gt;Greece desperately needs help to avoid a financial collapse.&lt;/p&gt;</title>
-    <link rel="alternate" href="" />
+    <title>The Latest: Greek talks drag on with few signs of deal soon</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27072166.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T21:35:04Z</updated>
+    <published>2015-07-12T21:35:04Z</published>
+    <summary type="html">&lt;p&gt;The U.S. Treasury Department says Secretary Jacob Lew is "encouraged by reports of some progress" in Brussels at an emergency summit of eurozone leaders about Greece.&lt;/p&gt;&lt;p&gt;He said that rebuilding trust between Greece and its creditors requires a tradeoff between Greek reforms and "measures" to ensure Greece's debt load is manageable.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T21:35:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>The Latest: Greek Orthodox metropolitan on hand for pope</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27073696.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T19:00:05Z</updated>
+    <published>2015-07-12T19:00:05Z</published>
+    <summary type="html">&lt;p&gt;The head of the Greek Orthodox Church in South America has had a privileged spot at Pope Francis' events this week.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T19:00:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>The Latest: Greek Orthodox Metropolitan on Hand for Pope</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/latest-pope-stop-flood-prone-paraguayan-slum-32392691" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T18:57:05Z</updated>
+    <published>2015-07-12T18:57:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-12T18:57:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Motorcyclist dies in early-morning collision</title>
+    <link rel="alternate" href="http://www.chron.com/news/houston-texas/houston/article/Motorcyclist-dead-in-early-morning-collision-6380285.php" />
     <author>
       <name />
     </author>
     <updated>2015-07-12T16:30:07Z</updated>
     <published>2015-07-12T16:30:07Z</published>
+    <summary type="html">&lt;p&gt;Skeptical European creditors raced Sunday to narrow differences both among themselves and with Athens, aiming to come up with a tentative agreement to stave off an immediate financial collapse in Greece that would reverberate across the continent.&lt;/p&gt;&lt;p&gt;Greece desperately needs help to avoid a financial collapse.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T16:30:07Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/37/51/45/8296779/3/920x920.jpg" />
   </entry>
   <entry>
     <title>Greece closer to desperately needed deal with creditors</title>
@@ -3529,16 +3566,5 @@
     <summary type="html">&lt;p&gt;The surprise moves came as the European Union (EU) told Greek prime minister Alexis Tsipras to stop gambling with his cash-strapped country's future and make the crucial decisions needed to avert a devastating default.&lt;/p&gt;&lt;p&gt;The Greek leader faced pressure from both left-wing hardliners and voters, most of whom say they want to remain in the euro zone and want him to make concessions for a deal.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T22:44:45Z</dc:date>
     <media:content url="http://www.abc.net.au/news/image/6540552-3x2-340x227.jpg" />
-  </entry>
-  <entry>
-    <title>Greece crisis: IMF dramatically walks out of creditor negotiations</title>
-    <link rel="alternate" href="http://www.independent.co.uk/news/world/europe/greece-crisis-imf-dramatically-walks-out-of-creditor-negotiations-10314665.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T20:16:44Z</updated>
-    <published>2015-06-11T20:16:44Z</published>
-    <summary type="html">&lt;p&gt;Gabriel Sakellaridis, a spokesman for the Greek Government, suggested that a deal was coming: "The Greek delegation, as agreed, is ready to intensify deliberations in order to conclude a deal soon, even in the coming days."&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T20:16:44Z</dc:date>
   </entry>
 </feed>
