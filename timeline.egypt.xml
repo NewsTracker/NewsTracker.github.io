@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egyptian lawyers protest colleague's shooting at courthouse</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egyptian-lawyers-protest-colleague-s-shooting-at-6380196.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T15:32:40Z</updated>
+    <published>2015-07-12T15:32:40Z</published>
+    <summary type="html">&lt;p&gt;CAIRO (AP) - Members of Egypt's lawyers union say it has suspended work in Cairo's Nasr City criminal court to protest a police officer shooting a lawyer there.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T15:32:40Z</dc:date>
+  </entry>
+  <entry>
     <title>Car bombing at Italian Consulate in Egypt's capital kills 1</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27031450.html%23storylink=rss" />
     <author>
