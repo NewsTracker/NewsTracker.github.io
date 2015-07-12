@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kyle Busch wins Sprint Cup 400-mile race at Kentucky (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/kyle-busch-wins-sprint-cup-400-mile-race-030827191--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T04:38:30Z</updated>
+    <published>2015-07-12T04:38:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-12T04:38:30Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/5N4t.p23mj.pCSc6LqYa5g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nascar.com/4f21c38334ccc79909663e4ace118175" />
+  </entry>
+  <entry>
     <title>Braves reliever Jason Grilli suffers leg injury (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/braves-reliever-jason-grilli-suffers-leg-injury-234002268--mlb.html" />
     <author>

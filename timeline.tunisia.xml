@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Queen Elizabeth II shocked about Tunisia attack</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article25700008.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-28T16:21:04Z</updated>
+    <published>2015-06-28T16:21:04Z</published>
+    <summary type="html">&lt;p&gt;An Irish mother-of-two, Lorna Carty, was earlier confirmed as a victim of Friday's attack on the Sousse beach resort in Tunisia.&lt;/p&gt;</summary>
+    <dc:date>2015-06-28T16:21:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>The Latest: Queen Elizabeth II shocked about Tunisia attack</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article25700008.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-28T16:21:04Z</updated>
+    <published>2015-06-28T16:21:04Z</published>
+    <summary type="html">&lt;p&gt;A book and flowers lay at the scene of the attack in Sousse, Tunisia, Sunday, June 28, 2015.&lt;/p&gt;&lt;p&gt;Boys play on the beach while tourists and residents, some displaying a Tunisian flag, walk on the beach to the scene of the attack in Sousse, Tunisia, Sunday, June 28, 2015.&lt;/p&gt;&lt;p&gt;Britain's home secretary says the number of Britons confirmed killed in the Tunisia beach resort attack is expected to rise.&lt;/p&gt;</summary>
+    <dc:date>2015-06-28T16:21:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Tunisia deploys 100,000 security personnel to avert attacks</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27034411.html%23storylink=rss" />
     <author>
@@ -476,18 +500,6 @@
     <published>2015-06-28T17:38:00Z</published>
     <summary type="html">&lt;p&gt;The attacker has been identified as Seifeddine Rezgui, a 24-year-old graduate of Tunisia's Kairouan University where he had been living with the other students.&lt;/p&gt;</summary>
     <dc:date>2015-06-28T17:38:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Queen Elizabeth II shocked about Tunisia attack</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article25700008.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T16:21:04Z</updated>
-    <published>2015-06-28T16:21:04Z</published>
-    <summary type="html">&lt;p&gt;A book and flowers lay at the scene of the attack in Sousse, Tunisia, Sunday, June 28, 2015.&lt;/p&gt;&lt;p&gt;Boys play on the beach while tourists and residents, some displaying a Tunisian flag, walk on the beach to the scene of the attack in Sousse, Tunisia, Sunday, June 28, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T16:21:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>The Latest: Queen Elizabeth II shocked about Tunisia attack</title>

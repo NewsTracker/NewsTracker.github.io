@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>CIA lagging in recruiting, promoting minorities, study finds</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/06/30/politics/cia-diversity-minorities-study/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T20:37:08Z</updated>
+    <published>2015-06-30T20:37:08Z</published>
+    <summary type="html">&lt;p&gt;Minorities make up less than 24% of the CIA workforce, and only 10.8% of its top Senior Intelligence Service.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T20:37:08Z</dc:date>
+    <media:content url="http://edition.cnn.com/2015/06/30/politics/cia-diversity-minorities-study/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
     <title>CIA failing to recruit and promote minorities, study finds</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article25832959.html%23storylink=rss" />
     <author>
@@ -131,40 +143,5 @@
     <summary type="html">&lt;p&gt;In this June 4, 2015, photo, CIA operative turned best-selling author, Jason Matthews, a 30-year CIA veteran and author of the new novel, "Palace of Treason," poses for a portrait in Washington.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T12:07:50Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/37/01/42/8132767/5/920x920.jpg" />
-  </entry>
-  <entry>
-    <title>Retired CIA operative becomes breakout spy novelist</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article23737729.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T08:14:10Z</updated>
-    <published>2015-06-11T08:14:10Z</published>
-    <summary type="html">&lt;p&gt;The sum total of the CIA's work has been a force for good, he said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T08:14:10Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Retired CIA operative becomes breakout spy novelist</title>
-    <link rel="alternate" href="http://www.usnews.com/news/entertainment/articles/2015/06/11/retired-cia-operative-becomes-breakout-spy-novelist" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T07:28:58Z</updated>
-    <published>2015-06-11T07:28:58Z</published>
-    <summary type="html">&lt;p&gt;And the most interesting accolades are coming from CIA insiders, who marvel at how he manages to slip so much past the agency's censors, portraying the heart-pounding rhythms of on-the-street espionage better that any novelist in recent memory.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T07:28:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Retired CIA operative becomes breakout spy novelist</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/11/retired-cia-operative-becomes-breakout-spy/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T07:10:25Z</updated>
-    <published>2015-06-11T07:10:25Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - When Jason Matthews retired after more than three decades as a CIA operative, writing fiction proved a form of therapy.&lt;/p&gt;&lt;p&gt;Matthews speaks six languages and helped manage seven CIA stations, sometimes working in tandem with his wife, Suzanne, also a retired CIA officer.&lt;/p&gt;&lt;p&gt;Human intelligence, or HUMINT, is the "the patrimony of CIA," Matthews says.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T07:10:25Z</dc:date>
-    <media:content url="http://media.utsandiego.com/img/photos/2015/06/11/46580c8c1265081a790f6a7067005f29_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
   </entry>
 </feed>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Colima Volcano Still Spewing Ash in Mexico</title>
+    <link rel="alternate" href="http://www.nbcnews.com/news/mexico/70-evacuated-colima-volcano-spews-ash-mexico-n390681" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T04:26:55Z</updated>
+    <published>2015-07-12T04:26:55Z</published>
+    <summary type="html">&lt;p&gt;Ash and cinders spewed Saturday from the Colima Volcano in western Mexico, prompting authorities to close the airport in the state capital of Colima and order the evacuation of a half dozen hamlets on the flanks of the peak.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T04:26:55Z</dc:date>
+    <media:content url="http://media1.s-nbcnews.com/j/newscms/2015_28/1117846/04842631_ccd7ce7077c887ae0b863a9ee5a60d05.nbcnews-fp-360-360.jpg" />
+  </entry>
+  <entry>
     <title>70 evacuated as Colima volcano spews ash in western Mexico</title>
     <link rel="alternate" href="http://www.sfgate.com/news/science/article/19-evacuated-as-Colima-volcano-spews-ash-in-6379362.php" />
     <author>

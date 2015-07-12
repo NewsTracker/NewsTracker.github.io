@@ -4,18 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Analysis - FIFA to hold new election but concerns it under old rules</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/11/analysis-fifa-hold-new-election-concerns-it-under-old-rules" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T10:02:38Z</updated>
-    <published>2015-06-11T10:02:38Z</published>
-    <summary type="html">&lt;p&gt;LAUSANNE, Switzerland (Reuters) - FIFA began the process of finding a replacement for outgoing president Sepp Blatter on Wednesday with the same system which has caused problems in the past.&lt;/p&gt;&lt;p&gt;The U.S. indicted nine current or former FIFA officials and five business executives only days before the last election.&lt;/p&gt;&lt;p&gt;On Wednesday, Switzerland's Office of the Attorney General seized further data from FIFA as part of its probe.&lt;/p&gt;&lt;p&gt;"The problem we have is not just the Sepp Blatter problem, it's the FIFA problem," he said, adding that any suggestion FIFA can reform itself is laughable.&lt;/p&gt;&lt;p&gt;FIFA announced on Wednesday that an extraordinary executive committee meeting will be held in July to discuss dates for the Congress where the new election will take place.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T10:02:38Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-06-10T193519Z_1_LYNXMPEB5910D_RTROPTP_2_CSPORTS-US-SOCCER-FIFA-ELECTION-ANALYSIS.JPG?itok=kXkmCjYC" />
-  </entry>
-  <entry>
     <title>Swiss say 1 of 7 FIFA officials agrees to extradition to US</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;amp;objectid=11479206&amp;amp;ref=rss" />
     <author>
@@ -1136,29 +1124,5 @@
     <summary type="html">&lt;p&gt;Photo: Brazilian great Zico has declared his candidacy for the FIFA presidency.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T11:10:40Z</dc:date>
     <media:content url="http://www.abc.net.au/news/image/6540348-3x2-340x227.jpg" />
-  </entry>
-  <entry>
-    <title>FIFA to hold new election but under same old rules</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/11/us-soccer-fifa-election-analysis-idUSKBN0OQ2HH20150611?feedType=RSS&amp;amp;feedName=sportsNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T09:37:50Z</updated>
-    <published>2015-06-11T09:37:50Z</published>
-    <summary type="html">&lt;p&gt;However, the rules governing the election will remain the same as they are enshrined in the FIFA statutes and can only be changed by Congress.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T09:37:50Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150610&amp;amp;t=2&amp;amp;i=1055268556&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB59108" />
-  </entry>
-  <entry>
-    <title>Former Brazil star Zico wants to run for FIFA president</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article23684263.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T04:35:04Z</updated>
-    <published>2015-06-11T04:35:04Z</published>
-    <summary type="html">&lt;p&gt;Marin was one of seven top soccer officials arrested two weeks ago in connection with the growing bribery and corruption scandal surrounding FIFA.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T04:35:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
 </feed>
