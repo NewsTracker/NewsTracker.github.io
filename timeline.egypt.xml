@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's president vows 'swift justice' after assassination</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egypt-prepares-for-burial-of-slain-prosecutor-6357320.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:52:13Z</updated>
+    <published>2015-06-30T19:52:13Z</published>
+    <summary type="html">&lt;p&gt;Despite an international outcry against legal abuses and lack of due process, Egypt has waged a 2-year-old crackdown that has led to thousands of arrests, mass convictions and death sentences.&lt;/p&gt;&lt;p&gt;Suicide bombings have also targeted army and police forces elsewhere in Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T19:52:13Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/37/32/74/8236805/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Egyptian lawyers protest colleague's shooting at courthouse</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egyptian-lawyers-protest-colleague-s-shooting-at-6380196.php" />
     <author>
@@ -172,18 +184,6 @@
     <summary type="html">&lt;p&gt;Two years to the day after the army overthrew Egypt's Islamist president, the sounds coming from the mosque at Cairo's Tahrir Square were sadly telling.&lt;/p&gt;</summary>
     <dc:date>2015-07-03T20:57:13Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/03/6d/90/aad568d79cc94341ba8f7fc8128faed0-5989351e162c4dc897cae975e9a7f1ab-0.jpg" />
-  </entry>
-  <entry>
-    <title>Egypt's president vows 'swift justice' after assassination</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egypt-prepares-for-burial-of-slain-prosecutor-6357320.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T19:52:13Z</updated>
-    <published>2015-06-30T19:52:13Z</published>
-    <summary type="html">&lt;p&gt;Despite an international outcry against legal abuses and lack of due process, Egypt has waged a 2-year-old crackdown that has led to thousands of arrests, mass convictions and death sentences.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T19:52:13Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/37/32/74/8236805/5/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Egypt's Sisi promises tougher legal system as prosecutor buried</title>

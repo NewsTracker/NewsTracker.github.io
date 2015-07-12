@@ -4,6 +4,16 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>&lt;p&gt;Skeptical European creditors raced Sunday to narrow differences both among themselves and with Athens, aiming to come up with a tentative agreement to stave off an immediate financial collapse in Greece that would reverberate across the continent.&lt;/p&gt;&lt;p&gt;Greece desperately needs help to avoid a financial collapse.&lt;/p&gt;</title>
+    <link rel="alternate" href="" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T16:30:07Z</updated>
+    <published>2015-07-12T16:30:07Z</published>
+    <dc:date>2015-07-12T16:30:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Greece closer to desperately needed deal with creditors</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-talks-with-skeptical-creditors-to-resume-sun/nmxXs/" />
     <author>
@@ -3530,53 +3540,5 @@
     <published>2015-06-11T20:16:44Z</published>
     <summary type="html">&lt;p&gt;Gabriel Sakellaridis, a spokesman for the Greek Government, suggested that a deal was coming: "The Greek delegation, as agreed, is ready to intensify deliberations in order to conclude a deal soon, even in the coming days."&lt;/p&gt;</summary>
     <dc:date>2015-06-11T20:16:44Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece gets wake-up call: coming week could seal its fate</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article23737999.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T18:55:04Z</updated>
-    <published>2015-06-11T18:55:04Z</published>
-    <summary type="html">&lt;p&gt;Greece spends an amount equal to 10 percent of its economic output on pensions, compared to an average 2.5 percent across the eurozone.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T18:55:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece gets wake-up call: coming week could seal its fate</title>
-    <link rel="alternate" href="http://news.yahoo.com/greece-commits-step-reform-efforts-german-leader-says-083648798--finance.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T18:52:15Z</updated>
-    <published>2015-06-11T18:52:15Z</published>
-    <summary type="html">&lt;p&gt;The IMF's Rice noted that pensions and wages account for 80 percent of Greece's primary spending.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T18:52:15Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/sX.KMe0ZBmb76qlvlkDSBg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/74c8da98146a121a790f6a706700d48e.jpg" />
-  </entry>
-  <entry>
-    <title>Greece gets wake-up call: coming week could seal its fate</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article23737999.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T16:28:04Z</updated>
-    <published>2015-06-11T16:28:04Z</published>
-    <summary type="html">&lt;p&gt;"It's not possible for Greece to achieve targets without reforms" especially in pensions, he said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T16:28:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece gets wake-up call: coming week could seal its fate</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greece-commits-to-step-up-reform-efforts-German-6320506.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T16:24:16Z</updated>
-    <published>2015-06-11T16:24:16Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-11T16:24:16Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/37/01/72/8134320/7/square_gallery_thumb.jpg" />
   </entry>
 </feed>

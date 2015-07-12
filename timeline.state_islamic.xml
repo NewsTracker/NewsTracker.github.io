@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Teen pleads guilty to helping friend join Islamic State</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article23744893.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-11T19:44:04Z</updated>
+    <published>2015-06-11T19:44:04Z</published>
+    <summary type="html">&lt;p&gt;Among other things, Amin advocates for establishing a website for distributing Islamic State press releases and used his Twitter feed to persuade others to help develop such a site, according to court records.&lt;/p&gt;</summary>
+    <dc:date>2015-06-11T19:44:04Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State attacks Syrian army and Kurds in twin assault</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/25/us-mideast-crisis-syria-idUSKBN0P50LA20150625?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
@@ -1041,40 +1052,5 @@
     <published>2015-06-11T19:40:22Z</published>
     <summary type="html">&lt;p&gt;A 17-year-old who otherwise would have been graduating with honors from high school this week instead pleaded guilty Thursday to terrorism charges for helping another teen travel to Syria to join the Islamic State.&lt;/p&gt;&lt;p&gt;In addition to helping 18-year-old Reza Niknejad of Prince William County travel to Syria, Amin also admitted using Twitter and other social media to solicit donations and support for the Islamic State.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T19:40:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>American teenager pleads guilty to charges of helping Islamic State</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/american-teenager-pleads-guilty-to-charges-of-helping-islamic-state/article24919145/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T18:34:37Z</updated>
-    <published>2015-06-11T18:34:37Z</published>
-    <summary type="html">&lt;p&gt;A 17-year-old from Virginia pleaded guilty in court on Thursday to charges of conspiring to help Islamic State militants, the first time the United States has prosecuted a minor as an adult in such a case.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T18:34:37Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/23b/news/world/article24919144.ece/ALTERNATES/w220/web-virginia-0611.JPG" />
-  </entry>
-  <entry>
-    <title>US prosecutors in New York City charge 5th man in Islamic State group recruitment plot case</title>
-    <link rel="alternate" href="http://www.foxnews.com/us/2015/06/11/us-prosecutors-in-new-york-city-charge-5th-man-in-islamic-state-group/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T18:22:05Z</updated>
-    <published>2015-06-11T18:22:05Z</published>
-    <summary type="html">&lt;p&gt;Prosecutors accused Zakirov of plotting to pay for one of his co-defendants to fly to the Middle East to join the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T18:22:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Virginia 17-year-old pleads guilty to helping Islamic State via Twitter</title>
-    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/06/11/22447431.html?cid=rssnewsworld" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T16:31:38Z</updated>
-    <published>2015-06-11T16:31:38Z</published>
-    <summary type="html">&lt;p&gt;Homeland Security Secretary Jeh Johnson was meeting on Thursday with a Muslim group in nearby Sterling as part of the department's outreach to Islamic communities around the country.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T16:31:38Z</dc:date>
-    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://cnews.canoe.com/CNEWS/World/2015/06/11/RE_JehJohnson650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
   </entry>
 </feed>
