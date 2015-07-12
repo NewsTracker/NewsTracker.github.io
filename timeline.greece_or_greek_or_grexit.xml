@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek talks with skeptical creditors to resume in morning</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27032884.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T23:30:05Z</updated>
+    <published>2015-07-11T23:30:05Z</published>
+    <summary type="html">&lt;p&gt;Assuaging those concerns is the task facing Euclid Tsakalotos, who has been Greek finance minister for barely a week, following the resignation of his outspoken predecessor Yanis Varoufakis.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T23:30:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Greece says ready to resume talks, bridge gap with creditors</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/greece-still-ready-negotiate-solution-180051732.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-14T18:37:10Z</updated>
+    <published>2015-06-14T18:37:10Z</published>
+    <summary type="html">&lt;p&gt;"Although during the leaders' meeting Greece was told to negotiate with the institutions, the institutions today said that they were not authorized to negotiate further," a Greek government official told Reuters.&lt;/p&gt;</summary>
+    <dc:date>2015-06-14T18:37:10Z</dc:date>
+    <media:content url="http://media.zenfs.com/284/2011/06/21/reuters-85x27_113626.gif" />
+  </entry>
+  <entry>
     <title>Greece struggling to convince creditors it's for real</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article27032884.html%23storylink=rss" />
     <author>
@@ -3588,64 +3612,5 @@
     <published>2015-06-11T08:00:18Z</published>
     <summary type="html">&lt;p&gt;Greek left-wing demonstrators are staging a sit-in at the finance ministry building in central Athens, in a protest against the radical, left-led government, which they accuse of planning new austerity measures.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T08:00:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek leader meets creditors, seeks bailout breakthrough</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article23646793.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T01:40:04Z</updated>
-    <published>2015-06-11T01:40:04Z</published>
-    <summary type="html">&lt;p&gt;Greek Prime Minister Alexis Tsipras reinforced his diplomatic offensive on Wednesday to try to convince European creditors to pay out the bailout loans the country needs to avoid default.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T01:40:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greek leader meets creditors, seeks bailout breakthrough</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article23646793.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T01:40:04Z</updated>
-    <published>2015-06-11T01:40:04Z</published>
-    <summary type="html">&lt;p&gt;A broken sign at the headquarters of National Bank of Greece in Athens, Wednesday, June 10, 2015.&lt;/p&gt;&lt;p&gt;Greek Prime Minister Alexis Tsipras, second right, speaks with German Chancellor Angela Merkel during a round table meeting at the EU-CELAC summit in Brussels on Wednesday, June 10, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T01:40:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greek leader meets creditors, seeks bailout breakthrough</title>
-    <link rel="alternate" href="http://news.yahoo.com/greek-leader-heads-brussels-meet-merkel-hollande-085041457--finance.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T23:26:54Z</updated>
-    <published>2015-06-10T23:26:54Z</published>
-    <summary type="html">&lt;p&gt;Wednesday's talks came after Juncker's European Commission had said the offers made by Greece last week were still not good enough to unlock the bailout funds.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T23:26:54Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/dSwefTFpLTo3UiDGBCh7BA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/e5cec558ec7e0019790f6a706700ff3a.jpg" />
-  </entry>
-  <entry>
-    <title>Greek leader meets creditors, seeks bailout breakthrough</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/10/greek-leader-heads-to-brussels-to-meet-merkel-hollande" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T23:26:24Z</updated>
-    <published>2015-06-10T23:26:24Z</published>
-    <summary type="html">&lt;p&gt;The creditors have made it clear that Greece has to improve its offer of economic reforms before they release 7.2 billion euros ($8.1 billion) the country needs to pay debts due at the end of the month.&lt;/p&gt;&lt;p&gt;Greece has three weeks left to conclude a deal with its creditors before its bailout program expires at the end of the month, when it will also have to repay about 1.6 billion euros ($1.8 billion) to the International Monetary Fund.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T23:26:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek leader meets creditors, seeks bailout breakthrough</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greek-leader-heads-to-Brussels-to-meet-Merkel-6317955.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T23:26:24Z</updated>
-    <published>2015-06-10T23:26:24Z</published>
-    <summary type="html">&lt;p&gt;"For this final push, the Commission is of the view that the ball is clearly now in the court of the Greek government," Commission spokesman Margaritis Schinas said.&lt;/p&gt;&lt;p&gt;The lack of visible progress in the negotiations over the past weeks has revived fears Greece could default on its debts and drop out of the euro, a move that would create huge uncertainty for Europe and global markets.&lt;/p&gt;&lt;p&gt;"The goal is to keep Greece in the eurozone," Merkel said.&lt;/p&gt;&lt;p&gt;Athens is at odds with its creditors over what reforms Greece must make in return for the bailout loans.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T23:26:24Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/00/34/8128306/7/square_gallery_thumb.jpg" />
   </entry>
 </feed>

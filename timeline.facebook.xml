@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook data center latest addition to DFW tech landscape</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27041794.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T22:20:08Z</updated>
+    <published>2015-07-11T22:20:08Z</published>
+    <summary type="html">&lt;p&gt;The Dallas Morning News reports (http://bit.ly/1JWmIlK ) that the $1 billion, 750,000-square-foot project Facebook announced this month will become the latest data center opened in the area.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T22:20:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook looking to add music videos</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/07/10/22499456.html?cid=rsstechnologynews" />
     <author>
@@ -321,16 +332,5 @@
     <published>2015-06-11T07:45:05Z</published>
     <summary type="html">&lt;p&gt;Who Are The 10 Most Popular Celebrities On Facebook?&lt;/p&gt;</summary>
     <dc:date>2015-06-11T07:45:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Facebook Messenger rolls out first game 'Doodle Draw'</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/national/facebook-messenger-rolls-firs-game-doodle-draw-article-1.2253986?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T23:02:08Z</updated>
-    <published>2015-06-10T23:02:08Z</published>
-    <summary type="html">&lt;p&gt;Facebook's Messenger platform is rolling out its first game: "Doodle Draw."&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T23:02:08Z</dc:date>
   </entry>
 </feed>

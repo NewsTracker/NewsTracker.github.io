@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State says behind bombing at Italian consulate in Cairo [Video]</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/07/11/islamic-state-says-behind-bombing-at-italian-consulate-in-cairo" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T21:31:44Z</updated>
+    <published>2015-07-11T21:31:44Z</published>
+    <summary type="html">&lt;p&gt;Until now, Islamic State supporters in Egypt had not set their sights on Western targets, focusing instead on security forces.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T21:31:44Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297723313087_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
+    <title>Islamic State scores up gains and losses in Syrian fighting</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/30/us-mideast-crisis-syria-idUSKCN0PA21F20150630?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T20:07:37Z</updated>
+    <published>2015-06-30T20:07:37Z</published>
+    <summary type="html">&lt;p&gt;"Islamic State had withdrawn from most of the districts but did not leave it completely and their snipers in some areas are preventing the full advance of the army," said Ali Hreith, a Hasaka resident on the Turkish-Syrian border.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T20:07:37Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150630&amp;amp;t=2&amp;amp;i=1060412297&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXNPEB5T0WH" />
+  </entry>
+  <entry>
     <title>Afghanistan says US strikes destroy its Islamic State branch</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/activists-28-killed-in-syrian-army-strikes-on-is-h/nmxJJ/" />
     <author>
@@ -1086,17 +1110,5 @@
     <published>2015-06-11T11:23:12Z</published>
     <summary type="html">&lt;p&gt;NAPLES, Italy - The Pentagon's top general says the new U.S. military base being setting up in Iraq's western desert could be a model for more such U.S. hubs if Iraq is able to regain momentum against the Islamic State group.&lt;/p&gt;</summary>
     <dc:date>2015-06-11T11:23:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>American fighting with Kurds killed in Islamic State battle</title>
-    <link rel="alternate" href="http://news.yahoo.com/american-fighting-kurds-killed-islamic-state-battle-175851993.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-10T22:43:34Z</updated>
-    <published>2015-06-10T22:43:34Z</published>
-    <summary type="html">&lt;p&gt;Many are spurred on by Kurdish social media campaigners and a sense of duty rooted in the 2003 U.S.-led military invasion of Iraq, where Islamic State fighters recently have rolled back gains U.S. troops had made.&lt;/p&gt;</summary>
-    <dc:date>2015-06-10T22:43:34Z</dc:date>
-    <media:content url="https://s.yimg.com/uu/api/res/1.2/lXXrgUyl6uV858H.pf36Iw--/dz02NDA7c209MTtmaT1maWxsO3B5b2ZmPTA7aD0zNjA7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.cbsboston.com/a6a28ddcf2e6754bb097e35312e260c5" />
   </entry>
 </feed>
