@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Explosions kill 14 in north Cameroon town near Nigeria</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/13/explosions-kill-14-in-north-cameroon-town-near/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T16:03:17Z</updated>
+    <published>2015-07-13T16:03:17Z</published>
+    <summary type="html">&lt;p&gt;Didier Badjeck said Monday three Chadian soldiers were among those killed by the bombs planted by suspected Boko Haram fighters in Fotokol, a town on the border with Nigeria's Borno state, on Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T16:03:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nigeria sacks four military chiefs</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/07/nigeria-sacks-military-chiefs-150713140039284.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T14:33:51Z</updated>
+    <published>2015-07-13T14:33:51Z</published>
+    <summary type="html">&lt;p&gt;Nigeria's President Muhammadu Buhari has sacked his army, navy, air force and defence chiefs, a widely anticipated move as the former general has made crushing Boko Haram his top priority.&lt;/p&gt;&lt;p&gt;Since his inauguration in May, Buhari has moved Nigeria's defence command centre to Maiduguri, the birthplace of Boko Haram, and is setting up the headquarters for a multi-national joint taskforce in Chad's capital N'Djamena.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T14:33:51Z</dc:date>
+    <media:content url="ww.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2015/7/13/bdea8c9af84746aba870afc27b344c78_18.jpg" />
+  </entry>
+  <entry>
     <title>Boko Haram attack in Nigeria leaves at least 10 dead</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Boko-Haram-attack-in-Nigeria-leaves-at-least-10-6379126.php" />
     <author>

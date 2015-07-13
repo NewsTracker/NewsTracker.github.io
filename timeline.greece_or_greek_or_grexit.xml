@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Euro currency emerges intact _ for now _ from Greek crisis</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11480388&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T14:45:18Z</updated>
+    <published>2015-07-13T14:45:18Z</published>
+    <summary type="html">&lt;p&gt;In Britain " a European Union member that decided against joining the euro " treasury chief George Osborne responded to the deal brokered on Greece with "a cautious welcome that the Eurozone has stepped back from the brink."&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T14:45:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Euro currency emerges intact _ for now _ from Greek crisis</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11480388&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T14:45:18Z</updated>
+    <published>2015-07-13T14:45:18Z</published>
+    <summary type="html">&lt;p&gt;Now that the immediate Greek bankruptcy crisis is seen to be receding, a crisis of confidence over the European project may be taking its place.&lt;/p&gt;&lt;p&gt;The current Greek drama "shows us the dilemma we have always had with Europe: Our ambitions are running ahead of our ideas of how to run actually an economic and monetary union," said Schout.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T14:45:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Euro currency emerges intact _ for now _ from Greek crisis</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/13/euro-currency-emerges-intact-_-for-now-_-from/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T14:38:45Z</updated>
+    <published>2015-07-13T14:38:45Z</published>
+    <summary type="html">&lt;p&gt;Although relief prevailed after Monday's Greek bailout announcement, key questions remain about whether the euro currency will remain sustainable in the long-term - and even whether the European Union itself remains a viable project.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T14:38:45Z</dc:date>
+    <media:content url="http://cdn.sandiegouniontrib.com/static/utsd/v1/images/sdut-logo-white-stacked.svg" />
+  </entry>
+  <entry>
     <title>Stocks rise as Greece gets bailout deal with creditors</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article27104662.html%23storylink=rss" />
     <author>
@@ -3600,28 +3634,5 @@
     <summary type="html">&lt;p&gt;The third - discussed formally for the first time at such a senior level in the EU - was to accept that Greece could default.&lt;/p&gt;</summary>
     <dc:date>2015-06-12T18:16:14Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/8k.BWiB20Ut5zpjB4kwnUw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-06-12T074041Z_1_LYNXMPEB5B0AO_RTROPTP_3_EUROZONE-GREECE_original.jpg" />
-  </entry>
-  <entry>
-    <title>EU officials discuss possible Greek debt default</title>
-    <link rel="alternate" href="http://www.rte.ie/news/business/2015/0612/707569-euro-greece/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T17:44:29Z</updated>
-    <published>2015-06-12T17:44:29Z</published>
-    <summary type="html">&lt;p&gt;The second possibility was a further extension of the current bailout programme, which expires this month at the same time as Greece must repay 1.6bn to the IMF.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T17:44:29Z</dc:date>
-    <media:content url="http://img.rasset.ie/000aae32-219.jpg" />
-  </entry>
-  <entry>
-    <title>Threat of Greek default sends markets tumbling</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/business/stocks-knocked-back-by-faltering-greek-debt-talks-1.3111015?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T16:01:20Z</updated>
-    <published>2015-06-12T16:01:20Z</published>
-    <summary type="html">&lt;p&gt;Greece has a 1.6 billion-euro ($2.2 billion) IMF debt installment due June 30 and larger debts due to the European Central Bank in July and August.&lt;/p&gt;&lt;p&gt;"Our judgment remains that Greece will offer concessions to get a deal. The Greek position deteriorates dramatically beyond the end of June, as capital controls would likely make the political and economic situation in Greece even more difficult than it is now."&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T16:01:20Z</dc:date>
   </entry>
 </feed>

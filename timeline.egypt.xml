@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's arrest of Al-Jazeera journalist poses political problem for Germany</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/egypts-arrest-of-aljazeera-journalist-poses-political-problem-for-germany-20150621-ghtwon" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T18:10:18Z</updated>
+    <published>2015-06-21T18:10:18Z</published>
+    <summary type="html">&lt;p&gt;Mansour told Al-Jazeera by telephone: "The German authorities told me that we are dealing with an international criminal case" and a judge would decide whether he should be extradited to Egypt.&lt;/p&gt;&lt;p&gt;Egypt released Australian Al-Jazeera journalist Peter Greste in February this year after 400 days in prison on charges that included aiding a terrorist group.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T18:10:18Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/h/t/w/o/p/image.related.articleLeadwide.620x349.ghtwon.png/1434918117842.jpg" />
+  </entry>
+  <entry>
     <title>Egypt's Sisi promises tougher legal system as prosecutor buried</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/06/30/us-egypt-anniversary-court-idUSKCN0PA1W120150630?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
