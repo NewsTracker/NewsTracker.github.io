@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Africa’s Ebola outbreak has not run its course</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/africas-ebola-outbreak-has-not-run-its-course/article25478520/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T12:27:19Z</updated>
+    <published>2015-07-13T12:27:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-13T12:27:19Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/1b0/feeds/canadian-press/lifestyle/article23575574.ece/ALTERNATES/w220/cpt115258705_high.jpg" />
+  </entry>
+  <entry>
     <title>Ebola showing no signs of slowing in parts of Africa</title>
     <link rel="alternate" href="http://tvnz.co.nz/world-news/ebola-showing-no-signs-slowing-in-parts-africa-6346000?ref=rss" />
     <author>

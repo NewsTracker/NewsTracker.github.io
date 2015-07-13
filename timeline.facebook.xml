@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Australian woman jailed in Abu Dhabi for Facebook post</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/australian-woman-jailed-in-abu-dhabi-for-facebook-post-20150713-gibh4s.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T11:51:52Z</updated>
+    <published>2015-07-13T11:51:52Z</published>
+    <summary type="html">&lt;p&gt;A Facebook page called Savvy Women Abu Dhabi said that Ms Magi had lived in Abu Dhabi since early 2012 and she is there to teach Emirate women art, illustration and graphic design.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T11:51:52Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/b/h/a/m/image.related.articleLeadwide.620x349.gibh4s.png/1436788708971.jpg" />
+  </entry>
+  <entry>
+    <title>Zuckerberg: The Future Of Facebook Is Telepathy</title>
+    <link rel="alternate" href="http://news.sky.com/story/1511334/zuckerberg-the-future-of-facebook-is-telepathy" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-01T08:32:00Z</updated>
+    <published>2015-07-01T08:32:00Z</published>
+    <summary type="html">&lt;p&gt;"If your friends all call you by a nickname and you want to use that name on Facebook, you should be able to do that. In this way, we should be able to support everyone using their own real names, including everyone in the transgender community."&lt;/p&gt;</summary>
+    <dc:date>2015-07-01T08:32:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Facebook data center latest addition to DFW tech landscape</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article27041794.html%23storylink=rss" />
     <author>

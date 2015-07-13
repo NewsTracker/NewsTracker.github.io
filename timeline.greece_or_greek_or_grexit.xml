@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Stocks rise as Greece gets bailout deal with creditors</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27104662.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T12:10:06Z</updated>
+    <published>2015-07-13T12:10:06Z</published>
+    <summary type="html">&lt;p&gt;The deal needs approval from Greece's parliament, among others.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T12:10:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Greece reaches deal with creditors, avoids euro exit</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/13/greece-talks-drag-beyond-deadline-amid-warnings-of-euro-exit" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T11:50:47Z</updated>
+    <published>2015-07-13T11:50:47Z</published>
+    <summary type="html">&lt;p&gt;When the banks will be able to reopen will depend on whether the European Central Bank decides to increase emergency credit to Greek banks now that a bailout deal with Greece has been clinched in principle.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T11:50:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece reaches deal with creditors, avoids euro exit</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11480263&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T08:00:31Z</updated>
+    <published>2015-07-13T08:00:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-13T08:00:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece, Eurozone Leaders Reach Agreement On A New Bailout</title>
+    <link rel="alternate" href="http://www.npr.org/sections/thetwo-way/2015/07/13/422489174/greece-eurozone-leaders-reach-agreement-on-a-new-bailout?utm_medium=RSS&amp;amp;utm_campaign=economy" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T07:56:00Z</updated>
+    <published>2015-07-13T07:56:00Z</published>
+    <summary type="html">&lt;p&gt;The summit reached a tentative agreement with Greece for a bailout program that includes "serious reforms," removing an immediate threat that Greece could collapse financially and leave the euro.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T07:56:00Z</dc:date>
+    <media:content url="http://media.npr.org/assets/img/2015/07/13/ap_673645529107_wide-30107de784ce44d9b3707fad9a380dcdb4f9ce12-s1100-c15.jpg" />
+  </entry>
+  <entry>
     <title>Asian stocks rise but Greece uncertainty lingers</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27104662.html%23storylink=rss" />
     <author>
@@ -3577,17 +3623,5 @@
     <published>2015-06-12T16:01:20Z</published>
     <summary type="html">&lt;p&gt;Greece has a 1.6 billion-euro ($2.2 billion) IMF debt installment due June 30 and larger debts due to the European Central Bank in July and August.&lt;/p&gt;&lt;p&gt;"Our judgment remains that Greece will offer concessions to get a deal. The Greek position deteriorates dramatically beyond the end of June, as capital controls would likely make the political and economic situation in Greece even more difficult than it is now."&lt;/p&gt;</summary>
     <dc:date>2015-06-12T16:01:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>EU officials formally discuss Greek default possibility for first time</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-12/eurozone-formally-discusses-greek-default-for-first-time/6543518" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T13:37:32Z</updated>
-    <published>2015-06-12T13:37:32Z</published>
-    <summary type="html">&lt;p&gt;Senior EU officials have formally discussed for the first time a possible Greek debt default, as negotiations between Athens and its creditors stall ahead of an end-of-month repayment deadline, officials say.&lt;/p&gt;&lt;p&gt;The Greek representative at the meeting said Athens would do everything to reach a deal in time, other officials said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T13:37:32Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/4711438-16x9-220x124.jpg" />
   </entry>
 </feed>
