@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Asian stocks rise but Greece uncertainty lingers</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27104662.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T03:44:50Z</updated>
+    <published>2015-07-13T03:44:50Z</published>
+    <summary type="html">&lt;p&gt;GREECE FACTOR: European leaders have been gathered to negotiate another bailout for indebted Greece.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T03:44:50Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Greece must do more to earn rescue: Eurozone leaders</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/13/greece-must-do-more-earn-rescue-eurozone-leaders" />
     <author>
@@ -3577,41 +3589,5 @@
     <summary type="html">&lt;p&gt;Senior EU officials have formally discussed for the first time a possible Greek debt default, as negotiations between Athens and its creditors stall ahead of an end-of-month repayment deadline, officials say.&lt;/p&gt;&lt;p&gt;The Greek representative at the meeting said Athens would do everything to reach a deal in time, other officials said.&lt;/p&gt;</summary>
     <dc:date>2015-06-12T13:37:32Z</dc:date>
     <media:content url="http://www.abc.net.au/news/image/4711438-16x9-220x124.jpg" />
-  </entry>
-  <entry>
-    <title>Asia stocks drift as Greece dampens impact of strong US data</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article23745514.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T03:39:06Z</updated>
-    <published>2015-06-12T03:39:06Z</published>
-    <summary type="html">&lt;p&gt;Asian stock markets were little changed Friday as lack of progress in bailout negotiations between Greece and its creditors dampened the positive impulse from upbeat U.S. retail and jobs data.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T03:39:06Z</dc:date>
-    <media:content url="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&amp;amp;amp;ctxId=8007&amp;amp;amp;contextPath=7037-7986-7989-8007-&amp;amp;amp;pubId=13&amp;amp;amp;cat=&amp;amp;amp;meta=read-wirestory&amp;amp;amp;objId=23745514&amp;amp;amp;type=article&amp;amp;amp;title=Asia+stocks+drift+as+Greece+dampens+impact+of+strong+US+data&amp;amp;amp;url=http%3a%2f%2fwww.charlotteobserver.com%2fnews%2fbusiness%2fnational-business%2farticle23745514.html" />
-  </entry>
-  <entry>
-    <title>Asia stocks drift as Greece dampens impact of strong US data</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/energy/article/US-stocks-open-higher-building-on-gains-from-the-6320951.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T03:36:15Z</updated>
-    <published>2015-06-12T03:36:15Z</published>
-    <summary type="html">&lt;p&gt;IMF WALKOUT: The International Monetary Fund said there was no progress in recent Greece bailout talks and pulled negotiators out of the meetings.&lt;/p&gt;&lt;p&gt;The move increases pressure on Athens to compromise but markets were worried that the outstanding differences between Greece and its creditors would lead to the country defaulting on its debt.&lt;/p&gt;&lt;p&gt;A possible consequence of a default is Greece leaving the euro currency bloc.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T03:36:15Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/37/02/00/8134676/3/628x471.jpg" />
-  </entry>
-  <entry>
-    <title>Asia stocks drift as Greece dampens impact of strong US data</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/11/us-stocks-open-higher-building-on-gains-from-the-day-before" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T03:36:15Z</updated>
-    <published>2015-06-12T03:36:15Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-12T03:36:15Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/1461678/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F8a%2F2e%2F9b7fedd44a0a97a639b8fb25de87%2Fresizes%2F500%2F150528-india-7-editorial.jpg" />
   </entry>
 </feed>
