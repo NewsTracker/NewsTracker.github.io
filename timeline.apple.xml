@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Music promises revolution, but traditional DJs are what set it apart</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article26042317.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-02T08:00:00Z</updated>
+    <published>2015-07-02T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;Real-time radio, of all things, is what truly distinguishes the newest and splashiest streaming service, Apple Music.&lt;/p&gt;&lt;p&gt;Apple has about 30 million songs to stream at your request.&lt;/p&gt;&lt;p&gt;Complete with high-profile DJs and programmed shows, it sets the service apart from the pack and best illustrates Apple's ambition - to become a destination spot not unlike media giants of yore.&lt;/p&gt;&lt;p&gt;And Apple Music pulls in whatever songs you've purchased from iTunes in a fairly intuitive way.&lt;/p&gt;</summary>
+    <dc:date>2015-07-02T08:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>5 things for Apple (and you) to keep in mind as Apple Music is launched</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/music-news-reviews/article25830955.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T08:00:00Z</updated>
+    <published>2015-06-30T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;Apple can make people spend $700 on a phone without blinking, but can it get a critical mass to pay another $10 a month?&lt;/p&gt;&lt;p&gt;With just one recent op-ed, Taylor Swift reset the whole argument about Apple's planned free three-month subscription (or, as artists see it, a quarter of a year without royalty payments).&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T08:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>FTC exploring Apple rules for streaming music rivals in App Store</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/11/us-apple-music-antitrust-idUSKCN0PL03O20150711?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
@@ -25,17 +47,6 @@
     <summary type="html">&lt;p&gt;Streaming services' chief grievances with Apple stem from the company's 30 percent cut.&lt;/p&gt;</summary>
     <dc:date>2015-07-11T03:15:25Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/k0uWYnnLEk1SX.BktVeDhA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE_original.jpg" />
-  </entry>
-  <entry>
-    <title>5 things for Apple (and you) to keep in mind as Apple Music is launched</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/music-news-reviews/article25830955.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T08:00:00Z</updated>
-    <published>2015-06-30T08:00:00Z</published>
-    <summary type="html">&lt;p&gt;Apple can make people spend $700 on a phone without blinking, but can it get a critical mass to pay another $10 a month?&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T08:00:00Z</dc:date>
   </entry>
   <entry>
     <title>Apple Music: Everything You Need to Know</title>
@@ -129,17 +140,6 @@
     <summary type="html">&lt;p&gt;Dr. Dre will be busting through your speakers with a new radio show on Apple Music.&lt;/p&gt;</summary>
     <dc:date>2015-07-03T21:18:52Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Apple Music promises revolution, but traditional DJs are what set it apart</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article26042317.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-02T08:00:00Z</updated>
-    <published>2015-07-02T08:00:00Z</published>
-    <summary type="html">&lt;p&gt;Real-time radio, of all things, is what truly distinguishes the newest and splashiest streaming service, Apple Music.&lt;/p&gt;&lt;p&gt;Apple has about 30 million songs to stream at your request.&lt;/p&gt;&lt;p&gt;Complete with high-profile DJs and programmed shows, it sets the service apart from the pack and best illustrates Apple's ambition - to become a destination spot not unlike media giants of yore.&lt;/p&gt;</summary>
-    <dc:date>2015-07-02T08:00:00Z</dc:date>
   </entry>
   <entry>
     <title>AC/DC to put music on Spotify, Apple Music</title>

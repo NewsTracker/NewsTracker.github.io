@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: nintendo</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Nintendo CEO Satoru Iwata dead at 55</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/07/12/22502416.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T00:57:06Z</updated>
+    <published>2015-07-13T00:57:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-13T00:57:06Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/07/12/1297723652041.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Nintendo CEO Satoru Iwata dies</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/nintendo-says-ceo-satoru-iwata-000850498.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T00:55:09Z</updated>
+    <published>2015-07-13T00:55:09Z</published>
+    <summary type="html">&lt;p&gt;TOKYO (Reuters) - Japanese videogame maker Nintendo Co Ltd's chief executive and president, Satoru Iwata, died on Saturday due to a growth in his bile duct, the company said.&lt;/p&gt;&lt;p&gt;Iwata had been a director at Kyoto-based Nintendo since 2000, and was appointed president in 2002.&lt;/p&gt;&lt;p&gt;Presiding over a news conference in May to announce Nintendo's full-year financial results, Iwata had said the company's long-awaited entry into smartphone games would help it double annual operating profit in the year to next March.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T00:55:09Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/uV6y2tKbjV7UdW_j0rliXQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-13T000850Z_1_LYNXNPEB6C006_RTROPTP_3_NINTENDO-EMERGINGMARKETS_original.jpg" />
+  </entry>
   <entry>
     <title>Nintendo: Mario and his Mushroom Kingdom hopping into theme parks</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28382298/nintendo-mario-and-his-mushroom-kingdom-hopping-into?source=rss" />

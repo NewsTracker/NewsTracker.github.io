@@ -4,6 +4,77 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece must do more to earn rescue: Eurozone leaders</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/13/greece-must-do-more-earn-rescue-eurozone-leaders" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T01:02:30Z</updated>
+    <published>2015-07-13T01:02:30Z</published>
+    <summary type="html">&lt;p&gt;One diplomat said that was tantamount to turning Greece into a "German protectorate".&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T01:02:30Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150713001154948815-minihighres.jpg?itok=G-2UngSU" />
+  </entry>
+  <entry>
+    <title>Euro zone argues into the night with Greece on bailout terms</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/13/us-eurozone-greece-idUSKBN0P40EO20150713?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T00:15:54Z</updated>
+    <published>2015-07-13T00:15:54Z</published>
+    <summary type="html">&lt;p&gt;Another diplomat said Merkel had declared the matter a "red line" for Germany and insisted that the International Monetary Fund be fully involved in any third bailout for Greece, despite resistance from Athens.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T00:15:54Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150712&amp;amp;i=109547919&amp;amp;w=240&amp;amp;r=109547919-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Euro zone argues into the night with Greece on bailout terms</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/13/us-eurozone-greece-idUSKBN0P40EO20150713?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T00:15:54Z</updated>
+    <published>2015-07-13T00:15:54Z</published>
+    <summary type="html">&lt;p&gt;The document included a German proposal to make Greece take a "time-out" from the euro zone if it fails to meet the conditions.&lt;/p&gt;&lt;p&gt;If Greece meets the conditions, the German parliament would meet on Thursday to mandate Merkel and Finance Minister Wolfgang Schaeuble to open the talks on a new loan.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T00:15:54Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150712&amp;amp;i=109547919&amp;amp;w=240&amp;amp;r=109547919-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Greece faces pressure to back deal or consider leaving euro</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27069493.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T22:40:04Z</updated>
+    <published>2015-07-12T22:40:04Z</published>
+    <summary type="html">&lt;p&gt;But other leaders in Brussels say Greece needs even more than that, and are demanding tough austerity measures in exchange.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T22:40:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Greece faces pressure to back deal or consider leaving euro</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/greece-faces-pressure-back-deal-223800302.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T22:39:12Z</updated>
+    <published>2015-07-12T22:39:12Z</published>
+    <summary type="html">&lt;p&gt;If the talks don't succeed, some of Greece's eurozone partners warned, the country could be temporarily forced out of the euro, the European single currency that Greece has been a part of since 2002.&lt;/p&gt;&lt;p&gt;It highlighted the increasing frustration of European leaders during five months of fruitless talks with Greece.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T22:39:12Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/iBxMB9pdmLaDZOm2QFNoLw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_HEADLINES_BUSINESS/544dd0c81343021f7c0f6a706700be43_original.jpg" />
+  </entry>
+  <entry>
+    <title>The Latest: Fitch Downgrades Greece Further Into Junk Status</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/latest-markets-edgy-greek-imf-payment-looms-32118010" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T20:32:51Z</updated>
+    <published>2015-06-30T20:32:51Z</published>
+    <summary type="html">&lt;p&gt;The eurozone's top official, Jeroen Dijsselbloem, says "it would be crazy to extend" the Greek bailout beyond its midnight expiration since Greece won't accept the European proposals on the table.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T20:32:51Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest: Greek talks drag on with few signs of deal soon</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27072166.html%23storylink=rss" />
     <author>
@@ -3542,29 +3613,5 @@
     <summary type="html" />
     <dc:date>2015-06-12T03:36:15Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/1461678/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F8a%2F2e%2F9b7fedd44a0a97a639b8fb25de87%2Fresizes%2F500%2F150528-india-7-editorial.jpg" />
-  </entry>
-  <entry>
-    <title>IMF breaks off debt talks with Greece in Brussels</title>
-    <link rel="alternate" href="http://www.rte.ie/news/2015/0611/707313-greece/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T22:57:17Z</updated>
-    <published>2015-06-11T22:57:17Z</published>
-    <summary type="html">&lt;p&gt;Earlier, European Council President Donald Tusk spelled out an unprecedentedly forthright message to Greece's radical anti-austerity government after four months of bitter negotiations.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T22:57:17Z</dc:date>
-    <media:content url="http://img.rasset.ie/000ab5b6-642.jpg" />
-  </entry>
-  <entry>
-    <title>IMF abandons debt talks with Greece</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-12/imf-abandons-debt-talks-with-greece/6540338" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-11T22:44:45Z</updated>
-    <published>2015-06-11T22:44:45Z</published>
-    <summary type="html">&lt;p&gt;The surprise moves came as the European Union (EU) told Greek prime minister Alexis Tsipras to stop gambling with his cash-strapped country's future and make the crucial decisions needed to avert a devastating default.&lt;/p&gt;&lt;p&gt;The Greek leader faced pressure from both left-wing hardliners and voters, most of whom say they want to remain in the euro zone and want him to make concessions for a deal.&lt;/p&gt;</summary>
-    <dc:date>2015-06-11T22:44:45Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/6540552-3x2-340x227.jpg" />
   </entry>
 </feed>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's Sisi promises tougher legal system as prosecutor buried</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/06/30/us-egypt-anniversary-court-idUSKCN0PA1W120150630?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-30T19:35:52Z</updated>
+    <published>2015-06-30T19:35:52Z</published>
+    <summary type="html">&lt;p&gt;Western governments have criticized the mass death sentences but are unlikely to take strong measures against Egypt, seen as a vital partner for security in a region beset by turmoil.&lt;/p&gt;&lt;p&gt;Militant attacks that have killed hundreds of soldiers and police -- focused mainly in the North Sinai region but also extending to Egypt's main cities -- have increased since Mursi's toppling.&lt;/p&gt;&lt;p&gt;Some of Egypt's judges have been accused of blatant bias in trials against Islamists, but the judiciary says it is independent of the government and military.&lt;/p&gt;</summary>
+    <dc:date>2015-06-30T19:35:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Film legend Omar Sharif gets solemn sendoff in Egypt</title>
     <link rel="alternate" href="http://www.ctvnews.ca/entertainment/film-legend-omar-sharif-gets-solemn-sendoff-in-egypt-1.2465640" />
     <author>
@@ -195,17 +206,6 @@
     <summary type="html">&lt;p&gt;Two years to the day after the army overthrew Egypt's Islamist president, the sounds coming from the mosque at Cairo's Tahrir Square were sadly telling.&lt;/p&gt;</summary>
     <dc:date>2015-07-03T20:57:13Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/03/6d/90/aad568d79cc94341ba8f7fc8128faed0-5989351e162c4dc897cae975e9a7f1ab-0.jpg" />
-  </entry>
-  <entry>
-    <title>Egypt's Sisi promises tougher legal system as prosecutor buried</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/30/us-egypt-anniversary-court-idUSKCN0PA1W120150630?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T19:35:52Z</updated>
-    <published>2015-06-30T19:35:52Z</published>
-    <summary type="html">&lt;p&gt;Western governments have criticized the mass death sentences but are unlikely to take strong measures against Egypt, seen as a vital partner for security in a region beset by turmoil.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T19:35:52Z</dc:date>
   </entry>
   <entry>
     <title>Egypt prepares for burial of slain prosecutor general</title>

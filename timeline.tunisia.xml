@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tunisia says top terrorists killed</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/tunisia-says-top-terrorists-killed-20150713-giat88.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T00:06:34Z</updated>
+    <published>2015-07-13T00:06:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-13T00:06:34Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/a/t/e/h/image.related.articleLeadwide.620x349.giat88.png/1436745972788.jpg" />
+  </entry>
+  <entry>
+    <title>Top terrorists killed in Tunisia, minister says</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/top-terrorists-killed-in-tunisia-minister-says-1.2466010" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T23:38:21Z</updated>
+    <published>2015-07-12T23:38:21Z</published>
+    <summary type="html">&lt;p&gt;TUNIS, Tunisia -- Tunisia's interior minister said the government has killed an extremist leader and nearly wiped out his group, as European tourists continue to leave the country amid fears of new attacks.&lt;/p&gt;&lt;p&gt;Tunisia, the only country to succeed in building a democracy after Arab Spring uprisings, is trying to defuse criticism from Britain and others that it hasn't done enough to protect tourists.&lt;/p&gt;&lt;p&gt;The interior minister said the brigade was plotting attacks in Tunisia and sending Tunisians to fight jihad abroad.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T23:38:21Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest: Queen Elizabeth II shocked about Tunisia attack</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article25700008.html%23storylink=rss" />
     <author>
