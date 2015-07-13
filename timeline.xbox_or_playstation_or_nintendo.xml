@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.xbox_or_playstation_or_nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nintendo President Satoru Iwata dies of tumor</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Nintendo-President-Satoru-Iwata-dies-of-tumor-6380787.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T05:37:40Z</updated>
+    <published>2015-07-13T05:37:40Z</published>
+    <summary type="html">&lt;p&gt;Iwata had been employed at an innovative software company before he was recruited as Nintendo chief.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T05:37:40Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/37/52/01/8298572/27/gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Nintendo CEO's death creates leadership doubts at Japanese gamemaker</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/13/us-nintendo-president-death-idUSKCN0PN00520150713?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T05:34:41Z</updated>
+    <published>2015-07-13T05:34:41Z</published>
+    <summary type="html">&lt;p&gt;Deutsche Bank analyst Hanjoon Kim said Iwata's death was a loss for Nintendo, particularly as he was leading a new strategy in smartphone gaming.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T05:34:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nintendo president Satoru Iwata dead at 55</title>
+    <link rel="alternate" href="http://www.smh.com.au/digital-life/games/nintendo-president-satoru-iwata-dead-at-55-20150713-giavo7.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T04:04:45Z</updated>
+    <published>2015-07-13T04:04:45Z</published>
+    <summary type="html">&lt;p&gt;In 2002 Mr Iwata became only the fourth president in Nintendo's 125 years as a company, and the first president outside the founding Yamauchi family.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T04:04:45Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/a/w/r/9/image.related.articleLeadwide.620x349.giavo7.png/1436760271698.jpg" />
+  </entry>
+  <entry>
     <title>Nintendo President Satoru Iwata dies after leading Japan game company through success, woes</title>
     <link rel="alternate" href="http://www.startribune.com/nintendo-president-satoru-iwata-dies-of-tumor/314490081/" />
     <author>
