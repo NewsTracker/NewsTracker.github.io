@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>What next? More twists and turns ahead for Greece</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11480421&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T17:05:19Z</updated>
+    <published>2015-07-13T17:05:19Z</published>
+    <summary type="html">&lt;p&gt;WILL THAT STABILIZE GREECE?&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T17:05:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Euro currency emerges intact _ for now _ from Greek crisis</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11480388&amp;amp;ref=rss" />
     <author>
@@ -3599,40 +3610,5 @@
     <published>2015-06-12T20:31:07Z</published>
     <summary type="html">&lt;p&gt;U.S. stocks fell on Friday as Greek debt talks hit a stalemate and as concern over how soon the Federal Reserve might raise interest rates kept investors cautious.&lt;/p&gt;</summary>
     <dc:date>2015-06-12T20:31:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece set to present fresh proposals to break impasse</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greece-Market-tumbles-after-IMF-warns-no-6322949.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T18:47:01Z</updated>
-    <published>2015-06-12T18:47:01Z</published>
-    <summary type="html">&lt;p&gt;The key points of contention appear to be cuts to Greek pensions, changes in the labor market and the size of Greece's government budget.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T18:47:01Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/03/57/8141818/3/920x920.jpg" />
-  </entry>
-  <entry>
-    <title>Greece set to present fresh proposals to break impasse</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/12/greece-market-tumbles-after-imf-warns-no-progress-in-talks" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T18:47:01Z</updated>
-    <published>2015-06-12T18:47:01Z</published>
-    <summary type="html">&lt;p&gt;Pressure on Greece to secure a deal is mounting.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T18:47:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>EU holds first talks on Greek default as Athens holds out hope</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greece-hopes-eu-imf-deal-054302490.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T18:16:14Z</updated>
-    <published>2015-06-12T18:16:14Z</published>
-    <summary type="html">&lt;p&gt;The third - discussed formally for the first time at such a senior level in the EU - was to accept that Greece could default.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T18:16:14Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/8k.BWiB20Ut5zpjB4kwnUw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-06-12T074041Z_1_LYNXMPEB5B0AO_RTROPTP_3_EUROZONE-GREECE_original.jpg" />
   </entry>
 </feed>
