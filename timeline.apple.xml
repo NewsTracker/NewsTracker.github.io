@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Pay launches in Britain, with hiccups</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/apple-pay-launches-in-britain-with-hiccups/article25497077/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T10:03:12Z</updated>
+    <published>2015-07-14T10:03:12Z</published>
+    <summary type="html">&lt;p&gt;Users first load their credit and debit card details into an app on their Apple phones or watches.&lt;/p&gt;&lt;p&gt;The last hold-out, Barclays, confirmed on Tuesday its debit card users and Barclaycard credit card customers will be able to use Apple Pay in the future.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T10:03:12Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/c7d/report-on-business/international-business/european-business/article25497076.ece/ALTERNATES/w220/564715771-480612422.JPG" />
+  </entry>
+  <entry>
     <title>Why Apple Music is worth every cent</title>
     <link rel="alternate" href="http://www.news.com.au/technology/home-entertainment/in-the-world-of-music-streaming-services-apple-music-is-top-dog/story-fnpjyqfo-1227439684358?from=public_rss" />
     <author>

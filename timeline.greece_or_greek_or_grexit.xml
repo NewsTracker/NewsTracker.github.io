@@ -4,6 +4,85 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Exclusive: Greece needs debt relief far beyond EU plans - Secret IMF report</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/14/us-eurozone-greece-imf-report-idUSKCN0PO1CB20150714?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T11:53:51Z</updated>
+    <published>2015-07-14T11:53:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T11:53:51Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150714&amp;amp;t=2&amp;amp;i=1064134663&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXNPEB6D0JB" />
+  </entry>
+  <entry>
+    <title>Greek lawmakers split over bailout as vote looms</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/greek-pm-tsipras-faces-party-022322066.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T11:36:52Z</updated>
+    <published>2015-07-14T11:36:52Z</published>
+    <summary type="html">&lt;p&gt;Fighting its own battle with Brussels to secure reforms of the European Union, British Finance Minister George Osborne has ruled out any financial involvement in a fresh bailout for Greece.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T11:36:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Germany's ZEW indicator of investor sentiment dips, shrugs off Greece, Chinese market plunge</title>
+    <link rel="alternate" href="http://www.startribune.com/german-investor-optimism-undeterred-by-greece/314852531/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T10:25:09Z</updated>
+    <published>2015-07-14T10:25:09Z</published>
+    <summary type="html">&lt;p&gt;FRANKFURT, Germany - Investor optimism about Germany decreased by only a little in July, as the crisis in Greece and falling stocks in China had minimal effect.&lt;/p&gt;&lt;p&gt;ZEW head Clemens Fuest said Tuesday that neither Greece nor China seemed to hurt the outlook among the investment analysts surveyed for the index.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T10:25:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>German Investor Optimism Undeterred by Greece</title>
+    <link rel="alternate" href="http://abcnews.go.com/Business/wireStory/german-investor-optimism-undeterred-greece-32433763" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T10:20:02Z</updated>
+    <published>2015-07-14T10:20:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T10:20:02Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece PM Tsipras faces dissent on bailout deal</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/business/greece-pm-tsipras-faces-dissent-on-bailout-deal-1.2467994" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T08:09:00Z</updated>
+    <published>2015-07-14T08:09:00Z</published>
+    <summary type="html">&lt;p&gt;The ECB is not expected to sanction further help to the banks until the Greek parliament passes the first set of creditor demands Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T08:09:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek PM faces dissent on bailout deal</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27190549.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T05:29:18Z</updated>
+    <published>2015-07-14T05:29:18Z</published>
+    <summary type="html">&lt;p&gt;Since his election in January, the youthful Tsipras has faced intense pressure to backpedal on many of his promises to Greece's exhausted electorate.&lt;/p&gt;&lt;p&gt;Passage of the new measures appears assured, since Greece's opposition parties have pledged to support Tsipras' deal.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T05:29:18Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Asia stocks lifted by Greece deal, China's 4th day of gains</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/13/stocks-rise-as-greece-gets-a-new-bailout-deal" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T03:42:03Z</updated>
+    <published>2015-07-14T03:42:03Z</published>
+    <summary type="html">&lt;p&gt;But in exchange for a three-year loan program, the Greek prime minister has to persuade skeptical legislators to pass tax increases and other key demands into law by Wednesday.&lt;/p&gt;&lt;p&gt;WALL STREET: With anxiety about Greece temporarily abated, investors are likely to shift attention to earnings reports.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T03:42:03Z</dc:date>
+  </entry>
+  <entry>
     <title>What next? More twists and turns ahead for Greece</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11480421&amp;amp;ref=rss" />
     <author>
@@ -3565,50 +3644,5 @@
     <published>2015-06-13T19:54:02Z</published>
     <summary type="html">&lt;p&gt;ATHENS, Greece - A government official says Greek Prime Minister Alexis Tsipras has told senior aides to "forget about elections or a referendum," whatever the outcome of the country's talks with creditors.&lt;/p&gt;&lt;p&gt;Greece agreed on the resumption of talks Friday under intense pressure from creditors.&lt;/p&gt;</summary>
     <dc:date>2015-06-13T19:54:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Wall Street falls as Greece crisis unresolved; energy shares dip</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/13/us-markets-stocks-idUSKBN0OS18420150613?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T00:21:19Z</updated>
-    <published>2015-06-13T00:21:19Z</published>
-    <summary type="html">&lt;p&gt;Also of concern, a day after the International Monetary Fund quit bailout talks with Greece, EU officials said they had held their first formal discussions on the worst-case scenario for the country.&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T00:21:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek Jitters Upset US, European Stock Markets</title>
-    <link rel="alternate" href="http://abcnews.go.com/Business/wireStory/us-stocks-follow-europe-lower-greek-talks-stall-31718488" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T21:21:13Z</updated>
-    <published>2015-06-12T21:21:13Z</published>
-    <summary type="html">&lt;p&gt;A setback in talks between Greece and its creditors helped knock the stock market lower on Friday, amid renewed concerns that the country could default on its debts.&lt;/p&gt;&lt;p&gt;An unexpected decision by the International Monetary Fund to walk away from talks with Greece spurred the selling.&lt;/p&gt;&lt;p&gt;At a summit meeting in Brussels late Thursday, the IMF pulled its negotiators out of talks with Greece, saying there had been no progress and that major differences remained on key issues.&lt;/p&gt;&lt;p&gt;Markets are likely to make sudden turns until Greece and its creditors reach a deal, said Ninh Chung, head of investment strategy at SVB Asset Management.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T21:21:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek jitters upset US, European stock markets</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/12/us-stocks-follow-europe-lower-after-greek-talks-stall" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T21:20:04Z</updated>
-    <published>2015-06-12T21:20:04Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-12T21:20:04Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/73240f9/2147483647/thumbnail/300x270/format/png/quality/85/?url=%2Fcmsmedia%2F18%2F8a%2Fed8c23064ee8a97e1663a6adfaab%2F20150527edohc-a.tif" />
-  </entry>
-  <entry>
-    <title>Wall Street falls as Greece crisis unresolved; energy shares dip</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/12/us-markets-stocks-idUSKBN0OS18420150612?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T20:31:07Z</updated>
-    <published>2015-06-12T20:31:07Z</published>
-    <summary type="html">&lt;p&gt;U.S. stocks fell on Friday as Greek debt talks hit a stalemate and as concern over how soon the Federal Reserve might raise interest rates kept investors cautious.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T20:31:07Z</dc:date>
   </entry>
 </feed>

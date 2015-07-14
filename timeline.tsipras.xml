@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tsipras.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece PM Tsipras faces dissent on bailout deal</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/business/greece-pm-tsipras-faces-dissent-on-bailout-deal-1.2467994" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T08:09:00Z</updated>
+    <published>2015-07-14T08:09:00Z</published>
+    <summary type="html">&lt;p&gt;Tsipras is expected to have the numbers in Parliament to pass the measures, since he will have the support of most opposition parties.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T08:09:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tsipras faces bailout deal dissent</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/tsipras-faces-bailout-deal-dissent-31374879.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T06:21:16Z</updated>
+    <published>2015-07-14T06:21:16Z</published>
+    <summary type="html">&lt;p&gt;"This deal introduced many new issues ... we cannot agree with it," he said after meeting Mr Tsipras.&lt;/p&gt;&lt;p&gt;Since his election in January, Mr Tsipras has faced intense pressure to backpedal on many of his promises to Greece's exhausted electorate.&lt;/p&gt;&lt;p&gt;Passage of the new measures appears assured, since Greece's opposition parties have pledged to support Mr Tsipras' deal.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T06:21:16Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31374878.ece/aebdf/ALTERNATES/h342/PANews%20BT_P-8bd34f8e-2093-4d6c-83d4-1d3f28dae5a6_I1.jpg" />
+  </entry>
+  <entry>
     <title>Greece's Tsipras says deal allows Greece to stand on own feet, averted &amp;quot;extreme measures&amp;quot;</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11480272&amp;amp;ref=rss" />
     <author>
@@ -440,28 +463,5 @@
     <summary type="html">&lt;p&gt;Tsipras, who was elected in January on promises to end austerity, made it clear he was willing to give ground but with strings attached that German Chancellor Angela Merkel is unlikely to accept.&lt;/p&gt;&lt;p&gt;Tsipras signaled that without debt relief, he would reject any deal involving curbs on the right of Greek workers to bargain collectively on pay - something that union members elsewhere take for granted.&lt;/p&gt;</summary>
     <dc:date>2015-06-13T17:54:02Z</dc:date>
     <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150612&amp;amp;i=108722162&amp;amp;w=240&amp;amp;r=108722162-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Tsipras seeks debt relief as Greeks take offer to Brussels</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/13/us-eurozone-greece-idUSKBN0OS0E020150613?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T13:12:25Z</updated>
-    <published>2015-06-13T13:12:25Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-13T13:12:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tsipras seeks debt relief as Greeks take offer to Brussels</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/tsipras-seeks-debt-relief-greeks-131225972.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T13:12:25Z</updated>
-    <published>2015-06-13T13:12:25Z</published>
-    <summary type="html">&lt;p&gt;Tsipras used the term "sustainable solution" to refer to a long-standing demand for large parts of Greece's mountainous debts to be written off - something he believes is vital if the Greek economy is to start getting back on its feet after a five-year depression.&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T13:12:25Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/8k.BWiB20Ut5zpjB4kwnUw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-06-12T074041Z_1_LYNXMPEB5B0AO_RTROPTP_3_EUROZONE-GREECE_original.jpg" />
   </entry>
 </feed>

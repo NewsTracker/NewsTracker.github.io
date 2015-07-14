@@ -4,6 +4,54 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico Prison Boss Sacked After El Chapo Escape</title>
+    <link rel="alternate" href="http://news.sky.com/story/1518482/mexico-prison-boss-sacked-after-el-chapo-escape" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T12:28:11Z</updated>
+    <published>2015-07-14T12:28:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T12:28:11Z</dc:date>
+    <media:content url="http://news.sky.com/story/1518482/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+  </entry>
+  <entry>
+    <title>Mexico offers $3.8M reward for 'El Chapo'</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/07/14/world/mexico-el-chapo-escape/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+CNN+-+World%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T12:19:14Z</updated>
+    <published>2015-07-14T12:19:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T12:19:14Z</dc:date>
+    <media:content url="http://edition.cnn.com/2015/07/14/world/mexico-el-chapo-escape/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
+    <title>Mexican drug lord's escape tunnel was deep and 'high-tech'</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/el-chapo-guzman-s-escape-tunnel-required-prison-blueprints-planning-1.3150688?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T05:55:48Z</updated>
+    <published>2015-07-14T05:55:48Z</published>
+    <summary type="html">&lt;p&gt;The kind of tunnel that led Mexico's most powerful drug lord to freedom would have been more than a year in planning.&lt;/p&gt;&lt;p&gt;The entrance would have to be in a place beyond the view of security cameras at Mexico's toughest prison.&lt;/p&gt;&lt;p&gt;As authorities hunted Monday for any sign of Mexico's most powerful drug lord, it was clear that Joaquin "El Chapo" Guzman's escape must have involved inside help on a grand scale.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T05:55:48Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3148789.1436733646!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/mexico-guzman.jpg" />
+  </entry>
+  <entry>
+    <title>U.S. agents knew of, alerted Mexico to 2014 ‘El Chapo’ escape plots: DEA documents</title>
+    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/07/14/world/u-s-agents-knew-alerted-mexico-2014-el-chapo-escape-plots-dea-documents/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=u-s-agents-knew-alerted-mexico-2014-el-chapo-escape-plots-dea-documents&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T20:10:00Z</updated>
+    <published>2015-07-13T20:10:00Z</published>
+    <summary type="html">&lt;p&gt;The internal DEA documents reveal that drug agents first got information on escape plans in March 2014, about a month after Guzman was captured in the seaside resort town of Mazatlan, Mexico.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T20:10:00Z</dc:date>
+    <media:content url="http://jto.s3.amazonaws.com/wp-content/uploads/2015/07/f-dea-a-20150715-200x200.jpg" />
+  </entry>
+  <entry>
     <title>White House: US offers full support to Mexico to bring drug lord 'El Chapo' Guzman to justice</title>
     <link rel="alternate" href="http://www.startribune.com/us-offers-full-support-to-mexico-to-capture-drug-lord/314644781/" />
     <author>
@@ -1009,61 +1057,5 @@
     <published>2015-06-13T20:26:56Z</published>
     <summary type="html">&lt;p&gt;MIAMI (AP) - Hurricane Carlos hovered Saturday over the Pacific Ocean south of Acapulco, Mexico, hours after a hurricane watch was issued for a swath of that country's southwest coastline, forecasters said.&lt;/p&gt;&lt;p&gt;Mexico's government has issued a hurricane watch from Lazaro Cardenas to Punta San Telmo along Mexico's southwest mainland coast, meaning hurricane conditions were possible within that area within 48 hours.&lt;/p&gt;</summary>
     <dc:date>2015-06-13T20:26:56Z</dc:date>
-  </entry>
-  <entry>
-    <title>Dismembered bodies of Russian mom, daughter found at Mexico home; prosecutors suspect relative</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/06/12/dismembered-bodies-russian-mom-daughter-found-at-mexico-home-prosecutors/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T03:21:42Z</updated>
-    <published>2015-06-13T03:21:42Z</published>
-    <summary type="html">&lt;p&gt;TIJUANA, Mexico - Officials in the Mexican border state of Baja California say the dismembered bodies of a 45-year-old Russian woman and her 12-year-old daughter were found in a garage and they suspect a family member.&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T03:21:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mexico cheer-dance Nazi routine criticised</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/13/mexico-cheer-dance-nazi-routine-criticised" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T23:34:04Z</updated>
-    <published>2015-06-12T23:34:04Z</published>
-    <summary type="html">&lt;p&gt;A cheer-dance team in Mexico has drawn criticism for a routine in which they displayed flags with swastikas, dressed in pseudo-military outfits and one girl appeared to toss a Nazi salute to the crowd.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T23:34:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>Girls dance team in Mexico criticised over bizarre 'Nazi dance'</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/mexico/11672410/Girls-dance-team-in-Mexico-criticised-over-bizarre-Nazi-dance.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T23:33:26Z</updated>
-    <published>2015-06-12T23:33:26Z</published>
-    <summary type="html">&lt;p&gt;Mexico doesn't have any significant neo-Nazi movements.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T23:33:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mexico supreme court opens door to gay marriage nationwide</title>
-    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Mexico-supreme-court-opens-door-to-gay-marriage-nationwide/articleshow/47650904.cms" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T23:22:29Z</updated>
-    <published>2015-06-12T23:22:29Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-12T23:22:29Z</dc:date>
-    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47650981,width-300,resizemode-4/Idaho-Same-Sex-Marriage.jpg" />
-  </entry>
-  <entry>
-    <title>Mexico Supreme Court Opens Door to Gay Marriage Nationwide</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-supreme-court-opens-door-gay-marriage-nationwide-31733845" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T22:40:55Z</updated>
-    <published>2015-06-12T22:40:55Z</published>
-    <summary type="html">&lt;p&gt;Mexico's supreme court has ruled it is unconstitutional for Mexican states to bar same-sex marriages.&lt;/p&gt;&lt;p&gt;Gay marriage is legal in some parts of Mexico, including Mexico City and the northern state of Coahuila.&lt;/p&gt;</summary>
-    <dc:date>2015-06-12T22:40:55Z</dc:date>
   </entry>
 </feed>

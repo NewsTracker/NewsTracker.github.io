@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine PM says reforms continue despite 'lunatic' lawmakers</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article27191587.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T06:59:44Z</updated>
+    <published>2015-07-14T06:59:44Z</published>
+    <summary type="html">&lt;p&gt;Ukraine's prime minister pushed back Monday against a pair of forces threatening to undermine his fragile government, likening members of Ukraine's parliament to "lunatics" while defending a nationalist militia that is locked in a standoff with police.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T06:59:44Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Ukraine PM says reforms continue despite 'lunatic' lawmakers</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/07/14/ukraine-pm-says-reforms-continue-despite-lunatic-lawmakers" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T06:57:34Z</updated>
+    <published>2015-07-14T06:57:34Z</published>
+    <summary type="html">&lt;p&gt;Yatsenyuk's U.S. visit came amid growing global concerns over proposed legislation in Ukraine's parliament that would water down economic reforms demanded by the international community.&lt;/p&gt;&lt;p&gt;At the White House, President Barack Obama echoed the need for Ukraine to stick with austerity measures during a meeting Monday with Yatsenyuk and Vice President Joe Biden.&lt;/p&gt;&lt;p&gt;The White House said Obama and Biden welcomed Ukraine's "strong stand against populist measures that could undermine Ukraine's financial stability."&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T06:57:34Z</dc:date>
+  </entry>
+  <entry>
     <title>Right Sector gunmen take boy hostage in western Ukraine</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/13/right-sector-gunmen-take-boy-hostage-in-western-ukraine" />
     <author>
@@ -311,18 +334,6 @@
     <dc:date>2015-06-30T20:44:42Z</dc:date>
   </entry>
   <entry>
-    <title>Ukraine says it may freeze debt payments to fund war</title>
-    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Ukraine-says-it-may-freeze-debt-payments-to-fund-war/articleshow/47651046.cms" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-12T23:59:00Z</updated>
-    <published>2015-06-12T23:59:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-12T23:59:00Z</dc:date>
-    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47651050,width-300,resizemode-4/Arseniy-Yatsenyuk.jpg" />
-  </entry>
-  <entry>
     <title>US compares China's south China Sea moves to Russia's in Ukraine</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/US-compares-Chinas-south-China-Sea-moves-to-Russias-in-Ukraine/articleshow/47838396.cms" />
     <author>
@@ -424,63 +435,5 @@
     <published>2015-06-14T11:50:23Z</published>
     <summary type="html">&lt;p&gt;The truce brokered by the leaders of Ukraine, Russia, Germany and France in Minsk, Belarus, has stemmed large-scale fighting but skirmishes claim lives almost daily on both sides.&lt;/p&gt;</summary>
     <dc:date>2015-06-14T11:50:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ukraine says 6 servicemen killed in fighting</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article23944912.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T12:43:12Z</updated>
-    <published>2015-06-13T12:43:12Z</published>
-    <summary type="html">&lt;p&gt;A Russia-backed rebel loads shells in a tank at Donetsk airport, eastern Ukraine, Friday, June 12, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T12:43:12Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Caught in the middle: War in Ukraine creates no man's lands</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article23943973.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T11:45:53Z</updated>
-    <published>2015-06-13T11:45:53Z</published>
-    <summary type="html">&lt;p&gt;FOR STORY UKRAINE NO MAN'S LANDS - In this photo taken on Thursday, June 11, 2015, local children play volleyball in the town of Severodonetsk, Luhansk region, eastern Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T11:45:53Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>War in Ukraine traps suffering east in no man's lands as fighting trudges forward</title>
-    <link rel="alternate" href="http://www.startribune.com/caught-in-the-middle-war-in-ukraine-creates-no-man-s-lands/307251641/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T11:30:09Z</updated>
-    <published>2015-06-13T11:30:09Z</published>
-    <summary type="html">&lt;p&gt;A craze has swept through Ukraine for the removal of Lenin monuments, regardless of abiding fondness among many elderly people for the communist era.&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T11:30:09Z</dc:date>
-  </entry>
-  <entry>
-    <title>Caught in the middle: War in Ukraine creates no man's lands</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/13/caught-in-the-middle-war-in-ukraine-creates-no-mans-lands" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T11:28:04Z</updated>
-    <published>2015-06-13T11:28:04Z</published>
-    <summary type="html">&lt;p&gt;"I have responsibilities before the president, the government and the people of Ukraine to preserve lives."&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T11:28:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>Caught in the middle: War in Ukraine creates no man's lands</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/13/caught-in-the-middle-war-in-ukraine-creates-no/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T11:28:04Z</updated>
-    <published>2015-06-13T11:28:04Z</published>
-    <summary type="html">&lt;p&gt;KATERYNIVKA, Ukraine (AP) - A single crack of an automatic rifle shattered the tomb-like silence of this no-man's-land village in east Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T11:28:04Z</dc:date>
-    <media:content url="http://media.utsandiego.com/img/photos/2015/06/13/964d14dc66d7421a790f6a706700e166_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
   </entry>
 </feed>
