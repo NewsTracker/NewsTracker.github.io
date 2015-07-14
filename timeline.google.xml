@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google Photos uploads pics even after you uninstall</title>
+    <link rel="alternate" href="http://smartphones.reviewed.com/news/google-photos-keeps-uploading-even-after-you-uninstall?utm_source=usat&amp;amp;utm_medium=referral&amp;amp;utm_campaign=collab&amp;amp;utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-newstopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T11:21:16Z</updated>
+    <published>2015-07-14T11:21:16Z</published>
+    <summary type="html">&lt;p&gt;(Go to Google Settings &gt; Google Photo Backup.)&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T11:21:16Z</dc:date>
+    <media:content url="http://a3.images.reviewed.com/image/fetch/s--MLaYo8FS--/c_fill,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_jpegmini,w_747/https://reviewed-production.s3.amazonaws.com/1436884989000/Google-Photos-hero-2.jpg" />
+  </entry>
+  <entry>
     <title>Google tests driverless cars in Austin _ with safety drivers</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article26650732.html%23storylink=rss" />
     <author>

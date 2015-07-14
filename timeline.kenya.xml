@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya Westgate Mall to re-open two years after al-Shabab attack</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/kenya-westgate-mall-to-reopen-two-years-after-alshabab-attack-31376483.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T14:46:02Z</updated>
+    <published>2015-07-14T14:46:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T14:46:02Z</dc:date>
+    <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31376482.ece/9dc68/ALTERNATES/h342/PANews%20BT_P-1a4d4596-c0da-4e2a-83e0-ed676911272c_I1.jpg" />
+  </entry>
+  <entry>
     <title>Kenya says Islamic extremists kill 14 in Kenya's north</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/07/kenya-says-islamic-extremists-kill-14-in-kenyas-north" />
     <author>
