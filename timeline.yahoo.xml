@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Klinsmann shakes up US roster for Gold Cup knockout rounds (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/klinsmann-shakes-us-roster-gold-cup-knockout-rounds-173838325--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T18:25:59Z</updated>
+    <published>2015-07-14T18:25:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T18:25:59Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/K_E.t0XUNIwvjTuxJadj0Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ0ODtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507132257826753285" />
+  </entry>
+  <entry>
+    <title>Trout, Harper, plenty of fresh faces highlight All-Star Game (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/trout-harper-plenty-fresh-faces-highlight-star-game-225042923--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T07:52:17Z</updated>
+    <published>2015-07-14T07:52:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T07:52:17Z</dc:date>
+  </entry>
+  <entry>
     <title>US, Panama play to 1-1 draw in CONCACAF Gold Cup match (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/us-panama-play-1-1-draw-concacaf-gold-034608682--sow.html" />
     <author>
@@ -671,17 +694,5 @@
     <summary type="html" />
     <dc:date>2015-06-13T20:53:50Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/JRK81ArYHDfvS77Oro7.tQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506131310474252720" />
-  </entry>
-  <entry>
-    <title>Injured Tampa Bay goalie Bishop still uncertain for Game 5 (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/injured-tampa-bay-goalie-bishop-still-uncertain-game-153646109--nhl.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T16:51:26Z</updated>
-    <published>2015-06-13T16:51:26Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-13T16:51:26Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/ATByy3sCvtTj68zsmeuQPQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201506082059755902375" />
   </entry>
 </feed>
