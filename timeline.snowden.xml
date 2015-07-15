@@ -152,28 +152,4 @@
     <dc:date>2015-06-14T11:55:52Z</dc:date>
     <media:content url="http://static.bbci.co.uk/frameworks/barlesque/2.83.10/orb/4/img/bbc-blocks-dark.png" />
   </entry>
-  <entry>
-    <title>Britain moves spies as Russia cracks Snowden files</title>
-    <link rel="alternate" href="http://www.rte.ie/news/2015/0614/708021-edward-snowden/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T08:48:40Z</updated>
-    <published>2015-06-14T08:48:40Z</published>
-    <summary type="html">&lt;p&gt;Britain has been forced to remove some of its spies after Russia and China accessed the top-secret raft of documents taken by former US intelligence contractor Edward Snowden, British media have reported.&lt;/p&gt;&lt;p&gt;Mr Snowden fled to Russia after leaking the documents to the press in 2013 to expose the extent of US online surveillance programmes and to protect "privacy and basic liberties".&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T08:48:40Z</dc:date>
-    <media:content url="http://img.rasset.ie/0007976f-642.jpg" />
-  </entry>
-  <entry>
-    <title>Britain pulls spies as Moscow cracks Snowden files: reports</title>
-    <link rel="alternate" href="http://news.yahoo.com/britain-pulls-spies-moscow-cracks-snowden-files-011744817.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T08:46:43Z</updated>
-    <published>2015-06-14T08:46:43Z</published>
-    <summary type="html">&lt;p&gt;Snowden worked as a contractor at the CIA and National Security Agency, where he was able to download 1.7 million secret documents that showed how hundreds of millions of people had been under surveillance by the authorities.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T08:46:43Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/dPrmBgL3QLy00zsTr5sZBQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/4cea136b882a8729bb7e680c9887958ff92f5c9a.jpg" />
-  </entry>
 </feed>

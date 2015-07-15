@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya press freedom rapidly deteriorating, rights group says</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/kenya-press-freedom-rapidly-deteriorating-rights-g/nmy5J/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T09:13:30Z</updated>
+    <published>2015-07-15T09:13:30Z</published>
+    <summary type="html">&lt;p&gt;The deteriorating climate for the media comes at a time when press scrutiny and public discussion are essential for continued development of Kenya's democracy and economy, the report said.&lt;/p&gt;&lt;p&gt;Also needing press scrutiny, according to the report, is the situation for Kenya's deputy president who is under indictment from the International Criminal Court, although similar charges were dropped against the president.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T09:13:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenya press freedom rapidly deteriorating, rights group says</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11481582&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T08:40:19Z</updated>
+    <published>2015-07-15T08:40:19Z</published>
+    <summary type="html">&lt;p&gt;NAIROBI, Kenya (AP) " Press freedom is deteriorating in Kenya as a result of government legislation, threats and attacks, a media rights group said Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T08:40:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya Westgate Mall to re-open two years after al-Shabab attack</title>
     <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/kenya-westgate-mall-to-reopen-two-years-after-alshabab-attack-31376483.html" />
     <author>
@@ -93,16 +115,5 @@
     <published>2015-06-14T11:29:17Z</published>
     <summary type="html">&lt;p&gt;Kenya is preparing to mark the anniversary of two attacks in the town of Mpeketoni, also in Lamu County, in which militants killed at least 60 people a year ago.&lt;/p&gt;&lt;p&gt;Although Mpeketoni is inland from Kenya's Indian Ocean coastline, the attacks froze the tourism industry in Lamu, which had been popular with tourists from Europe and North America.&lt;/p&gt;</summary>
     <dc:date>2015-06-14T11:29:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Kenya army says it has killed 11 militants in attack</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/14/kenya-army-says-it-has-killed-11-militants-in/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T09:14:01Z</updated>
-    <published>2015-06-14T09:14:01Z</published>
-    <summary type="html">&lt;p&gt;Al-Shabab militants is carrying out attacks in Kenya because it is among several African countries that have deployed troops to Somalia to fight the militants who are waging an insurgency against Somalia's weak government.&lt;/p&gt;&lt;p&gt;Authorities says since deploying its troops to Somalia in Oct. 2011, Kenya has suffered numerous gun and explosive attacks by al-Shabab.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T09:14:01Z</dc:date>
   </entry>
 </feed>

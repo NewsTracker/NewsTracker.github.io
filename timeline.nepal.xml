@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Quake-hit Nepal urges other nations to lift travel advisories, hopes to bring back tourists</title>
+    <link rel="alternate" href="http://www.startribune.com/quake-hit-nepal-asks-other-nations-to-lift-travel-advisories/315236391/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T09:45:12Z</updated>
+    <published>2015-07-15T09:45:12Z</published>
+    <summary type="html">&lt;p&gt;Tourism is a key source of foreign currency for Nepal, which has many of the world's tallest mountains, including Mount Everest.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T09:45:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Quake-hit Nepal asks other nations to lift travel advisories</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27284101.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T09:42:06Z</updated>
+    <published>2015-07-15T09:42:06Z</published>
+    <summary type="html">&lt;p&gt;Nepal's government has urged other countries to lift travel advisories that discourage their citizens from visiting the Himalayan nation following a devastating earthquake in April that killed thousands of people.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T09:42:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Quake-hit Nepal asks other nations to lift travel advisories</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Quake-hit-Nepal-asks-other-nations-to-lift-travel-6385500.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T09:39:49Z</updated>
+    <published>2015-07-15T09:39:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T09:39:49Z</dc:date>
+  </entry>
+  <entry>
     <title>Nepal hospital, CNN differ on reported surgery after quake</title>
     <link rel="alternate" href="https://www.yahoo.com/news/nepal-hospital-says-cnns-gupta-didnt-operate-8-162425074.html" />
     <author>
