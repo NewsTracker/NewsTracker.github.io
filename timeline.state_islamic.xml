@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boston police captain's son held without bail in Islamic State-inspired bomb plot</title>
+    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/Crime/2015/07/14/22506011.html?cid=rssnewscrime" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T23:16:47Z</updated>
+    <published>2015-07-14T23:16:47Z</published>
+    <summary type="html">&lt;p&gt;The case follows a handful of "lone wolf" attacks in the United States and Canada since last year by people authorities say were inspired by Islamic State, which controls parts of Syria and Iraq and has vowed attacks on the West.&lt;/p&gt;&lt;p&gt;In the post-arrest video played in court on Tuesday, Ciccolo did not detail an attack plot but defended Islamic State's hostage executions and agreed with an FBI interviewer that all Americans should be considered "enemies".&lt;/p&gt;&lt;p&gt;His attorney, David Hoose, said Ciccolo had so far only been charged with gun violations and that his views on Islamic State should not be considered.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T23:16:47Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://cnews.canoe.com/CNEWS/Crime/2015/07/14/TCP_Ciccolo650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Son of Boston police captain charged in terror bomb plot</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/13/son-of-boston-police-captain-charged-in-terror/" />
     <author>
@@ -985,16 +997,5 @@
     <summary type="html">&lt;p&gt;Beirut: Kurdish fighters have advanced to the outskirts of a key Syrian border town held by Islamic State, as Turkish forces sought to prevent thousands fleeing the fighting from crossing the frontier.&lt;/p&gt;&lt;p&gt;The Kurdish People's Protection Units (YPG) have edged closer to Tal Abyad, a border town used by jihadists as a gateway from Turkey into Syria's Raqqa province, the Islamic State's stronghold.&lt;/p&gt;&lt;p&gt;Islamic State fighters discuss the situation at the border fence.&lt;/p&gt;</summary>
     <dc:date>2015-06-14T07:55:26Z</dc:date>
     <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/h/n/l/3/m/image.related.articleLeadwide.620x349.ghnh86.png/1434268668405.jpg" />
-  </entry>
-  <entry>
-    <title>Rival Libya militants fight Islamic State amid suicide bombings</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3122894/Suicide-bomber-kills-3-Libyas-Derna--residents.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-13T22:42:05Z</updated>
-    <published>2015-06-13T22:42:05Z</published>
-    <summary type="html">&lt;p&gt;But local residents say Majlis Mujahideen, with local armed people, have pushed Islamic State out of much of Derna, taking back the courthouse, and killing several of the group's fighters including an Egyptian.&lt;/p&gt;&lt;p&gt;Islamic State is mostly in the Ras El Hilal and Fattiah areas of the city, residents said.&lt;/p&gt;&lt;p&gt;Derna, a conservative city where Islamist hardliners resisted Muammar Gaddafi before his 2011 fall, was the first place Islamic State tried to gain support in Libya.&lt;/p&gt;</summary>
-    <dc:date>2015-06-13T22:42:05Z</dc:date>
   </entry>
 </feed>
