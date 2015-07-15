@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The moment Mexico’s drug lord escaped</title>
+    <link rel="alternate" href="http://www.news.com.au/lifestyle/real-life/how-mexicos-most-powerful-drug-lord-rode-to-freedom/story-fnq2oad4-1227442204709?from=public_rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T05:34:00Z</updated>
+    <published>2015-07-15T05:34:00Z</published>
+    <summary type="html">&lt;p&gt;If anyone was capable of pulling off such a feat, it was Guzman, who is believed to have at least a quarter-century of experience in building large, sophisticated tunnels to smuggle drugs under the US-Mexico border and to escape from hideouts as authorities closed in.&lt;/p&gt;&lt;p&gt;"By far they are the most infiltrated in Mexico's government institutions," he said.&lt;/p&gt;&lt;p&gt;He said the tunnel at Altiplano was longer than any passage ever found on the US-Mexico border.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T05:34:00Z</dc:date>
+    <media:content url="http://resources1.news.com.au/images/2015/07/15/1227442/204681-c04b676c-2a64-11e5-acb7-33c75d95366a.jpg" />
+  </entry>
+  <entry>
     <title>Mexico Prison Boss Sacked After El Chapo Escape</title>
     <link rel="alternate" href="http://news.sky.com/story/1518482/mexico-prison-boss-sacked-after-el-chapo-escape" />
     <author>
@@ -989,17 +1001,5 @@
     <published>2015-06-14T12:28:03Z</published>
     <summary type="html">&lt;p&gt;Hurricane Carlos has weakened slightly but is expected to regain punch, hovering stationary over the Pacific Ocean off Mexico.&lt;/p&gt;</summary>
     <dc:date>2015-06-14T12:28:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>Fabricio Werdum shocks Cain Velasquez, Mexico City crowd at UFC 188</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/06/14/fabricio-werdum-shocks-cain-velasquez--mexico-city-crowd-at-ufc-188" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T05:47:39Z</updated>
-    <published>2015-06-14T05:47:39Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-14T05:47:39Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297711481579_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
 </feed>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Taylor Swift writes open letter to Apple Music bosses [Video]</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/06/21/taylor-swift-writes-open-letter-apple-music-bosses" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-06-21T18:42:15Z</updated>
+    <published>2015-06-21T18:42:15Z</published>
+    <summary type="html">&lt;p&gt;Taylor Swift has written an open letter to Apple Music bosses explaining why she is withholding her album 1989 from their service, telling them "it is unfair to ask anyone to work for nothing".&lt;/p&gt;&lt;p&gt;Bosses at tech giant Apple are set to launch Apple Music on June 30, and Swift's latest album will not be available because she does not agree with their plan to give customers a three-month free introductory trial.&lt;/p&gt;</summary>
+    <dc:date>2015-06-21T18:42:15Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297715040508_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
     <title>Apple Pay launches in Britain, with hiccups</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/apple-pay-launches-in-britain-with-hiccups/article25497077/?cmpid=rss1" />
     <author>
@@ -397,18 +409,6 @@
     <published>2015-06-21T22:02:42Z</published>
     <summary type="html">&lt;p&gt;But I say to Apple with all due respect, it's not too late to change this policy and change the minds of those in the music industry who will be deeply and gravely affected by this.&lt;/p&gt;</summary>
     <dc:date>2015-06-21T22:02:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Taylor Swift writes open letter to Apple Music bosses [Video]</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/06/21/taylor-swift-writes-open-letter-apple-music-bosses" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T18:42:15Z</updated>
-    <published>2015-06-21T18:42:15Z</published>
-    <summary type="html">&lt;p&gt;Taylor Swift has written an open letter to Apple Music bosses explaining why she is withholding her album 1989 from their service, telling them "it is unfair to ask anyone to work for nothing".&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T18:42:15Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297715040508_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
   <entry>
     <title>Taylor Swift writes open letter to Apple Music bosses</title>
