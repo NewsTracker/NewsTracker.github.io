@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Canada and Ukraine announce 'milestone' free trade agreement</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/jul/15/canada-and-ukraine-announce-milestone-free-trade-agreement" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T02:40:33Z</updated>
+    <published>2015-07-15T02:40:33Z</published>
+    <summary type="html">&lt;p&gt;Meanwhile, financially troubled Ukraine will reduce tariffs on 86% of Canadian imports and increase exports to Canada by C$23.7m, mainly in the textile and metalworking industries.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T02:40:33Z</dc:date>
+    <media:content url="ww.theguardian.com//i.guim.co.uk/img/media/4617f2991b6c5c750131234f36a234f780c667a5/101_171_2819_1692/master/2819.jpg?w=300&amp;amp;amp;q=85&amp;amp;amp;auto=format&amp;amp;amp;sharp=10&amp;amp;amp;s=161d9fb26376488f31483917c3f90d57" />
+  </entry>
+  <entry>
     <title>Ukraine PM says reforms continue despite 'lunatic' lawmakers</title>
     <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/07/14/ukraine-pm-says-reforms-continue-despite-lunatic-lawmakers" />
     <author>

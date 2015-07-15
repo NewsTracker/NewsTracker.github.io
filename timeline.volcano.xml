@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Volcano could delay Bali flights again</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-national/bali-return-flights-hinge-on-wind-20150715-3za6u.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T16:23:11Z</updated>
+    <published>2015-07-14T16:23:11Z</published>
+    <summary type="html">&lt;p&gt;Stephanie Bond, from the Volcanic Ash Advisory Centre, says light variable winds around the volcano, which lies about 150km west of Bali's Denpasar airport, are unpredictable.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T16:23:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Vanuatu volcano puts on primal show for those daring to visit</title>
     <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/vanuatu-volcano-puts-on-primal-show-for-those-daring-to-visit-1.2466299" />
     <author>
