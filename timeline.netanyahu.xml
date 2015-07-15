@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Israeli premier Netanyahu criticises Iran nuclear deal</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/israeli-premier-netanyahu-criticises-iran-nuclear-deal-31379532.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T13:51:04Z</updated>
+    <published>2015-07-15T13:51:04Z</published>
+    <summary type="html">&lt;p&gt;Addressing parliament, Mr Netanyahu reiterated that Israel was not bound by the deal and said his country would continue to oppose it.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T13:51:04Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31379531.ece/fe497/ALTERNATES/h342/PANews%20BT_P-748d2931-0e57-41c7-84b2-de41fdd06dc1_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Israeli premier criticizes Iran deal; his rival to lobby US</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/israeli-opposition-leader-to-visit-washington-over/nmy5x/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T13:29:26Z</updated>
+    <published>2015-07-15T13:29:26Z</published>
+    <summary type="html">&lt;p&gt;In March, Netanyahu voiced his opposition to the emerging deal in a speech to the U.S. Congress that enraged the White House.&lt;/p&gt;&lt;p&gt;"Our national security is not a matter of dispute," Netanyahu's office quoted Herzog as saying.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T13:29:26Z</dc:date>
+  </entry>
+  <entry>
     <title>Iran nuclear deal: historic agreement in Vienna – live updates</title>
     <link rel="alternate" href="http://www.theguardian.com/world/live/2015/jul/14/iran-nuclear-talks-deal-historic-vienna-live-updates" />
     <author>

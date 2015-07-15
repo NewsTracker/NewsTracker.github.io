@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt army says it foils attack on road to Red Sea coast</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27308440.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T15:27:01Z</updated>
+    <published>2015-07-15T15:27:01Z</published>
+    <summary type="html">&lt;p&gt;Egypt's armed forces said they foiled an attempted attack Wednesday on a military post on a highway linking Cairo with the Red Sea coast that was claimed by Islamic State affiliates.&lt;/p&gt;&lt;p&gt;Officials from several branches of Egypt's security forces previously told The Associated Press that that attack killed dozens more.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T15:27:01Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt Army Says It Foils Attack on Road to Red Sea Coast</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-army-foils-attack-road-red-sea-coast-32467148" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T15:25:32Z</updated>
+    <published>2015-07-15T15:25:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T15:25:32Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt's arrest of Al-Jazeera journalist poses political problem for Germany</title>
     <link rel="alternate" href="http://www.smh.com.au/world/egypts-arrest-of-aljazeera-journalist-poses-political-problem-for-germany-20150621-ghtwon" />
     <author>
@@ -459,16 +481,5 @@
     <summary type="html">&lt;p&gt;"The Berlin prosecutor's office is examining the legal assistance request" from Egypt, he added.&lt;/p&gt;&lt;p&gt;Al-Jazeera journalist Ahmed Mansour was being held in Berlin police custody today awaiting a judge's decision on his further detention on an international arrest warrant issued by his native Egypt, authorities said.&lt;/p&gt;</summary>
     <dc:date>2015-06-21T13:13:41Z</dc:date>
     <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47758590,width-300,resizemode-4/Germany-Egypt-Al-Jazeera.jpg" />
-  </entry>
-  <entry>
-    <title>Bus Crashes in Egypt Kill 23, Injure 17 Others</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/bus-crashes-egypt-kill-23-injure-17-31754170" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T13:36:46Z</updated>
-    <published>2015-06-14T13:36:46Z</published>
-    <summary type="html">&lt;p&gt;The World Health Organization says traffic accidents claim the lives of about 12,000 people a year in Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T13:36:46Z</dc:date>
   </entry>
 </feed>

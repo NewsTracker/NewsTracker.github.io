@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt army says it foils attack on road to Red Sea coast</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27308440.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T15:27:01Z</updated>
+    <published>2015-07-15T15:27:01Z</published>
+    <summary type="html">&lt;p&gt;Egypt's armed forces said they foiled an attempted attack Wednesday on a military post on a highway linking Cairo with the Red Sea coast that was claimed by Islamic State affiliates.&lt;/p&gt;&lt;p&gt;Egypt faces threats from multiple insurgent factions, including the Islamic State affiliate in Sinai that the military says killed at least 17 soldiers in a July 1 assault there.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T15:27:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Rich nations worry about Islamic State; poor fear climate change: Pew survey</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/rich-nations-worry-about-islamic-state-poor-fear-climate-change-pew-survey-20150715-giczel.html" />
     <author>
@@ -619,17 +630,6 @@
     <dc:date>2015-06-28T12:10:10Z</dc:date>
   </entry>
   <entry>
-    <title>Islamic State teenager said to be UK's youngest suicide bomber</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3123599/Islamic-State-teenager-said-UKs-youngest-suicide-bomber.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T16:02:29Z</updated>
-    <published>2015-06-14T16:02:29Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-14T16:02:29Z</dc:date>
-  </entry>
-  <entry>
     <title>Report: Islamic State Claims Credit for Attack at Tunisian Resort That Killed at Least 37</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/report-islamic-state-claims-credit-attack-tunisian-resort-32063835" />
     <author>
@@ -906,73 +906,5 @@
     <published>2015-06-14T16:25:15Z</published>
     <summary type="html">&lt;p&gt;Broomfield, 20 from Massachusetts, died June 3 in battle in a Syrian village near Kobani, making him likely the first U.S. citizen to die fighting alongside Kurds against the Islamic State group.&lt;/p&gt;</summary>
     <dc:date>2015-06-14T16:25:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>Massachusetts man killed fighting Islamic State in Syria will be buried this week</title>
-    <link rel="alternate" href="http://www.startribune.com/burial-set-for-american-killed-fighting-islamic-state/307296841/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T15:50:27Z</updated>
-    <published>2015-06-14T15:50:27Z</published>
-    <summary type="html">&lt;p&gt;BOSTON - Funeral arrangements for an American killed in Syria while fighting the Islamic State group have been set for later this week.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T15:50:27Z</dc:date>
-  </entry>
-  <entry>
-    <title>Burial set for American killed fighting Islamic State</title>
-    <link rel="alternate" href="http://news.yahoo.com/burial-set-american-killed-fighting-islamic-state-150324290.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T15:43:31Z</updated>
-    <published>2015-06-14T15:43:31Z</published>
-    <summary type="html">&lt;p&gt;The YPG are the main Kurdish guerrillas battling the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T15:43:31Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/1t2to5QP1MWmvF83oshnmA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/fda562871599171a790f6a70670031a2.jpg" />
-  </entry>
-  <entry>
-    <title>Burial set for American killed fighting Islamic State</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/us/burial-set-for-american-killed-fighting-islamic-st/nmckz/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T15:43:25Z</updated>
-    <published>2015-06-14T15:43:25Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-14T15:43:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>Libyan Islamists claim to drive Islamic State from port stronghold</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3123551/Libyan-Islamists-claim-drive-Islamic-State-port-stronghold.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T15:15:27Z</updated>
-    <published>2015-06-14T15:15:27Z</published>
-    <summary type="html">&lt;p&gt;Street fighting has raged for several days between members of the local Islamist umbrella group Majlis Mujahideen and Islamic State loyalists, who have been trying to increase their influence in the port city for more than a year.&lt;/p&gt;&lt;p&gt;A Majlis spokesman told local Libyan Nabaa TV that more than 70 Islamic State militants had surrendered during the fighting, in which some were severely wounded.&lt;/p&gt;&lt;p&gt;Forces from both governments have been fighting Islamic State but also each other in a conflict where military alliances are often fluid and based on local interests.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T15:15:27Z</dc:date>
-  </entry>
-  <entry>
-    <title>Syrian Kurds battle Islamic State for town at Turkish border</title>
-    <link rel="alternate" href="http://www.dailymail.co.uk/wires/reuters/article-3123509/Syrian-Kurds-battle-Islamic-State-town-Turkish-border.html?ITO=1490&amp;amp;ns_mchannel=rss&amp;amp;ns_campaign=1490" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T14:00:57Z</updated>
-    <published>2015-06-14T14:00:57Z</published>
-    <summary type="html">&lt;p&gt;YPG fighters were battling Islamic State militants at the eastern outskirts of Tel Abyad on Sunday, YPG spokesman Redur Xeili told Reuters.&lt;/p&gt;&lt;p&gt;An activist group, Raqqa is Being Slaughtered Silently, said on its Twitter feed that Islamic State had stripped a Tel Abyad hospital of all its equipment and had moved it to Raqqa city.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T14:00:57Z</dc:date>
-  </entry>
-  <entry>
-    <title>Syrian Kurds battle Islamic State for town at Turkish border</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/14/us-mideast-crisis-syria-idUSKBN0OU0LI20150614?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T13:48:00Z</updated>
-    <published>2015-06-14T13:48:00Z</published>
-    <summary type="html">&lt;p&gt;While dealing a blow to Islamic State, seizing Tel Abyad would help the YPG to link up Kurdish-controlled areas of northern Syria.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T13:48:00Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150614&amp;amp;t=2&amp;amp;i=1056149090&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXMPEB5D0AZ" />
   </entry>
 </feed>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tspiras battles for bailout programme approval</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0715/714852-greece/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T15:58:06Z</updated>
+    <published>2015-07-15T15:58:06Z</published>
+    <summary type="html">&lt;p&gt;But Germany insists on having the IMF in the negotiations to help keep Greece in line, and may countenance extending maturities for Greek debt provided there was no write down.&lt;/p&gt;&lt;p&gt;"Technically, this possibility exists," said finance ministry spokesman Martin Jaeger when asked about the option of extending the maturities of Greek debt to 30 years or so.&lt;/p&gt;&lt;p&gt;Fighting his own battle with Brussels to reform the EU, British Prime Minister David Cameron joined calls to give Greece debt relief but ruled out contributing to the bailout.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T15:58:06Z</dc:date>
+    <media:content url="http://img.rasset.ie/000adc0e-117.jpg" />
+  </entry>
+  <entry>
+    <title>Greek economy on its knees despite bailout deal</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Greek-economy-on-its-knees-despite-bailout-deal/articleshow/48087258.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T14:17:02Z</updated>
+    <published>2015-07-15T14:17:02Z</published>
+    <summary type="html">&lt;p&gt;Greece fell back into recession in the spring amid growing uncertainty over the country's future in the euro in the wake of the election triumph of the radical left Syriza party in January.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T14:17:02Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48087290,width-300,resizemode-4/Greece.jpg" />
+  </entry>
+  <entry>
     <title>Greek government suffers defections as austerity vote looms</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article27281152.html%23storylink=rss" />
     <author>
@@ -3751,38 +3775,5 @@
     <summary type="html" />
     <dc:date>2015-06-14T17:46:05Z</dc:date>
     <media:content url="http://ichef.bbci.co.uk/news/200/media/images/83620000/jpg/_83620862_94059d9f-00d7-4e04-9dbf-3f3f653ce58e.jpg" />
-  </entry>
-  <entry>
-    <title>Senior official says Germany won't be blackmailed by Greece</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/14/senior-official-says-germany-wont-be-blackmailed/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T15:46:34Z</updated>
-    <published>2015-06-14T15:46:34Z</published>
-    <summary type="html">&lt;p&gt;Greece said Friday it would present its creditors with new proposals over the weekend in an attempt to breathe life into stalled bailout talks amid fears the country could go bankrupt.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T15:46:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>Senior official says Germany won't be blackmailed by Greece</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/14/senior-official-says-germany-wont-be-blackmailed-by-greece" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T15:46:34Z</updated>
-    <published>2015-06-14T15:46:34Z</published>
-    <summary type="html">&lt;p&gt;Gabriel said "a couple of game theorists in the Greek government believe that in the end the fear in Europe that Greece might leave (the euro) is so great that we'll agree to anything. That's not the case."&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T15:46:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>Senior official says Germany won't be blackmailed by Greece</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Senior-official-says-Germany-won-t-be-blackmailed-6326392.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T15:46:34Z</updated>
-    <published>2015-06-14T15:46:34Z</published>
-    <summary type="html">&lt;p&gt;BERLIN (AP) - Germany's Economy Minister Sigmar Gabriel says his country won't let itself be blackmailed into a bailout deal with Greece.&lt;/p&gt;&lt;p&gt;Gabriel, who is also vice-chancellor, told German public broadcaster ARD on Sunday that Europe's patience with Greece is running out.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T15:46:34Z</dc:date>
   </entry>
 </feed>
