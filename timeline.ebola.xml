@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia confirms 2nd Ebola death in resurgent outbreak</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/15/liberia-confirms-2nd-ebola-death-in-resurgent/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T12:05:04Z</updated>
+    <published>2015-07-15T12:05:04Z</published>
+    <summary type="html">&lt;p&gt;Liberia lost more than 4,800 lives to Ebola before it contained transmission in May. These are the first known cases since then.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T12:05:04Z</dc:date>
+  </entry>
+  <entry>
     <title>N. Korea says its wonder drug can cure Ebola, AIDS, MERS &amp; SARS</title>
     <link rel="alternate" href="http://rt.com/news/268420-north-korea-drug-diseases/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=RSS" />
     <author>
