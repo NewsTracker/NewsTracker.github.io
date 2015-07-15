@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico's first auction of oil sites draws few bids</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11481864&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T20:35:20Z</updated>
+    <published>2015-07-15T20:35:20Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (AP) " Mexico is getting off to a rough start in its effort to attract investment for its oil fields by allowing private companies to enter the energy sector after a seven-decade state monopoly.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T20:35:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico opens oil sector to private companies with first auction, but draws few bids</title>
+    <link rel="alternate" href="http://www.startribune.com/mexico-s-first-auction-of-oil-sites-draws-few-bids/315500301/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T20:30:38Z</updated>
+    <published>2015-07-15T20:30:38Z</published>
+    <summary type="html">&lt;p&gt;Only two of 14 exploration and production blocks in the Gulf of Mexico put up for auction Wednesday attracted bids, and the auction did not attract the world's biggest oil companies.&lt;/p&gt;&lt;p&gt;Until last year's legislative overhaul, Mexico's oil sector had been closed to private companies since nationalization in 1938.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T20:30:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico's First Auction of Oil Sites Draws Few Bids</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexicos-auction-oil-sites-draws-bids-32477145" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T20:29:05Z</updated>
+    <published>2015-07-15T20:29:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T20:29:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico drug lord escape tunnel is audacious engineering feat</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/15/mexico-drug-lord-escape-tunnel-is-audacious/" />
     <author>
@@ -967,40 +1000,5 @@
     <published>2015-06-15T00:20:21Z</published>
     <summary type="html">&lt;p&gt;MEXICO CITY - The wife of Mexico's former President Felipe Calderon says she intends to run for president in the 2018 election.&lt;/p&gt;&lt;p&gt;Zabala said the party needs to find "a national leader of consensus" and narrow the gap between politicians and Mexico's voters, many of whom complain about corruption in government.&lt;/p&gt;</summary>
     <dc:date>2015-06-15T00:20:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>NY Gov: Escaped inmates could be close or 'in Mexico by now'</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/NY-rural-residents-on-edge-as-search-for-2-6326079.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T19:56:02Z</updated>
-    <published>2015-06-14T19:56:02Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-14T19:56:02Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/05/51/8149570/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>NY Gov: Escaped inmates could be close or 'in Mexico by now'</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article24146758.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T19:55:56Z</updated>
-    <published>2015-06-14T19:55:56Z</published>
-    <summary type="html">&lt;p&gt;Two convicted murders who used power tools to cut their way out of a prison near the Canadian border could be nearby or "in Mexico by now," New York Gov. Andrew Cuomo said Sunday.&lt;/p&gt;&lt;p&gt;"We don't know if they are still in the area or if they're in Mexico by now," Cuomo said in response to a question at a news conference on school aid in the New York City suburbs.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T19:55:56Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Carlos, Briefly a Hurricane, Weakens to a Tropical Storm</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/hurricane-warning-issued-carlos-gain-strength-speed-31751202" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T19:36:01Z</updated>
-    <published>2015-06-14T19:36:01Z</published>
-    <summary type="html">&lt;p&gt;Sergio Pina, 41, a business risk manager from Mexico City, stood among a group of spectators watching the wild weather.&lt;/p&gt;&lt;p&gt;Rain accumulations of 6 inches to 10 inches were possible in southwestern Mexico, with a chance for up to 15 inches in some areas, according to the hurricane center.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T19:36:01Z</dc:date>
   </entry>
 </feed>
