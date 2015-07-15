@@ -4,6 +4,77 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Clashes break out at Greek anti-austerity rally by thousands of protesters outside Parliament</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11481760&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T18:20:24Z</updated>
+    <published>2015-07-15T18:20:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T18:20:24Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201528/AP150624080213_140x93.jpg" />
+  </entry>
+  <entry>
+    <title>The Latest: Clashes break out at Athens anti-austerity march</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/the-latest-german-official-says-tsipras-criticism-/nmy3c/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T18:17:13Z</updated>
+    <published>2015-07-15T18:17:13Z</published>
+    <summary type="html">&lt;p&gt;Greece's parliament speaker has called a meeting that is delaying a Parliament debate on austerity cuts demanded by creditors.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T18:17:13Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/15/da/2e/824d113e8356484ea9b4f72728349eeb-7e7f75dbaa1941a9913bb0d47c4fd995-0.jpg" />
+  </entry>
+  <entry>
+    <title>Reluctant Tsipras fights to pass reforms in Greek parliament</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/07/15/greek-civil-servants-pharmacists-strike-against-bailout-reforms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T18:12:03Z</updated>
+    <published>2015-07-15T18:12:03Z</published>
+    <summary type="html">&lt;p&gt;Greece painted European countries, particularly Germany, as bullies, while the creditors said their trust in the Greek negotiators had all but evaporated.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T18:12:03Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297724771523_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Why Germany refuses to write off Greece's debts</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/why-germany-refuses-to-write-off-greeces-debts/nmzGf/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T15:59:41Z</updated>
+    <published>2015-07-15T15:59:41Z</published>
+    <summary type="html">&lt;p&gt;The International Monetary Fund says Greece's debts are too big to pay and need to be partly forgiven.&lt;/p&gt;&lt;p&gt;If pressed, Germany officials concede the IMF may be right in saying that Greece's debt pile is too big to pay, no matter how many years it gets to pay it.&lt;/p&gt;&lt;p&gt;Countries that have been through economic crises, like Spain, are also taking a tough position on Greece since they did the hard work of reducing their own debts through painful spending cuts.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T15:59:41Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/15/04/03/4d7c45f8e53545e1bd8b1bfdff82fa00-12f627ee4b0340fb874125c50e5b8ae8-0.jpg" />
+  </entry>
+  <entry>
+    <title>Why Germany refuses to write off Greece's debts</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/15/why-germany-refuses-to-write-off-greeces-debts/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T15:59:41Z</updated>
+    <published>2015-07-15T15:59:41Z</published>
+    <summary type="html">&lt;p&gt;German officials, led by Chancellor Angela Merkel and Finance Minister Wolfgang Schaeuble, say that as part of a new rescue package for Greece they will consider giving it more time to pay its debts and perhaps lower interest rates.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T15:59:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Violent protests as Greek parliament debates austerity bill</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/business/greece-protests-turn-violent-ahead-of-austerity-vote-1.3152371?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T06:27:55Z</updated>
+    <published>2015-07-15T06:27:55Z</published>
+    <summary type="html">&lt;p&gt;U.S. Treasury Secretary Jacob Lew was travelling to Europe to confer with leaders about the Greek crisis, and was to meet Wednesday in Frankfurt with ECB chief Mario Draghi.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T06:27:55Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3152396.1436953983!/cpImage/httpImage/image.jpg_gen/derivatives/original_300/greece-bailout.jpg" />
+  </entry>
+  <entry>
     <title>Tspiras battles for bailout programme approval</title>
     <link rel="alternate" href="http://www.rte.ie/news/2015/0715/714852-greece/" />
     <author>
@@ -708,18 +779,6 @@
     <summary type="html">&lt;p&gt;Assuaging those concerns is the task facing Euclid Tsakalotos, who has been Greek finance minister for barely a week, following the resignation of his outspoken predecessor Yanis Varoufakis.&lt;/p&gt;</summary>
     <dc:date>2015-07-11T23:30:05Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece says ready to resume talks, bridge gap with creditors</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greece-still-ready-negotiate-solution-180051732.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T18:37:10Z</updated>
-    <published>2015-06-14T18:37:10Z</published>
-    <summary type="html">&lt;p&gt;"Although during the leaders' meeting Greece was told to negotiate with the institutions, the institutions today said that they were not authorized to negotiate further," a Greek government official told Reuters.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T18:37:10Z</dc:date>
-    <media:content url="http://media.zenfs.com/284/2011/06/21/reuters-85x27_113626.gif" />
   </entry>
   <entry>
     <title>Greece struggling to convince creditors it's for real</title>
@@ -3706,74 +3765,5 @@
     <published>2015-06-14T19:45:41Z</published>
     <summary type="html">&lt;p&gt;An EU Commission official, who refused to be identified because of the sensitivity of the negotiations, said that "the talks did not succeed as there remains a significant gap between the plans of the Greek authorities and" the demands of the international creditors.&lt;/p&gt;</summary>
     <dc:date>2015-06-14T19:45:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>'Last attempt' to seal Greek deal with creditors fails</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/14/us-eurozone-greece-idUSKBN0OS0E020150614?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T19:21:45Z</updated>
-    <published>2015-06-14T19:21:45Z</published>
-    <summary type="html">&lt;p&gt;"While some progress was made, the talks did not succeed as there remains a significant gap between the plans of the Greek authorities and the joint requirements of Commission, ECB and IMF," it said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T19:21:45Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek bailout talks end without breakthrough in Brussels</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11465257&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T17:55:17Z</updated>
-    <published>2015-06-14T17:55:17Z</published>
-    <summary type="html">&lt;p&gt;BRUSSELS (AP) " The European Commission says that weekend talks to find common ground between international creditors and Greece were unsuccessful and left a wide rift that needs to be closed within two weeks to avoid a possible Greek default.&lt;/p&gt;&lt;p&gt;At the same time, Greece also stuck to a hard line on Sunday, with a government official saying that the country will never accept cuts in pensions and wages or extra taxes on necessities such as electricity.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T17:55:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece Says It Will Never Accept Wage, Pension Cuts</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/greece-accept-wage-pension-cuts-31759486" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T17:48:49Z</updated>
-    <published>2015-06-14T17:48:49Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-14T17:48:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece says it will never accept wage, pension cuts</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/14/greece-says-it-will-never-accept-wage-pension-cuts/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T17:46:34Z</updated>
-    <published>2015-06-14T17:46:34Z</published>
-    <summary type="html">&lt;p&gt;He added that Greece will no longer accept measures that undermine growth and has submitted proposals that cover creditors' demands for a primary budget surplus without doing so.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T17:46:34Z</dc:date>
-    <media:content url="http://media.utsandiego.com/img/photos/2015/06/14/045fb9fc8fe4591a790f6a7067009930_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
-  </entry>
-  <entry>
-    <title>Greece says it will never accept wage, pension cuts</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greece-says-it-will-never-accept-wage-pension-6326500.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T17:46:34Z</updated>
-    <published>2015-06-14T17:46:34Z</published>
-    <summary type="html">&lt;p&gt;ATHENS, Greece (AP) - Greece will never accept cuts in pensions and wages or extra taxes on necessities such as electricity, a government official says.&lt;/p&gt;&lt;p&gt;"These measures concern the popular classes and employees," said the official, who spoke on condition of anonymity because of the ongoing talks in Brussels between Greece and its creditors.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T17:46:34Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/37/05/50/8149509/5/920x920.jpg" />
-  </entry>
-  <entry>
-    <title>'No deal' with Greece as talks fail</title>
-    <link rel="alternate" href="http://www.bbc.co.uk/news/business-33125801%23sa-ns_mchannel=rss&amp;amp;ns_source=PublicRSS20-sa" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T17:46:05Z</updated>
-    <published>2015-06-14T17:46:05Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-14T17:46:05Z</dc:date>
-    <media:content url="http://ichef.bbci.co.uk/news/200/media/images/83620000/jpg/_83620862_94059d9f-00d7-4e04-9dbf-3f3f653ce58e.jpg" />
   </entry>
 </feed>

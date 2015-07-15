@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.S. delivers Iraqi antiquities seized in raid on Islamic State</title>
+    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/07/15/22507376.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T16:33:27Z</updated>
+    <published>2015-07-15T16:33:27Z</published>
+    <summary type="html">&lt;p&gt;BAGHDAD - The United States handed back to Iraq on Wednesday antiquities it said it had seized in a raid on Islamic State fighters in Syria, saying the haul was proof the militants were funding their war by smuggling ancient treasures.&lt;/p&gt;&lt;p&gt;The haul also included early Islamic coins.&lt;/p&gt;&lt;p&gt;Islamic State, a hardline Sunni Islamist group, has ransacked some of the greatest archaeological sites in northern Iraq, posting video footage of fighters destroying pre-Islamic monuments they consider idolatrous.&lt;/p&gt;&lt;p&gt;Iraqi officials have been unable to verify the full extent of damage at the sites under Islamic State control, but they have said that footage of the destruction was published in part to distract attention from the fact Islamic State is smuggling antiquities to raise cash.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T16:33:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt army says it foils attack on road to Red Sea coast</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27308440.html%23storylink=rss" />
     <author>
@@ -895,16 +906,5 @@
     <summary type="html">&lt;p&gt;But money and weapons alone won't be enough to repair the mistrust between Baghdad and the Sunni tribes it now needs to battle the Islamic State group, which holds about a third of the country and neighboring Syria in its self-declared "caliphate."&lt;/p&gt;</summary>
     <dc:date>2015-06-20T16:24:55Z</dc:date>
     <media:content url="http://media.utsandiego.com/img/photos/2015/06/20/e95b49458865ef1b790f6a7067006572_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
-  </entry>
-  <entry>
-    <title>Burial set for American killed fighting Islamic State</title>
-    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/06/14/burial-set-for-american-killed-fighting-islamic-state" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T16:25:15Z</updated>
-    <published>2015-06-14T16:25:15Z</published>
-    <summary type="html">&lt;p&gt;Broomfield, 20 from Massachusetts, died June 3 in battle in a Syrian village near Kobani, making him likely the first U.S. citizen to die fighting alongside Kurds against the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T16:25:15Z</dc:date>
   </entry>
 </feed>
