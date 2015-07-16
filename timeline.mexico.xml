@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico, Trinidad and Tobago draw in Gold Cup</title>
+    <link rel="alternate" href="http://www.miamiherald.com/sports/article27370504.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T04:00:04Z</updated>
+    <published>2015-07-16T04:00:04Z</published>
+    <summary type="html">&lt;p&gt;"We had an objective to get to the quarterfinals. We wanted to win the first game and get the result from Cuba (a 2-0 win on July 12), and not have to play Mexico to get to the quarterfinals."&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T04:00:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Mexico, Trinidad and Tobago draw in Gold Cup</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/sports/article27370504.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T04:00:04Z</updated>
+    <published>2015-07-16T04:00:04Z</published>
+    <summary type="html">&lt;p&gt;Two goals in stoppage time led to a 4-4 draw between Mexico and Trinidad and Tobago on Wednesday night in their final group match at the CONCACAF Gold Cup.&lt;/p&gt;&lt;p&gt;Tied 3-3 through regulation, Mexico pulled ahead on an own goal by Trinidad and Tobago defender Cordell Cato in the first minute of extra play.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T04:00:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Mexico searches nationwide for escaped drug lord</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11482068&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T01:35:19Z</updated>
+    <published>2015-07-16T01:35:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-16T01:35:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico City sets rules allowing Uber, other ride-share apps</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11481992&amp;amp;ref=rss" />
     <author>
@@ -988,16 +1023,5 @@
     <summary type="html">&lt;p&gt;Authorities resumed a search by air and ground Saturday in a New Mexico mountain range for a former White House chef who has now been missing for a week.&lt;/p&gt;&lt;p&gt;Scheib recently moved from Florida to Taos, New Mexico, and reportedly went for a hike on 13 June in the mountains near the Taos Ski Valley.&lt;/p&gt;</summary>
     <dc:date>2015-06-20T17:53:18Z</dc:date>
     <media:content url="ww.theguardian.com//i.guim.co.uk/media/w-300/h--/q-95/80e4b130cf68bce144a07675f634f9c607f90a64/0_305_2839_1703/500.jpg" />
-  </entry>
-  <entry>
-    <title>Tropical Storm Carlos Batters Mexico's Southwest Coast</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/tropical-storm-carlos-batters-mexicos-southwest-coast-31766312" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T04:02:48Z</updated>
-    <published>2015-06-15T04:02:48Z</published>
-    <summary type="html">&lt;p&gt;Officials ordered schools closed Monday and readied shelters along Mexico's southwestern coast as Tropical Storm Carlos battered beaches with high waves and strong wind as it swirled just offshore.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T04:02:48Z</dc:date>
   </entry>
 </feed>

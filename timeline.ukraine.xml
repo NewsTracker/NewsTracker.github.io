@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fighting surges in east Ukraine</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/fighting-surges-in-east-ukraine-20150716-gidcli.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T03:14:37Z</updated>
+    <published>2015-07-16T03:14:37Z</published>
+    <summary type="html">&lt;p&gt;Manouvering in the Donetsk region of Ukraine, where fighting has surged in recent days.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T03:14:37Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/d/n/a/9/image.related.articleLeadwide.620x349.gidcli.png/1437016388153.jpg" />
+  </entry>
+  <entry>
     <title>A year later, MH17 relatives grieve, wait for answers</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/a-year-later-mh17-relatives-grieve-wait-for-answer/nmy3K/" />
     <author>
