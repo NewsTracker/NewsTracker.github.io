@@ -5,6 +5,30 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>In Tech: Comcast games, Microsoft music, HBO online</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/In-Tech-Comcast-games-Microsoft-music-HBO-6388860.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T20:16:32Z</updated>
+    <published>2015-07-16T20:16:32Z</published>
+    <summary type="html">&lt;p&gt;Along with the new name, Microsoft promises redesigned menus and other new features when it releases Groove with Microsoft's new Windows 10 operating system later this month.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T20:16:32Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/56/60/8317962/11/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>In Tech: Comcast games, Microsoft music, HBO online</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/In-Tech-Comcast-games-Microsoft-music-HBO-6388860.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T20:16:32Z</updated>
+    <published>2015-07-16T20:16:32Z</published>
+    <summary type="html">&lt;p&gt;This screen shot provided by Microsoft shows the Groove Music...&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T20:16:32Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/56/60/8317962/11/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>In Tech: Comcast games, Microsoft music, HBO online</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article27407653.html%23storylink=rss" />
     <author>
       <name />

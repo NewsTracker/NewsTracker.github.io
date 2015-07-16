@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mh17.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Australia remembers MH17 victims</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-national/abbott-hopes-ceremony-brings-comfort-20150717-3zf6q.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T17:34:43Z</updated>
+    <published>2015-07-16T17:34:43Z</published>
+    <summary type="html">&lt;p&gt;Prime Minister Tony Abbott hopes a memorial ceremony for victims of the Malaysia Airlines MH17 plane wreck brings some comfort to the families left behind, one year on from the crash.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T17:34:43Z</dc:date>
+  </entry>
+  <entry>
     <title>1 year after 298 die in MH17 Ukraine crash, no clarity on cause or perpetrator</title>
     <link rel="alternate" href="http://www.startribune.com/little-certainty-1-year-after-airliner-shot-down-in-ukraine/315883861/" />
     <author>
