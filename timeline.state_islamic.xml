@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Muslim scholars use Ramadan to push for an Islamic renewal</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/15/muslim-scholars-use-ramadan-to-push-for-an/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T06:50:46Z</updated>
+    <published>2015-07-16T06:50:46Z</published>
+    <summary type="html">&lt;p&gt;ABU DHABI, United Arab Emirates (AP) - During the Islamic holy month of Ramadan, Muslims are called on to reflect on their faith as they conduct their daily fast.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T06:50:46Z</dc:date>
+    <media:content url="http://cdn.sandiegouniontrib.com/img/photos/2015/07/16/8324ca9bb5b4571f7c0f6a706700ae82_r900x493.JPEG?122770e84b36f1c039d5c4c2ca15c2d8bc4ecd52" />
+  </entry>
+  <entry>
     <title>During Ramadan, call for Islamic awakening resonates with Muslim scholars pushing for reform</title>
     <link rel="alternate" href="http://www.startribune.com/muslim-scholars-use-ramadan-to-push-for-an-islamic-renewal/315688681/" />
     <author>

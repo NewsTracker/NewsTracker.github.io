@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>European stocks jump after Greece approves austerity bill</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/energy/article/Most-Asia-stocks-rise-after-Greece-approves-6387709.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T09:25:18Z</updated>
+    <published>2015-07-16T09:25:18Z</published>
+    <summary type="html">&lt;p&gt;HONG KONG (AP) - European stocks jumped, leading gains in global benchmarks Thursday after Greek lawmakers approved an austerity bill needed for another bailout.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T09:25:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece seeks relief from lenders after first bailout test</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27374224.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T08:25:04Z</updated>
+    <published>2015-07-16T08:25:04Z</published>
+    <summary type="html">&lt;p&gt;They included Tsipras' powerful energy minister, the speaker of parliament, and Yanis Varoufakis, the former finance minister who headed Greece's bailout strategy until his replacement 10 days ago.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T08:25:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Greece seeks relief from lenders after first bailout test</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/16/greece-seeks-relief-from-lenders-after-first-bailout-test" />
     <author>
@@ -3751,38 +3774,5 @@
     <summary type="html">&lt;p&gt;The ECB has been steadily increasing the credit it allows Greek banks to draw on.&lt;/p&gt;&lt;p&gt;And in a statement Friday, the Bank of Greece sounded relatively optimistic, noting the "great effort" the Greek government has made to find common ground with creditors.&lt;/p&gt;&lt;p&gt;The hope is that technical talks between Greece and its creditors will resume over the weekend before another meeting of the eurozone's finance ministers on Monday in the lead-up to the leaders' summit.&lt;/p&gt;</summary>
     <dc:date>2015-06-19T10:39:04Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/ikisj9uV_2rvCZj.JoUvIw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_FINANCIALTIMES/35ebbe8a5d9dd01b790f6a7067002973_original.jpg" />
-  </entry>
-  <entry>
-    <title>Investors Rattled by Greek Bailout Impasse</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/investors-rattled-greek-bailout-impasse-31768908" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T09:32:34Z</updated>
-    <published>2015-06-15T09:32:34Z</published>
-    <summary type="html">&lt;p&gt;He urged Greece to resume negotiations as soon as possible with bailout lenders.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T09:32:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>Investors rattled by Greek bailout impasse</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11465653&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T08:50:17Z</updated>
-    <published>2015-06-15T08:50:17Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-15T08:50:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek talks failure hits shares, buoys low-risk debt</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/15/us-markets-global-idUSKBN0OU15F20150615?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T08:29:19Z</updated>
-    <published>2015-06-15T08:29:19Z</published>
-    <summary type="html">&lt;p&gt;Greek 10-year yields GR10YT=TWEB rose 61 bps to 12.44 percent.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T08:29:19Z</dc:date>
   </entry>
 </feed>
