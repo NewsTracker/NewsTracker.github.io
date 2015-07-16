@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA official nabbed in Swiss raids extradited to U.S.</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/fifa-official-switzerland-corruption-bribery-raids-extradited-to-us/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T13:02:17Z</updated>
+    <published>2015-07-16T13:02:17Z</published>
+    <summary type="html">&lt;p&gt;Both have been suspended from football duty by FIFA's ethics committee.&lt;/p&gt;&lt;p&gt;U.S. authorities have said more indictments should follow, and FIFA President Sepp Blatter is a target of the widening case.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T13:02:17Z</dc:date>
+    <media:content url="http://cbsnews1.cbsistatic.com/hub/i/r/2015/05/27/144c144d-00c0-4d79-8f7b-85e2067ec4b3/thumbnail/620x350/72e19a6c60b153315b0f8b47c329b055/rtx1ese1.jpg" />
+  </entry>
+  <entry>
+    <title>Switzerland extradites first official to U.S. in FIFA case</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/switzerland-extradites-first-official-to-us-in-fifa-case/article25526611/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T11:26:47Z</updated>
+    <published>2015-07-16T11:26:47Z</published>
+    <summary type="html">&lt;p&gt;They did not name the official, but the news came six days after a source told Reuters that Jeffrey Webb - one of seven current and former FIFA employees arrested in Switzerland in May - had agreed not to fight his extradition.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T11:26:47Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/e54/news/world/article25526610.ece/ALTERNATES/w220/CNEWS_US_SOCCER_FIFA_SWISS.JPG" />
+  </entry>
+  <entry>
     <title>Switzerland 'extradites' official to US in FIFA case</title>
     <link rel="alternate" href="http://www.aljazeera.com/news/2015/07/switzerland-extradites-official-fifa-case-150716092154426.html" />
     <author>
