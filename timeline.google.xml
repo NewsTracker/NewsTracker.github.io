@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google wins dismissal of Android privacy lawsuit</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/16/us-google-privacy-lawsuit-idUSKCN0PQ1QK20150716?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T14:51:20Z</updated>
+    <published>2015-07-16T14:51:20Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-16T14:51:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google wins dismissal of Android privacy lawsuit</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/16/google-privacy-lawsuit-idUSL2N0ZW0UB20150716?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T14:49:36Z</updated>
+    <published>2015-07-16T14:49:36Z</published>
+    <summary type="html">&lt;p&gt;Google did not immediately respond to a similar request.&lt;/p&gt;&lt;p&gt;Grewal said it would unfairly prejudice Google to let the plaintiffs amend their lawsuit again.&lt;/p&gt;&lt;p&gt;The case is In re: Google Inc Privacy Policy Litigation, U.S. District Court, Northern District of California, No.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T14:49:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Google unveils buying button in mobile shopping ads</title>
     <link rel="alternate" href="http://www.chron.com/business/technology/article/Google-unveils-buying-button-in-mobile-shopping-6386520.php" />
     <author>

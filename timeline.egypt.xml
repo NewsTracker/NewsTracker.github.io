@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State affiliate Sinai Province claims attack on Egypt navy vessel</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/islamic-state-affiliate-sinai-province-claims-attack-on-egypt-navy-vessel-20150716-gie8az" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T14:42:04Z</updated>
+    <published>2015-07-16T14:42:04Z</published>
+    <summary type="html">&lt;p&gt;Cairo: Egypt's Islamic State affiliate said on Thursday it fired a rocket at an Egyptian naval vessel in the Mediterranean Sea near the coast of Israel and the Gaza Strip.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T14:42:04Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/e/8/d/n/image.related.articleLeadwide.620x349.gie8az.png/1437057710413.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State affiliate Sinai Province claims attack on Egypt navy vessel</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/islamic-state-affiliate-sinai-province-claims-attack-on-egypt-navy-vessel-20150716-gie8az" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T14:42:04Z</updated>
+    <published>2015-07-16T14:42:04Z</published>
+    <summary type="html">&lt;p&gt;Such incidents at sea are rare, though Egypt is battling an increasingly brazen Islamist insurgency in the peninsula that lies between Israel, the Gaza Strip and the Suez Canal.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T14:42:04Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/e/8/d/n/image.related.articleLeadwide.620x349.gie8az.png/1437057710413.jpg" />
+  </entry>
+  <entry>
+    <title>ISIL affiliate in Egypt says it destroyed one of country’s navy vessels with rocket fire</title>
+    <link rel="alternate" href="http://news.nationalpost.com/news/world/isil-affiliate-in-egypt-says-it-destroyed-one-of-countrys-navy-vessels-with-rocket-fire" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T14:19:41Z</updated>
+    <published>2015-07-16T14:19:41Z</published>
+    <summary type="html">&lt;p&gt;CAIRO - The Islamic State's affiliate in Egypt's Sinai says it has destroyed an Egyptian navy vessel with a rocket off the strategic peninsula's Mediterranean coast.&lt;/p&gt;&lt;p&gt;Egypt's military spokesman, Brig.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T14:19:41Z</dc:date>
+    <media:content url="http://wpmedia.news.nationalpost.com/2015/07/542631954.jpg?w=620" />
+  </entry>
+  <entry>
     <title>Egyptian Cabinet decides to rename square where Islamists protested to honor slain prosecutor</title>
     <link rel="alternate" href="http://www.startribune.com/egypt-decides-to-rename-square-to-honor-slain-prosecutor/315423201/" />
     <author>
