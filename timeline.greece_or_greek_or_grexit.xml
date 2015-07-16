@@ -4,6 +4,50 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece seeks relief from lenders after first bailout test</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/16/greece-seeks-relief-from-lenders-after-first-bailout-test" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T05:35:42Z</updated>
+    <published>2015-07-16T05:35:42Z</published>
+    <summary type="html">&lt;p&gt;Dangerously low on liquidity at banks and with the state practically out of cash, Greece desperately needs funds.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T05:35:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek Bailout Deal Spurs Violent Protests</title>
+    <link rel="alternate" href="http://time.com/3960349/greece-europe-lenders-relief/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+time%2Fworld+%28TIME%3A+Top+World+Stories%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T05:30:36Z</updated>
+    <published>2015-07-16T05:30:36Z</published>
+    <summary type="html">&lt;p&gt;In a post-midnight vote, Greece's parliament voted 229-64 to implement more austerity measures that include pension cuts and sweeping sales tax hikes.&lt;/p&gt;&lt;p&gt;The European Commission has proposed giving Greece 7 billion euros in loans from a special fund overseen by all 28 EU nations so it can meet its upcoming debts.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T05:30:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>European Central Bank chief Draghi faces Greece questions</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27374527.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T04:20:04Z</updated>
+    <published>2015-07-16T04:20:04Z</published>
+    <summary type="html">&lt;p&gt;The other big Greek issue at the meeting will likely be Draghi re-stating that the bank is willing to use all the stimulus measures at its disposal to prevent turmoil from Greece spreading to government bond markets or the economies of other countries.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T04:20:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>European Central Bank chief Draghi faces Greece questions</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/16/european-central-bank-chief-draghi-faces-greece-questions" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T04:13:00Z</updated>
+    <published>2015-07-16T04:13:00Z</published>
+    <summary type="html">&lt;p&gt;FRANKFURT, Germany (AP) - European Central Bank head Mario Draghi faces a blizzard of questions about Greece at his news conference Thursday.&lt;/p&gt;&lt;p&gt;Greece desperately needs the ECB to start letting Greek banks tap emergency central bank credit.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T04:13:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Most Asia stocks rise after Greece approves austerity bill</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article27302083.html%23storylink=rss" />
     <author>
@@ -3740,28 +3784,5 @@
     <published>2015-06-15T08:29:19Z</published>
     <summary type="html">&lt;p&gt;Greek 10-year yields GR10YT=TWEB rose 61 bps to 12.44 percent.&lt;/p&gt;</summary>
     <dc:date>2015-06-15T08:29:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Asian stocks bruised as Greek default fears rise</title>
-    <link rel="alternate" href="http://www.cnbc.com/id/102758015" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T05:25:00Z</updated>
-    <published>2015-06-15T05:25:00Z</published>
-    <summary type="html">&lt;p&gt;"We don't want any more money," Varoufakis said, adding that Germany and the rest of the Eurozone had already given Greece "far too much" money.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T05:25:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Varoufakis rules out 'Grexit', deal possible if Merkel takes part</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/varoufakis-rules-grexit-deal-possible-033921912.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T04:30:02Z</updated>
-    <published>2015-06-15T04:30:02Z</published>
-    <summary type="html">&lt;p&gt;BERLIN (Reuters) - Greece Finance Minister Yanis Varoufakis said he could rule out a 'Grexit' because it would not be a sensible solution to the Greek debt crisis and in a German newspaper interview on Monday also said a debt restructuring was the only way forward.&lt;/p&gt;&lt;p&gt;He said the only way Greece would be able to repay its debts was if there was a restructuring and a deal could be possible if Chancellor Angela Merkel took part in the talks.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T04:30:02Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/KwcGNS34YafYSZ0gwG6nyQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-06-15T043002Z_2_LYNXMPEB5E048_RTROPTP_3_CBUSINESS-US-EUROZONE-GREECE-IMF_original.jpg" />
   </entry>
 </feed>
