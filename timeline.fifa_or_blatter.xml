@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA hires crisis consultants as first official extradited to U.S.</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/17/fifa-hires-crisis-consultants-first-official-extradited-us" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T19:02:08Z</updated>
+    <published>2015-07-16T19:02:08Z</published>
+    <summary type="html">&lt;p&gt;The allegations have roiled the world's most popular sport, prompting FIFA President Sepp Blatter to say he plans to step down and raising uncomfortable questions for the body's corporate sponsors.&lt;/p&gt;&lt;p&gt;Amid an international uproar, Blatter announced days after the arrests that he would lay down his mandate at an extraordinary FIFA Congress which will take place between December and February, and would not stand again.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T19:02:08Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-16T171501Z_1_LYNXNPEB6F10A_RTROPTP_2_CSPORTS-US-SOCCER-FIFA-TRANSPARENCY.JPG?itok=iGDzoBjj" />
+  </entry>
+  <entry>
+    <title>Ex-FIFA Executive Jeffrey Webb Extradited to U.S.</title>
+    <link rel="alternate" href="http://www.nytimes.com/2015/07/17/sports/soccer/ex-fifa-executive-jeffrey-webb-extradited-to-us.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T18:14:26Z</updated>
+    <published>2015-07-16T18:14:26Z</published>
+    <summary type="html">&lt;p&gt;Blatter has not been charged.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T18:14:26Z</dc:date>
+    <media:content url="http://static01.nyt.com/images/2015/07/11/sports/Y-FIFA/Y-FIFA-thumbStandard.jpg" />
+  </entry>
+  <entry>
+    <title>Swiss Extradite Detained FIFA Official to the United States</title>
+    <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/swiss-extradite-detained-fifa-official-united-states-32485677" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T15:58:23Z</updated>
+    <published>2015-07-16T15:58:23Z</published>
+    <summary type="html">&lt;p&gt;FILE - In this May 27, 2015, file photo, two persons are reflected in the FIFA logo at the FIFA headquarters in Zurich, Switzerland.&lt;/p&gt;&lt;p&gt;Switzerland's Federal Office of Justice didn't identify the FIFA official.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T15:58:23Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/Sports/WireAP_516940a8e2d24d22bcc848191700520a_16x9_992.jpg" />
+  </entry>
+  <entry>
     <title>FIFA official nabbed in Swiss raids extradited to U.S.</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/fifa-official-switzerland-corruption-bribery-raids-extradited-to-us/" />
     <author>
