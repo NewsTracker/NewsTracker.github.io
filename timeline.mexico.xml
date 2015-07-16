@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico City sets rules allowing Uber, other ride-share apps</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11481992&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T23:30:26Z</updated>
+    <published>2015-07-15T23:30:26Z</published>
+    <summary type="html">&lt;p&gt;In a statement, Uber commended the regulations issued Wednesday and said Mexico City was the largest in the world to take such a step.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T23:30:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico City publishes regulations allowing Uber and other smartphone-based ride-sharing apps</title>
+    <link rel="alternate" href="http://www.startribune.com/mexico-city-sets-rules-allowing-uber-other-ride-share-apps/315576771/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T23:25:19Z</updated>
+    <published>2015-07-15T23:25:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T23:25:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico City Sets Rules Allowing Uber, Other Ride-Share Apps</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexico-city-sets-rules-allowing-uber-ride-share-32479974" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T23:24:03Z</updated>
+    <published>2015-07-15T23:24:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T23:24:03Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico's first auction of oil sites draws few bids</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11481864&amp;amp;ref=rss" />
     <author>
@@ -966,39 +999,5 @@
     <published>2015-06-15T04:02:48Z</published>
     <summary type="html">&lt;p&gt;Officials ordered schools closed Monday and readied shelters along Mexico's southwestern coast as Tropical Storm Carlos battered beaches with high waves and strong wind as it swirled just offshore.&lt;/p&gt;</summary>
     <dc:date>2015-06-15T04:02:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Former first lady in Mexico says she will compete for the presidency in 2018 election</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/06/14/former-first-lady-in-mexico-says-will-compete-for-presidency-in-2018-election/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T00:15:05Z</updated>
-    <published>2015-06-15T00:15:05Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this Jan. 13, 2008, file photo, Mexico's former president Felipe Calderon, right, accompanied by his wife Margarita Zabala, waves upon their arrival to a military airport in Guatemala City.&lt;/p&gt;&lt;p&gt;Zabala announced on Sunday, June 14, 2015, her intention to run for president of Mexico in the 2018 elections.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T00:15:05Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/06/15/876/493/Mexico%20Former%20First%20Lady-1.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Ex-first lady says she'll seek Mexico's presidency in 2018</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11465451&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T00:20:22Z</updated>
-    <published>2015-06-15T00:20:22Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-15T00:20:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>Former first lady in Mexico says she will compete for the presidency in 2018 election</title>
-    <link rel="alternate" href="http://www.startribune.com/ex-first-lady-says-she-ll-seek-mexico-s-presidency-in-2018/307314591/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T00:20:21Z</updated>
-    <published>2015-06-15T00:20:21Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY - The wife of Mexico's former President Felipe Calderon says she intends to run for president in the 2018 election.&lt;/p&gt;&lt;p&gt;Zabala said the party needs to find "a national leader of consensus" and narrow the gap between politicians and Mexico's voters, many of whom complain about corruption in government.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T00:20:21Z</dc:date>
   </entry>
 </feed>

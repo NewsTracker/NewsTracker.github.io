@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>GREECE LATEST-Greek parliament approves sweeping package of austerity measures</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/16/eurozone-greece-latest-idUSL8N0ZR0TG20150716?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T00:04:51Z</updated>
+    <published>2015-07-16T00:04:51Z</published>
+    <summary type="html">&lt;p&gt;1833 - Greek anti-establishment protesters threw dozens of petrol bombs at police in front of parliament ahead of a key vote on a bailout deal, in some of the most serious violence in over two years.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T00:04:51Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek Parliament Passes Austerity Bill Needed as 1st Step to Open Bailout Negotiations</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/greek-parliament-passes-austerity-bill-needed-1st-step-32479902" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T22:55:33Z</updated>
+    <published>2015-07-15T22:55:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T22:55:33Z</dc:date>
+  </entry>
+  <entry>
+    <title>Former Greek FM Yanis Varoufakis votes against government on Greek austerity bill</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11481969&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T22:55:18Z</updated>
+    <published>2015-07-15T22:55:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T22:55:18Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201528/AP150624080213_140x93.jpg" />
+  </entry>
+  <entry>
+    <title>Energy stocks lead US market lower; investor wait on Greece</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/energy/article/US-stocks-open-with-small-gains-as-investor-6385910.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T21:30:23Z</updated>
+    <published>2015-07-15T21:30:23Z</published>
+    <summary type="html">&lt;p&gt;Stocks have surged in the past week as a slump in China's stock market abated and Greece reached a deal with its creditors for more loans to avoid bankruptcy and a possible exit from the euro.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T21:30:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Reluctant Greek Prime Minister Alexis Tsipras fights to pass reforms in Greek parliament</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/reluctant-greek-prime-minister-alexis-tsipras-fights-to-pass-reforms-in-greek-parliament-20150715-gidayi" />
     <author>
@@ -3718,29 +3763,5 @@
     <published>2015-06-15T01:33:12Z</published>
     <summary type="html" />
     <dc:date>2015-06-15T01:33:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece last-chance IMF talks end with no deal</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-06-15/greece-last-chance-talks-end-with-no-deal/6545624" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-15T00:19:45Z</updated>
-    <published>2015-06-15T00:19:45Z</published>
-    <summary type="html">&lt;p&gt;Last-ditch talks between Greece and its EU-IMF creditors have ended with no deal on Sunday, setting the countdown towards a disastrous default by Athens with the threat of a Greek exit from the euro closer than ever.&lt;/p&gt;</summary>
-    <dc:date>2015-06-15T00:19:45Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/6545688-3x2-340x227.jpg" />
-  </entry>
-  <entry>
-    <title>Greece And Creditors Fail in 'Last Attempt' To Reach Deal</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/economy-policy/2015/06/12/merkel-urges-greece-creditors-to-keep-at-talking/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Flatest+%28Internal+-+Latest+News+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-14T23:00:50Z</updated>
-    <published>2015-06-14T23:00:50Z</published>
-    <summary type="html">&lt;p&gt;Failure to keep Greece in the euro, after years of arduous negotiations and two emergency bailouts totaling 240 billion euros, would send it lurching into the unknown and mark a historic blow to the EU's most ambitious project.&lt;/p&gt;</summary>
-    <dc:date>2015-06-14T23:00:50Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/876/493/Bank-of-Greece-Statue-Greek-Flag-Building.jpg?ve=1&amp;amp;tl=1" />
   </entry>
 </feed>
