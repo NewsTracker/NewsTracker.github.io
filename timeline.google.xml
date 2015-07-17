@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google shares soar as YouTube growth allays fears over Facebook</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-google-research-idUSKCN0PR1FG20150717?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T15:27:47Z</updated>
+    <published>2015-07-17T15:27:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-17T15:27:47Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources_v2/images/rcom-logo-hdr.png" />
+  </entry>
+  <entry>
     <title>Google boosts Nasdaq futures; Dow, S&amp;P flat</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-markets-stocks-usa-idUSKCN0PR18H20150717?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>

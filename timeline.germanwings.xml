@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>EU panel urges pilot screening after Germanwings crash</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-07-18/eu-panel-urges-pilot-screening-after-germanwings-crash/6629876" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T14:36:30Z</updated>
+    <published>2015-07-17T14:36:30Z</published>
+    <summary type="html">&lt;p&gt;That would go beyond the traditional regulations and may have alerted colleagues sooner to the condition of the Germanwings pilot.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T14:36:30Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/6355202-3x2-340x227.jpg" />
+  </entry>
+  <entry>
     <title>EU urges pilot screening after Germanwings crash</title>
     <link rel="alternate" href="http://www.rte.ie/news/2015/0717/715434-european-airlines/" />
     <author>
