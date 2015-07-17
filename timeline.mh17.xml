@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>New footage emerges of MH17 crash</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-national/mh17-video-shows-it-was-no-accident-pm-20150717-3zf6t.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T17:45:15Z</updated>
+    <published>2015-07-16T17:45:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-16T17:45:15Z</dc:date>
+  </entry>
+  <entry>
+    <title>New footage emerges of MH17 crash</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/17/new-footage-emerges-mh17-crash" />
     <author>
       <name />
