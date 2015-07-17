@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Both sides of Ukraine's war mark 1 year since MH17 downing</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/ct-mh17-anniversary-20150717-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T11:38:00Z</updated>
+    <published>2015-07-17T11:38:00Z</published>
+    <summary type="html">&lt;p&gt;Speaking in Kiev late Thursday, Ukrainian President Petro Poroshenko said the flight was the victim of a "terrorist attack launched from the territory occupied by Russian-backed militants in the east of Ukraine."&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T11:38:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine calls local elections but not in rebel-held east</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/17/ukraine-calls-local-elections-but-not-in-rebel/" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Big weekend arrives for Favre, joining Packers Hall of Fame (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/big-weekend-favre-joining-packers-hall-fame-191213946--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T20:27:02Z</updated>
+    <published>2015-07-17T20:27:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-17T20:27:02Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Ex-girlfriend of Kurt Busch resigns from military charity (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/ex-girlfriend-kurt-busch-resigns-veterans-charity-195940308--spt.html" />
     <author>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Holmes will join many other mentally ill inmates in prison</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/07/17/despite-quick-conviction-theater-shooting-trial-isnt-over" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T20:45:37Z</updated>
+    <published>2015-07-17T20:45:37Z</published>
+    <summary type="html">&lt;p&gt;Despite having convicted Holmes in the killings, jurors must still determine whether to put Holmes on death row for opening fire in the crowded movie theater.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T20:45:37Z</dc:date>
+  </entry>
+  <entry>
     <title>Ian McKellen delivers in 'Mr. Holmes'</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/movies-news-reviews/article27490408.html%23storylink=rss" />
     <author>
