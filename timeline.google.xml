@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cr-ouch! Google self-driving car has first injury accident</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/crouch-google-selfdriving-car-has-first-injury-accident-31383692.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T00:31:09Z</updated>
+    <published>2015-07-17T00:31:09Z</published>
+    <summary type="html">&lt;p&gt;Google has said that its car has not caused any of the collisions, though in 2011 an employee who took a car to run an errand rear-ended another vehicle while the Google car was out of self-driving mode.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T00:31:09Z</dc:date>
+    <media:content url="http://cdn2.belfasttelegraph.co.uk/news/world-news/article31383691.ece/6a03b/ALTERNATES/h342/PANews%20BT_P-0ebddfbc-a765-46e7-9d4b-22a6b6e1500c_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Google self-driving car involved in first injury accident</title>
+    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28495535/google-self-driving-car-involved-first-injury-accident?source=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T00:30:23Z</updated>
+    <published>2015-07-17T00:30:23Z</published>
+    <summary type="html">&lt;p&gt;Google revealed Thursday that one of its self-driving car prototypes was involved in an injury accident for the first time.&lt;/p&gt;&lt;p&gt;In the collision, a Lexus SUV that the tech giant outfitted with sensors and cameras was rear-ended in Google's home city of Mountain View, where more than 20 prototypes have been self-maneuvering through traffic.&lt;/p&gt;&lt;p&gt;Google's SUV was going about 15 mph in self-driving mode behind two other cars as the group approached an intersection with a green light.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T00:30:23Z</dc:date>
+    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0511/20150511__0512selfdrive%7E1.JPG" />
+  </entry>
+  <entry>
     <title>Google's 2Q signals new era of austerity with new CFO</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11482516&amp;amp;ref=rss" />
     <author>
