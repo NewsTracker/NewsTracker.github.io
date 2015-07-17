@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ex-girlfriend of Kurt Busch resigns from military charity (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/ex-girlfriend-kurt-busch-resigns-veterans-charity-195940308--spt.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T22:08:04Z</updated>
+    <published>2015-07-16T22:08:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-16T22:08:04Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/LQaBpBdTiVSogkgRG6RxfQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507161505543194914" />
+  </entry>
+  <entry>
     <title>Steelers sign defensive end Cam Heyward to 6-year contract (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/steelers-sign-defensive-end-cam-heyward-6-contract-014254556--nfl.html" />
     <author>
