@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Liberia says 4 remaining Ebola patients have recovered</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/health/liberia-says-4-remaining-ebola-patients-have-recovered-1.2474199" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T17:02:00Z</updated>
+    <published>2015-07-17T17:02:00Z</published>
+    <summary type="html">&lt;p&gt;MONROVIA, Liberia -- The four remaining patients infected during Liberia's recent string of Ebola cases have recovered, meaning there are currently no confirmed cases in the country though more than 100 people are still under surveillance, a health official said Friday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T17:02:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Liberia says 4 remaining Ebola patients have recovered</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11483039&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T16:45:21Z</updated>
+    <published>2015-07-17T16:45:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-17T16:45:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Liberia confirms 2nd Ebola death in resurgent outbreak</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/liberia-confirms-2nd-ebola-death-in-resurgent-outb/nmy8b/" />
     <author>

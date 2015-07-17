@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google blames humans for self-driving crashes - again</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/07/17/22511736.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T17:47:16Z</updated>
+    <published>2015-07-17T17:47:16Z</published>
+    <summary type="html">&lt;p&gt;DETROIT - One of Google Inc's self-driving cars was involved in an accident early in July, in which three employees were injured when a vehicle equipped with Google technology was rear-ended by another vehicle, the company said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T17:47:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google self-driving car was rear-ended early July, causing injuries</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/07/17/22511736.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T17:47:16Z</updated>
+    <published>2015-07-17T17:47:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-17T17:47:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Etsy shares spike after Google mention</title>
+    <link rel="alternate" href="http://www.cnbc.com/2015/07/17/etsy-shares-soar-after-google-mention.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T17:21:00Z</updated>
+    <published>2015-07-17T17:21:00Z</published>
+    <summary type="html">&lt;p&gt;Shares of e-commerce website Etsy jumped as much as 30 percent on Friday thanks to a nod from Google during its quarterly conference call.&lt;/p&gt;&lt;p&gt;"It started with (the) Google commentary last night," Wedbush analyst Gil Luria said, adding that short sellers closing their bets were driving the stock up further.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T17:21:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/16/102840624-c2967d5b1259ab2becba3ac73f8f74a6cae48a01.80x60.jpg?v=1437074264" />
+  </entry>
+  <entry>
     <title>Google shares soar as YouTube growth allays fears over Facebook</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-google-research-idUSKCN0PR1FG20150717?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
