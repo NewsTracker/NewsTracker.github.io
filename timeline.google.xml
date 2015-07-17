@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google boosts Nasdaq futures; Dow, S&amp;P flat</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-markets-stocks-usa-idUSKCN0PR18H20150717?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T11:43:30Z</updated>
+    <published>2015-07-17T11:43:30Z</published>
+    <summary type="html">&lt;p&gt;* Google jumped 12 percent to $674.55, poised to open at a record high, a day after its profit beat forecasts for the first time in six quarters and the company said it would be more disciplined on spending.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T11:43:30Z</dc:date>
+  </entry>
+  <entry>
     <title>Google employees injured when self-driving SUV rear-ended</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/national/google-employees-injured-self-driving-suv-rear-ended-article-1.2295302?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
     <author>

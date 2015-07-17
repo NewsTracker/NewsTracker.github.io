@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Movie review: 'Mr Holmes' makes Sherlock seem real</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/movies-news-reviews/article27473875.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T08:00:00Z</updated>
+    <published>2015-07-17T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;In "Mr. Holmes," Ian McKellen and director Bill Condon reunite for another story about an aging man confronting his mortality.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T08:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Despite quick conviction, trial of Colorado theater shooter James Holmes is far from over</title>
     <link rel="alternate" href="http://www.startribune.com/despite-quick-conviction-theater-shooting-trial-isn-t-over/316095901/" />
     <author>

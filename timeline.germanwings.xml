@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>EU urges pilot screening after Germanwings crash</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0717/715434-european-airlines/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T12:09:44Z</updated>
+    <published>2015-07-17T12:09:44Z</published>
+    <summary type="html">&lt;p&gt;All airline pilots should undergo psychological screening and allow details of medical visits to be shared in a proposed European database, according to recommendations delivered to the European Commission in the wake of the Germanwings disaster.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T12:09:44Z</dc:date>
+    <media:content url="http://img.rasset.ie/000a5ab1-642.jpg" />
+  </entry>
+  <entry>
+    <title>EU task force seeks mental exams, drug tests for pilots</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/eu-task-force-seeks-mental-exams-drug-tests-for-pi/nm2NW/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T11:59:22Z</updated>
+    <published>2015-07-17T11:59:22Z</published>
+    <summary type="html">&lt;p&gt;A European Union task force is recommending pre-employment psychological evaluations and random drug and alcohol tests for pilots to prevent a repeat of the Germanwings disaster.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T11:59:22Z</dc:date>
+  </entry>
+  <entry>
+    <title>Europe to vet pilots for mental illness after Germanwings tragedy</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/europe-to-vet-pilots-for-mental-illness-after-germanwings-tragedy-20150717-gif3yj.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T10:38:48Z</updated>
+    <published>2015-07-17T10:38:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-17T10:38:48Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/f/3/u/p/image.related.articleLeadwide.620x349.gif3yj.png/1437129511308.jpg" />
+  </entry>
+  <entry>
     <title>Germanwings co-pilot Lubitz's estate is declared bankrupt</title>
     <link rel="alternate" href="http://www.seattlepi.com/news/world/article/Germanwings-co-pilot-Lubitz-s-estate-is-declared-6377253.php" />
     <author>

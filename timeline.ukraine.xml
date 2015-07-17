@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine calls local elections but not in rebel-held east</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/17/ukraine-calls-local-elections-but-not-in-rebel/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T12:10:00Z</updated>
+    <published>2015-07-17T12:10:00Z</published>
+    <summary type="html">&lt;p&gt;KIEV, Ukraine (AP) - The Ukrainian parliament has voted to call a local election across the country in October, but not in the rebel-occupied east.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T12:10:00Z</dc:date>
+    <media:content url="http://cdn.sandiegouniontrib.com/img/photos/2015/07/17/6f40a730df62711f7c0f6a706700c530_r900x493.JPEG?122770e84b36f1c039d5c4c2ca15c2d8bc4ecd52" />
+  </entry>
+  <entry>
     <title>Ukraine, Australia mark sombre anniversary of Malaysian jet's downing</title>
     <link rel="alternate" href="http://www.cbc.ca/news/world/malaysia-airlines-flight-mh17-ukraine-australia-mark-sombre-1-year-anniversary-1.3156260?cmp=rss" />
     <author>
