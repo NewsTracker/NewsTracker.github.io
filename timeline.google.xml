@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google employees injured when self-driving SUV rear-ended</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/national/google-employees-injured-self-driving-suv-rear-ended-article-1.2295302?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T05:38:00Z</updated>
+    <published>2015-07-17T05:38:00Z</published>
+    <summary type="html">&lt;p&gt;The Google car and the other car in front of it also stopped.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T05:38:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Cr-ouch! Google self-driving car has first injury accident</title>
     <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/crouch-google-selfdriving-car-has-first-injury-accident-31383692.html" />
     <author>
