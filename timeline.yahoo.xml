@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Steven Gerrard scores in MLS debut, Galaxy rout Quakes 5-2 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/steven-gerrard-scores-mls-debut-galaxy-rout-quakes-051421438--mls.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T06:23:53Z</updated>
+    <published>2015-07-18T06:23:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-18T06:23:53Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/LgfsiuEnMpUB1VXaeISshA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507172306831661821" />
+  </entry>
+  <entry>
     <title>Jules Bianchi dies from injuries sustained in 2014 crash (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/jules-bianchi-dies-injuries-sustained-2014-crash-020208558--f1.html" />
     <author>
