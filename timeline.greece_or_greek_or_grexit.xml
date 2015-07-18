@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New Greek ministers sworn in after reshuffle</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/18/us-eurozone-greece-idUSKCN0PR29W20150718?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T09:38:17Z</updated>
+    <published>2015-07-18T09:38:17Z</published>
+    <summary type="html">&lt;p&gt;ATHENS New ministers in Greek Prime Minister Alexis Tsipras' government were sworn in on Saturday after a reshuffle expelled dissidents from his cabinet and began a new phase of negotiations for a third bailout package.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T09:38:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>European Finance Officials Agree ‘in Principle’ on New Greek Bailout</title>
+    <link rel="alternate" href="http://www.nytimes.com/2015/07/17/business/international/european-central-bank-meeting-greece.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T18:57:57Z</updated>
+    <published>2015-07-16T18:57:57Z</published>
+    <summary type="html">&lt;p&gt;"Our mandate is to act based on the assumption Greece will be a member of the euro area," Mr. Draghi said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T18:57:57Z</dc:date>
+    <media:content url="http://static01.nyt.com/images/2015/07/15/business/15imf-web/15imf-web-thumbStandard.jpg" />
+  </entry>
+  <entry>
     <title>Dozens flee homes as wildfires rage in Greece, PM urges calm</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/dozens-flee-homes-as-wildfires-rage-in-greece-pm-urges-calm-20150718-gif7r2.html" />
     <author>
