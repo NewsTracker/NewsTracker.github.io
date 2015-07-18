@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.germanwings.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Attorney for Germanwings victims says compensation too low</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/18/attorney-for-germanwings-victims-says/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T15:47:56Z</updated>
+    <published>2015-07-18T15:47:56Z</published>
+    <summary type="html">&lt;p&gt;BERLIN (AP) - A German attorney representing some 30 families of victims of the March Germanwings plane crash says his clients are rejecting the airline's initial compensation offer as far too low.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T15:47:56Z</dc:date>
+  </entry>
+  <entry>
     <title>EU panel urges pilot screening after Germanwings crash</title>
     <link rel="alternate" href="http://www.abc.net.au/news/2015-07-18/eu-panel-urges-pilot-screening-after-germanwings-crash/6629876" />
     <author>

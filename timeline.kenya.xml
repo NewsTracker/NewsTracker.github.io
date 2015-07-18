@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya's Westgate shopping mall reopens after massacre</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/18/us-kenya-attacks-westgate-idUSKCN0PS0HZ20150718?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T14:02:10Z</updated>
+    <published>2015-07-18T14:02:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-18T14:02:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Kenya press freedom rapidly deteriorating, rights group says</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/kenya-press-freedom-rapidly-deteriorating-rights-g/nmy5J/" />
     <author>
