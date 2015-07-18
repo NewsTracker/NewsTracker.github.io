@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Banned FIFA official pleads not guilty to racketeering</title>
+    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/18/banned-fifa-official-to-appear-in-court-in-us" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T20:59:05Z</updated>
+    <published>2015-07-18T20:59:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-18T20:59:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ex-FIFA Official Pleads Not Guilty, Posts $10M Bond</title>
+    <link rel="alternate" href="http://www.nbcnews.com/storyline/fifa-corruption-scandal/ex-fifa-official-enter-plea-u-s-charges-after-scandal-n394396" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T20:35:56Z</updated>
+    <published>2015-07-18T20:35:56Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK - Jeffrey Webb, one of seven high-ranking officials of soccer's world governing body FIFA who were arrested in Switzerland on corruption charges, pleaded not guilty in U.S. federal court on Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T20:35:56Z</dc:date>
+    <media:content url="http://media4.s-nbcnews.com/j/newscms/2015_29/1129461/jeffrey-webb-ejo-071615_597e280653c66533f03b6a6e95a69719.nbcnews-fp-360-360.jpg" />
+  </entry>
+  <entry>
+    <title>Ex-FIFA official Webb to enter plea on U.S. charges</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/19/ex-fifa-official-webb-pleads-not-guilty-us-charges" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T19:03:03Z</updated>
+    <published>2015-07-18T19:03:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-18T19:03:03Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-18T203805Z_1_LYNXNPEB6H0CL_RTROPTP_2_SOCCER-CONCACAF.JPG?itok=WkGpCLip" />
+  </entry>
+  <entry>
     <title>Banned FIFA Official to Appear in Court in US</title>
     <link rel="alternate" href="http://abcnews.go.com/Sports/wireStory/banned-fifa-official-court-us-32537680" />
     <author>

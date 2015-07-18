@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Colorado theater shooter James Holmes guilty of murder</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/national/verdict-reached-colorado-theater-gunman-james-holmes-article-1.2294783" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T00:43:36Z</updated>
+    <published>2015-07-17T00:43:36Z</published>
+    <summary type="html">&lt;p&gt;They called two psychiatrists, including a nationally known schizophrenia expert, who concluded Holmes was psychotic and legally insane.&lt;/p&gt;&lt;p&gt;Jurors watched nearly 22 hours of videotaped interviews showing Holmes talking in a flat, mechanical tone about his desire to kill strangers to increase his self-worth.&lt;/p&gt;&lt;p&gt;Prosecutors showed jurors Holmes' spiral notebook, where he scribbled a self-diagnosis of his "broken mind" and described his "obsession to kill" since childhood.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T00:43:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Holmes will join many other mentally ill inmates in prison</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-07-17-US-Colorado-Shooting/id-4ab6a1acb3e4457a9b15bcb308d487dd" />
     <author>
