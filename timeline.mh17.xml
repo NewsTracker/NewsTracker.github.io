@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mh17.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>BBC claims News Corp MH17 exclusive video broadcast a year ago</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/bbc-claims-news-corp-mh17-exclusive-video-broadcast-a-year-ago-20150718-gif7mv.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T01:34:05Z</updated>
+    <published>2015-07-18T01:34:05Z</published>
+    <summary type="html">&lt;p&gt;Looking forward to apology from @dailytelegraph &amp; @australian over their #MH17 video "world exclusive" that was broadcast a year ago on BBC.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T01:34:05Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/1/1/r/p/f/f/image.related.articleLeadwide.620x349.gif7mv.png/1437183140065.jpg" />
+  </entry>
+  <entry>
+    <title>MH17 crash: Ukraine points finger at Russia as families mark anniversary</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/mh17-crash-ukraine-points-finger-at-russia-as-families-mark-anniversary-20150718-gif7ks.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T01:12:03Z</updated>
+    <published>2015-07-18T01:12:03Z</published>
+    <summary type="html">&lt;p&gt;At Amsterdam's Schiphol Airport, from where flight MH17 departed, and at towns across the Netherlands, sunflowers were laid like those that grow at the crash site.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T01:12:03Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/f/7/k/j/image.related.articleLeadwide.620x349.gif7ks.png/1437181815575.jpg" />
+  </entry>
+  <entry>
     <title>The Netherlands remembers MH17 victims</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/18/netherlands-remembers-mh17-victims" />
     <author>
