@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore officers claim they gave statements under duress</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/18/baltimore-officers-claim-they-gave-statements/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T18:52:55Z</updated>
+    <published>2015-07-18T18:52:55Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE (AP) - Lawyers for three of the Baltimore police officers charged in the death of Freddie Gray have argued in court filings that their clients gave initial statements under duress because they were afraid of being fired.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T18:52:55Z</dc:date>
+  </entry>
+  <entry>
     <title>Army Corps of Engineers in Baltimore has new commander</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article27506683.html%23storylink=rss" />
     <author>
