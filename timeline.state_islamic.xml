@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Anger in Iraq after suicide attack on marketplace kills 115</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/anger-in-iraq-after-suicide-attack-on-marketplace-kills-115-1.3158703?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T11:28:53Z</updated>
+    <published>2015-07-18T11:28:53Z</published>
+    <summary type="html">&lt;p&gt;An attack by the Islamic State group on a crowded marketplace in Iraq's eastern Diyala province has killed 115 people, including women and children, in one of the deadliest single attacks in the country in the past decade.&lt;/p&gt;&lt;p&gt;In August last year, at least 64 people were killed in an attack on a Sunni mosque in Diyala in what locals believed was a retaliatory attack against Diyala tribes that refused to proclaim loyalty to the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T11:28:53Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3158689.1437213595!/cpImage/httpImage/image.jpg_gen/derivatives/original_300/mideast-iraq.jpg" />
+  </entry>
+  <entry>
+    <title>Anger in Iraq after suicide attack on marketplace kills 115</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/18/iraqi-speaker-says-attack-in-diyala-marketplace-sectarian" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T11:27:07Z</updated>
+    <published>2015-07-18T11:27:07Z</published>
+    <summary type="html">&lt;p&gt;But anger is rife in the volatile province, where a number of towns were captured by the Islamic State group last year.&lt;/p&gt;&lt;p&gt;Diyala, which borders Iran, is the only province in Iraq where Iranian jets are known to have conducted airstrikes against the Islamic State group earlier this year.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T11:27:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State marketplace attack in Iraq kills 115</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/islamic-state-marketplace-attack-in-iraq-kills-115-31386332.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T11:17:28Z</updated>
+    <published>2015-07-18T11:17:28Z</published>
+    <summary type="html">&lt;p&gt;The mostly-Shiite victims had gathered to mark the end of the Islamic holy month of Ramadan, which ended Friday for Iraqi Shiites and a day earlier for Iraqi Sunni Muslims.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T11:17:28Z</dc:date>
+    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31386331.ece/5c081/ALTERNATES/h342/PANews%20BT_P-7fc194eb-9143-462f-82a5-7f0edbeaf9cd_I1.jpg" />
+  </entry>
+  <entry>
     <title>Islamic State ordered failed jihadist attack on France military: prosecutor</title>
     <link rel="alternate" href="http://www.smh.com.au/world/islamic-state-ordered-failed-jihadist-attack-on-france-military-prosecutor-20150717-gif56d.html" />
     <author>
