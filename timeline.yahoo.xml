@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Murray beats Simon to put Britain in Davis Cup semifinals (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/murray-beats-simon-put-britain-davis-cup-semifinals-154706480--ten.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-19T17:45:06Z</updated>
+    <published>2015-07-19T17:45:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-19T17:45:06Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/0T5opwTX0Vg8xJoofuppLQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507190913332088302" />
+  </entry>
+  <entry>
     <title>Bad weather, bad golf: Tiger Woods misses another major cut (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/bad-weather-bad-golf-tiger-woods-misses-another-193041335--golf.html" />
     <author>
