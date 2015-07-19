@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Man charged with attempted murder after stabbing of Baltimore officer at student apartments</title>
+    <link rel="alternate" href="http://www.startribune.com/man-charged-with-attempted-murder-after-officer-stabbed/317060291/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-19T00:45:07Z</updated>
+    <published>2015-07-19T00:45:07Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - A 20-year-old man has been charged with attempted murder after Baltimore police say he stabbed an officer after a domestic dispute inside a student apartment building.&lt;/p&gt;</summary>
+    <dc:date>2015-07-19T00:45:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Baltimore officers claim they gave statements under duress</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/18/baltimore-officers-claim-they-gave-statements/" />
     <author>
