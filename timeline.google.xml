@@ -5,6 +5,30 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Google gains billions in value as YouTube drives ad growth</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-google-research-idUSKCN0PR1FG20150717?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T20:51:49Z</updated>
+    <published>2015-07-17T20:51:49Z</published>
+    <summary type="html">&lt;p&gt;The rise in Google's market value was more than the total market capitalization of Caterpillar Inc (CAT.N), the world's biggest construction equipment maker.&lt;/p&gt;&lt;p&gt;Google's shares hit a record high of $703, valuing it at $471.50 billion and cementing its position as the world's second most valuable company after Apple Inc (AAPL.O).&lt;/p&gt;&lt;p&gt;Up to Friday's close, Google shares had risen about 32 percent this year.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T20:51:49Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150716&amp;amp;i=109710534&amp;amp;w=240&amp;amp;r=109710534-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Google self-driving car was rear-ended early July, causing injuries</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-google-autos-selfdriving-injury-idUSKCN0PR1OP20150717?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T17:28:58Z</updated>
+    <published>2015-07-17T17:28:58Z</published>
+    <summary type="html">&lt;p&gt;"Our self-driving cars are being hit surprisingly often by other drivers who are distracted and not paying attention to the road," wrote Chris Urmson, director of Google's self-driving car project, in the blog post.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T17:28:58Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150716&amp;amp;i=109710534&amp;amp;w=240&amp;amp;r=109710534-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Google gains billions in value as YouTube drives ad growth</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-google-research-idUSKCN0PR1FG20150717?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
       <name />
