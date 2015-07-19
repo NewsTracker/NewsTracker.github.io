@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Shoppers return to Kenya's Westgate mall nearly two years after terrorist attack</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/shoppers-return-to-kenyas-westgate-mall-nearly-two-years-after-terrorist-attack-20150719-gifjwp.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-19T05:15:35Z</updated>
+    <published>2015-07-19T05:15:35Z</published>
+    <summary type="html">&lt;p&gt;The event came less than a week before US President Barack Obama's planned visit to Kenya, when he will underscore American support for the war against al-Shabab.&lt;/p&gt;</summary>
+    <dc:date>2015-07-19T05:15:35Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/f/n/y/7/image.related.articleLeadwide.620x349.gifjwp.png/1437282885224.jpg" />
+  </entry>
+  <entry>
     <title>Kenya's Westgate shopping mall reopens after massacre</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/18/us-kenya-attacks-westgate-idUSKCN0PS0HZ20150718?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
