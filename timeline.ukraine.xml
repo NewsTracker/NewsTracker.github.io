@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine rebels say their small weapons pullback is beginning</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/19/ukraine-rebels-say-their-small-weapons-pullback/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-19T12:51:13Z</updated>
+    <published>2015-07-19T12:51:13Z</published>
+    <summary type="html">&lt;p&gt;The rebels said tanks and armored vehicles with weapons under 100mm would be pulled back three kilometers (two miles) from most of front line in eastern Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-07-19T12:51:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Intensified shelling in east Ukraine kills four civilians, soldier</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/intensified-shelling-in-east-ukraine-kills-four-civilians-soldier/article25583007/?cmpid=rss1" />
     <author>
