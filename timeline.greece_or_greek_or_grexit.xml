@@ -5,6 +5,42 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Greek banks reopen but cash limits remain and taxes soar</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27893911.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T17:18:05Z</updated>
+    <published>2015-07-20T17:18:05Z</published>
+    <summary type="html">&lt;p&gt;Many goods and services become more expensive on Monday as a result of a rise in Value Added Tax approved by Parliament last week, among the first batch of austerity measures demanded by Greece's creditors.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T17:18:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>After emergency loan, Greece repays IMF, ECB</title>
+    <link rel="alternate" href="http://www.cnbc.com/2015/07/20/greece-starts-paying-back-the-ecb-imf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T17:13:00Z</updated>
+    <published>2015-07-20T17:13:00Z</published>
+    <summary type="html">&lt;p&gt;"I can confirm that Greece today repaid the totality of its arrears to the IMF, equivalent to SDR 1.6 billion (about EUR 2.0 billion). Greece is therefore no longer in arrears to the IMF," said Gerry Rice, director of communications at the IMF in a statement on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T17:13:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/20/102847838-c332a47d2a72717816688b780eec6e52a38cb50c.80x60.jpg?v=1437410530" />
+  </entry>
+  <entry>
+    <title>Greek banks reopen, taxes on basic goods soar</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/business/greece-crisis-banks-reopen-as-government-tries-return-to-normalcy-1.3159623?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T06:39:35Z</updated>
+    <published>2015-07-20T06:39:35Z</published>
+    <summary type="html">&lt;p&gt;Greece set a series of landmarks Monday it hopes will shore up its battered economy following months of crisis that threatened its place in the euro.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T06:39:35Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3159725.1437393154!/cpImage/httpImage/image.jpg_gen/derivatives/original_300/greece-bailout.jpg" />
+  </entry>
+  <entry>
+    <title>Greek banks reopen but cash limits remain and taxes soar</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/20/greeks-will-find-banks-open-but-restrictions-still-in-place" />
     <author>
       <name />
