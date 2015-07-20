@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Russian ex-PM's daughter under fire for leaving for Ukraine</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27897799.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T12:17:10Z</updated>
+    <published>2015-07-20T12:17:10Z</published>
+    <summary type="html">&lt;p&gt;The daughter of a former Russian prime minister has accepted the job of deputy governor in a Ukrainian region, a decision that has sparked criticism in both Russia and Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T12:17:10Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Russian ex-PM's daughter under fire for leaving for Ukraine</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11484119&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T10:40:16Z</updated>
+    <published>2015-07-20T10:40:16Z</published>
+    <summary type="html">&lt;p&gt;In Ukraine, she has been criticized for being hesitant to denounce Russia's annexation of the Crimean peninsula.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T10:40:16Z</dc:date>
+  </entry>
+  <entry>
     <title>Ukraine rebels say their small weapons pullback is beginning</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/19/ukraine-rebels-say-their-small-weapons-pullback/" />
     <author>

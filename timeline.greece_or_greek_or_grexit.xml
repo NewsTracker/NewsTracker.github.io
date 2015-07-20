@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek banks reopen but cash limits remain; taxes soar</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greeks-will-find-banks-open-but-restrictions-still/nm3RW/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T10:58:49Z</updated>
+    <published>2015-07-20T10:58:49Z</published>
+    <summary type="html">&lt;p&gt;Greek banks opened their doors Monday for the first time in over three weeks, a move that the government hopes will help the economy get back to normal following a period dominated by fears over the country's future in the euro.&lt;/p&gt;&lt;p&gt;Since the Greek parliament passed the measures, creditors have sought to relieve the pressure on Greece.&lt;/p&gt;&lt;p&gt;"If that had not been removed, the Greek banks would not have had a liquidity problem," she said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T10:58:49Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/20/32/e2/f2e092ef255347d3933e2886e5b35321-ee454d7079094ee085c092947af431e1-0_1.jpg" />
+  </entry>
+  <entry>
+    <title>Greek banks open, under restrictions</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/business/greek-banks-open-under-restrictions-1.2477310" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T05:56:00Z</updated>
+    <published>2015-07-20T05:56:00Z</published>
+    <summary type="html">&lt;p&gt;ATHENS, Greece -- Greeks woke up Monday morning to a new era: banks finally reopened after three weeks of being closed but new austerity taxes meant that most everything was more expensive -- from coffee to taxis to cooking oil.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T05:56:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Greek banks reopen wake up to open banks, more austerity</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article27893911.html%23storylink=rss" />
     <author>
@@ -4414,17 +4437,5 @@
     <summary type="html">&lt;p&gt;Money has been seeping out of the banks since Greece first had to take a bailout from euro zone governments and the IMF in 2010.&lt;/p&gt;</summary>
     <dc:date>2015-06-19T22:01:05Z</dc:date>
     <media:content url="http://s3.reutersmedia.net/resources/r/?d=20150619&amp;amp;i=108919947&amp;amp;w=240&amp;amp;r=108919947-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Europe scrambles to pick up pieces of Greek talks failure</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/europe-scrambles-pick-pieces-greek-074848977.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T10:39:04Z</updated>
-    <published>2015-06-19T10:39:04Z</published>
-    <summary type="html">&lt;p&gt;The ECB has been steadily increasing the credit it allows Greek banks to draw on.&lt;/p&gt;&lt;p&gt;And in a statement Friday, the Bank of Greece sounded relatively optimistic, noting the "great effort" the Greek government has made to find common ground with creditors.&lt;/p&gt;&lt;p&gt;The hope is that technical talks between Greece and its creditors will resume over the weekend before another meeting of the eurozone's finance ministers on Monday in the lead-up to the leaders' summit.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T10:39:04Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/ikisj9uV_2rvCZj.JoUvIw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_FINANCIALTIMES/35ebbe8a5d9dd01b790f6a7067002973_original.jpg" />
   </entry>
 </feed>
