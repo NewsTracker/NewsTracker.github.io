@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ian McKellen's not slowing down, taking 'Mr. Holmes' on a thoughtful journey</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/movies-news-reviews/article27933079.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T08:00:00Z</updated>
+    <published>2015-07-20T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;And in "Mr. Holmes," which opens this weekend, McKellen inhabits both a reflective 93-year-old Sherlock Holmes and his younger self.&lt;/p&gt;&lt;p&gt;"Kept going" is also evident in "Holmes," in which McKellen finds himself in nearly every scene, in a part as physically nuanced and demanding as any senior-citizen role around.&lt;/p&gt;&lt;p&gt;Still, as the nonagenarian Sherlock Holmes might remind, powers don't remain sharp forever, and a life is vital until it's not.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T08:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Colorado theater shooter James Holmes guilty of murder</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/national/verdict-reached-colorado-theater-gunman-james-holmes-article-1.2294783" />
     <author>
@@ -290,16 +301,5 @@
     <summary type="html">&lt;p&gt;A psychiatrist who determined that Colorado theater shooter James Holmes was insane at the time of the 2012 shootings says that people suffering from delusions can't always control behavior - even if they know the behavior is wrong.&lt;/p&gt;&lt;p&gt;Dr. Jonathan Woodcock interviewed Holmes four days after the attack and concluded that he wasn't sane.&lt;/p&gt;&lt;p&gt;Woodcock testified Thursday that Holmes had a strong family history of mental illness and was in the grip of a psychotic compulsion he could not control.&lt;/p&gt;&lt;p&gt;Jonathan Woodcock said Holmes' emotions also were extremely flat.&lt;/p&gt;&lt;p&gt;That kind of reaction in the wake of the mass shooting helped Woodcock conclude that Holmes was suffering from significant mental illness.&lt;/p&gt;&lt;p&gt;Jonathan Woodcock is an assistant professor of neurology and psychiatry at the University of Colorado's medical campus, the school where James Holmes was studying before the July 2012 attack.&lt;/p&gt;&lt;p&gt;Prosecutors in the Colorado theater shooting are questioning whether one of the defense's most important witnesses - a psychiatrist who interviewed James Holmes - should be considered an expert.&lt;/p&gt;</summary>
     <dc:date>2015-06-25T21:21:57Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/25/b2/39/d95ef8b21d1c4f068f1813a1ab34f038-01e1db1ff8a3404aa6c1d0d9e57471ba-1.jpg" />
-  </entry>
-  <entry>
-    <title>Wendell Holmes, singer, songwriter of Holmes Brothers, dies</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article25016287.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T22:05:26Z</updated>
-    <published>2015-06-19T22:05:26Z</published>
-    <summary type="html">&lt;p&gt;Wendell Holmes, the guitarist, pianist and singer and songwriter of the soul and blues band The Holmes Brothers, has died.&lt;/p&gt;&lt;p&gt;Paul Kahn, Holmes' manager, says the 71-year-old musician died Friday at his home in Rosedale, Maryland.&lt;/p&gt;&lt;p&gt;Kahn says Holmes died of complications from pulmonary hypertension.&lt;/p&gt;&lt;p&gt;The three formed The Holmes Brothers in 1979.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T22:05:26Z</dc:date>
   </entry>
 </feed>

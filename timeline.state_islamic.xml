@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Suspected Islamic State suicide bomber kills 30 in Suruc, Turkey</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/suspected-islamic-state-suicide-bomber-kills-30-in-suruc-turkey-20150720-gigq9a" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T20:14:07Z</updated>
+    <published>2015-07-20T20:14:07Z</published>
+    <summary type="html">&lt;p&gt;Turkey's NATO allies have been seeking tighter controls on a porous border with Syria that runs alongside Islamic State-held territories.&lt;/p&gt;&lt;p&gt;The protesters blamed the Suruc blast on lax government action on Islamic State.&lt;/p&gt;&lt;p&gt;Turkey's Kurds have been enraged by what they see as the AKP party government's failure to do more to stop Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T20:14:07Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/g/q/e/e/image.related.articleLeadwide.620x349.gigq9a.png/1437423230046.jpg" />
+  </entry>
+  <entry>
     <title>Airstrikes on IS-held town in northern Syria kill 20</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27896119.html%23storylink=rss" />
     <author>

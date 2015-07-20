@@ -5,6 +5,39 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Greek banks reopen but cash limits remain and taxes soar</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/20/greeks-will-find-banks-open-but-restrictions-still-in-place" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T20:28:02Z</updated>
+    <published>2015-07-20T20:28:02Z</published>
+    <summary type="html">&lt;p&gt;There are few parts of the Greek economy left untouched by the steep increase in the sales tax from 13 to 23 percent.&lt;/p&gt;&lt;p&gt;The new rates have been imposed on basic goods, from cooking oil to condoms, as well as to popular services, such as taxi rides, eating out at restaurants and ferry transport to the Greek islands.&lt;/p&gt;&lt;p&gt;In response to last week's parliamentary vote backing the austerity measures, the ECB raised the amount of liquidity assistance on offer to Greek banks, paving the way for them to reopen Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T20:28:02Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek banks reopen but cash limits remain and taxes soar</title>
+    <link rel="alternate" href="http://nypost.com/2015/07/20/greek-banks-reopen-but-cash-limits-remain-and-taxes-soar/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T14:47:02Z</updated>
+    <published>2015-07-20T14:47:02Z</published>
+    <summary type="html">&lt;p&gt;Following months of growing distrust, Greece's partners in the 19-country eurozone wanted to see measures enacted before bailout talks could begin.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T14:47:02Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek banks reopen but keep cash limits; taxes soar</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/ct-greek-banks-reopen-20150720-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T10:19:00Z</updated>
+    <published>2015-07-20T10:19:00Z</published>
+    <summary type="html">&lt;p&gt;Since the Greek parliament passed the austerity measures, creditors have relieved the pressure on the country, though its acute difficulties were evident in the fact that the Athens Stock Exchange remains closed until further notice.&lt;/p&gt;&lt;p&gt;Paying off the IMF and ECB gives Greece some breathing space but the country will need bailout funds to meet upcoming debts.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T10:19:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek banks reopen but cash limits remain and taxes soar</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27893911.html%23storylink=rss" />
     <author>
       <name />
@@ -4483,29 +4516,5 @@
     <summary type="html">&lt;p&gt;The comments from Watsa, who spoke in a phone interview, came as the European Central Bank expanded emergency funding to keep Greek banks on their feet.&lt;/p&gt;</summary>
     <dc:date>2015-06-19T23:00:53Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/0f7/report-on-business/streetwise/article24949833.ece/ALTERNATES/w220/fair-fax12rb1.JPG" />
-  </entry>
-  <entry>
-    <title>ECB boosts emergency funding as Greek banks bleed, Tsipras calm</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/19/us-eurozone-greece-pm-idUSKBN0OZ0DP20150619?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T22:01:05Z</updated>
-    <published>2015-06-19T22:01:05Z</published>
-    <summary type="html">&lt;p&gt;"There will be a solution based on respecting EU rules and democracy which would allow Greece to return to growth in the euro," Tsipras said in a statement issued by his office.&lt;/p&gt;&lt;p&gt;The ECB has been gradually raising the amount of emergency funding which is available at the Bank of Greece but the tempo has picked up as the crisis deepened.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T22:01:05Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources/r/?d=20150619&amp;amp;i=108919947&amp;amp;w=240&amp;amp;r=108919947-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>ECB boosts emergency funding as Greek banks bleed, Tsipras calm</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/19/us-eurozone-greece-pm-idUSKBN0OZ0DP20150619?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T22:01:05Z</updated>
-    <published>2015-06-19T22:01:05Z</published>
-    <summary type="html">&lt;p&gt;Money has been seeping out of the banks since Greece first had to take a bailout from euro zone governments and the IMF in 2010.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T22:01:05Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources/r/?d=20150619&amp;amp;i=108919947&amp;amp;w=240&amp;amp;r=108919947-1&amp;amp;t=2" />
   </entry>
 </feed>
