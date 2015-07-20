@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Protesters demanding that Nepal become a Hindu nation throw chairs at deputy prime minister</title>
+    <link rel="alternate" href="http://www.startribune.com/protesters-throw-chairs-at-nepal-s-deputy-prime-minister/317478951/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T03:55:16Z</updated>
+    <published>2015-07-20T03:55:16Z</published>
+    <summary type="html">&lt;p&gt;KATHMANDU, Nepal - Protesters demanding that Nepal be turned back into a Hindu nation scuffled with police and threw chairs at the country's deputy prime minister when he was collecting suggestions on a draft constitution.&lt;/p&gt;&lt;p&gt;Nepal has been governed by an interim constitution for seven years.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T03:55:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Protesters Throw Chairs at Nepal's Deputy Prime Minister</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/protesters-throw-chairs-nepals-deputy-prime-minister-32558455" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T03:54:02Z</updated>
+    <published>2015-07-20T03:54:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-20T03:54:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Quake-hit Nepal urges other nations to lift travel advisories, hopes to bring back tourists</title>
     <link rel="alternate" href="http://www.startribune.com/quake-hit-nepal-asks-other-nations-to-lift-travel-advisories/315236391/" />
     <author>

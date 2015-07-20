@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mets beat Cards in 18 innings despite stranding 25 runners (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/mets-beat-cards-18-innings-despite-stranding-25-003341162--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T02:56:45Z</updated>
+    <published>2015-07-20T02:56:45Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-20T02:56:45Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/jb_SDTOVyKSDGdx5bDTwMA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTI3MztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507191913692142054" />
+  </entry>
+  <entry>
     <title>Kyle Busch races to 3rd win of year, moves closer to Chase (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/kyle-busch-races-3rd-win-moves-closer-chase-205138442--nascar.html" />
     <author>
