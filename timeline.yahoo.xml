@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Blatter news conference at FIFA delayed by British comedian (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/blatter-news-conference-fifa-delayed-british-comedian-133416992--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T15:18:23Z</updated>
+    <published>2015-07-20T15:18:23Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-20T15:18:23Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
     <title>Mets beat Cards in 18 innings despite stranding 25 runners (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/mets-beat-cards-18-innings-despite-stranding-25-003341162--mlb.html" />
     <author>

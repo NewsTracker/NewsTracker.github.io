@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek banks reopen but cash limits remain and taxes soar</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/20/greeks-will-find-banks-open-but-restrictions-still-in-place" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T15:29:45Z</updated>
+    <published>2015-07-20T15:29:45Z</published>
+    <summary type="html">&lt;p&gt;Rice said the IMF "stands ready to continue assisting Greece in its efforts to return to financial stability and growth."&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T15:29:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece escapes default to the ECB after emergency cash from the UK-funded EFSM</title>
+    <link rel="alternate" href="http://www.independent.co.uk/news/business/news/greece-live-bailout-debt-news-escapes-default-to-the-ecb-thanks-to-uk-cash-10402378.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T15:05:40Z</updated>
+    <published>2015-07-20T15:05:40Z</published>
+    <summary type="html">&lt;p&gt;"I can confirm that Greece today repaid the totality of its arrears to the IMF, equivalent to about 2 billion," Rice said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T15:05:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece pays back 2 billion euros to IMF</title>
+    <link rel="alternate" href="http://www.cnbc.com/2015/07/20/greece-starts-paying-back-the-ecb-imf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T14:43:00Z</updated>
+    <published>2015-07-20T14:43:00Z</published>
+    <summary type="html">&lt;p&gt;Greece repaid the roughly 2 billion euros ($2.2 billion) it owed to the International Monetary (IMF) on Monday, the international body reported.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T14:43:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/20/102847608-958a32733acb031e252ed5852af4ea5620f05abb.80x60.jpg?v=1437406843" />
+  </entry>
+  <entry>
     <title>Greek banks reopen but cash limits remain; taxes soar</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greeks-will-find-banks-open-but-restrictions-still/nm3RW/" />
     <author>
