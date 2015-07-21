@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UK officials charge 2 men with trying to join Islamic State</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/UK-officials-charge-2-men-with-trying-to-join-6396679.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T12:36:47Z</updated>
+    <published>2015-07-21T12:36:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-21T12:36:47Z</dc:date>
+  </entry>
+  <entry>
+    <title>Turkey denies turning blind eye to Islamic State as bombing stokes anger</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/turkey-denies-turning-blind-eye-to-islamic-state-as-bombing-stokes-anger-20150721-gihkhw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T12:19:25Z</updated>
+    <published>2015-07-21T12:19:25Z</published>
+    <summary type="html">&lt;p&gt;Thousands of foreign fighters have crossed through Turkey to join Islamic State over the past few years, fuelling accusations from the government's opponents that it is turning a blind eye.&lt;/p&gt;&lt;p&gt;Authorities have carried out a string of raids in recent weeks to arrest Islamic State suspects.&lt;/p&gt;&lt;p&gt;They have also blocked more than half a dozen Islamist news websites, prompting one group claiming allegiance to Islamic State to accuse Turkey of persecuting Muslims and declare: "Muslims might retaliate."&lt;/p&gt;&lt;p&gt;The Kurdistan Workers Party (PKK) militant group, which has waged a three-decade insurgency against the Turkish state, said the AK Party bore responsibility for the bombing, accusing it of backing Islamic State against Syria's Kurds.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T12:19:25Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/h/k/n/o/image.related.articleLeadwide.620x349.gihkhw.png/1437481152276.jpg" />
+  </entry>
+  <entry>
     <title>US authorities allege Oregon imam concealed associations with radical Islamic groups</title>
     <link rel="alternate" href="http://www.startribune.com/us-authorities-allege-oregon-imam-assisted-radicals/317658021/" />
     <author>
