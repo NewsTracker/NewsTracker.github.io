@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Chicago-area man accused of threatening Emanuel, others</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article27955213.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T01:17:05Z</updated>
+    <published>2015-07-21T01:17:05Z</published>
+    <summary type="html">&lt;p&gt;He allegedly wrote on Facebook, "I'm not leaving America without getting revenge even if it costs me my life."&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T01:17:05Z</dc:date>
+  </entry>
+  <entry>
     <title>In Facebook Chat, Clinton Says 'Black Lives Matter'</title>
     <link rel="alternate" href="http://www.nbcnews.com/politics/2016-election/facebook-chat-hillary-clinton-says-black-lives-matter-n395296" />
     <author>
