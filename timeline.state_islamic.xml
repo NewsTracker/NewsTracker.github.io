@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US authorities allege Oregon imam concealed associations with radical Islamic groups</title>
+    <link rel="alternate" href="http://www.startribune.com/us-authorities-allege-oregon-imam-assisted-radicals/317658021/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T00:00:12Z</updated>
+    <published>2015-07-21T00:00:12Z</published>
+    <summary type="html">&lt;p&gt;- U.S. authorities are seeking to revoke the citizenship of an Oregon imam who they say tried to conceal past associations with radical Islamic groups.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T00:00:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Suspected Islamic State suicide bomber kills 30 in Suruc, Turkey</title>
     <link rel="alternate" href="http://www.smh.com.au/world/suspected-islamic-state-suicide-bomber-kills-30-in-suruc-turkey-20150720-gigq9a" />
     <author>

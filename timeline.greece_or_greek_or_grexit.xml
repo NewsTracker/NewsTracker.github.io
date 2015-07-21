@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek debt crisis: Greece's banks in a battle to win back trust</title>
+    <link rel="alternate" href="http://www.smh.com.au/business/world-business/greek-debt-crisis-greeces-banks-in-a-battle-to-win-back-trust-20150720-gigtsu" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T23:48:16Z</updated>
+    <published>2015-07-20T23:48:16Z</published>
+    <summary type="html">&lt;p&gt;Reopening the doors of Greek banks Monday was just the beginning.&lt;/p&gt;&lt;p&gt;Restoring trust in the banks, so that customers will be willing to deposit their money again, is one of the most important tasks that Greek and eurozone officials will face as they try to get the economy moving again.&lt;/p&gt;&lt;p&gt;Some elements of a rescue plan for Greek banks are beginning to take shape.&lt;/p&gt;&lt;p&gt;In the meantime, Greek banks are dependent on the central bank for the cash they need to operate.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T23:48:16Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/g/i/b/1/image.related.articleLeadwide.620x349.gigtsu.png/1437436126222.jpg" />
+  </entry>
+  <entry>
     <title>Greek banks reopen but cash limits remain and taxes soar</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/20/greeks-will-find-banks-open-but-restrictions-still-in-place" />
     <author>
@@ -4504,17 +4516,5 @@
     <published>2015-06-20T14:37:00Z</published>
     <summary type="html">&lt;p&gt;"We will try to supplement our proposal so that we get closer to a solution," State Minister Alekos Flabouraris told Greek Mega television in a morning news show, according to Reuters.&lt;/p&gt;</summary>
     <dc:date>2015-06-20T14:37:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Fairfax CEO calls on Greece to remove uncertainty, clinch debt deal</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/fairfax-ceo-calls-on-greece-to-remove-uncertainty-clinch-debt-deal/article25045991/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T23:00:53Z</updated>
-    <published>2015-06-19T23:00:53Z</published>
-    <summary type="html">&lt;p&gt;The comments from Watsa, who spoke in a phone interview, came as the European Central Bank expanded emergency funding to keep Greek banks on their feet.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T23:00:53Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/0f7/report-on-business/streetwise/article24949833.ece/ALTERNATES/w220/fair-fax12rb1.JPG" />
   </entry>
 </feed>

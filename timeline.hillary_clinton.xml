@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton on racial justice: 'Black lives matter'</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-racial-justice-black-lives-matter-article-1.2298347?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T00:27:15Z</updated>
+    <published>2015-07-21T00:27:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-21T00:27:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Jeb Bush's Uber driver would vote for Hillary Clinton</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/politics/jeb-bush-uber-driver-vote-hillary-clinton-article-1.2295899?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>
@@ -393,16 +404,5 @@
     <published>2015-06-25T22:56:38Z</published>
     <summary type="html" />
     <dc:date>2015-06-25T22:56:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Trump: Hillary Clinton blamed me for Charleston shooting</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/donald-trump-hillary-clinton-blamed-me-for-charleston-shooting/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T23:14:15Z</updated>
-    <published>2015-06-19T23:14:15Z</published>
-    <summary type="html">&lt;p&gt;Hillary Clinton reaches new low.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T23:14:15Z</dc:date>
   </entry>
 </feed>
