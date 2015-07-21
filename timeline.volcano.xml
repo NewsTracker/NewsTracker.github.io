@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Scientists Record Explosion at Alaska's Cleveland Volcano</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/scientists-record-explosion-alaskas-cleveland-volcano-32596555" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T17:58:53Z</updated>
+    <published>2015-07-21T17:58:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-21T17:58:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Volcano shuts down major Indonesian airport during holiday rush</title>
     <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/07/16/world/volcano-shuts-major-indonesian-airport-holiday-rush/?utm_source=feedburner&amp;amp;amp%3Butm_medium=rss&amp;amp;amp%3Butm_campaign=volcano-shuts-major-indonesian-airport-holiday-rush&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
     <author>

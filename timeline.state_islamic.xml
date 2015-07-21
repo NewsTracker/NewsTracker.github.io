@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bombing shows Turkey a vulnerable target for Islamic State</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/bombing-shows-turkey-a-vulnerable-target-for-islam/nm4KR/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T18:07:00Z</updated>
+    <published>2015-07-21T18:07:00Z</published>
+    <summary type="html">&lt;p&gt;Officials have raised concerns that a deadly bombing in southeastern Turkey is part of a campaign of retaliation by the Islamic State group for a recent crackdown on its operations in the country.&lt;/p&gt;&lt;p&gt;The country shares a 1,250-kilometer (775-mile) border with Iraq and Syria, putting it nearby to strongholds of the self-proclaimed Islamic State.&lt;/p&gt;&lt;p&gt;He vowed to go after those behind the bombing and made clear he believes it was the Islamic State.&lt;/p&gt;&lt;p&gt;Some analysts say that because of Turkey's aggressive policies against Syrian President Bashar Assad in that country's civil war, it has allowed militants of many stripes to operate in Turkey, providing cover to the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T18:07:00Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/21/67/19/dbc26e0ed08c4b2381fac37d6302d5af-5a14a0c6af184358ad3499564f5499d2-0.jpg" />
+  </entry>
+  <entry>
+    <title>Bombing shows Turkey a vulnerable target for Islamic State</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/21/bombing-shows-turkey-a-vulnerable-target-for-islamic-state" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T18:07:00Z</updated>
+    <published>2015-07-21T18:07:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-21T18:07:00Z</dc:date>
+  </entry>
+  <entry>
     <title>UK officials charge 2 men with trying to join Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/UK-officials-charge-2-men-with-trying-to-join-6396679.php" />
     <author>
@@ -1204,40 +1227,5 @@
     <published>2015-06-20T21:22:38Z</published>
     <summary type="html">&lt;p&gt;Parading across a desert base, hundreds of Sunni tribesmen who graduated a crash training course stood ready to take on the Islamic State group on behalf of a government that many believed left them to die at the hands of the extremists.&lt;/p&gt;</summary>
     <dc:date>2015-06-20T21:22:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Sunni tribes, abandoned by Iraq, key to Islamic State fight</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article25085614.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-20T16:54:00Z</updated>
-    <published>2015-06-20T16:54:00Z</published>
-    <summary type="html">&lt;p&gt;The Islamic State group has massacred hundreds of men, women and children with Anbar's Al Bu Nimr tribe for resisting their rule and cooperating with the Iraqi government.&lt;/p&gt;</summary>
-    <dc:date>2015-06-20T16:54:00Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Islamic State-claimed car bombing kills 2 in Yemen's capital</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Yemeni-officials-say-car-bomb-exploded-in-Sanaa-6339154.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-20T18:33:14Z</updated>
-    <published>2015-06-20T18:33:14Z</published>
-    <summary type="html">&lt;p&gt;The Islamic State group claimed the attack on a Twitter account associated with the extremists, saying it targeted Shiite Houthis, who the Sunni extremists view as heretics.&lt;/p&gt;</summary>
-    <dc:date>2015-06-20T18:33:14Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/37/16/51/8186436/7/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Islamic State-claimed car bombing kills 2 in Yemen's capital</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/20/yemeni-officials-say-car-bomb-exploded-in-sanaa" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-20T18:33:14Z</updated>
-    <published>2015-06-20T18:33:14Z</published>
-    <summary type="html">&lt;p&gt;SANAA, Yemen (AP) - An Islamic State-claimed car bomb exploded outside a mosque in Yemen's capital Saturday, killing at least two people and wounding six amid the country's raging civil war, authorities said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-20T18:33:14Z</dc:date>
   </entry>
 </feed>
