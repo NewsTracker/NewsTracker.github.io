@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>In Facebook Chat, Clinton Says 'Black Lives Matter'</title>
+    <link rel="alternate" href="http://www.nbcnews.com/politics/2016-election/facebook-chat-hillary-clinton-says-black-lives-matter-n395296" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T20:27:47Z</updated>
+    <published>2015-07-20T20:27:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-20T20:27:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Crying kid in diner ignites Facebook war between mom, owner</title>
     <link rel="alternate" href="http://www.mercurynews.com/nation-world/ci_28511772/crying-kid-diner-ignites-facebook-war-between-mom?source=rss" />
     <author>

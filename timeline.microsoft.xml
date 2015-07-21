@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Miley Cyrus to host MTV Video Music Awards at Microsoft Theater on Aug. 30</title>
+    <link rel="alternate" href="http://www.startribune.com/miley-cyrus-to-host-mtv-video-music-awards/317663321/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T01:25:28Z</updated>
+    <published>2015-07-21T01:25:28Z</published>
+    <summary type="html">&lt;p&gt;The 2015 MTV Video Music Awards will air live on MTV from the Microsoft Theater in Los Angeles.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T01:25:28Z</dc:date>
+    <media:content url="http://stmedia.stimg.co/08-825489+0005FESTIVAL072015.JPG?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
+  </entry>
+  <entry>
     <title>Finnish town of Salo hurting as Microsoft shuts Nokia phone unit</title>
     <link rel="alternate" href="http://technology.canoe.com/News/Features/2015/07/16/22510351.html?cid=rsstechnologynews" />
     <author>
