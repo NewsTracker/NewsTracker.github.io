@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.netanyahu.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Israel's Netanyahu struggles to govern with narrow majority</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/21/israels-netanyahu-struggles-to-govern-with-narrow-majority" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T07:37:21Z</updated>
+    <published>2015-07-21T07:37:21Z</published>
+    <summary type="html">&lt;p&gt;Some would say that is just how Netanyahu likes it.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T07:37:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Israel's Netanyahu facing criminal probe over alleged inflated household expenses</title>
     <link rel="alternate" href="http://www.startribune.com/israeli-leader-s-household-spending-facing-criminal-probe/317746461/" />
     <author>

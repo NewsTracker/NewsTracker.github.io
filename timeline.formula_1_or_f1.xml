@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.formula_1_or_f1.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Funeral for F1 driver Jules Bianchi</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-sport/funeral-for-f1-driver-jules-bianchi-20150721-3zog9.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T09:30:11Z</updated>
+    <published>2015-07-21T09:30:11Z</published>
+    <summary type="html">&lt;p&gt;Bianchi's No.17 is being retired from Formula One and tributes are expected at this weekend's Hungarian Grand Prix.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T09:30:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Jules Bianchi: F1 announce number 17 will be retired after death of driver</title>
     <link rel="alternate" href="http://www.independent.co.uk/sport/motor-racing/jules-bianchi-f1-announce-number-17-will-be-retired-after-death-of-driver-10402421.html" />
     <author>
