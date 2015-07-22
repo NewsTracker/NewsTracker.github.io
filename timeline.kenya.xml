@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya prepares to welcome Obama to the country where his father was born</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/politics/kenya-prepares-to-welcome-obama-to-the-country-where-his-father-was-born-1.2481678" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T15:42:55Z</updated>
+    <published>2015-07-22T15:42:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-22T15:42:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kenya prepares to welcome President Obama to the country where his father was born</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/07/22/kenya-prepares-to-welcome-president-obama-to-the-country-where-his-father-was-born" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T15:35:58Z</updated>
+    <published>2015-07-22T15:35:58Z</published>
+    <summary type="html">&lt;p&gt;Obama is scheduled to arrive in Kenya on Friday, the first stop on his two-nation African tour in which he will also visit Ethiopia.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T15:35:58Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297728049130_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Kenya president says talks with Obama to focus on extremism</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/21/kenya-president-says-talks-with-obama-to-focus-on/" />
     <author>

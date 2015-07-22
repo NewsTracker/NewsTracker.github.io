@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google's new "timeline" feature</title>
+    <link rel="alternate" href="http://www.cbsnews.com/videos/googles-new-timeline-feature/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T16:01:53Z</updated>
+    <published>2015-07-22T16:01:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-22T16:01:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Google gains billions in value as YouTube drives ad growth</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-google-research-idUSKCN0PR1FG20150717?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tsipras.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tsipras rallies supporters ahead of Greek vote</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/tsipras-rallies-troops-ahead-greek-071442070.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T14:24:41Z</updated>
+    <published>2015-07-22T14:24:41Z</published>
+    <summary type="html">&lt;p&gt;In the first parliamentary vote last week on measures (called "prior actions) including a sales-tax hike, around a quarter of Syriza lawmakers rebelled, making the latest vote tough on Tsipras.&lt;/p&gt;&lt;p&gt;According to a press release detailing the prime minister's remarks to colleagues on the eve of the vote, Tsipras defended his decision to bend to lenders' demands for the bailout.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T14:24:41Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/N_OQphGwzTSCbACAENlRvQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIyNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/homerun/cnbc.com/https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/22/102853163-GettyImages-478813678.1910x1000.jpg" />
+  </entry>
+  <entry>
     <title>Greek PM Tsipras rallies Syriza backing before bailout vote</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/22/us-eurozone-greece-idUSKCN0PV0G620150722?feedType=RSS&amp;amp;feedName=topNews" />
     <author>
@@ -627,16 +639,5 @@
     <summary type="html">&lt;p&gt;Lafazanis spoke early Saturday, after an emergency cabinet meeting during which Prime Minister Alexis Tsipras announced his intention to call the referendum.&lt;/p&gt;</summary>
     <dc:date>2015-06-26T22:25:55Z</dc:date>
     <media:content url="http://media.utsandiego.com/img/photos/2015/06/25/UTI1725814_r142x90.jpg?a4c645db5e0d43838ff6d631be583dfe8b15e757" />
-  </entry>
-  <entry>
-    <title>Greek PM Tsipras presents new financial proposal to EU</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/business/greek-pm-tsipras-presents-new-financial-proposal-to-eu-1.2432946" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T13:52:42Z</updated>
-    <published>2015-06-21T13:52:42Z</published>
-    <summary type="html">&lt;p&gt;A government source close to the talks says Tsipras "presented to the three leaders Greece's proposal for a mutually beneficial agreement, which will provide a permanent solution and not just postpone tackling the problem."&lt;/p&gt;&lt;p&gt;Tsipras has been meeting with his senior ministers all day and will leave for Brussels later Sunday.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T13:52:42Z</dc:date>
   </entry>
 </feed>

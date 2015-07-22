@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Inc shares sink as iPhone shipments, revenue forecast miss estimates</title>
+    <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/apple-inc-revenue-rises-32-5-as-iphone-sales-jump-to-47-5-million" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T15:08:01Z</updated>
+    <published>2015-07-22T15:08:01Z</published>
+    <summary type="html">&lt;p&gt;Apple shares fell as much as 8.8 per cent in extended trading.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T15:08:01Z</dc:date>
+    <media:content url="http://wpmedia.business.financialpost.com/2015/07/apple-inc-earnings.jpg?w=620" />
+  </entry>
+  <entry>
+    <title>Apple's $62B hit is bad…but it's not the worst</title>
+    <link rel="alternate" href="http://www.cnbc.com/2015/07/22/apples-62b-hit-is-badbut-its-not-the-worst.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T14:13:00Z</updated>
+    <published>2015-07-22T14:13:00Z</published>
+    <summary type="html">&lt;p&gt;It also briefly fell below its 200-day moving average Tuesday and Apple hasn't closed below this metric since Sept.&lt;/p&gt;&lt;p&gt;"Let's hope Apple comes nowhere near that level (which would be a $14.27 decline, with an index impact of 9.31 points)," he said in a note late Tuesday.&lt;/p&gt;&lt;p&gt;Correction: An earlier version misstated when Apple's stock fell below its 200-day moving average.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T14:13:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/10/102577038-181690623.530x298.jpg?v=1428683315" />
+  </entry>
+  <entry>
     <title>Analysts as upbeat as ever on Apple; Investors not so much</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/22/us-apple-results-research-idUSKCN0PW1AD20150722?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
@@ -745,64 +769,5 @@
     <published>2015-06-21T22:02:42Z</published>
     <summary type="html">&lt;p&gt;But I say to Apple with all due respect, it's not too late to change this policy and change the minds of those in the music industry who will be deeply and gravely affected by this.&lt;/p&gt;</summary>
     <dc:date>2015-06-21T22:02:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Taylor Swift writes open letter to Apple Music bosses</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/06/21/taylor-swift-writes-open-letter-apple-music-bosses" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T16:05:47Z</updated>
-    <published>2015-06-21T16:05:47Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-21T16:05:47Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297715040508_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
-    <title>In open letter, Swift criticizes 'shocking' Apple Music</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article25108798.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T15:20:00Z</updated>
-    <published>2015-06-21T15:20:00Z</published>
-    <summary type="html">&lt;p&gt;Writing on her Tumblr page Sunday in a posting titled "To Apple, Love Taylor," Swift said she would withhold her 2014 album "1989" from Apple Music, which launches June 30.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T15:20:00Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>In open letter, Swift criticizes 'shocking' Apple Music</title>
-    <link rel="alternate" href="http://news.yahoo.com/open-letter-swift-criticizes-shocking-apple-music-151850692.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T15:18:50Z</updated>
-    <published>2015-06-21T15:18:50Z</published>
-    <summary type="html">&lt;p&gt;Swift said she would withhold her 2014 album "1989" from Apple Music, which launches June 30.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T15:18:50Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/KkKsMaeJWfXUl8p7VeSZdA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/912e16f4b16d071b7a0f6a706700990c.jpg" />
-  </entry>
-  <entry>
-    <title>In open letter, Swift criticizes 'shocking' Apple Music</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/entertainment/in-open-letter-swift-criticizes-shocking-apple-mus/nmhbs/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T15:17:49Z</updated>
-    <published>2015-06-21T15:17:49Z</published>
-    <summary type="html">&lt;p&gt;In an open letter to Apple, Taylor Swift has criticized the company's new streaming music service for failing to pay artists for a free three-month trial.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T15:17:49Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/21/d3/1f/0cc031d487c14fbcafe2886fd8feaa8d-8878a53de33e403cb081476b18a8413e-0.jpg" />
-  </entry>
-  <entry>
-    <title>Taylor Swift Explains Why She Won't Put New Album on Apple Music</title>
-    <link rel="alternate" href="http://www.hollywoodreporter.com/news/taylor-swift-apple-music-explains-804016?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+thr%2Fnews+%28The+Hollywood+Reporter+-+Top+Stories%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T15:01:28Z</updated>
-    <published>2015-06-21T15:01:28Z</published>
-    <summary type="html">&lt;p&gt;"We know how astronomically successful Apple has been, and we know that this incredible company has the money to pay artists, writers and producers for the three-month trial period ... even if it is free for the fans trying it out."&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T15:01:28Z</dc:date>
   </entry>
 </feed>

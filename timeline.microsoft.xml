@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Technology stocks sink in midday trading after weak showings from Apple, Microsoft and others</title>
+    <link rel="alternate" href="http://www.startribune.com/tech-shares-lead-an-early-slump-for-us-stocks/318126131/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T15:55:42Z</updated>
+    <published>2015-07-22T15:55:42Z</published>
+    <summary type="html">&lt;p&gt;Technology shares are leading the way lower on the stock market after Apple and Microsoft turned in disappointing results.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T15:55:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft posts record loss as it writes down Nokia</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/21/us-microsoft-results-idUSKCN0PV28Z20150721?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest: Simon Geschke wins Stage 17 of Tour (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/latest-stage-17-tour-begins-alps-horizon-111142472--spt.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T15:16:01Z</updated>
+    <published>2015-07-22T15:16:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-22T15:16:01Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/uoIZZfAMOKzfDKeKRePrCA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507220922337451422" />
+  </entry>
+  <entry>
+    <title>European court rejects Financial Fair Play challenge (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/european-court-rejects-financial-fair-play-challenge-143909217--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T14:47:34Z</updated>
+    <published>2015-07-22T14:47:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-22T14:47:34Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/ZzFg4ueY78RNHcHxbFIurg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507220945351371450" />
+  </entry>
+  <entry>
     <title>Choo hits for the cycle as Rangers rout Rockies 9-0 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/choo-hits-cycle-rangers-rout-rockies-9-0-040613867--mlb.html" />
     <author>

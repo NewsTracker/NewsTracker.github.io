@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson hires new interim police chief</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/7/22/ferguson-hires-another-interim-police-chief.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T14:58:00Z</updated>
+    <published>2015-07-22T14:58:00Z</published>
+    <summary type="html">&lt;p&gt;Anderson previously was police commander in the Phoenix suburb of Glendale, Arizona - the same city from which Ferguson recently hired its interim city manager, Ed Beasley.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T14:58:00Z</dc:date>
+    <media:content url="merica.aljazeera.com/content/ajam/articles/2015/3/3/doj-probe-finds-racial-bias-in-ferguson/_jcr_content/image.adapt.480.low.Ferguson-police-10062014.jpg" />
+  </entry>
+  <entry>
     <title>Federal judge narrows Brown family lawsuit against Ferguson</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article27224155.html%23storylink=rss" />
     <author>
