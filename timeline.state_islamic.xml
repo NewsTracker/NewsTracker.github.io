@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ohio man accused of supporting Islamic State terror group pleads not guilty</title>
+    <link rel="alternate" href="http://www.startribune.com/man-charged-with-supporting-islamic-state-pleads-not-guilty/318033021/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T23:50:11Z</updated>
+    <published>2015-07-21T23:50:11Z</published>
+    <summary type="html">&lt;p&gt;Authorities say Al-Ghazi, formerly Robert McCollum, pledged his support online to the Islamic State group and tried to recruit others to join the cause.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T23:50:11Z</dc:date>
+  </entry>
+  <entry>
     <title>Bombing shows Turkey a vulnerable target for Islamic State</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/bombing-shows-turkey-a-vulnerable-target-for-islam/nm4KR/" />
     <author>

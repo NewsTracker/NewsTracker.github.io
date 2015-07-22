@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft books $8.4 billion write-down on phones in 4Q</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article28042351.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T23:32:04Z</updated>
+    <published>2015-07-21T23:32:04Z</published>
+    <summary type="html">&lt;p&gt;Microsoft plans for Windows 10 to be its last version of Windows before transitioning the business to a fee-for-service model down the road, although how that will work is unclear.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T23:32:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Microsoft Books $8.4 Billion Write-Down on Phones in 4Q</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/microsoft-books-84-billion-write-phones-4q-32602478" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T23:25:24Z</updated>
+    <published>2015-07-21T23:25:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-21T23:25:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Microsoft posts record loss as it writes down Nokia</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/microsoft-reports-3-2-billion-quarterly-loss-201708912--finance.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T22:58:11Z</updated>
+    <published>2015-07-21T22:58:11Z</published>
+    <summary type="html">&lt;p&gt;Sales of Windows to businesses fell 21 percent from the year-earlier quarter, when demand for the operating system had surged after Microsoft discontinued support for Windows XP.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T22:58:11Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/k8UBiuQWEHUR15tUJACXQg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIwMDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/News/Reuters/2015-07-21T201708Z_1_LYNXNPEB6K0YX_RTROPTP_2_MICROSOFT-REDUNDANCIES.JPG" />
+  </entry>
+  <entry>
     <title>Microsoft Posts Largest-Ever Net Loss After Nokia Writedown</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28517511/microsoft-posts-largest-ever-net-loss-after-nokia?source=rss" />
     <author>
