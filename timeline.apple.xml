@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Won't Say How Many Watches It Sold</title>
+    <link rel="alternate" href="http://abcnews.go.com/Business/apple-stays-coy-watch-sales-stock-declines/story?id=32600055" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T03:05:09Z</updated>
+    <published>2015-07-22T03:05:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-22T03:05:09Z</dc:date>
+    <media:content url="http://a.abcnews.com/images/Politics/GTY_barack_obama_sasha_1_jt_150718_mn_16x9t_384.jpg" />
+  </entry>
+  <entry>
     <title>Apple earnings rise on strong iPhone sales but impact of watch remains unclear</title>
     <link rel="alternate" href="http://www.ctvnews.ca/business/apple-earnings-rise-on-strong-iphone-sales-but-impact-of-watch-remains-unclear-1.2480438" />
     <author>
@@ -689,41 +701,5 @@
     <summary type="html">&lt;p&gt;"I'm not sure you know that Apple Music will not be paying writers, producers, or artists for those three months. I find it to be shocking, disappointing, and completely unlike this historically progressive and generous company."&lt;/p&gt;</summary>
     <dc:date>2015-06-21T13:00:00Z</dc:date>
     <media:content url="http://assets.rollingstone.com/assets/2015/article/indie-label-beggars-group-expresses-apple-music-concerns-20150618/200025/small_square/1434636750/100x100-5c064424-cd9c-ef77-f10d-e0c7dcad15a7_Mad_Men_0955_RGB.jpg" />
-  </entry>
-  <entry>
-    <title>Apple puts news at core of revamped system</title>
-    <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/apple-puts-news-at-core-of-revamped-system-20150621-ghtgwi.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T04:07:52Z</updated>
-    <published>2015-06-21T04:07:52Z</published>
-    <summary type="html">&lt;p&gt;Washington: Apple is diving deeper into the news business with a new application that could make the US tech giant a key industry player.&lt;/p&gt;&lt;p&gt;"Apple is eager to have news created by human beings and not algorithms - it fits in with the brand statement Apple has been making," said Judd Slivka, a professor of mobile journalism at the University of Missouri.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T04:07:52Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/h/t/k/8/9/image.related.articleLeadNarrow.300x0.ghtgwi.png/1434879305504.jpg" />
-  </entry>
-  <entry>
-    <title>Apple puts news at core of revamped system</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/digital-life/digital-life-news/apple-puts-news-at-core-of-revamped-system-20150621-ghtgwi.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T04:07:52Z</updated>
-    <published>2015-06-21T04:07:52Z</published>
-    <summary type="html">&lt;p&gt;In a surprising move, Apple has unveiled it will be hiring experienced journalists to manage its news feeds.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T04:07:52Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/h/t/k/8/9/image.related.articleLeadNarrow.300x0.ghtgwi.png/1434879305504.jpg" />
-  </entry>
-  <entry>
-    <title>Apple puts news at core of revamped system</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/apple-puts-news-at-core-of-revamped-system-20150621-ghtgwi.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T04:07:52Z</updated>
-    <published>2015-06-21T04:07:52Z</published>
-    <summary type="html">&lt;p&gt;Apple News, part of the upcoming iOS 9 operating system, aims to be the primary news source for users of the iPhone and iPad.&lt;/p&gt;&lt;p&gt;Customers browse Apple Watches in New York.&lt;/p&gt;&lt;p&gt;Although Apple is likely to use some algorithms to filter stories, the hiring of experienced journalists is a positive step, said Dan Kennedy, a journalism professor at Northeastern University.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T04:07:52Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/h/t/k/8/9/image.related.articleLeadNarrow.300x0.ghtgwi.png/1434859663188.jpg" />
   </entry>
 </feed>
