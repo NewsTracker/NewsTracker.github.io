@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek parliament tested by dissent ahead of key reform vote</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article28082050.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T21:40:10Z</updated>
+    <published>2015-07-22T21:40:10Z</published>
+    <summary type="html">&lt;p&gt;Riot policemen try to avoid a petrol bomb thrown by anti-austerity protesters during a rally outside the Greek Parliament in Athens, Wednesday, July 22, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T21:40:10Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Greece gets new liquidity boost ahead of key reform vote</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article28082050.html%23storylink=rss" />
     <author>
@@ -4540,29 +4552,5 @@
     <published>2015-06-22T16:05:23Z</published>
     <summary type="html">&lt;p&gt;A debt default by Greece could destabilize its banks - Greeks are already withdrawing increasingly large amounts of money - and could in a worst case scenario cause the country to have to leave the euro.&lt;/p&gt;</summary>
     <dc:date>2015-06-22T16:05:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>European leaders working hard to keep Greece in eurozone</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/greece-presents-new-financial-proposals-to-europea/nmhZY/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T21:02:27Z</updated>
-    <published>2015-06-21T21:02:27Z</published>
-    <summary type="html">&lt;p&gt;Presidential Guards perform a change of shift as anti-austerity protesters hold a rally in front of the parliament in Athens, Greece, on Sunday, June 21, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T21:02:27Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/21/d9/aa/d6fd049a1ea4418f815afdce1e3d93ec-9142a1b8966d4573809c45d61eac2188-0.jpg" />
-  </entry>
-  <entry>
-    <title>Greece offers new proposals ahead of emergency summit</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/22/greece-offers-new-proposals-ahead-emergency-summit" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T20:41:12Z</updated>
-    <published>2015-06-21T20:41:12Z</published>
-    <summary type="html">&lt;p&gt;After months of wrangling and with anxious depositors pulling billions of euros out of Greek banks, Tsipras's leftist government showed a new willingness this weekend to make concessions that would unlock frozen aid to avert default.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T20:41:12Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/podcast/2015-06/site_197_World%2520News_419999.JPG?itok=re3OTVQk" />
   </entry>
 </feed>

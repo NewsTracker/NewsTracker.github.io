@@ -5,6 +5,29 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Technology shares lead a slump in US stocks; Apple sinks</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article28221517.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T20:50:08Z</updated>
+    <published>2015-07-22T20:50:08Z</published>
+    <summary type="html">&lt;p&gt;"Apple is the biggest publicly traded company in the world, so it's going to have a big impact on the indices," noted Erik Davidson, chief investment officer at Wells Fargo Private Bank.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T20:50:08Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Technology shares lead a slump in US stocks; Apple sinks</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/22/tech-shares-lead-an-early-slump-for-us-stocks" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T20:47:16Z</updated>
+    <published>2015-07-22T20:47:16Z</published>
+    <summary type="html">&lt;p&gt;The major stock indexes declined from the get-go as traders reacted to weaker showings late Tuesday from Microsoft, Yahoo and Apple.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T20:47:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Technology shares lead a slump in US stocks; Apple sinks</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/mobile/m-top-stories/article28221517.html%23storylink=rss" />
     <author>
       <name />
@@ -804,16 +827,5 @@
     <summary type="html">&lt;p&gt;"We hear you @taylorswift13 and indie artists. Love, Apple," tweeted executive Eddy @Cue.&lt;/p&gt;</summary>
     <dc:date>2015-06-22T15:11:33Z</dc:date>
     <media:content url="http://ichef.bbci.co.uk/news/304/cpsprodpb/75E1/production/_83777103_swift1_624getty.jpg" />
-  </entry>
-  <entry>
-    <title>Taylor Swift pens open letter to Apple about "shocking" policy</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/taylor-swift-pens-open-letter-to-apple-about-shocking-policy/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T22:02:42Z</updated>
-    <published>2015-06-21T22:02:42Z</published>
-    <summary type="html">&lt;p&gt;But I say to Apple with all due respect, it's not too late to change this policy and change the minds of those in the music industry who will be deeply and gravely affected by this.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T22:02:42Z</dc:date>
   </entry>
 </feed>
