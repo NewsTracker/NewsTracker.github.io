@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek bailout vote to test Syriza party rebellion</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/greek-pm-tsipras-faces-key-064717921.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T09:25:35Z</updated>
+    <published>2015-07-22T09:25:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-22T09:25:35Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/.M0307iQy1QcQ4rAqZyNKQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-07-22T064912Z_2_LYNXNPEB6L07M_RTROPTP_3_EUROZONE-GREECE_original.jpg" />
+  </entry>
+  <entry>
+    <title>Greece: Parliament to vote on more bailout conditions</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/22/greece-parliament-to-vote-on-more-bailout-conditions" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T08:20:31Z</updated>
+    <published>2015-07-22T08:20:31Z</published>
+    <summary type="html">&lt;p&gt;Greece's parliament has begun an emergency debate on a second round of conditions demanded by international creditors for a new bailout - a vote that could threaten the coalition government.&lt;/p&gt;&lt;p&gt;The vote later on changes to the judicial and banking sectors is one of the requirements that Greece's European creditors insisted upon for negotiations on a third bailout worth around 85 billion euros ($93 billion) to begin.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T08:20:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Greek PM Tsipras rallies Syriza backing before bailout vote</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/22/us-eurozone-greece-idUSKCN0PV0G620150722?feedType=RSS&amp;amp;feedName=topNews" />
     <author>
@@ -4576,38 +4599,5 @@
     <published>2015-06-21T13:21:03Z</published>
     <summary type="html">&lt;p&gt;Tsipras "presented to the three leaders Greece's proposal for a mutually beneficial agreement, which will provide a permanent solution and not just postpone tackling the problem," the press office statement said.&lt;/p&gt;</summary>
     <dc:date>2015-06-21T13:21:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>Morgan Stanley CEO expects Greece to stay in euro zone -paper</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/21/morgan-stanley-ceo-idUSL5N0Z608U20150621?type=companyNews&amp;amp;feedType=RSS&amp;amp;feedName=companyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T09:20:41Z</updated>
-    <published>2015-06-21T09:20:41Z</published>
-    <summary type="html">&lt;p&gt;Euro zone leaders will attend an emergency summit on Monday, hoping to thrash out a plan with Athens to provide Greece with funds to prevent it defaulting on its debt.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T09:20:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek drama nears final act, ending uncertain</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/21/us-global-economy-weekahead-idUSKBN0P109V20150621?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T09:06:06Z</updated>
-    <published>2015-06-21T09:06:06Z</published>
-    <summary type="html">&lt;p&gt;If Greece does default on its debts, which remains a real possibility, it could require capital controls that would potentially turf it out of the euro zone or even the European Union itself, becoming the first country ever to leave the bloc.&lt;/p&gt;&lt;p&gt;Merkel faces growing opposition from within her ruling conservatives to granting Greece any more bailout money, with a recent opinion poll showing a narrow majority of Germans now in favor of Greece leaving the currency union.&lt;/p&gt;</summary>
-    <dc:date>2015-06-21T09:06:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek drama nears final act, ending uncertain</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greek-drama-nears-final-act-090606892.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-21T09:06:06Z</updated>
-    <published>2015-06-21T09:06:06Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-21T09:06:06Z</dc:date>
   </entry>
 </feed>
