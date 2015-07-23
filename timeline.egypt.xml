@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>15 drowned when boats collided on the Nile in Egypt</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11485610&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T22:40:23Z</updated>
+    <published>2015-07-22T22:40:23Z</published>
+    <summary type="html">&lt;p&gt;CAIRO (AP) " Egypt's Interior ministry says at least 15 civilians have drowned when a passenger boat traveling down the Nile near Cairo collided with a scow, causing the boat to capsize.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T22:40:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>15 drowned when boats collided on the Nile in Egypt</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/22/15-drowned-when-boats-collided-on-the-nile-in/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T22:34:03Z</updated>
+    <published>2015-07-22T22:34:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-22T22:34:03Z</dc:date>
+  </entry>
+  <entry>
     <title>Mubarak-Era Premier Gets 5 Years in Egypt Corruption Case</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mubarak-era-premier-years-egypt-corruption-case-32617496" />
     <author>

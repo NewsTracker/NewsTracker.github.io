@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft joins effort to curb revenge porn</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/07/22/22520121-relaxnews.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T21:50:13Z</updated>
+    <published>2015-07-22T21:50:13Z</published>
+    <summary type="html">&lt;p&gt;"When someone shares intimate images of another person online without that person's consent, the effects can be truly devastating," said Microsoft chief online safety office Jacqueline Beauchere in a blog post.&lt;/p&gt;&lt;p&gt;Beauchere said Microsoft has honoured requests to take down such content, but that it has now established a new reporting page that makes the process easier.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T21:50:13Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/Microgalleries/2015/06/15/minecrafthololens650.jpg&amp;amp;amp;size=200x112&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Microsoft's hardware strategy under scrutiny after record loss</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/22/us-microsoft-hardware-idUSKCN0PW25U20150722?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>
