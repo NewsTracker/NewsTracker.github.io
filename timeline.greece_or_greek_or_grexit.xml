@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek store closures spike as recession, austerity return</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/greek-store-closures-spike-recession-111132070.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T16:33:01Z</updated>
+    <published>2015-07-23T16:33:01Z</published>
+    <summary type="html">&lt;p&gt;ATHENS, Greece (AP) -- Giorgos Prasinoudis ran his motocycle repair shop in Athens for three decades, through good times and bad.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T16:33:01Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/Knfze9rJvyG8_HFovcra7A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_HEADLINES_BUSINESS/91731b1fae31ed207c0f6a7067008a34_original.jpg" />
+  </entry>
+  <entry>
+    <title>Greek store closures spike as recession, austerity return</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-store-closures-spike-as-recession-austerity-/nm5QZ/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T16:32:38Z</updated>
+    <published>2015-07-23T16:32:38Z</published>
+    <summary type="html">&lt;p&gt;Uncertainty over Greece's bailout and recent capital controls have led to a new spate of store closures in Greek capital.&lt;/p&gt;&lt;p&gt;"It's over for Greece," said Pradinoudis.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T16:32:38Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/23/ca/1f/82506264bd3140048781407a5353cd42-04b561abd18c401fbfb6cd86716b6037-0.jpg" />
+  </entry>
+  <entry>
     <title>Greece faces recession warning as bailout talks set to open</title>
     <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/07/23/22521861.html?cid=rssnewsworld" />
     <author>
@@ -4588,28 +4612,5 @@
     <published>2015-06-25T17:59:16Z</published>
     <summary type="html">&lt;p&gt;ATHENS, Greece (AP) - Greece has adopted legislation granting nationality to the children of foreign nationals living in the country, provided they attend or have attended school in the country.&lt;/p&gt;&lt;p&gt;But the legislation was approved with the support of center-left opposition parties, while the conservative main opposition and the Nazi-inspired Golden Dawn party - Greece's third-largest - voted against.&lt;/p&gt;&lt;p&gt;The new law is expected to affect up to 200,000 second-generation immigrants, many of whose parents arrived in Greece during a big migratory flow from eastern Europe since the early 1990s.&lt;/p&gt;</summary>
     <dc:date>2015-06-25T17:59:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>THE LATEST: Greeks march to show support for staying in euro</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article25139878.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-22T17:21:04Z</updated>
-    <published>2015-06-22T17:21:04Z</published>
-    <summary type="html">&lt;p&gt;The eurozone's top official says creditors aim to get a deal on Greece's bailout later in the week.&lt;/p&gt;</summary>
-    <dc:date>2015-06-22T17:21:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>THE LATEST: Greek demonstrators march in Athens to show support for staying in the euro</title>
-    <link rel="alternate" href="http://www.startribune.com/the-latest-on-greece-markets-surge-on-hopes-for-a-deal/308962711/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-22T17:20:35Z</updated>
-    <published>2015-06-22T17:20:35Z</published>
-    <summary type="html">&lt;p&gt;Another meeting, and again a lack of clear Greek proposals, German Finance Wolgang Schaeuble groused Monday.&lt;/p&gt;&lt;p&gt;Schaeuble said Monday ahead of a finance ministers' meeting on the issue: "We are still in the same situation as last Thursday," when the 19 ministers of the eurozone last assessed Greece's proposals.&lt;/p&gt;&lt;p&gt;Hollande is urging Greece to find an agreement at a Monday summit in Brussels between Greece and its creditors.&lt;/p&gt;&lt;p&gt;Leaders of the 19-nation eurozone are gathering in Brussels for a last-ditch summit aimed at clinching a deal between Greece and international lenders as a major debt payment deadline looms.&lt;/p&gt;</summary>
-    <dc:date>2015-06-22T17:20:35Z</dc:date>
   </entry>
 </feed>
