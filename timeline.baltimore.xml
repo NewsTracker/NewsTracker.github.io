@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ex-Baltimore cop planning blackface fundraiser</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/ex-baltimore-cop-planning-blackface-fundraising-performance/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T04:01:45Z</updated>
+    <published>2015-07-23T04:01:45Z</published>
+    <summary type="html">&lt;p&gt;-- A former Baltimore police officer said Wednesday that he plans to perform an Al Jolson routine in blackface to raise money for the six Baltimore officers who have been indicted in the death of Freddie Gray.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T04:01:45Z</dc:date>
+  </entry>
+  <entry>
     <title>In wake of riots and crime spike, Baltimore mayor under fire</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article28082416.html%23storylink=rss" />
     <author>
