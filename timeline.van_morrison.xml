@@ -1,42 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom">
   <title>NewsTracker: van morrison</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.van_morrison.xml" />
   <subtitle>This is a news tracking demo</subtitle>
-  <entry>
-    <title>Lady Gaga, Van Morrison honored at songwriters ceremony</title>
-    <link rel="alternate" href="http://nypost.com/2015/06/19/lady-gaga-van-morrison-honored-at-songwriters-ceremony/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T10:17:27Z</updated>
-    <published>2015-06-19T10:17:27Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-19T10:17:27Z</dc:date>
-    <media:content url="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g" />
-  </entry>
-  <entry>
-    <title>Songwriters Hall of Fame honors Van Morrison, Lady Gaga</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/19/us-music-gaga-award-idUSKBN0OZ1HN20150619?feedType=RSS&amp;amp;feedName=peopleNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T18:40:27Z</updated>
-    <published>2015-06-19T18:40:27Z</published>
-    <summary type="html">&lt;p&gt;Recording artist Van Morrison gestures on the red carpet before the Songwriters Hall of Fame ceremony in New York, June 18, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T18:40:27Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources/r/?d=20150617&amp;amp;i=108846877&amp;amp;w=240&amp;amp;r=108846877-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Lady Gaga, Van Morrison honored at songwriters ceremony</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article24950686.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-19T06:51:04Z</updated>
-    <published>2015-06-19T06:51:04Z</published>
-    <summary type="html">&lt;p&gt;Morrison and Lady Gaga picked up honorary prizes, while awards also were presented to Nate Ruess and the former CEO of the American Society of Composers Authors and Publishers (ASCAP), John LoFrumento.&lt;/p&gt;&lt;p&gt;Honoree Van Morrison performs at the 46th Annual Songwriters Hall Of Fame Induction and Awards Gala at the Marriott Marquis on Thursday, June 18, 2015, in New York.&lt;/p&gt;</summary>
-    <dc:date>2015-06-19T06:51:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
 </feed>

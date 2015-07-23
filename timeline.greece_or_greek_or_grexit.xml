@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece faces recession warning as bailout talks set to open</title>
+    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/07/23/22521861.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T13:53:35Z</updated>
+    <published>2015-07-23T13:53:35Z</published>
+    <summary type="html">&lt;p&gt;Banks have re-opened after the ECB restored emergency funding last week but capital controls remain in place, hobbling companies that deal with suppliers outside Greece and highlighting the fragile state of the financial system.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T13:53:35Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://cnews.canoe.com/CNEWS/World/2015/07/23/Greece_s_Prime_Minister_Alexis_Tsipras_delivers_a_speech_during_an_emergency_parliament_session_in_Athens.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Greek store closures spike as austerity returns</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/greek-store-closures-spike-as-recession-austerity-return/" />
     <author>
@@ -4599,28 +4611,5 @@
     <published>2015-06-22T17:20:35Z</published>
     <summary type="html">&lt;p&gt;Another meeting, and again a lack of clear Greek proposals, German Finance Wolgang Schaeuble groused Monday.&lt;/p&gt;&lt;p&gt;Schaeuble said Monday ahead of a finance ministers' meeting on the issue: "We are still in the same situation as last Thursday," when the 19 ministers of the eurozone last assessed Greece's proposals.&lt;/p&gt;&lt;p&gt;Hollande is urging Greece to find an agreement at a Monday summit in Brussels between Greece and its creditors.&lt;/p&gt;&lt;p&gt;Leaders of the 19-nation eurozone are gathering in Brussels for a last-ditch summit aimed at clinching a deal between Greece and international lenders as a major debt payment deadline looms.&lt;/p&gt;</summary>
     <dc:date>2015-06-22T17:20:35Z</dc:date>
-  </entry>
-  <entry>
-    <title>Europe cautiously optimistic of Greek debt deal this week</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article25139845.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-22T16:11:04Z</updated>
-    <published>2015-06-22T16:11:04Z</published>
-    <summary type="html">&lt;p&gt;Eurozone nations were cautiously optimistic on Monday that a deal on Greece's bailout was finally within reach this week, amid fears the country might otherwise default on its debts and fall out of the euro.&lt;/p&gt;</summary>
-    <dc:date>2015-06-22T16:11:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Europe cautiously optimistic of Greek debt deal this week</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/06/22/markets-surge-ahead-of-last-ditch-summit-on-greece" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-22T16:05:23Z</updated>
-    <published>2015-06-22T16:05:23Z</published>
-    <summary type="html">&lt;p&gt;A debt default by Greece could destabilize its banks - Greeks are already withdrawing increasingly large amounts of money - and could in a worst case scenario cause the country to have to leave the euro.&lt;/p&gt;</summary>
-    <dc:date>2015-06-22T16:05:23Z</dc:date>
   </entry>
 </feed>

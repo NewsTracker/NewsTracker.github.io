@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA asks Russia why ban Emmanuel Frimpong for reaction to apparent racism</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/07/23/fifa-asks-russia-why-ban-emmanuel-frimpong-for-reaction-to-apparent-racism" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T15:35:53Z</updated>
+    <published>2015-07-23T15:35:53Z</published>
+    <summary type="html">&lt;p&gt;In December 2010, within hours of winning the FIFA vote to host its first World Cup, Russian leader Vladimir Putin said on football racism: "We see it and we believe it is a problem.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T15:35:53Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297727704273_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
     <title>Fifa corruption: Trinidad receives extradition papers for Jack Warner</title>
     <link rel="alternate" href="http://www.theguardian.com/football/2015/jul/23/fifa-corruption-trinidad-receives-extradition-papers-for-jack-warner" />
     <author>
@@ -1490,17 +1502,5 @@
     <summary type="html">&lt;p&gt;If Diego Maradona is serious about running for the FIFA presidency, he still has a lot of work to do just to get on the ballot.&lt;/p&gt;&lt;p&gt;Maradona's desire to run for FIFA's top job was reported by Victor Hugo Morales, a journalist close to the retired great.&lt;/p&gt;</summary>
     <dc:date>2015-06-22T17:31:05Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Diego Maradona plans run for FIFA presidency</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/06/22/diego-maradona-plans-run-for-fifa-presidency" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-22T16:18:20Z</updated>
-    <published>2015-06-22T16:18:20Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-22T16:18:20Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297715337520_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
 </feed>

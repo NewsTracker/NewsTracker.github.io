@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt death toll rises to 17 in Nile collision; 2 detained</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11485992&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T15:35:16Z</updated>
+    <published>2015-07-23T15:35:16Z</published>
+    <summary type="html">&lt;p&gt;CAIRO (AP) " Egypt's health ministry says the death toll from a collision of two boats on the Nile the night before has risen to 17, after two more bodies were retrieved from the river.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T15:35:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt death toll rises to 17 in Nile collision; 2 detained</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28401973.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T15:34:11Z</updated>
+    <published>2015-07-23T15:34:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-23T15:34:11Z</dc:date>
+  </entry>
+  <entry>
     <title>15 drowned when boats collided on the Nile in Egypt</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11485610&amp;amp;ref=rss" />
     <author>
@@ -548,16 +570,5 @@
     <published>2015-06-22T16:25:33Z</published>
     <summary type="html">&lt;p&gt;CAIRO - The U.S. Embassy in Cairo says America has delivered two vessels, known as fast missile craft, to Egypt's navy to help it secure vital waterways such as the Suez Canal and Red Sea.&lt;/p&gt;&lt;p&gt;The embassy's senior defense official, Maj. Gen. Charles Hooper, says the delivery is a sign of America's ongoing commitment to Egypt and the two countries' shared security interests in the region.&lt;/p&gt;</summary>
     <dc:date>2015-06-22T16:25:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>US Delivers 2 Missile Ships to Egypt for Security Support</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/us-delivers-missile-ships-egypt-security-support-31943729" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-22T16:22:58Z</updated>
-    <published>2015-06-22T16:22:58Z</published>
-    <summary type="html">&lt;p&gt;Monday's statement on the embassy website says the ships were delivered last week in the Mediterranean port city of Alexandria, doubling Egypt's current number of such vessels.&lt;/p&gt;&lt;p&gt;The embassy says the total of four ships represent a $1.1 billion investment by the United States in its strategic partnership with Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-06-22T16:22:58Z</dc:date>
   </entry>
 </feed>

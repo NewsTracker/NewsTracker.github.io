@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Maple Leafs hire longtime Devils exec Lou Lamoriello as GM (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/maple-leafs-hire-longtime-devils-exec-lou-lamoriello-145137278--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T14:51:37Z</updated>
+    <published>2015-07-23T14:51:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-23T14:51:37Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest: Simon Geschke wins Stage 17 of Tour (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/latest-stage-17-tour-begins-alps-horizon-111142472--spt.html" />
     <author>
