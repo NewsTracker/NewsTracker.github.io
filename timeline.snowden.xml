@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>NSA leaker Edward Snowden seeks return to US, on his terms</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nsa-leaker-edward-snowden-seeks-return-to-us-on-his-terms-20150723-gijdil.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T12:45:10Z</updated>
+    <published>2015-07-23T12:45:10Z</published>
+    <summary type="html">&lt;p&gt;Whistleblower Edward Snowden remains in hiding two years after the revelations.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T12:45:10Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/j/d/j/k/image.related.articleLeadwide.620x349.gijdil.png/1437655479169.jpg" />
+  </entry>
+  <entry>
     <title>German spy chief sees reason to thank Snowden</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/21/german-officials-to-ask-us-for-clarity-on-latest-spy-claims" />
     <author>

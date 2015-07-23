@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Review: Google photo service is strong on search</title>
+    <link rel="alternate" href="http://www.chron.com/business/technology/article/Review-Google-photo-service-is-strong-on-search-6401103.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T10:52:40Z</updated>
+    <published>2015-07-23T10:52:40Z</published>
+    <summary type="html">&lt;p&gt;Photo services from Google, Yahoo and Apple all store copies of those photos and video online.&lt;/p&gt;&lt;p&gt;The latest offering, Google Photos, isn't perfect.&lt;/p&gt;&lt;p&gt;Google and Apple use face-recognition technology to sort photos by individuals, while Yahoo knows only that there's someone there - not who.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T10:52:40Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/66/35/8349538/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Review: Google photo service is strong on search</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11485906&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T10:20:18Z</updated>
+    <published>2015-07-23T10:20:18Z</published>
+    <summary type="html">&lt;p&gt;On the other hand, Google has the best tools for searching photos.&lt;/p&gt;&lt;p&gt;Here's a look at Google Photos and how it compares with Apple's and Yahoo's offerings.&lt;/p&gt;&lt;p&gt;Photos and video on your device will automatically upload to Google's servers.&lt;/p&gt;&lt;p&gt;Google, Apple and Yahoo use computer software to tag photos to help you find them more easily.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T10:20:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Google Maps Now Shows You Everywhere You've Been</title>
     <link rel="alternate" href="https://www.yahoo.com/tech/s/google-maps-now-shows-everywhere-175301996.html" />
     <author>

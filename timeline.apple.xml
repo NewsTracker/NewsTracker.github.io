@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Music streaming service: Clunky, cool, catchy</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article28389055.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T08:00:00Z</updated>
+    <published>2015-07-23T08:00:00Z</published>
+    <summary type="html">&lt;p&gt;Apple does a better job than either of them.&lt;/p&gt;&lt;p&gt;Apple Music is far from perfect, though.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T08:00:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Technology shares lead a slump in US stocks; Apple sinks</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article28221517.html%23storylink=rss" />
     <author>
