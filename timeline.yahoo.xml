@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Report: Ohio State's Miller shifting from QB to receiver (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/report-ohio-states-miller-shifting-qb-receiver-030444228--ncaaf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T03:56:15Z</updated>
+    <published>2015-07-24T03:56:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-24T03:56:15Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Dodgers' Kershaw breezes through meek-hitting Mets (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/dodgers-kershaw-breezes-meek-hitting-mets-014857937--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T03:20:27Z</updated>
+    <published>2015-07-24T03:20:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-24T03:20:27Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/AX9OJ1tuLJWFy3Mmtehz9g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507232048749217786" />
+  </entry>
+  <entry>
+    <title>Greinke's shutout streak on hold for birth of 1st child (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/greinkes-shutout-streak-hold-birth-1st-child-215844483--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T02:26:17Z</updated>
+    <published>2015-07-24T02:26:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-24T02:26:17Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/P9XNtWxVgB3Yf6U.yZa4sw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507191652607461466" />
+  </entry>
+  <entry>
     <title>Maple Leafs hire longtime Devils exec Lou Lamoriello as GM (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/maple-leafs-hire-longtime-devils-exec-lou-lamoriello-145137278--nhl.html" />
     <author>
