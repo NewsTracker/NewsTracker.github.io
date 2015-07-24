@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tunisia police kill suspected militant and arrest 13 others</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/tunisia-police-kill-suspected-militant-and-arrest-13-others-31401947.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T14:57:28Z</updated>
+    <published>2015-07-24T14:57:28Z</published>
+    <summary type="html">&lt;p&gt;One suspected militant has been killed and 13 others arrested in a late-night operation that foiled a planned attack in Tunisia.&lt;/p&gt;</summary>
+    <dc:date>2015-07-24T14:57:28Z</dc:date>
+    <media:content url="http://cdn2.belfasttelegraph.co.uk/news/world-news/article31401946.ece/03b63/ALTERNATES/h342/PANews%20BT_P-8ef51aa2-4a55-40eb-b78b-98e5b4a2ca2d_I1.jpg" />
+  </entry>
+  <entry>
     <title>EU Agrees to Help Tunisia Fight Terror, Boost Economy</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/eu-agrees-tunisia-fight-terror-boost-economy-32572622" />
     <author>

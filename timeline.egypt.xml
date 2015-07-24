@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Croatian man kidnapped in Egypt; said to be energy worker</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/24/croatian-man-kidnapped-in-egypt-said-to-be-energy-worker" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T15:34:22Z</updated>
+    <published>2015-07-24T15:34:22Z</published>
+    <summary type="html">&lt;p&gt;ZAGREB, Croatia (AP) - A Croatian man has been kidnapped in Egypt by an unidentified armed group, Croatia's foreign ministry said Friday.&lt;/p&gt;</summary>
+    <dc:date>2015-07-24T15:34:22Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt raises death toll from Nile boat collision to 31</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28490062.html%23storylink=rss" />
     <author>

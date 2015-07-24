@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple pulls Nest from shelves</title>
+    <link rel="alternate" href="http://video.cnbc.com/gallery/?video=3000400272" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T13:00:00Z</updated>
+    <published>2015-07-24T13:00:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-24T13:00:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/24/102862178-560c32e6dea83e7ac58a11ef420c6f1ef133d280.160x105.jpg?v=1437746333" />
+  </entry>
+  <entry>
     <title>Apple Music streaming service: Clunky, cool, catchy</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article28389055.html%23storylink=rss" />
     <author>
