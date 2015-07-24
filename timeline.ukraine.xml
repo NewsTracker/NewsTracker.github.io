@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine's new police on charm offensive in Kiev</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/24/ukraine-new-police-on-charm-offensive-in-kiev-in-government-first-visible/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T18:28:52Z</updated>
+    <published>2015-07-24T18:28:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-24T18:28:52Z</dc:date>
+  </entry>
+  <entry>
     <title>Cars of OSCE observers vandalized in eastern Ukraine</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28489627.html%23storylink=rss" />
     <author>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Facebook defeats shareholder litigation over IPO</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/24/us-facebook-lawsuit-idUSKCN0PY1MR20150724?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T18:24:41Z</updated>
+    <published>2015-07-24T18:24:41Z</published>
+    <summary type="html">&lt;p&gt;Shareholders said Facebook should have publicly revealed its internal projections on how increased mobile usage might reduce future revenue, rather than quietly warn its underwriters, which then cut their earnings forecasts.&lt;/p&gt;&lt;p&gt;Sweet also oversees shareholder class-action litigation against Facebook itself over the IPO.&lt;/p&gt;</summary>
+    <dc:date>2015-07-24T18:24:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook defeats shareholder litigation over IPO</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/facebook-defeats-shareholder-litigation-over-134742991.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T18:24:41Z</updated>
+    <published>2015-07-24T18:24:41Z</published>
+    <summary type="html">&lt;p&gt;The case is In re: Facebook Inc Initial Public Offering Derivative Litigation, 2nd U.S. Circuit Court of Appeals, Nos.&lt;/p&gt;</summary>
+    <dc:date>2015-07-24T18:24:41Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/AzdYrdfQ4E10X.ztDy5nSw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-24T182441Z_4_LYNXNPEB6N0NC_RTROPTP_3_CTECH-US-FACEBOOK-PRIVACY-WARRANTS_original.jpg" />
+  </entry>
+  <entry>
     <title>Facebook loses in clash with prosecutors over users' data</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28518088/facebook-loses-clash-prosecutors-over-users-data?source=rss" />
     <author>
