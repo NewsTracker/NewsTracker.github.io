@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple removes Nest Labs thermostats from U.S. stores</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/24/us-apple-inc-nest-idUSKCN0PY2AP20150724?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T20:10:02Z</updated>
+    <published>2015-07-24T20:10:02Z</published>
+    <summary type="html">&lt;p&gt;"Our new products will be available through Apple in the coming weeks," she said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-24T20:10:02Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple pulls Nest from shelves</title>
     <link rel="alternate" href="http://video.cnbc.com/gallery/?video=3000400272" />
     <author>
