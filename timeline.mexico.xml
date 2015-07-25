@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Lightning strike kills 7, including 4 children, in Mexico</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28678777.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T02:04:09Z</updated>
+    <published>2015-07-25T02:04:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-25T02:04:09Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico human rights commission: Investigation into 43 missing rife with errors, omissions</title>
     <link rel="alternate" href="http://www.startribune.com/mexico-rights-group-errors-omissions-in-case-of-43-missing/318314361/" />
     <author>

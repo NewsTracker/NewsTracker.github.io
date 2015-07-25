@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>ESPN says Cowherd won't be on air after Dominican comments (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/mlb-says-cowherd-owes-dominicans-apology-remarks-185453392--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T00:47:10Z</updated>
+    <published>2015-07-25T00:47:10Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-25T00:47:10Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/H6OUjSj2s5eDTL63TJfiFA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM0NztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507241451535060215" />
+  </entry>
+  <entry>
+    <title>Chiefs cornerback Smith suspended 3 games for DUI arrest (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/chiefs-cornerback-smith-suspended-3-games-dui-arrest-161257845--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T16:38:14Z</updated>
+    <published>2015-07-24T16:38:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-24T16:38:14Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/G9Dy9SN2Bx2mG_C97KZVVQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507241130414049299" />
+  </entry>
+  <entry>
     <title>Dodgers put Greinke on paternity list, next start isn't set (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/dodgers-put-greinke-paternity-list-next-start-isnt-193758999--mlb.html" />
     <author>

@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.kenya.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kenya welcomes President Obama</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article28681015.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T02:28:32Z</updated>
+    <published>2015-07-25T02:28:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-25T02:28:32Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Kenya bids 'welcome home' to President Obama</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/kenya-bids-welcome-home-to-president-obama-20150725-gik9j9.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T00:02:06Z</updated>
+    <published>2015-07-25T00:02:06Z</published>
+    <summary type="html">&lt;p&gt;President Barack Obama poses for a photograph with Joan Wamaitha, 8, who gave him flowers on his arrival at the Jomo Kenyatta International Airport in Nairobi, Kenya.&lt;/p&gt;</summary>
+    <dc:date>2015-07-25T00:02:06Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/k/9/m/r/image.related.articleLeadwide.620x349.gik9j9.png/1437786688023.jpg" />
+  </entry>
+  <entry>
+    <title>Kenya bids 'welcome home' to President Obama</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/kenya-bids-welcome-home-to-president-obama-20150725-gik9j9.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T00:02:06Z</updated>
+    <published>2015-07-25T00:02:06Z</published>
+    <summary type="html">&lt;p&gt;Obama's father was born here in 1936 and died in 1982, and Obama is widely viewed as a son of Kenya.&lt;/p&gt;&lt;p&gt;Obama first came to Kenya in 1987 to trace his father's story and to meet his Kenyan family.&lt;/p&gt;</summary>
+    <dc:date>2015-07-25T00:02:06Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/k/9/m/r/image.related.articleLeadwide.620x349.gik9j9.png/1437786688023.jpg" />
+  </entry>
+  <entry>
     <title>Obama returns to Kenya, reunites with father's family</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Obama-returns-to-Kenya-reunites-with-fathers-family/articleshow/48209777.cms" />
     <author>
