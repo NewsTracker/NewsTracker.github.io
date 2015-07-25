@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt raises death toll from Nile boat collision to 35</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28693648.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T09:53:55Z</updated>
+    <published>2015-07-25T09:53:55Z</published>
+    <summary type="html">&lt;p&gt;Egyptians look at the passenger boat that sunk in the river Nile in Giza, south of Cairo, Egypt, Thursday, July 23, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-07-25T09:53:55Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Croatian man kidnapped in Egypt; said to be energy worker</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/24/croatian-man-kidnapped-in-egypt-said-to-be-energy-worker" />
     <author>
