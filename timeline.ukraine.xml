@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Live Blog: Ukraine In Crisis</title>
+    <link rel="alternate" href="http://www.rferl.org/contentlive/ukraine-live-blog/27133576.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T01:21:55Z</updated>
+    <published>2015-07-25T01:21:55Z</published>
+    <summary type="html">&lt;p&gt;"This training is part of our long-running defense cooperation with Ukraine."&lt;/p&gt;</summary>
+    <dc:date>2015-07-25T01:21:55Z</dc:date>
+  </entry>
+  <entry>
     <title>US to expand Ukraine military training</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article28597066.html%23storylink=rss" />
     <author>
