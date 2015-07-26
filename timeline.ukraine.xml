@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ukraine claims Russian officer detained</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/26/ukraine-claims-russian-officer-detained" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-26T14:47:23Z</updated>
+    <published>2015-07-26T14:47:23Z</published>
+    <summary type="html">&lt;p&gt;MOSCOW (AP) - Ukraine's border guards service says it has detained a Russian officer who was driving a truck packed with weapons including rocket-propelled grenades.&lt;/p&gt;</summary>
+    <dc:date>2015-07-26T14:47:23Z</dc:date>
+  </entry>
+  <entry>
     <title>Live Blog: Ukraine In Crisis</title>
     <link rel="alternate" href="http://www.rferl.org/contentlive/ukraine-live-blog/27133576.html" />
     <author>
@@ -730,16 +741,5 @@
     <summary type="html">&lt;p&gt;Putin, who has consistently denied backing the pro-Russian rebels in Ukraine, initiated the phone call with Obama, according to the White House.&lt;/p&gt;</summary>
     <dc:date>2015-06-25T23:42:53Z</dc:date>
     <media:content url="http://i.telegraph.co.uk/multimedia/archive/02637/obama-putin_2637988b.jpg" />
-  </entry>
-  <entry>
-    <title>Putin not done in eastern Ukraine, NATO's top general says</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/25/us-ukraine-crisis-nato-idUSKBN0P51IU20150625?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T16:38:02Z</updated>
-    <published>2015-06-25T16:38:02Z</published>
-    <summary type="html">&lt;p&gt;U.S. General Philip Breedlove, NATO's supreme allied commander, said the border between Ukraine and Russia was "wide open," allowing free movement of equipment and supplies.&lt;/p&gt;&lt;p&gt;Inside Ukraine, where pro-Russian separatists are battling Ukrainian forces, Breedlove said "we see a force that has been trained, that is led by Russian leadership, ... and is ready to do whatever mission is required of it in the Donbass (region)."&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T16:38:02Z</dc:date>
   </entry>
 </feed>

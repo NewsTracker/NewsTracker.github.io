@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Labor formally condemns Ferguson</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-national/labor-formally-condemns-ferguson-20150726-3zxk4.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-26T04:25:09Z</updated>
+    <published>2015-07-26T04:25:09Z</published>
+    <summary type="html">&lt;p&gt;Former federal minister Martin Ferguson has been condemned by the ALP as a disgrace.&lt;/p&gt;&lt;p&gt;Mr Crumlin told the conference he was ashamed of Mr Ferguson, who left federal parliament in 2013.&lt;/p&gt;</summary>
+    <dc:date>2015-07-26T04:25:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Martin Ferguson condemned at Labor national conference over privatisation comments</title>
+    <link rel="alternate" href="http://www.smh.com.au/federal-politics/political-news/martin-ferguson-condemned-at-labor-national-conference-over-privatisation-comments-20150726-gikpss.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-26T04:19:54Z</updated>
+    <published>2015-07-26T04:19:54Z</published>
+    <summary type="html">&lt;p&gt;"Martin Ferguson does not deserve to be considered a Labor elder and must be condemned as a disgraced former Labor politician."&lt;/p&gt;</summary>
+    <dc:date>2015-07-26T04:19:54Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/k/p/u/l/image.related.articleLeadwide.620x349.gikpss.png/1437884383293.jpg" />
+  </entry>
+  <entry>
     <title>Ferguson hires Arizona black police commander as interim chief</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article28303189.html%23storylink=rss" />
     <author>

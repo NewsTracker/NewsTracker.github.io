@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boy's murder in Nepal a 'human sacrifice', eleven arrested</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/boys-murder-in-nepal-a-human-sacrifice-eleven-arrested-20150726-gikyyt" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-26T15:42:05Z</updated>
+    <published>2015-07-26T15:42:05Z</published>
+    <summary type="html">&lt;p&gt;Police have arrested 11 villagers over the murder of a 10-year-old boy in southwestern Nepal, in what authorities are calling a case of human sacrifice.&lt;/p&gt;</summary>
+    <dc:date>2015-07-26T15:42:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Boy's murder in Nepal a 'human sacrifice', eleven arrested</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/boys-murder-in-nepal-a-human-sacrifice-eleven-arrested-20150726-gikyyt" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-26T15:42:05Z</updated>
+    <published>2015-07-26T15:42:05Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-26T15:42:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Nepal's Mt. Annapurna trails deemed safe after April earthquake</title>
     <link rel="alternate" href="http://www.cbc.ca/news/world/nepal-s-mt-annapurna-trails-deemed-safe-after-april-earthquake-1.3164577?cmp=rss" />
     <author>

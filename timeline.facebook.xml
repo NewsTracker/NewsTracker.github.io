@@ -5,6 +5,17 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Facebook defeats shareholder litigation over IPO</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/24/us-facebook-lawsuit-idUSKCN0PY1MR20150724?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T18:24:41Z</updated>
+    <published>2015-07-24T18:24:41Z</published>
+    <summary type="html">&lt;p&gt;The defendants also included Facebook Chief Operating Officer Sheryl Sandberg, Goldman Sachs Group Inc and JPMorgan Chase &amp; Co, among others.&lt;/p&gt;</summary>
+    <dc:date>2015-07-24T18:24:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Facebook defeats shareholder litigation over IPO</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/07/24/22524701.html?cid=rsstechnology" />
     <author>
       <name />
@@ -447,39 +458,5 @@
     <published>2015-06-29T13:34:23Z</published>
     <summary type="html">&lt;p&gt;The post on the Facebook page of Wall's Thailand, which was quickly removed, showed black bean-flavored ice cream with the caption #LOVEWINS - the hashtag used by supporters of the court verdict.&lt;/p&gt;</summary>
     <dc:date>2015-06-29T13:34:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>Yahoo's Stamos joining Facebook as its chief security officer</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/yahoo-s-stamos-joining-facebook-as-its-chief-security-officer-1.2439714" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T13:21:08Z</updated>
-    <published>2015-06-25T13:21:08Z</published>
-    <summary type="html">&lt;p&gt;Alex Stamos said in a Facebook post that he will be joining the social networking company on Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T13:21:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Yahoo's Stamos to become Facebook's chief security officer</title>
-    <link rel="alternate" href="http://www.chron.com/business/article/Yahoo-s-Sullivan-to-become-Facebook-s-chief-6348486.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T12:36:06Z</updated>
-    <published>2015-06-25T12:36:06Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK (AP) - Yahoo's cybersecurity chief says he's heading to Facebook to become its chief security officer.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T12:36:06Z</dc:date>
-    <media:content url="ww.chron.com/img/hdn/share/fb_share_2.png" />
-  </entry>
-  <entry>
-    <title>Fin24.com | Facebook allows phone number sign up for Messenger</title>
-    <link rel="alternate" href="http://www.fin24.com/Tech/News/Facebook-allows-phone-number-sign-up-for-Messenger-20150625" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T07:07:26Z</updated>
-    <published>2015-06-25T07:07:26Z</published>
-    <summary type="html">&lt;p&gt;With the latest update, users will be prompted by an option that says "Not on Facebook?" when they open the app.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T07:07:26Z</dc:date>
   </entry>
 </feed>

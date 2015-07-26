@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Martinez outduels Miller, Cardinals beat Braves 1-0 (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/martinez-outduels-miller-cardinals-beat-braves-1-0-014328458--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-26T02:41:16Z</updated>
+    <published>2015-07-26T02:41:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-26T02:41:16Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/YwPSY.O2wrnenzj6ejwr.g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507251904686837300" />
+  </entry>
+  <entry>
+    <title>NFL rookie free agent shot, wounded at Ohio home (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/police-nfl-rookie-free-agent-shot-wounded-ohio-160131532--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T19:04:00Z</updated>
+    <published>2015-07-25T19:04:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-25T19:04:00Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/KMLJ8WGFasGL_ibX.wN2Qw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507251106399884239" />
+  </entry>
+  <entry>
     <title>Oklahoma 16-year-old to be charged as adult in stabbings</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/us/authorities-plan-to-charge-16-year-old-as-adult-in/nm6jr/" />
     <author>
@@ -1084,40 +1108,5 @@
     <summary type="html" />
     <dc:date>2015-06-25T19:04:00Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/qOFzfv3Za4b_luEZZy7olg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506251132415662064" />
-  </entry>
-  <entry>
-    <title>Pedroia goes on Boston disabled list with strained hamstring (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/pedroia-goes-boston-disabled-list-strained-hamstring-164303052--mlb.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T17:37:44Z</updated>
-    <published>2015-06-25T17:37:44Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-25T17:37:44Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/qjvYFmZWg_L02gGxmYdwfA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM4OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201506242044746951230" />
-  </entry>
-  <entry>
-    <title>Yahoo's Stamos joining Facebook as its chief security officer</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/yahoo-s-stamos-joining-facebook-as-its-chief-security-officer-1.2439714" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T13:21:08Z</updated>
-    <published>2015-06-25T13:21:08Z</published>
-    <summary type="html">&lt;p&gt;Stamos served as Yahoo Inc.'s chief information security officer for a little over a year, having started there in March 2014, according to his Linkedin account.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T13:21:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Yahoo's Stamos to become Facebook's chief security officer</title>
-    <link rel="alternate" href="http://www.chron.com/business/article/Yahoo-s-Sullivan-to-become-Facebook-s-chief-6348486.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T12:36:06Z</updated>
-    <published>2015-06-25T12:36:06Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK (AP) - Yahoo's cybersecurity chief says he's heading to Facebook to become its chief security officer.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T12:36:06Z</dc:date>
-    <media:content url="ww.chron.com/img/hdn/share/fb_share_2.png" />
   </entry>
 </feed>
