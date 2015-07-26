@@ -4,23 +4,25 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title />
-    <link rel="alternate" href="" />
+    <title>Oklahoma 16-year-old to be charged as adult in stabbings</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/us/authorities-plan-to-charge-16-year-old-as-adult-in/nm6jr/" />
     <author>
       <name />
     </author>
     <updated>2015-07-25T22:54:01Z</updated>
     <published>2015-07-25T22:54:01Z</published>
+    <summary type="html" />
     <dc:date>2015-07-25T22:54:01Z</dc:date>
   </entry>
   <entry>
-    <title />
-    <link rel="alternate" href="" />
+    <title>Two women injured in Cleveland County drive-by shooting</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/local/crime/article28718056.html%23storylink=rss" />
     <author>
       <name />
     </author>
     <updated>2015-07-25T22:33:58Z</updated>
     <published>2015-07-25T22:33:58Z</published>
+    <summary type="html" />
     <dc:date>2015-07-25T22:33:58Z</dc:date>
   </entry>
   <entry>
