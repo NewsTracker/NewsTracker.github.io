@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton?s First Campaign Ads Focus on Her Mom</title>
+    <link rel="alternate" href="http://nymag.com/daily/intelligencer/2015/08/hillarys-first-ads-focus-on-her-mom.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T05:37:38Z</updated>
+    <published>2015-08-03T05:37:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-03T05:37:38Z</dc:date>
+  </entry>
+  <entry>
     <title>First Draft: Hillary Clinton to Start Airing Ads in Iowa and New Hampshire</title>
     <link rel="alternate" href="http://www.nytimes.com/politics/first-draft/2015/08/02/hillary-clinton-to-start-airing-ads-in-iowa-and-new-hampshire/?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
     <author>
@@ -36,17 +47,6 @@
     <published>2015-08-01T07:25:37Z</published>
     <summary type="html">&lt;p&gt;The couple made nearly $23 million from speaking fees alone in 2013 - the year Clinton left the State Department - and collected an additional $20 million from paid events last year.&lt;/p&gt;&lt;p&gt;The remainder of their income came largely from book royalties and consulting fees paid to Bill Clinton.&lt;/p&gt;</summary>
     <dc:date>2015-08-01T07:25:37Z</dc:date>
-  </entry>
-  <entry>
-    <title>Hillary Clinton's 'Santa' revealed</title>
-    <link rel="alternate" href="http://www.today.com/news/hillary-clintons-santa-revealed-t30156" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-03T13:34:32Z</updated>
-    <published>2015-07-03T13:34:32Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-03T13:34:32Z</dc:date>
   </entry>
   <entry>
     <title>&lt;p&gt;WASHINGTON -- Hillary Rodham Clinton will testify Oct. 22 before the House committee investigating the deaths of four Americans in the 2012 attacks in Benghazi, Libya, her presidential campaign said Saturday.&lt;/p&gt;</title>
@@ -254,7 +254,7 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Hillary Clinton Slams Donald Trump in Spanish: ‘Basta!’</title>
+    <title>Hillary Clinton Slams Donald Trump in Spanish: ?Basta!?</title>
     <link rel="alternate" href="http://www.thewrap.com/hillary-clinton-slams-donald-trump-in-spanish-basta/" />
     <author>
       <name />
@@ -391,7 +391,7 @@
     <dc:date>2015-07-06T18:05:16Z</dc:date>
   </entry>
   <entry>
-    <title>China downplays Hillary Clinton’s claim it hacked U.S. information</title>
+    <title>China downplays Hillary Clinton?s claim it hacked U.S. information</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/china-downplays-hillary-clintons-claim-it-hacked-us-information/article25312985/?cmpid=rss1" />
     <author>
       <name />

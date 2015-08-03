@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google employees are comparing their salary details in a bid to be fairly paid</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/technology/google-employees-are-comparing-their-salary-details-in-a-bid-to-be-fairly-paid-31396504.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T14:36:41Z</updated>
+    <published>2015-07-22T14:36:41Z</published>
+    <summary type="html">&lt;p&gt;"Fighting for justice and fairness inside Google doesn't go over well. Salary sharing is only one example," she said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T14:36:41Z</dc:date>
+    <media:content url="http://cdn2.belfasttelegraph.co.uk/news/world-news/article30840577.ece/d8c78/ALTERNATES/w620/PANews%20BT_P-28e94356-dc72-48d5-ae21-7cfa66a4cf9b_I1.jpg" />
+  </entry>
+  <entry>
+    <title>Google's second quarter: What to watch</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/tech/2015/07/16/google-second-quarter-earnings-preview/30244365/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-techtopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T17:38:05Z</updated>
+    <published>2015-07-16T17:38:05Z</published>
+    <summary type="html">&lt;p&gt;Analysts expect Google to earn $6.70 a share, excluding certain expenses, according to Thomson Reuters.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T17:38:05Z</dc:date>
+    <media:content url="http://www.gannett-cdn.com/-mm-/baa7d5ece890abc8f1f017098398d44043c63dc6/r=84&amp;amp;amp;c=84x84/http/videos.usatoday.net/Brightcove2/29906170001/2015/07/29906170001_4341185038001_thumb-i17CEN9RkD9I.jpg?pubId=29906170001" />
+  </entry>
+  <entry>
     <title>Google getting whipped into shape by Wall Street veteran Ruth Porat</title>
     <link rel="alternate" href="http://www.smh.com.au/business/google-getting-whipped-into-shape-by-wall-street-veteran-ruth-porat-20150724-gijtbz" />
     <author>
@@ -395,7 +419,7 @@
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297721358257_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
-    <title>Google Inc’s Waze mapping company to launch carpooling pilot program in Israel</title>
+    <title>Google Inc?s Waze mapping company to launch carpooling pilot program in Israel</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/google-incs-waze-mapping-company-to-launch-carpooling-pilot-program-in-israel" />
     <author>
       <name />
@@ -416,29 +440,5 @@
     <published>2015-07-06T14:30:07Z</published>
     <summary type="html" />
     <dc:date>2015-07-06T14:30:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nazi concentration camps found in mobile game</title>
-    <link rel="alternate" href="http://technology.canoe.com/Gaming/News/2015/07/03/22486341.html?cid=rsstechnologygaming" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-03T15:19:49Z</updated>
-    <published>2015-07-03T15:19:49Z</published>
-    <summary type="html">&lt;p&gt;BERLIN -- A Google subsidiary has apologized for making Nazi concentration camps part of a mobile role-playing game.&lt;/p&gt;&lt;p&gt;Gabriele Hammermann, director of the memorial site at Dachau, told the dpa news agency that Google's actions were a humiliation for victims and relatives of the Nazi camps.&lt;/p&gt;</summary>
-    <dc:date>2015-07-03T15:19:49Z</dc:date>
-    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/Gaming/News/2015/07/03/ingress650c.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
-  </entry>
-  <entry>
-    <title>Google apologizes after report of photo app tagging black people as 'gorillas'</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/02/google-apologizes-after-report-of-photo-app-tagging-black-people-as-gorillas" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-03T14:28:54Z</updated>
-    <published>2015-07-03T14:28:54Z</published>
-    <summary type="html">&lt;p&gt;Google says it's "appalled and genuinely sorry" for what happened with the image-recognition feature.&lt;/p&gt;</summary>
-    <dc:date>2015-07-03T14:28:54Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297714606967_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
 </feed>

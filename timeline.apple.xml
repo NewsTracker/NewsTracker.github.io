@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Preparing Record Number of New iPhones</title>
+    <link rel="alternate" href="http://www.wsj.com/articles/apple-preparing-record-number-of-new-iphones-1436367371?mod=rss_Technology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-09T05:49:32Z</updated>
+    <published>2015-07-09T05:49:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-09T05:49:32Z</dc:date>
+  </entry>
+  <entry>
     <title>Apple Watch to be sold at Best Buy stores from August</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/apple-watch-sold-best-buy-042957351.html" />
     <author>
@@ -167,7 +178,7 @@
     <media:content url="http://wpmedia.business.financialpost.com/2015/07/apple-inc-earnings.jpg?w=620" />
   </entry>
   <entry>
-    <title>Apple's $62B hit is bad…but it's not the worst</title>
+    <title>Apple's $62B hit is bad?but it's not the worst</title>
     <link rel="alternate" href="http://www.cnbc.com/2015/07/22/apples-62b-hit-is-badbut-its-not-the-worst.html" />
     <author>
       <name />

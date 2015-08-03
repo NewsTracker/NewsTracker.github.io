@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Head of CDC in Sierra Leone as concerns grow from new Ebola case</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/health/head-of-cdc-in-sierra-leone-as-concerns-grow-from-new-ebola-case-1.2499895" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T12:24:00Z</updated>
+    <published>2015-08-03T12:24:00Z</published>
+    <summary type="html">&lt;p&gt;The concerns come as the director of the U.S. Center for Disease Control and Prevention, Dr. Tom Frieden, is in Sierra Leone to observe the impact of the Ebola outbreak and to assess steps needed to get the country to zero cases.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T12:24:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Tekmira suspends work on Ebola drug, will change name</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11484323&amp;amp;ref=rss" />
     <author>
@@ -60,7 +71,7 @@
     <dc:date>2015-07-15T12:05:04Z</dc:date>
   </entry>
   <entry>
-    <title>Africa’s Ebola outbreak has not run its course</title>
+    <title>Africa?s Ebola outbreak has not run its course</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/africas-ebola-outbreak-has-not-run-its-course/article25478520/?cmpid=rss1" />
     <author>
       <name />
@@ -164,17 +175,5 @@
     <summary type="html">&lt;p&gt;But Liu said it was still disconcerting that the panel and other such groups were laying out the world's lessons learned as Ebola was still claiming more victims every week.&lt;/p&gt;</summary>
     <dc:date>2015-07-07T16:05:17Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/37/43/13/8270559/3/920x920.jpg" />
-  </entry>
-  <entry>
-    <title>Liberia works to contain Ebola, find source of new cases</title>
-    <link rel="alternate" href="http://news.yahoo.com/liberia-works-contain-ebola-source-cases-155625276.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-03T15:56:25Z</updated>
-    <published>2015-07-03T15:56:25Z</published>
-    <summary type="html">&lt;p&gt;"We will contain it quickly because of where we are in the learning curve as far as Ebola is concerned," said Dr. Philip Ireland at the John F. Kennedy Medical Center in the capital, Monrovia.&lt;/p&gt;</summary>
-    <dc:date>2015-07-03T15:56:25Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/pmQa6lTbZKown3vhlxH8_w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/b04350ba760a0c1d7b0f6a706700b6a6.jpg" />
   </entry>
 </feed>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt military says roadside bomb kills 4 troops in Sinai</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/23/egypt-military-says-roadside-bomb-kills-4-troops-in-sinai" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T16:12:41Z</updated>
+    <published>2015-07-23T16:12:41Z</published>
+    <summary type="html">&lt;p&gt;Egypt is battling a widening insurgency that has largely targeted troops in northern Sinai.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T16:12:41Z</dc:date>
+  </entry>
+  <entry>
     <title>Kerry says United States, Egypt return to 'stronger base' in ties</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/08/03/us-egypt-usa-idUSKCN0Q706H20150803?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
@@ -232,7 +243,7 @@
     <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/e/8/d/n/image.related.articleLeadwide.620x349.gie8az.png/1437057710413.jpg" />
   </entry>
   <entry>
-    <title>ISIL affiliate in Egypt says it destroyed one of country’s navy vessels with rocket fire</title>
+    <title>ISIL affiliate in Egypt says it destroyed one of country?s navy vessels with rocket fire</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/world/isil-affiliate-in-egypt-says-it-destroyed-one-of-countrys-navy-vessels-with-rocket-fire" />
     <author>
       <name />

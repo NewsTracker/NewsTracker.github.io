@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA secretary general Valcke expects to leave with Blatter (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/fifa-secretary-general-valcke-expects-leave-blatter-111440289--sow.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-24T13:18:23Z</updated>
+    <published>2015-07-24T13:18:23Z</published>
+    <summary type="html">&lt;p&gt;Valcke began his job several months before the money transfers in early 2008 to accounts controlled by former FIFA vice president Jack Warner.&lt;/p&gt;&lt;p&gt;The weight of the corruption probes and sponsors' concerns led to Blatter announcing June 2 he will leave FIFA, a move that came four days after he was re-elected to serve a fifth, four-year term.&lt;/p&gt;</summary>
+    <dc:date>2015-07-24T13:18:23Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/T2sWi2x.KIaTKDK.uyUzkA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507232208796918113" />
+  </entry>
+  <entry>
+    <title>FIFA, others defeat U.S. lawsuit over soccer concussions</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/sports/soccer/fifa-others-defeat-us-lawsuit-over-soccer-concussions/article25551276/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T16:23:23Z</updated>
+    <published>2015-07-17T16:23:23Z</published>
+    <summary type="html">&lt;p&gt;In a decision on Thursday, Chief Judge Phyllis Hamilton of the federal court in Oakland, California said the plaintiffs could not use the courts to change FIFA's "laws of the game," noting it was their decision to play soccer to begin with.&lt;/p&gt;&lt;p&gt;"We will amend the complaint to satisfy the court's order and appeal the FIFA ruling," Steve Berman, a lawyer for the plaintiffs, said in an email.&lt;/p&gt;&lt;p&gt;The judge also said FIFA was not a proper defendant because there was "no connection" between the lawsuit and any activity that the sport's international governing body, which is based in Switzerland, undertook in California.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T16:23:23Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/f59/sports/soccer/article25551275.ece/ALTERNATES/w220/91820010.JPG" />
+  </entry>
+  <entry>
     <title>Blatter gives up IOC membership as FIFA exit nears</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/08/03/blatter-gives-ioc-membership-fifa-exit-nears" />
     <author>
@@ -205,18 +229,6 @@
     <summary type="html">&lt;p&gt;FIFA Secretary General Jerome Valcke said that Coca-Cola, Visa and McDonald's had written asking for information about what was being done to clean up governance of the sport.&lt;/p&gt;&lt;p&gt;"Clearly, there were a number of sponsors, mainly three, its Coca-Cola, McDonald's and Visa, who have expressed and sent a letter to FIFA, asking for information," he told a new conference in the Russian city of St Petersburg.&lt;/p&gt;</summary>
     <dc:date>2015-07-24T16:02:42Z</dc:date>
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-24T105617Z_1_LYNXNPEB6N0G3_RTROPTP_2_SOCCER-FIFA-2026-BIDDING.JPG?itok=POzfShy4" />
-  </entry>
-  <entry>
-    <title>FIFA secretary general Valcke expects to leave with Blatter (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/fifa-secretary-general-valcke-expects-leave-blatter-111440289--sow.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T13:18:23Z</updated>
-    <published>2015-07-24T13:18:23Z</published>
-    <summary type="html">&lt;p&gt;Valcke began his job several months before the money transfers in early 2008 to accounts controlled by former FIFA vice president Jack Warner.&lt;/p&gt;</summary>
-    <dc:date>2015-07-24T13:18:23Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/T2sWi2x.KIaTKDK.uyUzkA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507232208796918113" />
   </entry>
   <entry>
     <title>FIFA secretary general Valcke expects to leave with Blatter</title>
@@ -944,18 +956,6 @@
     <dc:date>2015-07-17T18:42:07Z</dc:date>
   </entry>
   <entry>
-    <title>FIFA, others defeat U.S. lawsuit over soccer concussions</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/sports/soccer/fifa-others-defeat-us-lawsuit-over-soccer-concussions/article25551276/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T16:23:23Z</updated>
-    <published>2015-07-17T16:23:23Z</published>
-    <summary type="html">&lt;p&gt;In a decision on Thursday, Chief Judge Phyllis Hamilton of the federal court in Oakland, California said the plaintiffs could not use the courts to change FIFA's "laws of the game," noting it was their decision to play soccer to begin with.&lt;/p&gt;&lt;p&gt;"We will amend the complaint to satisfy the court's order and appeal the FIFA ruling," Steve Berman, a lawyer for the plaintiffs, said in an email.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T16:23:23Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/f59/sports/soccer/article25551275.ece/ALTERNATES/w220/91820010.JPG" />
-  </entry>
-  <entry>
     <title>Swiss extradite FIFA's Jeffrey Webb to the United States</title>
     <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/16/swiss-extradite-detained-fifa-official-to-the-united-states" />
     <author>
@@ -1063,7 +1063,7 @@
     <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150716&amp;amp;t=2&amp;amp;i=1064678188&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXNPEB6F0BB" />
   </entry>
   <entry>
-    <title>Senators: Why didn’t U.S. Soccer expose FIFA corruption?</title>
+    <title>Senators: Why didn?t U.S. Soccer expose FIFA corruption?</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article27356605.html%23storylink=rss" />
     <author>
       <name />

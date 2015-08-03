@@ -4,7 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Colorado shooting defendant James Holmes called ‘psychotic’ by his attorney</title>
+    <title>Jury resumes death penalty deliberations for Colorado theater shooter James Holmes</title>
+    <link rel="alternate" href="http://www.startribune.com/deliberations-resume-in-colorado-theater-shooting-trial/320487452/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T15:30:44Z</updated>
+    <published>2015-08-03T15:30:44Z</published>
+    <summary type="html">&lt;p&gt;Jurors must decide whether there are any reasons, such as Holmes' mental illness and his trouble-free youth, that mean he should be sentenced to life in prison without parole instead of to death.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T15:30:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Deliberations resume in Colorado theater shooting trial</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article29845882.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T15:29:11Z</updated>
+    <published>2015-08-03T15:29:11Z</published>
+    <summary type="html">&lt;p&gt;If jurors unanimously agree that such factors outweigh the heinousness of the July 2012 attack that killed 12 people and injured 70 others, Holmes would be sentenced to a life term.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T15:29:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Colorado shooting defendant James Holmes called ?psychotic? by his attorney</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article27262330.html%23storylink=rss" />
     <author>
       <name />
@@ -16,7 +38,7 @@
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Jimmy Fallon Mangles Katie Holmes’s Face</title>
+    <title>Jimmy Fallon Mangles Katie Holmes?s Face</title>
     <link rel="alternate" href="http://www.sfgate.com/entertainment/video/article/Missed-6403436.php" />
     <author>
       <name />
