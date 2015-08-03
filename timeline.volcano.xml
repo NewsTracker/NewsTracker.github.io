@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Highly Active Volcano Erupts on Reunion Amid Media Frenzy</title>
+    <link rel="alternate" href="http://abcnews.go.com/Technology/wireStory/highly-active-volcano-erupts-reunion-amid-media-frenzy-32823583" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-01T14:16:18Z</updated>
+    <published>2015-08-01T14:16:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-01T14:16:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Highly active volcano erupts on Reunion amid media frenzy</title>
+    <link rel="alternate" href="http://www.chron.com/news/science/article/Highly-active-volcano-erupts-on-Reunion-amid-6419132.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-01T14:14:16Z</updated>
+    <published>2015-08-01T14:14:16Z</published>
+    <summary type="html">&lt;p&gt;A helicopter flies over as lava erupts from the Piton de la Fournaise "Peak of the Furnace" volcano, on the southeastern corner of the Indian Ocean island of Reunion Saturday, Aug. 1, 2015.&lt;/p&gt;&lt;p&gt;The Piton de la Fournaise volcano - French for Peak of the Furnace - is more than 530,000 years old and is one of the world's most active, with more than 150 eruptions recorded since the 1600s.&lt;/p&gt;&lt;p&gt;The volcano is in the Reunion National Park - a world heritage site.&lt;/p&gt;</summary>
+    <dc:date>2015-08-01T14:14:16Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/02/07/8397302/9/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Volcano-like underground fire is put out after a month</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/strange/volcano-like-underground-fire-is-put-out-after-a-m/nm6S7/" />
     <author>

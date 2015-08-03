@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tunisia tourism lifeline may be crippled by European warnings; Arab Spring legacy threatened</title>
+    <link rel="alternate" href="http://www.startribune.com/tunisia-tourism-may-be-crippled-by-european-warnings/314508431/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T06:30:08Z</updated>
+    <published>2015-07-13T06:30:08Z</published>
+    <summary type="html">&lt;p&gt;While most European tourists appear to be abandoning Tunisia, a few are showing solidarity with the country whose revolution surprised the world and whose path to democracy remains an inspiration to many.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T06:30:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tunisia tourism may be crippled by European warnings</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/jul/12/tunisia-tourism-may-be-crippled-by-european/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T06:27:19Z</updated>
+    <published>2015-07-13T06:27:19Z</published>
+    <summary type="html">&lt;p&gt;Similar stories are told up and down Tunisia's Mediterranean shore, as resort entertainers seek work elsewhere and hotel managers ponder whether and when to close down.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T06:27:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tunisia declares state of emergency after beach attack</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Tunisia-declares-state-of-emergency-after-beach-attack/articleshow/47938747.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-05T01:30:43Z</updated>
+    <published>2015-07-05T01:30:43Z</published>
+    <summary type="html">&lt;p&gt;Tunisia has faced a post-revolution surge in jihadist violence in which dozens of police and soldiers have been killed.&lt;/p&gt;&lt;p&gt;The jihadist attacks have dealt a heavy blow to the tourism industry, which contributes between seven and eight percent of Tunisia's GDP.&lt;/p&gt;&lt;p&gt;An aide to Tunisia's prime minister said on Saturday that several officials, including the Sousse governor and those from the assailant's home town and where he studied, as well as police officers, had been sacked.&lt;/p&gt;</summary>
+    <dc:date>2015-07-05T01:30:43Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47938759,width-300,resizemode-4/Tunisia-declares-state-of-emergency-after-beach-attack.jpg" />
+  </entry>
+  <entry>
     <title>Tunisia overwhelmingly passes anti-terror law</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28693429.html%23storylink=rss" />
     <author>
@@ -117,17 +151,6 @@
     <dc:date>2015-07-13T06:27:19Z</dc:date>
   </entry>
   <entry>
-    <title>Tunisia: 12 people detained in hotel attack probe</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/02/tunisia-12-people-detained-in-hotel-attack-probe" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-02T07:51:40Z</updated>
-    <published>2015-07-02T07:51:40Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-02T07:51:40Z</dc:date>
-  </entry>
-  <entry>
     <title>Tunisia says top terrorists killed</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/tunisia-says-top-terrorists-killed-20150713-giat88.html" />
     <author>
@@ -149,30 +172,6 @@
     <published>2015-07-12T23:38:21Z</published>
     <summary type="html">&lt;p&gt;TUNIS, Tunisia -- Tunisia's interior minister said the government has killed an extremist leader and nearly wiped out his group, as European tourists continue to leave the country amid fears of new attacks.&lt;/p&gt;&lt;p&gt;Tunisia, the only country to succeed in building a democracy after Arab Spring uprisings, is trying to defuse criticism from Britain and others that it hasn't done enough to protect tourists.&lt;/p&gt;&lt;p&gt;The interior minister said the brigade was plotting attacks in Tunisia and sending Tunisians to fight jihad abroad.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T23:38:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Queen Elizabeth II shocked about Tunisia attack</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article25700008.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T16:21:04Z</updated>
-    <published>2015-06-28T16:21:04Z</published>
-    <summary type="html">&lt;p&gt;An Irish mother-of-two, Lorna Carty, was earlier confirmed as a victim of Friday's attack on the Sousse beach resort in Tunisia.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T16:21:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>The Latest: Queen Elizabeth II shocked about Tunisia attack</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article25700008.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T16:21:04Z</updated>
-    <published>2015-06-28T16:21:04Z</published>
-    <summary type="html">&lt;p&gt;A book and flowers lay at the scene of the attack in Sousse, Tunisia, Sunday, June 28, 2015.&lt;/p&gt;&lt;p&gt;Boys play on the beach while tourists and residents, some displaying a Tunisian flag, walk on the beach to the scene of the attack in Sousse, Tunisia, Sunday, June 28, 2015.&lt;/p&gt;&lt;p&gt;Britain's home secretary says the number of Britons confirmed killed in the Tunisia beach resort attack is expected to rise.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T16:21:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Tunisia deploys 100,000 security personnel to avert attacks</title>
@@ -348,18 +347,6 @@
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/vQH1376AYeZG9Ly1NHZwqg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/afp.com/b9d326b36981bab867f4e3f7ad36c680cab54729.jpg" />
   </entry>
   <entry>
-    <title>Tunisia declares state of emergency after beach attack</title>
-    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Tunisia-declares-state-of-emergency-after-beach-attack/articleshow/47938747.cms" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-05T01:30:43Z</updated>
-    <published>2015-07-05T01:30:43Z</published>
-    <summary type="html">&lt;p&gt;Tunisia has faced a post-revolution surge in jihadist violence in which dozens of police and soldiers have been killed.&lt;/p&gt;&lt;p&gt;The jihadist attacks have dealt a heavy blow to the tourism industry, which contributes between seven and eight percent of Tunisia's GDP.&lt;/p&gt;</summary>
-    <dc:date>2015-07-05T01:30:43Z</dc:date>
-    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-47938759,width-300,resizemode-4/Tunisia-declares-state-of-emergency-after-beach-attack.jpg" />
-  </entry>
-  <entry>
     <title>Tunisia declares state of emergency after deadly beach hotel</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/world/tunisian-leader-calls-state-emergency-beach-attack-article-1.2281304" />
     <author>
@@ -472,321 +459,5 @@
     <summary type="html">&lt;p&gt;A Union flag flies at half-mast on Buckingham Palace in London, to mark an official day of mourning a week since the deadly Tunisia beach attack.&lt;/p&gt;&lt;p&gt;The coffin of Denis Thwaites is carried from an RAF C-17, which repatriated the bodies of eight British nationals killed in the Tunisia terror attack, at RAF Brize Norton near Oxford.&lt;/p&gt;</summary>
     <dc:date>2015-07-03T11:16:16Z</dc:date>
     <media:content url="ww.smh.com.au/content/dam/images/g/i/4/y/z/7/image.related.articleLeadwide.620x349.gi4yyh.png/1435924798553.jpg" />
-  </entry>
-  <entry>
-    <title>Tunisia beach hotel attack: 12 arrested in connection with massacre</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/world/tunisia-beach-hotel-attack-12-arrested-in-connection-with-massacre-1.3135217?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-02T07:43:04Z</updated>
-    <published>2015-07-02T07:43:04Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-02T07:43:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tunisia beach attack: the victims</title>
-    <link rel="alternate" href="http://www.theguardian.com/world/2015/jun/27/tunisia-beach-attack-the-victims" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-01T23:01:43Z</updated>
-    <published>2015-07-01T23:01:43Z</published>
-    <summary type="html">&lt;p&gt;Karl Turner, the MP for East Hull, tweeted: "So sorry Claire Windass from Hull was killed in Tunisia terrorist attack. My thoughts with family &amp; friends. RIP."&lt;/p&gt;</summary>
-    <dc:date>2015-07-01T23:01:43Z</dc:date>
-    <media:content url="ww.theguardian.com//i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/7/1/1435757998365/8866fd94-8ac2-4ca7-9c28-ad17a012aa95-2060x1236.jpeg?w=300&amp;amp;amp;q=85&amp;amp;amp;auto=format&amp;amp;amp;sharp=10&amp;amp;amp;s=3593bd0519d31a57d29450a01e59d62c" />
-  </entry>
-  <entry>
-    <title>Tunisia attack: Bodies of all but one of the British victims identified, according to Government</title>
-    <link rel="alternate" href="http://www.independent.co.uk/news/uk/home-news/tunisia-attack-bodies-of-all-but-one-of-the-british-victims-identified-according-to-government-10359385.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-01T22:10:20Z</updated>
-    <published>2015-07-01T22:10:20Z</published>
-    <summary type="html">&lt;p&gt;"I can confirm that the number of Britons killed in the Tunisia terrorist attack who have been positively identified has now reached 29," Mr Hammond said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-01T22:10:20Z</dc:date>
-    <media:content url="http://www.independent.co.uk/incoming/article10351872.ece/alternates/w300/Tourists_Tunisia.gif" />
-  </entry>
-  <entry>
-    <title>Tunisia gunman Saif Rezgui trained in Libya at same time as Bardo museum killers</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/tunisia-gunman-saif-rezgui-trained-in-libya-at-time-of-bardo-museum-plotters-20150630-gi2045" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T20:32:06Z</updated>
-    <published>2015-06-30T20:32:06Z</published>
-    <summary type="html">&lt;p&gt;Tunis: The Tunisian gunman who carried out a deadly attack on a hotel last Friday trained in a jihadist camp in Libya last year, Tunisia's government said on Tuesday.&lt;/p&gt;&lt;p&gt;Tunisia's Health Ministry said on Tuesday it had so far identified 33 bodies from Friday's violence, including 25 British, three Irish, one Belgian, two German, a Russian citizen and a Portuguese national.&lt;/p&gt;&lt;p&gt;Tunisia expects to lose at least $670 million this year, or about a quarter of its estimated annual tourism earnings, following last Friday's attack.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T20:32:06Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/1/0/y/i/image.related.articleLeadwide.620x349.gi2045.png/1435695282569.jpg" />
-  </entry>
-  <entry>
-    <title>Tunisia beach gunman trained in Libya with museum attackers: Official</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/06/30/tunisia-beach-gunman-trained-in-libya-with-museum-attackers-official" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T18:36:12Z</updated>
-    <published>2015-06-30T18:36:12Z</published>
-    <summary type="html">&lt;p&gt;The revelation confirms repeated fears that the strong presence of the Islamic State group in neighbouring Libya has become a direct threat to Tunisia, the only democracy to emerge from the Arab Spring uprisings.&lt;/p&gt;&lt;p&gt;Increasingly, however, they have stayed in Libya before returning to carry out attacks in Tunisia.&lt;/p&gt;&lt;p&gt;Tunisia's most well-known Islamic radical Seifallah Ben Hassine, fled to Libya in 2013 taking many supporters with him into exile.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T18:36:12Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297718812909_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
-    <title>APNewsBreak: Tunisia beach killer trained with museum gunmen</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Tunisia-chief-New-security-system-had-been-set-6357384.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T17:42:06Z</updated>
-    <published>2015-06-30T17:42:06Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-30T17:42:06Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/37/33/12/8237701/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Tunisia attack: gunman Seifeddine Rezgu 'trained in Libya at same time as Bardo museum attackers'</title>
-    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/tunisia-attack-gunman-seifeddine-rezgu-trained-in-libya-at-same-time-as-bardo-museum-attackers-31342213.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T17:32:49Z</updated>
-    <published>2015-06-30T17:32:49Z</published>
-    <summary type="html">&lt;p&gt;Mr Essebsi, 88, is a veteran of Tunisia's pre-revolutionary regime and was elected last autumn on a platform of restoring security and dignity to the state.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T17:32:49Z</dc:date>
-    <media:content url="http://cdn1.belfasttelegraph.co.uk/incoming/article31342175.ece/3da5b/ALTERNATES/w620/479038354_2.jpg" />
-  </entry>
-  <entry>
-    <title>Tunisia chief: New security system had been set for July 1</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/30/tunisia-chief-new-security-system-had-been-set-for-july-1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T13:03:20Z</updated>
-    <published>2015-06-30T13:03:20Z</published>
-    <summary type="html">&lt;p&gt;Friday's attack, Tunisia's worst terrorist incident, is expected to cripple the vital tourism sector, with the tourism minister predicting a half billion dollars in losses for 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T13:03:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tunisia chief: New security system had been set for July 1</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Tunisia-chief-New-security-system-had-been-set-6357384.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T13:03:20Z</updated>
-    <published>2015-06-30T13:03:20Z</published>
-    <summary type="html">&lt;p&gt;British Minister for North Africa Tobias Ellwood, leaves from local hospital in Tunis, Tunisia, Tuesday, June 30, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T13:03:20Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/37/32/75/8236868/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Solidarity keeps some tourists in Tunisia after terrorist attack</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/solidarity-keeps-some-tourists-in-tunisia-after-terrorist-attack-20150630-gi1n8o.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T11:14:16Z</updated>
-    <published>2015-06-30T11:14:16Z</published>
-    <summary type="html">&lt;p&gt;Sousse: At a makeshift memorial on the site of last Friday's deadly attack, a steady stream of tourists and locals gathered to lay flowers and notes to remember the victims of Tunisia's worst ever terror attack.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T11:14:16Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/1/o/i/a/image.related.articleLeadwide.620x349.gi1n8o.png/1435662745314.jpg" />
-  </entry>
-  <entry>
-    <title>Tunisia makes first beach attack arrests as UK urges fightback</title>
-    <link rel="alternate" href="http://da.feedsportal.com/c/33039/f/533917/s/47ae0bb1/sc/3/l/0Ltimesofindia0Bindiatimes0N0Cworld0Crest0Eof0Eworld0CTunisia0Emakes0Efirst0Ebeach0Eattack0Earrests0Eas0EUK0Eurges0Efightback0Carticleshow0C478723640Bcms/ia1.htm" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T19:41:51Z</updated>
-    <published>2015-06-29T19:41:51Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-29T19:41:51Z</dc:date>
-  </entry>
-  <entry>
-    <title>Solidarity keeps some tourists in Tunisia after terrorist attack</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/solidarity-keeps-some-tourists-in-tunisia-after-terrorist-attack-20150630-gi1n8o.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T07:30:27Z</updated>
-    <published>2015-06-30T07:30:27Z</published>
-    <summary type="html">&lt;p&gt;There were reports that up to 10,000 of the 20,000 Britons holidaying in Tunisia have left since Friday's attack, with tour companies arranging extra flights for tourists desperate to flee.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T07:30:27Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/1/o/i/a/image.related.articleLeadwide.620x349.gi1n8o.png/1435649412491.jpg" />
-  </entry>
-  <entry>
-    <title>Tunisia arrests suspects associated with beach hotel attacker</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/06/29/tunisia-arrests-suspects-associated-with-beach-hotel-attacker" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T18:32:58Z</updated>
-    <published>2015-06-29T18:32:58Z</published>
-    <summary type="html">&lt;p&gt;They promised Tunisia help in security, intelligence, police training and to help keep tourism alive.&lt;/p&gt;&lt;p&gt;British police are in Tunisia helping in the process of formally identifying victims.&lt;/p&gt;&lt;p&gt;Tour companies have helped thousands of tourists leave Tunisia since Friday's attack on a country that relies heavily on tourism for jobs and foreign currency revenues.&lt;/p&gt;</summary>
-    <dc:date>2015-06-29T18:32:58Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297718206376_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
-    <title>Tunisia arrests suspects associated with beach hotel attacker</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/29/us-tunisia-security-arrests-idUSKCN0P91ID20150629?feedType=RSS&amp;amp;feedName=topNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T18:04:02Z</updated>
-    <published>2015-06-29T18:04:02Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-29T18:04:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tunisian authorities hunt accomplices of gunman</title>
-    <link rel="alternate" href="http://tvnz.co.nz/world-news/tunisian-authorities-hunt-accomplices-gunman-6348581?ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T17:38:00Z</updated>
-    <published>2015-06-28T17:38:00Z</published>
-    <summary type="html">&lt;p&gt;The attacker has been identified as Seifeddine Rezgui, a 24-year-old graduate of Tunisia's Kairouan University where he had been living with the other students.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T17:38:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Queen Elizabeth II shocked about Tunisia attack</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/The-Latest-Tunisia-puts-1-000-extra-police-on-6354008.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T16:18:00Z</updated>
-    <published>2015-06-28T16:18:00Z</published>
-    <summary type="html">&lt;p&gt;Police officers patrol on the beach of Sousse, Tunisia, Sunday, June 28, 2015.&lt;/p&gt;&lt;p&gt;Tunisia's top security official says 1,000 extra police are being deployed at tourist sites and beaches in the North African nation after Friday's attack.&lt;/p&gt;&lt;p&gt;A Tunisian police officer guards the beach area in front of the attacked Imperial Marhaba Hotel in Sousse, Tunisia, Sunday, June 28, 2015.&lt;/p&gt;&lt;p&gt;Queen Elizabeth II says the attack on a beach resort in Tunisia has left her and her husband, Prince Philip, shocked.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T16:18:00Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/37/30/62/8228007/5/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Young Soccer Player, Blogger Among Those Killed in Tunisia</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/young-soccer-player-blogger-killed-tunisia-32082082" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T13:45:38Z</updated>
-    <published>2015-06-28T13:45:38Z</published>
-    <summary type="html">&lt;p&gt;So did Ross Nayler, whose father, 42-year-old Scott Chaulkley, was on holiday in Tunisia together with Davey.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T13:45:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>European tour operators evacuate thousands from Tunisia after attack</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/28/us-tunisia-security-britain-idUSKBN0P70A220150628?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T09:57:27Z</updated>
-    <published>2015-06-28T09:57:27Z</published>
-    <summary type="html">&lt;p&gt;SOUSSE, Tunisia Tour companies were evacuating thousands of foreign holidaymakers from Tunisia on Saturday, a day after a gunman killed 39 people at a beach hotel in an attack claimed by Islamic State.&lt;/p&gt;&lt;p&gt;Tour operators Thomson and First Choice, which are owned by German travel group TUI, said they had about 6,400 customers across Tunisia at the time of the attack, including several of the people killed and injured.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T09:57:27Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150628&amp;amp;i=109159209&amp;amp;w=240&amp;amp;r=109159209-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Terror on the beach: Tourists recount Tunisia attack horrors</title>
-    <link rel="alternate" href="http://news.yahoo.com/terror-beach-tourists-recount-tunisia-attack-horrors-195530217.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T22:48:58Z</updated>
-    <published>2015-06-27T22:48:58Z</published>
-    <summary type="html">&lt;p&gt;No one grasped what was happening at first in what became Tunisia's worst terrorist attack.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T22:48:58Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
-  </entry>
-  <entry>
-    <title>Dozens killed in attacks in Tunisia, Kuwait and France</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article25558072.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T02:21:04Z</updated>
-    <published>2015-06-27T02:21:04Z</published>
-    <summary type="html">&lt;p&gt;Since overthrowing its secular dictator in 2011, Tunisia has been plagued by terrorist attacks, although only recently have they targeted the tourism sector, which makes up nearly 15 percent of GDP.&lt;/p&gt;&lt;p&gt;The attacks are also a blow to Tunisia's image as a stable, democratic nation emerging from its revolution in 2011, said Jonathan Hill, a professor of Defense Studies at King's College in London.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T02:21:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Dozens killed in attacks in Tunisia, Kuwait and France</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/report-gunmen-kill-19-in-attack-on-tunisian-coasta/nmmTC/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T02:16:46Z</updated>
-    <published>2015-06-27T02:16:46Z</published>
-    <summary type="html">&lt;p&gt;A pool of blood is seen on the ground near the area where a terrorist attack took place in the coastal town of Sousse, Tunisia, Friday June 26, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T02:16:46Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/26/f8/48/b2469842777b4149be8da679483de5f6-b291a004215249b5b0e54ec31ac8bb89-0.jpg" />
-  </entry>
-  <entry>
-    <title>Dozens killed in attacks in Tunisia, Kuwait and France</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Report-Gunmen-kill-19-in-attack-on-Tunisian-6351090.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T02:16:46Z</updated>
-    <published>2015-06-27T02:16:46Z</published>
-    <summary type="html">&lt;p&gt;Injured people are treated near the area where an attack took place in Sousse, Tunisia, Friday June 26, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T02:16:46Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/26/63/8219874/5/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Dozens killed in attacks in Tunisia, Kuwait and France</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-06-26-ML--Tunisia-Attack/id-09ca4ffe06b1464fa9eab80439ea764a" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T22:16:00Z</updated>
-    <published>2015-06-26T22:16:00Z</published>
-    <summary type="html">&lt;p&gt;In Britain, police said they were tightening security at major events after the attacks in France, Kuwait and Tunisia, including for the weekend events of Armed Forces Day and the Pride London gay and lesbian festival.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T22:16:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: US condemns attacks in France, Kuwait, Tunisia</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/the-latest-attack-on-french-gas-factory-1-decapita/nmmP6/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T18:30:07Z</updated>
-    <published>2015-06-26T18:30:07Z</published>
-    <summary type="html">&lt;p&gt;White House Press Secretary Josh Earnest says "the United States condemns in the strongest terms the terrorist attacks in France, Kuwait and Tunisia today."&lt;/p&gt;&lt;p&gt;The international police agency Interpol is offering its investigative help to Tunisia, France, Kuwait and Somalia after separate attacks that have killed more than 80 people.&lt;/p&gt;&lt;p&gt;The French attack Friday came on the same day as a gunman mowed down scores of tourists on a beach in Tunisia and a suicide bomber killed over two dozen worshippers at a Shiite mosque in Kuwait.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T18:30:07Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/26/f1/8f/96a19408ee194fceb462340613a61bb4-d6f3fddb976a40f9bd49cfb9a6e555fe-0.jpg" />
-  </entry>
-  <entry>
-    <title>David Cameron: Britain to stand with France and Tunisia against terrorism</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/11701916/David-Cameron-Britain-to-stand-with-France-and-Tunisia-against-terrorism.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T15:46:38Z</updated>
-    <published>2015-06-26T15:46:38Z</published>
-    <summary type="html">&lt;p&gt;These events have taken place today in Tunisia and France but they could happen anywhere.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T15:46:38Z</dc:date>
-    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03356/hospital1_3356107g.jpg" />
-  </entry>
-  <entry>
-    <title>Shootings at Tunisia resort, beheading in France, bombing in Kuwait</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/06/26/africa/tunisia-terror-attack/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+CNN+-+World%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T15:22:06Z</updated>
-    <published>2015-06-26T15:22:06Z</published>
-    <summary type="html">&lt;p&gt;"I am sickened by the attacks in Tunisia, France and Kuwait," Cameron tweeted.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T15:22:06Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/06/26/africa/tunisia-terror-attack/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>Gunmen open fire at Sousse, Tunisia, hotel; 37 dead</title>
-    <link rel="alternate" href="http://www.upi.com/Top_News/World-News/2015/06/26/Gunmen-open-fire-at-Sousse-Tunisia-hotel-37-dead/2511435321693/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T13:04:41Z</updated>
-    <published>2015-06-26T13:04:41Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-26T13:04:41Z</dc:date>
   </entry>
 </feed>

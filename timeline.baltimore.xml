@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Skyrocketing homicide rate grips Baltimore</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/baltimore-forms-task-force-to-curb-skyrocketing-homicides-1.3177360?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T20:04:50Z</updated>
+    <published>2015-08-02T20:04:50Z</published>
+    <summary type="html">&lt;p&gt;Commissioner Davis said the Baltimore Federal Homicide Task Force, a new partnership among the police department and five federal law enforcement agencies, will go into effect Monday and operate for 60 days.&lt;/p&gt;</summary>
+    <dc:date>2015-08-02T20:04:50Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3177389.1438544340!/cpImage/httpImage/image.jpg_gen/derivatives/original_620/police-commissioner-fired.jpg" />
+  </entry>
+  <entry>
     <title>Ex-Baltimore cop planning blackface fundraiser</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/ex-baltimore-cop-planning-blackface-fundraising-performance/" />
     <author>
@@ -93,17 +105,6 @@
     <dc:date>2015-07-16T16:39:53Z</dc:date>
   </entry>
   <entry>
-    <title>Baltimore County police kill unarmed man after suicide threat</title>
-    <link rel="alternate" href="http://www.foxnews.com/us/2015/06/26/baltimore-county-police-kill-unarmed-man-after-suicide-threat/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T04:54:53Z</updated>
-    <published>2015-06-26T04:54:53Z</published>
-    <summary type="html">&lt;p&gt;According to 2013 census figures, 27.5 percent of Baltimore County's population is black and 64.1 percent is white.&lt;/p&gt;&lt;p&gt;Also in the home at the time were two of his young daughters and their mother, Shannon Sulton, who told police McCain beat and threatened her, Baltimore County Police Chief Jim Johnson said at a news conference.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T04:54:53Z</dc:date>
-  </entry>
-  <entry>
     <title>Baltimore mayor fires police commissioner amid homicide rise</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Baltimore-mayor-fires-police-commissioner-6373404.php" />
     <author>
@@ -173,28 +174,6 @@
     <dc:date>2015-07-08T10:44:09Z</dc:date>
   </entry>
   <entry>
-    <title>Baltimore County police kill unarmed man after suicide threat</title>
-    <link rel="alternate" href="http://www.foxnews.com/us/2015/06/26/baltimore-county-police-kill-unarmed-man-after-suicide-threat/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T05:54:31Z</updated>
-    <published>2015-06-26T05:54:31Z</published>
-    <summary type="html">&lt;p&gt;Since January 2012, police responded to 17 domestic violence calls at the home in a quiet suburban community outside Baltimore, said Cpl.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T05:54:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Recap: Boston vs. Baltimore</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/sports/mlb/charlotte-knights/article25462477.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T21:34:04Z</updated>
-    <published>2015-06-25T21:34:04Z</published>
-    <summary type="html">&lt;p&gt;Baltimore has taken nine of its last 12 series in Boston dating back to 2011, losing a series only once in that span.&lt;/p&gt;&lt;p&gt;It was 7-4 for Baltimore on a Machado two-out single to plate Pearce in the sixth, then the O's edge stretched to four in the seventh as Reimold hit a leadoff double and scored on a Davis double.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T21:34:04Z</dc:date>
-  </entry>
-  <entry>
     <title>Baltimore police probe transport van sign</title>
     <link rel="alternate" href="http://www.usatoday.com/story/news/nation/2015/07/03/baltimore-police-probe-transport-van-sign/29669661/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomnation-topstories" />
     <author>
@@ -204,49 +183,5 @@
     <published>2015-07-03T18:17:40Z</published>
     <summary type="html">&lt;p&gt;Baltimore police probe transport van sign Police in Baltimore are investigating a sign posted inside a police transport van that tells passengers: "Enjoy your ride, cuz we sure will!"&lt;/p&gt;</summary>
     <dc:date>2015-07-03T18:17:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Baltimore police partially identify officers who killed unarmed man</title>
-    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/06/27/22476531.html?cid=rssnewsworld" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T23:58:20Z</updated>
-    <published>2015-06-27T23:58:20Z</published>
-    <summary type="html">&lt;p&gt;Officers shot 41-year-old Spencer McCain Thursday in Owings Mills, about 15 miles northwest of Baltimore.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T23:58:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Baltimore police open probe into new shooting of unarmed black man</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/27/us-usa-baltimore-shooting-idUSKBN0P70TZ20150627?feedType=RSS&amp;amp;feedName=domesticNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T18:36:24Z</updated>
-    <published>2015-06-27T18:36:24Z</published>
-    <summary type="html">&lt;p&gt;Baltimore County Police Department salary records show Shenell Wilkes, Jonathan Besaw and Shannon Stargel as the only employees with those last names.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T18:36:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>DOJ asks Baltimore residents about police conduct</title>
-    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/06/25/doj-asks-baltimore-residents-about-police-conduct" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T01:11:24Z</updated>
-    <published>2015-06-26T01:11:24Z</published>
-    <summary type="html">&lt;p&gt;BALTIMORE (AP) - The U.S. Justice Department on Thursday night held its first public forum since it began an investigation into whether the Baltimore Police Department has habitually violated the civil rights of Baltimore's citizens.&lt;/p&gt;&lt;p&gt;Residents who attended the forum at the University of Baltimore Law School broke up into small groups to speak one-on-one with agency attorneys about their experiences with the police.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T01:11:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Baltimore police fatally shoot unarmed black man</title>
-    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/Crime/2015/06/25/22473106.html?cid=rssnewscrime" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-25T21:21:35Z</updated>
-    <published>2015-06-25T21:21:35Z</published>
-    <summary type="html">&lt;p&gt;-- An unarmed black man was fatally shot Thursday by officers in suburban Baltimore who thought he had a weapon when they were called to a home from which he was barred by protective order, the police chief said.&lt;/p&gt;</summary>
-    <dc:date>2015-06-25T21:21:35Z</dc:date>
   </entry>
 </feed>

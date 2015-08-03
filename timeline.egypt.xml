@@ -4,6 +4,63 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kerry says United States, Egypt return to "stronger base" in ties</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/02/us-egypt-usa-idUSKCN0Q706H20150802?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T20:40:45Z</updated>
+    <published>2015-08-02T20:40:45Z</published>
+    <summary type="html">&lt;p&gt;Washington supports former general Abdel Fattah al-Sisi, who led Mursi's overthrow and was elected to succeed him, but has cautiously criticized Egypt's human rights record.&lt;/p&gt;</summary>
+    <dc:date>2015-08-02T20:40:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt postpones Al Jazeera retrial verdict to Aug. 29</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/02/us-egypt-jazeera-idUSKCN0Q708B20150802?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T18:25:11Z</updated>
+    <published>2015-08-02T18:25:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-02T18:25:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>US, Egypt resume formal security talks with Kerry visit</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/02/us-secretary-of-state-john-kerry-meets-egyptian-officials" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T14:39:56Z</updated>
+    <published>2015-08-02T14:39:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-02T14:39:56Z</dc:date>
+  </entry>
+  <entry>
+    <title>US, Egypt resume formal security talks with Kerry visit</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/us-secretary-of-state-john-kerry-meets-egyptian-of/nnBdC/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T14:39:56Z</updated>
+    <published>2015-08-02T14:39:56Z</published>
+    <summary type="html">&lt;p&gt;U.S. Secretary of State John Kerry, left, and Egypt's Foreign Minister Sameh Shoukry speak at a press conference after their meeting at the foreign ministry in Cairo, Egypt, Sunday, Aug. 2, 2015.&lt;/p&gt;&lt;p&gt;The United States and Egypt on Sunday resumed formal security talks that were last held six years ago and kept on hiatus until now amid the political unrest that swept the country in the wake of the Arab Spring.&lt;/p&gt;</summary>
+    <dc:date>2015-08-02T14:39:56Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/02/ca/43/87123a391dfb407f9973be099739438a-447e69e3739342aba2a07280ac9da81e-0.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State claims rocket attack on Egypt navy vessel left ablaze after shootout</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/11744291/Egyptian-navy-vessel-ablaze-after-shootout-with-Sinai-militants.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T14:43:57Z</updated>
+    <published>2015-07-16T14:43:57Z</published>
+    <summary type="html">&lt;p&gt;Sinai Province, the most lethal militant group in Egypt, last year pledged loyalty to Isil, which controls large tracts of territory in Syria and Iraq and has a presence in Egypt's neighbour Libya.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T14:43:57Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03336/egypt-luxor_3336353g.jpg" />
+  </entry>
+  <entry>
     <title>Egypt raises death toll from Nile boat collision to 35</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28693648.html%23storylink=rss" />
     <author>
@@ -207,17 +264,6 @@
     <dc:date>2015-07-15T15:25:32Z</dc:date>
   </entry>
   <entry>
-    <title>Egypt's Sisi promises tougher legal system as prosecutor buried</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/30/us-egypt-anniversary-court-idUSKCN0PA1W120150630?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T19:35:52Z</updated>
-    <published>2015-06-30T19:35:52Z</published>
-    <summary type="html">&lt;p&gt;Western governments have criticized the mass death sentences but are unlikely to take strong measures against Egypt, seen as a vital partner for security in a region beset by turmoil.&lt;/p&gt;&lt;p&gt;Militant attacks that have killed hundreds of soldiers and police -- focused mainly in the North Sinai region but also extending to Egypt's main cities -- have increased since Mursi's toppling.&lt;/p&gt;&lt;p&gt;Some of Egypt's judges have been accused of blatant bias in trials against Islamists, but the judiciary says it is independent of the government and military.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T19:35:52Z</dc:date>
-  </entry>
-  <entry>
     <title>Film legend Omar Sharif gets solemn sendoff in Egypt</title>
     <link rel="alternate" href="http://www.ctvnews.ca/entertainment/film-legend-omar-sharif-gets-solemn-sendoff-in-egypt-1.2465640" />
     <author>
@@ -227,18 +273,6 @@
     <published>2015-07-12T17:45:33Z</published>
     <summary type="html">&lt;p&gt;"Omar Sharif represented Egypt to the world in the best possible way," said Hussein Fahmy, a popular Egyptian actor who attended the funeral.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T17:45:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt's president vows 'swift justice' after assassination</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Egypt-prepares-for-burial-of-slain-prosecutor-6357320.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T19:52:13Z</updated>
-    <published>2015-06-30T19:52:13Z</published>
-    <summary type="html">&lt;p&gt;Despite an international outcry against legal abuses and lack of due process, Egypt has waged a 2-year-old crackdown that has led to thousands of arrests, mass convictions and death sentences.&lt;/p&gt;&lt;p&gt;Suicide bombings have also targeted army and police forces elsewhere in Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T19:52:13Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/37/32/74/8236805/5/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Egyptian lawyers protest colleague's shooting at courthouse</title>
@@ -409,142 +443,5 @@
     <summary type="html">&lt;p&gt;Two years to the day after the army overthrew Egypt's Islamist president, the sounds coming from the mosque at Cairo's Tahrir Square were sadly telling.&lt;/p&gt;</summary>
     <dc:date>2015-07-03T20:57:13Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/03/6d/90/aad568d79cc94341ba8f7fc8128faed0-5989351e162c4dc897cae975e9a7f1ab-0.jpg" />
-  </entry>
-  <entry>
-    <title>Egypt prepares for burial of slain prosecutor general</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/30/egypt-prepares-for-burial-of-slain-prosecutor/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T08:28:01Z</updated>
-    <published>2015-06-30T08:28:01Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-30T08:28:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt prepares for burial of slain prosecutor general</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/egypt-prepares-for-burial-of-slain-prosecutor-gene/nmpBb/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T08:28:01Z</updated>
-    <published>2015-06-30T08:28:01Z</published>
-    <summary type="html">&lt;p&gt;The widow of Egypt's slain chief prosecutor Hisham Barakat receives condolences from mourners who wait to take his body to his funeral in Cairo, Egypt, Tuesday, June 30, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T08:28:01Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/30/be/d4/d93acebf0eb54508a782142bf686fd2c-a5cc8cb1147644cd95b01143cb552c34-0_1.jpg" />
-  </entry>
-  <entry>
-    <title>Fallen Egypt archaeologist wants international Grand Museum</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/30/fallen-egypt-archaeologist-wants-international-grand-museum" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T06:33:14Z</updated>
-    <published>2015-06-30T06:33:14Z</published>
-    <summary type="html">&lt;p&gt;His name is still associated with many of Egypt's most famous digs, including grand discoveries such as the Valley of the Golden Mummies in Bahariya Oasis in 1999 and the mummy of Queen Hatshepsut almost a decade later.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T06:33:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Fallen Egypt archaeologist wants international Grand Museum</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/fallen-egypt-archaeologist-wants-international-gra/nmn8b/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T06:33:14Z</updated>
-    <published>2015-06-30T06:33:14Z</published>
-    <summary type="html">&lt;p&gt;For more than a decade, he was the self-styled Indiana Jones of Egypt, presiding over its antiquities and striding through temples and tombs as the star of TV documentaries that made him an international celebrity.&lt;/p&gt;&lt;p&gt;In this June 18, 2015 photo, Zahi Hawass, Egypt's former head of antiquities, speaks during an interview with The Associated Press in his office in Cairo.&lt;/p&gt;&lt;p&gt;His trademark wide-brimmed hat and safari vest may be hung up for now, but he is brimming with ideas on how to revive Egypt's antiquities and bring back tourists after years of unrest.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T06:33:14Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/30/a3/47/919a7a692a364196bcf1e3147bd91cf4-75aa31bdbe074250a3bd197239457e36-0.jpg" />
-  </entry>
-  <entry>
-    <title>Car bomb attack kills Egypt's top public prosecutor</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/29/us-egypt-violence-idUSKCN0P90UA20150629?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T23:44:05Z</updated>
-    <published>2015-06-29T23:44:05Z</published>
-    <summary type="html">&lt;p&gt;Last month, the Islamic State militant group's Egyptian affiliate urged followers to attack judges, opening a new front in an Islamist insurgency in Egypt..&lt;/p&gt;</summary>
-    <dc:date>2015-06-29T23:44:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Car bomb attack kills Egypt&amp;#039;s top public prosecutor</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/06/30/car-bomb-attack-kills-egypts-top-public-prosecutor" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T21:15:41Z</updated>
-    <published>2015-06-29T21:15:41Z</published>
-    <summary type="html">&lt;p&gt;Egypt's top public prosecutor was killed by a car bomb attack on his convoy on Monday, the most senior state official to die at the hands of militants since the toppling of an Islamist president two years ago.&lt;/p&gt;</summary>
-    <dc:date>2015-06-29T21:15:41Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/20150630001150213872-minihighres.jpg?itok=3dCm7WmU" />
-  </entry>
-  <entry>
-    <title>Bomb kills Egypt's top prosecutor as he drives to work</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/egypts-state-prosecutor-comes-under-bomb-attack-in/nmnY9/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T20:45:32Z</updated>
-    <published>2015-06-29T20:45:32Z</published>
-    <summary type="html">&lt;p&gt;Egypt's official news agency said Barakat has died of wounds sustained in the attack in a Cairo suburb.&lt;/p&gt;&lt;p&gt;Security personnel collect forensic evidence at the site of a bombing that killed Egypt's top prosecutor, Hisham Barakat, in Cairo, Egypt, Monday, June 29, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-29T20:45:32Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/29/8c/ba/7ac7812845d34c90a54ae9b8a4f42e6f-a77f3808a18d413bb5586fe1a84288a0-0.jpg" />
-  </entry>
-  <entry>
-    <title>Bomb kills Egypt's top prosecutor as he drives to work</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/29/egypts-state-prosecutor-comes-under-bomb-attack-in-cairo" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T20:45:32Z</updated>
-    <published>2015-06-29T20:45:32Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-29T20:45:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egyptian prosecutor killed in bomb attack</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/egypt-prosecutor-hisham-barakat-targeted-in-cairo-bomb-attack/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T15:36:25Z</updated>
-    <published>2015-06-29T15:36:25Z</published>
-    <summary type="html">&lt;p&gt;CAIRO -- A bomb attack in a busy, upscale Cairo suburb targeted the convoy of Egypt's prosecutor general on Monday morning, a security official said.&lt;/p&gt;&lt;p&gt;The attack came as Egyptian security forces went on high alert on the eve of the second anniversary of massive anti-Islamist demonstrations that paved the way, days later, for the military's ouster of Egypt's Islamic President Mohammed Morsi.&lt;/p&gt;</summary>
-    <dc:date>2015-06-29T15:36:25Z</dc:date>
-    <media:content url="http://cbsnews1.cbsistatic.com/hub/i/r/2015/06/29/730d5799-8b0d-4ae8-9ffa-86b3e4ec6d26/thumbnail/620x350/a9a3d73579778ffe92bc04589572310a/cairo-bombing-over-view.jpg" />
-  </entry>
-  <entry>
-    <title>Car bomb kills Egypt’s top prosecutor</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/world/car-bomb-kills-egypt-top-prosecutor-article-1.2275009" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T14:59:59Z</updated>
-    <published>2015-06-29T14:59:59Z</published>
-    <summary type="html">&lt;p&gt;Egypt's main Islamic militant group Ansar Beit al-Maqdis - which has pledged allegiance to the Islamic State group fighting in Iraq and Syria - has claimed responsibility for that attack.&lt;/p&gt;</summary>
-    <dc:date>2015-06-29T14:59:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Car bomb attack kills Egypt's top public prosecutor</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/29/us-egypt-violence-idUSKCN0P90UA20150629?feedType=RSS&amp;amp;feedName=topNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-29T13:58:05Z</updated>
-    <published>2015-06-29T13:58:05Z</published>
-    <summary type="html">&lt;p&gt;Policemen investigate the site of a car bomb attack on the convoy of Egyptian public prosecutor Hisham Barakat near his house at Heliopolis district in Cairo, Egypt, June 29, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-29T13:58:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt sentences 3 to year in prison over racy video</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article25706686.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T16:35:05Z</updated>
-    <published>2015-06-28T16:35:05Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-28T16:35:05Z</dc:date>
   </entry>
 </feed>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: nepal</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
@@ -123,29 +123,5 @@
     <published>2015-07-10T12:24:05Z</published>
     <summary type="html" />
     <dc:date>2015-07-10T12:24:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Image of Asia: Celebrating While Planting Paddy in Nepal</title>
-    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/image-asia-celebrating-planting-paddy-nepal-32124618" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T13:55:31Z</updated>
-    <published>2015-06-30T13:55:31Z</published>
-    <summary type="html" />
-    <dc:date>2015-06-30T13:55:31Z</dc:date>
-    <media:content url="http://a.abcnews.com/images/International/RT_indonesia_plane_crash5_ml_150629_mn_16x9t_384.jpg" />
-  </entry>
-  <entry>
-    <title>Image of Asia: Celebrating while planting paddy in Nepal</title>
-    <link rel="alternate" href="http://news.yahoo.com/image-asia-celebrating-while-planting-paddy-nepal-135444316.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T13:54:44Z</updated>
-    <published>2015-06-30T13:54:44Z</published>
-    <summary type="html">&lt;p&gt;In this photo by Niranjan Shrestha, farmers play with sludge as they plant paddy saplings in a field outside Kathmandu, Nepal, on Asar Pandhra day.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T13:54:44Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/zS2EqyhGtIxJ5OXXKRDRfA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/News/ap_webfeeds/8e9f0f0b238bdc1d7a0f6a7067005787.jpg" />
   </entry>
 </feed>

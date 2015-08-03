@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nintendo President Satoru Iwata dies of tumor</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Nintendo-President-Satoru-Iwata-dies-of-tumor-6380787.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T05:37:40Z</updated>
+    <published>2015-07-13T05:37:40Z</published>
+    <summary type="html">&lt;p&gt;Iwata remained a presence in Nintendo promotional materials up until his death.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T05:37:40Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/37/52/01/8298572/27/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Nintendo Boss Satoru Iwata Dies Of Cancer</title>
     <link rel="alternate" href="http://news.sky.com/story/1517838/nintendo-boss-satoru-iwata-dies-of-cancer" />
     <author>

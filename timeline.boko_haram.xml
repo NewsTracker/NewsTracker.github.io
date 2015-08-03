@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigeria's army says it has rescued 178 people held captive by Boko Haram</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/aug/03/nigerias-army-says-it-has-rescued-178-people-held-captive-by-boko-haram" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T23:27:46Z</updated>
+    <published>2015-08-02T23:27:46Z</published>
+    <summary type="html">&lt;p&gt;Nigeria's airforce also said that it helped ground troops repel an attack by Boko Haram around the village of Bitta on the southern edge of the Sambisa forest reserve, a stronghold of the militant group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-02T23:27:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nigeria: Review of soldiers condemned in Boko Haram war</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/nigeria-review-of-soldiers-condemned-in-boko-haram/nnBgx/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T17:20:32Z</updated>
+    <published>2015-08-02T17:20:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-02T17:20:32Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/02/77/91/8a6bea2a5d9d47dc972999d2da87a578-7d8998cbed474c398f49375505fc7aac-0_1.jpg" />
+  </entry>
+  <entry>
+    <title>Benin pledges 800 troops to anti-Boko Haram force</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/benin-pledges-800-troops-to-anti-boko-haram-force/nnBfW/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T14:58:40Z</updated>
+    <published>2015-08-02T14:58:40Z</published>
+    <summary type="html">&lt;p&gt;Benin's president has vowed to contribute 800 troops to a regional force intended to combat the Nigeria-based Islamic extremist group Boko Haram.&lt;/p&gt;&lt;p&gt;"This is an opportunity for Benin to express solidary with countries on the front line against the Islamic sect, Boko Haram. This solidary will result in the sending of a contingent of 800 men from Benin's army," Boni Yayi said.&lt;/p&gt;&lt;p&gt;Boko Haram became an affiliate of the Islamic State group earlier this year.&lt;/p&gt;</summary>
+    <dc:date>2015-08-02T14:58:40Z</dc:date>
+  </entry>
+  <entry>
     <title>AP Interview: Nigerian leader says multination forces soon ready to fight Boko Haram</title>
     <link rel="alternate" href="http://www.startribune.com/nigerian-leader-forces-ready-soon-to-take-on-boko-haram/317893451/" />
     <author>
@@ -236,61 +270,5 @@
     <published>2015-07-03T19:26:00Z</published>
     <summary type="html">&lt;p&gt;Boko Haram militants slit the throats of 11 alleged "traitors," witnesses said in the first news of desertions from the Nigerian Islamic extremist group.&lt;/p&gt;&lt;p&gt;It is the fifth attack in a week that left 173 people killed as Boko Haram Islamic extremists appear to obey an Islamic State group order to step up attacks in the holy month of Ramadan.&lt;/p&gt;</summary>
     <dc:date>2015-07-03T19:26:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Boko Haram guns down 97 people praying in mosques in Nigeria</title>
-    <link rel="alternate" href="http://www.usatoday.com/story/news/world/2015/07/02/boko-haram-mosque-attack/29626615/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-02T18:50:51Z</updated>
-    <published>2015-07-02T18:50:51Z</published>
-    <summary type="html">&lt;p&gt;Kukawa is 110 miles northeast of Maiduguri, the biggest city in northeast Nigeria and the birthplace of Boko Haram.&lt;/p&gt;</summary>
-    <dc:date>2015-07-02T18:50:51Z</dc:date>
-  </entry>
-  <entry>
-    <title>Chad forces arrest Boko Haram leader, hold 74 others</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/chad-forces-arrest-boko-haram-leader-hold-74-other/nmqH4/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-01T21:41:53Z</updated>
-    <published>2015-07-01T21:41:53Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-01T21:41:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Police arrest 60 for bombing in Chad capital</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/06/28/police-arrest-60-for-bombing-in-chad-capital" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T18:12:21Z</updated>
-    <published>2015-06-28T18:12:21Z</published>
-    <summary type="html">&lt;p&gt;Chad has been a major military ally with Nigeria in the fight against the insurgent group, and Boko Haram's leader has publicly threatened the Chadian president with retaliation.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T18:12:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Police arrest 60 for bombing in Chad capital</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/police-arrest-60-for-bombing-in-chad-capital/nmnPB/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T18:12:21Z</updated>
-    <published>2015-06-28T18:12:21Z</published>
-    <summary type="html">&lt;p&gt;The attack was the first of its kind on N'Djamena, the Chadian capital, and came following threats from the Nigeria-based Islamic extremist group Boko Haram.&lt;/p&gt;&lt;p&gt;There was no immediate claim of responsibility for the attack but suspicion quickly fell on Boko Haram, the Islamic militant group based in neighboring Nigeria that had already attacked Chadian villages along the lake dividing the two countries.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T18:12:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Police arrest 60 for bombing in Chad capital</title>
-    <link rel="alternate" href="http://news.yahoo.com/police-arrest-60-bombing-chad-capital-180259906.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T18:02:59Z</updated>
-    <published>2015-06-28T18:02:59Z</published>
-    <summary type="html">&lt;p&gt;Chad has been a major contributor to the fight against Boko Haram, which had already attacked Chadian villages along the lake dividing the two countries.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T18:02:59Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" />
   </entry>
 </feed>

@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Watch to be sold at Best Buy stores from August</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/apple-watch-sold-best-buy-042957351.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-27T12:25:44Z</updated>
+    <published>2015-07-27T12:25:44Z</published>
+    <summary type="html">&lt;p&gt;(Reuters) - The Apple Watch will be available at stores of Best Buy Co Inc (BBY.N), the largest U.S. consumer electronics chain, starting Aug. 7.&lt;/p&gt;&lt;p&gt;The Apple Watch and Apple Watch Sport models will be sold at more than 300 Best Buy stores in time for the holiday shopping season, a spokeswoman for Apple Inc (AAPL.O) said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-27T12:25:44Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/J0_w.ZHUcQHtWIfAj_plsg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-07-27T122544Z_2_LYNXNPEB6Q03J_RTROPTP_3_MARKETS-STOCKS-USA_original.jpg" />
+  </entry>
+  <entry>
+    <title>Apple's $62B hit is bad...but it's not the worst</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/apples-62b-hit-bad-not-132027352.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T14:13:08Z</updated>
+    <published>2015-07-22T14:13:08Z</published>
+    <summary type="html">&lt;p&gt;Despite beating earnings estimates on Tuesday evening, Apple (AAPL)'s stock has sunk in after-hours trading and is on course to write a new page in the history books.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T14:13:08Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
+    <title>Review: Apple Music has everything, perhaps too much</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Review-Apple-Music-has-everything-perhaps-too-6387714.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T08:36:30Z</updated>
+    <published>2015-07-16T08:36:30Z</published>
+    <summary type="html">&lt;p&gt;LOS ANGELES (AP) - Apple's new music service is a valiant effort to catch up in the emerging business of offering unlimited music on demand for a monthly price.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T08:36:30Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/37/56/35/8316761/3/920x920.jpg" />
+  </entry>
+  <entry>
     <title>Apple removes Nest Labs thermostats from U.S. stores</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/24/us-apple-inc-nest-idUSKCN0PY2AP20150724?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
@@ -503,28 +539,6 @@
     <media:content url="http://resources0.news.com.au/images/2015/07/13/1227439/685152-848d9cae-28f2-11e5-b51a-609e8c108313.jpg" />
   </entry>
   <entry>
-    <title>Apple Music promises revolution, but traditional DJs are what set it apart</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article26042317.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-02T08:00:00Z</updated>
-    <published>2015-07-02T08:00:00Z</published>
-    <summary type="html">&lt;p&gt;Real-time radio, of all things, is what truly distinguishes the newest and splashiest streaming service, Apple Music.&lt;/p&gt;&lt;p&gt;Apple has about 30 million songs to stream at your request.&lt;/p&gt;&lt;p&gt;Complete with high-profile DJs and programmed shows, it sets the service apart from the pack and best illustrates Apple's ambition - to become a destination spot not unlike media giants of yore.&lt;/p&gt;&lt;p&gt;And Apple Music pulls in whatever songs you've purchased from iTunes in a fairly intuitive way.&lt;/p&gt;</summary>
-    <dc:date>2015-07-02T08:00:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>5 things for Apple (and you) to keep in mind as Apple Music is launched</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/music-news-reviews/article25830955.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T08:00:00Z</updated>
-    <published>2015-06-30T08:00:00Z</published>
-    <summary type="html">&lt;p&gt;Apple can make people spend $700 on a phone without blinking, but can it get a critical mass to pay another $10 a month?&lt;/p&gt;&lt;p&gt;With just one recent op-ed, Taylor Swift reset the whole argument about Apple's planned free three-month subscription (or, as artists see it, a quarter of a year without royalty payments).&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T08:00:00Z</dc:date>
-  </entry>
-  <entry>
     <title>FTC exploring Apple rules for streaming music rivals in App Store</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/11/us-apple-music-antitrust-idUSKCN0PL03O20150711?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
@@ -546,18 +560,6 @@
     <summary type="html">&lt;p&gt;Streaming services' chief grievances with Apple stem from the company's 30 percent cut.&lt;/p&gt;</summary>
     <dc:date>2015-07-11T03:15:25Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/k0uWYnnLEk1SX.BktVeDhA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE_original.jpg" />
-  </entry>
-  <entry>
-    <title>Apple Music: Everything You Need to Know</title>
-    <link rel="alternate" href="http://www.rollingstone.com/music/news/apple-music-everything-you-need-to-know-20150630" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T09:55:00Z</updated>
-    <published>2015-06-30T09:55:00Z</published>
-    <summary type="html">&lt;p&gt;The default screen shows the newest of the new from all genres each week, as picked by Apple's editors.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T09:55:00Z</dc:date>
-    <media:content url="http://assets.rollingstone.com/assets/2015/media/201375/_original/1435611830/1035x685-iPhone6-3Up-AppleMusic-Features-PR-PRINT.jpg" />
   </entry>
   <entry>
     <title>China fears propel Apple shares toward five-day losing streak</title>
@@ -628,75 +630,5 @@
     <summary type="html">&lt;p&gt;Dr. Dre will be busting through your speakers with a new radio show on Apple Music.&lt;/p&gt;</summary>
     <dc:date>2015-07-03T21:18:52Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>AC/DC to put music on Spotify, Apple Music</title>
-    <link rel="alternate" href="http://www.nydailynews.com/entertainment/music/ac-dc-put-music-spotify-apple-music-article-1.2277329" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-01T05:23:55Z</updated>
-    <published>2015-07-01T05:23:55Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-01T05:23:55Z</dc:date>
-  </entry>
-  <entry>
-    <title>US court agrees Apple violated antitrust law in e-book entry</title>
-    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article25823539.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T19:58:06Z</updated>
-    <published>2015-06-30T19:58:06Z</published>
-    <summary type="html">&lt;p&gt;In a statement, Apple said the ruling did nothing to change the fact that it did not conspire to fix e-book pricing.&lt;/p&gt;&lt;p&gt;In the majority opinion, though, Livingston said it was "startling" that Jacobs would agree Apple intentionally organized a conspiracy among publishers to raise e-book prices and then say the company was entitled to do so because the conspiracy helped it become an e-book retailer.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T19:58:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Appeals court agrees Apple violated antitrust law in e-books case</title>
-    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28406571/appeals-court-agrees-apple-violated-antitrust-law-e?source=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T18:27:42Z</updated>
-    <published>2015-06-30T18:27:42Z</published>
-    <summary type="html">&lt;p&gt;Two publishers joined Apple's appeal.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T18:27:42Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0519/20150519__0520apple%7E1_300.JPG" />
-  </entry>
-  <entry>
-    <title>Apple conspired to fix e-book prices: U.S. appeals court</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/apple-conspired-fix-e-book-140455076.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T17:21:15Z</updated>
-    <published>2015-06-30T17:21:15Z</published>
-    <summary type="html">&lt;p&gt;"While we want to put this behind us, the case is about principles and values," Apple said in a statement.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T17:21:15Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/e43quiLWB0_byApqPKRbkg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-06-30T140455Z_1_LYNXNPEB5T0QF_RTROPTP_3_CTECH-US-TAIWAN-APPLE_original.jpg" />
-  </entry>
-  <entry>
-    <title>Apple conspired to fix e-book prices: U.S. appeals court</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/technology/tech-news/apple-conspired-to-fix-e-book-prices-us-appeals-court/article25198850/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T15:17:23Z</updated>
-    <published>2015-06-30T15:17:23Z</published>
-    <summary type="html">&lt;p&gt;A divided federal appeals court on Tuesday said Apple Inc. orchestrated a conspiracy with five publishers to increase e-book prices, in a victory for the U.S. Justice Department.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T15:17:23Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/15b/report-on-business/international-business/article22104604.ece/ALTERNATES/w220/CTECH_US_APPLE_ANTITRUST_VERDICT.JPG" />
-  </entry>
-  <entry>
-    <title>US court agrees Apple violated antitrust law in e-book entry</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/entertainment/us-court-agrees-apple-violated-antitrust-law-in-e-/nmpJt/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T14:20:25Z</updated>
-    <published>2015-06-30T14:20:25Z</published>
-    <summary type="html">&lt;p&gt;The 2nd U.S. Circuit Court of Appeals in Manhattan ruled 2-to-1 Tuesday that a lower court judge was right to find Apple violated the laws to upset Amazon.com's control of the market.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T14:20:25Z</dc:date>
   </entry>
 </feed>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Colorado shooting defendant James Holmes called ‘psychotic’ by his attorney</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article27262330.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T23:43:29Z</updated>
+    <published>2015-07-14T23:43:29Z</published>
+    <summary type="html">&lt;p&gt;Daniel King said Holmes had been mentally ill even before the 2012 attack on the movie theater in Aurora, Colo., and urged the jurors to look beyond how the gunman planned his attack.&lt;/p&gt;&lt;p&gt;The prosecution had earlier argued that the deliberate nature of the planning and execution of the attack showed that Holmes was not mentally ill.&lt;/p&gt;&lt;p&gt;In his presentation, Brauchler emphasized how Holmes deliberately planned the attack to compensate for failures in his graduate school studies and in his romantic life.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T23:43:29Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Jimmy Fallon Mangles Katie Holmes’s Face</title>
     <link rel="alternate" href="http://www.sfgate.com/entertainment/video/article/Missed-6403436.php" />
     <author>
@@ -256,18 +268,6 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Colorado shooting defendant James Holmes called ‘psychotic’ by his attorney</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article27262330.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T23:43:29Z</updated>
-    <published>2015-07-14T23:43:29Z</published>
-    <summary type="html">&lt;p&gt;Daniel King said Holmes had been mentally ill even before the 2012 attack on the movie theater in Aurora, Colo., and urged the jurors to look beyond how the gunman planned his attack.&lt;/p&gt;&lt;p&gt;The prosecution had earlier argued that the deliberate nature of the planning and execution of the attack showed that Holmes was not mentally ill.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T23:43:29Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
     <title>After all is said in theater attack trial, was Holmes sane?</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article27138301.html%23storylink=rss" />
     <author>
@@ -289,39 +289,5 @@
     <published>2015-07-13T18:28:08Z</published>
     <summary type="html">&lt;p&gt;The only question they must answer is whether Holmes met Colorado's threshold for an insanity verdict, by suffering from mental illness so severe that it rendered him unable to tell right from wrong at the time of the shootings.&lt;/p&gt;&lt;p&gt;The hideous details of the attack, the heartbreaking survival stories, the signs of mental illness that Holmes showed well before the events of July 20, 2012 - they shouldn't matter.&lt;/p&gt;&lt;p&gt;If they agree Holmes is insane, he would be committed indefinitely to a state mental hospital.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T18:28:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Doctor who found Holmes insane didn't watch much of video</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/us/prosecutors-question-doctor-who-found-theater-shoo/nmmPD/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T00:38:19Z</updated>
-    <published>2015-06-27T00:38:19Z</published>
-    <summary type="html">&lt;p&gt;Dr. Jonathan Woodcock, one of the first defense witnesses to take the stand, interviewed Holmes four days after the July 20, 2012, shooting to determine if he was competent to stand trial and then again earlier this year when he was asked by the defense to testify on Holmes' sanity.&lt;/p&gt;&lt;p&gt;He said Holmes was so delusional and psychotic as a result of deep-seeded mental illness that he was unable to tell right from wrong when he opened fire on the theater - Colorado's standard for an insanity verdict.&lt;/p&gt;&lt;p&gt;Brauchler pointed out that Woodcock didn't talk to Holmes about the crime or his plans for the shooting in either interview and already completed a report concluding he was insane before the second, one-hour interview.&lt;/p&gt;&lt;p&gt;But, pressed further by defense attorney Daniel King, Woodcock said he reviewed Reid's report based on the interview and many other records and evidence and did not find anything that would have changed his own conclusion about Holmes.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T00:38:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Doctor who found Holmes insane didn't watch much of video</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article25553560.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T00:41:05Z</updated>
-    <published>2015-06-27T00:41:05Z</published>
-    <summary type="html">&lt;p&gt;Brauchler suggested that jurors and others in the courtroom who had watched all 22 hours of Dr. William Reid's interview, in which Holmes talked at length about his planning and preparation for the shooting, had observed him longer than Woodcock had.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T00:41:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Doctor Who Found Holmes Insane Didn't Watch Much of Video</title>
-    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/prosecutors-question-doctor-found-theater-shooter-insane-32043308" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-27T00:39:14Z</updated>
-    <published>2015-06-27T00:39:14Z</published>
-    <summary type="html">&lt;p&gt;In response to their inquiries, Woodcock reaffirmed his conclusion that Holmes was insane.&lt;/p&gt;</summary>
-    <dc:date>2015-06-27T00:39:14Z</dc:date>
   </entry>
 </feed>

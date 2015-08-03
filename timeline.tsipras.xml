@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tsipras.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek PM Tsipras replaces rebels in reshuffle</title>
+    <link rel="alternate" href="http://www.cnbc.com/2015/07/17/greek-pm-tsipras-replaces-rebels-in-government-reshuffle.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T18:38:00Z</updated>
+    <published>2015-07-17T18:38:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-17T18:38:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/17/102843378-022671dc9544702746db5db4e00271aba99f844f.80x60.jpg?v=1437149136" />
+  </entry>
+  <entry>
+    <title>Greek PM Alexis Tsipras faces party revolt over eurozone bailout deal</title>
+    <link rel="alternate" href="http://www.smh.com.au/business/world-business/greek-pm-alexis-tsipras-faces-party-revolt-over-eurozone-bailout-deal-20150714-gibx7g.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T05:55:05Z</updated>
+    <published>2015-07-14T05:55:05Z</published>
+    <summary type="html">&lt;p&gt;Alexis Tsipras (centre) and Finance Minister Euclid Tsakalotos (centre left) leave bailout talks in Brussels.&lt;/p&gt;&lt;p&gt;In a sign of how hard it may be for Mr Tsipras to convince his own Syriza party to accept the deal, Labour Minister Panos Skourletis said the terms were not viable and would lead to new elections this year.&lt;/p&gt;</summary>
+    <dc:date>2015-07-14T05:55:05Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/b/p/l/o/image.related.articleLeadwide.620x349.gibx7g.png/1436853286979.jpg" />
+  </entry>
+  <entry>
+    <title>Tsipras dismisses Europe's warnings to Greece on vote</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/07/03/us-eurozone-greece-idUSKBN0P40EO20150703?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-03T14:53:42Z</updated>
+    <published>2015-07-03T14:53:42Z</published>
+    <summary type="html">&lt;p&gt;If voters back a bailout plan the government has scorned, Tsipras and Finance Minister Yanis Varoufakis have said they would quit.&lt;/p&gt;</summary>
+    <dc:date>2015-07-03T14:53:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Greek PM Tsipras under pressure over covert Syriza drachma plan reports</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/26/us-eurozone-greece-idUSKCN0Q00JN20150726?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
@@ -15,19 +50,18 @@
     <dc:date>2015-07-26T18:48:07Z</dc:date>
   </entry>
   <entry>
-    <title>Greek PM Tsipras under pressure over covert Syriza drachma plan reports</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/26/us-eurozone-greece-idUSKCN0Q00JN20150726?feedType=RSS&amp;amp;feedName=topNews" />
+    <title />
+    <link rel="alternate" href="" />
     <author>
       <name />
     </author>
     <updated>2015-07-26T14:44:22Z</updated>
     <published>2015-07-26T14:44:22Z</published>
-    <summary type="html" />
     <dc:date>2015-07-26T14:44:22Z</dc:date>
   </entry>
   <entry>
-    <title>Greek PM Tsipras under pressure over covert Syriza drachma plan reports</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/26/us-eurozone-greece-idUSKCN0Q00JN20150726?feedType=RSS&amp;amp;feedName=worldNews" />
+    <title>At least six dead in bomb blast at Mogadishu hotel</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/At-least-six-dead-in-bomb-blast-at-Mogadishu-hotel/articleshow/48226835.cms" />
     <author>
       <name />
     </author>
@@ -35,6 +69,7 @@
     <published>2015-07-26T14:44:22Z</published>
     <summary type="html">&lt;p&gt;Under the plan, which the report said went back to before Tsipras was elected in January, transactions through the parallel system would have been nominated in euros but could easily change into drachmas overnight, he was quoted as saying.&lt;/p&gt;&lt;p&gt;The center-right New Democracy party and the centrist To Potami and the Socialist Pasok parties, which all backed Tsipras in parliamentary votes on the bailout this month, demanded a response to the reports.&lt;/p&gt;&lt;p&gt;However, according to the report, he said the plan had never been approved by Tsipras.&lt;/p&gt;</summary>
     <dc:date>2015-07-26T14:44:22Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48226911,width-300,resizemode-4/Blast.jpg" />
   </entry>
   <entry>
     <title>Greece PM Tsipras fights party rebellion as Athens prepares for crunch bail-out vote</title>
@@ -374,18 +409,6 @@
     <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201528/AP150624080213_140x93.jpg" />
   </entry>
   <entry>
-    <title>Greece's Tsipras digs in against bailout</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/02/us-eurozone-greece-idUSKBN0P40EO20150702?feedType=RSS&amp;amp;feedName=topNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-02T05:57:03Z</updated>
-    <published>2015-07-02T05:57:03Z</published>
-    <summary type="html">&lt;p&gt;Less than 24 hours after he wrote a conciliatory letter to creditors asking for a new bailout that would accept many of their terms, Tsipras abruptly switched back into combative mode in a television address.&lt;/p&gt;&lt;p&gt;Euro zone finance ministers held an hour-long conference call to discuss the previous night's offer from Tsipras, but were adamant that no further discussions would be held until after Sunday's vote.&lt;/p&gt;&lt;p&gt;In his overnight letter to creditors, seen by Reuters, Tsipras agreed to accept most of their demands for taxes and pension cuts and asked for a new 29 billion euro loan to cover all debt service payments in the next two years.&lt;/p&gt;&lt;p&gt;Lagarde declined to be drawn out on whether she viewed Tsipras was a reliable negotiating partner after his latest switch, although she did say the Fund wanted to see evidence of reforms before talks about any new potential debt package.&lt;/p&gt;&lt;p&gt;The Tsipras letter asking for a new bailout deal appeared to move closer to accepting creditor demands.&lt;/p&gt;</summary>
-    <dc:date>2015-07-02T05:57:03Z</dc:date>
-    <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150701&amp;amp;i=109263044&amp;amp;w=240&amp;amp;r=109263044-1&amp;amp;t=2" />
-  </entry>
-  <entry>
     <title>Greek debt crisis: Greeks muse on future path after Alexis Tsipras' abrupt reversal</title>
     <link rel="alternate" href="http://www.smh.com.au/world/greek-debt-crisis-greeks-muse-on-future-path-after-alexis-tsipras-abrupt-reversal-20150711-gia16t.html" />
     <author>
@@ -590,99 +613,5 @@
     <published>2015-07-03T13:15:19Z</published>
     <summary type="html" />
     <dc:date>2015-07-03T13:15:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece's Tsipras digs in against bailout</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greece-defaults-imf-payment-despite-013431592.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-01T21:53:42Z</updated>
-    <published>2015-07-01T21:53:42Z</published>
-    <summary type="html">&lt;p&gt;"We will come back to your request for financial stability support from the ESM (European Stability Mechanism) only after, and on the basis of the outcome of, the referendum," the head of the currency zone ministers' Eurogroup, Jeroen Dijsselbloem, wrote in a letter to Tsipras.&lt;/p&gt;&lt;p&gt;Tsipras has suggested he would step aside if Greeks vote "Yes" in Sunday's referendum.&lt;/p&gt;</summary>
-    <dc:date>2015-07-01T21:53:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tsipras defiant as banks shut, markets rocked</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greece-awaits-european-central-bank-decision-on-li/nmnJh/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T02:46:19Z</updated>
-    <published>2015-06-30T02:46:19Z</published>
-    <summary type="html">&lt;p&gt;Greece's parliament voted early Sunday in favor of Prime Minister Alexis Tsipras' motion to hold a July 5 referendum on creditor proposals for reforms in exchange for loans.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T02:46:19Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/06/28/87/9b/ce2626bb536d4ccb94f9ad2b7dd7f973-c3fd00debb70468285201c193ced215e-1.jpg" />
-  </entry>
-  <entry>
-    <title>Tsipras defiant as banks shut, markets rocked</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/tsipras-defiant-as-banks-shut-markets-rocked/nmn73/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T05:28:23Z</updated>
-    <published>2015-06-30T05:28:23Z</published>
-    <summary type="html">&lt;p&gt;Tsipras called the referendum over the weekend, arguing that demands for tougher austerity measures could not be accepted after six years of recession.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T05:28:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tsipras defiant as banks shut, markets rocked</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/29/tsipras-defiant-as-banks-shut-markets-rocked/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T05:13:30Z</updated>
-    <published>2015-06-30T05:13:30Z</published>
-    <summary type="html">&lt;p&gt;Greek Prime Minister Alexis Tsipras was defiant, urging voters to reject creditors' demands, insisting a "No" vote in next Sunday's referendum would strengthen Athens' negotiating hand.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T05:13:30Z</dc:date>
-    <media:content url="http://media.utsandiego.com/img/photos/2015/06/29/40698ef52153d11d7a0f6a7067007b05_r620x349.JPEG?75d51d0aea2efce5189afce216053cbc530c46a8" />
-  </entry>
-  <entry>
-    <title>Tsipras defiant as banks shut, markets rocked</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article25700209.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T02:51:06Z</updated>
-    <published>2015-06-30T02:51:06Z</published>
-    <summary type="html">&lt;p&gt;Tsipras says the Bank of Greece has recommended that banks remain closed and restrictions be imposed on transactions, after the European Central Bank didn't increase the amount of emergency liquidity the lenders can access from the central bank.&lt;/p&gt;&lt;p&gt;In this photo taken from ERT State Television, Greece's Prime Minister Alexis Tsipras delivers a televised address to the nation from his office at Maximos Mansion in Athens, Sunday, June 28, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T02:51:06Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Tsipras defiant as banks shut, markets rocked</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article25700209.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T02:51:06Z</updated>
-    <published>2015-06-30T02:51:06Z</published>
-    <summary type="html">&lt;p&gt;Greece's Prime Minister Alexis Tsipras, right, speaks with journalist Panos Haritos before a TV interview at the State Television (ERT) in Athens, Monday, June 29, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T02:51:06Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece to introduce capital controls, keep banks shut as crisis deepens</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/06/28/us-eurozone-greece-idUSKBN0P40EO20150628?feedType=RSS&amp;amp;feedName=businessNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-28T18:45:54Z</updated>
-    <published>2015-06-28T18:45:54Z</published>
-    <summary type="html">&lt;p&gt;The creditors want Greece to cut pensions and raise taxes in ways that Tsipras has long argued would deepen one of the worst economic crises of modern times in a country where a quarter of the workforce is already unemployed.&lt;/p&gt;</summary>
-    <dc:date>2015-06-28T18:45:54Z</dc:date>
-    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150628&amp;amp;i=109158692&amp;amp;w=240&amp;amp;r=109158692-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Greek minister calls on nation to reject bailout deal</title>
-    <link rel="alternate" href="http://www.utsandiego.com/news/2015/jun/26/greek-minister-calls-on-nation-to-reject-bailout/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-26T22:25:55Z</updated>
-    <published>2015-06-26T22:25:55Z</published>
-    <summary type="html">&lt;p&gt;Lafazanis spoke early Saturday, after an emergency cabinet meeting during which Prime Minister Alexis Tsipras announced his intention to call the referendum.&lt;/p&gt;</summary>
-    <dc:date>2015-06-26T22:25:55Z</dc:date>
-    <media:content url="http://media.utsandiego.com/img/photos/2015/06/25/UTI1725814_r142x90.jpg?a4c645db5e0d43838ff6d631be583dfe8b15e757" />
   </entry>
 </feed>

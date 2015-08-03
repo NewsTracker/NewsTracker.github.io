@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: cia</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
@@ -13,29 +13,5 @@
     <published>2015-07-13T06:15:04Z</published>
     <summary type="html">&lt;p&gt;Camp Chapman was the site where seven CIA employees and a Jordanian intelligence officer were killed in a Pakistani Taliban suicide bombing in December 2009.&lt;/p&gt;&lt;p&gt;Six more agency personnel were wounded in what was considered the most lethal attack for the CIA since the war in Afghanistan began in 2001 and possibly even since the 1983 embassy bombing in Beirut.&lt;/p&gt;&lt;p&gt;It's not clear whether the CIA still operates out of Camp Chapman.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T06:15:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>CIA lagging in recruiting, promoting minorities, study finds</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/06/30/politics/cia-diversity-minorities-study/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T20:37:08Z</updated>
-    <published>2015-06-30T20:37:08Z</published>
-    <summary type="html">&lt;p&gt;Minorities make up less than 24% of the CIA workforce, and only 10.8% of its top Senior Intelligence Service.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T20:37:08Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/06/30/politics/cia-diversity-minorities-study/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
-  </entry>
-  <entry>
-    <title>CIA failing to recruit and promote minorities, study finds</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article25832959.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-06-30T18:49:13Z</updated>
-    <published>2015-06-30T18:49:13Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this Dec. 11, 2014 file photo, CIA Director John Brennan pauses during a news conference at CIA headquarters in Langley, Va.&lt;/p&gt;&lt;p&gt;The CIA's senior executive ranks are only 10.8 percent racial and ethnic minorities, the studied concluded, in a nation where non-whites comprise about 30 percent of the population.&lt;/p&gt;&lt;p&gt;But Brennan, who is fluent in Arabic and led the CIA station in Saudi Arabia, spoke of a pressing, mission-driven need for more diversity.&lt;/p&gt;&lt;p&gt;While the CIA has done a good job integrating white women into its upper ranks, minority women have not fared nearly as well, the study found.&lt;/p&gt;</summary>
-    <dc:date>2015-06-30T18:49:13Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
 </feed>
