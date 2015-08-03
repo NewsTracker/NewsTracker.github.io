@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bills suspend offensive line coach Kromer for first 6 games (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bills-suspend-offensive-line-coach-kromer-first-6-024213424--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T03:10:35Z</updated>
+    <published>2015-08-03T03:10:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-03T03:10:35Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/slE0NBke5sZC6YgBfXoKBA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507311023373965797" />
+  </entry>
+  <entry>
     <title>IOC to order tests for viruses at Rio's Olympic water venues (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ioc-test-rios-olympic-water-venues-viruses-173609527--spt.html" />
     <author>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nigeria: Army rescued 178 people from Boko Haram</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/8/2/nigeria-army-rescued-178-people-from-boko-haram.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T01:18:00Z</updated>
+    <published>2015-08-03T01:18:00Z</published>
+    <summary type="html">&lt;p&gt;Some of those rescued last week said they had been held by Boko Haram for up to one year in villages just 25 miles from Maiduguri.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T01:18:00Z</dc:date>
+    <media:content url="merica.aljazeera.com/content/ajam/articles/2015/1/25/escaping-boko-haram-the-road-from-bama/_jcr_content/image.adapt.480.low.nigeria_bama.jpg" />
+  </entry>
+  <entry>
     <title>Nigeria's army says it has rescued 178 people held captive by Boko Haram</title>
     <link rel="alternate" href="http://www.theguardian.com/world/2015/aug/03/nigerias-army-says-it-has-rescued-178-people-held-captive-by-boko-haram" />
     <author>

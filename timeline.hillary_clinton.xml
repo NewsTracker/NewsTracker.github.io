@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>First Draft: Hillary Clinton to Start Airing Ads in Iowa and New Hampshire</title>
+    <link rel="alternate" href="http://www.nytimes.com/politics/first-draft/2015/08/02/hillary-clinton-to-start-airing-ads-in-iowa-and-new-hampshire/?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T03:14:35Z</updated>
+    <published>2015-08-03T03:14:35Z</published>
+    <summary type="html">&lt;p&gt;"We're going to make sure everyone knows who Hillary Clinton really is - who she fights for and what has motivated her lifelong commitment to children and families," Mrs. Clinton's campaign manager, Robby Mook, said in a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T03:14:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>Hillary Clinton told David Cameron was 'unsure and inexperienced'</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/politics/david-cameron/11779581/Hillary-Clinton-told-David-Cameron-was-unsure-and-inexperienced.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T23:52:24Z</updated>
+    <published>2015-08-02T23:52:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-02T23:52:24Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03395/GettyImages-141313_3395570b.jpg" />
+  </entry>
+  <entry>
     <title>Amid latest release of emails, Hillary Clinton's campaign makes public tax and medical details</title>
     <link rel="alternate" href="http://www.startribune.com/clinton-releases-tax-medical-records-as-emails-made-public/320370511/" />
     <author>

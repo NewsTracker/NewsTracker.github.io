@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Advocates fear more impunity in Mexico photographer killing</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Advocates-fear-more-impunity-in-Mexico-6420918.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T04:13:24Z</updated>
+    <published>2015-08-03T04:13:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-03T04:13:24Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/40/03/55/8403809/31/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Gov’t reaction criticized in case of Mexico slain journalist</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article29829535.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T02:11:27Z</updated>
+    <published>2015-08-03T02:11:27Z</published>
+    <summary type="html">&lt;p&gt;A person holds up a black Mexican "mourning" flag and flowers during a protest over the murder of photojournalist Ruben Espinosa at Mexico City's Angel of the Independence monument, Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T02:11:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Gov't reaction criticized in case of Mexico slain journalist</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/journalist-slain-in-mexico-city-had-signs-of-tortu/nnBkJ/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T01:25:36Z</updated>
+    <published>2015-08-03T01:25:36Z</published>
+    <summary type="html">&lt;p&gt;Espinosa, 31, who worked for the investigative magazine Proceso and other media was found murdered in an apartment in a middle-class neighborhood of Mexico City, where he had fled because of harassment in the state he covered.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T01:25:36Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/02/99/27/bef4e1fece1149279bafccc5a3276c5f-13be43e30001470fae4d081d6736cfed-0_1.jpg" />
+  </entry>
+  <entry>
     <title>Journalist slain in Mexico City had signs of torture</title>
     <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-08-02-LT-Mexico-Journalist-Slain/id-8ac435f1cd374350ab909054ba079afe" />
     <author>
