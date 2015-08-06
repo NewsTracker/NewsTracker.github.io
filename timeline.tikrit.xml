@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<feed xmlns="http://www.w3.org/2005/Atom">
   <title>NewsTracker: tikrit</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.tikrit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
-  <entry>
-    <title>Iraq: 24 militants sentenced to death for killing soldiers</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11477819&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T09:35:17Z</updated>
-    <published>2015-07-08T09:35:17Z</published>
-    <summary type="html">&lt;p&gt;After Tikrit was captured, IS posted graphic images and video that showed its gunmen massacring scores of the soldiers after loading the captives onto flatbed trucks and then forcing them to lay face-down in a shallow ditch.&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T09:35:17Z</dc:date>
-  </entry>
 </feed>

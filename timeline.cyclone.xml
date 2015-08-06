@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
   <title>NewsTracker: cyclone</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.cyclone.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Meteorologists eye rare early season tropical cyclone in Pacific</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/environment/weather/meteorologists-eye-rare-early-season-tropical-cyclone-in-pacific-20150729-gimsvz.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-29T03:56:24Z</updated>
+    <published>2015-07-29T03:56:24Z</published>
+    <summary type="html">&lt;p&gt;A tropical low over the Solomon Islands may develop into another cyclone.&lt;/p&gt;&lt;p&gt;A tropical depression over the Solomon Islands is being watched closely by meteorologists and climate experts alike in case the deep low pressure system forms into a second rare early season cyclone for the region.&lt;/p&gt;&lt;p&gt;Jess Carey, a spokesman from the Bureau of Meteorology's Queensland office, said there was only about a one in five chance that the low over the islands would develop into a cyclone.&lt;/p&gt;&lt;p&gt;Should it enter Australia's zone, the storm would be the first clear August cyclone in the satellite era in that region.&lt;/p&gt;</summary>
+    <dc:date>2015-07-29T03:56:24Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/m/u/m/m/image.related.articleLeadwide.620x349.gimsvz.png/1438142194227.png" />
+  </entry>
 </feed>
