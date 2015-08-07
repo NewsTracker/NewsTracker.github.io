@@ -4,26 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.aurora.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>The Aurora shooting by the numbers -- an update</title>
-    <link rel="alternate" href="http://www.latimes.com/nation/la-na-aurora-shooting-by-the-numbers-20150717-story.html" />
+    <title>Jury Keeps Death Penalty Option for Aurora Gunman</title>
+    <link rel="alternate" href="http://www.nbcnews.com/news/us-news/james-holmes-trial-jury-keeps-death-penalty-option-theater-massacre-n403286" />
     <author>
       <name />
     </author>
-    <updated>2015-07-17T13:30:00Z</updated>
-    <published>2015-07-17T13:30:00Z</published>
-    <summary type="html">&lt;p&gt;12 -- The number of people killed during the July 20, 2012, rampage at an Aurora, Colo., movie theater during a midnight showing of "The Dark Knight Rises."&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T13:30:00Z</dc:date>
+    <updated>2015-08-03T19:40:54Z</updated>
+    <published>2015-08-03T19:40:54Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-03T19:40:54Z</dc:date>
   </entry>
   <entry>
-    <title>Aurora shooting verdict: James Holmes found guilty in theater massacre</title>
-    <link rel="alternate" href="http://www.theguardian.com/us-news/2015/jul/16/aurora-shooting-james-holmes-murder-trial-verdict" />
+    <title>James Holmes Guilty in Aurora Movie Theater Shooting</title>
+    <link rel="alternate" href="http://www.nytimes.com/2015/07/17/us/james-holmes-guilty-in-aurora-movie-theater-shooting.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
     <author>
       <name />
     </author>
-    <updated>2015-07-16T22:19:50Z</updated>
-    <published>2015-07-16T22:19:50Z</published>
+    <updated>2015-07-17T00:52:18Z</updated>
+    <published>2015-07-17T00:52:18Z</published>
     <summary type="html" />
-    <dc:date>2015-07-16T22:19:50Z</dc:date>
+    <dc:date>2015-07-17T00:52:18Z</dc:date>
+    <media:content url="http://static01.nyt.com/images/2015/07/09/us/09AURORA/09AURORA-thumbStandard-v2.jpg" />
+  </entry>
+  <entry>
+    <title>Aurora, Colo., Theater Shooter Found Guilty Of First-Degree Murder</title>
+    <link rel="alternate" href="http://www.npr.org/2015/07/16/423624917/aurora-colo-theater-shooter-found-guilty-of-first-degree-murder?utm_medium=RSS&amp;amp;utm_campaign=us" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T23:17:00Z</updated>
+    <published>2015-07-16T23:17:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-16T23:17:00Z</dc:date>
+    <media:content url="http://media.npr.org/chrome/news/nprlogo_138x46.gif" />
   </entry>
   <entry>
     <title>Batman cinema shootings: Colorado jury reaches verdict</title>

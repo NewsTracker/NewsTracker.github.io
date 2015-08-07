@@ -4,18 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.xbox.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Xbox Live down: Gamers on Xbox One and Xbox 360 Microsoft consoles hit by server issues</title>
-    <link rel="alternate" href="http://www.express.co.uk/entertainment/gaming/593978/Xbox-Live-down-Xbox-One-Xbox-360-Microsoft-consoles-server-issues-why-is-Xbox-Live-down?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+daily-express-gaming+%28Daily+Express+%3A%3A+Gaming+Feed%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-26T23:29:00Z</updated>
-    <published>2015-07-26T23:29:00Z</published>
-    <summary type="html">&lt;p&gt;"We're working hard on the current issues signing in to Xbox Live," the message reads.&lt;/p&gt;</summary>
-    <dc:date>2015-07-26T23:29:00Z</dc:date>
-    <media:content url="http://cdn.images.express.co.uk/img/dynamic/143/285x190/593978_1.jpg" />
-  </entry>
-  <entry>
     <title>'Tomb Raider' sequel to hit PS4 next year</title>
     <link rel="alternate" href="http://www.usatoday.com/story/tech/gaming/2015/07/23/rise-tomb-raider-ps4/30569089/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-techtopstories" />
     <author>
@@ -26,17 +14,5 @@
     <summary type="html">&lt;p&gt;Versions of the game for Xbox One and Xbox 360 launch November 10.&lt;/p&gt;</summary>
     <dc:date>2015-07-23T17:19:53Z</dc:date>
     <media:content url="http://www.gannett-cdn.com/-mm-/baa7d5ece890abc8f1f017098398d44043c63dc6/r=84&amp;amp;amp;c=84x84/http/videos.usatoday.net/Brightcove2/29906170001/2015/07/29906170001_4333455382001_thumb-i6IBM2vufWvE.jpg?pubId=29906170001" />
-  </entry>
-  <entry>
-    <title>Microsoft's Xbox Music Renamed Groove Music in Upcoming Windows 10</title>
-    <link rel="alternate" href="https://www.yahoo.com/tech/s/microsofts-xbox-music-renamed-groove-202640022.html?src=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T14:15:31Z</updated>
-    <published>2015-07-07T14:15:31Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-07T14:15:31Z</dc:date>
-    <media:content url="https://s.yimg.com/lo/api/res/1.2/Jy_pwVZOBTSaEZWQz9LQOw--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/homerun/cnet.cbs.com/27ae89a091e50812289846e02fd9a195" />
   </entry>
 </feed>

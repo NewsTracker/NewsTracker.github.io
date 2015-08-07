@@ -4,26 +4,15 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boston_marathon_bombing.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Boston Marathon bomber Dzhokhar Tsarnaev to seek new trial</title>
-    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/boston-marathon-bomber-dzhokhar-tsarnaev-to-seek-new-trial-31356381.html" />
+    <title>Man planning Boston Marathon-style bombing attack arrested</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/man-planning-boston-marathonstyle-bombing-attack-arrested-20150713-gibi87" />
     <author>
       <name />
     </author>
-    <updated>2015-07-06T19:12:12Z</updated>
-    <published>2015-07-06T19:12:12Z</published>
-    <summary type="html">&lt;p&gt;Boston Marathon bomber Dzhokhar Tsarnaev has filed a motion for a new trial, less than two weeks after he was formally sentenced to death for the 2013 attack.&lt;/p&gt;</summary>
-    <dc:date>2015-07-06T19:12:12Z</dc:date>
-    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31227299.ece/5b4cd/ALTERNATES/w620/PANews%20BT_P-a5bdef08-9869-4223-b707-e84cdd737a0d_I1.jpg" />
-  </entry>
-  <entry>
-    <title>Dzhokhar Tsarnaev seeking new trial for Boston Marathon bombing</title>
-    <link rel="alternate" href="http://www.upi.com/Top_News/US/2015/07/06/Dzhokhar-Tsarnaev-seeking-new-trial-for-Boston-Marathon-bombing/5681436208574/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-06T19:08:49Z</updated>
-    <published>2015-07-06T19:08:49Z</published>
+    <updated>2015-07-13T20:13:22Z</updated>
+    <published>2015-07-13T20:13:22Z</published>
     <summary type="html" />
-    <dc:date>2015-07-06T19:08:49Z</dc:date>
+    <dc:date>2015-07-13T20:13:22Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/h/3/0/x/p/image.related.articleLeadNarrow.300x0.gibi87.png/1431734377607.jpg" />
   </entry>
 </feed>

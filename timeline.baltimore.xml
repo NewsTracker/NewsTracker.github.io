@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Psych firm that screens Baltimore cops under review</title>
+    <link rel="alternate" href="http://www.miamiherald.com/living/health-fitness/article30205152.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T08:22:05Z</updated>
+    <published>2015-08-06T08:22:05Z</published>
+    <summary type="html">&lt;p&gt;FILE - This May 1, 2015, file photo provided by the Baltimore Police Department shows Lt. Brian Rice, one of the police officers charged with felonies in the death of Freddie Gray.&lt;/p&gt;&lt;p&gt;The psychological firm paid to evaluate Baltimore police, including Rice, Psychology Consultants Associated, has been reprimanded by the state police for cutting corners in its mental health screenings of officers.&lt;/p&gt;&lt;p&gt;Baltimore's law department and inspector general are also investigating the firm's assessments of city police officers, said Kevin Harris, a spokesman for the city.&lt;/p&gt;&lt;p&gt;As part of his contract with the Baltimore City Police Department, Sachs assessed the mental health and fitness for duty of officers who were removed from active duty due to psychological problems.&lt;/p&gt;&lt;p&gt;Michael A. Wood, a retired Baltimore police sergeant who said he wrote the department's medical policy, said Rice "absolutely would have had a fitness for duty evaluation, and would have been referred to PCA. It would have been required."&lt;/p&gt;</summary>
+    <dc:date>2015-08-06T08:22:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Baltimore homicide uptick: Anti-crime partnership launched</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article29901169.html%23storylink=rss" />
     <author>
@@ -11,18 +22,7 @@
     </author>
     <updated>2015-08-04T02:02:10Z</updated>
     <published>2015-08-04T02:02:10Z</published>
-    <summary type="html">&lt;p&gt;State's Attorney Marilyn Mosby, right, listens as U.S. Rep. Elijah Cummings speaks during an announcement of the start of the Baltimore Federal Homicide Task Force, Monday, Aug. 3, 2015, in Baltimore.&lt;/p&gt;</summary>
-    <dc:date>2015-08-04T02:02:10Z</dc:date>
-  </entry>
-  <entry>
-    <title>Baltimore homicide uptick: Anti-crime partnership launched</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article29901169.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-04T02:02:10Z</updated>
-    <published>2015-08-04T02:02:10Z</published>
-    <summary type="html">&lt;p&gt;The homicide rate in Baltimore began to skyrocket in May, when the city saw 42 homicides in a single month.&lt;/p&gt;&lt;p&gt;Baltimore Mayor Stephanie Rawlings-Blake and other elected officials announce the start of the Baltimore Federal Homicide Task Force, Monday, Aug. 3, 2015, in Baltimore.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;U.S. Rep. Elijah Cummings, front center, and other elected officials announce the start of the Baltimore Federal Homicide Task Force, Monday, Aug. 3, 2015, in Baltimore.&lt;/p&gt;&lt;p&gt;The homicide rate in Baltimore began to skyrocket in May, when the city saw 42 homicides in a single month.&lt;/p&gt;</summary>
     <dc:date>2015-08-04T02:02:10Z</dc:date>
   </entry>
   <entry>
@@ -49,8 +49,19 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/30/d8/dd/9420e1a094444d5483dcdf79e2477323-94f32bc9095140359332e51922d431c2-0.jpg" />
   </entry>
   <entry>
-    <title>Baltimore boy gets historic double-hand transplant</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/national/baltimore-boy-bilateral-hand-transplant-child-article-1.2307091?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
+    <title>Maryland governor to close Baltimore detention center</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/07/30/maryland-governor-to-close-baltimore-detention-center" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-31T00:41:06Z</updated>
+    <published>2015-07-31T00:41:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-31T00:41:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore boy has first bilateral hand transplant on child</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/national/baltimore-boy-bilateral-hand-transplant-child-article-1.2307091?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
     <author>
       <name />
     </author>
@@ -61,7 +72,7 @@
   </entry>
   <entry>
     <title>Police: Officer shoots, wounds man in Baltimore</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article29086993.html%23storylink=rss" />
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article29086993.html%23storylink=rss" />
     <author>
       <name />
     </author>
@@ -69,6 +80,17 @@
     <published>2015-07-28T12:39:04Z</published>
     <summary type="html">&lt;p&gt;Police say an officer shot a man in the face in southwest Baltimore after the man ran his car into a cruiser.&lt;/p&gt;</summary>
     <dc:date>2015-07-28T12:39:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore officials release thousands of pages of documents related to unrest after Gray death</title>
+    <link rel="alternate" href="http://www.startribune.com/documents-related-to-unrest-after-gray-death-released/318731621/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T01:35:29Z</updated>
+    <published>2015-07-28T01:35:29Z</published>
+    <summary type="html">&lt;p&gt;BALTIMORE - Baltimore officials have released thousands of pages of documents related to unrest following Freddie Gray's death.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T01:35:29Z</dc:date>
   </entry>
   <entry>
     <title>Former Oriole Markakis returns to Baltimore with Braves</title>
@@ -130,26 +152,28 @@
     <dc:date>2015-07-27T15:44:06Z</dc:date>
   </entry>
   <entry>
-    <title>Baltimore Ravens owner denies pressuring Roger Goodell on Deflategate</title>
-    <link rel="alternate" href="http://www.upi.com/Sports_News/2015/07/26/Baltimore-Ravens-owner-denies-pressuring-Roger-Goodell-on-Deflategate/2571437951295/" />
+    <title>Blackface performer plans fundraiser for officers indicted in death of black man</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/07/22/blackface-performer-plans-routine-to-raise-money-for-officers-indicted-in-death-of-black-man" />
     <author>
       <name />
     </author>
-    <updated>2015-07-26T22:56:43Z</updated>
-    <published>2015-07-26T22:56:43Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-26T22:56:43Z</dc:date>
+    <updated>2015-07-23T02:26:11Z</updated>
+    <published>2015-07-23T02:26:11Z</published>
+    <summary type="html">&lt;p&gt;Tessa Hill-Aston, president of the Baltimore branch of the NAACP, says the idea is "very distasteful."&lt;/p&gt;&lt;p&gt;Gray's death prompted a wave of arson, looting and open confrontations with riot police in Baltimore in April.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T02:26:11Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297705590793_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
   <entry>
-    <title>Former Baltimore cop plans blackface performance to raise money for indicted officers</title>
-    <link rel="alternate" href="http://www.foxnews.com/us/2015/07/23/former-baltimore-cop-plans-blackface-performance-to-raise-money-for-indicted/" />
+    <title>Freddie Gray death: blackface fundraiser planned for indicted police officers</title>
+    <link rel="alternate" href="http://www.theguardian.com/us-news/2015/jul/23/freddie-gray-death-blackface-fundraiser-police-officers" />
     <author>
       <name />
     </author>
-    <updated>2015-07-23T03:35:25Z</updated>
-    <published>2015-07-23T03:35:25Z</published>
-    <summary type="html">&lt;p&gt;- A former Baltimore police officer said Wednesday that he plans to perform an Al Jolson routine in blackface to raise money for the six Baltimore officers who have been indicted in the death of Freddie Gray.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T03:35:25Z</dc:date>
+    <updated>2015-07-23T02:10:04Z</updated>
+    <published>2015-07-23T02:10:04Z</published>
+    <summary type="html">&lt;p&gt;A former Baltimore police officer has said he plans to perform an Al Jolson routine in blackface to raise money for the six Baltimore officers who have been indicted in the death of Freddie Gray.&lt;/p&gt;&lt;p&gt;Michael Davey, an attorney for the Baltimore City Fraternal Order of Police, said officers did not support the fundraiser.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T02:10:04Z</dc:date>
+    <media:content url="ww.theguardian.com//i.guim.co.uk/img/media/0d6e5556fd4ce8e923158a64edd01ea1df7c4fb8/0_122_1440_864/master/1440.jpg?w=300&amp;amp;amp;q=85&amp;amp;amp;auto=format&amp;amp;amp;sharp=10&amp;amp;amp;s=fe570f059077a36d163ee879d82a8674" />
   </entry>
   <entry>
     <title>In wake of riots and crime spike, Baltimore mayor under fire</title>
@@ -283,7 +307,7 @@
     </author>
     <updated>2015-07-09T02:47:15Z</updated>
     <published>2015-07-09T02:47:15Z</published>
-    <summary type="html">&lt;p&gt;A review by Baltimore's police union released on Wednesday criticized the police response.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;A review by Baltimore's police union released on Wednesday criticized the police response.&lt;/p&gt;&lt;p&gt;Davis, the interim commissioner, came to Baltimore in January after serving as police chief in Anne Arundel County Maryland.&lt;/p&gt;</summary>
     <dc:date>2015-07-09T02:47:15Z</dc:date>
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297722223630_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>

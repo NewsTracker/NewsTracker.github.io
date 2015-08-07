@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sierra Leone Ebola head says country has 4 cases</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/sierra-leone-ebola-head-says-country-has-4-cases/nnDyh/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T15:53:14Z</updated>
+    <published>2015-08-06T15:53:14Z</published>
+    <summary type="html">&lt;p&gt;Sierra Leone has only four recorded cases of Ebola, the West African nation's head of Ebola said Thursday, adding that he is hopeful the countdown to zero can soon begin.&lt;/p&gt;</summary>
+    <dc:date>2015-08-06T15:53:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>UN says new Ebola cases in single digits another week</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/health/un-says-new-ebola-cases-in-single-digits-another-week-1.2503480" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-05T18:44:00Z</updated>
+    <published>2015-08-05T18:44:00Z</published>
+    <summary type="html">&lt;p&gt;The path to zero cases, however, remains a challenge as the West African nations that have seen most of the more than 11,200 deaths from Ebola -- Sierra Leone, Guinea and Liberia -- head into rainy season.&lt;/p&gt;&lt;p&gt;WHO reported two confirmed cases of Ebola --one in Guinea and one in Sierra Leone-- in the week ending Aug. 2.&lt;/p&gt;</summary>
+    <dc:date>2015-08-05T18:44:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>New Ebola cases in single digits another week, says WHO</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/05/new-ebola-cases-in-single-digits-for-2nd-week-says-who" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-05T18:17:08Z</updated>
+    <published>2015-08-05T18:17:08Z</published>
+    <summary type="html">&lt;p&gt;DAKAR, Senegal (AP) - New Ebola cases were in the single digits another week, the World Health Organization said Wednesday, showing that contact tracing efforts are yielding results.&lt;/p&gt;&lt;p&gt;This week, Sierra Leone has reported two new cases, both relatives of a man who died from Ebola in Tonkolili, an area that hadn't seen the deadly virus in months.&lt;/p&gt;</summary>
+    <dc:date>2015-08-05T18:17:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Officials: Alabama home quarantined over possible Ebola case</title>
     <link rel="alternate" href="http://www.miamiherald.com/living/health-fitness/article30019245.html%23storylink=rss" />
     <author>
@@ -13,6 +46,18 @@
     <published>2015-08-05T13:54:09Z</published>
     <summary type="html">&lt;p&gt;Officials say a quarantine is in place at a Birmingham home because of a possible Ebola case.&lt;/p&gt;&lt;p&gt;Khan says the patient recently traveled to a country with Ebola cases, but he didn't identify the country or name the patient.&lt;/p&gt;&lt;p&gt;Khan says the patient didn't have direct contact with anyone known to have Ebola and is considered "low risk" for the disease.&lt;/p&gt;</summary>
     <dc:date>2015-08-05T13:54:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>New Ebola infections raise concerns in Sierra Leone</title>
+    <link rel="alternate" href="http://www.sfgate.com/world/article/New-Ebola-infections-raise-concerns-in-Sierra-6422022.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T19:07:18Z</updated>
+    <published>2015-08-03T19:07:18Z</published>
+    <summary type="html">&lt;p&gt;The concerns come as the director of the U.S. Center for Disease Control and Prevention, Dr. Tom Frieden, is in Sierra Leone to observe the impact of the Ebola outbreak and to assess steps needed to get the country to zero cases.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T19:07:18Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/04/31/8406638/3/920x920.jpg" />
   </entry>
   <entry>
     <title>CDC head says Sierra Leone in strong place with Ebola</title>
@@ -44,7 +89,18 @@
     </author>
     <updated>2015-07-20T20:25:17Z</updated>
     <published>2015-07-20T20:25:17Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK (AP) " One of the companies that had been studying a potential treatment for the Ebola virus said Monday it will suspend its research on Ebola drugs and change its name.&lt;/p&gt;&lt;p&gt;Tekmira Pharmaceuticals Corp. said last month that an experimental Ebola treatment that it was developing would probably fail in a clinical trial.&lt;/p&gt;&lt;p&gt;Tekmira's experimental drugs were used in at least one patient in 2014 as an Ebola epidemic spread through several West African nations and the search for more effective treatments kicked into high gear.&lt;/p&gt;&lt;p&gt;Tekmira said it will suspend work on its drug TKM-Ebola and is re-evaluating its development contract with the U.S. Department of Defense.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;NEW YORK (AP) " One of the companies that had been studying a potential treatment for the Ebola virus said Monday it will suspend its research on Ebola drugs and change its name.&lt;/p&gt;&lt;p&gt;Tekmira Pharmaceuticals Corp. said last month that an experimental Ebola treatment that it was developing would probably fail in a clinical trial.&lt;/p&gt;&lt;p&gt;Tekmira's experimental drugs were used in at least one patient in 2014 as an Ebola epidemic spread through several West African nations and the search for more effective treatments kicked into high gear.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T20:25:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>Tekmira suspends work on Ebola drug, will change name</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11484323&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T20:25:17Z</updated>
+    <published>2015-07-20T20:25:17Z</published>
+    <summary type="html">&lt;p&gt;Tekmira said it will suspend work on its drug TKM-Ebola and is re-evaluating its development contract with the U.S. Department of Defense.&lt;/p&gt;&lt;p&gt;The company said in June that a related drug, TKM-Ebola-Guinea, would probably fail in a mid-stage clinical trial.&lt;/p&gt;</summary>
     <dc:date>2015-07-20T20:25:17Z</dc:date>
   </entry>
   <entry>
@@ -68,6 +124,29 @@
     <published>2015-07-17T17:02:00Z</published>
     <summary type="html">&lt;p&gt;MONROVIA, Liberia -- The four remaining patients infected during Liberia's recent string of Ebola cases have recovered, meaning there are currently no confirmed cases in the country though more than 100 people are still under surveillance, a health official said Friday.&lt;/p&gt;&lt;p&gt;Ebola killed more than 4,800 people in Liberia before the country was declared Ebola transmission-free on May 9.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T17:02:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Inhaled Ebola Vaccine Stops Virus in Monkeys, Study Finds</title>
+    <link rel="alternate" href="http://www.nytimes.com/2015/07/14/health/inhaled-ebola-vaccine-stops-virus-in-monkeys-study-finds.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T23:01:43Z</updated>
+    <published>2015-07-15T23:01:43Z</published>
+    <summary type="html">&lt;p&gt;This year, an Ebola drug that had been effective in monkeys failed to help humans.&lt;/p&gt;&lt;p&gt;Four weeks after their treatments, all 12 monkeys were injected with 1,000 times the fatal dose of the Ebola virus.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T23:01:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>Liberia confirms new Ebola case as outbreak spreads</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/liberia-confirms-new-ebola-case-as-outbreak-spreads-20150715-gidbdx" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T21:26:04Z</updated>
+    <published>2015-07-15T21:26:04Z</published>
+    <summary type="html">&lt;p&gt;Monrovia: A Liberian woman has died of Ebola in a hospital shortly after being admitted, becoming the sixth confirmed case and second death since the virus resurfaced last month, a senior medical official said.&lt;/p&gt;&lt;p&gt;More than 11,200 people have died from Ebola since an epidemic broke out in December 2013 in neighbouring Guinea.&lt;/p&gt;&lt;p&gt;A health report sent to officials in the anti-Ebola response unit said the woman died a few hours after admission, indicating that surveillance of known contacts from the earlier cases had not been rigorous enough.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T21:26:04Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/d/b/g/l/image.related.articleLeadwide.620x349.gidbdx.png/1436995549960.jpg" />
   </entry>
   <entry>
     <title>Liberia confirms 2nd Ebola death in resurgent outbreak</title>
@@ -116,6 +195,18 @@
     <dc:date>2015-07-15T12:05:04Z</dc:date>
   </entry>
   <entry>
+    <title>New inhaled Ebola vaccine works in monkeys</title>
+    <link rel="alternate" href="http://www.foxnews.com/health/2015/07/14/new-inhaled-ebola-vaccine-works-in-monkeys/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fhealth+%28Internal+-+Health+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T16:14:52Z</updated>
+    <published>2015-07-14T16:14:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T16:14:52Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Health/876/493/ebola_istock.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
     <title>Liberia confirms new Ebola case as outbreak spreads</title>
     <link rel="alternate" href="http://www.foxnews.com/health/2015/07/14/liberia-confirms-new-ebola-case-as-outbreak-spreads/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fhealth+%28Internal+-+Health+-+Text%29" />
     <author>
@@ -126,18 +217,6 @@
     <summary type="html" />
     <dc:date>2015-07-14T13:41:40Z</dc:date>
     <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Health/876/493/ebola_liberia_unicef_tent_reuters.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Inhalable Vaccine Developed for Ebola</title>
-    <link rel="alternate" href="http://www.usatoday.com/videos/news/world/2015/07/13/30112779/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomworld-topstories" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T00:40:55Z</updated>
-    <published>2015-07-14T00:40:55Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T00:40:55Z</dc:date>
-    <media:content url="http://www.gannett-cdn.com/-mm-/ba3dc27cd316dc0cedec920d66fbc6bf9ae97774/r=x60&amp;amp;amp;c=60x60/http/videos.usatoday.net/Brightcove2/29906170001/2015/07/29906170001_4352808088001_thumb-Wochit80766383.jpg" />
   </entry>
   <entry>
     <title>UN: Africas Ebola outbreak has not run its course</title>

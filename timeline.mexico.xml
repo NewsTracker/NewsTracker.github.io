@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Prosecutor: Mexican suspect was at apartment where 5 slain</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article30257886.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T16:52:08Z</updated>
+    <published>2015-08-06T16:52:08Z</published>
+    <summary type="html">&lt;p&gt;In this April 28, 2015 photo, Mexican photojournalist Ruben Espinosa places a plaque to rename a plaza after slain journalist Regina Martinez in the city of Xalapa, in Mexico's Gulf state of Veracruz.&lt;/p&gt;&lt;p&gt;Three years ago Martinez was killed and now on August 1, Espinosa himself was tortured and killed along with four other people inside an apartment building in Mexico City, the city where he had sought refuge after being threatened in the state of Veracruz.&lt;/p&gt;</summary>
+    <dc:date>2015-08-06T16:52:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico City prosecutor says suspect acknowledges being at apartment where 5 slain</title>
+    <link rel="alternate" href="http://www.startribune.com/mexican-suspects-says-he-was-at-house-where-5-slain/320920021/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T16:50:25Z</updated>
+    <published>2015-08-06T16:50:25Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - A man suspected in the killings of a Mexican photojournalist and four women has acknowledged being in the apartment where the slayings occurred, Mexico City's top prosecutor said Thursday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-06T16:50:25Z</dc:date>
+  </entry>
+  <entry>
     <title>News24.com | Mexico prosecutor: Video has suspects in journalist killing</title>
     <link rel="alternate" href="http://www.news24.com/World/News/Mexico-prosecutor-Video-has-suspects-in-journalist-killing-20150805" />
     <author>
@@ -23,19 +45,8 @@
     </author>
     <updated>2015-08-04T02:08:08Z</updated>
     <published>2015-08-04T02:08:08Z</published>
-    <summary type="html">&lt;p&gt;The family of murdered photojournalist Ruben Espinosa are overcome with grief during his funeral service in Mexico City, Monday, Aug. 3, 2015.&lt;/p&gt;&lt;p&gt;Mexico City's mayor said Monday that no expense will be spared and no line of investigation ignored in the hunt for the killers of four women and a photojournalist, who had fled the state where he worked fearing for his safety.&lt;/p&gt;&lt;p&gt;The United Nations High Commission on Human Rights condemned the killings, saying that the bodies had signs of torture and sexual violence and that the climate of impunity "is one of the obstacles to practicing freedom of expression in Mexico."&lt;/p&gt;&lt;p&gt;Friends said Espinosa had fled Xalapa, the capital of Veracruz, to Mexico City in June after saying that unknown people were following him, taking his photograph and harassing him outside his home.&lt;/p&gt;&lt;p&gt;The casket of murdered photojournalist Ruben Espinosa is surrounded by his photo, flowers and a mural inside a funeral home before his wake begins in Mexico City, Monday, Aug. 3, 2015.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The family of murdered photojournalist Ruben Espinosa are overcome with grief during his funeral service in Mexico City, Monday, Aug. 3, 2015.&lt;/p&gt;&lt;p&gt;Mexico City's mayor said Monday that no expense will be spared and no line of investigation ignored in the hunt for the killers of four women and a photojournalist, who had fled the state where he worked fearing for his safety.&lt;/p&gt;&lt;p&gt;The United Nations High Commission on Human Rights condemned the killings, saying that the bodies had signs of torture and sexual violence and that the climate of impunity "is one of the obstacles to practicing freedom of expression in Mexico."&lt;/p&gt;&lt;p&gt;The casket of murdered photojournalist Ruben Espinosa is surrounded by his photo, flowers and a mural inside a funeral home before his wake begins in Mexico City, Monday, Aug. 3, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-08-04T02:08:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>New Mexico governor: Keep worshipping after church blasts</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article29836462.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-03T15:49:07Z</updated>
-    <published>2015-08-03T15:49:07Z</published>
-    <summary type="html" />
-    <dc:date>2015-08-03T15:49:07Z</dc:date>
   </entry>
   <entry>
     <title>New Mexico Gov. Martinez: 'Coward' set off 2 church blasts</title>
@@ -94,17 +105,6 @@
     <dc:date>2015-08-02T23:40:45Z</dc:date>
   </entry>
   <entry>
-    <title>Bombs Explode Outside Two Churches In Las Cruces, New Mexico</title>
-    <link rel="alternate" href="http://www.huffingtonpost.com/entry/church-bombing-new-mexico_55bea6b9e4b06363d5a28e18?" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-02T23:33:21Z</updated>
-    <published>2015-08-02T23:33:21Z</published>
-    <summary type="html">&lt;p&gt;Aug 2 (Reuters) - Bombs went off outside two churches in the southern New Mexico City of Las Cruces on Sunday, disrupting services and sending federal agents and local police to investigate.&lt;/p&gt;</summary>
-    <dc:date>2015-08-02T23:33:21Z</dc:date>
-  </entry>
-  <entry>
     <title>Journalist slain in Mexico City had signs of torture</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article29800489.html%23storylink=rss" />
     <author>
@@ -112,19 +112,19 @@
     </author>
     <updated>2015-08-02T21:58:23Z</updated>
     <published>2015-08-02T21:58:23Z</published>
-    <summary type="html">&lt;p&gt;In this June 26, 2015 photo, Mexican photojournalist Ruben Espinosa speaks during an interview in Mexico City.&lt;/p&gt;&lt;p&gt;Espinosa was found slain, along with four other people early Saturday in an apartment in Mexico City, according to the magazine.&lt;/p&gt;&lt;p&gt;Journalists protest the murder of photojournalist Ruben Espinosa Becerril as they hold printouts of his photo, in Mexico City, Sunday, Aug. 2, 2015.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Espinosa was found slain, along with four other people early Saturday in an apartment in Mexico City, according to the magazine.&lt;/p&gt;&lt;p&gt;Journalists protest the murder of photojournalist Ruben Espinosa Becerril as they hold printouts of his photo, in Mexico City, Sunday, Aug. 2, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-08-02T21:58:23Z</dc:date>
   </entry>
   <entry>
-    <title>Explosions rock two Las Cruces, N.M., churches</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/explosions-reported-at-two-las-cruces-new-mexico-churches/" />
+    <title>Explosions shock congregants at 2 New Mexico churches</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article29796475.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-08-02T21:44:54Z</updated>
-    <published>2015-08-02T21:44:54Z</published>
+    <updated>2015-08-02T21:03:06Z</updated>
+    <published>2015-08-02T21:03:06Z</published>
     <summary type="html">&lt;p&gt;Several agencies including the FBI, the Bureau of Alcohol, Tobacco, Firearms and Explosives and New Mexico State Police are assisting with the investigation.&lt;/p&gt;</summary>
-    <dc:date>2015-08-02T21:44:54Z</dc:date>
+    <dc:date>2015-08-02T21:03:06Z</dc:date>
   </entry>
   <entry>
     <title>Explosions shock congregants at 2 New Mexico churches</title>
@@ -161,16 +161,15 @@
     <media:content url="ww.theguardian.com//i.guim.co.uk/img/media/824abb83d6d5f4b4623920230993766c476e22b4/0_0_2876_1725/master/2876.jpg?w=300&amp;amp;amp;q=85&amp;amp;amp;auto=format&amp;amp;amp;sharp=10&amp;amp;amp;s=86e9b44c09a9262b02d173c42aa3e525" />
   </entry>
   <entry>
-    <title>Run-in with reporter triggered Mexico coach Herrera's ouster</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article29264113.html%23storylink=rss" />
+    <title>Journalist slain in Mexico City had signs of torture</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11491041&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-29T04:10:06Z</updated>
-    <published>2015-07-29T04:10:06Z</published>
+    <updated>2015-08-02T19:00:28Z</updated>
+    <published>2015-08-02T19:00:28Z</published>
     <summary type="html" />
-    <dc:date>2015-07-29T04:10:06Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+    <dc:date>2015-08-02T19:00:28Z</dc:date>
   </entry>
   <entry>
     <title>Run-in with reporter triggered Mexico coach Herrera's ouster</title>
@@ -180,7 +179,18 @@
     </author>
     <updated>2015-07-29T04:05:10Z</updated>
     <published>2015-07-29T04:05:10Z</published>
-    <summary type="html">&lt;p&gt;In the end it wasn't the middling on-field performance by Mexico's national soccer team that cost Miguel Herrera his job as head coach of "El Tri."&lt;/p&gt;&lt;p&gt;"El Piojo" is the latest to depart from what has become a revolving-door job since Ricardo La Volpe of Argentina was the last to complete a four-year World Cup cycle as Mexico's head coach.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;"El Piojo" is the latest to depart from what has become a revolving-door job since Ricardo La Volpe of Argentina was the last to complete a four-year World Cup cycle as Mexico's head coach.&lt;/p&gt;</summary>
+    <dc:date>2015-07-29T04:05:10Z</dc:date>
+  </entry>
+  <entry>
+    <title>Run-in with reporter triggered Mexico coach Herrera's ouster</title>
+    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/29/run-in-with-reporter-triggered-mexico-coach-herreras-ouster" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-29T04:05:10Z</updated>
+    <published>2015-07-29T04:05:10Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY (AP) - In the end it wasn't the middling on-field performance by Mexico's national soccer team that cost Miguel Herrera his job as head coach of "El Tri."&lt;/p&gt;</summary>
     <dc:date>2015-07-29T04:05:10Z</dc:date>
   </entry>
   <entry>
@@ -207,14 +217,15 @@
   </entry>
   <entry>
     <title>Mexico coach Herrera fired after claim he punched reporter</title>
-    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/28/mexico-coach-herrera-fired-after-claim-he-punched-reporter" />
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article29120401.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-29T00:58:03Z</updated>
-    <published>2015-07-29T00:58:03Z</published>
+    <updated>2015-07-29T01:05:04Z</updated>
+    <published>2015-07-29T01:05:04Z</published>
     <summary type="html">&lt;p&gt;Mexico has burned through 10 head coaches in the nine years since La Volpe departed after the 2006 World Cup in Germany.&lt;/p&gt;</summary>
-    <dc:date>2015-07-29T00:58:03Z</dc:date>
+    <dc:date>2015-07-29T01:05:04Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Mexico coach Herrera fired after claim he punched reporter</title>
@@ -224,20 +235,8 @@
     </author>
     <updated>2015-07-29T00:58:03Z</updated>
     <published>2015-07-29T00:58:03Z</published>
-    <summary type="html">&lt;p&gt;Earlier this year he and two players came under investigation by the soccer federation for tweets supporting Mexico's Green Party just before midterm elections, an apparent violation of the federation's code of ethics.&lt;/p&gt;&lt;p&gt;Mexico's next match is a friendly vs. Trinidad and Tobago on Sept.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;During his tenure Mexico won 18 matches, tied 11 and lost 7.&lt;/p&gt;&lt;p&gt;Earlier this year he and two players came under investigation by the soccer federation for tweets supporting Mexico's Green Party just before midterm elections, an apparent violation of the federation's code of ethics.&lt;/p&gt;</summary>
     <dc:date>2015-07-29T00:58:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>Future unsure for troubled New Mexico green chile production</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article29087764.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-28T23:45:09Z</updated>
-    <published>2015-07-28T23:45:09Z</published>
-    <summary type="html">&lt;p&gt;"Fresh green chile is what satisfies our cravings in August and September, so that's the foundation of New Mexico's chile economy," New Mexico Secretary of Agriculture Jeff Witte said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-28T23:45:09Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Future unsure for troubled New Mexico green chile production</title>
@@ -251,6 +250,18 @@
     <dc:date>2015-07-28T23:38:38Z</dc:date>
   </entry>
   <entry>
+    <title>Future unsure for troubled New Mexico green chile production</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article29087764.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T21:55:06Z</updated>
+    <published>2015-07-28T21:55:06Z</published>
+    <summary type="html">&lt;p&gt;Green chiles, the signature crop of New Mexico, are in danger.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T21:55:06Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>Mexico coach Herrera fired after claim he punched reporter</title>
     <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/28/mexico-coach-herrera-fired-after-claim-he-punched-reporter" />
     <author>
@@ -262,18 +273,6 @@
     <dc:date>2015-07-28T21:27:53Z</dc:date>
   </entry>
   <entry>
-    <title>Embattled Mexico soccer coach Miguel Herrera fired after claim he punched journalist</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/28/embattled-mexico-soccer-coach-miguel-herrera-fired-after-claim-he-punched-journalist" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-28T20:13:07Z</updated>
-    <published>2015-07-28T20:13:07Z</published>
-    <summary type="html">&lt;p&gt;Critics also faulted Mexico's performance again at the Gold Cup, where it finished second in group and only advanced to the final after winning two knockout-round matches with the help of controversial late penalties.&lt;/p&gt;</summary>
-    <dc:date>2015-07-28T20:13:07Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297730422244_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
     <title>Embattled Mexico soccer coach 'El Piojo' Herrera fired after claim he punched journalist</title>
     <link rel="alternate" href="http://www.startribune.com/mexico-national-soccer-coach-fired-after-journalist-s-claim/318961961/" />
     <author>
@@ -283,6 +282,18 @@
     <published>2015-07-28T19:15:25Z</published>
     <summary type="html">&lt;p&gt;MEXICO CITY - Embattled Mexican national soccer team coach Miguel Herrera has been fired following a TV reporter's claim that the coach known as "El Piojo" punched him.&lt;/p&gt;</summary>
     <dc:date>2015-07-28T19:15:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico national soccer coach fired after journalist's claim</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article29120401.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T19:15:04Z</updated>
+    <published>2015-07-28T19:15:04Z</published>
+    <summary type="html">&lt;p&gt;Mexico advanced to the final after winning two knockout-round matches with the help of controversial late penalties.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T19:15:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Embattled Mexico soccer coach 'El Piojo' Herrera fired after claim he punched journalist</title>
@@ -309,14 +320,14 @@
   </entry>
   <entry>
     <title>New machines aim to revive troubled New Mexico green chile</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/07/28/new-machines-aim-to-revive-new-mexico-green-chile-amid-long-decline-in-land/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article29087764.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-28T17:46:57Z</updated>
-    <published>2015-07-28T17:46:57Z</published>
-    <summary type="html">&lt;p&gt;LAS CRUCES, N.M. - Efforts are underway to save the green chile that's important to traditional New Mexican fare as labor shortages, a previous severe drought and competition from China, India and Mexico endanger its growth in the state.&lt;/p&gt;</summary>
-    <dc:date>2015-07-28T17:46:57Z</dc:date>
+    <updated>2015-07-28T17:50:07Z</updated>
+    <published>2015-07-28T17:50:07Z</published>
+    <summary type="html">&lt;p&gt;Efforts are underway to save the green chile that's important to traditional New Mexican fare as labor shortages, a previous severe drought and competition from China, India and Mexico endanger its growth in the state.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T17:50:07Z</dc:date>
   </entry>
   <entry>
     <title>New machines aim to revive troubled New Mexico green chile</title>
@@ -326,20 +337,19 @@
     </author>
     <updated>2015-07-28T17:46:57Z</updated>
     <published>2015-07-28T17:46:57Z</published>
-    <summary type="html">&lt;p&gt;New Mexico land dedicated to growing chile has long been declining, and experts say mechanization might stop or even reverse the trend.&lt;/p&gt;&lt;p&gt;Federal numbers show overall chile acreage harvested across New Mexico fell last year to a 43-year low.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;New Mexico land dedicated to growing chile has long been declining, and experts say mechanization might stop or even reverse the trend.&lt;/p&gt;</summary>
     <dc:date>2015-07-28T17:46:57Z</dc:date>
   </entry>
   <entry>
-    <title>FDA bans some cilantro from Mexico, cites feces in fields</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/07/28/health/mexico-cilantro/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
+    <title>New machines aim to revive troubled New Mexico green chile</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Machines-eyed-in-boosting-New-Mexico-green-chile-6409291.php" />
     <author>
       <name />
     </author>
-    <updated>2015-07-28T16:23:53Z</updated>
-    <published>2015-07-28T16:23:53Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-28T16:23:53Z</dc:date>
-    <media:content url="http://edition.cnn.com/2015/07/28/health/mexico-cilantro/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+    <updated>2015-07-28T17:46:57Z</updated>
+    <published>2015-07-28T17:46:57Z</published>
+    <summary type="html">&lt;p&gt;Federal numbers show overall chile acreage harvested across New Mexico fell last year to a 43-year low.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T17:46:57Z</dc:date>
   </entry>
   <entry>
     <title>Mexico struggles to clean seaweed surge from Cancun beaches</title>
@@ -351,18 +361,6 @@
     <published>2015-07-28T03:44:05Z</published>
     <summary type="html">&lt;p&gt;Authorities on Mexico's Caribbean coast said Monday they are redoubling efforts to remove tons of sargassum seaweed that has been washing ashore in recent weeks.&lt;/p&gt;&lt;p&gt;Officials in the Caribbean island of Barbados have also struggled with seaweed washing ashore, and large piles of sargassum washed up on the shore in Galveston, Texas, in 2014 after drifting into the Gulf of Mexico.&lt;/p&gt;</summary>
     <dc:date>2015-07-28T03:44:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mexico corpse discoveries highlight 'shocking' crisis</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/27/mexico-corpse-discoveries-highlight-shocking-crisis" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-28T00:11:01Z</updated>
-    <published>2015-07-28T00:11:01Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY -- The discovery of 129 bodies in clandestine graves during months of searching for 43 missing students highlights a crisis of disappearances in Mexico, Amnesty International said Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-28T00:11:01Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297730119769_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
     <title>Mexico finds cocaine diluted in fruit shipment from Colombia</title>
@@ -387,26 +385,15 @@
     <dc:date>2015-07-28T00:06:17Z</dc:date>
   </entry>
   <entry>
-    <title>Amnesty International: Mexico corpse discoveries highlight 'shocking' crisis of disappearances</title>
-    <link rel="alternate" href="http://www.startribune.com/amnesty-mexico-bodies-report-highlights-shocking-crisis/318678881/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-27T20:55:16Z</updated>
-    <published>2015-07-27T20:55:16Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-27T20:55:16Z</dc:date>
-  </entry>
-  <entry>
     <title>Mexico national team coach allegedly hits TV journalist</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/tv/article28896580.html%23storylink=rss" />
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11487981&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-27T20:54:05Z</updated>
-    <published>2015-07-27T20:54:05Z</published>
+    <updated>2015-07-27T20:55:20Z</updated>
+    <published>2015-07-27T20:55:20Z</published>
     <summary type="html" />
-    <dc:date>2015-07-27T20:54:05Z</dc:date>
+    <dc:date>2015-07-27T20:55:20Z</dc:date>
   </entry>
   <entry>
     <title>Mexico national team coach allegedly hits TV journalist</title>
@@ -418,28 +405,6 @@
     <published>2015-07-27T20:54:05Z</published>
     <summary type="html">&lt;p&gt;The coach of Mexico's national soccer team is known for his histrionic displays of emotion during games.&lt;/p&gt;</summary>
     <dc:date>2015-07-27T20:54:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Trial set for New Mexico man who threw banana peel at Dave Chappelle</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/entertainment/trial-set-for-new-mexico-man-who-threw-banana-peel-at-dave-chappelle-1.2489924" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-27T19:54:00Z</updated>
-    <published>2015-07-27T19:54:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-27T19:54:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Trial set for New Mexico man who threw banana peel at Dave Chappelle</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/entertainment/trial-set-for-new-mexico-man-who-threw-banana-peel-at-dave-chappelle-1.2489924" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-27T19:54:00Z</updated>
-    <published>2015-07-27T19:54:00Z</published>
-    <summary type="html">&lt;p&gt;SANTA FE, N.M. -- The man accused of throwing a banana peel at comedian Dave Chappelle during a New Mexico performance is headed to court.&lt;/p&gt;</summary>
-    <dc:date>2015-07-27T19:54:00Z</dc:date>
   </entry>
   <entry>
     <title>Mexico wins 7th Gold Cup title with 3-1 victory over Jamaica</title>
@@ -454,38 +419,73 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/26/5f/a3/ff2cb146f1234d559e35bf2862cb45d1-c921208010534d70a6561150ae29e8f4-0.jpg" />
   </entry>
   <entry>
-    <title>Mexico uncovers 60 graves with 129 bodies</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/26/mexico-uncovers-60-graves-with-129-bodies" />
+    <title>El Tri grab seventh CONCACAF Gold Cup title</title>
+    <link rel="alternate" href="http://www.sfgate.com/sports/article/El-Tri-grab-seventh-CONCACAF-Gold-Cup-title-6406915.php" />
     <author>
       <name />
     </author>
-    <updated>2015-07-27T01:31:03Z</updated>
-    <published>2015-07-27T01:31:03Z</published>
+    <updated>2015-07-27T03:47:07Z</updated>
+    <published>2015-07-27T03:47:07Z</published>
+    <summary type="html">&lt;p&gt;Jamaica hadn't trailed since early in the second half of its Gold Cup opener before a yellow card helped lead to Mexico's first goal.&lt;/p&gt;</summary>
+    <dc:date>2015-07-27T03:47:07Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/37/72/56/8366997/3/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>Mexico wins 7th Gold Cup title with victory over Jamaica</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/sports/soccer/2015/07/26/mexico-wins-7th-gold-cup-title--3-1-victory-over-jamaica/30717113/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomsports-topstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-27T03:00:35Z</updated>
+    <published>2015-07-27T03:00:35Z</published>
+    <summary type="html">&lt;p&gt;Another mistake by Hector in the 61st minute put Mexico up 3-0.&lt;/p&gt;</summary>
+    <dc:date>2015-07-27T03:00:35Z</dc:date>
+    <media:content url="http://www.gannett-cdn.com/-mm-/1df4b8c3280f4f46014a34af2178445b5fd56d55/c=0-0-3704-2785&amp;amp;amp;r=x404&amp;amp;amp;c=534x401/local/-/media/2015/07/26/USATODAY/USATODAY/635735459289380350-USP-SOCCER-GOLD-CUP-FINAL-JAMAICA-AT-MEXICO-74767016.JPG" />
+  </entry>
+  <entry>
+    <title>Mexico's search for 43 missing students turns up 60 clandestine graves</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/mexico-s-search-for-43-missing-students-turns-up-60-clandestine-graves-1.2488926" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-27T01:31:29Z</updated>
+    <published>2015-07-27T01:31:29Z</published>
     <summary type="html">&lt;p&gt;On Sunday, a few hundred people led by parents of the missing youths marched in Mexico City to call for justice in the case.&lt;/p&gt;</summary>
-    <dc:date>2015-07-27T01:31:03Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/suns-prod-images/1297729779663_SMALL_BOX.jpg?quality=80&amp;amp;stmp=1437970855087" />
+    <dc:date>2015-07-27T01:31:29Z</dc:date>
   </entry>
   <entry>
-    <title>Mexico police bust greenhouses with genetically modified pot</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article28778248.html%23storylink=rss" />
+    <title>Mexico search for missing students turns up 129 bodies</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28771279.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-27T00:13:58Z</updated>
-    <published>2015-07-27T00:13:58Z</published>
-    <summary type="html">&lt;p&gt;The statement says the Colombians said they had been contacted by emails offering them jobs in the Mexico and they ended up at the site in the municipality of Tlajomulco de Zunia.&lt;/p&gt;</summary>
-    <dc:date>2015-07-27T00:13:58Z</dc:date>
+    <updated>2015-07-27T01:15:05Z</updated>
+    <published>2015-07-27T01:15:05Z</published>
+    <summary type="html">&lt;p&gt;The search for 43 missing college students in the southern state of Guerrero has turned up at least 60 clandestine graves and 129 bodies over the last 10 months, Mexico's attorney general's office says.&lt;/p&gt;&lt;p&gt;More than 20,000 people are listed as missing across Mexico, and there are many "disappeared" in Guerrero, a state that is a major opium producer and the battleground among several cartels warring over territory and drug smuggling routes.&lt;/p&gt;</summary>
+    <dc:date>2015-07-27T01:15:05Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Mexico police bust greenhouses with genetically modified pot</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28778248.html%23storylink=rss" />
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11487540&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-27T00:13:58Z</updated>
-    <published>2015-07-27T00:13:58Z</published>
-    <summary type="html">&lt;p&gt;Federal authorities in Mexico say they arrested 22 Colombians and three Mexicans using greenhouses to grow genetically modified and cloned marijuana.&lt;/p&gt;</summary>
-    <dc:date>2015-07-27T00:13:58Z</dc:date>
+    <updated>2015-07-27T00:15:24Z</updated>
+    <published>2015-07-27T00:15:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-27T00:15:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mexico's federal police arrest 25 at greenhouses growing genetically modified marijuana</title>
+    <link rel="alternate" href="http://www.startribune.com/mexico-police-bust-greenhouses-with-genetically-modified-pot/318591011/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-27T00:15:05Z</updated>
+    <published>2015-07-27T00:15:05Z</published>
+    <summary type="html">&lt;p&gt;MEXICO CITY - Federal authorities in Mexico say they arrested 22 Colombians and three Mexicans using greenhouses to grow genetically modified and cloned marijuana.&lt;/p&gt;&lt;p&gt;The statement says the Colombians said they had been contacted by emails offering them jobs in the Mexico and they ended up at the site in the municipality of Tlajomulco de Zunia.&lt;/p&gt;</summary>
+    <dc:date>2015-07-27T00:15:05Z</dc:date>
   </entry>
   <entry>
     <title>Mexico's search for 43 missing students has turned up 60 clandestine graves with 129 bodies</title>
@@ -495,7 +495,7 @@
     </author>
     <updated>2015-07-26T23:55:08Z</updated>
     <published>2015-07-26T23:55:08Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY - The search for 43 missing college students in the southern state of Guerrero has turned up at least 60 clandestine graves and 129 bodies over the last 10 months, Mexico's attorney general's office says.&lt;/p&gt;&lt;p&gt;More than 20,000 people are listed as missing across Mexico, and there are many "disappeared" in Guerrero, a state that is a major opium producer and the battleground among several cartels warring over territory and drug smuggling routes.&lt;/p&gt;</summary>
+    <summary type="html" />
     <dc:date>2015-07-26T23:55:08Z</dc:date>
     <media:content url="http://stmedia.stimg.co/shot+gal07251520.JPG?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
   </entry>
@@ -518,31 +518,8 @@
     </author>
     <updated>2015-07-25T21:20:16Z</updated>
     <published>2015-07-25T21:20:16Z</published>
-    <summary type="html">&lt;p&gt;PHILADELPHIA (AP) " Mexico is the favorite to win its record-extending seventh CONCACAF Gold Cup title, and coach Miguel Herrera is answering questions about his future with the team.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;PHILADELPHIA (AP) " Mexico is the favorite to win its record-extending seventh CONCACAF Gold Cup title, and coach Miguel Herrera is answering questions about his future with the team.&lt;/p&gt;&lt;p&gt;Indeed, Mexico did outplay Costa Rica in the quarterfinals, though that game was moments from going to penalty kicks until El Tri benefited from another questionable call in the last minute of extra time.&lt;/p&gt;&lt;p&gt;The only way Mexico has been able to score during the knockout rounds is on penalty kicks.&lt;/p&gt;</summary>
     <dc:date>2015-07-25T21:20:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Rolling Jamaica, reeling Mexico meet in Gold Cup final</title>
-    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/25/rolling-jamaica-reeling-mexico-meet-in-gold-cup-final" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T21:13:42Z</updated>
-    <published>2015-07-25T21:13:42Z</published>
-    <summary type="html">&lt;p&gt;Mexico's head coach Miguel Herrera speaks during a news conference, Saturday, July 25, 2015, in Philadelphia.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T21:13:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>Rolling Jamaica, reeling Mexico meet in Gold Cup final</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/rolling-jamaica-reeling-mexico-meet-in-gold-cup-fi/nm6kD/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T21:13:42Z</updated>
-    <published>2015-07-25T21:13:42Z</published>
-    <summary type="html">&lt;p&gt;The next, he was explaining why Jamaica will be going after the victory against Mexico on Sunday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T21:13:42Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/25/0c/d8/b977aa356552437c9bbb188dbea98bbb-b6f31332aca94f1b81ef2d6d127ed7ec-0.jpg" />
   </entry>
   <entry>
     <title>Lightning strike kills 7, including 4 children, in central Mexico</title>
@@ -633,18 +610,6 @@
     <dc:date>2015-07-23T07:05:27Z</dc:date>
   </entry>
   <entry>
-    <title>Jamaica stuns U.S. in Gold Cup soccer</title>
-    <link rel="alternate" href="http://www.mercurynews.com/sports/ci_28524365/jamaica-stuns-u-s-gold-cup-soccer?source=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T05:22:27Z</updated>
-    <published>2015-07-23T05:22:27Z</published>
-    <summary type="html">&lt;p&gt;Andres Guardado scored two goals on penalty kicks, including the tiebreaker in extra time, and six-time champion Mexico beat short-handed Panama.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T05:22:27Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0722/20150722__SJM-GOLDCUP-0722-01%7E1_100.JPG" />
-  </entry>
-  <entry>
     <title>Guardado lifts Mexico past angry Panama, 2-1, in Gold Cup</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/sports/guardados-goals-lift-mexico-past-panama-2-1-in-gol/nm5Jr/" />
     <author>
@@ -652,20 +617,31 @@
     </author>
     <updated>2015-07-23T05:20:10Z</updated>
     <published>2015-07-23T05:20:10Z</published>
-    <summary type="html">&lt;p&gt;A win by Panama's win would have been an upset, but not on the level of Jamaica's shocker over the U.S. Mexico is No.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Panama played at a disadvantage after forward Luis Tejada drew a red card and was ejected for his contact with Mexico's Francisco Rodriguez about 25 minutes into the match.&lt;/p&gt;&lt;p&gt;Similar controversy surrounded Mexico's 1-0 win over Costa Rica in the quarterfinals Sunday night.&lt;/p&gt;</summary>
     <dc:date>2015-07-23T05:20:10Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/23/99/d6/4fb93dc5abbb40cd9b42201c3ba31ebe-09ef1685f12d47a08d49f85f157795c7-0.jpg" />
   </entry>
   <entry>
-    <title>Guardado lifts Mexico past angry Panama, 2-1, in Gold Cup</title>
-    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/23/guardados-goals-lift-mexico-past-panama-2-1-in-gold-cup" />
+    <title>Jamaica stuns U.S. men’s team, faces Mexico for Gold Cup title</title>
+    <link rel="alternate" href="http://www.sfgate.com/sports/article/Jamaica-stuns-U-S-men-s-team-faces-Mexico-for-6400873.php" />
     <author>
       <name />
     </author>
-    <updated>2015-07-23T05:20:10Z</updated>
-    <published>2015-07-23T05:20:10Z</published>
-    <summary type="html">&lt;p&gt;Panama played at a disadvantage after forward Luis Tejada drew a red card and was ejected for his contact with Mexico's Francisco Rodriguez about 25 minutes into the match.&lt;/p&gt;&lt;p&gt;Finally, Tejada departed into the tunnel, leaving Panama with the difficult task of taking on Mexico with 10 players.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T05:20:10Z</dc:date>
+    <updated>2015-07-23T05:05:19Z</updated>
+    <published>2015-07-23T05:05:19Z</published>
+    <summary type="html">&lt;p&gt;Mexico 2, Panama 1: Andres Guardado scored two goals on penalty kicks, including the tiebreaker in extra time, and Mexico beat shorthanded and angered Panama.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T05:05:19Z</dc:date>
+  </entry>
+  <entry>
+    <title>Donald Trump to visit US-Mexico border</title>
+    <link rel="alternate" href="http://nypost.com/2015/07/22/donald-trump-to-visit-us-mexico-border/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T18:38:43Z</updated>
+    <published>2015-07-22T18:38:43Z</published>
+    <summary type="html">&lt;p&gt;NEWARK, NJ - Donald Trump, provocateur of the Republican presidential race, now plans to go the Mexican border, a flashpoint in the primary contest ever since he declared that immigrants from Mexico are rapists and drug dealers.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T18:38:43Z</dc:date>
   </entry>
   <entry>
     <title>Donald Trump will visit Mexico-Texas border Thursday</title>
@@ -897,6 +873,29 @@
     <dc:date>2015-07-15T20:30:38Z</dc:date>
   </entry>
   <entry>
+    <title>Mexico drug lord escape tunnel is audacious engineering feat</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/mexico-drug-lord-escape-tunnel-is-audacious-engine/nmy5F/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T13:58:22Z</updated>
+    <published>2015-07-15T13:58:22Z</published>
+    <summary type="html">&lt;p&gt;Mexico's most prized prisoner paced his cell, first to the latrine, then the shower, then the bed.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T13:58:22Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/15/cd/c1/00553b0d0ff64e39964702baa3c80551-622ae684b25c4853a32d9838c82f144e-0_1.jpg" />
+  </entry>
+  <entry>
+    <title>Hurricane Dolores strengthens to Category 4 storm in Pacific</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11481598&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T09:05:22Z</updated>
+    <published>2015-07-15T09:05:22Z</published>
+    <summary type="html">&lt;p&gt;Swells generated by the hurricane are affecting parts of Mexico's southwestern coast along with the southern coast of the Baja California peninsula.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T09:05:22Z</dc:date>
+  </entry>
+  <entry>
     <title>Hurricane Dolores strengthens to Category 4 storm in Pacific</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article27283846.html%23storylink=rss" />
     <author>
@@ -908,15 +907,15 @@
     <dc:date>2015-07-15T09:01:57Z</dc:date>
   </entry>
   <entry>
-    <title>First-hand look at Mexico drug lord's escape tunnel shows dimension of ingenuity, audacity</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/15/first-hand-look-at-mexico-drug-lord-escape-tunnel-shows-dimension-ingenuity/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <title>Mexico drug lord escape tunnel is audacious engineering feat</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11481580&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-15T08:31:43Z</updated>
-    <published>2015-07-15T08:31:43Z</published>
-    <summary type="html">&lt;p&gt;ALMOLOYA, Mexico - Mexico's most prized prisoner paced his cell, first to the latrine, then the shower, then the bed.&lt;/p&gt;</summary>
-    <dc:date>2015-07-15T08:31:43Z</dc:date>
+    <updated>2015-07-15T08:35:17Z</updated>
+    <published>2015-07-15T08:35:17Z</published>
+    <summary type="html">&lt;p&gt;Eduardo Castillo reported from Mexico City.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T08:35:17Z</dc:date>
   </entry>
   <entry>
     <title>Mexico drug lord escape tunnel is audacious engineering feat</title>
@@ -931,8 +930,8 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/15/cd/c1/00553b0d0ff64e39964702baa3c80551-622ae684b25c4853a32d9838c82f144e-0_1.jpg" />
   </entry>
   <entry>
-    <title>U.S., Mexican agents met to coordinate recapture of escaped 'El Chapo' Guzman</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/world/el-chapo-escape-u-s-mexican-agents-met-to-coordinate-recapture-1.3152375?cmp=rss" />
+    <title>Mexico launches nationwide search for escaped drug lord 'El Chapo' Guzman</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/el-chapo-escape-mexico-wide-search-launched-for-drug-lord-1.3152375?cmp=rss" />
     <author>
       <name />
     </author>
@@ -976,17 +975,6 @@
     <dc:date>2015-07-14T11:28:41Z</dc:date>
   </entry>
   <entry>
-    <title>DEA warned Mexico of plots to free drug lord 'El Chapo' in March 2014, documents show</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/14/dea-warned-mexico-plots-to-free-drug-lord-el-chapo-in-march-2014-docuements/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T07:02:06Z</updated>
-    <published>2015-07-14T07:02:06Z</published>
-    <summary type="html">&lt;p&gt;Late Monday, Mexico Interior Secretary Miguel Angel Osorio Chong said that authorities were never informed "in that respect," referring to previous escape plans.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T07:02:06Z</dc:date>
-  </entry>
-  <entry>
     <title>Mexico: Drug lord's escape tunnel construction must have involved insiders, blueprints</title>
     <link rel="alternate" href="http://www.foxnews.com/world/2015/07/14/mexico-drug-lord-escape-tunnel-construction-must-have-involved-insiders/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
     <author>
@@ -1017,21 +1005,21 @@
     </author>
     <updated>2015-07-14T03:55:04Z</updated>
     <published>2015-07-14T03:55:04Z</published>
-    <summary type="html">&lt;p&gt;Joan Sebastian, one of Mexico's great ballad singers, died Monday at age 64.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Joan (pronounced Juan) Sebastian, one of Mexico's great ballad singers, has died at 64.&lt;/p&gt;</summary>
     <dc:date>2015-07-14T03:55:04Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Mexico drug lord escape tunnel was too elaborate to miss</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27167557.html%23storylink=rss" />
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/Mexico-drug-lord-escape-tunnel-was-too-elaborate-6382448.php" />
     <author>
       <name />
     </author>
-    <updated>2015-07-13T22:15:08Z</updated>
-    <published>2015-07-13T22:15:08Z</published>
-    <summary type="html">&lt;p&gt;Soldiers guard a half-built house near the Altiplano maximum security prison in Almoloya, west of Mexico City, Monday, July 13, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T22:15:08Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+    <updated>2015-07-13T22:14:08Z</updated>
+    <published>2015-07-13T22:14:08Z</published>
+    <summary type="html">&lt;p&gt;Federal Police stand guard near a half-built house near the Altiplano maximum security prison in Almoloya, west of Mexico City, Monday, July 13, 2015.&lt;/p&gt;&lt;p&gt;He said the tunnel at Altiplano was longer than any passage ever found on the U.S.-Mexico border.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T22:14:08Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/37/52/67/8302023/23/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Mexico drug lord escape tunnel was too elaborate to miss</title>
@@ -1041,21 +1029,9 @@
     </author>
     <updated>2015-07-13T22:14:08Z</updated>
     <published>2015-07-13T22:14:08Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;The escape was made from the one place beyond the view of security cameras at Mexico's toughest prison.&lt;/p&gt;&lt;p&gt;"How did Chapo escape? In one word: corruption," wrote Alejandro Hope, a former member of Mexico's domestic intelligence service, in his blog El Daily Post.&lt;/p&gt;&lt;p&gt;"He escaped through a mile-long tunnel, wide enough to hold a motorcycle, and ending in one of the few blind spots in Mexico's most-secure prison. How do you do that without some high-level corruption?"&lt;/p&gt;&lt;p&gt;If anyone was capable of pulling off such a feat, it was Guzman, who is believed to have at least a quarter-century of experience in building large, sophisticated tunnels to deliver contraband under the U.S.-Mexico border and to escape from hideouts as authorities closed in.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T22:14:08Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/13/ca/1c/dd7516bc70674f2994939903d387cd57-2ddd91f559074b0b880bb76940c8543f-2.jpg" />
-  </entry>
-  <entry>
-    <title>Mexico drug lord escape tunnel construction would have too elaborate not to draw attention</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/13/mexico-drug-lord-escape-tunnel-construction-would-have-too-elaborate-not-to/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T22:08:58Z</updated>
-    <published>2015-07-13T22:08:58Z</published>
-    <summary type="html">&lt;p&gt;ALMOLOYA, Mexico - The digging would have caused noise.&lt;/p&gt;&lt;p&gt;The escape was made from the one place beyond the view of security cameras at Mexico's toughest prison.&lt;/p&gt;&lt;p&gt;"How did Chapo escape? In one word: corruption," wrote Alejandro Hope, a former member of Mexico's domestic intelligence service, in his blog El Daily Post.&lt;/p&gt;&lt;p&gt;"He escaped through a mile-long tunnel, wide enough to hold a motorcycle, and ending in one of the few blind spots in Mexico's most-secure prison. How do you do that without some high-level corruption?"&lt;/p&gt;&lt;p&gt;If anyone was capable of pulling off such a feat, it was Guzman, who is believed to have at least a quarter-century of experience in building large, sophisticated tunnels to deliver contraband under the U.S.-Mexico border and to escape from hideouts as authorities closed in.&lt;/p&gt;&lt;p&gt;He said the tunnel at Altiplano was longer than any passage ever found on the U.S.-Mexico border.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T22:08:58Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/07/13/876/493/Mexico%20Drug%20Lord%20Escapes-1.jpg?ve=1&amp;amp;tl=1" />
   </entry>
   <entry>
     <title>US offers full support to Mexico to capture drug lord</title>
@@ -1092,15 +1068,16 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Escape by top drug lord a strong blow to Mexico's government</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/13/escape-by-top-drug-lord-a-strong-blow-to-mexicos-government" />
+    <title>Mexican drug lord's escape seen as huge setback for Mexico</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/drug-lord-joaquin-el-chapo-guzman-s-escape-erases-mexico-s-triumphant-capture-1.3149015?cmp=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-13T12:00:54Z</updated>
-    <published>2015-07-13T12:00:54Z</published>
-    <summary type="html">&lt;p&gt;"All the accolades that Mexico has received in their counter-drug efforts will be erased by this one event" if Guzman is not recaptured, said Michael S. Vigil, a retired U.S. Drug Enforcement Administration chief of international operations.&lt;/p&gt;&lt;p&gt;According to a report from the Congressional Research Service in May, extraditions from Mexico to the U.S. peaked at 115 in 2012, the last year of Pena Nieto's predecessor, Felipe Calderon.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T12:00:54Z</dc:date>
+    <updated>2015-07-13T11:06:19Z</updated>
+    <published>2015-07-13T11:06:19Z</published>
+    <summary type="html">&lt;p&gt;"All the accolades that Mexico has received in their counter-drug efforts will be erased by this one event" if Guzman is not recaptured, said Michael S. Vigil, a retired U.S. Drug Enforcement Administration chief of international operations.&lt;/p&gt;&lt;p&gt;According to a report from the Congressional Research Service in May, extraditions from Mexico to the U.S. peaked at 115 in 2012, the last year of Pena Nieto's predecessor, Felipe Calderon.&lt;/p&gt;&lt;p&gt;Just as painful are memories of the cocksure way officials reacted after they captured Guzman in February 2014, some 13 years after the Sinaloa Cartel boss managed to flee from Mexico's only other maximum-security prison.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T11:06:19Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3149038.1436784819!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/mexico-guzman.jpg" />
   </entry>
   <entry>
     <title>Mexico launches massive manhunt after drug lord's bold escape</title>
@@ -1133,21 +1110,9 @@
     </author>
     <updated>2015-07-13T03:50:04Z</updated>
     <published>2015-07-13T03:50:04Z</published>
-    <summary type="html">&lt;p&gt;It came early, when Mexico turned the ball over at midfield.&lt;/p&gt;&lt;p&gt;Mexico had two other near misses.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Mexico had two other near misses.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T03:50:04Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Mexico kingpin 'Chapo' Guzman stages brazen jailbreak in blow to president</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/13/us-mexcio-guzman-idUSKCN0PM07020150713?feedType=RSS&amp;amp;feedName=topNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T02:54:38Z</updated>
-    <published>2015-07-13T02:54:38Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-13T02:54:38Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150713&amp;amp;i=109557109&amp;amp;w=240&amp;amp;r=109557109-1&amp;amp;t=2" />
   </entry>
   <entry>
     <title>Canada's Abel, Mexico's Garcia win diving gold, earn Rio berth</title>
@@ -1226,33 +1191,32 @@
     </author>
     <updated>2015-07-12T18:35:44Z</updated>
     <published>2015-07-12T18:35:44Z</published>
-    <summary type="html">&lt;p&gt;Mexican navy marines patrol near the maximum security prison Altiplano in Almoloya, west of Mexico City, Sunday, July 12, 2015.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Mexican navy marines patrol near the maximum security prison Altiplano in Almoloya, west of Mexico City, Sunday, July 12, 2015.&lt;/p&gt;&lt;p&gt;Police inspect a vehicle as they search for escaped drug lord Joaquin "El Chapo" Guzman, around the Almoloya de Juarez prison in Toluca, Mexico, Sunday, July 12, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T18:35:44Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/12/23/cb/2c8e5292db3a4b00b5afcb3f42757df6-ab7a5dfe8e1647ebb3e46b6ba97dc774-0.jpg" />
   </entry>
   <entry>
     <title>Mexico: Drug lord 'El Chapo' Guzman escapes through tunnel</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/news/ap/top-news/mexico-top-drug-lord-joaquin-el-chapo-guzman-escap/nmxY8/" />
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/12/mexico-top-drug-lord-joaquin-el-chapo-guzman-escapes" />
     <author>
       <name />
     </author>
     <updated>2015-07-12T18:35:44Z</updated>
     <published>2015-07-12T18:35:44Z</published>
-    <summary type="html">&lt;p&gt;Police inspect a vehicle as they search for escaped drug lord Joaquin "El Chapo" Guzman, around the Almoloya de Juarez prison in Toluca, Mexico, Sunday, July 12, 2015.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;"All the accolades that Mexico has received in their counterdrug efforts will be erased by this one event."&lt;/p&gt;</summary>
     <dc:date>2015-07-12T18:35:44Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/12/23/cb/2c8e5292db3a4b00b5afcb3f42757df6-ab7a5dfe8e1647ebb3e46b6ba97dc774-0.jpg" />
   </entry>
   <entry>
     <title>Thousands flock to New Mexico city for international market</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/entertainment/thousands-flock-to-new-mexico-city-for-internation/nmxff/" />
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article27079654.html%23storylink=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-12T17:30:18Z</updated>
-    <published>2015-07-12T17:30:18Z</published>
+    <updated>2015-07-12T17:35:08Z</updated>
+    <published>2015-07-12T17:35:08Z</published>
     <summary type="html" />
-    <dc:date>2015-07-12T17:30:18Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/12/02/71/86baaa6e2bd74eafa25179457385f8b0-75b2443e34f84dedb8609492f4603897-0.jpg" />
+    <dc:date>2015-07-12T17:35:08Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Mexico: Drug lord 'El Chapo' Guzman escapes through tunnel</title>
@@ -1285,31 +1249,20 @@
     </author>
     <updated>2015-07-12T14:34:03Z</updated>
     <published>2015-07-12T14:34:03Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this Feb. 22, 2014 file photo, Joaquin "El Chapo" Guzman is escorted to a helicopter in handcuffs by Mexican navy marines at a navy hanger in Mexico City.&lt;/p&gt;&lt;p&gt;Guzman faces multiple federal drug trafficking indictments in the U.S. as well as Mexico, and was on the U.S. Drug Enforcement Administration's most-wanted list.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;FILE - In this Feb. 22, 2014 file photo, Joaquin "El Chapo" Guzman is escorted to a helicopter in handcuffs by Mexican navy marines at a navy hanger in Mexico City.&lt;/p&gt;&lt;p&gt;Guzman faces multiple federal drug trafficking indictments in the U.S. as well as Mexico, and was on the U.S. Drug Enforcement Administration's most-wanted list.&lt;/p&gt;&lt;p&gt;Murillo Karam said sending Guzman to the United States would save Mexico a lot of money, but keeping him was a question of national sovereignty.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T14:34:03Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/12/23/cb/2c8e5292db3a4b00b5afcb3f42757df6-ab7a5dfe8e1647ebb3e46b6ba97dc774-0.jpg" />
   </entry>
   <entry>
-    <title>Mexico: Drug lord 'El Chapo' Guzman escapes prison</title>
-    <link rel="alternate" href="http://www.mercurynews.com/nation-world/ci_28472356/mexico-drug-lord-el-chapo-guzman-escapes-prison?source=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T14:11:39Z</updated>
-    <published>2015-07-12T14:11:39Z</published>
-    <summary type="html">&lt;p&gt;Eighteen employees from various part of the Altiplano prison 56 miles west of Mexico City have been taken in for questioning, Security Commissioner Monte Alejandro Rubido said in a news conference without answering questions.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T14:11:39Z</dc:date>
-  </entry>
-  <entry>
     <title>The Latest: Mexico drug lord 'El Chapo' Guzman escapes</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-07-12-LT--Mexico-Drug%20Lord-The%20Latest/id-549e599c3ae14247a79198a37c85a05a" />
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11479850&amp;amp;ref=rss" />
     <author>
       <name />
     </author>
-    <updated>2015-07-12T11:19:00Z</updated>
-    <published>2015-07-12T11:19:00Z</published>
+    <updated>2015-07-12T13:25:15Z</updated>
+    <published>2015-07-12T13:25:15Z</published>
     <summary type="html">&lt;p&gt;Mexico's top security official says top drug lord Joaquin "El Chapo" Guzman has escaped through a 1.5-kilometer (1 mile) tunnel that opened into the shower area of his cell.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T11:19:00Z</dc:date>
+    <dc:date>2015-07-12T13:25:15Z</dc:date>
   </entry>
   <entry>
     <title>Mexico: Drug lord 'El Chapo' Guzman escapes through tunnel</title>
@@ -1330,9 +1283,20 @@
     </author>
     <updated>2015-07-12T08:17:33Z</updated>
     <published>2015-07-12T08:17:33Z</published>
-    <summary type="html">&lt;p&gt;Guzman was last seen about 9 p.m. Saturday in the shower area of the Altiplano prison, 90 kilometers (56 miles) outside of Mexico City, according to a statement from the National Security Commission.&lt;/p&gt;&lt;p&gt;The cartel has been heavily involved in the bloody drug war that has torn through parts of Mexico for the last decade, taking at least an estimated 100,000 lives.&lt;/p&gt;&lt;p&gt;Guzman was caught by authorities for the first time in Guatemala in 1993, extradited and sentenced to 20 years in prison in Mexico for murder and drug trafficking.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Guzman was last seen about 9 p.m. Saturday in the shower area of the Altiplano prison, 90 kilometers (56 miles) outside of Mexico City, according to a statement from the National Security Commission.&lt;/p&gt;&lt;p&gt;Guzman was caught by authorities for the first time in Guatemala in 1993, extradited and sentenced to 20 years in prison in Mexico for murder and drug trafficking.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T08:17:33Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/12/23/cb/2c8e5292db3a4b00b5afcb3f42757df6-ab7a5dfe8e1647ebb3e46b6ba97dc774-0.jpg" />
+  </entry>
+  <entry>
+    <title>Mexico: Top drug lord Joaquin 'El Chapo' Guzman escapes</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/12/mexico-top-drug-lord-joaquin-el-chapo-guzman-escapes" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-12T08:17:33Z</updated>
+    <published>2015-07-12T08:17:33Z</published>
+    <summary type="html">&lt;p&gt;The cartel has been heavily involved in the bloody drug war that has torn through parts of Mexico for the last decade, taking at least an estimated 100,000 lives.&lt;/p&gt;</summary>
+    <dc:date>2015-07-12T08:17:33Z</dc:date>
   </entry>
   <entry>
     <title>Mexico officials: Top drug lord Joaquin 'El Chapo' Guzman escapes from prison for 2nd time.</title>
@@ -1391,6 +1355,17 @@
     <summary type="html">&lt;p&gt;Clouds of ash fill the sky after an eruption by the Colima volcano, known as the Volcano of Fire, near the town of Comala, Mexico, Friday, July 10, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-07-11T22:55:04Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>New Mexico cities top others in US for export growth</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27043987.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T21:00:05Z</updated>
+    <published>2015-07-11T21:00:05Z</published>
+    <summary type="html">&lt;p&gt;Three New Mexico cities have been ranked among the top five metropolitan areas in the country with the most export growth, New Mexico Gov. Susan Martinez said.&lt;/p&gt;&lt;p&gt;New Mexico Economic Development Department Cabinet Secretary Jon Barela credited the gains to tax policy changes, trade missions and flourishing relationships with leaders in other countries.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T21:00:05Z</dc:date>
   </entry>
   <entry>
     <title>Ash and cinders prompt evacuation of village near Colima volcano in western Mexico</title>
@@ -1492,39 +1467,5 @@
     <published>2015-07-09T08:50:25Z</published>
     <summary type="html" />
     <dc:date>2015-07-09T08:50:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>Donald Trump Renews Attack on Mexico: ‘Tremendous Infectious Disease Is Pouring Across the Border’</title>
-    <link rel="alternate" href="http://www.thewrap.com/donald-trump-renews-attack-on-mexico-tremendous-infectious-disease-is-pouring-across-the-border/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T00:20:03Z</updated>
-    <published>2015-07-07T00:20:03Z</published>
-    <summary type="html">&lt;p&gt;On the other hand, many fabulous people come in from Mexico and our country is better for it.&lt;/p&gt;</summary>
-    <dc:date>2015-07-07T00:20:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>Donald Trump says some of his comments about Mexico distorted</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/donald-trump-says-some-of-his-comments-about-mexico-distorted/article25330622/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-06T21:43:50Z</updated>
-    <published>2015-07-06T21:43:50Z</published>
-    <summary type="html">&lt;p&gt;After days of outrage, Republican presidential candidate Donald Trump said on Monday that some of his criticism of Mexico has been distorted but stuck to his stance that many illegal immigrants coming across the Mexican border are criminals.&lt;/p&gt;&lt;p&gt;However, he said, the United States has become "a dumping ground for Mexico" with illegal border-crossers smuggling illicit drugs and carrying "tremendous infectious disease."&lt;/p&gt;&lt;p&gt;"This is merely one of thousands of similar incidents throughout the United States. In other words, the worst elements in Mexico are being pushed into the United States by the Mexican government," he said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-06T21:43:50Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/af3/video/article25224820.ece/ALTERNATES/w140/Video%3A+%E2%80%98You%E2%80%99re+fired%21%E2%80%99+Macy%E2%80%99s+cuts+ties+with+Donald+Trump" />
-  </entry>
-  <entry>
-    <title>Mexico rescues 12 Cubans from makeshift raft off Yucatan coast</title>
-    <link rel="alternate" href="http://www.startribune.com/mexico-rescues-12-cubans-from-makeshift-raft/311777991/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-06T18:15:09Z</updated>
-    <published>2015-07-06T18:15:09Z</published>
-    <summary type="html">&lt;p&gt;MEXICO CITY - The Mexican Navy says it has rescued 12 Cuban men who were found aboard a makeshift raft off the coast of the Yucatan Peninsula.&lt;/p&gt;</summary>
-    <dc:date>2015-07-06T18:15:09Z</dc:date>
   </entry>
 </feed>

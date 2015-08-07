@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>News24.com | Remains of 17 missing people recovered in Nepal</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Remains-of-17-missing-people-recovered-in-Nepal-20150805" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-05T08:24:53Z</updated>
+    <published>2015-08-05T08:24:53Z</published>
+    <summary type="html">&lt;p&gt;The earthquake on 25 April and another one on 12 May killed 8 900 people in Nepal.&lt;/p&gt;</summary>
+    <dc:date>2015-08-05T08:24:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Landslide near Nepal&amp;#039;s popular Annapurna trek route kills 30</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/31/landslide-near-nepals-popular-annapurna-trek-route-kills-30" />
     <author>
@@ -38,6 +49,17 @@
     <dc:date>2015-07-29T02:22:38Z</dc:date>
   </entry>
   <entry>
+    <title>Nepal police arrest 11 in suspected human sacrifice killing of boy</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/27/nepal-police-arrest-11-in-suspected-human-sacrifice-killing-boy/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-27T19:39:15Z</updated>
+    <published>2015-07-27T19:39:15Z</published>
+    <summary type="html">&lt;p&gt;More than 80% of Nepal's 28 million people are Hindus.&lt;/p&gt;</summary>
+    <dc:date>2015-07-27T19:39:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Boy's murder in Nepal a 'human sacrifice', eleven arrested</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/boys-murder-in-nepal-a-human-sacrifice-eleven-arrested-20150726-gikyyt" />
     <author>
@@ -45,20 +67,8 @@
     </author>
     <updated>2015-07-26T15:42:05Z</updated>
     <published>2015-07-26T15:42:05Z</published>
-    <summary type="html">&lt;p&gt;Police have arrested 11 villagers over the murder of a 10-year-old boy in southwestern Nepal, in what authorities are calling a case of human sacrifice.&lt;/p&gt;&lt;p&gt;More than 80 percent of Nepal's 28 million people are Hindus.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Police have arrested 11 villagers over the murder of a 10-year-old boy in southwestern Nepal, in what authorities are calling a case of human sacrifice.&lt;/p&gt;</summary>
     <dc:date>2015-07-26T15:42:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Five arrested following death of 10-year-old boy in suspected case of human sacrifice in Nepal</title>
-    <link rel="alternate" href="http://www.independent.co.uk/news/world/asia/five-arrested-following-death-of-10yearold-boy-in-suspected-case-of-human-sacrifice-in-nepal-10416563.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-26T14:30:42Z</updated>
-    <published>2015-07-26T14:30:42Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-26T14:30:42Z</dc:date>
-    <media:content url="http://www.independent.co.uk/incoming/article10416647.ece/alternates/w460/Nawalparasi_district_location.jpg" />
   </entry>
   <entry>
     <title>Nepal's Mt. Annapurna trails deemed safe after April earthquake</title>
@@ -68,7 +78,7 @@
     </author>
     <updated>2015-07-23T13:37:23Z</updated>
     <published>2015-07-23T13:37:23Z</published>
-    <summary type="html">&lt;p&gt;The most popular trekking trail in Nepal escaped damage during April's devastating earthquake and is safe for hikers to return, an assessment team said Thursday.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The most popular trekking trail in Nepal escaped damage during April's devastating earthquake and is safe for hikers to return, an assessment team said Thursday.&lt;/p&gt;&lt;p&gt;The trail around Mount Annapurna gets about 115,000 foreign trekkers, which is about 60 per cent of all hikers who travel to Nepal every year.&lt;/p&gt;</summary>
     <dc:date>2015-07-23T13:37:23Z</dc:date>
   </entry>
   <entry>
@@ -105,18 +115,6 @@
     <dc:date>2015-07-20T03:53:02Z</dc:date>
   </entry>
   <entry>
-    <title>Nepal cricket physio fired over alleged NI assault</title>
-    <link rel="alternate" href="http://www.rte.ie/news/2015/0717/715414-nepal-cricket-court/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T14:22:04Z</updated>
-    <published>2015-07-17T14:22:04Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-17T14:22:04Z</dc:date>
-    <media:content url="http://img.rasset.ie/000ade8f-642.jpg" />
-  </entry>
-  <entry>
     <title>Quake-hit Nepal urges other nations to lift travel advisories, hopes to bring back tourists</title>
     <link rel="alternate" href="http://www.startribune.com/quake-hit-nepal-asks-other-nations-to-lift-travel-advisories/315236391/" />
     <author>
@@ -135,19 +133,8 @@
     </author>
     <updated>2015-07-15T09:42:06Z</updated>
     <published>2015-07-15T09:42:06Z</published>
-    <summary type="html">&lt;p&gt;Nepal's government has urged other countries to lift travel advisories that discourage their citizens from visiting the Himalayan nation following a devastating earthquake in April that killed thousands of people.&lt;/p&gt;&lt;p&gt;Tourism is a key source of foreign currency for Nepal, which has many of the world's tallest mountains, including Mount Everest.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Nepal's government has urged other countries to lift travel advisories that discourage their citizens from visiting the Himalayan nation following a devastating earthquake in April that killed thousands of people.&lt;/p&gt;&lt;p&gt;Nepal received nearly 800,000 tourists last year but fears the April 25 earthquake will drive many away.&lt;/p&gt;&lt;p&gt;Tourism is a key source of foreign currency for Nepal, which has many of the world's tallest mountains, including Mount Everest.&lt;/p&gt;</summary>
     <dc:date>2015-07-15T09:42:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>Quake-hit Nepal asks other nations to lift travel advisories</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Quake-hit-Nepal-asks-other-nations-to-lift-travel-6385500.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-15T09:39:49Z</updated>
-    <published>2015-07-15T09:39:49Z</published>
-    <summary type="html">&lt;p&gt;Nepal received nearly 800,000 tourists last year but fears the April 25 earthquake will drive many away.&lt;/p&gt;</summary>
-    <dc:date>2015-07-15T09:39:49Z</dc:date>
   </entry>
   <entry>
     <title>Nepal hospital, CNN differ on reported surgery after quake</title>
