@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>AP Sources: Michel Platini will run for FIFA president</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/ap-sources-michel-platini-will-run-for-fifa-presid/nm7q4/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T14:47:03Z</updated>
+    <published>2015-07-28T14:47:03Z</published>
+    <summary type="html">&lt;p&gt;Only FIFA's World Cup eluded him.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T14:47:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Sepp Blatter deserves the Nobel Prize, Vladimir Putin says</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article29088274.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T11:50:04Z</updated>
+    <published>2015-07-28T11:50:04Z</published>
+    <summary type="html">&lt;p&gt;Blatter has long coveted a Nobel Peace Prize for FIFA on behalf of world soccer, but the corruption cases appear finally to have ended that hope.&lt;/p&gt;&lt;p&gt;Blatter made a similar comment in his first interview after being re-elected president of FIFA on May 29.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T11:50:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Former FIFA rival Prince Ali: Blatter must leave now</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article27894574.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T06:57:04Z</updated>
+    <published>2015-07-20T06:57:04Z</published>
+    <summary type="html">&lt;p&gt;"The future of FIFA is at stake," Prince Ali, a vice president for four years until May, said in a statement to The Associated Press.&lt;/p&gt;&lt;p&gt;Prince Ali gave no indication in his statement of whether he intends to run again for the FIFA presidency.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T06:57:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Coca-Cola tells FIFA to back independent reform commission</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27507625.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T18:56:59Z</updated>
+    <published>2015-07-17T18:56:59Z</published>
+    <summary type="html">&lt;p&gt;FIFA sponsor Coca-Cola has told soccer's governing body to appoint an independent commission to lead the reform process required to clean up the scandal-ridden organization.&lt;/p&gt;&lt;p&gt;FIFA is still reeling from the indictment of 14 people in a U.S. investigation into soccer corruption, including two of world soccer's now-ousted vice presidents.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T18:56:59Z</dc:date>
+    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
     <title>FIFA launches internal probe of alleged corruption: sources</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/sports/soccer/fifa-launches-internal-probe-of-alleged-corruption-sources/article25878543/?cmpid=rss1" />
     <author>
@@ -139,18 +186,6 @@
     <summary type="html">&lt;p&gt;Platini has long been the bookmakers' favourite to succeed Blatter and last week his supporters indicated that he has picked up widespread support from leaders of the continental confederations.&lt;/p&gt;</summary>
     <dc:date>2015-07-28T13:21:14Z</dc:date>
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-28T115602Z_1_LYNXNPEB6R0J7_RTROPTP_2_SOCCER-WORLD-DRAW.JPG?itok=krKmsk9Y" />
-  </entry>
-  <entry>
-    <title>Sepp Blatter deserves the Nobel Prize, Vladimir Putin says</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article29088274.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-28T11:50:04Z</updated>
-    <published>2015-07-28T11:50:04Z</published>
-    <summary type="html">&lt;p&gt;Blatter has long coveted a Nobel Peace Prize for FIFA on behalf of world soccer, but the corruption cases appear finally to have ended that hope.&lt;/p&gt;</summary>
-    <dc:date>2015-07-28T11:50:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>FIFA President Sepp Blatter deserves the Nobel Prize, Russian President Vladimir Putin says</title>
@@ -896,18 +931,6 @@
   </entry>
   <entry>
     <title>Former FIFA rival Prince Ali: Blatter must leave now</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article27894574.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T06:57:04Z</updated>
-    <published>2015-07-20T06:57:04Z</published>
-    <summary type="html">&lt;p&gt;"The future of FIFA is at stake," Prince Ali, a vice president for four years until May, said in a statement to The Associated Press.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T06:57:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Former FIFA rival Prince Ali: Blatter must leave now</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article27894574.html%23storylink=rss" />
     <author>
       <name />
@@ -1089,18 +1112,6 @@
     <published>2015-07-17T19:00:26Z</published>
     <summary type="html">&lt;p&gt;Coca-Cola has sponsored FIFA since 1974 with its branding prominent at World Cups.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T19:00:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Coca-Cola tells FIFA to back independent reform commission</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27507625.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T18:56:59Z</updated>
-    <published>2015-07-17T18:56:59Z</published>
-    <summary type="html">&lt;p&gt;FIFA sponsor Coca-Cola has told soccer's governing body to appoint an independent commission to lead the reform process required to clean up the scandal-ridden organization.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T18:56:59Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
     <title>Prosecutor: Banned FIFA official in US to face charges</title>

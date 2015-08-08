@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Red Sox trade 1B Mike Napoli back to Rangers (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/red-sox-trade-1b-mike-napoli-back-rangers-004232414--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-08T03:05:30Z</updated>
+    <published>2015-08-08T03:05:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-08T03:05:30Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/7mG__.KSft5lwGJlFzG6rg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507312130774329222" />
+  </entry>
+  <entry>
+    <title>Rams sign quarterback Nick Foles to contract extension (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/rams-sign-quarterback-nick-foles-contract-extension-004438711--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-08T01:53:59Z</updated>
+    <published>2015-08-08T01:53:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-08T01:53:59Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/6UPuyPnkb9ZxP3BBT.ljhQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/8e908453e6dedaeda5a609f9b2584f2d" />
+  </entry>
+  <entry>
     <title>South Dakota tribe returning $25,000 donation from Redskins (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/south-dakota-tribe-returning-25-000-donation-redskins-172550674--nfl.html" />
     <author>
@@ -1723,17 +1747,5 @@
     <summary type="html" />
     <dc:date>2015-07-08T20:59:05Z</dc:date>
     <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
-  </entry>
-  <entry>
-    <title>Dempsey scores twice, US beats Honduras 2-1 to open Gold Cup (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/dempsey-scores-twice-us-beats-honduras-2-1-033634867--sow.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T05:14:18Z</updated>
-    <published>2015-07-08T05:14:18Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-08T05:14:18Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/nDLYtquaVUE0qQBhpJpBog--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507072158791326377" />
   </entry>
 </feed>

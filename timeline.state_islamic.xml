@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State 'kidnaps 230 Christians' after Syrian town falls</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/islamic-state-kidnaps-230-christians-after-syrian-town-falls-20150807-giuip0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-07T23:45:15Z</updated>
+    <published>2015-08-07T23:45:15Z</published>
+    <summary type="html">&lt;p&gt;Amman: Islamic State militants have captured dozens of Christian families after snatching the regime-held Syrian town of Qaryatain.&lt;/p&gt;&lt;p&gt;Rased News Network, a Facebook page affiliated with Islamic State militants, published this picture showing a militant on a tank captured from Syrian forces in Qaryatain.&lt;/p&gt;&lt;p&gt;Islamic State militants carry weapons as they battle against Syrian government forces in Qaryatain in a photo released by Rased News Network on Facebook.&lt;/p&gt;</summary>
+    <dc:date>2015-08-07T23:45:15Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/u/i/q/0/image.related.articleLeadwide.620x349.giuip0.png/1438991081104.jpg" />
+  </entry>
+  <entry>
+    <title>Australian Islamic State group medic arrested on return home</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28672570.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-25T05:35:04Z</updated>
+    <published>2015-07-25T05:35:04Z</published>
+    <summary type="html">&lt;p&gt;He is the first Australian involved with the Islamic State known to have returned home since the Sunni fighters swept into western Iraq in June last year and declared the establishment of a caliphate, Monash University terrorism expert Greg Barton said.&lt;/p&gt;&lt;p&gt;Court documents show both charges allege that Brookman knowingly provided support to the Islamic State movement by undertaking guard duty and reconnaissance for the militants.&lt;/p&gt;&lt;p&gt;Barton said it was unclear whether Brookman was ever in al-Raqqa, although he admits to being in a town controlled by the Islamic State.&lt;/p&gt;</summary>
+    <dc:date>2015-07-25T05:35:04Z</dc:date>
+  </entry>
+  <entry>
     <title>After capturing central Syrian town, Islamic State group abducts dozens of Christians</title>
     <link rel="alternate" href="http://www.startribune.com/after-capturing-syrian-town-is-abducts-dozens-of-christians/321034081/" />
     <author>
@@ -544,17 +567,6 @@
     <summary type="html">&lt;p&gt;Turkish warplanes struck Islamic State group targets across the border in Syria early Friday, in a strong tactical shift for Turkey which had long been reluctant to join the U.S.-led coalition against the extremist group.&lt;/p&gt;&lt;p&gt;Turkish jets struck camps belonging to Kurdish militants in northern Iraq, authorities said Saturday, the first strike since a 2013 peace deal as Ankara also bombed Islamic State positions in Syria.&lt;/p&gt;&lt;p&gt;On Friday, three F-16 jets struck Islamic State targets that included two command centers and a gathering point near the Turkish border in Syria.&lt;/p&gt;</summary>
     <dc:date>2015-07-25T06:14:07Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/25/14/b7/c02597fc1e114107881568a80b5ba20f-165391881c684e97a48e1e9a5f8d92cb-0.jpg" />
-  </entry>
-  <entry>
-    <title>Australian Islamic State group medic arrested on return home</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28672570.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T05:35:04Z</updated>
-    <published>2015-07-25T05:35:04Z</published>
-    <summary type="html">&lt;p&gt;He is the first Australian involved with the Islamic State known to have returned home since the Sunni fighters swept into western Iraq in June last year and declared the establishment of a caliphate, Monash University terrorism expert Greg Barton said.&lt;/p&gt;&lt;p&gt;Court documents show both charges allege that Brookman knowingly provided support to the Islamic State movement by undertaking guard duty and reconnaissance for the militants.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T05:35:04Z</dc:date>
   </entry>
   <entry>
     <title>Australian Islamic State group medic arrested on return home</title>
@@ -1609,28 +1621,5 @@
     <published>2015-07-08T20:13:44Z</published>
     <summary type="html">&lt;p&gt;Comey told a U.S. Senate Judiciary Committee hearing that Islamic State, also known by the acronym ISIL, is imploring supporters through Twitter to carry out attacks.&lt;/p&gt;&lt;p&gt;Comey later told the Senate Select Committee on Intelligence that the FBI now estimated more than 200 Americans have traveled or attempted to travel to Syria to fight for Islamic militants.&lt;/p&gt;</summary>
     <dc:date>2015-07-08T20:13:44Z</dc:date>
-  </entry>
-  <entry>
-    <title>A secret to IS success: Shock troops who fight to the death</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article26719300.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T06:54:46Z</updated>
-    <published>2015-07-08T06:54:46Z</published>
-    <summary type="html">&lt;p&gt;They are the Islamic State group's elite shock troops.&lt;/p&gt;&lt;p&gt;Though best known for its horrific brutalities, the Islamic State group has proved to be a highly organized and flexible fighting force, according to senior Iraqi military and intelligence officials and Syrian Kurdish commanders on the front lines.&lt;/p&gt;&lt;p&gt;"People go to the Islamic State looking to die, and the Islamic State is happy to help them," said Patrick Skinner, a former CIA officer now with The Soufan Group, a private geopolitical risk assessment company.&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T06:54:46Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>A secret to IS success: Shock troops who fight to the death</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/a-secret-to-is-success-shock-troops-who-fight-to-t/nmtGF/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T06:51:24Z</updated>
-    <published>2015-07-08T06:51:24Z</published>
-    <summary type="html">&lt;p&gt;Bearded and wearing bright blue bandanas, the Islamic State group's "special forces" unit gathered around their commander just before they attacked the central Syrian town of al-Sukhna.&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T06:51:24Z</dc:date>
   </entry>
 </feed>

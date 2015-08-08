@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>EU officials note progress in Greek bailout talks, deal possible next week</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/07/us-eurozone-greece-idUSKCN0QC19820150807?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-07T23:44:33Z</updated>
+    <published>2015-08-07T23:44:33Z</published>
+    <summary type="html">&lt;p&gt;A senior Greek official said the two sides' assessments of the macroeconomic outlook and primary budget balance targets were very close and unlikely to be an obstacle to a deal.&lt;/p&gt;</summary>
+    <dc:date>2015-08-07T23:44:33Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150807&amp;amp;t=2&amp;amp;i=1070300437&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;sq=&amp;amp;r=LYNXNPEB760IY" />
+  </entry>
+  <entry>
+    <title>News24.com | Migrants stranded in Athens without water, food</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Migrants-stranded-in-Athens-without-water-food-20150717" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-17T03:53:13Z</updated>
+    <published>2015-07-17T03:53:13Z</published>
+    <summary type="html">&lt;p&gt;Global attention has focused on Greece's brush with financial collapse over the past few weeks.&lt;/p&gt;&lt;p&gt;Greece, who has often been criticised by human rights groups for its treatment of migrants and asylum seekers, urgently needs help to cope with 1 000 refugees arriving each day, the UNHCR said.&lt;/p&gt;&lt;p&gt;More than 77 000 people have arrived in Greece by sea so far this year.&lt;/p&gt;</summary>
+    <dc:date>2015-07-17T03:53:13Z</dc:date>
+    <media:content url="http://cdn.24.co.za/files/Cms/General/d/405/6b290aca2dbe4f4aa65bdc4d73ce03b3.jpg" />
+  </entry>
+  <entry>
     <title>EU appeals for assets for Greece, Hungary migrant operations</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article30385125.html%23storylink=rss" />
     <author>
@@ -1696,18 +1720,6 @@
     <summary type="html">&lt;p&gt;The path to a reopening was cleared after the European Central Bank (ECB) announced it would offer Greek lenders an additional $US980 million in aid, giving them critical breathing room.&lt;/p&gt;&lt;p&gt;In the meantime, they signalled that they have found a way to provide Greece with the short-term loans needed to cover its most pressing debts, including a Monday payment due to the ECB.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T05:45:56Z</dc:date>
     <media:content url="ww.smh.com.au/content/dam/images/g/i/e/a/o/3/image.related.articleLeadwide.620x349.gieb3r.png/1437111744468.jpg" />
-  </entry>
-  <entry>
-    <title>News24.com | Migrants stranded in Athens without water, food</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/Migrants-stranded-in-Athens-without-water-food-20150717" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T03:53:13Z</updated>
-    <published>2015-07-17T03:53:13Z</published>
-    <summary type="html">&lt;p&gt;Global attention has focused on Greece's brush with financial collapse over the past few weeks.&lt;/p&gt;&lt;p&gt;Greece, who has often been criticised by human rights groups for its treatment of migrants and asylum seekers, urgently needs help to cope with 1 000 refugees arriving each day, the UNHCR said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T03:53:13Z</dc:date>
-    <media:content url="http://cdn.24.co.za/files/Cms/General/d/405/6b290aca2dbe4f4aa65bdc4d73ce03b3.jpg" />
   </entry>
   <entry>
     <title>Greek debt crisis: Banks due to reopen on Monday</title>
@@ -3841,63 +3853,5 @@
     <published>2015-07-08T07:29:20Z</published>
     <summary type="html" />
     <dc:date>2015-07-08T07:29:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Juncker: EU officials are prepared for Grexit</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/f70471f764144b2fab526d39972d37b3/Article_2015-07-07-EU--Greece-Bailout-The%20Latest/id-296314821a5f4938b0b7ef9a95904034" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T07:21:00Z</updated>
-    <published>2015-07-08T07:21:00Z</published>
-    <summary type="html">&lt;p&gt;On Sunday, the 28 leaders of the full European Union will meet to assess Greece's final proposals.&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T07:21:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>China leads dive in Asia stocks as Greece rattles investors</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26718616.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T06:30:04Z</updated>
-    <published>2015-07-08T06:30:04Z</published>
-    <summary type="html">&lt;p&gt;"Still, for traders there are only two games in town and these remain China's equity markets and the Greek negotiations."&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T06:30:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece and China expose limits of 'whatever it takes'</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greece-china-expose-limits-whatever-055621038.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T05:56:21Z</updated>
-    <published>2015-07-08T05:56:21Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-08T05:56:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>China leads dive in Asia stocks as Greece rattles investors</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article26651365.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T03:50:04Z</updated>
-    <published>2015-07-08T03:50:04Z</published>
-    <summary type="html">&lt;p&gt;Global stocks mostly fell on Tuesday as Greece's spiraling crisis kept investors on edge and as Chinese markets dropped despite government intervention.&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T03:50:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>China leads dive in Asia stocks as Greece rattles investors</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26651365.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T03:50:04Z</updated>
-    <published>2015-07-08T03:50:04Z</published>
-    <summary type="html">&lt;p&gt;Chinese stocks led a slump in Asian markets on Wednesday as the sell-off in Shanghai intensified and Greece's future in the euro remained highly uncertain.&lt;/p&gt;&lt;p&gt;Indebted Greece needs a financial lifeline from its European creditors who have been pressing for more austerity in exchange for bailout funds.&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T03:50:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
 </feed>

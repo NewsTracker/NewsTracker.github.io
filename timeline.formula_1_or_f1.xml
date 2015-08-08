@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.formula_1_or_f1.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>F1 driver Jules Bianchi dies from head injuries sustained in 2014 crash</title>
+    <link rel="alternate" href="http://www.latimes.com/sports/more/la-sp-jules-bianchi-dead-20150717-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-18T02:20:00Z</updated>
+    <published>2015-07-18T02:20:00Z</published>
+    <summary type="html">&lt;p&gt;The news was posted on Bianchi's official Twitter feed early Saturday morning French time and later confirmed by the Manor F1 team.&lt;/p&gt;&lt;p&gt;The family of Jules Bianchi says the French Formula One driver has died from head injuries sustained in a crash at last year's Japanese Grand Prix.&lt;/p&gt;</summary>
+    <dc:date>2015-07-18T02:20:00Z</dc:date>
+  </entry>
+  <entry>
     <title>F1 star 'gassed' in burglary</title>
     <link rel="alternate" href="http://edition.cnn.com/2015/08/07/motorsport/jenson-button-france-burglary/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_world+%28RSS%3A+CNN+-+World%29" />
     <author>
@@ -243,16 +254,5 @@
     <published>2015-07-18T02:32:02Z</published>
     <summary type="html" />
     <dc:date>2015-07-18T02:32:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>F1 driver Jules Bianchi dies from head injuries sustained in 2014 crash</title>
-    <link rel="alternate" href="http://www.latimes.com/sports/more/la-sp-jules-bianchi-dead-20150717-story.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T02:20:00Z</updated>
-    <published>2015-07-18T02:20:00Z</published>
-    <summary type="html">&lt;p&gt;The news was posted on Bianchi's official Twitter feed early Saturday morning French time and later confirmed by the Manor F1 team.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T02:20:00Z</dc:date>
   </entry>
 </feed>
