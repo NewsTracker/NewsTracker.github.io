@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>James Holmes sentenced to life in prison for theater attack</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/national/james-holmes-sentenced-life-prison-theater-attack-article-1.2318522" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-08T02:39:47Z</updated>
+    <published>2015-08-08T02:39:47Z</published>
+    <summary type="html">&lt;p&gt;The case could have ended the same way two years ago when Holmes offered to plead guilty if he could avoid the death penalty.&lt;/p&gt;</summary>
+    <dc:date>2015-08-08T02:39:47Z</dc:date>
+  </entry>
+  <entry>
     <title>Surprise ending at end of Colorado theater shooting trial: James Holmes gets life</title>
     <link rel="alternate" href="http://www.startribune.com/at-end-of-epic-colorado-theater-shooting-trial-a-surprise/321116861/" />
     <author>
