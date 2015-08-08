@@ -4,6 +4,66 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>South Dakota tribe returning $25,000 donation from Redskins (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/south-dakota-tribe-returning-25-000-donation-redskins-172550674--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-07T17:27:57Z</updated>
+    <published>2015-08-07T17:27:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-07T17:27:57Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/al2khJrFSNwNgE4Tn.wszg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508070942349204756" />
+  </entry>
+  <entry>
+    <title>Jets' Cromartie: Patriots' Brady shouldn't be suspended (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/jets-cromartie-patriots-brady-shouldnt-suspended-185421832--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T23:22:35Z</updated>
+    <published>2015-08-06T23:22:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-06T23:22:35Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/z1tHVmt9olLk7L3d.MgQeQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508041609581494181" />
+  </entry>
+  <entry>
+    <title>McIlroy, recovering from ankle injury, listed in PGA field (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/mcilroy-recovering-ankle-injury-listed-pga-field-180449124--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T23:09:59Z</updated>
+    <published>2015-08-06T23:09:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-06T23:09:59Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/.9LIF2_XFZ86.8eQonUbuA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQzNTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201508061306471961857" />
+  </entry>
+  <entry>
+    <title>NHL watching investigation involving Patrick Kane (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/nhl-watching-investigation-involving-patrick-kane-201524424--nhl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T22:17:26Z</updated>
+    <published>2015-08-06T22:17:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-06T22:17:26Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/FwE1S0RC9IhN7Vkp_VyEFA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-us/video/video.thepostgame.com/82b64f0f8ba66c973053500eaab4b253" />
+  </entry>
+  <entry>
+    <title>Wacha wins 13th, Cardinals beat Reds 3-0 to take series (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/wacha-wins-13th-cardinals-beat-reds-3-0-205128536--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T21:39:57Z</updated>
+    <published>2015-08-06T21:39:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-06T21:39:57Z</dc:date>
+    <media:content url="https://s1.yimg.com/bt/api/res/1.2/CGUtqClnMOheET4ObGx1.g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507312037742578913" />
+  </entry>
+  <entry>
     <title>Mets hold off furious Miami rally in 9th, win 6th straight (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/mets-hold-off-furious-miami-rally-9th-win-024527555--mlb.html" />
     <author>
@@ -1675,41 +1735,5 @@
     <summary type="html" />
     <dc:date>2015-07-08T05:14:18Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/nDLYtquaVUE0qQBhpJpBog--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507072158791326377" />
-  </entry>
-  <entry>
-    <title>PGA Grand Slam to move from Trump Course in Los Angeles (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/pga-grand-slam-move-trump-course-los-angeles-160615915--golf.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T21:23:10Z</updated>
-    <published>2015-07-07T21:23:10Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-07T21:23:10Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/JY7nJS81OnSdt.gkY7._hA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTE5NDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507071126411814731" />
-  </entry>
-  <entry>
-    <title>Sharapova subdues Vandeweghe to reach Wimbledon semifinals (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/djokovic-beats-anderson-5-reach-wimbledon-quarters-135855691--ten.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T16:25:52Z</updated>
-    <published>2015-07-07T16:25:52Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-07T16:25:52Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/0oiKmlohDl4q.oSJeipGxQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM4OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507071044386544595" />
-  </entry>
-  <entry>
-    <title>AP Source: Timberwolves give Kevin Garnett 2 more years (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-timberwolves-kevin-garnett-2-more-years-152510855--nba.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T15:30:27Z</updated>
-    <published>2015-07-07T15:30:27Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-07T15:30:27Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/TCfr6Tg6u9hvnPKr9GMo3g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507071030378144549" />
   </entry>
 </feed>

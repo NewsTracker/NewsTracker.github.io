@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple Music attracts more than 11 million trial members</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/08/06/22538206.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T22:49:26Z</updated>
+    <published>2015-08-06T22:49:26Z</published>
+    <summary type="html">&lt;p&gt;This combination of product images provided by Apple Inc. shows, from left, the "For You" section, the "Radio" section, and the "Connect" sections of the Apple Music app, displayed on an iPhone 6.&lt;/p&gt;</summary>
+    <dc:date>2015-08-06T22:49:26Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/08/06/1297733696778.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Apple says music service has more than 11m members</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&amp;amp;objectid=11493288&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T13:30:38Z</updated>
+    <published>2015-08-06T13:30:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-06T13:30:38Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201524/SCCZEN_AP150906071403_140x93.jpg" />
+  </entry>
+  <entry>
     <title>Apple Music has more than 11 million members</title>
     <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article30228861.html%23storylink=rss" />
     <author>

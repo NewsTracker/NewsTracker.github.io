@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google, Samsung to issue monthly Android fixes</title>
+    <link rel="alternate" href="http://www.cnbc.com/2015/08/07/google-samsung-to-issue-monthly-android-security-fixes.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-07T11:05:00Z</updated>
+    <published>2015-08-07T11:05:00Z</published>
+    <summary type="html">&lt;p&gt;Previously, Google would develop a patch and distribute it to its own Nexus phones after the discovery of security flaws.&lt;/p&gt;&lt;p&gt;Google made its roughly weekly security scans of Russian phones more frequent and was able to reduce the problems to close to the global norm.&lt;/p&gt;&lt;p&gt;He added that only about one in 200 Android phones Google can peer into have any potentially harmful applications installed at any point.&lt;/p&gt;</summary>
+    <dc:date>2015-08-07T11:05:00Z</dc:date>
+    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/01/12/102330052-168808561.530x298.jpg?v=1421079643" />
+  </entry>
+  <entry>
+    <title>Fin24.com | Google, Samsung to issue monthly Android security fixes</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Google-Samsung-to-issue-monthly-Android-security-fixes-20150807" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-07T10:13:00Z</updated>
+    <published>2015-08-07T10:13:00Z</published>
+    <summary type="html">&lt;p&gt;Ludwig also said Google has made other security changes.&lt;/p&gt;</summary>
+    <dc:date>2015-08-07T10:13:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Google's ultra-fast Internet service expands to San Antonio</title>
     <link rel="alternate" href="http://www.seattlepi.com/news/texas/article/Google-s-ultra-fast-Internet-service-expands-to-6426920.php" />
     <author>
@@ -693,28 +716,5 @@
     <published>2015-07-14T13:10:19Z</published>
     <summary type="html">&lt;p&gt;The BBC quoted a separate Google statement which said: "We understand that geographic names can raise deep emotions which is why we worked quickly once this was brought to our attention."&lt;/p&gt;</summary>
     <dc:date>2015-07-14T13:10:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google tests driverless cars in Austin _ with safety drivers</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article26650732.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T16:03:26Z</updated>
-    <published>2015-07-07T16:03:26Z</published>
-    <summary type="html">&lt;p&gt;Google Inc. has selected Texas as the latest testing site for its self-driving car project, the company announced Tuesday.&lt;/p&gt;&lt;p&gt;The driverless car will operate a few square miles north and northeast of downtown Austin, Google said in a statement.&lt;/p&gt;&lt;p&gt;Google did not say exactly where the driverless cars would be tested.&lt;/p&gt;&lt;p&gt;The company is also testing several dozen self-driving cars on streets in Mountain View, California, where Google is based.&lt;/p&gt;</summary>
-    <dc:date>2015-07-07T16:03:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google testing self-driving prototype cars in Texas</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/07/google-testing-self-driving-prototype-cars-in-texas" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T14:35:46Z</updated>
-    <published>2015-07-07T14:35:46Z</published>
-    <summary type="html">&lt;p&gt;Google has been testing self-driving prototypes since 2009, mainly around its Silicon Valley headquarters in Mountain View, Calif.&lt;/p&gt;&lt;p&gt;Google and other automotive manufacturers and suppliers have said the technology to build self-driving cars should be ready by 2020.&lt;/p&gt;&lt;p&gt;Google executives have said the company does not want to build its own self-driving cars, but would prefer to find a development and production partner.&lt;/p&gt;&lt;p&gt;The Google self-driving cars have humans on board who can assume manual control of the vehicles if necessary.&lt;/p&gt;</summary>
-    <dc:date>2015-07-07T14:35:46Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297721358257_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
 </feed>

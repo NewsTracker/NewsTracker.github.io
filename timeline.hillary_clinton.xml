@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kim and Kanye endorse Hillary Clinton with selfie</title>
+    <link rel="alternate" href="http://pagesix.com/2015/08/07/kim-and-kanye-endorse-hillary-clinton-with-selfie/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-07T13:34:03Z</updated>
+    <published>2015-08-07T13:34:03Z</published>
+    <summary type="html">&lt;p&gt;An Honor to meet you Hillary Clinton!&lt;/p&gt;</summary>
+    <dc:date>2015-08-07T13:34:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kim Kardashian scores a selfie with Hillary Clinton</title>
+    <link rel="alternate" href="http://www.foxnews.com/entertainment/2015/08/07/kim-kardashian-snaps-selfie-with-hillary-clinton/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fentertainment+%28Internal+-+Entertainment+-+Mixed%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-07T11:45:00Z</updated>
+    <published>2015-08-07T11:45:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-07T11:45:00Z</dc:date>
+  </entry>
+  <entry>
     <title>FBI looking into the security of Hillary Clinton’s private email setup</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/mobile/m-top-stories/article30016806.html%23storylink=rss" />
     <author>
@@ -537,28 +559,5 @@
     <summary type="html" />
     <dc:date>2015-07-08T14:10:15Z</dc:date>
     <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/140612112132-hillary-clinton-natural-topics.jpg" />
-  </entry>
-  <entry>
-    <title>Voters have trust issues with Hillary Clinton? She blames the right</title>
-    <link rel="alternate" href="http://www.latimes.com/nation/la-na-hillary-clinton-interview-20150707-story.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T23:23:00Z</updated>
-    <published>2015-07-07T23:23:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-07T23:23:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Jeb Bush and Hillary Clinton support bankruptcy rights for Puerto Rico</title>
-    <link rel="alternate" href="http://money.cnn.com/2015/07/07/investing/puerto-rico-chapter-9-bankruptcy/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fmoney_latest+%28CNNMoney%3A+Latest+News%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-07T22:35:58Z</updated>
-    <published>2015-07-07T22:35:58Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-07T22:35:58Z</dc:date>
-    <media:content url="http://i2.cdn.turner.com/money/dam/assets/150701110444-puerto-rico-economy-debt-00013204-1024x576.jpg" />
   </entry>
 </feed>
