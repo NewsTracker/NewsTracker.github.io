@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Blatter prankster charged by police after FIFA complaint</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/22/blatter-prankster-charged-police-after-fifa-complaint" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T19:02:03Z</updated>
+    <published>2015-07-21T19:02:03Z</published>
+    <summary type="html">&lt;p&gt;Lee Nelson, real name Simon Brodkin, had been taken away by police from FIFA headquarters after Blatter's security had escorted him out of the press conference room where he carried out the stunt on Monday.&lt;/p&gt;&lt;p&gt;The spokesman added that FIFA had made a complaint to the police about the incident.&lt;/p&gt;&lt;p&gt;FIFA were not immediately available for comment.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T19:02:03Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-21T182414Z_1_LYNXNPEB6K0WL_RTROPTP_2_SOCCER-FIFA-ELECTION.JPG?itok=AlbjJ6BS" />
+  </entry>
+  <entry>
     <title>AP Sources: Michel Platini will run for FIFA president</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/ap-sources-michel-platini-will-run-for-fifa-presid/nm7q4/" />
     <author>
@@ -684,18 +696,6 @@
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297727704273_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
   <entry>
-    <title>Blatter prankster charged by police after FIFA complaint</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/22/blatter-prankster-charged-police-after-fifa-complaint" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T19:02:03Z</updated>
-    <published>2015-07-21T19:02:03Z</published>
-    <summary type="html">&lt;p&gt;Lee Nelson, real name Simon Brodkin, had been taken away by police from FIFA headquarters after Blatter's security had escorted him out of the press conference room where he carried out the stunt on Monday.&lt;/p&gt;&lt;p&gt;The spokesman added that FIFA had made a complaint to the police about the incident.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T19:02:03Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-21T182414Z_1_LYNXNPEB6K0WL_RTROPTP_2_SOCCER-FIFA-ELECTION.JPG?itok=AlbjJ6BS" />
-  </entry>
-  <entry>
     <title>Women soccer stars to make debut on FIFA video game cover</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/07/21/us-women-rights-fifa-idUSKCN0PV21M20150721?feedType=RSS&amp;amp;feedName=sportsNews" />
     <author>
@@ -1368,201 +1368,5 @@
     <published>2015-07-10T19:56:40Z</published>
     <summary type="html">&lt;p&gt;The scandal put pressure on FIFA President Sepp Blatter, who said on June 2 he planned to resign.&lt;/p&gt;</summary>
     <dc:date>2015-07-10T19:56:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA official held in Switzerland agrees to be sent to U.S.</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/11/fifa-official-switzerland-agrees-us-extradition" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T16:02:39Z</updated>
-    <published>2015-07-10T16:02:39Z</published>
-    <summary type="html">&lt;p&gt;Their arrests sparked a scandal which has engulfed Zurich-based FIFA, world football's governing body, and put pressure on Sepp Blatter to step down as its president.&lt;/p&gt;&lt;p&gt;FIFA vice-presidents Jeffrey Webb of the Cayman Islands and Uruguayan Eugenio Figueredo were among those arrested.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T16:02:39Z</dc:date>
-  </entry>
-  <entry>
-    <title>Swiss say 1 of 7 FIFA officials agrees to extradition to US</title>
-    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/10/swiss-say-1-of-7-fifa-officials-agrees-to-extradition-to-us" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T14:33:46Z</updated>
-    <published>2015-07-10T14:33:46Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-10T14:33:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>Swiss say 1 of 7 FIFA officials agrees to extradition to US</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/sports/swiss-say-1-of-7-fifa-officials-agrees-to-extradit/nmwmM/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T14:33:46Z</updated>
-    <published>2015-07-10T14:33:46Z</published>
-    <summary type="html">&lt;p&gt;One of the seven FIFA officials arrested in Zurich as part of an American corruption probe has agreed to be extradited to the United States, Swiss authorities said Friday.&lt;/p&gt;&lt;p&gt;The seven men arrested in raids on a luxury hotel May 27 in Zurich, where FIFA has its headquarters, included current and former members of FIFA's executive committee.&lt;/p&gt;&lt;p&gt;The widening American investigation alleges bribery and racketeering worth more than $150 million involving high-ranking FIFA officials over a 24-year span.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T14:33:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>US top of FIFA rankings after winning Women's World Cup</title>
-    <link rel="alternate" href="http://www.miamiherald.com/sports/article26942647.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T12:29:04Z</updated>
-    <published>2015-07-10T12:29:04Z</published>
-    <summary type="html">&lt;p&gt;The United States has returned to the top of the FIFA women's rankings after winning the World Cup.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T12:29:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Lifting the lid on one of FIFA's big secrets: Executive pay</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article26940259.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T11:14:04Z</updated>
-    <published>2015-07-10T11:14:04Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this Tuesday, May 19, 2015 file photo, FIFA President Sepp Blatter attends a press conference in Jerusalem.&lt;/p&gt;&lt;p&gt;Like multi-national corporations, it publishes detailed annual financial accounts and is audited, however Blatter's salary remains a mystery.&lt;/p&gt;&lt;p&gt;Failing to publish the amounts paid to Blatter and other top executives vehicles the impression that FIFA must still have something to hide, when it should be setting an example for the rest of football to follow.&lt;/p&gt;&lt;p&gt;As FIFA slid toward what has now become a full-blown collapse of its reputation and credibility, one of Sepp Blatter's advisers suggested to the president of football's governing body that he should lift the lid on one of his most tightly guarded secrets.&lt;/p&gt;&lt;p&gt;Two years after Blatter rejected Pieth's advice, the exact extent of his salary and perks remain known only by him and a seeming tiny handful of perhaps no more than four others at FIFA headquarters.&lt;/p&gt;&lt;p&gt;That included Blatter and the 24 other members of his executive committee, plus 12 executives at FIFA headquarters.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T11:14:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Adidas chief: Platini the best choice to succeed Blatter</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/sports/article26934976.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T09:15:14Z</updated>
-    <published>2015-07-10T09:15:14Z</published>
-    <summary type="html">&lt;p&gt;The chief executive of Adidas, a major FIFA sponsor, believes UEFA President Michel Platini would be the best choice of successor to Sepp Blatter at the head of world football's governing body.&lt;/p&gt;&lt;p&gt;German football federation chief Wolfgang Niersbach would be "the ideal UEFA president" if Platini wins the FIFA leadership, Hainer said.&lt;/p&gt;&lt;p&gt;Former France captain Platini hasn't yet said whether he will look to succeed Blatter in the FIFA presidential election expected in a few months.&lt;/p&gt;&lt;p&gt;Hainer said that the events of recent months "have damaged everyone: football, the sponsors, but above all FIFA."&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T09:15:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA bans Chuck Blazer from soccer for life</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/09/fifa-bans-chuck-blazer-soccer-life" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T13:33:43Z</updated>
-    <published>2015-07-09T13:33:43Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-09T13:33:43Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-09T083142Z_1_LYNXNPEB680CU_RTROPTP_2_SOCCER-FIFA.JPG?itok=1htVgAxK" />
-  </entry>
-  <entry>
-    <title>FIFA slaps whistleblower Chuck Blazer with lifetime ban</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/7/9/blazer-fifa.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T12:30:00Z</updated>
-    <published>2015-07-09T12:30:00Z</published>
-    <summary type="html">&lt;p&gt;Blazer was on FIFA's executive committee, which awarded the 2018 and 2022 World Cups to Russia and Qatar respectively, a process which is under investigation by Swiss authorities.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T12:30:00Z</dc:date>
-    <media:content url="merica.aljazeera.com/content/ajam/external/2014/9/qatar-won-t-hosttheworldcupfifaofficial/_jcr_content/image.adapt.480.low.doha_092214.jpg" />
-  </entry>
-  <entry>
-    <title>FIFA bans ex-official Blazer for life from football</title>
-    <link rel="alternate" href="http://www.aljazeera.com/news/2015/07/fifa-bans-official-blazer-life-football-150709112257045.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T12:14:14Z</updated>
-    <published>2015-07-09T12:14:14Z</published>
-    <summary type="html">&lt;p&gt;Former FIFA executive committee member Chuck Blazer, a key figure in a US investigation into corruption by football officials, has been banned for life from football activities by the sport's governing body.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T12:14:14Z</dc:date>
-    <media:content url="ww.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/6/3/07edb4b99fbe4c99b625ee37b5537793_19.jpg" />
-  </entry>
-  <entry>
-    <title>FIFA expels Chuck Blazer for life for bribery, corruption</title>
-    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/09/fifa-expels-chuck-blazer-for-life-for-bribery-corruption" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T11:26:11Z</updated>
-    <published>2015-07-09T11:26:11Z</published>
-    <summary type="html">&lt;p&gt;FILE - In this May 29, 2011 file photo FIFA official Chuck Blazer leaves the FIFA headquarters in Zurich, Switzerland.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T11:26:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA head Blatter shifts blame to confederations in interview</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/09/fifa-head-blatter-shifts-blame-confederations-interview" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T11:20:21Z</updated>
-    <published>2015-07-09T11:20:21Z</published>
-    <summary type="html">&lt;p&gt;In a wide-ranging interview with the right-wing weekly Weltwoche, published on Thursday, Blatter maintained his view that FIFA had done nothing wrong and could not be held responsible for the actions of individuals from continental federations.&lt;/p&gt;&lt;p&gt;"There is no wangling under the direct influence of FIFA," Blatter said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T11:20:21Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-09T092234Z_1_LYNXNPEB680E6_RTROPTP_2_SOCCER-FIFA-BLATTER.JPG?itok=apMmVeWs" />
-  </entry>
-  <entry>
-    <title>Argentina top FIFA rankings for first time in seven years</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/09/argentina-top-fifa-rankings-first-time-seven-years" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T11:20:18Z</updated>
-    <published>2015-07-09T11:20:18Z</published>
-    <summary type="html">&lt;p&gt;LONDON (Reuters) - Argentina have moved to the top of the FIFA rankings for the first time in seven years despite being beaten by Chile in the Copa America final.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T11:20:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA expels Chuck Blazer for life for bribery, corruption</title>
-    <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/07/09/fifa-expels-chuck-blazer-for-life-for-bribery-corruption" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T09:10:38Z</updated>
-    <published>2015-07-09T09:10:38Z</published>
-    <summary type="html">&lt;p&gt;As it was announced Thursday, July 9, 2015 FIFA's ethics committee has expelled former executive committee member Blazer from football for bribery and other corruption.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T09:10:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>FIFA expels Chuck Blazer for life for bribery, corruption</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/fifa-expels-chuck-blazer-for-life-for-bribery-corr/nmtxk/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T09:10:38Z</updated>
-    <published>2015-07-09T09:10:38Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-09T09:10:38Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/09/3d/7a/03c99348f6a044bba06070dcb1e22a5f-78420107966f488f838036873409401c-0.jpg" />
-  </entry>
-  <entry>
-    <title>Fifa expels Chuck Blazer for life</title>
-    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/fifa-expels-chuck-blazer-for-life-31363730.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T08:41:08Z</updated>
-    <published>2015-07-09T08:41:08Z</published>
-    <summary type="html">&lt;p&gt;Blazer served on Fifa's executive panel for 16 years until 2013.&lt;/p&gt;&lt;p&gt;Fifa opened an ethics investigation against Blazer after the corrupt financial management of Concacaf was exposed in 2012.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T08:41:08Z</dc:date>
-    <media:content url="http://cdn3.belfasttelegraph.co.uk/news/world-news/article31363729.ece/5d9dd/ALTERNATES/h342/PANews%20BT_P-9cd2af5e-38a2-4593-bb60-1569d4974c6f_I1.jpg" />
-  </entry>
-  <entry>
-    <title>Former FIFA Official Banned From Soccer For Life</title>
-    <link rel="alternate" href="http://www.huffingtonpost.com/entry/chuck-blazer-banned_559e2e29e4b05b1d028fb71d?" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T08:29:15Z</updated>
-    <published>2015-07-09T08:29:15Z</published>
-    <summary type="html">&lt;p&gt;GENEVA (AP) - Chuck Blazer was banned for life by FIFA's ethics committee on Thursday for widespread corruption, finally ending the career of the longtime most senior American in world football.&lt;/p&gt;&lt;p&gt;"(Blazer) was a key player in schemes involving the offer, acceptance, payment and receipt of undisclosed and illegal payments, bribes and kickbacks as well as other money-making schemes," the FIFA ethics committee said in a statement.&lt;/p&gt;&lt;p&gt;The FIFA proceedings were suspended in 2013 due to Blazer's ill-health and while the U.S. federal case developed.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T08:29:15Z</dc:date>
-    <media:content url="http://img.huffingtonpost.com//asset/scaleFit_630_noupscale/559e2eb31700000903325e55.jpeg" />
-  </entry>
-  <entry>
-    <title>Disgraced Chuck Blazer given life ban from football by Fifa ethics committee</title>
-    <link rel="alternate" href="http://www.theguardian.com/football/2015/jul/09/chuck-blazer-lifetime-ban-football-fifa-ethics-committee" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T08:27:14Z</updated>
-    <published>2015-07-09T08:27:14Z</published>
-    <summary type="html">&lt;p&gt;In a statement, Fifa's ethics panel said Blazer had "committed many and various acts of misconduct continuously and repeatedly during his time as an official in different high-ranking and influential positions at Fifa and Concacaf.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T08:27:14Z</dc:date>
   </entry>
 </feed>

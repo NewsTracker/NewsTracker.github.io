@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FTC exploring Apple rules for streaming music rivals in App Store</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/ftc-exploring-apple-rules-streaming-031525278.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-11T03:15:25Z</updated>
+    <published>2015-07-11T03:15:25Z</published>
+    <summary type="html">&lt;p&gt;Apple recently launched a new music streaming service, Apple Music.&lt;/p&gt;&lt;p&gt;Apple takes a 30 percent cut of all in-app purchases for digital goods, such as music streaming subscriptions and games, sold on its platform.&lt;/p&gt;&lt;p&gt;A spokeswoman for Apple declined to comment.&lt;/p&gt;&lt;p&gt;Apple has long been a leader in digital music through its iTunes Store, but it has been a relatively late entrant to on-demand streaming.&lt;/p&gt;&lt;p&gt;Streaming services' chief grievances with Apple stem from the company's 30 percent cut.&lt;/p&gt;&lt;p&gt;Although Apple dominates the digital music business primarily through iTunes, its share of the global smartphone market is relatively small.&lt;/p&gt;</summary>
+    <dc:date>2015-07-11T03:15:25Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/k0uWYnnLEk1SX.BktVeDhA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE_original.jpg" />
+  </entry>
+  <entry>
     <title>Apple Music attracts more than 11 million trial members</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/08/06/22538206.html?cid=rsstechnology" />
     <author>
@@ -940,98 +952,5 @@
     <summary type="html" />
     <dc:date>2015-07-13T01:30:00Z</dc:date>
     <media:content url="http://resources0.news.com.au/images/2015/07/13/1227439/685152-848d9cae-28f2-11e5-b51a-609e8c108313.jpg" />
-  </entry>
-  <entry>
-    <title>FTC exploring Apple rules for streaming music rivals in App Store</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/ftc-exploring-apple-rules-streaming-031525278.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T03:15:25Z</updated>
-    <published>2015-07-11T03:15:25Z</published>
-    <summary type="html">&lt;p&gt;Apple recently launched a new music streaming service, Apple Music.&lt;/p&gt;&lt;p&gt;Apple takes a 30 percent cut of all in-app purchases for digital goods, such as music streaming subscriptions and games, sold on its platform.&lt;/p&gt;&lt;p&gt;A spokeswoman for Apple declined to comment.&lt;/p&gt;&lt;p&gt;Apple has long been a leader in digital music through its iTunes Store, but it has been a relatively late entrant to on-demand streaming.&lt;/p&gt;&lt;p&gt;Streaming services' chief grievances with Apple stem from the company's 30 percent cut.&lt;/p&gt;&lt;p&gt;Although Apple dominates the digital music business primarily through iTunes, its share of the global smartphone market is relatively small.&lt;/p&gt;</summary>
-    <dc:date>2015-07-11T03:15:25Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/k0uWYnnLEk1SX.BktVeDhA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE_original.jpg" />
-  </entry>
-  <entry>
-    <title>China fears propel Apple shares toward five-day losing streak</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/10/us-apple-stock-idUSKCN0PJ2MM20150710?feedType=RSS&amp;amp;feedName=technologyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T16:16:04Z</updated>
-    <published>2015-07-10T16:16:04Z</published>
-    <summary type="html">&lt;p&gt;Apple's stock was also within 1 percentage point of falling below its 200-day moving average, an indicator watched closely by traders, for the first time since April 2014.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T16:16:04Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150709&amp;amp;i=109493559&amp;amp;w=240&amp;amp;r=109493559-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Samsung moves up smartphone launch to take on Apple</title>
-    <link rel="alternate" href="http://www.cnbc.com/2015/07/10/samsung-seeks-slice-of-apples-pie-with-early-smartphone-launch.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T15:18:00Z</updated>
-    <published>2015-07-10T15:18:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-10T15:18:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>China fears propel Apple shares toward five-day losing streak</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/china-fears-propel-apple-shares-195746437.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T20:15:11Z</updated>
-    <published>2015-07-09T20:15:11Z</published>
-    <summary type="html">&lt;p&gt;Also rattling investors was a report this week by research firm Slice Intelligence that sales of the Apple Watch have dropped since its launch in April.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T20:15:11Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/oSZulcl2CDRPw8wIFCz.pg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-09T201511Z_2_LYNXNPEB68166_RTROPTP_3_APPLE-WATCH_original.jpg" />
-  </entry>
-  <entry>
-    <title>Apple Preparing Record Number of New iPhones</title>
-    <link rel="alternate" href="http://www.wsj.com/articles/apple-preparing-record-number-of-new-iphones-1436367371?mod=rss_Technology" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T16:50:36Z</updated>
-    <published>2015-07-09T16:50:36Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-09T16:50:36Z</dc:date>
-  </entry>
-  <entry>
-    <title>Spotify: will it be able to keep its users off Apple Music?</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/technology/apple/11729177/Spotify-will-it-be-able-to-keep-its-users-off-Apple-Music.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T15:56:50Z</updated>
-    <published>2015-07-09T15:56:50Z</published>
-    <summary type="html">&lt;p&gt;Spotify: will it be able to keep its users off Apple Music?&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T15:56:50Z</dc:date>
-    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03334/apple-m_3334555g.jpg" />
-  </entry>
-  <entry>
-    <title>A red flag for Apple: Sales of watches may have dipped</title>
-    <link rel="alternate" href="http://money.cnn.com/2015/07/08/technology/apple-watch-demand-decline/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fmoney_latest+%28CNNMoney%3A+Latest+News%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T22:08:18Z</updated>
-    <published>2015-07-08T22:08:18Z</published>
-    <summary type="html">&lt;p&gt;Apple declined to comment.&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T22:08:18Z</dc:date>
-    <media:content url="http://i2.cdn.turner.com/money/dam/assets/150708123614-apple-watch-sales-decline-780x439.jpg" />
-  </entry>
-  <entry>
-    <title>Apple Granted New Trial Over Damages in iTunes Patent Case</title>
-    <link rel="alternate" href="http://blogs.wsj.com/digits/2015/07/08/apple-granted-new-trial-over-damages-in-itunes-patent-case/?mod=rss_Technology" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T20:26:51Z</updated>
-    <published>2015-07-08T20:26:51Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-08T20:26:51Z</dc:date>
   </entry>
 </feed>

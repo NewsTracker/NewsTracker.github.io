@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Deliberations resume in Colorado theater shooting trial</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article29845882.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T15:29:11Z</updated>
+    <published>2015-08-03T15:29:11Z</published>
+    <summary type="html">&lt;p&gt;The jury in the Colorado theater shooting trial resumed deliberating Monday whether to keep the death penalty on the table for gunman James Holmes.&lt;/p&gt;&lt;p&gt;The same jury rejected Holmes' insanity defense and convicted him of 165 counts of murder, attempted murder and weapons charges last month.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T15:29:11Z</dc:date>
+  </entry>
+  <entry>
     <title>James Holmes sentenced to life in prison for theater attack</title>
     <link rel="alternate" href="http://www.nydailynews.com/news/national/james-holmes-sentenced-life-prison-theater-attack-article-1.2318522" />
     <author>
@@ -125,17 +136,6 @@
     <published>2015-08-03T15:30:44Z</published>
     <summary type="html">&lt;p&gt;Jurors must decide whether there are any reasons, such as Holmes' mental illness and his trouble-free youth, that mean he should be sentenced to life in prison without parole instead of to death.&lt;/p&gt;&lt;p&gt;If jurors unanimously agree that such factors outweigh the heinousness of the July 2012 attack that killed 12 people and injured 70 others, Holmes would be sentenced to a life term.&lt;/p&gt;</summary>
     <dc:date>2015-08-03T15:30:44Z</dc:date>
-  </entry>
-  <entry>
-    <title>Deliberations resume in Colorado theater shooting trial</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article29845882.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-03T15:29:11Z</updated>
-    <published>2015-08-03T15:29:11Z</published>
-    <summary type="html">&lt;p&gt;The jury in the Colorado theater shooting trial resumed deliberating Monday whether to keep the death penalty on the table for gunman James Holmes.&lt;/p&gt;</summary>
-    <dc:date>2015-08-03T15:29:11Z</dc:date>
   </entry>
   <entry>
     <title>Batman shooter James Holmes' father narrates a parent's worst nightmare</title>
@@ -551,28 +551,5 @@
     <summary type="html">&lt;p&gt;Holmes has pleaded not guilty by reason of insanity.&lt;/p&gt;</summary>
     <dc:date>2015-07-10T19:33:07Z</dc:date>
     <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/150620191407-holmes-prosecution-closes-with-victim-testimony-cabrera-pkg-00011610-large-169.jpg" />
-  </entry>
-  <entry>
-    <title>James Holmes says he will not testify</title>
-    <link rel="alternate" href="http://www.usatoday.com/videos/news/nation/2015/07/10/29953091/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatodaycomnation-topstories" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T12:37:09Z</updated>
-    <published>2015-07-10T12:37:09Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-10T12:37:09Z</dc:date>
-    <media:content url="http://www.gannett-cdn.com/-mm-/ba3dc27cd316dc0cedec920d66fbc6bf9ae97774/r=x60&amp;amp;amp;c=60x60/http/videos.usatoday.net/Brightcove2/29906170001/2015/07/29906170001_4347935979001_thumb-Mobilenewslook860644.jpg" />
-  </entry>
-  <entry>
-    <title>Aurora shooting defense to wrap; Holmes declined to testify</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/crime/aurora-shooting-defense-wrap-holmes-declined-testify-article-1.2287710?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+NydnRss+%28Top+Stories+-+NY+Daily+News%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T11:21:49Z</updated>
-    <published>2015-07-10T11:21:49Z</published>
-    <summary type="html">&lt;p&gt;On Thursday, Holmes told Judge Carlos A. Samour Jr. he will not testify in his own defense.&lt;/p&gt;&lt;p&gt;Had Holmes chosen to testify, prosecutors would have been able to cross-examine him.&lt;/p&gt;&lt;p&gt;Samour determined that Holmes' decision not to testify was made "voluntarily and intelligently."&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T11:21:49Z</dc:date>
   </entry>
 </feed>

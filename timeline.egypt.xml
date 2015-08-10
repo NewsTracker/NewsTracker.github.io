@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's disaffected youth increasingly calling for violence</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-08-04-ML--Egypt-Extremism/id-8965c931bab9418d81401d22527f4eb5" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-04T08:05:25Z</updated>
+    <published>2015-08-04T08:05:25Z</published>
+    <summary type="html">&lt;p&gt;In this Thursday, June 16, 2015 photo, Abdelrahman, a former member of the Muslim Brotherhood, poses for a portrait at his friend's apartment in Cairo, Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-08-04T08:05:25Z</dc:date>
+  </entry>
+  <entry>
     <title>Deadline passes for Croat held by IS militants in Egypt</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Deadline-passes-for-Croat-held-by-IS-militants-in-Egypt/articleshow/48399306.cms" />
     <author>
@@ -115,17 +126,6 @@
     <published>2015-08-04T08:06:53Z</published>
     <summary type="html">&lt;p&gt;The 20-year-old law student says he has had enough of fruitless protests in support of Egypt's deposed Islamist president, two years of a losing struggle with police.&lt;/p&gt;&lt;p&gt;At a time when militants are carrying out more sophisticated attacks in Egypt, the apparent spread of radicalism among youths in Cairo is a worrying sign for Egyptian authorities, who say they are working to quell violence.&lt;/p&gt;</summary>
     <dc:date>2015-08-04T08:06:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt's disaffected youth increasingly calling for violence</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-08-04-ML--Egypt-Extremism/id-8965c931bab9418d81401d22527f4eb5" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-04T08:05:25Z</updated>
-    <published>2015-08-04T08:05:25Z</published>
-    <summary type="html" />
-    <dc:date>2015-08-04T08:05:25Z</dc:date>
   </entry>
   <entry>
     <title>Egypt's disaffected youth increasingly calling for violence</title>
@@ -555,38 +555,5 @@
     <published>2015-07-11T12:40:00Z</published>
     <summary type="html">&lt;p&gt;People stand outside the Italian consulate following a blast in Cairo, Egypt, Saturday, July 11, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-07-11T12:40:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Omar Sharif, of ‘Doctor Zhivago,’ ‘Lawrence of Arabia,’ dies at 83</title>
-    <link rel="alternate" href="http://nypost.com/2015/07/10/omar-sharif-of-doctor-zhivago-lawrence-of-arabia-dies-at-83/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T14:21:14Z</updated>
-    <published>2015-07-10T14:21:14Z</published>
-    <summary type="html">&lt;p&gt;His fame only increased when he married Egypt's movie queen, Faten Hamama, in 1955.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T14:21:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Omar Sharif, of &amp;quot;Doctor Zhivago,&amp;quot; &amp;quot;Lawrence of Arabia,&amp;quot; dies</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11479204&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T14:20:21Z</updated>
-    <published>2015-07-10T14:20:21Z</published>
-    <summary type="html">&lt;p&gt;Sharif was Egypt's biggest box-office star when David Lean cast him in 1962's "Lawrence of Arabia," but he was a virtual unknown elsewhere.&lt;/p&gt;&lt;p&gt;The 1968 film was banned in his native Egypt because he was cast as a Jew.&lt;/p&gt;&lt;p&gt;Born Michael Shalhoub in Egypt's Mediterranean coastal city of Alexandria, Sharif was the son of Christian Syrian-Lebanese parents.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T14:20:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Roadside bomb injures 20 policemen in the restive north of Egypt's Sinai</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/09/roadside-bomb-injures-20-policemen-in-restive-north-egypt-sinai/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T10:52:38Z</updated>
-    <published>2015-07-09T10:52:38Z</published>
-    <summary type="html">&lt;p&gt;AL-ARISH, Egypt - Security officials say 20 policemen were injured when their bus and armored personnel carrier were hit by a roadside bomb in the turbulent north of Egypt's Sinai Peninsula.&lt;/p&gt;</summary>
-    <dc:date>2015-07-09T10:52:38Z</dc:date>
   </entry>
 </feed>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bombing shows Turkey a vulnerable target for Islamic State</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/bombing-shows-turkey-a-vulnerable-target-for-islam/nm4KR/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T18:07:00Z</updated>
+    <published>2015-07-21T18:07:00Z</published>
+    <summary type="html">&lt;p&gt;Officials have raised concerns that a deadly bombing in southeastern Turkey is part of a campaign of retaliation by the Islamic State group for a recent crackdown on its operations in the country.&lt;/p&gt;&lt;p&gt;The country shares a 1,250-kilometer (775-mile) border with Iraq and Syria, putting it nearby to strongholds of the self-proclaimed Islamic State.&lt;/p&gt;&lt;p&gt;He vowed to go after those behind the bombing and made clear he believes it was the Islamic State.&lt;/p&gt;&lt;p&gt;Some analysts say that because of Turkey's aggressive policies against Syrian President Bashar Assad in that country's civil war, it has allowed militants of many stripes to operate in Turkey, providing cover to the Islamic State group.&lt;/p&gt;&lt;p&gt;Social media affiliated with the Islamic State group have been conspicuously silent.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T18:07:00Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/21/67/19/dbc26e0ed08c4b2381fac37d6302d5af-5a14a0c6af184358ad3499564f5499d2-0.jpg" />
+  </entry>
+  <entry>
     <title>Islamic State contagion growing in Indonesia</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/world/allard-is-contagion-growing-in-indon--seo-20150804-gir4vk" />
     <author>
@@ -902,18 +914,6 @@
     <dc:date>2015-07-22T00:15:19Z</dc:date>
   </entry>
   <entry>
-    <title>Bombing shows Turkey a vulnerable target for Islamic State</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/bombing-shows-turkey-a-vulnerable-target-for-islam/nm4KR/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T18:07:00Z</updated>
-    <published>2015-07-21T18:07:00Z</published>
-    <summary type="html">&lt;p&gt;Officials have raised concerns that a deadly bombing in southeastern Turkey is part of a campaign of retaliation by the Islamic State group for a recent crackdown on its operations in the country.&lt;/p&gt;&lt;p&gt;The country shares a 1,250-kilometer (775-mile) border with Iraq and Syria, putting it nearby to strongholds of the self-proclaimed Islamic State.&lt;/p&gt;&lt;p&gt;He vowed to go after those behind the bombing and made clear he believes it was the Islamic State.&lt;/p&gt;&lt;p&gt;Some analysts say that because of Turkey's aggressive policies against Syrian President Bashar Assad in that country's civil war, it has allowed militants of many stripes to operate in Turkey, providing cover to the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T18:07:00Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/21/67/19/dbc26e0ed08c4b2381fac37d6302d5af-5a14a0c6af184358ad3499564f5499d2-0.jpg" />
-  </entry>
-  <entry>
     <title>UK officials charge 2 men with trying to join Islamic State</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/UK-officials-charge-2-men-with-trying-to-join-6396679.php" />
     <author>
@@ -1645,38 +1645,5 @@
     <published>2015-07-11T11:23:14Z</published>
     <summary type="html">&lt;p&gt;KABUL, Afghanistan - Afghanistan's intelligence service says the highest-ranking leader among local militants loyal to the Islamic State group was killed in an airstrike in eastern Afghanistan.&lt;/p&gt;</summary>
     <dc:date>2015-07-11T11:23:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Turkey detains 21 on suspicion of belonging to Islamic State</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/turkey-detains-21-on-suspicion-of-belonging-to-islamic-state/article25410518/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T13:54:12Z</updated>
-    <published>2015-07-10T13:54:12Z</published>
-    <summary type="html">&lt;p&gt;Turkish police launched raids across the country on Friday, detaining 21 people, most suspected of belonging to Islamic State, the state-run Anadolu news agency reported.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T13:54:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>Islamic State leader in Afghanistan killed in drone strike</title>
-    <link rel="alternate" href="http://www.upi.com/Top_News/World-News/2015/07/09/Islamic-State-leader-in-Afghanistan-killed-in-drone-strike/7121436438879/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-09T11:54:13Z</updated>
-    <published>2015-07-09T11:54:13Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-09T11:54:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>FBI chief warns encryption emboldens would-be Islamic State attackers</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/08/us-usa-fbi-islamic-state-idUSKCN0PI24J20150708?feedType=RSS&amp;amp;feedName=technologyNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-08T20:13:44Z</updated>
-    <published>2015-07-08T20:13:44Z</published>
-    <summary type="html">&lt;p&gt;Comey told a U.S. Senate Judiciary Committee hearing that Islamic State, also known by the acronym ISIL, is imploring supporters through Twitter to carry out attacks.&lt;/p&gt;&lt;p&gt;Comey later told the Senate Select Committee on Intelligence that the FBI now estimated more than 200 Americans have traveled or attempted to travel to Syria to fight for Islamic militants.&lt;/p&gt;</summary>
-    <dc:date>2015-07-08T20:13:44Z</dc:date>
   </entry>
 </feed>
