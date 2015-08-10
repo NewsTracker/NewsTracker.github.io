@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>How do you laugh on Facebook?</title>
+    <link rel="alternate" href="http://www.usatoday.com/story/tech/2015/08/10/how-do-you-laugh-facebook/31413319/?utm_source=feedblitz&amp;amp;utm_medium=FeedBlitzRss&amp;amp;utm_campaign=usatoday-techtopstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T16:52:50Z</updated>
+    <published>2015-08-10T16:52:50Z</published>
+    <summary type="html">&lt;p&gt;How do you laugh on Facebook?&lt;/p&gt;</summary>
+    <dc:date>2015-08-10T16:52:50Z</dc:date>
+  </entry>
+  <entry>
+    <title>The last 'lol': Emojis and 'haha' take over e-laughter, Facebook says</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/the-last-lol-emojis-and-haha-take-over-e-laughter-facebook-says-1.2510014" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T16:35:00Z</updated>
+    <published>2015-08-10T16:35:00Z</published>
+    <summary type="html">&lt;p&gt;However, when Facebook researchers drilled down further, they found that the median age of emoji users is the youngest while the median "lol" user is the oldest, although in all cases that median age is younger than 30.&lt;/p&gt;</summary>
+    <dc:date>2015-08-10T16:35:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>'Haha' Has Killed 'LOL,' Says Facebook</title>
+    <link rel="alternate" href="https://www.yahoo.com/tech/haha-has-killed-lol-says-facebook-126337155139.html?src=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T13:19:39Z</updated>
+    <published>2015-08-10T13:19:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-10T13:19:39Z</dc:date>
+  </entry>
+  <entry>
     <title>Thai courts hand down record sentences for royal Facebook insults</title>
     <link rel="alternate" href="http://www.smh.com.au/world/thai-courts-hand-down-record-sentences-for-royal-facebook-insults-20150808-giuj64.html" />
     <author>
@@ -493,17 +526,5 @@
     <summary type="html">&lt;p&gt;A Facebook page called Savvy Women Abu Dhabi said that Ms Magi had lived in Abu Dhabi since early 2012 and she is there to teach Emirate women art, illustration and graphic design.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T11:51:52Z</dc:date>
     <media:content url="ww.smh.com.au/content/dam/images/g/i/b/h/a/m/image.related.articleLeadwide.620x349.gibh4s.png/1436788708971.jpg" />
-  </entry>
-  <entry>
-    <title>Facebook looking to add music videos</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/10/facebook-looking-to-add-music-videos" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T18:52:48Z</updated>
-    <published>2015-07-10T18:52:48Z</published>
-    <summary type="html">&lt;p&gt;Labels would be able to choose the videos in question, and Facebook share any resulting advertising revenue with them.&lt;/p&gt;&lt;p&gt;Music videos could help Facebook to grow its video views, and in turn steal more eyeballs from YouTube.&lt;/p&gt;&lt;p&gt;Facebook didn't immediately respond to a request for comment on its music video plans.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T18:52:48Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297499872614_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
 </feed>

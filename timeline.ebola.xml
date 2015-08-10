@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>China pledges continued support for Ebola-hit Africa nations</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/China-pledges-continued-support-for-Ebola-hit-6434945.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T12:59:35Z</updated>
+    <published>2015-08-10T12:59:35Z</published>
+    <summary type="html">&lt;p&gt;MONROVIA, Liberia (AP) - China's foreign minister has pledged continued support to the three West African countries hardest hit by the Ebola outbreak that has killed more than 11,200 people.&lt;/p&gt;&lt;p&gt;China was one of the first to fly in badly needed medical gear when Ebola spread last year.&lt;/p&gt;</summary>
+    <dc:date>2015-08-10T12:59:35Z</dc:date>
+  </entry>
+  <entry>
     <title>Sierra Leone Ebola head says country has 4 cases</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/sierra-leone-ebola-head-says-country-has-4-cases/nnDyh/" />
     <author>
@@ -252,17 +263,5 @@
     <published>2015-07-13T11:29:39Z</published>
     <summary type="html">&lt;p&gt;The worst recorded outbreak of Ebola has already killed more than 11,200 people across West Africa.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T11:29:39Z</dc:date>
-  </entry>
-  <entry>
-    <title>Tests show Ebola in Liberia linked to virus found months ago</title>
-    <link rel="alternate" href="http://www.chron.com/news/medical/article/Tests-show-Ebola-in-Liberia-linked-to-virus-found-6377690.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T20:02:25Z</updated>
-    <published>2015-07-10T20:02:25Z</published>
-    <summary type="html">&lt;p&gt;Five new cases of Ebola have been confirmed in the town of Nedowein, including the teen who died June 28.&lt;/p&gt;&lt;p&gt;The virus spreads through direct contact with an Ebola patient's blood or other body fluids like urine, saliva, semen and sweat.&lt;/p&gt;</summary>
-    <dc:date>2015-07-10T20:02:25Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/47/55/8289110/7/920x920.jpg" />
   </entry>
 </feed>
