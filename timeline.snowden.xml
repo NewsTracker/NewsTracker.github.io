@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>NewsTracker: snowden</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.snowden.xml" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Edward Snowden pardon petition rejected by US</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/edward-snowden-pardon-petition-rejected-by-us-20150729-gimpm4.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-29T01:18:41Z</updated>
+    <published>2015-07-29T01:18:41Z</published>
+    <summary type="html">&lt;p&gt;In response to an online petition asking for a pardon for Edward Snowden, the former National Security Agency contractor, a White House spokesman said on Tuesday that Mr Snowden should return to the United States and face justice.&lt;/p&gt;&lt;p&gt;The petition said Mr Snowden was "a national hero and should be immediately issued a full, free and absolute pardon".&lt;/p&gt;</summary>
+    <dc:date>2015-07-29T01:18:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>Pardon Snowden? Nah, White House Says in Petition Response</title>
+    <link rel="alternate" href="http://www.usnews.com/news/articles/2015/07/28/pardon-snowden-nah-white-house-says-in-petition-response" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T15:28:10Z</updated>
+    <published>2015-07-28T15:28:10Z</published>
+    <summary type="html">&lt;p&gt;Pardon Snowden?&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T15:28:10Z</dc:date>
+    <media:content url="http://www.usnews.com/dims4/USNEWS/bc282b4/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F3d%2F45%2F8736dbaf417fa9d0bfd91a552638%2F150728-editorial.jpg" />
+  </entry>
+  <entry>
+    <title>White House responds to Snowden petition</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/07/28/politics/snowden-face-consequences/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_allpolitics+%28RSS%3A+CNN+-+Politics%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T15:25:31Z</updated>
+    <published>2015-07-28T15:25:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-28T15:25:31Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/130609164540-edward-snowden-guardian-topics.jpg" />
+  </entry>
+  <entry>
+    <title>White House: Snowden should face his consequences</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/07/28/politics/snowden-face-consequences/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T15:06:50Z</updated>
+    <published>2015-07-28T15:06:50Z</published>
+    <summary type="html">&lt;p&gt;"Mr. Snowden's dangerous decision to steal and disclose classified information had severe consequences for the security of our country and the people who work day in and day out to protect it," she said.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T15:06:50Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/130609164540-edward-snowden-guardian-topics.jpg" />
+  </entry>
+  <entry>
+    <title>NSA leaker Edward Snowden seeks return to US, on his terms</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nsa-leaker-edward-snowden-seeks-return-to-us-on-his-terms-20150723-gijdil.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T13:57:36Z</updated>
+    <published>2015-07-23T13:57:36Z</published>
+    <summary type="html">&lt;p&gt;Mr Snowden's release of classified files he took from his National Security Agency contractor's job blew the lid off programs long said to be aimed at catching terrorists and keeping Americans safe.&lt;/p&gt;&lt;p&gt;The journalists who were the conduits of Mr Snowden's disclosures have been bestowed with their profession's highest honors, as has director Laura Poitras with an Academy Award for her documentary on the fugitive, CitizenFour.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T13:57:36Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/j/d/j/k/image.related.articleLeadwide.620x349.gijdil.png/1437659847407.jpg" />
+  </entry>
+  <entry>
+    <title>NSA leaker Edward Snowden seeks return to US, on his terms</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/nsa-leaker-edward-snowden-seeks-return-to-us-on-his-terms-20150723-gijdil.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T13:57:36Z</updated>
+    <published>2015-07-23T13:57:36Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-23T13:57:36Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/j/d/j/k/image.related.articleLeadwide.620x349.gijdil.png/1437659847407.jpg" />
+  </entry>
+  <entry>
+    <title>NSA leaker Edward Snowden seeks return to US, on his terms</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/nsa-leaker-edward-snowden-seeks-return-to-us-on-his-terms-20150723-gijdil.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T12:45:10Z</updated>
+    <published>2015-07-23T12:45:10Z</published>
+    <summary type="html">&lt;p&gt;Whistleblower Edward Snowden remains in hiding two years after the revelations.&lt;/p&gt;&lt;p&gt;But Mr Snowden has gained little more from his revolutionising disclosures beyond the sense of accomplishment he is said to feel, according to the few people in and outside Russia with whom he has occasional contact.&lt;/p&gt;&lt;p&gt;"Edward loves America and he would definitely like to return home," Anatoly Kucherena, Mr Snowden's Moscow lawyer, said in an interview at his ornate central Moscow office.&lt;/p&gt;&lt;p&gt;Sergei Markov, an ardent nationalist and Kremlin advisor on diplomacy and international affairs, said Mr Snowden was in need of Russia's protection because "he can compromise thousands of intelligence and military officials".&lt;/p&gt;&lt;p&gt;Mr Goldfarb points to Mr Snowden's claims - and NSA officials' denials - that he attempted to take his concern about surveillance excesses to higher-ups at the agency, who turned a deaf ear.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T12:45:10Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/j/d/j/k/image.related.articleLeadwide.620x349.gijdil.png/1437655479169.jpg" />
+  </entry>
+  <entry>
+    <title>German spy chief sees reason to thank Snowden</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/21/german-officials-to-ask-us-for-clarity-on-latest-spy-claims" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T16:45:14Z</updated>
+    <published>2015-07-21T16:45:14Z</published>
+    <summary type="html">&lt;p&gt;BERLIN (AP) - Germany's domestic intelligence chief said Tuesday that the revelations by Edward Snowden have had at least one positive effect, by raising awareness about the importance of counter-espionage.&lt;/p&gt;&lt;p&gt;Although the reports didn't explicitly cite documents leaked to the media by Snowden, they came amid a flurry of similar claims about alleged U.S. surveillance in Germany that were linked to the former NSA contractor.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T16:45:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>German spy chief sees reason to thank Snowden</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/german-officials-to-ask-us-for-clarity-on-latest-s/nm38p/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-21T16:45:14Z</updated>
+    <published>2015-07-21T16:45:14Z</published>
+    <summary type="html">&lt;p&gt;"So maybe one can be grateful to Snowden that he has put a spotlight on the issue of counter-espionage in Germany," dpa quoted Maassen as saying.&lt;/p&gt;</summary>
+    <dc:date>2015-07-21T16:45:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Snowden documentary filmmaker sues US over years of harassment</title>
+    <link rel="alternate" href="http://rt.com/usa/273697-poitras-lawsuit-us-govt-harassment/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=RSS" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T01:13:50Z</updated>
+    <published>2015-07-15T01:13:50Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T01:13:50Z</dc:date>
+    <media:content url="http://cdn.rt.com/files/news/42/d2/10/00/poitras-harassed-by-us-govt.si.jpg" />
+  </entry>
+</feed>

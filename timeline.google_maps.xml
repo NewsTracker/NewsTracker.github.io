@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>NewsTracker: google maps</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.google_maps.xml" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Been there, done that - it's all on Google Maps app</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11485919&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T17:00:06Z</updated>
+    <published>2015-07-23T17:00:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-23T17:00:06Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201530/GettyImages-158329781_620x310.jpg" />
+  </entry>
+  <entry>
+    <title>Google's 'Your Timeline' maps feature tracks all your past locations</title>
+    <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/googles-your-timeline-maps-feature-tracks-all-your-past-locations-20150723-giijlo.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T03:15:48Z</updated>
+    <published>2015-07-23T03:15:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-23T03:15:48Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/i/n/2/x/image.related.articleLeadwide.620x349.giijlo.png/1437621305782.jpg" />
+  </entry>
+  <entry>
+    <title>Google Maps Now Shows You Everywhere You've Been</title>
+    <link rel="alternate" href="https://www.yahoo.com/tech/s/google-maps-now-shows-everywhere-175301996.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T20:41:32Z</updated>
+    <published>2015-07-22T20:41:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-22T20:41:32Z</dc:date>
+    <media:content url="https://s.yimg.com/lo/api/res/1.2/Cya11DxUmPXwn2wVArHmUw--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/homerun/cnet.cbs.com/aac9b6b3781abac2064ae4c6d5f19cd0" />
+  </entry>
+  <entry>
+    <title>Google drops Chinese name from Maps after South China Sea controversy</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/asia/china/11738744/Google-drops-Chinese-name-from-Maps-after-South-China-Sea-controversy.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-14T13:03:55Z</updated>
+    <published>2015-07-14T13:03:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-14T13:03:55Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03375/Google_Maps_Scarbo_3375044b.jpg" />
+  </entry>
+</feed>

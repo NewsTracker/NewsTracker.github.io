@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NewsTracker: courtney barnett</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.courtney_barnett.xml" />
+  <subtitle>This is a news tracking demo</subtitle>
+</feed>
