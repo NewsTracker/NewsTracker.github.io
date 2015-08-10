@@ -4,28 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Deliberations resume in Colorado theater shooting trial</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article29845882.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-03T15:29:11Z</updated>
-    <published>2015-08-03T15:29:11Z</published>
-    <summary type="html">&lt;p&gt;The jury in the Colorado theater shooting trial resumed deliberating Monday whether to keep the death penalty on the table for gunman James Holmes.&lt;/p&gt;&lt;p&gt;The same jury rejected Holmes' insanity defense and convicted him of 165 counts of murder, attempted murder and weapons charges last month.&lt;/p&gt;</summary>
-    <dc:date>2015-08-03T15:29:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>James Holmes sentenced to life in prison for theater attack</title>
-    <link rel="alternate" href="http://www.nydailynews.com/news/national/james-holmes-sentenced-life-prison-theater-attack-article-1.2318522" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-08T02:39:47Z</updated>
-    <published>2015-08-08T02:39:47Z</published>
-    <summary type="html">&lt;p&gt;The case could have ended the same way two years ago when Holmes offered to plead guilty if he could avoid the death penalty.&lt;/p&gt;</summary>
-    <dc:date>2015-08-08T02:39:47Z</dc:date>
-  </entry>
-  <entry>
     <title>Surprise ending at end of Colorado theater shooting trial: James Holmes gets life</title>
     <link rel="alternate" href="http://www.startribune.com/at-end-of-epic-colorado-theater-shooting-trial-a-surprise/321116861/" />
     <author>
@@ -47,6 +25,17 @@
     <published>2015-08-08T03:51:00Z</published>
     <summary type="html">&lt;p&gt;One juror told reporters outside court that there was a single juror who refused to give Holmes the death penalty and two others who were wavering.&lt;/p&gt;&lt;p&gt;The key issue was Holmes' mental illness.&lt;/p&gt;</summary>
     <dc:date>2015-08-08T03:51:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>James Holmes sentenced to life in prison for theater attack</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/national/james-holmes-sentenced-life-prison-theater-attack-article-1.2318522" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-08T02:39:47Z</updated>
+    <published>2015-08-08T02:39:47Z</published>
+    <summary type="html">&lt;p&gt;The case could have ended the same way two years ago when Holmes offered to plead guilty if he could avoid the death penalty.&lt;/p&gt;</summary>
+    <dc:date>2015-08-08T02:39:47Z</dc:date>
   </entry>
   <entry>
     <title>The Latest: Holmes family expresses sorrow for victims</title>
@@ -111,7 +100,7 @@
     </author>
     <updated>2015-08-03T22:42:43Z</updated>
     <published>2015-08-03T22:42:43Z</published>
-    <summary type="html">&lt;p&gt;Ian Sullivan, the father of Holmes' youngest victim, 6-year-old Veronica Moser-Sullivan, closed his eyes when her name was read.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Ian Sullivan, the father of Holmes' youngest victim, 6-year-old Veronica Moser-Sullivan, closed his eyes when her name was read.&lt;/p&gt;&lt;p&gt;But Robert Holmes acknowledged that they rarely communicated in the months before the theater attack, and that in his family, emotions just weren't talked about, even though his own father and sister had been hospitalized with mental illness.&lt;/p&gt;</summary>
     <dc:date>2015-08-03T22:42:43Z</dc:date>
   </entry>
   <entry>
@@ -136,6 +125,17 @@
     <published>2015-08-03T15:30:44Z</published>
     <summary type="html">&lt;p&gt;Jurors must decide whether there are any reasons, such as Holmes' mental illness and his trouble-free youth, that mean he should be sentenced to life in prison without parole instead of to death.&lt;/p&gt;&lt;p&gt;If jurors unanimously agree that such factors outweigh the heinousness of the July 2012 attack that killed 12 people and injured 70 others, Holmes would be sentenced to a life term.&lt;/p&gt;</summary>
     <dc:date>2015-08-03T15:30:44Z</dc:date>
+  </entry>
+  <entry>
+    <title>Deliberations resume in Colorado theater shooting trial</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article29845882.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T15:29:11Z</updated>
+    <published>2015-08-03T15:29:11Z</published>
+    <summary type="html">&lt;p&gt;The jury in the Colorado theater shooting trial resumed deliberating Monday whether to keep the death penalty on the table for gunman James Holmes.&lt;/p&gt;&lt;p&gt;The same jury rejected Holmes' insanity defense and convicted him of 165 counts of murder, attempted murder and weapons charges last month.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T15:29:11Z</dc:date>
   </entry>
   <entry>
     <title>Batman shooter James Holmes' father narrates a parent's worst nightmare</title>
@@ -375,6 +375,18 @@
     <summary type="html">&lt;p&gt;Holmes could now face the death penalty.&lt;/p&gt;</summary>
     <dc:date>2015-07-16T22:20:00Z</dc:date>
     <media:content url="http://media.npr.org/assets/img/2015/07/16/ap_950485402178-d480ec7f8c9e0a18ab033f51dc54f368c6a49d80-s800-c15.jpg" />
+  </entry>
+  <entry>
+    <title>US jury finds 'Batman' killer guilty</title>
+    <link rel="alternate" href="http://www.abc.net.au/news/2015-07-17/batman-massacre-verdict/6626866" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T22:19:55Z</updated>
+    <published>2015-07-16T22:19:55Z</published>
+    <summary type="html">&lt;p&gt;"You cannot divorce the mental illness from this case, or from Mr Holmes.&lt;/p&gt;</summary>
+    <dc:date>2015-07-16T22:19:55Z</dc:date>
+    <media:content url="http://www.abc.net.au/news/image/4149586-3x4-340x453.jpg" />
   </entry>
   <entry>
     <title>Jury Convicts Colorado Theater Shooter of Murder</title>
