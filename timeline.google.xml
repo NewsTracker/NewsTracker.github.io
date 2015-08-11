@@ -4,6 +4,76 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google overhaul 'shareholder friendly' but details scarce</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/11/us-google-restructuring-research-idUSKCN0QG1AX20150811?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T14:35:43Z</updated>
+    <published>2015-08-11T14:35:43Z</published>
+    <summary type="html">&lt;p&gt;Google Inc's overhaul of its operating structure is an acknowledgement of the lack of transparency surrounding its disparate businesses and projects, analysts said, but it remains to be seen how much more the company will actually disclose.&lt;/p&gt;&lt;p&gt;Analysts and investors have long sought more granular detail on Google's capital spending and cash flow, as well as the financial performance of YouTube and Android.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T14:35:43Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150810&amp;amp;i=110407564&amp;amp;w=240&amp;amp;r=110407564-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Google overhaul 'shareholder friendly' but details scarce</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/11/us-google-restructuring-research-idUSKCN0QG1AX20150811?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T14:35:43Z</updated>
+    <published>2015-08-11T14:35:43Z</published>
+    <summary type="html">&lt;p&gt;Still, Google did not say what details it would disclose.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T14:35:43Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?d=20150810&amp;amp;i=110407564&amp;amp;w=240&amp;amp;r=110407564-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Bits Blog: Google Remakes Itself as Alphabet</title>
+    <link rel="alternate" href="http://bits.blogs.nytimes.com/2015/08/11/daily-report-google-remakes-itself-as-alphabet/?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T14:32:55Z</updated>
+    <published>2015-08-11T14:32:55Z</published>
+    <summary type="html">&lt;p&gt;In a blog post, Mr. Page said they picked the name Alphabet because it "means a collection of letters that represent language, one of humanity's most important innovations, and is the core of how we index with Google search!"&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T14:32:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google and Alphabet: What does this all mean?</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/technology/google/11796103/Google-and-Alphabet-What-does-this-all-mean.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T12:17:17Z</updated>
+    <published>2015-08-11T12:17:17Z</published>
+    <summary type="html">&lt;p&gt;Web browser Google Chrome is launched.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T12:17:17Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03404/larrypage_3404531b.jpg" />
+  </entry>
+  <entry>
+    <title>Sundar Pichai: Meet Google's new CEO</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/technology/google/11795673/Sundar-Pichai-Meet-Googles-new-CEO.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T11:42:13Z</updated>
+    <published>2015-08-11T11:42:13Z</published>
+    <summary type="html">&lt;p&gt;Google+ is launched.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T11:42:13Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03404/larrypage_3404531g.jpg" />
+  </entry>
+  <entry>
+    <title>Google forms a new holding company, 'Alphabet'</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article30674268.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T04:18:07Z</updated>
+    <published>2015-08-11T04:18:07Z</published>
+    <summary type="html">&lt;p&gt;FILE - This Thursday, Jan. 3, 2013, photo shows Google's headquarters in Mountain View, Calif.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T04:18:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Google's co-founders met 20 years ago; today it's 1 of the tech industry's behemoths</title>
     <link rel="alternate" href="http://www.startribune.com/milestones-over-20-years-of-google-s-history/321347811/" />
     <author>

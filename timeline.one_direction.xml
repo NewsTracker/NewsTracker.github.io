@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.one_direction.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Burger King: One Direction, Buzzfeed spurred chicken fries</title>
+    <link rel="alternate" href="http://www.miamiherald.com/entertainment/celebrities/article30680619.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T15:03:14Z</updated>
+    <published>2015-08-11T15:03:14Z</published>
+    <summary type="html">&lt;p&gt;A few months later, Hirschhorn says there was an even bigger surge when a One Direction member mentioned them.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T15:03:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Burger King: One Direction, Buzzfeed spurred chicken fries</title>
+    <link rel="alternate" href="http://www.sfgate.com/entertainment/article/Burger-King-Buzzfeed-One-Direction-spurred-6437149.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T15:00:46Z</updated>
+    <published>2015-08-11T15:00:46Z</published>
+    <summary type="html">&lt;p&gt;Fans of Burger King's chicken fries may have the boy band One Direction and the website Buzzfeed to thank for the return of the skinny fried sticks.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T15:00:46Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/16/42/8448178/7/920x920.jpg" />
+  </entry>
+  <entry>
+    <title>Burger King: One Direction, Buzzfeed spurred chicken fries</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&amp;amp;objectid=11495660&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T11:55:17Z</updated>
+    <published>2015-08-11T11:55:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T11:55:17Z</dc:date>
+  </entry>
+  <entry>
     <title>With first debate, GOP looks to narrow candidate field, set direction for general election</title>
     <link rel="alternate" href="http://www.startribune.com/with-first-debate-gop-looks-to-narrow-vast-candidate-field/320862001/" />
     <author>
@@ -128,17 +162,5 @@
     <summary type="html">&lt;p&gt;ONE DIRECTION bandmate Louis Tomlinson is reportedly expecting a baby with Briana Jungwirth.&lt;/p&gt;</summary>
     <dc:date>2015-07-14T21:24:00Z</dc:date>
     <media:content url="http://cdn.images.express.co.uk/img/dynamic/79/590x/secondary/Louis-Tomlinson-and-Briana-Jungwirth-317399.jpg" />
-  </entry>
-  <entry>
-    <title>Harry Styles falls on stage at One Direction concert</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/news/newsvideo/celebrity-news-video/11733578/Harry-Styles-falls-on-stage-at-One-Direction-concert.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T13:26:45Z</updated>
-    <published>2015-07-11T13:26:45Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-11T13:26:45Z</dc:date>
-    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03246/Harry_cry_on_stage_3246052g.jpg" />
   </entry>
 </feed>

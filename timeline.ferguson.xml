@@ -5,6 +5,28 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>4th night of Ferguson protests brings confrontation, arrests</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/ct-ferguson-protests-20150811-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T12:00:00Z</updated>
+    <published>2015-08-11T12:00:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T12:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>4th night of Ferguson protests brings confrontation, arrests</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article30677811.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T11:33:07Z</updated>
+    <published>2015-08-11T11:33:07Z</published>
+    <summary type="html">&lt;p&gt;The St. Louis suburb thoroughfare was the focus of months of massive protests and sometimes violent unrest last summer after the killing of Brown by a Ferguson police officer.&lt;/p&gt;&lt;p&gt;Protests also cropped up outside Ferguson.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T11:33:07Z</dc:date>
+  </entry>
+  <entry>
+    <title>4th night of Ferguson protests brings confrontation, arrests</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/general/4th-night-of-ferguson-protests-brings-confrontatio/nnHGd/" />
     <author>
       <name />

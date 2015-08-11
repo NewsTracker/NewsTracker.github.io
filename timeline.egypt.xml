@@ -4,17 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Egypt's disaffected youth increasingly calling for violence</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-08-04-ML--Egypt-Extremism/id-8965c931bab9418d81401d22527f4eb5" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-04T08:05:25Z</updated>
-    <published>2015-08-04T08:05:25Z</published>
-    <summary type="html">&lt;p&gt;In this Thursday, June 16, 2015 photo, Abdelrahman, a former member of the Muslim Brotherhood, poses for a portrait at his friend's apartment in Cairo, Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-08-04T08:05:25Z</dc:date>
-  </entry>
-  <entry>
     <title>Deadline passes for Croat held by IS militants in Egypt</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Deadline-passes-for-Croat-held-by-IS-militants-in-Egypt/articleshow/48399306.cms" />
     <author>
@@ -25,18 +14,6 @@
     <summary type="html" />
     <dc:date>2015-08-08T02:58:02Z</dc:date>
     <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48399313,width-300,resizemode-4/islamic-state-flag.jpg" />
-  </entry>
-  <entry>
-    <title>Kerry says United States, Egypt return to 'stronger base' in ties</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/08/03/us-egypt-usa-idUSKCN0Q706H20150803?feedType=RSS&amp;amp;feedName=topNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-03T03:11:24Z</updated>
-    <published>2015-08-03T03:11:24Z</published>
-    <summary type="html">&lt;p&gt;CAIRO The United States and Egypt are returning to a "stronger base" in bilateral ties despite tensions and human rights concerns, U.S. Secretary of State John Kerry said on Sunday after talks with his Egyptian counterpart.&lt;/p&gt;&lt;p&gt;"Egypt remains vital ... to engagement and stability in the region as a whole," said Kerry, who held the first bilateral strategic dialogue since 2009.&lt;/p&gt;&lt;p&gt;Egypt says the Brotherhood is a terrorist group.&lt;/p&gt;</summary>
-    <dc:date>2015-08-03T03:11:24Z</dc:date>
-    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150802&amp;amp;i=110169988&amp;amp;w=240&amp;amp;r=110169988-1&amp;amp;t=2" />
   </entry>
   <entry>
     <title>Sister of jailed Egypt activist urges IS not to kill Croat</title>
@@ -129,6 +106,17 @@
   </entry>
   <entry>
     <title>Egypt's disaffected youth increasingly calling for violence</title>
+    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-08-04-ML--Egypt-Extremism/id-8965c931bab9418d81401d22527f4eb5" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-04T08:05:25Z</updated>
+    <published>2015-08-04T08:05:25Z</published>
+    <summary type="html">&lt;p&gt;In this Thursday, June 16, 2015 photo, Abdelrahman, a former member of the Muslim Brotherhood, poses for a portrait at his friend's apartment in Cairo, Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-08-04T08:05:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt's disaffected youth increasingly calling for violence</title>
     <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11491888&amp;amp;ref=rss" />
     <author>
       <name />
@@ -149,6 +137,18 @@
     <published>2015-08-03T04:38:38Z</published>
     <summary type="html">&lt;p&gt;Shoukry said no journalists have been detained in Egypt for doing their jobs, only for terrorism and other offenses, and he rejected criticism that detainees were being denied due process.&lt;/p&gt;</summary>
     <dc:date>2015-08-03T04:38:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kerry says United States, Egypt return to 'stronger base' in ties</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/03/us-egypt-usa-idUSKCN0Q706H20150803?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T03:11:24Z</updated>
+    <published>2015-08-03T03:11:24Z</published>
+    <summary type="html">&lt;p&gt;CAIRO The United States and Egypt are returning to a "stronger base" in bilateral ties despite tensions and human rights concerns, U.S. Secretary of State John Kerry said on Sunday after talks with his Egyptian counterpart.&lt;/p&gt;&lt;p&gt;"Egypt remains vital ... to engagement and stability in the region as a whole," said Kerry, who held the first bilateral strategic dialogue since 2009.&lt;/p&gt;&lt;p&gt;Egypt says the Brotherhood is a terrorist group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T03:11:24Z</dc:date>
+    <media:content url="http://s4.reutersmedia.net/resources/r/?d=20150802&amp;amp;i=110169988&amp;amp;w=240&amp;amp;r=110169988-1&amp;amp;t=2" />
   </entry>
   <entry>
     <title>US, Egypt resume formal security talks with Kerry visit</title>
@@ -521,39 +521,5 @@
     <published>2015-07-12T15:34:51Z</published>
     <summary type="html">&lt;p&gt;Members of Egypt's lawyers union say it has suspended work in Cairo's Nasr City criminal court to protest a police officer shooting a lawyer there.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T15:34:51Z</dc:date>
-  </entry>
-  <entry>
-    <title>Car bombing at Italian Consulate in Egypt's capital kills 1</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/11/egypt-official-explosion-outside-italian-consulate-in-cairo" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T13:42:59Z</updated>
-    <published>2015-07-11T13:42:59Z</published>
-    <summary type="html">&lt;p&gt;Workers clear rubble at the site of an explosion near the Italian Consulate in downtown, Cairo, Egypt, Saturday, July 11, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-07-11T13:42:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Car bombing at Italian Consulate in Egypt's capital kills 1</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27031450.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T12:50:05Z</updated>
-    <published>2015-07-11T12:50:05Z</published>
-    <summary type="html">&lt;p&gt;Egyptian policemen stand at the base of the crumbled facade of the Italian consulate following a blast that killed at least one person in Cairo, Egypt, Saturday, July 11, 2015.&lt;/p&gt;&lt;p&gt;Italian Premier Matteo Renzi spoke with Egyptian President Abdel Fattah el-Sissi after the attack, saying in a statement: "We will not leave Egypt alone: Italy and Egypt are and will always be together in the fight against terrorism."&lt;/p&gt;&lt;p&gt;Italian Foreign Minister Paolo Gentiloni said that Italy would increase security at Italian sites in Cairo and greater Egypt.&lt;/p&gt;&lt;p&gt;A large explosion struck outside the Italian Consulate in Egypt's capital Cairo early Saturday, severely damaging the building and killing one civilian, and injuring four others, officials said.&lt;/p&gt;&lt;p&gt;Egyptian police officers stand on the 6th October bridge opposite the Italian consulate following a blast in Cairo, Egypt, Saturday, July 11, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-07-11T12:50:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Car bombing at Italian Consulate in Egypt's capital kills 1</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-07-11-ML--Egypt/id-50fdd7fe85564ac5bfe9350bf9c4d82c" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T12:40:00Z</updated>
-    <published>2015-07-11T12:40:00Z</published>
-    <summary type="html">&lt;p&gt;People stand outside the Italian consulate following a blast in Cairo, Egypt, Saturday, July 11, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-07-11T12:40:00Z</dc:date>
   </entry>
 </feed>
