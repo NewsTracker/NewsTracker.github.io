@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>The Latest on Ferguson: Crowd at protest diminishing</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/crime/article/The-Latest-Police-chief-Man-seriously-injured-6434768.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T06:12:40Z</updated>
+    <published>2015-08-11T06:12:40Z</published>
+    <summary type="html">&lt;p&gt;Officers arrest a protester, Monday, Aug. 10, 2015, in Ferguson, Mo.&lt;/p&gt;&lt;p&gt;Police have made nine arrests in Ferguson after protesters blocked a traffic lane on West Florissant Avenue.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T06:12:40Z</dc:date>
+    <media:content url="http://ww2.hdnux.com/photos/40/15/20/8442929/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>The Latest on Ferguson: Crowd at protest diminishing</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/08/10/the-latest-police-chief-man-seriously-injured-in-shooting" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T06:12:40Z</updated>
+    <published>2015-08-11T06:12:40Z</published>
+    <summary type="html">&lt;p&gt;The crowd of protesters in Ferguson has significantly diminished along West Florissant Avenue.&lt;/p&gt;&lt;p&gt;Around midnight, a group of more than 50 protesters began marching down the middle of West Florissant Avenue in Ferguson, defying orders from police to clear the roadway.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T06:12:40Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest on Ferguson: Arrests made along West Florissant</title>
     <link rel="alternate" href="http://www.sfgate.com/news/crime/article/The-Latest-Police-chief-Man-seriously-injured-6434768.php" />
     <author>
