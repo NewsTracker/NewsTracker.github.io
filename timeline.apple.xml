@@ -4,18 +4,6 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>FTC exploring Apple rules for streaming music rivals in App Store</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/ftc-exploring-apple-rules-streaming-031525278.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T03:15:25Z</updated>
-    <published>2015-07-11T03:15:25Z</published>
-    <summary type="html">&lt;p&gt;Apple recently launched a new music streaming service, Apple Music.&lt;/p&gt;&lt;p&gt;Apple takes a 30 percent cut of all in-app purchases for digital goods, such as music streaming subscriptions and games, sold on its platform.&lt;/p&gt;&lt;p&gt;A spokeswoman for Apple declined to comment.&lt;/p&gt;&lt;p&gt;Apple has long been a leader in digital music through its iTunes Store, but it has been a relatively late entrant to on-demand streaming.&lt;/p&gt;&lt;p&gt;Streaming services' chief grievances with Apple stem from the company's 30 percent cut.&lt;/p&gt;&lt;p&gt;Although Apple dominates the digital music business primarily through iTunes, its share of the global smartphone market is relatively small.&lt;/p&gt;</summary>
-    <dc:date>2015-07-11T03:15:25Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/k0uWYnnLEk1SX.BktVeDhA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-07-11T031525Z_1_LYNXNPEB6A02N_RTROPTP_3_USA-APPLE_original.jpg" />
-  </entry>
-  <entry>
     <title>Apple Music attracts more than 11 million trial members</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/08/06/22538206.html?cid=rsstechnology" />
     <author>
@@ -26,18 +14,6 @@
     <summary type="html">&lt;p&gt;This combination of product images provided by Apple Inc. shows, from left, the "For You" section, the "Radio" section, and the "Connect" sections of the Apple Music app, displayed on an iPhone 6.&lt;/p&gt;</summary>
     <dc:date>2015-08-06T22:49:26Z</dc:date>
     <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/08/06/1297733696778.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
-  </entry>
-  <entry>
-    <title>Apple says music service has more than 11m members</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&amp;amp;objectid=11493288&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-06T13:30:38Z</updated>
-    <published>2015-08-06T13:30:38Z</published>
-    <summary type="html" />
-    <dc:date>2015-08-06T13:30:38Z</dc:date>
-    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201524/SCCZEN_AP150906071403_140x93.jpg" />
   </entry>
   <entry>
     <title>Apple Music has more than 11 million members</title>
@@ -60,6 +36,18 @@
     <published>2015-08-06T14:47:52Z</published>
     <summary type="html">&lt;p&gt;Apple says 2 million people have signed up for the family plan trial.&lt;/p&gt;</summary>
     <dc:date>2015-08-06T14:47:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple says music service has more than 11m members</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&amp;amp;objectid=11493288&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T13:30:38Z</updated>
+    <published>2015-08-06T13:30:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-06T13:30:38Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201524/SCCZEN_AP150906071403_140x93.jpg" />
   </entry>
   <entry>
     <title>Apple Music has attracted 11m trial subscribers</title>

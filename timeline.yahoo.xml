@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Billionaire sues TMZ, friend over loss of Clippers team (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/billionaire-sues-tmz-friend-over-loss-clippers-team-005715086--nba.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T02:55:21Z</updated>
+    <published>2015-08-11T02:55:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T02:55:21Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/p35zEjPF..0PqI2cDgh0Lg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508052351858670023" />
+  </entry>
+  <entry>
     <title>Ravens receiver Steve Smith to retire after this season (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ravens-wr-steve-smith-retire-season-183441263--nfl.html" />
     <author>
@@ -1606,40 +1618,5 @@
     <summary type="html" />
     <dc:date>2015-07-11T15:26:21Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/AVQdws48jGWeliDW3GDZTg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQxOTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507111004362549708" />
-  </entry>
-  <entry>
-    <title>Blackhawks send 3-time champ Sharp to Stars in 4-player deal (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/blackhawks-send-3-time-champ-sharp-stars-4-014841114--nhl.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T03:38:15Z</updated>
-    <published>2015-07-11T03:38:15Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-11T03:38:15Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
-  </entry>
-  <entry>
-    <title>AP source: Giants haven't rescinded JPP's franchise tag (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/ap-source-giants-havent-rescinded-jpps-franchise-tag-171521385--nfl.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T00:17:30Z</updated>
-    <published>2015-07-11T00:17:30Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-11T00:17:30Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/aU0C2SrrY8188gUn9aZViA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/08517484ed538d04c9dc2cffb9bd61c2" />
-  </entry>
-  <entry>
-    <title>Florida State rusher suspended, charged with punching woman (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/florida-state-rusher-suspended-charged-punching-woman-210358979--ncaaf.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-10T23:10:15Z</updated>
-    <published>2015-07-10T23:10:15Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-10T23:10:15Z</dc:date>
   </entry>
 </feed>

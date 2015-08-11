@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Clinton thought Trump wedding would be "entertaining"</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Clinton-thought-Trump-wedding-would-be-6435999.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T21:01:29Z</updated>
+    <published>2015-08-10T21:01:29Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Hillary Rodham Clinton says she didn't know Donald Trump very well when she attended his 2005 wedding but thought the event would be "fun" and "entertaining."&lt;/p&gt;</summary>
+    <dc:date>2015-08-10T21:01:29Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/15/56/8444826/3/920x920.jpg" />
+  </entry>
+  <entry>
     <title>Group backing Hillary Clinton gets $1M from anonymous donors</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article30623862.html%23storylink=rss" />
     <author>
@@ -107,30 +119,6 @@
     <dc:date>2015-08-10T07:12:36Z</dc:date>
   </entry>
   <entry>
-    <title>Kim and Kanye Took a Selfie with Hillary Clinton</title>
-    <link rel="alternate" href="http://www.seattlepi.com/news/article/Kim-and-Kanye-Took-a-Selfie-with-Hillary-Clinton-6431892.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-07T05:00:00Z</updated>
-    <published>2015-08-07T05:00:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-08-07T05:00:00Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/40/12/73/8433395/7/628x471.jpg" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton told David Cameron was 'unsure and inexperienced'</title>
-    <link rel="alternate" href="http://www.telegraph.co.uk/news/politics/david-cameron/11779581/Hillary-Clinton-told-David-Cameron-was-unsure-and-inexperienced.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-02T23:52:24Z</updated>
-    <published>2015-08-02T23:52:24Z</published>
-    <summary type="html">&lt;p&gt;A key confidant of US presidential candidate Hillary Clinton told her David Cameron was "unsure, inexperienced, oblique and largely uncommitted" on foreign policy, it has been revealed.&lt;/p&gt;</summary>
-    <dc:date>2015-08-02T23:52:24Z</dc:date>
-    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03395/GettyImages-141313_3395570b.jpg" />
-  </entry>
-  <entry>
     <title>Kim and Kanye endorse Hillary Clinton with selfie</title>
     <link rel="alternate" href="http://pagesix.com/2015/08/07/kim-and-kanye-endorse-hillary-clinton-with-selfie/" />
     <author>
@@ -151,6 +139,18 @@
     <published>2015-08-07T11:45:00Z</published>
     <summary type="html" />
     <dc:date>2015-08-07T11:45:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Kim and Kanye Took a Selfie with Hillary Clinton</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/article/Kim-and-Kanye-Took-a-Selfie-with-Hillary-Clinton-6431892.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-07T05:00:00Z</updated>
+    <published>2015-08-07T05:00:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-07T05:00:00Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/40/12/73/8433395/7/628x471.jpg" />
   </entry>
   <entry>
     <title>FBI looking into the security of Hillary Clinton’s private email setup</title>
@@ -209,6 +209,18 @@
     <summary type="html">&lt;p&gt;"We're going to make sure everyone knows who Hillary Clinton really is - who she fights for and what has motivated her lifelong commitment to children and families," Mook said.&lt;/p&gt;</summary>
     <dc:date>2015-08-03T02:37:00Z</dc:date>
     <media:content url="http://media.npr.org/assets/img/2015/07/31/ap_253230310839_sq-188bbb53cbcf6f82a87c25cb188362ec34150faf.jpg?s=100" />
+  </entry>
+  <entry>
+    <title>Hillary Clinton told David Cameron was 'unsure and inexperienced'</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/politics/david-cameron/11779581/Hillary-Clinton-told-David-Cameron-was-unsure-and-inexperienced.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T23:52:24Z</updated>
+    <published>2015-08-02T23:52:24Z</published>
+    <summary type="html">&lt;p&gt;A key confidant of US presidential candidate Hillary Clinton told her David Cameron was "unsure, inexperienced, oblique and largely uncommitted" on foreign policy, it has been revealed.&lt;/p&gt;</summary>
+    <dc:date>2015-08-02T23:52:24Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03395/GettyImages-141313_3395570b.jpg" />
   </entry>
   <entry>
     <title>Amid latest release of emails, Hillary Clinton's campaign makes public tax and medical details</title>

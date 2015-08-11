@@ -4,6 +4,51 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google's co-founders met 20 years ago; today it's 1 of the tech industry's behemoths</title>
+    <link rel="alternate" href="http://www.startribune.com/milestones-over-20-years-of-google-s-history/321347811/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T04:10:18Z</updated>
+    <published>2015-08-11T04:10:18Z</published>
+    <summary type="html">&lt;p&gt;2015: Page announces creation of new holding company, Alphabet, to include Google's core business and other entities.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T04:10:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Milestones over 20 years of Google's history</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11495393&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T00:45:21Z</updated>
+    <published>2015-08-11T00:45:21Z</published>
+    <summary type="html">&lt;p&gt;Google, which Monday announced it's reorganizing under a new parent company called "Alphabet," is one of the biggest and best-known companies in Silicon Valley.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T00:45:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>Milestones over 20 years of Google's history</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article30661551.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T00:42:20Z</updated>
+    <published>2015-08-11T00:42:20Z</published>
+    <summary type="html">&lt;p&gt;1998: Google incorporates and moves into Susan Wojcicki's garage in Menlo Park, California.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T00:42:20Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google creating new parent company Alphabet</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/08/10/22539326.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T22:02:26Z</updated>
+    <published>2015-08-10T22:02:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-10T22:02:26Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/08/10/google650c.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Google to become Alphabet Inc in shakeup</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/google-inc-become-alphabet-inc-210510259.html" />
     <author>

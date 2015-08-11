@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico to question governor over journalist's killing</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/08/mexico-question-governor-journalist-killing-150811033046773.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T04:11:02Z</updated>
+    <published>2015-08-11T04:11:02Z</published>
+    <summary type="html">&lt;p&gt;Javier Duarte, Veracruz governor, has told local media that he has no knowledge of the incident, which occurred on July 31 in a Mexico City apartment where four women were also slain.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T04:11:02Z</dc:date>
+    <media:content url="ww.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/5/26/326768025d21448ab7a6696474d816fc_18.jpg" />
+  </entry>
+  <entry>
+    <title>Mexico governor to be questioned over killing of photojournalist</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/mexico/11795439/Mexico-governor-to-be-questioned-over-killing-of-photojournalist.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T23:11:25Z</updated>
+    <published>2015-08-10T23:11:25Z</published>
+    <summary type="html">&lt;p&gt;The governor of the Mexican state of Veracruz, Javier Duarte, will be questioned over the recent murder of five people in the country's capital, including a photojournalist, the mayor of Mexico City said on Monday.&lt;/p&gt;&lt;p&gt;"I have commented to him (Governor Duarte) that we are required to take a statement directly from the governor," Mexico City mayor Miguel Angel Mancera told reporters on Monday.&lt;/p&gt;&lt;p&gt;In a rare move for Mexico, a group of investigators from the city prosecutor's office will travel to Veracruz on Tuesday to take a statement from Duarte.&lt;/p&gt;</summary>
+    <dc:date>2015-08-10T23:11:25Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest: New Mexico calls out feds over mine spill</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article30616890.html%23storylink=rss" />
     <author>
