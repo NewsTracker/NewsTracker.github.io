@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece accepts harsh new bailout terms, vows swift vote</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greece-closes-in-on-bailout-deal-possibly-within-6436731.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T16:50:54Z</updated>
+    <published>2015-08-11T16:50:54Z</published>
+    <summary type="html">&lt;p&gt;A man reads a newspaper outside a shop in in the northern Greek port city of Thessaloniki, Tuesday, Aug. 11, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T16:50:54Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/16/33/8447722/11/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Fights among migrants on Greek island as Turkey rescues 330 Syrians</title>
     <link rel="alternate" href="http://www.smh.com.au/world/fights-among-migrants-on-greek-island-as-turkey-rescues-330-syrians-20150811-giwylc.html" />
     <author>
@@ -2284,6 +2296,18 @@
   </entry>
   <entry>
     <title>Greek debt crisis: Violence erupts as Greek parliament debates bailout</title>
+    <link rel="alternate" href="http://www.smh.com.au/business/world-business/greek-debt-crisis-violence-erupts-as-greek-parliament-debates-bailout-20150716-gidcwu.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-16T00:02:17Z</updated>
+    <published>2015-07-16T00:02:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-16T00:02:17Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/d/d/6/o/image.related.articleLeadwide.620x349.gidcwu.png/1437018919023.jpg" />
+  </entry>
+  <entry>
+    <title>Greek debt crisis: Violence erupts as Greek parliament debates bailout</title>
     <link rel="alternate" href="http://www.brisbanetimes.com.au/business/world-business/greek-debt-crisis-violence-erupts-as-greek-parliament-debates-bailout-20150716-gidcwu.html" />
     <author>
       <name />
@@ -3087,6 +3111,18 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/13/38/31/a1a7ca0841374febb31754c48526718f-19517b31e1664436b06ff2ce710d12c4-0.jpg" />
   </entry>
   <entry>
+    <title>Unanimous agreement on deal for Greece</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0713/714382-greece/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-13T08:54:26Z</updated>
+    <published>2015-07-13T08:54:26Z</published>
+    <summary type="html">&lt;p&gt;Greek sources said Mr Tsipras feared a public backlash in Greece when the terms of the bailout become known.&lt;/p&gt;</summary>
+    <dc:date>2015-07-13T08:54:26Z</dc:date>
+    <media:content url="http://img.rasset.ie/000ad9b6-117.jpg" />
+  </entry>
+  <entry>
     <title>Stocks rise as Greece gets bailout deal with creditors</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/12/asian-stocks-rise-but-greece-uncertainty-lingers" />
     <author>
@@ -3392,52 +3428,5 @@
     <published>2015-07-12T07:23:14Z</published>
     <summary type="html">&lt;p&gt;Their biggest backers are the French, who have been working furiously behind the scenes to convince the more hawkish creditors to agree to debt relief and keep Greece in the euro.&lt;/p&gt;&lt;p&gt;If an agreement is secured from EU leaders - and it passes the parliaments in Finland, Germany, Estonia, Slovakia, Portugal and Austria next week - it would mean three more years of bailouts for Greece.&lt;/p&gt;</summary>
     <dc:date>2015-07-12T07:23:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek talks with skeptical creditors to resume Sunday</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/07/12/with-eu-leaders-heading-to-brussels-finance-ministers-opt-to-meet-again-sunday/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fmarkets+%28Internal+-+Markets+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T04:02:32Z</updated>
-    <published>2015-07-12T04:02:32Z</published>
-    <summary type="html">&lt;p&gt;BRUSSELS - Greece will have another, possibly its last, chance Sunday to convince skeptical European creditors it can be trusted to enact wide-ranging economic reforms that would safeguard its future in the euro.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T04:02:32Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/feeds/Associated%20Press/2015/07/12/876/493/0287200aaed7e410VgnVCM100000d7c1a8c0____-Europe%20Greece%20Bailout-5.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Greece bailout talks with skeptical creditors end with no breakthrough - VIDEO: Greece trying to avoid collapse</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/11/greece-bailout-talks-with-skeptical-creditors-end-with-no-breakthrough/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T00:34:58Z</updated>
-    <published>2015-07-12T00:34:58Z</published>
-    <summary type="html">&lt;p&gt;Greece's banks, according to some accounts, have barely enough cash in their vaults to see the country through the week.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T00:34:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek talks with skeptical creditors to resume in morning</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27032884.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T23:30:05Z</updated>
-    <published>2015-07-11T23:30:05Z</published>
-    <summary type="html">&lt;p&gt;"We had an in-depth discussion of the Greek proposals and the issue of credibility and trust was discussed," Jeroen Dijsselbloem, the eurozone's top official, said on leaving the meeting.&lt;/p&gt;</summary>
-    <dc:date>2015-07-11T23:30:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>The Latest: Greek bailout talks to resume in the morning</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27033289.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T22:20:09Z</updated>
-    <published>2015-07-11T22:20:09Z</published>
-    <summary type="html">&lt;p&gt;There were few signs that the Greek bailout discussions between the country's finance minister and his counterparts in the 19-country eurozone are going to wrap up any time soon.&lt;/p&gt;</summary>
-    <dc:date>2015-07-11T22:20:09Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
 </feed>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Judge upholds warrant requiring Google to share contents of indicted Rand Paul aide's Gmail</title>
+    <link rel="alternate" href="http://www.startribune.com/judge-feds-can-search-emails-of-indicted-rand-paul-aide/321474511/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T21:15:12Z</updated>
+    <published>2015-08-11T21:15:12Z</published>
+    <summary type="html">&lt;p&gt;Magistrate Judge Helen Adams rejected a request Monday by Jesse Benton to quash a warrant ordering Google Inc. to turn over the contents of his Gmail account.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T21:15:12Z</dc:date>
+    <media:content url="http://stmedia.stimg.co/ows_143926317637350.jpg?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
+  </entry>
+  <entry>
     <title>Google overhaul 'shareholder friendly' but details scarce</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/08/11/us-google-restructuring-research-idUSKCN0QG1AX20150811?feedType=RSS&amp;amp;feedName=businessNews" />
     <author>

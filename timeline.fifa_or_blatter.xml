@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Soccer Canada’s Montagliani joins FIFA reform task force</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/sports/soccer/soccer-canadas-montagliani-joins-fifa-reform-task-force/article25929850/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T20:41:10Z</updated>
+    <published>2015-08-11T20:41:10Z</published>
+    <summary type="html">&lt;p&gt;Reform proposals being discussed for Blatter's successor as FIFA president and executive committee members include term limits, publishing their salary and stricter vetting of candidates.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T20:41:10Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/74f/news/national/article24814695.ece/ALTERNATES/w220/VCRD101-SOC+WCup+Kickoff+20.JPG" />
+  </entry>
+  <entry>
     <title>FIFA name ex-IOC official Carrard to head reform task force</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/08/12/fifa-name-ex-ioc-official-carrard-head-reform-task-force" />
     <author>
@@ -486,7 +498,7 @@
     </author>
     <updated>2015-07-24T13:48:49Z</updated>
     <published>2015-07-24T13:48:49Z</published>
-    <summary type="html">&lt;p&gt;Valcke added that FIFA has been keeping its partners informed of developments.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Valcke added that FIFA has been keeping its partners informed of developments.&lt;/p&gt;&lt;p&gt;Those confederations are also responsible for electing the members of FIFA's executive committee.&lt;/p&gt;</summary>
     <dc:date>2015-07-24T13:48:49Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/9ac/sports/soccer/article25659394.ece/ALTERNATES/w220/562982423_481752498.JPG" />
   </entry>

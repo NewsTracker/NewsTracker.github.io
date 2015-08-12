@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>NewsTracker: donald trump</title>
+  <link rel="alternate" href="http://newstracker.github.io/timeline.donald_trump.xml" />
+  <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Donald Trump returns to Fox News after flap</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/political/donald-trump-returns-to-fox-news-after-flap/nnHKB/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T13:00:04Z</updated>
+    <published>2015-08-11T13:00:04Z</published>
+    <summary type="html">&lt;p&gt;Donald Trump returned to Fox News Tuesday morning for the first time since attacking the network's Megyn Kelly in the wake of her tough questioning of the GOP candidate for president during the party's first debate.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T13:00:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Stephen Colbert Hopes Donald Trump Stays in the Presidential Race</title>
+    <link rel="alternate" href="http://time.com/3992272/stephen-colbert-donald-trump/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+time%2Fentertainment+%28TIME%3A+Entertainment%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T12:29:49Z</updated>
+    <published>2015-08-11T12:29:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T12:29:49Z</dc:date>
+    <media:content url="https://timedotcom.files.wordpress.com/2015/08/donald-trump7.jpg?quality=65&amp;amp;amp;strip=color&amp;amp;amp;w=550" />
+  </entry>
+  <entry>
+    <title>Donald Trump returns to Fox News after flap</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article30681675.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T12:27:58Z</updated>
+    <published>2015-08-11T12:27:58Z</published>
+    <summary type="html">&lt;p&gt;Republican presidential candidate Donald Trump, after the first Republican presidential debate at the Quicken Loans Arena in Cleveland.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T12:27:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>Women live-tweet their periods to Donald Trump</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/women-live-tweet-periods-donald-trump-article-1.2321400" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T10:48:53Z</updated>
+    <published>2015-08-11T10:48:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T10:48:53Z</dc:date>
+  </entry>
+  <entry>
+    <title>Donald Trump's On Again Off Again Relationship With Fox News</title>
+    <link rel="alternate" href="http://www.npr.org/2015/08/11/431512174/donald-trump-s-on-again-off-again-relationship-with-fox-news?utm_medium=RSS&amp;amp;utm_campaign=media" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T09:01:00Z</updated>
+    <published>2015-08-11T09:01:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T09:01:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Donald Trump on Megyn Kelly: She should apologize</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/08/10/politics/donald-trump-megyn-kelly-apology/index.html?eref=rss_latest" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T20:04:46Z</updated>
+    <published>2015-08-10T20:04:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-10T20:04:46Z</dc:date>
+    <media:content url="http://edition.cnn.com/2015/08/10/politics/donald-trump-megyn-kelly-apology/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+</feed>

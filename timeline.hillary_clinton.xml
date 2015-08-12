@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US official: FBI has Hillary Clinton emails from home server</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/11/us-official-fbi-has-hillary-clinton-emails-from/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T22:22:03Z</updated>
+    <published>2015-08-11T22:22:03Z</published>
+    <summary type="html">&lt;p&gt;WASHINGTON (AP) - The FBI has taken possession of thumb drives containing Hillary Clinton's emails, some of which have been deemed to contain highly sensitive classified information, according to a U.S. official briefed on the matter.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T22:22:03Z</dc:date>
+    <media:content url="http://cdn.sandiegouniontrib.com/img/photos/2015/08/11/40118d33e716d1237e0f6a706700b7e5_r900x493.JPEG?122770e84b36f1c039d5c4c2ca15c2d8bc4ecd52" />
+  </entry>
+  <entry>
     <title>Clinton thought Trump wedding would be "entertaining"</title>
     <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Clinton-thought-Trump-wedding-would-be-6435999.php" />
     <author>
@@ -604,29 +616,5 @@
     <published>2015-07-13T17:23:00Z</published>
     <summary type="html" />
     <dc:date>2015-07-13T17:23:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Hillary Clinton to outline economic policy vision Monday</title>
-    <link rel="alternate" href="http://www.upi.com/Top_News/US/2015/07/11/Hillary-Clinton-to-outline-economic-policy-vision-Monday/5151436655036/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T23:17:52Z</updated>
-    <published>2015-07-11T23:17:52Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-11T23:17:52Z</dc:date>
-    <media:content url="http://cdnph.upi.com/ph/st/th/5961436593689/2015/i/14365951519088/v1.2/Ted-Cruz-upset-with-New-York-Times-for-leaving-book-off-bestseller-list.jpg?lg=1" />
-  </entry>
-  <entry>
-    <title>American Federation of Teachers Endorses Hillary Clinton</title>
-    <link rel="alternate" href="http://www.huffingtonpost.com/2015/07/11/american-federation-of-teachers-clinton_n_7777410.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-11T22:49:21Z</updated>
-    <published>2015-07-11T22:49:21Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-11T22:49:21Z</dc:date>
-    <media:content url="http://i.huffpost.com/gen/3178320/images/n-HILLARY-CLINTON-large570.jpg" />
   </entry>
 </feed>
