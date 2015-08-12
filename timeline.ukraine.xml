@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US: alleged insider trading ring relied on hackers from Ukraine</title>
+    <link rel="alternate" href="http://www.euronews.com/2015/08/12/us-alleged-insider-trading-ring-relied-on-hackers-from-ukraine/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T22:43:18Z</updated>
+    <published>2015-08-11T22:43:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T22:43:18Z</dc:date>
+    <media:content url="http://static.euronews.com/articles/311626/606x340_311626.jpg?1439332998" />
+  </entry>
+  <entry>
     <title>Missile fragments possibly found at MH17 crash site</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/missile-fragments-possibly-found-at-mh17-crash-site-1.2511470" />
     <author>

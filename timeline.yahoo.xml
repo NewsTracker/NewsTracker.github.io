@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Home teams win all 15 games for 1st time in MLB history (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/home-teams-win-15-games-first-time-mlb-065329898--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T07:46:03Z</updated>
+    <published>2015-08-12T07:46:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-12T07:46:03Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/AFh7o9C.ot386coP8uk_iw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508120102037594024" />
+  </entry>
+  <entry>
     <title>Billionaire sues TMZ, friend over loss of Clippers team (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/billionaire-sues-tmz-friend-over-loss-clippers-team-005715086--nba.html" />
     <author>

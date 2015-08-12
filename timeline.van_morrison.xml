@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: van morrison</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.van_morrison.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Morrison calls for gay marriage referendum</title>
+    <link rel="alternate" href="http://www.smh.com.au//breaking-news-national/morrison-calls-for-gay-marriage-referendum-20150812-40xaz.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T10:19:11Z</updated>
+    <published>2015-08-12T10:19:11Z</published>
+    <summary type="html">&lt;p&gt;Liberal frontbencher Scott Morrison believes the question of legalising same-sex marriage should be put to Australians in a referendum.&lt;/p&gt;&lt;p&gt;Mr Morrison is concerned the current debate is uneven, leaving people expressing their religious views against gay marriage being branded as bigots.&lt;/p&gt;</summary>
+    <dc:date>2015-08-12T10:19:11Z</dc:date>
+  </entry>
 </feed>
