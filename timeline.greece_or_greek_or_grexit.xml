@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek government defends bailout deal ahead of vote</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-lawmakers-to-discuss-bailout-bill-in-parliam/nnJbd/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T16:12:36Z</updated>
+    <published>2015-08-13T16:12:36Z</published>
+    <summary type="html">&lt;p&gt;The Greek government defended its new bailout program in tumultuous parliamentary sessions Thursday, as it faced a rebellion in the governing Syriza party ahead of a vote on the deal.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T16:12:36Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/13/a6/7b/5edbcb3cd8174ea0ba55ed7ddd484375-b1521d1bd2e34d068110d0923eef9cc0-0_1.jpg" />
+  </entry>
+  <entry>
     <title>Divisions widen in Syriza ahead of bailout vote</title>
     <link rel="alternate" href="http://www.rte.ie/news/world/2015/0813/721042-greece/" />
     <author>
@@ -3129,65 +3141,6 @@
     <published>2015-07-13T17:50:07Z</published>
     <summary type="html">&lt;p&gt;The Greek government's junior coalition partner says it cannot back the agreement announced Monday between Greece and its European creditors - describing the proposed deal as a "coup staged by Germany and other countries."&lt;/p&gt;</summary>
     <dc:date>2015-07-13T17:50:07Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>What next? More twists and turns ahead for Greece</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/what-next-more-twists-and-turns-ahead-for-greece/nmx5r/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T17:00:40Z</updated>
-    <published>2015-07-13T17:00:40Z</published>
-    <summary type="html">&lt;p&gt;WILL THAT STABILIZE GREECE?&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T17:00:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece and its creditor countries must run obstacle course before deal is sealed</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/07/13/greece-and-its-creditor-countries-must-run-obstacle-course-before-deal-is/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T17:00:04Z</updated>
-    <published>2015-07-13T17:00:04Z</published>
-    <summary type="html">&lt;p&gt;FRANKFURT, Germany - Greece's bailout deal isn't a deal - yet.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T17:00:04Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/feeds/Associated%20Press/2015/07/13/876/493/cb4f03746288e410VgnVCM100000d7c1a8c0____-Greece%20Bailout-1.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Greece reaches deal with creditors, avoids euro exit</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article27105709.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T16:55:08Z</updated>
-    <published>2015-07-13T16:55:08Z</published>
-    <summary type="html">&lt;p&gt;But experts noted that even with the deal, Greece's problems are not over.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T16:55:08Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>The Latest: French lawmakers to hold vote on Greek deal</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27106897.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T16:00:09Z</updated>
-    <published>2015-07-13T16:00:09Z</published>
-    <summary type="html">&lt;p&gt;European anti-bailout parties have lashed out at their countries' governments over Monday's austerity agreement with Greece.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T16:00:09Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>The Latest: French lawmakers to hold vote on Greek deal</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27106897.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T16:00:09Z</updated>
-    <published>2015-07-13T16:00:09Z</published>
-    <summary type="html">&lt;p&gt;Pro-European Greek opposition parties have promised to back the bailout deal negotiated by Prime Minister Alexis Tsipras as the only alternative to being expelled from the shared euro currency.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T16:00:09Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
 </feed>
