@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State radio says Croatian hostage killed in Egypt</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/13/islamic-state-radio-says-croatian-hostage-killed/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T12:45:12Z</updated>
+    <published>2015-08-13T12:45:12Z</published>
+    <summary type="html">&lt;p&gt;Salopek's killing is the first of a foreign captive in Egypt, where the government has been struggling to project an image of stability and revive the economy following years of unrest.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T12:45:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State Egypt affiliate claims to have beheaded Croatian hostage: Report [Video]</title>
     <link rel="alternate" href="http://www.torontosun.com/2015/08/12/islamic-state-egypt-affiliate-claims-to-have-beheaded-croatian-hostage-report" />
     <author>

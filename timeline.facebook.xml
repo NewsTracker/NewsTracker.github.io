@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cambodian leader orders arrest of opposition senator</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/13/cambodian-leader-orders-arrest-of-opposition/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T12:40:06Z</updated>
+    <published>2015-08-13T12:40:06Z</published>
+    <summary type="html">&lt;p&gt;PHNOM PENH, Cambodia (AP) - Cambodia's prime minister has demanded the arrest of an opposition senator, accusing him of treason for comments posted on Facebook criticizing a border agreement with neighboring Vietnam.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T12:40:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Michigan sports Facebook pages off-topic after possible hack</title>
     <link rel="alternate" href="http://www.miamiherald.com/sports/article30830598.html%23storylink=rss" />
     <author>
