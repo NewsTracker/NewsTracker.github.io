@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Divisions widen in Syriza ahead of bailout vote</title>
+    <link rel="alternate" href="http://www.rte.ie/news/world/2015/0813/721042-greece/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T14:46:29Z</updated>
+    <published>2015-08-13T14:46:29Z</published>
+    <summary type="html">&lt;p&gt;Parliament, however, is expected to approve the bailout agreement by a comfortable margin since opposition parties have promised their backing for the government to ensure Greece does not return to financial chaos.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T14:46:29Z</dc:date>
+    <media:content url="http://img.rasset.ie/000afa19-642.jpg" />
+  </entry>
+  <entry>
     <title>Greek government defends bailout deal ahead of vote</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article30978222.html%23storylink=rss" />
     <author>
@@ -2269,7 +2281,7 @@
     </author>
     <updated>2015-07-16T12:06:04Z</updated>
     <published>2015-07-16T12:06:04Z</published>
-    <summary type="html">&lt;p&gt;He said the four biggest Greek banks are "system-relevant," code for significant to the international financial system, and that if they fail that would have "severe effects not just for Greece itself ... but for the eurozone as a whole."&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;He said the four biggest Greek banks are "system-relevant," code for significant to the international financial system, and that if they fail that would have "severe effects not just for Greece itself ... but for the eurozone as a whole."&lt;/p&gt;&lt;p&gt;So it first needs a clear prospect of a bailout deal for Greece to restore the finances of the government and banks.&lt;/p&gt;</summary>
     <dc:date>2015-07-16T12:06:04Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
@@ -3177,27 +3189,5 @@
     <summary type="html">&lt;p&gt;Pro-European Greek opposition parties have promised to back the bailout deal negotiated by Prime Minister Alexis Tsipras as the only alternative to being expelled from the shared euro currency.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T16:00:09Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Euro currency emerges intact _ for now _ from Greek crisis</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11480388&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T14:45:18Z</updated>
-    <published>2015-07-13T14:45:18Z</published>
-    <summary type="html">&lt;p&gt;In Britain " a European Union member that decided against joining the euro " treasury chief George Osborne responded to the deal brokered on Greece with "a cautious welcome that the Eurozone has stepped back from the brink."&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T14:45:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Euro currency emerges intact _ for now _ from Greek crisis</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11480388&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T14:45:18Z</updated>
-    <published>2015-07-13T14:45:18Z</published>
-    <summary type="html">&lt;p&gt;Although relief prevailed after Monday's Greek bailout announcement, key questions remain about whether the euro currency will remain sustainable in the long-term " and even whether the European Union itself remains a viable project.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T14:45:18Z</dc:date>
   </entry>
 </feed>

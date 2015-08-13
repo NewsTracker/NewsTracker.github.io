@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Harvard student loses Facebook gig for app that shows flaws</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/article/Harvard-student-s-app-leads-to-loss-of-Facebook-6442170.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T14:53:35Z</updated>
+    <published>2015-08-13T14:53:35Z</published>
+    <summary type="html">&lt;p&gt;BOSTON (AP) - A Harvard University student says he lost his internship at Facebook after he launched a browser application that exploited privacy flaws on its mobile messenger.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T14:53:35Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/37/64/65/8342898/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Harvard student loses Facebook gig for app that shows flaws</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/strange/harvard-students-app-leads-to-loss-of-facebook-int/nnJjH/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T14:53:35Z</updated>
+    <published>2015-08-13T14:53:35Z</published>
+    <summary type="html">&lt;p&gt;Aran Khanna's app showed that users of Facebook Messenger could pinpoint the exact locations of people they were talking to.&lt;/p&gt;&lt;p&gt;Facebook asked Khanna to disable it.&lt;/p&gt;&lt;p&gt;A week later, Facebook released a Messenger app update addressing the flaw that a company spokesman said had been in the works for months.&lt;/p&gt;&lt;p&gt;Facebook was launched from a Harvard dorm room in 2004.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T14:53:35Z</dc:date>
+  </entry>
+  <entry>
     <title>Cambodian leader orders arrest of opposition senator</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/13/cambodian-leader-orders-arrest-of-opposition/" />
     <author>
@@ -502,6 +525,18 @@
     <dc:date>2015-07-17T14:57:48Z</dc:date>
   </entry>
   <entry>
+    <title>Australian woman deported from UAE after Facebook post</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/07/australian-woman-deported-uae-facebook-post-150714214424659.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T00:25:48Z</updated>
+    <published>2015-07-15T00:25:48Z</published>
+    <summary type="html">&lt;p&gt;The photo has been removed from Facebook since it was posted in February.&lt;/p&gt;</summary>
+    <dc:date>2015-07-15T00:25:48Z</dc:date>
+    <media:content url="ww.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/6/29/044ee9c2b94a4df1b3c20f45ea79609c_18.jpg" />
+  </entry>
+  <entry>
     <title>Australian deported from Abu Dhabi after 'writing bad words' on Facebook</title>
     <link rel="alternate" href="http://www.theguardian.com/world/2015/jul/15/australian-deported-from-abu-dhabi-after-writing-bad-words-on-facebook" />
     <author>
@@ -535,17 +570,5 @@
     <summary type="html" />
     <dc:date>2015-07-14T15:11:22Z</dc:date>
     <media:content url="http://i.telegraph.co.uk/multimedia/archive/03375/facebookmoneypenny_3375236b.jpg" />
-  </entry>
-  <entry>
-    <title>Australian woman jailed in Abu Dhabi for Facebook post</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/australian-woman-jailed-in-abu-dhabi-for-facebook-post-20150713-gibh4s.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T14:15:42Z</updated>
-    <published>2015-07-13T14:15:42Z</published>
-    <summary type="html">&lt;p&gt;Jodi Magi, aged 39, posted a photo to Facebook she had taken of a car parked across two disabled parking spaces outside her apartment in Abu Dhabi.&lt;/p&gt;&lt;p&gt;The photo appeared to have been removed from Ms Magi's Facebook page, which has now also been taken offline.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T14:15:42Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/b/h/a/m/image.related.articleLeadwide.620x349.gibh4s.png/1436796931875.jpg" />
   </entry>
 </feed>
