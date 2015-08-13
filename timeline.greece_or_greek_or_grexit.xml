@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek government defends bailout deal ahead of vote</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article30978222.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T10:06:08Z</updated>
+    <published>2015-08-13T10:06:08Z</published>
+    <summary type="html">&lt;p&gt;The terms of the bailout were agreed earlier in the week with representatives of Greece's creditors and come after months of acrimonious wrangling and failed negotiations that have cost the Greek economy dearly.&lt;/p&gt;&lt;p&gt;After the Greek vote, the bailout deal will also need approval from several other eurozone parliaments, including Germany's, before any funds can be disbursed.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T10:06:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Greek lawmakers discuss bailout bill in parliament</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article30978222.html%23storylink=rss" />
     <author>
@@ -1046,6 +1057,18 @@
   </entry>
   <entry>
     <title>Greece clears final reform hurdle before new bailout talks</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article28383463.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T04:10:04Z</updated>
+    <published>2015-07-23T04:10:04Z</published>
+    <summary type="html">&lt;p&gt;Greece's debt still remains the highest in the 19-country eurozone by a wide margin.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T04:10:04Z</dc:date>
+    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
+  </entry>
+  <entry>
+    <title>Greece clears final reform hurdle before new bailout talks</title>
     <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/07/23/greek-parliament-approves-new-creditor-demanded-reforms-clearing-way-for/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fmarkets+%28Internal+-+Markets+-+Text%29" />
     <author>
       <name />
@@ -1344,6 +1367,18 @@
     <published>2015-07-21T01:54:11Z</published>
     <summary type="html" />
     <dc:date>2015-07-21T01:54:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek debt crisis: Greece's banks in a battle to win back trust</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/business/world-business/greek-debt-crisis-greeces-banks-in-a-battle-to-win-back-trust-20150721-gigtsu.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-20T23:48:16Z</updated>
+    <published>2015-07-20T23:48:16Z</published>
+    <summary type="html">&lt;p&gt;But as the bailout negotiations resume, assuming they do, there are likely to be disagreements among eurozone members about how much help to give Greek banks.&lt;/p&gt;</summary>
+    <dc:date>2015-07-20T23:48:16Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/g/i/b/1/image.related.articleLeadwide.620x349.gigtsu.png/1437436126222.jpg" />
   </entry>
   <entry>
     <title>Greek debt crisis: Greece's banks in a battle to win back trust</title>
@@ -3153,28 +3188,5 @@
     <summary type="html">&lt;p&gt;Greece reached a preliminary deal Monday for a third multi-billion euro bailout from its fellow members in the 19-country eurozone.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T12:55:05Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece reaches deal with creditors, avoids euro exit</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article27105709.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T11:55:06Z</updated>
-    <published>2015-07-13T11:55:06Z</published>
-    <summary type="html">&lt;p&gt;The creditors said they would help Greece in the short term deal with its debt repayments since any bailout agreement was not imminent.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T11:55:06Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>The Latest: French lawmakers to hold vote on Greek deal</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/f70471f764144b2fab526d39972d37b3/Article_2015-07-13-EU--Greece-Bailout-The%20Latest/id-a9f8ea18f8d8411692ee76ca47120fb1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T11:54:00Z</updated>
-    <published>2015-07-13T11:54:00Z</published>
-    <summary type="html">&lt;p&gt;In a tweet Monday, Tusk said the European bailout program for Greece includes "serious reforms" and "financial support."&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T11:54:00Z</dc:date>
   </entry>
 </feed>
