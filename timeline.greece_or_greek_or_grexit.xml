@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>As conditions worsen, Greece promises ship to house refugees</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Refugees-stream-into-Greek-island-meet-wretched-6439091.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T17:32:22Z</updated>
+    <published>2015-08-12T17:32:22Z</published>
+    <summary type="html">&lt;p&gt;Migrants walk along a beach on the Greek southeastern island of Kos, Wednesday, Aug. 12, 2015.&lt;/p&gt;&lt;p&gt;A migrant is helped out of a dinghy after crossing from Turkey to the southeastern Greek island of Kos, Wednesday, Aug. 12, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-08-12T17:32:22Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/40/17/70/8453651/13/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Greek bailout details ironed out as bill goes to parliament</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/08/12/greeces-bailout-bill-submitted-to-parliament" />
     <author>
@@ -252,7 +264,7 @@
     </author>
     <updated>2015-08-07T23:44:33Z</updated>
     <published>2015-08-07T23:44:33Z</published>
-    <summary type="html">&lt;p&gt;A senior Greek official said the two sides' assessments of the macroeconomic outlook and primary budget balance targets were very close and unlikely to be an obstacle to a deal.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;A senior Greek official said the two sides' assessments of the macroeconomic outlook and primary budget balance targets were very close and unlikely to be an obstacle to a deal.&lt;/p&gt;&lt;p&gt;Greece would be expected to enact another package of reform legislation before Aug. 20, in parallel with national ratification procedures to receive a first aid payment in time to meet the ECB payment.&lt;/p&gt;</summary>
     <dc:date>2015-08-07T23:44:33Z</dc:date>
     <media:content url="http://s4.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150807&amp;amp;t=2&amp;amp;i=1070300437&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;sq=&amp;amp;r=LYNXNPEB760IY" />
   </entry>
@@ -2467,7 +2479,7 @@
     </author>
     <updated>2015-07-15T15:59:41Z</updated>
     <published>2015-07-15T15:59:41Z</published>
-    <summary type="html">&lt;p&gt;The International Monetary Fund says Greece's debts are too big to pay and need to be partly forgiven.&lt;/p&gt;&lt;p&gt;German officials, led by Chancellor Angela Merkel and Finance Minister Wolfgang Schaeuble, say that as part of a new rescue package for Greece they will consider giving it more time to pay its debts and perhaps lower interest rates.&lt;/p&gt;&lt;p&gt;If pressed, Germany officials concede the IMF may be right in saying that Greece's debt pile is too big to pay, no matter how many years it gets to pay it.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The International Monetary Fund says Greece's debts are too big to pay and need to be partly forgiven.&lt;/p&gt;&lt;p&gt;German officials, led by Chancellor Angela Merkel and Finance Minister Wolfgang Schaeuble, say that as part of a new rescue package for Greece they will consider giving it more time to pay its debts and perhaps lower interest rates.&lt;/p&gt;&lt;p&gt;If pressed, Germany officials concede the IMF may be right in saying that Greece's debt pile is too big to pay, no matter how many years it gets to pay it.&lt;/p&gt;&lt;p&gt;He said Germany still believes that approach can work in Greece.&lt;/p&gt;</summary>
     <dc:date>2015-07-15T15:59:41Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/15/04/03/4d7c45f8e53545e1bd8b1bfdff82fa00-12f627ee4b0340fb874125c50e5b8ae8-0.jpg" />
   </entry>
@@ -2653,7 +2665,7 @@
     </author>
     <updated>2015-07-14T21:04:02Z</updated>
     <published>2015-07-14T21:04:02Z</published>
-    <summary type="html">&lt;p&gt;Demonstrators gather near the Greek Parliament during a rally against the government's agreement with its creditors in Athens, in central Athens, Tuesday, July 14, 2015.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Demonstrators gather near the Greek Parliament during a rally against the government's agreement with its creditors in Athens, in central Athens, Tuesday, July 14, 2015.&lt;/p&gt;&lt;p&gt;Souvenirs presenting ancient Greek temples are placed on sale at a shop in central Athens, Tuesday, July 14, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-07-14T21:04:02Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/14/d6/60/ae143f5d47164fce86a77de4a72b6f4a-6e04fd279b1540979adf82af0e16ca5f-1.jpg" />
   </entry>
@@ -3189,212 +3201,5 @@
     <published>2015-07-13T08:00:31Z</published>
     <summary type="html" />
     <dc:date>2015-07-13T08:00:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Euro zone clinches deal with Greece after all-night haggle</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/13/eurozone-clinches-deal-greece-after-all-night-haggle" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T07:11:12Z</updated>
-    <published>2015-07-13T07:11:12Z</published>
-    <summary type="html">&lt;p&gt;Eurozone leaders at a marathon emergency summit on Greece have reached agreement, officials said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T07:11:12Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/greece_050612_v.jpg?itok=TE4tuU3s" />
-  </entry>
-  <entry>
-    <title>The Latest: EU economy official hopeful that countries are coming together for Greece deal</title>
-    <link rel="alternate" href="http://www.startribune.com/the-latest-eurozone-summit-on-greece-drags-past-deadline/314506211/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T06:40:12Z</updated>
-    <published>2015-07-13T06:40:12Z</published>
-    <summary type="html">&lt;p&gt;Greece and its creditors may be working past their self-imposed deadline, but currency traders don't seem too alarmed about the uncertainty in the eurozone.&lt;/p&gt;&lt;p&gt;Talks aimed at securing Greece's future in the euro have dragged into Monday with few signs that a meeting of the 19 leaders of the eurozone is coming to an end.&lt;/p&gt;&lt;p&gt;Any deal would see Greece accepting more austerity in exchange for a bailout to prevent its economy from collapsing.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T06:40:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>Global markets rise after Greece bailout deal</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/business/global-markets-rise-after-greece-bailout-deal-1.2466215" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T05:52:00Z</updated>
-    <published>2015-07-13T05:52:00Z</published>
-    <summary type="html">&lt;p&gt;The deal needs approval from Greece's parliament among others.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T05:52:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>European leaders talk through night on Greek bailout, with threat of an exit from the euro</title>
-    <link rel="alternate" href="http://www.startribune.com/greece-talks-drag-beyond-deadline-amid-warnings-of-euro-exit/314504171/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T05:23:15Z</updated>
-    <published>2015-07-13T05:23:15Z</published>
-    <summary type="html">&lt;p&gt;Although the country's annual budget deficit has come down dramatically, Greece's debt burden has increased as the economy has shrunk by a quarter.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T05:23:15Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Greece sticking points are IMF, privatization</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27072166.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T03:45:03Z</updated>
-    <published>2015-07-13T03:45:03Z</published>
-    <summary type="html">&lt;p&gt;A Greek official says Prime Minister Alexis Tsipras has two issues to settle with European creditors before he's in a position to reach an agreement that would help shore up his country's finances and its future in the euro.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T03:45:03Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Asian stocks rise but Greece uncertainty lingers</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/07/12/asian-stock-markets-rise-but-uncertainty-over-greece-bailout-lingers-with-new/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fmarkets+%28Internal+-+Markets+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T03:40:23Z</updated>
-    <published>2015-07-13T03:40:23Z</published>
-    <summary type="html">&lt;p&gt;GREECE FACTOR: European leaders have been gathered to negotiate another bailout for indebted Greece.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T03:40:23Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/feeds/Associated%20Press/2015/07/13/876/493/3bccec63f448e410VgnVCM100000d7c1a8c0____-Financial%20Markets%20Wall%20Street-1.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>The Latest: Greece sticking points are IMF, privatization</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-07-12-EU--Greece%20Bailout-The%20Latest/id-6498fcfb2a0a4cdb86ca9d8fecd8b9d5" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T23:38:00Z</updated>
-    <published>2015-07-12T23:38:00Z</published>
-    <summary type="html">&lt;p&gt;A European official says Greece's European creditors are seeking a deal that would relieve the pressure on the Greek banks that face an acute liquidity crunch as soon as Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T23:38:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece faces pressure to back deal or consider leaving euro</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27069493.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T22:40:04Z</updated>
-    <published>2015-07-12T22:40:04Z</published>
-    <summary type="html">&lt;p&gt;A four-page discussion paper put to eurozone leaders and obtained by The Associated Press spoke of a potential "time-out from the euro area" for Greece if no agreement could be found.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T22:40:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece faces pressure to back deal or consider leaving euro</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greece-faces-pressure-back-deal-223800302.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T22:39:12Z</updated>
-    <published>2015-07-12T22:39:12Z</published>
-    <summary type="html">&lt;p&gt;If the talks don't succeed, some of Greece's eurozone partners warned, the country could be temporarily forced out of the euro, the European single currency that Greece has been a part of since 2002.&lt;/p&gt;&lt;p&gt;It highlighted the increasing frustration of European leaders during five months of fruitless talks with Greece.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T22:39:12Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/iBxMB9pdmLaDZOm2QFNoLw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_HEADLINES_BUSINESS/544dd0c81343021f7c0f6a706700be43_original.jpg" />
-  </entry>
-  <entry>
-    <title>Greece faces pressure to back deal or consider leaving euro</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/12/greek-talks-with-skeptical-creditors-to-resume-sunday" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T22:37:45Z</updated>
-    <published>2015-07-12T22:37:45Z</published>
-    <summary type="html">&lt;p&gt;But other leaders in Brussels say Greece needs even more than that, and are demanding tough austerity measures in exchange.&lt;/p&gt;&lt;p&gt;One of them said the main difference centered on when the European Central Bank could start to increase its emergency liquidity assistance to Greek banks.&lt;/p&gt;&lt;p&gt;Tsipras wants the ECB to help the banks as early as Monday, the official said, but creditors don't want the ECB to act until the Greek Parliament passes certain austerity measures.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T22:37:45Z</dc:date>
-  </entry>
-  <entry>
-    <title>Euro Zone Leaders: Greece Must Do More to Earn Rescue</title>
-    <link rel="alternate" href="http://www.nbcnews.com/news/world/euro-zone-leaders-greece-must-do-more-earn-rescue-n390801" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T21:23:26Z</updated>
-    <published>2015-07-12T21:23:26Z</published>
-    <summary type="html">&lt;p&gt;The document also included a German proposal to make Greece take a "time-out" from the euro zone if it failed to meet the conditions for a loan.&lt;/p&gt;&lt;p&gt;If Greece meets the conditions, the German parliament would meet on Thursday to mandate Merkel and Finance Minister Wolfgang Schaeuble to open the talks on a new loan.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T21:23:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece debt crisis: Eurogroup says no basis to start new bailout deal talks</title>
-    <link rel="alternate" href="http://www.smh.com.au/business/world-business/greece-debt-crisis-eurogroup-says-no-basis-to-start-new-bailout-deal-talks-20150712-giaq7x" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T19:04:52Z</updated>
-    <published>2015-07-12T19:04:52Z</published>
-    <summary type="html">&lt;p&gt;The US added its voice to calls for a Greek bailout deal this weekend, concerned at the geopolitical consequences if Greece were to be cut loose and become a failed state in the fragile southern Balkans, adjoining the Middle East.&lt;/p&gt;&lt;p&gt;The draft said Greece needed 7 billion by July 20, when it must make a crucial bond redemption to the European Central Bank, and a total of 12 billion by mid-August when another ECB payment falls due.&lt;/p&gt;&lt;p&gt;"There is no such thing as temporary Grexit, there is only a Grexit or no Grexit. There is Greece in the euro zone or Greece not in the euro zone. But in that case it's Europe that retreats and no longer progresses and I don't want that," he said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T19:04:52Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/9/6/u/6/image.related.articleLeadwide.620x349.giaq7x.png/1436736463881.jpg" />
-  </entry>
-  <entry>
-    <title>The Latest: Greek Orthodox metropolitan on hand for pope</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27073696.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T19:00:05Z</updated>
-    <published>2015-07-12T19:00:05Z</published>
-    <summary type="html">&lt;p&gt;The head of the Greek Orthodox Church in South America has had a privileged spot at Pope Francis' events this week.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T19:00:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Euro zone leaders: Greece must do more to earn rescue</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/euro-zone-summit-aims-save-095554778.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T18:24:10Z</updated>
-    <published>2015-07-12T18:24:10Z</published>
-    <summary type="html">&lt;p&gt;European Council President Donald Tusk canceled a planned summit of all 28 EU leaders that would have been needed in case of a Greek exit from the single currency, and said euro zone leaders would keep talking "until we conclude talks on Greece".&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T18:24:10Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece closer to desperately needed deal with creditors</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27069493.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T16:30:07Z</updated>
-    <published>2015-07-12T16:30:07Z</published>
-    <summary type="html">&lt;p&gt;Skeptical European creditors raced Sunday to narrow differences both among themselves and with Athens, aiming to come up with a tentative agreement to stave off an immediate financial collapse in Greece that would reverberate across the continent.&lt;/p&gt;&lt;p&gt;Greece moved closer on Sunday to a desperately needed deal with European creditors which would stave off immediate financial collapse and the country's potential exit from the euro but impose more hardship on its people.&lt;/p&gt;&lt;p&gt;Greece desperately needs help to avoid a financial collapse.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T16:30:07Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greek tourist hotspots face big bailout tax hikes</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11479857&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T14:55:18Z</updated>
-    <published>2015-07-12T14:55:18Z</published>
-    <summary type="html">&lt;p&gt;In Schinos, beachside bar and pizzeria owner Stavros Koteas sees the tax hikes as a final blow to what he calls the "slow strangulation" of small Greek businesses.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T14:55:18Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek tourist hotspots face big bailout tax hikes</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/greek-tourist-hotspots-face-big-bailout-tax-hikes/nmxcT/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T14:46:20Z</updated>
-    <published>2015-07-12T14:46:20Z</published>
-    <summary type="html">&lt;p&gt;The consumer paranoia keeping customers away, however, is overshadowed by a Greek government crisis solution that Cromba said could eventually kill her business and many others that depend on domestic Greek tourism.&lt;/p&gt;&lt;p&gt;As bailout Greek negotiations took place in Brussels, all the Greeks who had reservations to stay this weekend at the Efthimiou hotel canceled on owner Michail Efthimiou, leaving him with 10 vacant rooms.&lt;/p&gt;&lt;p&gt;Cromba noted that many small Greek businesses already evade sales taxes where some owners "don't give a receipt so they save the tax for the business and the customer."&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T14:46:20Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/12/ab/a3/0a41acc38ac944e8a1dbf4cd7520eecf-ce9206ade7ca43bca7d4b0a0a1e8b926-0.jpg" />
-  </entry>
-  <entry>
-    <title>Greek tourist hotspots face big bailout tax hikes</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/12/greek-tourist-hotspots-face-big-bailout-tax-hikes" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T14:46:20Z</updated>
-    <published>2015-07-12T14:46:20Z</published>
-    <summary type="html">&lt;p&gt;The Greek meal sales tax in the bailout proposal being considered Sunday by European leaders would boost it from the current 13 percent to 23 percent, while hotels would see room sales taxes rise from 6.5 percent to 13 percent.&lt;/p&gt;&lt;p&gt;Economists say the increased sales taxes will almost certainly lead to a rise in tax evasion, which Greek officials have vowed for years to rectify, with negligible results.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T14:46:20Z</dc:date>
   </entry>
 </feed>

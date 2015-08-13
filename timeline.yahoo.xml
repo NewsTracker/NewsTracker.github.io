@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iwakuma tosses no-hitter in Seattle's 3-0 win over Orioles (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/iwakuma-tosses-no-hitter-seattles-3-0-win-221906651--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T00:22:14Z</updated>
+    <published>2015-08-13T00:22:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-13T00:22:14Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/ofMppoeLc2FpxiZurHXfjw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508121748640945884" />
+  </entry>
+  <entry>
     <title>Home teams win all 15 games for 1st time in MLB history (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/home-teams-win-15-games-first-time-mlb-065329898--mlb.html" />
     <author>
@@ -397,6 +409,18 @@
     <summary type="html" />
     <dc:date>2015-07-29T00:51:13Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Steelers RB Bell has suspension reduced to 2 games (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/steelers-rb-bell-suspension-reduced-2-games-211623068--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T22:52:09Z</updated>
+    <published>2015-07-28T22:52:09Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-28T22:52:09Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/vYkYvnoNrZPWuLRKGGOe2w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507271910690394972" />
   </entry>
   <entry>
     <title>Chiefs Pro Bowl DT Dontari Poe out after back surgery (Yahoo Sports)</title>
@@ -1474,53 +1498,5 @@
     <summary type="html" />
     <dc:date>2015-07-13T17:39:51Z</dc:date>
     <media:content url="https://s1.yimg.com/bt/api/res/1.2/eHGiojf8yXGqCyyUyfejcg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507121103398235947" />
-  </entry>
-  <entry>
-    <title>Thunder match Portland's offer sheet, will keep Kanter (Yahoo Sports)</title>
-    <link rel="alternate" href="https://sports.yahoo.com/news/thunder-match-portlands-offer-sheet-keep-kanter-011822192--nba.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T01:46:46Z</updated>
-    <published>2015-07-13T01:46:46Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-13T01:46:46Z</dc:date>
-    <media:content url="https://s1.yimg.com/bt/api/res/1.2/UDLEdCrREbmEjhTDviWJvQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MDtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507100056034023234" />
-  </entry>
-  <entry>
-    <title>Nieuwenhuis hits 3 HR, Mets win 5-3, sweep DBacks (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/nieuwenhuis-hits-3-hr-mets-win-5-3-200626933--mlb.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T20:10:40Z</updated>
-    <published>2015-07-12T20:10:40Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-12T20:10:40Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/4Z252SMuVTjG0.VEhuAigA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://d.yimg.com/hd/mlbcom/7/1/212ff9ec-82d4-46fe-9884-577c48d52698_cv0DEM91W8O1f1m2ES1ZU_FNMF1c4EEi24DHht2r3YUFS_5EXPImM7CFIfZRZJLmYyedFkh0PRM-_2_0.jpg?s=f378e85a8cef242d8ce65dd904b25741&amp;amp;c=761ea7e059ebe3cb6315f924770245d7&amp;amp;a=mlbcom&amp;amp;mr=0" />
-  </entry>
-  <entry>
-    <title>Djokovic beats Federer for 3rd Wimbledon title, 9th major (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/djkokovic-beats-federer-4-sets-3rd-wimbledon-title-164044113--ten.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T18:24:23Z</updated>
-    <published>2015-07-12T18:24:23Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-12T18:24:23Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
-  </entry>
-  <entry>
-    <title>Tour leader Froome confident heading to Pyrenees mountains (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/bmc-wins-team-time-trial-stage-9-tour-153259393--spt.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T17:33:27Z</updated>
-    <published>2015-07-12T17:33:27Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-12T17:33:27Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/gZ3GMIDufhY0oq1WlyHjSw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507121113404345987" />
   </entry>
 </feed>

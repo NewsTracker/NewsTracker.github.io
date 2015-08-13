@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>National Briefing | Midwest: Missouri: State of Emergency Stays in Place in Ferguson</title>
+    <link rel="alternate" href="http://www.nytimes.com/2015/08/13/us/missouri-state-of-emergency-stays-in-place-in-ferguson.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T03:23:23Z</updated>
+    <published>2015-08-13T03:23:23Z</published>
+    <summary type="html">&lt;p&gt;Ferguson will remain under a state of emergency for at least another night, county officials said on Wednesday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T03:23:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>CTV says reporter charged a year after arrest while covering Ferguson protests</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/08/12/ctv-says-reporter-charged-a-year-after-arrest-while-covering-ferguson-protests" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T14:34:13Z</updated>
+    <published>2015-08-12T14:34:13Z</published>
+    <summary type="html">&lt;p&gt;TORONTO -- CTV says its Los Angeles bureau chief has been charged nearly a year after his arrest while covering the protests in Ferguson, Mo.&lt;/p&gt;</summary>
+    <dc:date>2015-08-12T14:34:13Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297735850254_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>After 2 nights of tension, a peaceful protest in Ferguson</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/general/after-2-nights-of-tension-a-peaceful-protest-in-fe/nnHtd/" />
     <author>
@@ -432,7 +455,7 @@
     </author>
     <updated>2015-08-06T13:49:27Z</updated>
     <published>2015-08-06T13:49:27Z</published>
-    <summary type="html">&lt;p&gt;The Ferguson police force of 50 will be fully staffed this weekend and will have the help of the much larger St. Louis County police force, he said.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The Ferguson police force of 50 will be fully staffed this weekend and will have the help of the much larger St. Louis County police force, he said.&lt;/p&gt;&lt;p&gt;Ferguson Mayor James Knowles said the city has made many reforms in the last year, though it still has more to do.&lt;/p&gt;</summary>
     <dc:date>2015-08-06T13:49:27Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/d47/news/world/article25857894.ece/ALTERNATES/w220/web-wo-us-ferguson06nw1" />
   </entry>

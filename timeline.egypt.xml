@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State Egypt affiliate claims to have beheaded Croatian hostage: Report [Video]</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/08/12/islamic-state-egypt-affiliate-claims-to-have-beheaded-croatian-hostage-report" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T21:39:55Z</updated>
+    <published>2015-08-12T21:39:55Z</published>
+    <summary type="html">&lt;p&gt;Ardiseis Egypt, a unit of French oil and gas geology company CGG, confirmed the video showed one of its employees who was kidnapped on July 22 while travelling to Cairo.&lt;/p&gt;</summary>
+    <dc:date>2015-08-12T21:39:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Online image purports to show Croatian beheaded by extremists in Egypt</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/online-image-purports-to-show-croatian-beheaded-by-extremists-in-egypt-1.2513324" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T13:56:00Z</updated>
+    <published>2015-08-12T13:56:00Z</published>
+    <summary type="html">&lt;p&gt;The picture also contained an inset of two Egyptian newspaper reports, one declaring Croatia's support for Egypt's war against terrorism and another noting Croatia's support for the Kurds, who have been battling the IS group in Syria and Iraq.&lt;/p&gt;</summary>
+    <dc:date>2015-08-12T13:56:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Online image purports to show Croatian hostage beheaded by Islamic State affiliate in Egypt</title>
     <link rel="alternate" href="http://www.startribune.com/online-image-islamic-state-beheads-croat-held-in-egypt/321534311/" />
     <author>
@@ -577,27 +599,5 @@
     <published>2015-07-15T15:27:01Z</published>
     <summary type="html">&lt;p&gt;Egypt's armed forces said they foiled an attempted attack Wednesday on a military post on a highway linking Cairo with the Red Sea coast that was claimed by Islamic State affiliates.&lt;/p&gt;&lt;p&gt;The Islamic State affiliate in Egypt claimed responsibility for the attack, saying that a suicide bomber intentionally blew himself up, killing several soldiers.&lt;/p&gt;&lt;p&gt;Egypt faces threats from multiple insurgent factions, including the Islamic State affiliate in Sinai that the military says killed at least 17 soldiers in a July 1 assault there.&lt;/p&gt;&lt;p&gt;Officials from several branches of Egypt's security forces previously told The Associated Press that that attack killed dozens more.&lt;/p&gt;</summary>
     <dc:date>2015-07-15T15:27:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Film legend Omar Sharif gets solemn sendoff in Egypt</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/entertainment/film-legend-omar-sharif-gets-solemn-sendoff-in-egypt-1.2465640" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T17:45:33Z</updated>
-    <published>2015-07-12T17:45:33Z</published>
-    <summary type="html">&lt;p&gt;"Omar Sharif represented Egypt to the world in the best possible way," said Hussein Fahmy, a popular Egyptian actor who attended the funeral.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T17:45:33Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egyptian lawyers protest colleague's shooting at courthouse</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27076954.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T15:34:51Z</updated>
-    <published>2015-07-12T15:34:51Z</published>
-    <summary type="html">&lt;p&gt;Members of Egypt's lawyers union say it has suspended work in Cairo's Nasr City criminal court to protest a police officer shooting a lawyer there.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T15:34:51Z</dc:date>
   </entry>
 </feed>

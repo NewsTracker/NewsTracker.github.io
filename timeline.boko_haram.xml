@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boko Haram fight: Nigeria's army says 178 captives rescued</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/boko-haram-fight-nigerias-army-says-178-captives-rescued-20150803-giq6p3.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-03T03:47:12Z</updated>
+    <published>2015-08-03T03:47:12Z</published>
+    <summary type="html">&lt;p&gt;Boko Haram was pushed out of most of the vast swathes of territory it controlled at the start of the year but they have dispersed and returned to their guerilla tactics of hitting soft targets with bombs, and raiding towns.&lt;/p&gt;</summary>
+    <dc:date>2015-08-03T03:47:12Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/q/7/9/k/image.related.articleLeadwide.620x349.giq6p3.png/1438573623801.jpg" />
+  </entry>
+  <entry>
     <title>Nigeria: Army rescued 178 people from Boko Haram</title>
     <link rel="alternate" href="http://america.aljazeera.com/articles/2015/8/2/nigeria-army-rescued-178-people-from-boko-haram.html" />
     <author>
@@ -25,6 +37,18 @@
     <published>2015-08-02T23:27:46Z</published>
     <summary type="html">&lt;p&gt;He added that a Boko Haram commander had also been captured and several militant camps were cleared around the town of Bama, about 70 km south-east of the state capital Maiduguri.&lt;/p&gt;&lt;p&gt;Nigeria's airforce also said that it helped ground troops repel an attack by Boko Haram around the village of Bitta on the southern edge of the Sambisa forest reserve, a stronghold of the militant group.&lt;/p&gt;</summary>
     <dc:date>2015-08-02T23:27:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nigeria rescues 178 captives from Boko Haram</title>
+    <link rel="alternate" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/11779576/Nigeria-rescues-178-captives-from-Boko-Haram.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-02T22:57:49Z</updated>
+    <published>2015-08-02T22:57:49Z</published>
+    <summary type="html">&lt;p&gt;Boko Haram has been waging a six-year insurgency in the northeast of Africa's biggest economy in an attempt to establish an Islamist state adhering to strict sharia law.&lt;/p&gt;</summary>
+    <dc:date>2015-08-02T22:57:49Z</dc:date>
+    <media:content url="http://i.telegraph.co.uk/multimedia/archive/03395/boko_3395566a.jpg" />
   </entry>
   <entry>
     <title>Nigeria's Army Says Rescued 178 Captives of Boko Haram</title>

@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>U.S. F-16s fly first sorties from Turkey base against Islamic State targets in Syria</title>
+    <link rel="alternate" href="http://www.japantimes.co.jp/news/2015/08/13/world/u-s-f-16s-fly-first-sorties-turkey-base-islamic-state-targets-syria/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+japantimes_news+%28The+Japan+Times+-+News+%26+Business%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T22:51:03Z</updated>
+    <published>2015-08-12T22:51:03Z</published>
+    <summary type="html">&lt;p&gt;Pentagon officials have said the main advantage of using Incirlik is its proximity to Islamic State targets in northern Syria, although a senior U.S. defense official said Wednesday that the F-16s may also be used on missions over Iraq.&lt;/p&gt;&lt;p&gt;A Foreign Ministry official in Ankara said Wednesday that Turkey has not carried out its own airstrikes against the Islamic State recently because the U.S. asked it to wait so that the two countries can coordinate efforts.&lt;/p&gt;&lt;p&gt;"More than anybody else in the region, Turkey did not want to tangle with ISIS," he added, using an alternative acronym for the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-12T22:51:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Islamic State Egypt affiliate claims to have beheaded Croatian hostage: Report [Video]</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/08/12/islamic-state-egypt-affiliate-claims-to-have-beheaded-croatian-hostage-report" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T21:39:55Z</updated>
+    <published>2015-08-12T21:39:55Z</published>
+    <summary type="html">&lt;p&gt;The group changed its name from Ansar Bayt al-Maqdis to Sinai Province after it pledged allegiance to Islamic State, which controls large areas of Syria and Iraq.&lt;/p&gt;</summary>
+    <dc:date>2015-08-12T21:39:55Z</dc:date>
+  </entry>
+  <entry>
     <title>Online image purports to show Croat killed by Islamic State</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/online-image-islamic-state-beheads-croat-held-in-e/nnHyM/" />
     <author>
@@ -1835,16 +1857,5 @@
     <published>2015-07-13T08:35:34Z</published>
     <summary type="html">&lt;p&gt;BAGHDAD (AP) - A military spokesman says a large-scale military operation to dislodge Islamic State militants from Iraq's western Anbar province has begun.&lt;/p&gt;</summary>
     <dc:date>2015-07-13T08:35:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>British PM asks for drones, troops in fight against Islamic State</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/politics/british-pm-asks-for-drones-troops-in-fight-against-islamic-state-1.2465963" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-12T23:14:10Z</updated>
-    <published>2015-07-12T23:14:10Z</published>
-    <summary type="html">&lt;p&gt;LONDON -- Prime Minister David Cameron wants Britain's military to invest more in drones and elite troops to help counter the threat from the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-07-12T23:14:10Z</dc:date>
   </entry>
 </feed>

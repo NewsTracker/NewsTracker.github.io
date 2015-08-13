@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kristen Stewart addresses her sexuality: ‘Google me, I’m not hiding’</title>
+    <link rel="alternate" href="http://www.independent.co.uk/news/people/kristen-stewart-addresses-her-sexuality-google-me-im-not-hiding-10451950.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T23:22:00Z</updated>
+    <published>2015-08-12T23:22:00Z</published>
+    <summary type="html">&lt;p&gt;But when asked by Nylon Magazine if she was out, her answer was more ambiguous: "Google me, I'm not hiding".&lt;/p&gt;</summary>
+    <dc:date>2015-08-12T23:22:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Google creating new parent company Alphabet</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/08/10/22539326.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T22:02:26Z</updated>
+    <published>2015-08-11T22:02:26Z</published>
+    <summary type="html">&lt;p&gt;Investors cheered the corporate restructuring announced Monday for giving greater visibility into Google's central business and seemed less anxious about zany ventures that may pose as distractions.&lt;/p&gt;&lt;p&gt;Nest, anti-aging company Calico, smart cities company Sidewalk, secretive lab Google X, as well as Google Capital and Google Ventures - two investing units - will all be run separately with their own leaders, Google said.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T22:02:26Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/08/10/google650c.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Google creating new parent company Alphabet</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/08/10/google-forming-new-parent-company-alphabet" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T21:35:53Z</updated>
+    <published>2015-08-11T21:35:53Z</published>
+    <summary type="html">&lt;p&gt;They added that Google's self-driving cars and health ventures, such as storing data on human DNA in the cloud, are potentially profitable, but not for at least several years.&lt;/p&gt;&lt;p&gt;"Heck, Google itself lost money for years before it went public," he said.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T21:35:53Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297735260811_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
     <title>Judge upholds warrant requiring Google to share contents of indicted Rand Paul aide's Gmail</title>
     <link rel="alternate" href="http://www.startribune.com/judge-feds-can-search-emails-of-indicted-rand-paul-aide/321474511/" />
     <author>

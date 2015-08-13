@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.donald_trump.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Here's all the sexist things that Donald Trump has ever said</title>
+    <link rel="alternate" href="http://www.independent.co.uk/news/people/heres-all-the-sexist-things-that-donald-trump-has-ever-said-10452180.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T22:49:01Z</updated>
+    <published>2015-08-12T22:49:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-12T22:49:01Z</dc:date>
+  </entry>
+  <entry>
     <title>Can Donald Trump turn poll numbers into votes?</title>
     <link rel="alternate" href="http://edition.cnn.com/2015/08/12/politics/donald-trump-campaign-2016-elections/index.html?eref=rss_politics" />
     <author>
@@ -14,6 +25,17 @@
     <summary type="html">&lt;p&gt;Can Donald Trump turn poll numbers into votes?&lt;/p&gt;</summary>
     <dc:date>2015-08-12T10:31:42Z</dc:date>
     <media:content url="http://edition.cnn.com/2015/08/12/politics/donald-trump-campaign-2016-elections/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
+    <title>Donald Trump says he'll release policy specifics soon</title>
+    <link rel="alternate" href="http://da.feedsportal.com/c/34253/f/622809/s/48e8236a/sc/3/l/0L0Schicagotribune0N0Cct0Edonald0Etrump0E20A150A8110Estory0Bhtml/ia1.htm" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T01:57:00Z</updated>
+    <published>2015-08-12T01:57:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-12T01:57:00Z</dc:date>
   </entry>
   <entry>
     <title>Donald Trump returns to Fox News after flap</title>
@@ -72,6 +94,17 @@
     <dc:date>2015-08-11T09:01:00Z</dc:date>
   </entry>
   <entry>
+    <title>Megyn Kelly On Donald Trump: 'I Certainly Will Not Apologize For Doing Good Journalism'</title>
+    <link rel="alternate" href="http://www.huffingtonpost.com/entry/megyn-kelly-gop-debate_55c94d4be4b0f73b20ba7ae9?kvcommref=mostpopular" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T01:46:51Z</updated>
+    <published>2015-08-11T01:46:51Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T01:46:51Z</dc:date>
+  </entry>
+  <entry>
     <title>Donald Trump on Megyn Kelly: She should apologize</title>
     <link rel="alternate" href="http://edition.cnn.com/2015/08/10/politics/donald-trump-megyn-kelly-apology/index.html?eref=rss_latest" />
     <author>
@@ -82,6 +115,17 @@
     <summary type="html" />
     <dc:date>2015-08-10T20:04:46Z</dc:date>
     <media:content url="http://edition.cnn.com/2015/08/10/politics/donald-trump-megyn-kelly-apology/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
+    <title>Donald Trump and Roger Ailes Make Up — For Now</title>
+    <link rel="alternate" href="http://nymag.com/daily/intelligencer/2015/08/donald-trump-and-roger-ailes-make-up-for-now.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T19:31:30Z</updated>
+    <published>2015-08-10T19:31:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-10T19:31:30Z</dc:date>
   </entry>
   <entry>
     <title>Donald Trump's policy proposals remain a mystery</title>
