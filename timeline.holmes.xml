@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.holmes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>DA: Theater shooter's life sentence came down to 1 juror</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/us/da-theater-shooters-life-sentence-came-down-to-1-j/nnKcw/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T22:50:22Z</updated>
+    <published>2015-08-14T22:50:22Z</published>
+    <summary type="html">&lt;p&gt;George Brauchler, lead prosecutor in the case against convicted Colorado theater shooter James Holmes, responds to questions during an interview Friday, Aug. 14, 2015, in Centennial, Colo.&lt;/p&gt;&lt;p&gt;Brauchler said that the jury's refusal to sentence Holmes to die for one of the worst massacres in the country's history does not mean the public is growing wary of capital punishment because only a single juror blocked the execution.&lt;/p&gt;&lt;p&gt;The lone holdout felt just as strongly that Holmes should get a life sentence as the 11 other jurors believed he should die for the 2012 shooting, District Attorney George Brauchler said, based on prosecution interviews with some of the panel.&lt;/p&gt;&lt;p&gt;When it was clear she wouldn't budge, the jurors took a vote, and the holdout told them that if mental illness hadn't been a part of Holmes' defense, she too would have favored a death sentence, Brauchler said.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T22:50:22Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/14/18/a0/31e9e3b86fb44f3298cdf9a61aa74e27-5cc671812957448e99801c049e659083-0.jpg" />
+  </entry>
+  <entry>
+    <title>Colorado theatre shooter James Holmes's life spared by single juror</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/colorado-theatre-shooter-james-holmes-s-life-spared-by-single-juror-1.3192076?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T22:41:24Z</updated>
+    <published>2015-08-14T22:41:24Z</published>
+    <summary type="html">&lt;p&gt;The holdout hasn't come forward to speak with prosecutors, but other jurors have said testimony about Holmes' mental illness persuaded her to show mercy.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T22:41:24Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.3192085.1439591848!/cpImage/httpImage/image.jpg_gen/derivatives/original_620/colorado-shooting.jpg" />
+  </entry>
+  <entry>
     <title>Surprise ending at end of Colorado theater shooting trial: James Holmes gets life</title>
     <link rel="alternate" href="http://www.startribune.com/at-end-of-epic-colorado-theater-shooting-trial-a-surprise/321116861/" />
     <author>
@@ -82,7 +106,7 @@
     <dc:date>2015-08-08T01:18:06Z</dc:date>
   </entry>
   <entry>
-    <title>Holmes jurors begin final deliberations: ?Evil? vs. ?mercy?</title>
+    <title>Holmes jurors begin final deliberations: ‘Evil’ vs. ‘mercy’</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article30372438.html%23storylink=rss" />
     <author>
       <name />
@@ -437,7 +461,7 @@
     <media:content url="http://cdn4.belfasttelegraph.co.uk/news/world-news/article31383038.ece/ab752/ALTERNATES/h342/PANews%20BT_P-67ca708b-95d8-47d2-afec-06d0b1190ad0_I1.jpg" />
   </entry>
   <entry>
-    <title>The detective with a new wrinkle in ?Mr. Holmes?</title>
+    <title>The detective with a new wrinkle in ‘Mr. Holmes’</title>
     <link rel="alternate" href="http://www.sfgate.com/movies/article/Mr-Holmes-a-portrait-of-the-detective-as-6386411.php" />
     <author>
       <name />
@@ -461,7 +485,7 @@
     <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/120723040516-james-holmes-court-3-horizontal-large-gallery.jpg" />
   </entry>
   <entry>
-    <title>Ian McKellen works his wizardry as a 93-year-old Sherlock in ?Mr. Holmes?</title>
+    <title>Ian McKellen works his wizardry as a 93-year-old Sherlock in ‘Mr. Holmes’</title>
     <link rel="alternate" href="http://nypost.com/2015/07/15/ian-mckellen-works-his-wizardry-as-a-93-year-old-sherlock-in-mr-holmes/" />
     <author>
       <name />
@@ -496,7 +520,7 @@
     <media:content url="http://ww1.hdnux.com/photos/37/52/72/8302248/33/920x920.jpg" />
   </entry>
   <entry>
-    <title>Colorado shooting defendant James Holmes called ?psychotic? by his attorney</title>
+    <title>Colorado shooting defendant James Holmes called ‘psychotic’ by his attorney</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article27262330.html%23storylink=rss" />
     <author>
       <name />

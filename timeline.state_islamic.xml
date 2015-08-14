@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State leader raped American hostage, US finds</title>
+    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/08/14/family-islamic-state-leader-raped-american-hostage" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T22:49:09Z</updated>
+    <published>2015-08-14T22:49:09Z</published>
+    <summary type="html">&lt;p&gt;The news is but the latest in a litany of horrors perpetrated by the Islamic State group, which has beheaded, burned and crucified male captives while passing around women as sex slaves.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T22:49:09Z</dc:date>
+  </entry>
+  <entry>
     <title>Witnesses say Islamic State leader raped American hostage Kayla Mueller, who was later killed</title>
     <link rel="alternate" href="http://www.startribune.com/family-islamic-state-leader-raped-american-hostage/321898081/" />
     <author>
@@ -1869,7 +1880,7 @@
     <dc:date>2015-07-17T10:35:35Z</dc:date>
   </entry>
   <entry>
-    <title>Egypt?s Islamic State affiliate says it rocketed navy vessel</title>
+    <title>Egypt’s Islamic State affiliate says it rocketed navy vessel</title>
     <link rel="alternate" href="http://nypost.com/2015/07/16/egypts-islamic-state-affiliate-says-it-rocketed-navy-vessel/" />
     <author>
       <name />
@@ -1982,17 +1993,5 @@
     <summary type="html">&lt;p&gt;The poll, released overnight, found that Australia and nine other countries with advanced economies all ranked Islamic State (IS) as the biggest threat.&lt;/p&gt;&lt;p&gt;In Australia, 69 per cent of respondents said they were "very concerned" by the threat posed by Islamic State.&lt;/p&gt;</summary>
     <dc:date>2015-07-15T08:04:41Z</dc:date>
     <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/9/4/f/e/image.related.articleLeadwide.620x349.giczel.png/1436947392590.jpg" />
-  </entry>
-  <entry>
-    <title>Boston police captain's son held without bail in Islamic State-inspired bomb plot</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/14/boston-police-captains-son-held-without-bail-in-islamic-state-inspired-bomb-plot" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T23:13:56Z</updated>
-    <published>2015-07-14T23:13:56Z</published>
-    <summary type="html">&lt;p&gt;Investigators have since alleged he wanted to help Islamic State by attacking an unnamed university with pressure- cooker bombs he was assembling in his apartment, similar to those used in the 2013 Boston Marathon attack.&lt;/p&gt;&lt;p&gt;In the post-arrest video played in court on Tuesday, Ciccolo did not detail an attack plot but defended Islamic State's hostage executions and agreed with an FBI interviewer that all Americans should be considered "enemies".&lt;/p&gt;&lt;p&gt;His attorney, David Hoose, said Ciccolo had so far only been charged with gun violations and that his views on Islamic State should not be considered.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T23:13:56Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297724473166_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
   </entry>
 </feed>

@@ -4,6 +4,62 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple said to show interest in automotive testing facility</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Apple-said-to-show-interest-in-automotive-testing-6445212.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T21:58:52Z</updated>
+    <published>2015-08-14T21:58:52Z</published>
+    <summary type="html">&lt;p&gt;Apple, which is best known for making iPhones and Mac computers, hasn't said what kind of testing it hoped to conduct at the GoMentum Station automotive testing facility, which used to be a naval station in the San Francisco Bay Area city of Concord.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T21:58:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple said to show interest in automotive testing facility</title>
+    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Apple-said-to-show-interest-in-automotive-testing-6445212.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T21:58:52Z</updated>
+    <published>2015-08-14T21:58:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T21:58:52Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/40/21/74/8462096/5/landscape_32.jpg" />
+  </entry>
+  <entry>
+    <title>Apple said to show interest in automotive testing facility</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/08/14/apple-said-to-show-interest-in-automotive-testing-facility" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T21:58:52Z</updated>
+    <published>2015-08-14T21:58:52Z</published>
+    <summary type="html">&lt;p&gt;Apple has "shown interest" in the facility but has not reached any agreement for testing there, Hall said.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T21:58:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Apple is building a self-driving car: report</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/national/apple-building-self-driving-car-report-article-1.2326373?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T21:40:38Z</updated>
+    <published>2015-08-14T21:40:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T21:40:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>iCar? Apple said to be interested in auto testing ground</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/icar-apple-said-to-be-interested-in-auto-testing-ground-1.2517553" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T21:37:18Z</updated>
+    <published>2015-08-14T21:37:18Z</published>
+    <summary type="html">&lt;p&gt;Apple declined comment Friday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T21:37:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Hedge funds added Apple shares in second quarter, filings show</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/hedge-funds-added-apple-shares-164512648.html" />
     <author>
@@ -386,7 +442,7 @@
     <media:content url="ww.smh.com.au/content/dam/images/g/i/i/r/r/5/image.related.articleLeadwide.620x349.giip2q.png/1437619462367.jpg" />
   </entry>
   <entry>
-    <title>?For many consumers, Apple Watch isn't a gotta have</title>
+    <title>​For many consumers, Apple Watch isn't a gotta have</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/for-many-consumers-apple-watch-isnt-a-gotta-have/" />
     <author>
       <name />
@@ -501,7 +557,7 @@
     <dc:date>2015-07-22T14:25:17Z</dc:date>
   </entry>
   <entry>
-    <title>Apple's $62B hit is bad?but it's not the worst</title>
+    <title>Apple's $62B hit is bad…but it's not the worst</title>
     <link rel="alternate" href="http://www.cnbc.com/2015/07/22/apples-62b-hit-is-badbut-its-not-the-worst.html" />
     <author>
       <name />

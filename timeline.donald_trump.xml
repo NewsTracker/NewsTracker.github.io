@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.donald_trump.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Donald Trump called for jury duty</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/08/14/politics/trump-jury-duty/index.html?eref=rss_topstories" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T21:01:49Z</updated>
+    <published>2015-08-14T21:01:49Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T21:01:49Z</dc:date>
+    <media:content url="http://edition.cnn.com/2015/08/14/politics/trump-jury-duty/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
     <title>How Donald Trump was present at the TV Critics meetings</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/tv/article31084533.html%23storylink=rss" />
     <author>
@@ -162,7 +174,7 @@
     <media:content url="http://edition.cnn.com/2015/08/10/politics/donald-trump-megyn-kelly-apology/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
   </entry>
   <entry>
-    <title>Donald Trump and Roger Ailes Make Up ? For Now</title>
+    <title>Donald Trump and Roger Ailes Make Up — For Now</title>
     <link rel="alternate" href="http://nymag.com/daily/intelligencer/2015/08/donald-trump-and-roger-ailes-make-up-for-now.html" />
     <author>
       <name />
