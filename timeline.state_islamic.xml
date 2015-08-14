@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Witnesses say Islamic State leader raped American hostage Kayla Mueller, who was later killed</title>
+    <link rel="alternate" href="http://www.startribune.com/family-islamic-state-leader-raped-american-hostage/321898081/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T20:51:03Z</updated>
+    <published>2015-08-14T20:51:03Z</published>
+    <summary type="html">&lt;p&gt;The Islamic State group claimed Mueller was killed in a Jordanian air strike near Raqqah, the group's self-declared capital in Syria.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T20:51:03Z</dc:date>
+  </entry>
+  <entry>
+    <title>Witnesses say Islamic State leader raped American hostage Kayla Mueller, who was later killed</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/08/14/witnesses-say-islamic-state-leader-raped-american-hostage-kayla-mueller-who-was-later-killed" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T20:10:10Z</updated>
+    <published>2015-08-14T20:10:10Z</published>
+    <summary type="html">&lt;p&gt;Mueller, whose death was reported in February, was held for a time by Islamic State financier Abu Sayyaf and his wife, known as Umm Sayyaf.&lt;/p&gt;&lt;p&gt;Abu Sayyaf was killed in a Delta Force raid of his Syrian compound in June, which resulted in a treasure trove of intelligence about the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T20:10:10Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297736936731_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
+  </entry>
+  <entry>
+    <title>Islamic State leader reportedly raped American hostage</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/08/14/islamic-state-leader-reportedly-raped-american-hostage/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T19:48:21Z</updated>
+    <published>2015-08-14T19:48:21Z</published>
+    <summary type="html">&lt;p&gt;The parents of the late American hostage Kayla Mueller say they were told by American officials that their daughter was repeatedly forced to have sex with Abu Bakr Baghdadi, the leader of the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T19:48:21Z</dc:date>
+  </entry>
+  <entry>
     <title>France to rally aid for religious minorities targeted by IS</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/france-to-rally-aid-for-religious-minorities-targe/nnKMw/" />
     <author>
@@ -1835,7 +1869,7 @@
     <dc:date>2015-07-17T10:35:35Z</dc:date>
   </entry>
   <entry>
-    <title>Egypt’s Islamic State affiliate says it rocketed navy vessel</title>
+    <title>Egypt?s Islamic State affiliate says it rocketed navy vessel</title>
     <link rel="alternate" href="http://nypost.com/2015/07/16/egypts-islamic-state-affiliate-says-it-rocketed-navy-vessel/" />
     <author>
       <name />
