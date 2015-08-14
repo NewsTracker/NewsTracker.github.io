@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: cia</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>AP EXCLUSIVE: Top secret Clinton emails include drone talk</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article31075266.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T12:26:07Z</updated>
+    <published>2015-08-14T12:26:07Z</published>
+    <summary type="html">&lt;p&gt;The two emails were marked classified after consultations with the CIA, which is where the material originated, officials said.&lt;/p&gt;&lt;p&gt;The drone exchange, the officials said, begins with a copy of a news article that discusses the CIA drone program that targets terrorists in Pakistan and elsewhere.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T12:26:07Z</dc:date>
+  </entry>
 </feed>

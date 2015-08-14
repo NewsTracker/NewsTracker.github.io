@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Police: 3 Killed in Baltimore Shooting; No Motive Released</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/police-killed-baltimore-shooting-motive-released-33081193" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T12:32:42Z</updated>
+    <published>2015-08-14T12:32:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T12:32:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Psych firm that screens Baltimore cops under review</title>
     <link rel="alternate" href="http://www.miamiherald.com/living/health-fitness/article30205152.html%23storylink=rss" />
     <author>
