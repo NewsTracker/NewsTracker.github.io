@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>County Halts Ferguson State of Emergency; Police Vigilant</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/county-halts-ferguson-state-emergency-police-vigilant-33083844" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T14:42:12Z</updated>
+    <published>2015-08-14T14:42:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T14:42:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>County halts Ferguson state of emergency; police vigilant</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/14/county-halts-ferguson-state-of-emergency-police/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T14:42:01Z</updated>
+    <published>2015-08-14T14:42:01Z</published>
+    <summary type="html">&lt;p&gt;(AP) - St. Louis County has lifted the state of emergency that was imposed in Ferguson and the surrounding area after shootings during protests to mark the anniversary of Michael Brown's death.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T14:42:01Z</dc:date>
+  </entry>
+  <entry>
     <title>National Briefing | Midwest: Missouri: State of Emergency Stays in Place in Ferguson</title>
     <link rel="alternate" href="http://www.nytimes.com/2015/08/13/us/missouri-state-of-emergency-stays-in-place-in-ferguson.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
     <author>
@@ -298,6 +320,18 @@
     <summary type="html" />
     <dc:date>2015-08-10T23:41:12Z</dc:date>
     <media:content url="http://ichef.bbci.co.uk/news/976/cpsprodpb/2A62/production/_84805801_028511470-1.jpg" />
+  </entry>
+  <entry>
+    <title>Police shooting, protests put Ferguson back on edge</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/news/ap/top-news/police-man-shot-at-ferguson-protest-critically-inj/nnGfL/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-10T21:42:46Z</updated>
+    <published>2015-08-10T21:42:46Z</published>
+    <summary type="html">&lt;p&gt;"Of course I'm worried," said Sandy Sansevere, a retired health care worker who volunteers at the retail store operated by the nonprofit group I Love Ferguson, which was formed after Brown's death to promote the community.&lt;/p&gt;</summary>
+    <dc:date>2015-08-10T21:42:46Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/10/a7/e9/c93e62f3b6f34d0f84e67317a4ee0a41-2e1a678a46cd40558a86b100d7d2173e-10.jpg" />
   </entry>
   <entry>
     <title>Ferguson: State of emergency set after anniversary violence</title>

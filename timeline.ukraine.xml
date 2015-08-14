@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cease-fire violations in eastern Ukraine discussed by Russian, German foreign ministers</title>
+    <link rel="alternate" href="http://www.startribune.com/ceasefire-violations-in-eastern-ukraine-cause-concern/321868091/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T15:00:19Z</updated>
+    <published>2015-08-14T15:00:19Z</published>
+    <summary type="html">&lt;p&gt;MOSCOW - Russia and Germany both expressed concern Friday about violations of the cease-fire in eastern Ukraine and the risk of a new escalation of the conflict.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T15:00:19Z</dc:date>
+  </entry>
+  <entry>
     <title>US: alleged insider trading ring relied on hackers from Ukraine</title>
     <link rel="alternate" href="http://www.euronews.com/2015/08/12/us-alleged-insider-trading-ring-relied-on-hackers-from-ukraine/" />
     <author>

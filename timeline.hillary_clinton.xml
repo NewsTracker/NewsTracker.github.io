@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton lands key endorsement of Iowa pol Tom Harkin</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-lands-key-endorsement-iowa-pol-tom-harkin-article-1.2325726?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+nydnrss%2Fnews%2Fnational+%28News%2FNational%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T14:24:19Z</updated>
+    <published>2015-08-14T14:24:19Z</published>
+    <summary type="html">&lt;p&gt;"We need a fighter who has a record of getting things done and the vision for the future that will build on the progress we've made. For my wife, Ruth and I, that candidate is Hillary Clinton," he writes.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T14:24:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Jeb Bush says Hillary Clinton shares blame for Islamic State rise</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/us/Jeb-Bush-says-Hillary-Clinton-shares-blame-for-Islamic-State-rise/articleshow/48462425.cms" />
     <author>
@@ -629,29 +640,5 @@
     <summary type="html" />
     <dc:date>2015-07-15T07:17:03Z</dc:date>
     <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Clinton backs Iran nuclear agreement as 'important step'</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/politics-government/article27207406.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T15:24:51Z</updated>
-    <published>2015-07-14T15:24:51Z</published>
-    <summary type="html">&lt;p&gt;Democratic presidential candidate Hillary Rodham Clinton walks with House Minority Leader Nancy Pelosi of Calif. on Capitol Hill in Washington, Tuesday, July 14, 2015.&lt;/p&gt;&lt;p&gt;Hillary Rodham Clinton praised the nuclear deal with Iran on Tuesday as an "important step," saying the agreement would end up "putting the lid on Iran's nuclear program."&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T15:24:51Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Hillary Clinton Backs Iran Nuclear Agreement</title>
-    <link rel="alternate" href="http://www.usnews.com/news/politics/articles/2015/07/14/clinton-backs-iran-nuclear-agreement-as-important-step" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T15:19:39Z</updated>
-    <published>2015-07-14T15:19:39Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T15:19:39Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/7f6edf3/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fc4%2Fab83cf1eb946c3e9e31538d8517c43%2Fmedia%3Ab6e03ca66a304f19a14b1c8eec258b9bDEMClinton2016.JPEG" />
   </entry>
 </feed>

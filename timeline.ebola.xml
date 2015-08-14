@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>As Ebola cases decline, ZMapp drug trial answers unclear</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/health/as-ebola-cases-decline-zmapp-drug-trial-answers-unclear-1.3191049?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T14:06:09Z</updated>
+    <published>2015-08-14T14:06:09Z</published>
+    <summary type="html">&lt;p&gt;Moments after the first person treated with ZMapp started receiving the experimental Ebola drug he could feel effects which suggested it was working.&lt;/p&gt;&lt;p&gt;A study of another drug, TKM-Ebola, was stopped when its Data and Safety Monitoring Board concluded there was no hope giving it to more people would show it was effective.&lt;/p&gt;&lt;p&gt;Lane says he had anticipated that an answer would be found when the trial had enrolled somewhere between 40 and 100 Ebola patients.&lt;/p&gt;&lt;p&gt;They argue ZMapp cannot save Ebola patients who are too far along in the disease, so enrolling them in the study makes it harder to see if and how well the drug works.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T14:06:09Z</dc:date>
+    <media:content url="http://i.cbc.ca/1.2811548.1414156445!/fileImage/httpImage/image.jpg_gen/derivatives/original_300/who-ebola-marie-paule-kieny.jpg" />
+  </entry>
+  <entry>
     <title>UN official: Ebola epidemic could be defeated by end of 2015</title>
     <link rel="alternate" href="http://www.sfgate.com/news/us/article/UN-official-Ebola-epidemic-could-be-defeated-by-6442438.php" />
     <author>
@@ -238,17 +250,5 @@
     <summary type="html" />
     <dc:date>2015-07-14T16:14:52Z</dc:date>
     <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Health/876/493/ebola_istock.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Liberia confirms new Ebola case as outbreak spreads</title>
-    <link rel="alternate" href="http://www.foxnews.com/health/2015/07/14/liberia-confirms-new-ebola-case-as-outbreak-spreads/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fhealth+%28Internal+-+Health+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T13:41:40Z</updated>
-    <published>2015-07-14T13:41:40Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T13:41:40Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Health/876/493/ebola_liberia_unicef_tent_reuters.jpg?ve=1&amp;amp;tl=1" />
   </entry>
 </feed>
