@@ -4,7 +4,7 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
-    <title>Soccer Canada’s Montagliani joins FIFA reform task force</title>
+    <title>Soccer Canada?s Montagliani joins FIFA reform task force</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/sports/soccer/soccer-canadas-montagliani-joins-fifa-reform-task-force/article25929850/?cmpid=rss1" />
     <author>
       <name />
@@ -233,7 +233,7 @@
     <dc:date>2015-07-28T11:43:28Z</dc:date>
   </entry>
   <entry>
-    <title>Fifa’s Sepp Blatter deserves Nobel prize, says Russia’s president Vladimir Putin</title>
+    <title>Fifa?s Sepp Blatter deserves Nobel prize, says Russia?s president Vladimir Putin</title>
     <link rel="alternate" href="http://www.theguardian.com/football/2015/jul/27/fifa-sepp-blatter-nobel-prize-russia-president-vladimir-putin" />
     <author>
       <name />
@@ -941,7 +941,7 @@
     <media:content url="http://www.usnews.com/dims4/USNEWS/dd15760/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F84%2Fe93eee2464922ac3a880f18888ef21%2Fmedia%3Ae3f021253d794063a5bd33734d19b871SoccerFIFAElectionPrinceAli.JPEG" />
   </entry>
   <entry>
-    <title>FIFA leadership meet to set date for vote on Blatter’s replacement</title>
+    <title>FIFA leadership meet to set date for vote on Blatter?s replacement</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/fifa-leadership-meet-to-set-date-for-vote-on-blatters-replacement/article25589203/?cmpid=rss1" />
     <author>
       <name />
@@ -1336,7 +1336,7 @@
     <dc:date>2015-07-16T09:20:19Z</dc:date>
   </entry>
   <entry>
-    <title>Senators: Why didn’t U.S. Soccer expose FIFA corruption?</title>
+    <title>Senators: Why didn?t U.S. Soccer expose FIFA corruption?</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article27356605.html%23storylink=rss" />
     <author>
       <name />
@@ -1357,17 +1357,5 @@
     <published>2015-07-15T21:48:17Z</published>
     <summary type="html">&lt;p&gt;WASHINGTON (AP) - U.S. Soccer Federation chief executive Dan Flynn said Wednesday he had no direct knowledge of bribery or kickbacks exchanged by FIFA officials but experienced moments of "discomfort" during meetings.&lt;/p&gt;</summary>
     <dc:date>2015-07-15T21:48:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Blatter to face media for first time since stepping down</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/14/blatter-face-media-first-time-stepping-down" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T22:22:52Z</updated>
-    <published>2015-07-13T22:22:52Z</published>
-    <summary type="html">&lt;p&gt;ZURICH (Reuters) - Sepp Blatter is set to face the media in Zurich on July 20 for the first time since he announced last month that he would step down as president of soccer's governing body FIFA.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T22:22:52Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-13T165039Z_1_LYNXNPEB6C0TM_RTROPTP_2_SOCCER-FIFA-BLATTER.JPG?itok=hpOHxK5o" />
   </entry>
 </feed>

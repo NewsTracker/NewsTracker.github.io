@@ -154,6 +154,18 @@
     <media:content url="http://cdn2.belfasttelegraph.co.uk/news/world-news/article31404299.ece/2b1ba/ALTERNATES/h342/PANews%20BT_P-bbe120ee-be68-4929-8868-424cb147f370_I1.jpg" />
   </entry>
   <entry>
+    <title>US aiding and abetting Boko Haram by refusing Nigeria arms, says Buhari</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/7/23/bombs-kill-29-as-nigerian-leader-says-us-hampering-fight1.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-23T12:30:00Z</updated>
+    <published>2015-07-23T12:30:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-23T12:30:00Z</dc:date>
+    <media:content url="merica.aljazeera.com/content/ajam/articles/2015/7/17/suicide-bombs-kill-64-in-nigeria/_jcr_content/image.adapt.480.low.Boko_Haram_052214.jpg" />
+  </entry>
+  <entry>
     <title>Bombs kill 29 as Nigerian leader says US hampering fight</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/23/bombs-kill-29-as-nigerian-leader-says-us-hampering-fight" />
     <author>
@@ -285,16 +297,5 @@
     <published>2015-07-17T12:28:07Z</published>
     <summary type="html">&lt;p&gt;Nigeria's Boko Haram extremists are blamed for the latest in a string of attacks that have killed hundreds recently.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T12:28:07Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nigerian top brass pay the price for failure on Boko Haram</title>
-    <link rel="alternate" href="http://www.independent.co.uk/news/world/africa/nigerian-top-brass-pay-the-price-for-failure-on-boko-haram-10386438.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T01:45:00Z</updated>
-    <published>2015-07-14T01:45:00Z</published>
-    <summary type="html">&lt;p&gt;Since his inauguration in May, he has moved his defence command centre to Boko Haram's birthplace Maiduguri and is setting up the HQ for a multinational task force in Chad's capital, N'Djamena.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T01:45:00Z</dc:date>
   </entry>
 </feed>

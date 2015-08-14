@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek parliament approves ?85bn bailout deal</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0814/721143-greece-economy/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T11:52:02Z</updated>
+    <published>2015-08-14T11:52:02Z</published>
+    <summary type="html">&lt;p&gt;The IMF made clear it would participate in the programme only if Europe agreed to ease Greece's huge debt burden.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T11:52:02Z</dc:date>
+    <media:content url="http://img.rasset.ie/000afa95-117.jpg" />
+  </entry>
+  <entry>
+    <title>Greek lawmakers back 3rd bailout after all-night debate</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greece-all-night-debate-on-new-bailout/nnKCZ/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T09:52:35Z</updated>
+    <published>2015-08-14T09:52:35Z</published>
+    <summary type="html">&lt;p&gt;Greek lawmakers approved their country's draft third bailout in a parliamentary vote Friday that relied on opposition party support and saw the government coalition suffer significant dissent.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T09:52:35Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/14/bb/a9/a1bb0929859a4862b0fc37be4a0eaa64-c71cecd1726d4022b2fef3ae938c0859-4.jpg" />
+  </entry>
+  <entry>
+    <title>Greek lawmakers back 3rd bailout after all-night debate</title>
+    <link rel="alternate" href="http://www.latimes.com/world/europe/la-fg-greek-lawmakers-back-bailout-20150814-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T08:43:00Z</updated>
+    <published>2015-08-14T08:43:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T08:43:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek lawmakers bicker on bailout hours before euro zone verdict</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/14/us-eurozone-greece-bailout-idUSKCN0QI0W620150814?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T01:55:03Z</updated>
+    <published>2015-08-14T01:55:03Z</published>
+    <summary type="html">&lt;p&gt;"The IMF ... will make an assessment of its participation in providing any additional financing to Greece once the steps on the authorities' program and debt relief have been taken," IMF Greece mission chief Delia Velculescu said in a statement.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T01:55:03Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150814&amp;amp;i=110517402&amp;amp;w=240&amp;amp;r=110517402-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Greek government defends bailout deal ahead of vote</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-lawmakers-to-discuss-bailout-bill-in-parliam/nnJbd/" />
     <author>
@@ -944,7 +991,7 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/24/d8/27/d3d7382b009f4a1ca90748d417cb0b52-7fcb1f3056a747ae925c1a038b6d80bd-0_1.jpg" />
   </entry>
   <entry>
-    <title>Security worries delay start of Greece’s new bailout talks</title>
+    <title>Security worries delay start of Greece?s new bailout talks</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/security-worries-delay-start-of-greeces-new-bailout-talks/article25659250/?cmpid=rss1" />
     <author>
       <name />
@@ -2762,7 +2809,7 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/14/d6/60/ae143f5d47164fce86a77de4a72b6f4a-6e04fd279b1540979adf82af0e16ca5f-1.jpg" />
   </entry>
   <entry>
-    <title>Alexis Tsipras: bailout a ‘bad deal’ but the best Greece could get</title>
+    <title>Alexis Tsipras: bailout a ?bad deal? but the best Greece could get</title>
     <link rel="alternate" href="http://www.theguardian.com/world/2015/jul/15/alexis-tsipras-bailout-greece-debt-crisis" />
     <author>
       <name />
@@ -2876,271 +2923,5 @@
     <summary type="html">&lt;p&gt;But after dragging out the rescue talks for months, Tsipras was out of alternatives this week: without a deal, Greece's banks would likely have collapsed, pulling the country out of the euro, Europe's joint currency.&lt;/p&gt;</summary>
     <dc:date>2015-07-14T13:53:02Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/flsa_etxwb8PQqGRbOCp1A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_HEADLINES_BUSINESS/f9fb83f063de291f7c0f6a7067003ad2_original.jpg" />
-  </entry>
-  <entry>
-    <title>Global stocks uneven as focus on Greece, China drop</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27190612.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T12:35:05Z</updated>
-    <published>2015-07-14T12:35:05Z</published>
-    <summary type="html">&lt;p&gt;Global stock markets were uneven Tuesday as investors digested the details and possible risks in Greece's preliminary rescue deal and China's main index fell after three days of gains.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T12:35:05Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece needs debt relief far beyond EU plans: secret IMF report</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/exclusive-greece-needs-debt-relief-115211623.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T12:22:27Z</updated>
-    <published>2015-07-14T12:22:27Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T12:22:27Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/Og.9FdtboZ_BrQRaQ4ThHw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/SG_AHTTP_OLGBBUS_Wrapper_NewFeed_1/2015-07-14T122227Z_2_LYNXNPEB6D0J5_RTROPTP_3_EUROZONE-GREECE_original.jpg" />
-  </entry>
-  <entry>
-    <title>Greek lawmakers split over bailout as vote looms</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/greek-pm-tsipras-faces-party-022322066.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T11:36:52Z</updated>
-    <published>2015-07-14T11:36:52Z</published>
-    <summary type="html">&lt;p&gt;He and a parliamentary spokesman for Syriza railed against what he described as a "coup" by creditors to force Greece to accept harsh reforms, while opponents of the new measures are planning strikes and protests in the coming days.&lt;/p&gt;&lt;p&gt;Fighting its own battle with Brussels to secure reforms of the European Union, British Finance Minister George Osborne has ruled out any financial involvement in a fresh bailout for Greece.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T11:36:52Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Finland expects to find a way to get Greece quick loan to meet upcoming debts</title>
-    <link rel="alternate" href="http://www.startribune.com/the-latest-britain-count-us-out-for-greek-rescue-money/314834561/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T10:00:34Z</updated>
-    <published>2015-07-14T10:00:34Z</published>
-    <summary type="html">&lt;p&gt;Arriving for Tuesday's meeting of the 28 finance ministers of the European Union, Jeroen Dijsselbloem said discussions will take place over the coming couple of days on how to get Greece so-called bridge financing.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T10:00:34Z</dc:date>
-    <media:content url="http://stmedia.stimg.co/GREECE_BAILOUT_35699991.JPG?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
-  </entry>
-  <entry>
-    <title>The Latest: Ireland says Greece misstep was to delay deal</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11480917&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T08:45:21Z</updated>
-    <published>2015-07-14T08:45:21Z</published>
-    <summary type="html">&lt;p&gt;Timing is everything, says Irish Finance Minister Michael Noonan, and Greece got its timing all wrong during the bailout negotiations.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T08:45:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Ireland says Greece misstep was to delay deal</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11480917&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T08:45:21Z</updated>
-    <published>2015-07-14T08:45:21Z</published>
-    <summary type="html">&lt;p&gt;After the 19 eurozone leaders reached a tentative deal to keep Greece from financial collapse on Monday, Noonan says Greece could have been in a much better situation had it clinched a deal much earlier " like in February, when it faced a first bailout deadline.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T08:45:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Germany says Greece needs 1st loan by next week</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-07-14-EU--Greece-Bailout-The%20Latest/id-00e9b7dfae884e28b2a6b1b3a43dfe7d" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T08:45:00Z</updated>
-    <published>2015-07-14T08:45:00Z</published>
-    <summary type="html">&lt;p&gt;British Treasury chief George Osborne arrived to a EU meeting of finance minister with a clear message, don't expect Britain, which is not part of the euro, to pay for any of Greece's rescue money.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T08:45:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Investors hope US earnings lift markets as fears fade</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27191638.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T07:10:05Z</updated>
-    <published>2015-07-14T07:10:05Z</published>
-    <summary type="html">&lt;p&gt;Fears about Greece and China have shaken up the market this summer.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T07:10:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Investors hope US earnings lift markets as fears fade</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/14/investors-hope-us-earnings-lift-markets-as-fears-fade" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T07:06:21Z</updated>
-    <published>2015-07-14T07:06:21Z</published>
-    <summary type="html">&lt;p&gt;NEW YORK (AP) - After fretting over a Greek bailout, a collapse in Chinese stocks and the timing of an interest rate increase, investors are hoping U.S. corporate earnings will bring more reassuring news this month.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T07:06:21Z</dc:date>
-  </entry>
-  <entry>
-    <title>Investors hope US earnings lift markets as fears fade</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/investors-hope-us-earnings-lift-markets-as-fears-f/nmyQd/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T07:06:21Z</updated>
-    <published>2015-07-14T07:06:21Z</published>
-    <summary type="html">&lt;p&gt;Sure, Greece has been in a drag on stocks in recent weeks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T07:06:21Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/14/0f/c6/73cc17796ec848809810d426292c897d-a71bc92f86144145a57b33465b2e2ffc-0.jpg" />
-  </entry>
-  <entry>
-    <title>Investors hope US earnings lift markets as fears fade</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/energy/article/Investors-hope-US-earnings-lift-markets-as-fears-6383015.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T07:06:21Z</updated>
-    <published>2015-07-14T07:06:21Z</published>
-    <summary type="html">&lt;p&gt;But the European economy was actually showing signs of strength before anxiety soared over Greece possibly leaving the eurozone - the group of 19 countries that share the single euro currency.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T07:06:21Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/37/53/53/8305361/3/628x471.jpg" />
-  </entry>
-  <entry>
-    <title>Greek PM Alexis Tsipras faces party revolt over eurozone bailout deal</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/business/world-business/greek-pm-alexis-tsipras-faces-party-revolt-over-eurozone-bailout-deal-20150714-gibx7g.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T05:55:05Z</updated>
-    <published>2015-07-14T05:55:05Z</published>
-    <summary type="html">&lt;p&gt;Greek deal is a disaster for Greece, and maybe...&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T05:55:05Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/b/p/l/o/image.related.articleLeadwide.620x349.gibx7g.png/1436853286979.jpg" />
-  </entry>
-  <entry>
-    <title>Greek PM faces fierce dissent on bailout deal at home</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/business/greece-crisis-pm-alexis-tsipras-faces-fierce-dissent-on-bailout-deal-1.3150675?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T05:29:11Z</updated>
-    <published>2015-07-14T05:29:11Z</published>
-    <summary type="html">&lt;p&gt;Passage of the new measures appears assured, since Greece's opposition parties have pledged to support Tsipras' deal.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T05:29:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Asian stock markets lifted by Greece deal, China's 4th day of gains</title>
-    <link rel="alternate" href="http://www.startribune.com/stocks-rise-as-greece-gets-a-new-bailout-deal/314543531/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T03:45:12Z</updated>
-    <published>2015-07-14T03:45:12Z</published>
-    <summary type="html">&lt;p&gt;ANALYST'S TAKE: "Whether Greece has walked the plank to an economic and political collapse is still unknown," said Bernard Aw of IG Markets in a report.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T03:45:12Z</dc:date>
-    <media:content url="http://stmedia.stimg.co/ows_143675576438576.jpg?w=600&amp;amp;amp;h=600" />
-  </entry>
-  <entry>
-    <title>Asia stocks lifted by Greece deal, China's 4th day of gains</title>
-    <link rel="alternate" href="http://www.seattlepi.com/business/energy/article/Stocks-rise-as-Greece-gets-a-new-bailout-deal-6381415.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T03:42:03Z</updated>
-    <published>2015-07-14T03:42:03Z</published>
-    <summary type="html">&lt;p&gt;The agreement removes the immediate threat Greece would default on its debts and leave the euro.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T03:42:03Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/37/52/43/8300759/21/gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Asia stocks lifted by Greece deal, China's 4th day of gains</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/energy/article/Stocks-rise-as-Greece-gets-a-new-bailout-deal-6381415.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T03:42:03Z</updated>
-    <published>2015-07-14T03:42:03Z</published>
-    <summary type="html">&lt;p&gt;BEIJING (AP) - Asian stock markets were mostly higher Tuesday after Greece and its European creditors agreed on a bailout and Chinese shares rose for a fourth day following a massive government intervention.&lt;/p&gt;&lt;p&gt;GREECE RESPITE: Greece struck a preliminary rescue deal with other European Union governments that should avert an imminent financial catastrophe but guarantees years more hardship for its people.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T03:42:03Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/52/43/8300758/21/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Asian shares rise as Greek deal gets cautious nod</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/asian-shares-rise-greek-deal-020611206.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T02:06:11Z</updated>
-    <published>2015-07-14T02:06:11Z</published>
-    <summary type="html">&lt;p&gt;TOKYO (Reuters) - Asian shares rose on Tuesday on hopes that Greece's conditional bailout agreement would bring to an end that country's debt crisis, though caution kept broad gains in check.&lt;/p&gt;&lt;p&gt;Greece's Prime Minister Alexis Tsipras will face a showdown with members of his own party later on Tuesday, over the agreement under which Greece can get a possible 86 billion euros ($95 billion) over three years if it can satisfy its European partners that it is meeting their conditions.&lt;/p&gt;&lt;p&gt;U.S. stock futures were slightly lower, with S&amp;P 500 mini futures (ESc1) down a few ticks from late U.S. levels, after Wall Street jumped on hopes for the Greece deal.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T02:06:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece: Tsipras faces dissent on bailout deal</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-07-14-EU--Greece-Bailout/id-05aea02b5fe74baf96ec1a27531eb5d6" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T00:28:00Z</updated>
-    <published>2015-07-14T00:28:00Z</published>
-    <summary type="html">&lt;p&gt;Since his election in January, the youthful Tsipras has faced intense pressure to backpedal on many of his promises to Greece's exhausted electorate.&lt;/p&gt;&lt;p&gt;A series of supposed red lines vanished, including objections to tight international oversight of Greece's economy, continued involvement by the International Monetary Fund in Greece's bailout program and cuts to pensions.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T00:28:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece debt crisis: PM Alexis Tsipras faces Syriza mutiny after capitulating to demands</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/business/world-business/greece-debt-crisis-pm-alexis-tsipras-faces-syriza-mutiny-after-capitulating-to-demands-20150713-gibi8r" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T22:16:33Z</updated>
-    <published>2015-07-13T22:16:33Z</published>
-    <summary type="html">&lt;p&gt;The terms are significantly tougher than those Tsipras labeled "blackmail" when he persuaded Greek voters to reject them in a referendum a week ago.&lt;/p&gt;&lt;p&gt;With the banks closed at least through July 15, the ECB's Governing Council kept the cap on Emergency Liquidity Assistance unchanged, signaling a desire to wait for Greek lawmakers to approve reforms first.&lt;/p&gt;&lt;p&gt;"We put up a hard fight for the past six months and we fought to the end in order to get the best out of it, to get a deal which will allow the country to stand on its feet and the Greek people to keep fighting," Tsipras said in Brussels.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T22:16:33Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/a/3/c/0/image.related.articleLeadwide.620x349.gibi8r.png/1436825788178.jpg" />
-  </entry>
-  <entry>
-    <title>Stocks end higher after Greece lines up a new bailout deal</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/article27115777.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T20:45:04Z</updated>
-    <published>2015-07-13T20:45:04Z</published>
-    <summary type="html">&lt;p&gt;A new agreement between Greece and its lenders helped lift the stock market on Monday, extending the market's winning streak to a third day.&lt;/p&gt;&lt;p&gt;Nine hours after a self-imposed deadline passed, European officials announced the breakthrough on Greece early Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T20:45:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Stocks end higher after Greece lines up a new bailout deal</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/13/stocks-rise-as-greece-gets-a-new-bailout-deal" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T20:41:32Z</updated>
-    <published>2015-07-13T20:41:32Z</published>
-    <summary type="html">&lt;p&gt;In exchange for a three-year loan program, the deal requires Greece's parliament to pass tax increases and other key demands from its lenders into law by Wednesday.&lt;/p&gt;&lt;p&gt;Worries over Greece and China have buffeted markets in recent weeks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T20:41:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>Wall Street rallies on Greek deal; tech stocks jump</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/futures-surge-greece-reaches-rescue-112241089.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T20:33:13Z</updated>
-    <published>2015-07-13T20:33:13Z</published>
-    <summary type="html">&lt;p&gt;"Headlines out of Greece are going to dissipate a bit and with that the U.S. earnings picture is going to start to emerge as the important factor," said Mike Binger, a portfolio manager at Gradient Investments in Shoreview, Minnesota, with $850 million under management.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T20:33:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: New Greek deal has wide repercussions for euro</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27106897.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T17:50:07Z</updated>
-    <published>2015-07-13T17:50:07Z</published>
-    <summary type="html">&lt;p&gt;The Greek government's junior coalition partner says it cannot back the agreement announced Monday between Greece and its European creditors - describing the proposed deal as a "coup staged by Germany and other countries."&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T17:50:07Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
   </entry>
 </feed>

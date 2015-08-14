@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US probes whether Islamic State used chemical weapons</title>
+    <link rel="alternate" href="http://www.cnbc.com/2015/08/13/us-investigating-whether-islamic-state-used-chemical-weapons.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T00:10:00Z</updated>
+    <published>2015-08-14T00:10:00Z</published>
+    <summary type="html">&lt;p&gt;Although the U.S. and its coalition partners are mounting airstrikes against the Islamic State, they are relying on local forces like the Kurds, the Iraqi military and others to do the fighting on the ground.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T00:10:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. investigating whether Islamic State used chemical weapons against Kurds</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/u-s-investigating-whether-islamic-state-used-chemical-weapons-against-kurds-1.2516149" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T23:34:00Z</updated>
+    <published>2015-08-13T23:34:00Z</published>
+    <summary type="html">&lt;p&gt;-- The United States is investigating whether the Islamic State used chemical weapons, the White House said Thursday, following allegations that IS militants deployed chemical weapons against Kurdish forces in northern Iraq.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T23:34:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Iraq: Islamic State truck bomb kills scores in Baghdad market</title>
     <link rel="alternate" href="http://www.smh.com.au/world/iraq-islamic-state-truck-bomb-kills-scores-in-baghdad-market-20150813-giyn79.html" />
     <author>
@@ -104,6 +126,18 @@
     <published>2015-08-12T21:39:55Z</published>
     <summary type="html">&lt;p&gt;The group changed its name from Ansar Bayt al-Maqdis to Sinai Province after it pledged allegiance to Islamic State, which controls large areas of Syria and Iraq.&lt;/p&gt;</summary>
     <dc:date>2015-08-12T21:39:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Jeb Bush says Hillary Clinton shares blame for Islamic State rise</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/12/us-usa-election-bush-idUSKCN0QG09E20150812?feedType=RSS&amp;amp;feedName=politicsNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T18:18:03Z</updated>
+    <published>2015-08-12T18:18:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-12T18:18:03Z</dc:date>
+    <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150811&amp;amp;t=2&amp;amp;i=1070975678&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;sq=&amp;amp;r=LYNXNPEB7A04B" />
   </entry>
   <entry>
     <title>Online image purports to show Croat killed by Islamic State</title>
@@ -1039,7 +1073,7 @@
     </author>
     <updated>2015-07-25T05:35:04Z</updated>
     <published>2015-07-25T05:35:04Z</published>
-    <summary type="html">&lt;p&gt;He is the first Australian involved with the Islamic State known to have returned home since the Sunni fighters swept into western Iraq in June last year and declared the establishment of a caliphate, Monash University terrorism expert Greg Barton said.&lt;/p&gt;&lt;p&gt;Court documents show both charges allege that Brookman knowingly provided support to the Islamic State movement by undertaking guard duty and reconnaissance for the militants.&lt;/p&gt;&lt;p&gt;Barton said it was unclear whether Brookman was ever in al-Raqqa, although he admits to being in a town controlled by the Islamic State.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;He is the first Australian involved with the Islamic State known to have returned home since the Sunni fighters swept into western Iraq in June last year and declared the establishment of a caliphate, Monash University terrorism expert Greg Barton said.&lt;/p&gt;&lt;p&gt;Court documents show both charges allege that Brookman knowingly provided support to the Islamic State movement by undertaking guard duty and reconnaissance for the militants.&lt;/p&gt;&lt;p&gt;Barton said it was unclear whether Brookman was ever in al-Raqqa, although he admits to being in a town controlled by the Islamic State.&lt;/p&gt;&lt;p&gt;He said he was innocent of any crime and was forced to join Islamic State militants after being injured in an airstrike and taken to a hospital controlled by the group at al-Bab in Aleppo province.&lt;/p&gt;</summary>
     <dc:date>2015-07-25T05:35:04Z</dc:date>
   </entry>
   <entry>
@@ -1779,7 +1813,7 @@
     <dc:date>2015-07-17T10:35:35Z</dc:date>
   </entry>
   <entry>
-    <title>Egypt’s Islamic State affiliate says it rocketed navy vessel</title>
+    <title>Egypt?s Islamic State affiliate says it rocketed navy vessel</title>
     <link rel="alternate" href="http://nypost.com/2015/07/16/egypts-islamic-state-affiliate-says-it-rocketed-navy-vessel/" />
     <author>
       <name />
@@ -1904,28 +1938,5 @@
     <summary type="html">&lt;p&gt;Investigators have since alleged he wanted to help Islamic State by attacking an unnamed university with pressure- cooker bombs he was assembling in his apartment, similar to those used in the 2013 Boston Marathon attack.&lt;/p&gt;&lt;p&gt;In the post-arrest video played in court on Tuesday, Ciccolo did not detail an attack plot but defended Islamic State's hostage executions and agreed with an FBI interviewer that all Americans should be considered "enemies".&lt;/p&gt;&lt;p&gt;His attorney, David Hoose, said Ciccolo had so far only been charged with gun violations and that his views on Islamic State should not be considered.&lt;/p&gt;</summary>
     <dc:date>2015-07-14T23:13:56Z</dc:date>
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297724473166_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
-    <title>Boston police captain's son charged in Islamic State terror plot</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/13/boston-police-captains-son-charged-in-islamic-state-terror-plot" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T22:26:06Z</updated>
-    <published>2015-07-13T22:26:06Z</published>
-    <summary type="html">&lt;p&gt;11 last year, when a close acquaintance -- identified by the two law enforcement officials as Ciccolo's father -- told the FBI that Ciccolo had expressed a desire to go overseas and fight for the Islamic State, according to court papers.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T22:26:06Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297723925669_ORIGINAL.jpg?quality=80&amp;amp;size=420x" />
-  </entry>
-  <entry>
-    <title>Son of Boston police captain charged in terror bomb plot</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article27145789.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T18:30:04Z</updated>
-    <published>2015-07-13T18:30:04Z</published>
-    <summary type="html">&lt;p&gt;Prosecutors have arrested the son of a Boston police captain in a plot to commit terrorist acts on behalf of the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T18:30:04Z</dc:date>
   </entry>
 </feed>

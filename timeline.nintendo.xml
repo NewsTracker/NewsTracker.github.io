@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: nintendo</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.nintendo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
@@ -13,64 +13,5 @@
     <published>2015-07-29T08:51:30Z</published>
     <summary type="html">&lt;p&gt;Earlier this year, Nintendo did an about-face and announced it would go into games for mobile devices, a move it had scoffed for years.&lt;/p&gt;&lt;p&gt;Iwata, president from 2002, was a highly visible spokesman for Nintendo, and many in the game industry mourned the 55-year-old's death, which followed a long illness.&lt;/p&gt;&lt;p&gt;Foreign exchange gains added 10.8 billion yen to operating income in the quarter, Nintendo said.&lt;/p&gt;&lt;p&gt;Nintendo had reported a 9.9 billion yen loss for the first quarter of the previous fiscal year.&lt;/p&gt;</summary>
     <dc:date>2015-07-29T08:51:30Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Internet flooded with tributes to Nintendo chief</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27188926.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T04:20:05Z</updated>
-    <published>2015-07-14T04:20:05Z</published>
-    <summary type="html">&lt;p&gt;Satoru Iwata, who led Japanese video game company Nintendo Co. through years of growth with its Pokemon and Super Mario franchises, died on the weekend of a bile duct tumor, the company said Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T04:20:05Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>The Internet flooded with tributes to Nintendo chief</title>
-    <link rel="alternate" href="http://www.chron.com/business/technology/article/The-Internet-flooded-with-tributes-to-Nintendo-6382940.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T04:11:24Z</updated>
-    <published>2015-07-14T04:11:24Z</published>
-    <summary type="html">&lt;p&gt;Shoppers move on an escalator under Nintendo's Super Mario characters at an electronics store in Tokyo, Monday, July 13, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T04:11:24Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/53/44/8304958/15/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>The Internet flooded with tributes to Nintendo chief</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/The-Internet-flooded-with-tributes-to-Nintendo-6382940.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T04:11:24Z</updated>
-    <published>2015-07-14T04:11:24Z</published>
-    <summary type="html">&lt;p&gt;TOKYO (AP) - Nintendo Co. President Satoru Iwata's death from an illness at 55 is being mourned by game fans around the world.&lt;/p&gt;&lt;p&gt;They're sharing Iwata Mii avatars, creating pictures with farewell messages on the Nintendo drawing game Splatoon and sending Tweets with "ThankYouIwata" hashtags.&lt;/p&gt;&lt;p&gt;A petition is circulating, amassing thousands of signatures, urging Nintendo to create an "amiibo" figurine in the likeness of Iwata.&lt;/p&gt;&lt;p&gt;The small dolls packed with sensors, which already come in Nintendo characters such as Super Mario and Kirby, are used to play games.&lt;/p&gt;&lt;p&gt;An illustration showing Nintendo characters weeping around Iwata lying down with his eyes closed on a bed of flowers is going viral on Twitter.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T04:11:24Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/53/44/8304958/15/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Game makers reflect on death of Nintendo's Iwata at age 55</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/technology/2015/07/13/game-makers-reflect-on-death-nintendo-satoru-iwata-at-age-55/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Ftechnology+%28Internal+-+Technology+-+Mixed%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T23:45:01Z</updated>
-    <published>2015-07-13T23:45:01Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-13T23:45:01Z</dc:date>
-  </entry>
-  <entry>
-    <title>Game makers reflect on death of Nintendo's Iwata at age 55</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Game-makers-reflect-on-death-of-Nintendo-s-Iwata-6382673.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-13T23:45:01Z</updated>
-    <published>2015-07-13T23:45:01Z</published>
-    <summary type="html">&lt;p&gt;"Iwata-san's passing affects us all deeply. He was a true visionary who expanded our understanding of the amazing art of video games. We offer our condolences to his family, friends and Nintendo colleagues."&lt;/p&gt;</summary>
-    <dc:date>2015-07-13T23:45:01Z</dc:date>
-    <media:content url="http://ww1.hdnux.com/photos/37/52/01/8298572/53/landscape_32.jpg" />
   </entry>
 </feed>

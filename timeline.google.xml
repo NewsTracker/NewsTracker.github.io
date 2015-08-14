@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Dell to sell Google Chromebook tailored for corporate users</title>
+    <link rel="alternate" href="http://www.seattlepi.com/news/texas/article/Dell-to-sell-Google-Chromebook-tailored-for-6442704.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T21:52:12Z</updated>
+    <published>2015-08-13T21:52:12Z</published>
+    <summary type="html">&lt;p&gt;The new machine from Dell joins Google's line-up of other high-end, business-focused devices that include the Asus Chromebook Flip and Chromebook Pixel.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T21:52:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>Dell to sell Google Chromebook tailored for corporate users</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/texas/article/Dell-to-sell-Google-Chromebook-tailored-for-6442704.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T21:52:12Z</updated>
+    <published>2015-08-13T21:52:12Z</published>
+    <summary type="html">&lt;p&gt;SAN FRANCISCO (AP) - Google's latest Chromebook laptop will be specially designed for corporate customers in an effort to get more workers off machines powered by Microsoft's dominant Windows software.&lt;/p&gt;&lt;p&gt;17. Prices will range from $400 to $900, a step up from a line of bare-bones Chromebooks that have been selling for as low as $150 since Google teamed up with Hisense and Haier to make those devices.&lt;/p&gt;&lt;p&gt;Google Inc. is trying to win over corporate customers with the Dell Chromebook 13, which offers more flexibility to run a variety of apps that haven't been easily accessible on previous Chromebooks.&lt;/p&gt;&lt;p&gt;Various PC manufacturers that building Windows machines for decades have been working with Google to design lightweight laptops running on the Chrome operating system since 2011.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T21:52:12Z</dc:date>
+  </entry>
+  <entry>
     <title>Google has until Aug. 31 to reply to EU antitrust charges</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/google-has-until-aug-31-to-reply-to-eu-antitrust-charges/article25950936/?cmpid=rss1" />
     <author>
@@ -39,7 +61,7 @@
     <media:content url="http://l.yimg.com/bt/api/res/1.2/kq8Pp41R8LwHS_8PJ3p3GA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-08-13T145102Z_2_LYNXNPEB7C0RW_RTROPTP_3_GOOGLE-EU_original.jpg" />
   </entry>
   <entry>
-    <title>Kristen Stewart addresses her sexuality: ‘Google me, I’m not hiding’</title>
+    <title>Kristen Stewart addresses her sexuality: ?Google me, I?m not hiding?</title>
     <link rel="alternate" href="http://www.independent.co.uk/news/people/kristen-stewart-addresses-her-sexuality-google-me-im-not-hiding-10451950.html" />
     <author>
       <name />
@@ -225,7 +247,7 @@
     <media:content url="http://l.yimg.com/bt/api/res/1.2/OU3MQWl3sKjwV.brkASkJg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-08-10T211421Z_1_LYNXNPEB790X6_RTROPTP_3_TELECOMS-MWC_original.jpg" />
   </entry>
   <entry>
-    <title>Google to be part of new holding company, ‘Alphabet’</title>
+    <title>Google to be part of new holding company, ?Alphabet?</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article30638334.html%23storylink=rss" />
     <author>
       <name />
@@ -974,7 +996,7 @@
     <media:content url="http://edition.cnn.com/2015/07/15/asia/google-south-china-sea/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
   </entry>
   <entry>
-    <title>If you don’t want to give your photos to Google anymore, it’ll steal them</title>
+    <title>If you don?t want to give your photos to Google anymore, it?ll steal them</title>
     <link rel="alternate" href="http://www.foxnews.com/tech/2015/07/14/if-dont-want-to-give-your-photos-to-google-anymore-itll-steal-them/" />
     <author>
       <name />
