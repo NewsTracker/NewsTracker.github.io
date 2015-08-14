@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hedge funds added Apple shares in second quarter, filings show</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/hedge-funds-added-apple-shares-164512648.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T17:54:12Z</updated>
+    <published>2015-08-14T17:54:12Z</published>
+    <summary type="html">&lt;p&gt;Still, during the first quarter of this year a number of hedge funds cut their stakes in Apple as its shares rallied, previous filings showed.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T17:54:12Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/2_WPX1Y4Li0jDlBW92HZNg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-08-14T164512Z_1_LYNXNPEB7D0UC_RTROPTP_3_APPLE-WATCH_original.jpg" />
+  </entry>
+  <entry>
     <title>Apple says hired 65 percent more women in past year</title>
     <link rel="alternate" href="http://www.cnbc.com/2015/08/14/apple-says-hired-65-percent-more-women-in-the-past-year.html" />
     <author>
@@ -362,7 +374,7 @@
     <media:content url="ww.smh.com.au/content/dam/images/g/i/i/r/r/5/image.related.articleLeadwide.620x349.giip2q.png/1437619462367.jpg" />
   </entry>
   <entry>
-    <title>?For many consumers, Apple Watch isn't a gotta have</title>
+    <title>​For many consumers, Apple Watch isn't a gotta have</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/for-many-consumers-apple-watch-isnt-a-gotta-have/" />
     <author>
       <name />
@@ -477,7 +489,7 @@
     <dc:date>2015-07-22T14:25:17Z</dc:date>
   </entry>
   <entry>
-    <title>Apple's $62B hit is bad?but it's not the worst</title>
+    <title>Apple's $62B hit is bad…but it's not the worst</title>
     <link rel="alternate" href="http://www.cnbc.com/2015/07/22/apples-62b-hit-is-badbut-its-not-the-worst.html" />
     <author>
       <name />
@@ -974,17 +986,5 @@
     <summary type="html">&lt;p&gt;Apple iOS 8.4: Should You Upgrade?&lt;/p&gt;</summary>
     <dc:date>2015-07-15T13:00:00Z</dc:date>
     <media:content url="http://blogs-images.forbes.com/gordonkelly/files/2015/07/iOS-8.4.1-beta1-1024x426.png" />
-  </entry>
-  <entry>
-    <title>Apple Pay launches in UK as major hold-out signs up</title>
-    <link rel="alternate" href="http://www.cnbc.com/2015/07/14/apple-pay-launches-in-uk-as-barclays-signs-up.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T18:12:00Z</updated>
-    <published>2015-07-14T18:12:00Z</published>
-    <summary type="html">&lt;p&gt;"It's worth asking what Apple Pay brings that the banks can't do themselves."&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T18:12:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/14/102833265-GettyImages-457552034.530x298.jpg?v=1436895298" />
   </entry>
 </feed>

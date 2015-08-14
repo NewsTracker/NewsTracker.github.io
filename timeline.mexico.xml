@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>US eases crude oil export ban; allows trading with Mexico</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/14/us-eases-crude-oil-export-ban-allows-trading-with/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T18:31:35Z</updated>
+    <published>2015-08-14T18:31:35Z</published>
+    <summary type="html">&lt;p&gt;(AP) - The U.S. is easing its longstanding ban on crude oil exports by allowing limited trade with Mexico.&lt;/p&gt;&lt;p&gt;Mexico's state-run oil company Petroleos Mexicanos, or Pemex, has sought to import about 100,000 barrels of light U.S. crude a day.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T18:31:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>US to allows some crude oil trading with Mexico, further easing longstanding export ban</title>
+    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/08/14/us-to-allows-some-crude-oil-trading-with-mexico-further-easing-longstanding/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fsection%2Fnews+%28Internal+-+News+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T18:31:35Z</updated>
+    <published>2015-08-14T18:31:35Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T18:31:35Z</dc:date>
+  </entry>
+  <entry>
     <title>Police find 7 bodies dumped on roadside in southern Mexico</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/14/police-find-7-bodies-dumped-on-roadside-in/" />
     <author>
@@ -356,7 +378,7 @@
     <media:content url="http://ww2.hdnux.com/photos/40/03/55/8403809/31/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>Gov?t reaction criticized in case of Mexico slain journalist</title>
+    <title>Gov’t reaction criticized in case of Mexico slain journalist</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article29829535.html%23storylink=rss" />
     <author>
       <name />
@@ -917,7 +939,7 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/23/99/d6/4fb93dc5abbb40cd9b42201c3ba31ebe-09ef1685f12d47a08d49f85f157795c7-0.jpg" />
   </entry>
   <entry>
-    <title>Jamaica stuns U.S. men?s team, faces Mexico for Gold Cup title</title>
+    <title>Jamaica stuns U.S. men’s team, faces Mexico for Gold Cup title</title>
     <link rel="alternate" href="http://www.sfgate.com/sports/article/Jamaica-stuns-U-S-men-s-team-faces-Mexico-for-6400873.php" />
     <author>
       <name />
@@ -1245,17 +1267,5 @@
     <published>2015-07-15T04:01:48Z</published>
     <summary type="html">&lt;p&gt;CHARLOTTE, North Carolina (Reuters) - Mexico will recall the barely used Giovani Dos Santos for their key Gold Cup match against Trinidad and Tobago, coach Miguel Herrera said on Tuesday.&lt;/p&gt;</summary>
     <dc:date>2015-07-15T04:01:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mexico offers $5.1 million for ?El Chapo?</title>
-    <link rel="alternate" href="http://www.news.com.au/world/brekkie-wrap-mexico-offers-51-million-bounty-for-fugitive-drug-lord-joaquin-el-chapo-guzmans-capture/story-fndir2ev-1227442143655?from=public_rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T18:46:00Z</updated>
-    <published>2015-07-14T18:46:00Z</published>
-    <summary type="html">&lt;p&gt;Fugitive ... A poster with the face of Mexican drug lord Joaquin "El Chapo" Guzman, reading "Wanted, Again", is displayed at a newsstand in one Mexico City's major bus terminals.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T18:46:00Z</dc:date>
-    <media:content url="http://resources3.news.com.au/images/2015/07/15/1227442/144059-dbc4c26e-2a36-11e5-8933-a184cf0f8d1e.jpg" />
   </entry>
 </feed>

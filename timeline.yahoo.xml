@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UNC uncovers potentially more violations in academic scandal (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/unc-uncovers-potentially-more-violations-academic-scandal-171802934--ncaaw.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T17:46:26Z</updated>
+    <published>2015-08-14T17:46:26Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T17:46:26Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/XCBWAX5ju5_qxpWCvZNlXw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508141234452441629" />
+  </entry>
+  <entry>
     <title>Family believes Tony Stewart lost his temper in fatal crash (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/family-believes-tony-stewart-lost-temper-fatal-crash-144226610--nascar.html" />
     <author>
@@ -387,7 +399,7 @@
     <media:content url="ww.smh.com.au/content/dam/images/g/i/n/g/m/s/image.related.articleLeadwide.620x349.ginfvx.png/1438253211210.jpg" />
   </entry>
   <entry>
-    <title>Yahoo Inc unveils Livetext messaging app that enables video calls ? but mutes sound</title>
+    <title>Yahoo Inc unveils Livetext messaging app that enables video calls — but mutes sound</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/personal-tech/yahoo-inc-unveils-livetext-messaging-app-that-enables-video-calls-but-mutes-sound" />
     <author>
       <name />
@@ -1365,41 +1377,5 @@
     <summary type="html" />
     <dc:date>2015-07-14T20:55:20Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/wlcg4Q53n2wAEfSvEPYv6Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507131623590351567" />
-  </entry>
-  <entry>
-    <title>Test: McNabb's alcohol level was more than twice legal limit (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/test-mcnabbs-alcohol-level-more-twice-legal-limit-183011017--nfl.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T18:33:20Z</updated>
-    <published>2015-07-14T18:33:20Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T18:33:20Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/mE3iOLg8VAZj9J4dE_w58Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQxMTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507071612583345397" />
-  </entry>
-  <entry>
-    <title>Klinsmann shakes up US roster for Gold Cup knockout rounds (Yahoo Sports)</title>
-    <link rel="alternate" href="https://sports.yahoo.com/news/klinsmann-shakes-us-roster-gold-cup-knockout-rounds-173838325--sow.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T18:25:59Z</updated>
-    <published>2015-07-14T18:25:59Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T18:25:59Z</dc:date>
-    <media:content url="https://s.yimg.com/bt/api/res/1.2/K_E.t0XUNIwvjTuxJadj0Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ0ODtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507132257826753285" />
-  </entry>
-  <entry>
-    <title>Denver Nuggets player Ty Lawson arrested on DUI allegations (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/denver-nuggets-player-ty-lawson-arrested-dui-allegations-164151638--nba.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T18:02:52Z</updated>
-    <published>2015-07-14T18:02:52Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T18:02:52Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/vWETWgQDQ88X_5ZU8XKPmA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507141144422644578" />
   </entry>
 </feed>

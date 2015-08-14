@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson defends interim chief after concerns raised</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/us/ferguson-defends-interim-chief-after-concerns-rais/nnKTt/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T18:17:05Z</updated>
+    <published>2015-08-14T18:17:05Z</published>
+    <summary type="html">&lt;p&gt;Ferguson city officials on Friday defended interim Police Chief Andre Anderson after an online report raised concerns about his record as an officer in Glendale, Arizona.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T18:17:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ferguson defends interim chief after concerns raised</title>
+    <link rel="alternate" href="http://www.usnews.com/news/us/articles/2015/08/14/ferguson-defends-interim-chief-after-concerns-raised" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T18:17:05Z</updated>
+    <published>2015-08-14T18:17:05Z</published>
+    <summary type="html">&lt;p&gt;The statement from the city of Ferguson said Anderson was hired following a process that included a background investigation "independent of the City Manager."&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T18:17:05Z</dc:date>
+  </entry>
+  <entry>
     <title>State of Emergency in Ferguson Is Lifted as Protests Ease</title>
     <link rel="alternate" href="http://www.nytimes.com/2015/08/15/us/state-of-emergency-in-ferguson-is-lifted-as-protests-ease.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
     <author>
@@ -130,7 +152,7 @@
     <dc:date>2015-08-11T22:11:09Z</dc:date>
   </entry>
   <entry>
-    <title>Oath Keepers? return criticized in Ferguson</title>
+    <title>Oath Keepers’ return criticized in Ferguson</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article30738612.html%23storylink=rss" />
     <author>
       <name />
@@ -141,7 +163,7 @@
     <dc:date>2015-08-11T21:34:49Z</dc:date>
   </entry>
   <entry>
-    <title>Oath Keepers? return criticized in Ferguson</title>
+    <title>Oath Keepers’ return criticized in Ferguson</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article30738612.html%23storylink=rss" />
     <author>
       <name />
@@ -482,7 +504,7 @@
     <dc:date>2015-08-07T18:14:03Z</dc:date>
   </entry>
   <entry>
-    <title>A year after Michael Brown?s death, Ferguson has changed</title>
+    <title>A year after Michael Brown’s death, Ferguson has changed</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article30405195.html%23storylink=rss" />
     <author>
       <name />
@@ -493,7 +515,7 @@
     <dc:date>2015-08-07T17:21:23Z</dc:date>
   </entry>
   <entry>
-    <title>A year after Michael Brown?s death, Ferguson has changed</title>
+    <title>A year after Michael Brown’s death, Ferguson has changed</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article30405195.html%23storylink=rss" />
     <author>
       <name />
@@ -527,7 +549,7 @@
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297734066751_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
   <entry>
-    <title>Ferguson, one year later: What?s happening this weekend</title>
+    <title>Ferguson, one year later: What’s happening this weekend</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/ferguson-one-year-later-whats-happening-this-weekend/article25857899/?cmpid=rss1" />
     <author>
       <name />

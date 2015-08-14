@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rights groups criticize Egypt over 2013 bloody crackdown</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/rights-groups-criticize-egypt-over-2013-bloody-cra/nnKSQ/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T18:54:08Z</updated>
+    <published>2015-08-14T18:54:08Z</published>
+    <summary type="html">&lt;p&gt;In anticipation of protests to commemorate the anniversary, security was heavily deployed around major squares and in cities across Egypt.&lt;/p&gt;&lt;p&gt;The group said Egypt has shown no commitment to an impartial inquiry and called on the European Union to condemn the prevailing impunity and for a ban on exports of surveillance technologies that can be used to crack down on dissent.&lt;/p&gt;&lt;p&gt;The Egyptian government regularly blames violent attacks in Egypt on the Muslim Brotherhood, the group from which Morsi hails, and has since declared it a terrorist group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T18:54:08Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/14/f2/8c/3ecff43294044f00b7cb92cf76594222-870ea35a21e0464c9f3c3cdecbb99827-0.jpg" />
+  </entry>
+  <entry>
     <title>Islamic State radio says Croatian hostage killed in Egypt</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/13/islamic-state-radio-says-croatian-hostage-killed/" />
     <author>
@@ -388,7 +400,7 @@
     <media:content url="http://ichef-1.bbci.co.uk/news/976/cpsprodpb/15EE/production/_84541650_84541649.jpg" />
   </entry>
   <entry>
-    <title>?The uncertainty is just horrible': Verdict expected Thursday for Canadian journalist Fahmy?s terror trial in Egypt</title>
+    <title>‘The uncertainty is just horrible': Verdict expected Thursday for Canadian journalist Fahmy’s terror trial in Egypt</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/the-uncertainty-is-just-horrible-canadian-journalist-fahmy-expecting-verdict-on-long-running-terror-trial-in-egypt-thursday" />
     <author>
       <name />
@@ -578,7 +590,7 @@
     <dc:date>2015-07-17T09:45:26Z</dc:date>
   </entry>
   <entry>
-    <title>ISIL affiliate in Egypt says it destroyed one of country?s navy vessels with rocket fire</title>
+    <title>ISIL affiliate in Egypt says it destroyed one of country’s navy vessels with rocket fire</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/world/isil-affiliate-in-egypt-says-it-destroyed-one-of-countrys-navy-vessels-with-rocket-fire" />
     <author>
       <name />

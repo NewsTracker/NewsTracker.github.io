@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.fifa_or_blatter.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>FIFA's Rocha agrees to be extradited to Nicaragua</title>
+    <link rel="alternate" href="http://www.aljazeera.com/news/2015/08/fifa-rocha-agrees-extradited-nicaragua-150814171020431.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T18:04:18Z</updated>
+    <published>2015-08-14T18:04:18Z</published>
+    <summary type="html">&lt;p&gt;Julio Rocha, the former head of the Nicaraguan Football Federation who was one of seven FIFA officials detained in Switzerland in May, has agreed to be extradited to his home country, the Swiss justice ministry says.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T18:04:18Z</dc:date>
+    <media:content url="ww.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2015/8/7/784be261881240aab677c1dbad8a5038_18.jpg" />
+  </entry>
+  <entry>
     <title>Prosecutor seeks extradition of more FIFA defendants</title>
     <link rel="alternate" href="http://www.usnews.com/news/sports/articles/2015/08/14/prosecutor-seeks-extradition-of-more-fifa-defendants" />
     <author>
@@ -28,7 +40,7 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/14/17/5c/d375627616b9487f87f6a10c973fe9b5-b175b503a9924f1e9f517833c812d34c-0.jpg" />
   </entry>
   <entry>
-    <title>Soccer Canada?s Montagliani joins FIFA reform task force</title>
+    <title>Soccer Canada’s Montagliani joins FIFA reform task force</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/sports/soccer/soccer-canadas-montagliani-joins-fifa-reform-task-force/article25929850/?cmpid=rss1" />
     <author>
       <name />
@@ -177,6 +189,18 @@
     <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/2015-07-28T115602Z_1_LYNXNPEB6R0J7_RTROPTP_2_SOCCER-WORLD-DRAW.JPG?itok=krKmsk9Y" />
   </entry>
   <entry>
+    <title>UEFA head Platini to announce FIFA presidency bid</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/sports/soccer/uefa-head-platini-to-announce-fifa-presidency-bid/article25731700/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-28T15:08:49Z</updated>
+    <published>2015-07-28T15:08:49Z</published>
+    <summary type="html">&lt;p&gt;Platini's achievements would be neatly completed by becoming FIFA president.&lt;/p&gt;</summary>
+    <dc:date>2015-07-28T15:08:49Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/a9b/sports/soccer/article25731699.ece/ALTERNATES/w220/LON104_Soccer_FIFA_Election_Platini.JPG" />
+  </entry>
+  <entry>
     <title>AP Sources: Michel Platini will run for FIFA president (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/ap-sources-michel-platini-run-fifa-president-133027553--sow.html" />
     <author>
@@ -257,7 +281,7 @@
     <dc:date>2015-07-28T11:43:28Z</dc:date>
   </entry>
   <entry>
-    <title>Fifa?s Sepp Blatter deserves Nobel prize, says Russia?s president Vladimir Putin</title>
+    <title>Fifa’s Sepp Blatter deserves Nobel prize, says Russia’s president Vladimir Putin</title>
     <link rel="alternate" href="http://www.theguardian.com/football/2015/jul/27/fifa-sepp-blatter-nobel-prize-russia-president-vladimir-putin" />
     <author>
       <name />
@@ -965,7 +989,7 @@
     <media:content url="http://www.usnews.com/dims4/USNEWS/dd15760/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2F84%2Fe93eee2464922ac3a880f18888ef21%2Fmedia%3Ae3f021253d794063a5bd33734d19b871SoccerFIFAElectionPrinceAli.JPEG" />
   </entry>
   <entry>
-    <title>FIFA leadership meet to set date for vote on Blatter?s replacement</title>
+    <title>FIFA leadership meet to set date for vote on Blatter’s replacement</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/fifa-leadership-meet-to-set-date-for-vote-on-blatters-replacement/article25589203/?cmpid=rss1" />
     <author>
       <name />
@@ -1008,7 +1032,7 @@
     </author>
     <updated>2015-07-19T17:40:39Z</updated>
     <published>2015-07-19T17:40:39Z</published>
-    <summary type="html">&lt;p&gt;The former France great, smiling and appearing relaxed, declined to discuss the content of Sunday's meeting on returning to FIFA's favorite Baur au Lac hotel.&lt;/p&gt;&lt;p&gt;Like Platini, Hayatou also did not address details of questions about the latest Blatter-chaired meetings, at a time when senior UEFA officials have suggested the FIFA leader should formally resign and leave now.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;The former France great, smiling and appearing relaxed, declined to discuss the content of Sunday's meeting on returning to FIFA's favorite Baur au Lac hotel.&lt;/p&gt;&lt;p&gt;Like Platini, Hayatou also did not address details of questions about the latest Blatter-chaired meetings, at a time when senior UEFA officials have suggested the FIFA leader should formally resign and leave now.&lt;/p&gt;&lt;p&gt;Webb, then a FIFA vice president, was one of the seven men arrested in Zurich and among 14 indicted by the U.S. Department of Justice for an alleged bribery racketeering conspiracy.&lt;/p&gt;</summary>
     <dc:date>2015-07-19T17:40:39Z</dc:date>
   </entry>
   <entry>
@@ -1360,7 +1384,7 @@
     <dc:date>2015-07-16T09:20:19Z</dc:date>
   </entry>
   <entry>
-    <title>Senators: Why didn?t U.S. Soccer expose FIFA corruption?</title>
+    <title>Senators: Why didn’t U.S. Soccer expose FIFA corruption?</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article27356605.html%23storylink=rss" />
     <author>
       <name />
