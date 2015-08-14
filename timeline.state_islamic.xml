@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>France to rally aid for religious minorities targeted by IS</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/france-to-rally-aid-for-religious-minorities-targe/nnKMw/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T15:01:30Z</updated>
+    <published>2015-08-14T15:01:30Z</published>
+    <summary type="html">&lt;p&gt;France is hosting a conference next month to raise money and rally support for Mideast Christians and other minorities persecuted by the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T15:01:30Z</dc:date>
+  </entry>
+  <entry>
     <title>US probes whether Islamic State used chemical weapons</title>
     <link rel="alternate" href="http://www.cnbc.com/2015/08/13/us-investigating-whether-islamic-state-used-chemical-weapons.html" />
     <author>

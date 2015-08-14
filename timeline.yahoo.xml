@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Family believes Tony Stewart lost his temper in fatal crash (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/family-believes-tony-stewart-lost-temper-fatal-crash-144226610--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T15:19:13Z</updated>
+    <published>2015-08-14T15:19:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T15:19:13Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/pMpxFmqN1gnu4lSC_2j9Dg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508071335489226128" />
+  </entry>
+  <entry>
+    <title>Former ?Time? honcho heads to Yahoo</title>
+    <link rel="alternate" href="http://nypost.com/2015/08/14/former-time-honcho-heads-to-yahoo/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T15:19:10Z</updated>
+    <published>2015-08-14T15:19:10Z</published>
+    <summary type="html">&lt;p&gt;Former Time Inc. Editor-in-Chief Martha Nelson is the latest editorial talent to land at Yahoo.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T15:19:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Wisconsin coach Bo Ryan 'not totally sure' about retirement (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/wisconsin-coach-bo-ryan-not-totally-sure-retirement-140636120--ncaab.html" />
     <author>
@@ -1378,29 +1401,5 @@
     <summary type="html" />
     <dc:date>2015-07-14T18:02:52Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/vWETWgQDQ88X_5ZU8XKPmA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507141144422644578" />
-  </entry>
-  <entry>
-    <title>Froome wins 1st high-mountain stage at Tour de France (Yahoo Sports)</title>
-    <link rel="alternate" href="https://sports.yahoo.com/news/froome-wins-1st-high-mountain-stage-tour-france-154145876--spt.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T17:18:41Z</updated>
-    <published>2015-07-14T17:18:41Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T17:18:41Z</dc:date>
-    <media:content url="https://s.yimg.com/bt/api/res/1.2/O7T1mZkZapjR7WfwIxpolw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507141027376734260" />
-  </entry>
-  <entry>
-    <title>Sterling completes $76M move to Man City from Liverpool (Yahoo Sports)</title>
-    <link rel="alternate" href="https://sports.yahoo.com/news/sterling-completes-76m-move-man-city-liverpool-160809760--sow.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T16:59:44Z</updated>
-    <published>2015-07-14T16:59:44Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-14T16:59:44Z</dc:date>
-    <media:content url="https://s1.yimg.com/bt/api/res/1.2/fiV4Zk73EtRbDulISD6RTw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQyMjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507121354500617238" />
   </entry>
 </feed>

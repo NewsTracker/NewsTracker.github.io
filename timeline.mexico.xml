@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Police find 7 bodies dumped on roadside in southern Mexico</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/14/police-find-7-bodies-dumped-on-roadside-in/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T15:05:17Z</updated>
+    <published>2015-08-14T15:05:17Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T15:05:17Z</dc:date>
+    <media:content url="http://cdn.sandiegouniontrib.com/img/brightcove/2015/08/13/15364600001_4419855543001_video-still-for-video-4420040663001_r200x90.jpg?de340bef6cf2f5bff72aaf211f66da3b51d471bd" />
+  </entry>
+  <entry>
     <title>Subterranean river discovered under Mexico's Mayan ruins</title>
     <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/08/13/22540640.html?cid=rssnewsworld" />
     <author>
