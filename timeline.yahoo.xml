@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Rookie Mariota struggles early as Falcons top Titans, 31-24 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/rookie-mariota-struggles-early-falcons-top-titans-31-020753085--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T02:14:12Z</updated>
+    <published>2015-08-15T02:14:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-15T02:14:12Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/EL7UjeYnM1t4ieazX5PDdA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/768e1496b3db7feba3393b87673e59af" />
+  </entry>
+  <entry>
+    <title>A 63, a Spieth rally and a storm delay at PGA Championship (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/63-spieth-rally-storm-delay-pga-championship-000947063--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T01:24:46Z</updated>
+    <published>2015-08-15T01:24:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-15T01:24:46Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/NDysMdJXTLvzEMocsDTKFA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508141803650362639" />
+  </entry>
+  <entry>
     <title>Coghlan hits 2 HRs, Rizzo goes deep, Cubs beat White Sox 6-5 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/coghlan-hits-2-hrs-rizzo-goes-deep-cubs-234157647--mlb.html" />
     <author>
@@ -1377,5 +1401,17 @@
     <summary type="html" />
     <dc:date>2015-07-15T18:17:03Z</dc:date>
     <media:content url="https://s1.yimg.com/bt/api/res/1.2/OgDAILOEVm8sy5aPghyEvw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507151023373978669" />
+  </entry>
+  <entry>
+    <title>Trout hits leadoff HR, wins MVP as AL All-Stars top NL 6-3 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/trout-homers-leading-off-al-stars-top-nl-034640246--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-15T04:53:02Z</updated>
+    <published>2015-07-15T04:53:02Z</published>
+    <summary type="html" />
+    <dc:date>2015-07-15T04:53:02Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/oi87ubNEa6tSztr1qNUzAQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-us/video/video.cbssportsvideos.com/3d8e5bb287a1ac0b2ff49a905e871d58" />
   </entry>
 </feed>
