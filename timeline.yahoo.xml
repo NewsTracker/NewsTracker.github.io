@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Coghlan hits 2 HRs, Rizzo goes deep, Cubs beat White Sox 6-5 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/coghlan-hits-2-hrs-rizzo-goes-deep-cubs-234157647--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T23:49:21Z</updated>
+    <published>2015-08-14T23:49:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-14T23:49:21Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/I7B.uojkZ5itdqvyDSCfvg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508141840672102740" />
+  </entry>
+  <entry>
     <title>Red Sox manager Farrell says he has 'highly curable' cancer (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/red-sox-manager-farrell-says-very-treatable-cancer-204623321--mlb.html" />
     <author>
@@ -411,7 +423,7 @@
     <media:content url="ww.smh.com.au/content/dam/images/g/i/n/g/m/s/image.related.articleLeadwide.620x349.ginfvx.png/1438253211210.jpg" />
   </entry>
   <entry>
-    <title>Yahoo Inc unveils Livetext messaging app that enables video calls — but mutes sound</title>
+    <title>Yahoo Inc unveils Livetext messaging app that enables video calls ? but mutes sound</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/personal-tech/yahoo-inc-unveils-livetext-messaging-app-that-enables-video-calls-but-mutes-sound" />
     <author>
       <name />
@@ -1365,17 +1377,5 @@
     <summary type="html" />
     <dc:date>2015-07-15T18:17:03Z</dc:date>
     <media:content url="https://s1.yimg.com/bt/api/res/1.2/OgDAILOEVm8sy5aPghyEvw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507151023373978669" />
-  </entry>
-  <entry>
-    <title>Silver: Playoff changes likely in NBA, moratorium mulled (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/silver-playoff-changes-likely-nba-moratorium-mulled-005520766--nba.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-15T01:30:30Z</updated>
-    <published>2015-07-15T01:30:30Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-15T01:30:30Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/EarEQ2RB_YV3sL56cwwr5Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507081950714538936" />
   </entry>
 </feed>

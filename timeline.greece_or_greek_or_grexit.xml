@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Euro ministers give blessing to Greek bailout, wooing IMF on debt</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/15/us-eurozone-greece-idUSKCN0QJ1PR20150815?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T00:10:39Z</updated>
+    <published>2015-08-15T00:10:39Z</published>
+    <summary type="html">&lt;p&gt;Greek Finance Minister Euclid Tsakalotos listens his French counterpart Michel Sapin (R) during a euro zone finance ministers meeting in Brussels, Belgium, August 14, 2015.&lt;/p&gt;&lt;p&gt;Officials said the Fund needed more assurances and detail on Greek reforms, notably to pensions, and steps to persuade it that Greece's debt burden was sustainable.&lt;/p&gt;&lt;p&gt;Lagarde said in a statement that Europe would need to provide "significant" debt relief as a complement to reforms Athens is trying to put Greece's finances on a sustainable path.&lt;/p&gt;</summary>
+    <dc:date>2015-08-15T00:10:39Z</dc:date>
+  </entry>
+  <entry>
     <title>Greece's euro partners approve billions in new loans</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greece-all-night-debate-on-new-bailout/nnKCZ/" />
     <author>
@@ -473,7 +484,7 @@
     </author>
     <updated>2015-08-10T13:58:22Z</updated>
     <published>2015-08-10T13:58:22Z</published>
-    <summary type="html">&lt;p&gt;Tens of thousands of people, many of them fleeing conflict in Syria and Afghanistan, have been making their way from the Turkish coast to nearby Greek islands in inflatable dinghies, overwhelming cash-strapped and understaffed authorities on the islands.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Tens of thousands of people, many of them fleeing conflict in Syria and Afghanistan, have been making their way from the Turkish coast to nearby Greek islands in inflatable dinghies, overwhelming cash-strapped and understaffed authorities on the islands.&lt;/p&gt;&lt;p&gt;The vast majority then head to mainland Greece and from there, try to reach more prosperous European Union countries by either walking across the Balkans from northern Greece, or sneaking onto Italy-bound ferries from the west.&lt;/p&gt;</summary>
     <dc:date>2015-08-10T13:58:22Z</dc:date>
   </entry>
   <entry>
@@ -1061,7 +1072,7 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/24/d8/27/d3d7382b009f4a1ca90748d417cb0b52-7fcb1f3056a747ae925c1a038b6d80bd-0_1.jpg" />
   </entry>
   <entry>
-    <title>Security worries delay start of Greece’s new bailout talks</title>
+    <title>Security worries delay start of Greece?s new bailout talks</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/security-worries-delay-start-of-greeces-new-bailout-talks/article25659250/?cmpid=rss1" />
     <author>
       <name />
@@ -2853,40 +2864,5 @@
     <published>2015-07-15T04:21:24Z</published>
     <summary type="html">&lt;p&gt;The Tsipras government holds 162 seats in Greece's 300-member Parliament.&lt;/p&gt;</summary>
     <dc:date>2015-07-15T04:21:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Greece needs 85 billion euros through 2018</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27192415.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T23:58:05Z</updated>
-    <published>2015-07-14T23:58:05Z</published>
-    <summary type="html">&lt;p&gt;But the IMF said Tuesday that "Greece's debt can now only be made sustainable through debt relief measures that go far beyond what Europe has been willing to consider so far."&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T23:58:05Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Greece: Revolt over austerity deal grows ahead of vote</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greece-tsipras-faces-dissent-on-bailout-deal/nmyPH/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T23:50:29Z</updated>
-    <published>2015-07-14T23:50:29Z</published>
-    <summary type="html">&lt;p&gt;The IMF said Greece's debts would peak over the next two years at 200 percent of the country's economic output; earlier it had said the debt burden would peak last year at 177 percent.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T23:50:29Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/14/d6/60/ae143f5d47164fce86a77de4a72b6f4a-6e04fd279b1540979adf82af0e16ca5f-1.jpg" />
-  </entry>
-  <entry>
-    <title>Alexis Tsipras: bailout a ‘bad deal’ but the best Greece could get</title>
-    <link rel="alternate" href="http://www.theguardian.com/world/2015/jul/15/alexis-tsipras-bailout-greece-debt-crisis" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-14T23:50:11Z</updated>
-    <published>2015-07-14T23:50:11Z</published>
-    <summary type="html">&lt;p&gt;"The hard truth is this one-way street for Greece was imposed on us," Tsipras said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-14T23:50:11Z</dc:date>
   </entry>
 </feed>
