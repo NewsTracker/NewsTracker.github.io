@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Migrants from Turkey flood into Greece; scuffles on boat</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article31181897.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T08:01:08Z</updated>
+    <published>2015-08-15T08:01:08Z</published>
+    <summary type="html">&lt;p&gt;Migrants and refugees gather at a makeshift migrant detention center at Kos' abandoned football stadium after crossing from Turkey, at the southeastern island of Kos, Greece, Friday, Aug. 14, 2015.&lt;/p&gt;&lt;p&gt;Migrants from the coastal town of Bodrum, Turkey, disembark their boat after it started to sink as they attempted to make their way to the Greek island of Kos, on Saturday, Aug. 15, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-08-15T08:01:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Scuffles, a near-sinking as desperate migrants leave Turkey for Greece on smugglers' boats</title>
+    <link rel="alternate" href="http://www.startribune.com/migrants-heading-from-turkey-to-greece-scuffle-on-boat/321947281/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T08:00:18Z</updated>
+    <published>2015-08-15T08:00:18Z</published>
+    <summary type="html">&lt;p&gt;Financially struggling Greece has reported 134,988 arrivals from Turkey this year, it said, while Italy recorded 93,540 newcomers through July.&lt;/p&gt;</summary>
+    <dc:date>2015-08-15T08:00:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>Migrants from Turkey flood into Greece; scuffles on boat</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/15/migrants-heading-from-turkey-to-greece-scuffle-on-boat" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T07:55:22Z</updated>
+    <published>2015-08-15T07:55:22Z</published>
+    <summary type="html">&lt;p&gt;It was not immediately clear if Greek authorities were once again intercepting migrants at sea.&lt;/p&gt;</summary>
+    <dc:date>2015-08-15T07:55:22Z</dc:date>
+  </entry>
+  <entry>
     <title>Euro ministers give blessing to Greek bailout, wooing IMF on debt</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/08/15/us-eurozone-greece-idUSKCN0QJ1PR20150815?feedType=RSS&amp;amp;feedName=worldNews" />
     <author>
@@ -2783,40 +2816,5 @@
     <published>2015-07-15T11:45:49Z</published>
     <summary type="html" />
     <dc:date>2015-07-15T11:45:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Greek banks to remain closed through Thursday</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27283162.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-15T08:53:04Z</updated>
-    <published>2015-07-15T08:53:04Z</published>
-    <summary type="html">&lt;p&gt;Creditors are demanding that the Greek Parliament pass initial legislation on Wednesday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-15T08:53:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>The Latest: Greek banks to remain closed through Thursday</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/latest-greek-banks-remain-closed-084909764.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-15T08:49:09Z</updated>
-    <published>2015-07-15T08:49:09Z</published>
-    <summary type="html">&lt;p&gt;Greece's finance ministry says the banks will remain closed through Thursday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-15T08:49:09Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/Lh795d_ob9XBhMWkkIjjGg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_HEADLINES_BUSINESS/6a819f698c853f1f7c0f6a70670011e2_original.jpg" />
-  </entry>
-  <entry>
-    <title>The Latest: Greek banks to remain closed through Thursday</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/15/the-latest-german-official-says-tsipras-criticism-unhelpful" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-15T08:48:48Z</updated>
-    <published>2015-07-15T08:48:48Z</published>
-    <summary type="html">&lt;p&gt;Spanish Prime Minister Mariano Rajoy says he will put the new Greek rescue plan up for debate and vote in Parliament, even though it is not obligatory.&lt;/p&gt;</summary>
-    <dc:date>2015-07-15T08:48:48Z</dc:date>
   </entry>
 </feed>
