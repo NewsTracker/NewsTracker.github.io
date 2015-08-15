@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Volcano in Japan prompts warning</title>
+    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/08/15/volcano-japan-prompts-warning" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T07:02:01Z</updated>
+    <published>2015-08-15T07:02:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-15T07:02:01Z</dc:date>
+    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/images/2/0/20130818000765478336-original_800x600.jpg?itok=3pY3ng5r" />
+  </entry>
+  <entry>
     <title>Snow-capped Cotopaxi volcano spews ash south of Ecuador's capital</title>
     <link rel="alternate" href="http://www.startribune.com/ecuador-s-cotopaxi-volcano-spews-ash-south-of-quito/321885661/" />
     <author>
@@ -50,7 +62,7 @@
     <media:content url="http://ww3.hdnux.com/photos/40/02/07/8397302/9/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>?Ancient volcano tattooed the Earth with giant rings</title>
+    <title>​Ancient volcano tattooed the Earth with giant rings</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/ancient-volcano-tattooed-the-earth-with-giant-rings/" />
     <author>
       <name />

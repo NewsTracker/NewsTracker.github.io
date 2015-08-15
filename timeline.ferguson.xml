@@ -160,11 +160,22 @@
     </author>
     <updated>2015-08-11T22:11:09Z</updated>
     <published>2015-08-11T22:11:09Z</published>
-    <summary type="html">&lt;p&gt;Ronald Johnson confer, Monday, Aug. 10, 2015, in Ferguson, Mo.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Ronald Johnson confer, Monday, Aug. 10, 2015, in Ferguson, Mo.&lt;/p&gt;&lt;p&gt;Ferguson was a community on edge again Monday, a day after a protest marking the anniversary of Michael Brown's death was punctuated with gunshots.&lt;/p&gt;</summary>
     <dc:date>2015-08-11T22:11:09Z</dc:date>
   </entry>
   <entry>
-    <title>Oath Keepers? return criticized in Ferguson</title>
+    <title>The Latest on Ferguson: Video Released of Alleged Gunman</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/latest-ferguson-dozen-arrests-protest-33005895" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T22:08:04Z</updated>
+    <published>2015-08-11T22:08:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-11T22:08:04Z</dc:date>
+  </entry>
+  <entry>
+    <title>Oath Keepers’ return criticized in Ferguson</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article30738612.html%23storylink=rss" />
     <author>
       <name />
@@ -175,7 +186,7 @@
     <dc:date>2015-08-11T21:34:49Z</dc:date>
   </entry>
   <entry>
-    <title>Oath Keepers? return criticized in Ferguson</title>
+    <title>Oath Keepers’ return criticized in Ferguson</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article30738612.html%23storylink=rss" />
     <author>
       <name />
@@ -215,7 +226,7 @@
     </author>
     <updated>2015-08-11T12:00:00Z</updated>
     <published>2015-08-11T12:00:00Z</published>
-    <summary type="html" />
+    <summary type="html">&lt;p&gt;The violence set Ferguson on edge and had protest leaders worried that tensions could escalate.&lt;/p&gt;</summary>
     <dc:date>2015-08-11T12:00:00Z</dc:date>
   </entry>
   <entry>
@@ -295,6 +306,18 @@
     <published>2015-08-11T06:12:40Z</published>
     <summary type="html">&lt;p&gt;The crowd of protesters in Ferguson has significantly diminished along West Florissant Avenue.&lt;/p&gt;&lt;p&gt;Around midnight, a group of more than 50 protesters began marching down the middle of West Florissant Avenue in Ferguson, defying orders from police to clear the roadway.&lt;/p&gt;</summary>
     <dc:date>2015-08-11T06:12:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>News24.com | Police shooting, protests put Ferguson back on edge</title>
+    <link rel="alternate" href="http://www.news24.com/World/News/Police-shooting-protests-put-Ferguson-back-on-edge-20150811" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T05:20:31Z</updated>
+    <published>2015-08-11T05:20:31Z</published>
+    <summary type="html">&lt;p&gt;Michael Brown was a black 18-year-old who was killed by a white Ferguson police officer, touching off a national debate over police treatment of minorities and sparked the "Black Lives Matter" movement.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T05:20:31Z</dc:date>
+    <media:content url="http://cdn.24.co.za/files/Cms/General/d/190/6a6c0edc96594abeab838332b92f641a.jpg" />
   </entry>
   <entry>
     <title>The Latest on Ferguson: Arrests made along West Florissant</title>
@@ -527,7 +550,7 @@
     <dc:date>2015-08-07T18:14:03Z</dc:date>
   </entry>
   <entry>
-    <title>A year after Michael Brown?s death, Ferguson has changed</title>
+    <title>A year after Michael Brown’s death, Ferguson has changed</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article30405195.html%23storylink=rss" />
     <author>
       <name />
@@ -538,7 +561,7 @@
     <dc:date>2015-08-07T17:21:23Z</dc:date>
   </entry>
   <entry>
-    <title>A year after Michael Brown?s death, Ferguson has changed</title>
+    <title>A year after Michael Brown’s death, Ferguson has changed</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/national/article30405195.html%23storylink=rss" />
     <author>
       <name />
@@ -572,7 +595,7 @@
     <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297734066751_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
   </entry>
   <entry>
-    <title>Ferguson, one year later: What?s happening this weekend</title>
+    <title>Ferguson, one year later: What’s happening this weekend</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/ferguson-one-year-later-whats-happening-this-weekend/article25857899/?cmpid=rss1" />
     <author>
       <name />
