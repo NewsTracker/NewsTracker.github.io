@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.facebook.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Cambodia senator arrested, accused of treason for Facebook comment on border dispute</title>
+    <link rel="alternate" href="http://www.startribune.com/opposition-senator-arrested-in-cambodia-for-facebook-posting/321939661/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T04:35:14Z</updated>
+    <published>2015-08-15T04:35:14Z</published>
+    <summary type="html">&lt;p&gt;PHNOM PENH, Cambodia - Cambodian authorities arrested an opposition senator Saturday, two days after Prime Minister Hun Sen accused him of treason for comments posted on Facebook.&lt;/p&gt;</summary>
+    <dc:date>2015-08-15T04:35:14Z</dc:date>
+  </entry>
+  <entry>
     <title>Harvard student who lost Facebook internship raises privacy questions</title>
     <link rel="alternate" href="http://www.mercurynews.com/business/ci_28633928/harvard-student-loses-facebook-internship-app-that-exposed?source=rss" />
     <author>

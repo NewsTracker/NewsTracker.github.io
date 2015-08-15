@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Kemp becomes 1st Padres player to hit for the cycle (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/kemp-becomes-1st-padres-player-hit-cycle-035515683--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T03:55:15Z</updated>
+    <published>2015-08-15T03:55:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-15T03:55:15Z</dc:date>
+    <media:content url="https://s.yimg.com/bt/api/res/1.2/yBdy9XnpPpxeOSgtGf8cOQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://d.yimg.com/hd/mlbcom/4/4/fb8faade-b625-49ec-8f45-72d14fa7b348_UQYIYBp1DZYul1lqMVldIVVZVdltY-lawwNn-aG28olxBArlBBkpsVaRqfbtURA_MbpvgZZbCP8-_2_0.jpg?s=8d940acc614da50c9e25698d521af0d6&amp;amp;c=0a85235ee98ea3a185802e3cb0b5e26c&amp;amp;a=mlbcom&amp;amp;mr=0" />
+  </entry>
+  <entry>
+    <title>Beltran, Yankees rally, end Toronto's 11-game winning streak (Yahoo Sports)</title>
+    <link rel="alternate" href="https://sports.yahoo.com/news/beltran-yankees-rally-end-torontos-11-game-winning-023410402--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T03:45:56Z</updated>
+    <published>2015-08-15T03:45:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-15T03:45:56Z</dc:date>
+    <media:content url="https://s.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
     <title>Rookie Mariota struggles early as Falcons top Titans, 31-24 (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/rookie-mariota-struggles-early-falcons-top-titans-31-020753085--nfl.html" />
     <author>
@@ -1401,17 +1425,5 @@
     <summary type="html" />
     <dc:date>2015-07-15T18:17:03Z</dc:date>
     <media:content url="https://s1.yimg.com/bt/api/res/1.2/OgDAILOEVm8sy5aPghyEvw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507151023373978669" />
-  </entry>
-  <entry>
-    <title>Trout hits leadoff HR, wins MVP as AL All-Stars top NL 6-3 (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/trout-homers-leading-off-al-stars-top-nl-034640246--mlb.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-15T04:53:02Z</updated>
-    <published>2015-07-15T04:53:02Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-15T04:53:02Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/oi87ubNEa6tSztr1qNUzAQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-us/video/video.cbssportsvideos.com/3d8e5bb287a1ac0b2ff49a905e871d58" />
   </entry>
 </feed>
