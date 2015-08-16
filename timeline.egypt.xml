@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mohamed Morsi lawyers appeal against death sentence in Egypt</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/aug/15/mohamed-morsi-lawyers-appeal-against-death-sentence-in-egypt" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T13:12:05Z</updated>
+    <published>2015-08-15T13:12:05Z</published>
+    <summary type="html">&lt;p&gt;Morsi has not appointed a lawyer to defend himself and has refused to recognise the legitimacy of the court proceedings, saying he remains Egypt's legitimate president.&lt;/p&gt;</summary>
+    <dc:date>2015-08-15T13:12:05Z</dc:date>
+  </entry>
+  <entry>
     <title>Rights groups criticize Egypt over 2013 bloody crackdown</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/rights-groups-criticize-egypt-over-2013-bloody-cra/nnKSQ/" />
     <author>
@@ -400,7 +411,7 @@
     <media:content url="http://ichef-1.bbci.co.uk/news/976/cpsprodpb/15EE/production/_84541650_84541649.jpg" />
   </entry>
   <entry>
-    <title>?The uncertainty is just horrible': Verdict expected Thursday for Canadian journalist Fahmy?s terror trial in Egypt</title>
+    <title>‘The uncertainty is just horrible': Verdict expected Thursday for Canadian journalist Fahmy’s terror trial in Egypt</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/the-uncertainty-is-just-horrible-canadian-journalist-fahmy-expecting-verdict-on-long-running-terror-trial-in-egypt-thursday" />
     <author>
       <name />
@@ -590,7 +601,7 @@
     <dc:date>2015-07-17T09:45:26Z</dc:date>
   </entry>
   <entry>
-    <title>ISIL affiliate in Egypt says it destroyed one of country?s navy vessels with rocket fire</title>
+    <title>ISIL affiliate in Egypt says it destroyed one of country’s navy vessels with rocket fire</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/world/isil-affiliate-in-egypt-says-it-destroyed-one-of-countrys-navy-vessels-with-rocket-fire" />
     <author>
       <name />

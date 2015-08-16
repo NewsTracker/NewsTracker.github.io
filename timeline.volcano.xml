@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.volcano.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ecuador declares emergency as volcano near capital spews ash</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article31233128.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-16T02:26:06Z</updated>
+    <published>2015-08-16T02:26:06Z</published>
+    <summary type="html">&lt;p&gt;President Rafael Correa declared a state of emergency Saturday over increasing activity in the Cotopaxi volcano near the capital of Quito, and officials evacuated a few hundred people as a precaution.&lt;/p&gt;&lt;p&gt;Presidential legal secretary Alexis Mera said further ash explosions and some pyroclastic flows on the volcano's western slopes Saturday led officials to evacuate some nearby villages.&lt;/p&gt;&lt;p&gt;Four blasts inside the volcano sent ash shooting more than two miles in the sky Friday, coating highways, homes and cars just south of Ecuador's capital with a fine gray powder.&lt;/p&gt;</summary>
+    <dc:date>2015-08-16T02:26:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Ecuador evacuation after increased activity around Cotopaxi volcano</title>
+    <link rel="alternate" href="http://www.euronews.com/2015/08/16/ecuador-evacuation-after-increased-activity-around-cotopaxi-volcano/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-16T00:57:08Z</updated>
+    <published>2015-08-16T00:57:08Z</published>
+    <summary type="html">&lt;p&gt;The president of Ecuador has declared a state of emergency after the giant Cotopaxi volcano showed signs of increased activity.&lt;/p&gt;</summary>
+    <dc:date>2015-08-16T00:57:08Z</dc:date>
+    <media:content url="http://static.euronews.com/articles/311803/606x340_311803.jpg?1439686628" />
+  </entry>
+  <entry>
     <title>Volcano in Japan prompts warning</title>
     <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/08/15/volcano-japan-prompts-warning" />
     <author>
@@ -62,7 +85,7 @@
     <media:content url="http://ww3.hdnux.com/photos/40/02/07/8397302/9/square_gallery_thumb.jpg" />
   </entry>
   <entry>
-    <title>?Ancient volcano tattooed the Earth with giant rings</title>
+    <title>​Ancient volcano tattooed the Earth with giant rings</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/ancient-volcano-tattooed-the-earth-with-giant-rings/" />
     <author>
       <name />

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.donald_trump.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>'They have to go': Donald Trump would deport all undocumented immigrants as US president</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/they-have-to-go-donald-trump-would-deport-all-undocumented-immigrants-as-us-president-20150816-gj01er.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-16T02:33:12Z</updated>
+    <published>2015-08-16T02:33:12Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-16T02:33:12Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/v/n/i/w/image.related.articleLeadwide.620x349.gj01er.png/1439692386543.jpg" />
+  </entry>
+  <entry>
+    <title>Donald Trump's greatest hits at the Iowa State Fair</title>
+    <link rel="alternate" href="http://www.cbsnews.com/videos/donald-trumps-greatest-hits-at-the-iowa-state-fair/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-16T01:25:29Z</updated>
+    <published>2015-08-16T01:25:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-16T01:25:29Z</dc:date>
+  </entry>
+  <entry>
     <title>Donald Trump to take break from campaign trail for jury duty in New York City</title>
     <link rel="alternate" href="http://www.startribune.com/trump-to-take-break-from-campaign-trail-for-jury-duty-in-nyc/321933851/" />
     <author>
@@ -197,7 +220,7 @@
     <media:content url="http://edition.cnn.com/2015/08/10/politics/donald-trump-megyn-kelly-apology/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
   </entry>
   <entry>
-    <title>Donald Trump and Roger Ailes Make Up ? For Now</title>
+    <title>Donald Trump and Roger Ailes Make Up — For Now</title>
     <link rel="alternate" href="http://nymag.com/daily/intelligencer/2015/08/donald-trump-and-roger-ailes-make-up-for-now.html" />
     <author>
       <name />

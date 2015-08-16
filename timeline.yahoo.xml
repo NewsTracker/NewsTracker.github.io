@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Winston has wobbly debut; Vikes beat Bucs 26-16 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/winston-wobbly-debut-vikes-beat-bucs-26-16-031419596--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-16T04:44:53Z</updated>
+    <published>2015-08-16T04:44:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-16T04:44:53Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/NLraX0mPKJfSkesoPnwMIw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/d3d96979382e33f4959c196adfa69ad3" />
+  </entry>
+  <entry>
+    <title>Chargers announce 4-year extension for Philip Rivers (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/chargers-announce-4-extension-philip-rivers-033203223--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-16T04:41:24Z</updated>
+    <published>2015-08-16T04:41:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-16T04:41:24Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/CzoOg68A9VWEjN_GQiUhXg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/973a08ea2de796913d3e3eb03c40febd" />
+  </entry>
+  <entry>
+    <title>Bears WR White needs surgery on leg stress fracture (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/bears-wr-white-needs-surgery-leg-stress-fracture-172600017--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T21:22:37Z</updated>
+    <published>2015-08-15T21:22:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-15T21:22:37Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/iZMAsq5yiHvKB8_uYn1Oug--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/13977af96b5b3e608fc80673137eda08" />
+  </entry>
+  <entry>
     <title>Kemp becomes 1st Padres player to hit for the cycle (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/kemp-becomes-1st-padres-player-hit-cycle-035515683--mlb.html" />
     <author>
@@ -471,7 +507,7 @@
     <media:content url="ww.smh.com.au/content/dam/images/g/i/n/g/m/s/image.related.articleLeadwide.620x349.ginfvx.png/1438253211210.jpg" />
   </entry>
   <entry>
-    <title>Yahoo Inc unveils Livetext messaging app that enables video calls ? but mutes sound</title>
+    <title>Yahoo Inc unveils Livetext messaging app that enables video calls — but mutes sound</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/personal-tech/yahoo-inc-unveils-livetext-messaging-app-that-enables-video-calls-but-mutes-sound" />
     <author>
       <name />
