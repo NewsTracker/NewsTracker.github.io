@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tsipras.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tsipras likely to call confidence vote after party revolt</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/greek-minister-signals-tsipras-call-070913103.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T10:01:42Z</updated>
+    <published>2015-08-17T10:01:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T10:01:42Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/PKfI7WJhWFZVVMkxgtr7KQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/SG_AHTTP_OLGBBUS_Wrapper_NewFeed_1/2015-08-17T070913Z_2_LYNXNPEB7G07D_RTROPTP_3_EUROZONE-GREECE_original.jpg" />
+  </entry>
+  <entry>
     <title>Greek parliament approves bailout deal</title>
     <link rel="alternate" href="http://www.smh.com.au//breaking-news-world/greek-parliament-approves-bailout-deal-20150814-410xq.html" />
     <author>
@@ -233,40 +245,5 @@
     <summary type="html">&lt;p&gt;Greek Prime Minister Alexis Tsipras on Friday kicked out of his government rebel ministers who voted against reforms demanded by international creditors in return for a rescue deal.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T18:38:00Z</dc:date>
     <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/17/102843378-022671dc9544702746db5db4e00271aba99f844f.80x60.jpg?v=1437149136" />
-  </entry>
-  <entry>
-    <title>On the brink, EU leaders clinched bailout deal _ with an SMS</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27410548.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T18:19:48Z</updated>
-    <published>2015-07-16T18:19:48Z</published>
-    <summary type="html">&lt;p&gt;At first Tsipras wanted 25 billion euros of the package to be available for investments, while Merkel insisted on only 10 billion euros for that purpose.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T18:19:48Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>On the brink, EU leaders clinched bailout deal _ with an SMS</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/16/on-the-brink-eu-leaders-clinched-bailout-deal-with-an-sms" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T18:15:42Z</updated>
-    <published>2015-07-16T18:15:42Z</published>
-    <summary type="html">&lt;p&gt;For three hours, Merkel, Tsipras, Tusk and French President Francois Hollande had been stuck in dead-end closed-door talks, and the message suddenly made something click.&lt;/p&gt;&lt;p&gt;Tsipras returned to the Greek capital that night, and hastily convened his Cabinet.&lt;/p&gt;&lt;p&gt;The overwhelming "No" vote in the July 5 referendum was a triumph for Tsipras.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T18:15:42Z</dc:date>
-  </entry>
-  <entry>
-    <title>On the brink, EU leaders clinched bailout deal _ with an SMS</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/on-the-brink-eu-leaders-clinched-bailout-deal-_-wi/nmzzw/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T18:15:42Z</updated>
-    <published>2015-07-16T18:15:42Z</published>
-    <summary type="html">&lt;p&gt;In the end, Tsipras was left with an agreement that was harsher than the one proposed before he called the referendum.&lt;/p&gt;&lt;p&gt;Now comes Tsipras's bitter task: persuading Greece to accept an agreement that promises years of hardship.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T18:15:42Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/16/ff/28/420b699b2dae44808f148699781d642a-18edfc2b608c4ea190f58410a066fd9a-1.jpg" />
   </entry>
 </feed>

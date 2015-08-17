@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Civilians killed as fighting flares in eastern Ukraine</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/civilians-killed-as-fighting-flares-in-eastern-ukraine/article25984021/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T08:33:04Z</updated>
+    <published>2015-08-17T08:33:04Z</published>
+    <summary type="html">&lt;p&gt;Fighting flared between Ukrainian government forces and Russian-backed separatists in two separate parts of eastern Ukraine overnight with several civilians killed by shelling, Ukrainian police and separatist sources said on Monday.&lt;/p&gt;&lt;p&gt;It has also drawn expressions of concern among Western governments, who see a ceasefire and tentative peace agreement worked out in Minsk, Belarus, as still the best chance of ending the separatist rebellion in eastern Ukraine.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T08:33:04Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/780/news/world/article25984020.ece/ALTERNATES/w220/--543395789.JPG" />
+  </entry>
+  <entry>
     <title>Cease-fire violations in eastern Ukraine discussed by Russian, German foreign ministers</title>
     <link rel="alternate" href="http://www.startribune.com/ceasefire-violations-in-eastern-ukraine-cause-concern/321868091/" />
     <author>
@@ -353,72 +365,5 @@
     <summary type="html">&lt;p&gt;KIEV, Ukraine - The Ukrainian parliament has voted to call a local election across the country in October, but not in the rebel-occupied east.&lt;/p&gt;&lt;p&gt;The Kiev government has had no control over parts of eastern Ukraine since separatist rebels began fighting government forces there in April 2014, a conflict that has since claimed more than 6,400 lives.&lt;/p&gt;&lt;p&gt;An armistice signed in February by Ukraine, Russia and the Russia-backed rebels called for local elections in eastern rebel-held areas as one of the steps to toward a comprehensive cease-fire, which has not been reached yet.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T12:10:00Z</dc:date>
     <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/07/17/876/493/Ukraine-1.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Ukraine, Australia mark sombre anniversary of Malaysian jet's downing</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/world/malaysia-airlines-flight-mh17-ukraine-australia-mark-sombre-1-year-anniversary-1.3156260?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T06:32:55Z</updated>
-    <published>2015-07-17T06:32:55Z</published>
-    <summary type="html">&lt;p&gt;In Canberra, Australian Prime Minister Tony Abbott unveiled a plaque inscribed with the names of Australian victims, which is set in soil that a police officer brought back from Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T06:32:55Z</dc:date>
-    <media:content url="http://i.cbc.ca/1.3156267.1437114394!/fileImage/httpImage/image.jpg_gen/derivatives/original_620/malaysia-airlines-mh17-ukraine.jpg" />
-  </entry>
-  <entry>
-    <title>Australia and Ukraine mark deadly MH17 anniversary</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/world/australia-and-ukraine-mark-deadly-mh17-anniversary-1.2473535" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T06:28:47Z</updated>
-    <published>2015-07-17T06:28:47Z</published>
-    <summary type="html">&lt;p&gt;Australia, Belgium, Malaysia, the Netherlands and Ukraine have asked the United Nations Security Council to establish an international criminal tribunal to prosecute those responsible for shooting down the plane.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T06:28:47Z</dc:date>
-  </entry>
-  <entry>
-    <title>Australia unveils memorial for victims of Malaysian plane shot down over Ukraine 1 year ago</title>
-    <link rel="alternate" href="http://www.startribune.com/australia-memorializes-victims-of-malaysian-plane-shot-down/316057871/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T00:40:16Z</updated>
-    <published>2015-07-17T00:40:16Z</published>
-    <summary type="html">&lt;p&gt;SYDNEY - Australia is holding a memorial service to mark the anniversary of the Malaysian jetliner that was shot down over eastern Ukraine.&lt;/p&gt;&lt;p&gt;The plane was heading from Amsterdam to Kuala Lumpur when it was shot down over war-ravaged eastern Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T00:40:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Little certainty 1 year after airliner shot down in Ukraine</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/16/little-certainty-1-year-after-airliner-shot-down-in-ukraine" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T16:55:14Z</updated>
-    <published>2015-07-16T16:55:14Z</published>
-    <summary type="html">&lt;p&gt;A year since a Malaysia Airlines Boeing 777 was blown out of the sky over war-ravaged eastern Ukraine, killing 298 people, there has been little definitive progress in determining what brought down Flight MH17.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T16:55:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Little certainty 1 year after airliner shot down in Ukraine</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/little-certainty-1-year-after-airliner-shot-down-i/nmzxT/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T16:55:14Z</updated>
-    <published>2015-07-16T16:55:14Z</published>
-    <summary type="html">&lt;p&gt;A draft version of the final report was circulated this month to representatives of Malaysia, Ukraine, the U.S., Russia, Britain, Australia and the Netherlands for their comments and suggested revisions.&lt;/p&gt;&lt;p&gt;The probe is being led by The Netherlands because 196 of the victims were Dutch, and Ukraine agreed to give Holland formal responsibility for the investigation.&lt;/p&gt;&lt;p&gt;In any case, Russian President Vladimir Putin has said, Ukraine is morally responsible for the crash because it occurred in a war that Russia claims was launched by Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T16:55:14Z</dc:date>
-  </entry>
-  <entry>
-    <title>Little certainty 1 year after airliner shot down in Ukraine</title>
-    <link rel="alternate" href="http://www.seattlepi.com/news/crime/article/Little-certainty-1-year-after-airliner-shot-down-6388730.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T16:55:14Z</updated>
-    <published>2015-07-16T16:55:14Z</published>
-    <summary type="html">&lt;p&gt;This investigation includes authorities from Ukraine, Malaysia and other countries whose nationals were among the victims, but Russia is not a participant.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T16:55:14Z</dc:date>
   </entry>
 </feed>

@@ -4,6 +4,62 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek government seen calling confidence vote</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/17/greek-government-seen-calling-confidence-vote/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T10:20:57Z</updated>
+    <published>2015-08-17T10:20:57Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T10:20:57Z</dc:date>
+  </entry>
+  <entry>
+    <title>World stocks mostly higher on steady yuan, Greek progress</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/asian-stocks-steadier-on-yuan-japan-rises-on-stimu/nnLPz/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T09:33:32Z</updated>
+    <published>2015-08-17T09:33:32Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T09:33:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece clears migrants' tent city in Athens park, but many are wary of resettlement move</title>
+    <link rel="alternate" href="http://www.startribune.com/greek-authorities-begin-clearing-athens-park-of-migrants/321992461/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T08:20:14Z</updated>
+    <published>2015-08-17T08:20:14Z</published>
+    <summary type="html">&lt;p&gt;More than 130,000 migrants have reached Greece so far in 2015, straining the country's resources.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T08:20:14Z</dc:date>
+    <media:content url="http://stmedia.stimg.co/1439765763_10018621+GREECE+MIGRANTS+6.JPG?w=263" />
+  </entry>
+  <entry>
+    <title>Greece clears migrants' tent city in Athens park</title>
+    <link rel="alternate" href="http://www.cbc.ca/news/world/greece-clears-migrants-tent-city-in-athens-park-1.3193175?cmp=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T06:43:21Z</updated>
+    <published>2015-08-17T06:43:21Z</published>
+    <summary type="html">&lt;p&gt;Greek authorities said Sunday they have started resettling migrants living in tents in a park in the capital Athens - but many were wary and had moved out ahead of the operation.&lt;/p&gt;&lt;p&gt;The settlement is far from other residences, but some feared that locals in Votanikos would object to the migrants in their midst, and the Greek media have played up the "locals protest" angle.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T06:43:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>World stocks mostly higher on steady yuan, Greek progress</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11498646&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T06:30:20Z</updated>
+    <published>2015-08-17T06:30:20Z</published>
+    <summary type="html">&lt;p&gt;HONG KONG (AP) " World stock markets were mostly higher Monday as the yuan steadied and Greece inched closer to receiving its latest bailout.&lt;/p&gt;&lt;p&gt;GREEK CRISIS: European finance ministers on Friday approved the first 26 billion euros ($29 billion) that Greece needs to rebuild its economy.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T06:30:20Z</dc:date>
+  </entry>
+  <entry>
     <title>Migrants from Turkey flood into Greece; scuffles on boat</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/migrants-from-turkey-flooding-into-greece-scuffle-/nnKsH/" />
     <author>
@@ -475,6 +531,28 @@
     <summary type="html">&lt;p&gt;The European Union is granting 2.4 billion euros/$2.6 billion to EU nations to upgrade their migration programs with the biggest sums going to Greece and Italy where thousands of refugees have arrived this year.&lt;/p&gt;&lt;p&gt;Fights broke out among migrants on the Greek island of Kos Tuesday, where overwhelmed authorities are struggling to contain increasing numbers of people arriving clandestinely on rubber dinghies from the nearby Turkish shore.&lt;/p&gt;&lt;p&gt;Hundreds of people arrive on Greece's eastern Aegean islands daily, many after fleeing conflict in Syria and Afghanistan.&lt;/p&gt;&lt;p&gt;Greece has been overwhelmed by the number of migrants arriving, with at least 124,000 people reaching the eastern islands in the first seven months of this year alone.&lt;/p&gt;</summary>
     <dc:date>2015-08-11T08:28:47Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/11/b3/99/0f6f500631dc468aaaf4b3ad7c88aa6a-b0acb25bd35843648b6b34f707525031-0_1.jpg" />
+  </entry>
+  <entry>
+    <title>Greece deal all but agreed, says government</title>
+    <link rel="alternate" href="http://www.independent.co.uk/news/world/europe/greece-deal-live-what-is-it-86bn-bailout-euro-eu-germany-euclid-tsakalotos-10449320.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T07:27:42Z</updated>
+    <published>2015-08-11T07:27:42Z</published>
+    <summary type="html">&lt;p&gt;Figures next week are set to confirm that Greece's recession deepened in the second quarter as concerns over the country's Euro future dented confidence, it has been reported.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T07:27:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece closes in on bailout deal possibly within the day</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/08/11/greece-closes-in-on-bailout-deal-possibly-within-the-day" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T07:21:26Z</updated>
+    <published>2015-08-11T07:21:26Z</published>
+    <summary type="html">&lt;p&gt;Greece has relied on international bailouts worth a total 240 billion euros ($263 billion) since it lost market confidence and was unable to borrow from anyone else in 2010.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T07:21:26Z</dc:date>
   </entry>
   <entry>
     <title>Greece closes in on bailout deal possibly within the day</title>
@@ -2276,303 +2354,5 @@
     <summary type="html">&lt;p&gt;Another fire in Peloponnese, in southern Greece, is burning out of control.&lt;/p&gt;&lt;p&gt;The brush fire broke out on the outskirts of the Greek capital, burning across a hillside and blanketing parts of Athens in thick smoke.&lt;/p&gt;&lt;p&gt;Greek firefighters battled large brush and forest fires on the outskirts of Athens and in the country's southern Peloponnese region Friday that forced the evacuation of at least three villages and two summer camps.&lt;/p&gt;&lt;p&gt;In the Greek capital of Athens, a large brush fire burned across Ymittos hill.&lt;/p&gt;&lt;p&gt;Forest and brush fires are common during Greece's hot, dry summers.&lt;/p&gt;&lt;p&gt;In 2007, massive forest fires ravaged southern Greece, devastating dozens of villages and killing more than 60 people.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T11:39:55Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/17/1d/2f/04c0fd8dd4b841808b6cd3471bd3ad99-ca919ea1e25c4202aee541a736e6c772-0_1.jpg" />
-  </entry>
-  <entry>
-    <title>World stocks uneven as Europe's rally fades while Asian shares rise, led by China jump</title>
-    <link rel="alternate" href="http://www.startribune.com/world-stocks-uneven-as-europe-rally-on-greece-fades/316111921/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T09:50:12Z</updated>
-    <published>2015-07-17T09:50:12Z</published>
-    <summary type="html">&lt;p&gt;GLOBAL OUTLOOK: With bailout lenders pledging support for Greece as it moves to re-open banks, investors' fears about a Greek exit from the euro quickly faded and they were now examining other parts of the global economy.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T09:50:12Z</dc:date>
-  </entry>
-  <entry>
-    <title>German Parliament approves Greek bailout plan</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/world/german-parliament-approves-greek-bailout-plan-1.2473556" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T09:10:00Z</updated>
-    <published>2015-07-17T09:10:00Z</published>
-    <summary type="html">&lt;p&gt;BERLIN -- German lawmakers voted Friday overwhelmingly in favour of the new bailout plan for Greece after Chancellor Angela Merkel argued that the cash-strapped country would face chaos without a deal.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T09:10:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Merkel urges German lawmakers to clear way for Greece bailout talks, says negligent not to</title>
-    <link rel="alternate" href="http://www.startribune.com/merkel-urges-german-parliament-to-back-greek-talks/316109271/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T08:45:22Z</updated>
-    <published>2015-07-17T08:45:22Z</published>
-    <summary type="html">&lt;p&gt;BERLIN - Chancellor Angela Merkel is asking German lawmakers to clear the way for negotiations on a new, third bailout package for Greece, arguing that it would be negligent not to try for a deal.&lt;/p&gt;&lt;p&gt;Bailing out Greece isn't popular among Merkel's conservatives and the chancellor acknowledged concerns over the chances of a successful bailout.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T08:45:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>German Parliament approves plan for new Greek bailout</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/f70471f764144b2fab526d39972d37b3/Article_2015-07-17-EU--Greece-Bailout/id-326ea64e2d0e449886d34214a50fd39f" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T08:20:00Z</updated>
-    <published>2015-07-17T08:20:00Z</published>
-    <summary type="html">&lt;p&gt;That has raised expectations that Greece will secure a financial lifeline to allow the country to reopen its banks and get back toward some sort of economic normality.&lt;/p&gt;&lt;p&gt;The process is expected to last around four weeks and to lead to Greece getting around 85 billion euros ($93 billion) to help it pay off upcoming debts.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T08:20:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>German Parliament approves plan for new Greek bailout</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-07-17-EU--Greece-Bailout/id-326ea64e2d0e449886d34214a50fd39f" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T08:20:00Z</updated>
-    <published>2015-07-17T08:20:00Z</published>
-    <summary type="html">&lt;p&gt;Specific terms of the three-year bailout will now be thrashed out between Greece and its partners in the 19-nation eurozone.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T08:20:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece shuffles cabinet as Germany approves new bailout package talks</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/business/greece-crisis-tsipras-shuffles-cabinet-after-anti-austerity-mini-rebellion-1.3156316?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T07:55:59Z</updated>
-    <published>2015-07-17T07:55:59Z</published>
-    <summary type="html">&lt;p&gt;Germany has been the largest single contributor to Greece's bailouts and has taken a hard line, insisting on stringent spending cuts and tax hikes in return.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T07:55:59Z</dc:date>
-    <media:content url="http://i.cbc.ca/1.3156401.1437126141!/cpImage/httpImage/image.jpg_gen/derivatives/original_620/germany-greece-bailout.jpg" />
-  </entry>
-  <entry>
-    <title>German lawmakers expected to clear way for Greece talks</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11482805&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T06:25:17Z</updated>
-    <published>2015-07-17T06:25:17Z</published>
-    <summary type="html">&lt;p&gt;Still, bailing out Greece isn't popular in Merkel's conservative bloc and 48 of its 311 lawmakers said Thursday that they would vote against.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T06:25:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek debt crisis: Banks due to reopen on Monday</title>
-    <link rel="alternate" href="http://www.smh.com.au/business/world-business/greek-debt-crisis-banks-due-to-reopen-on-monday-20150717-gieb3r.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T05:45:56Z</updated>
-    <published>2015-07-17T05:45:56Z</published>
-    <summary type="html">&lt;p&gt;The path to a reopening was cleared after the European Central Bank (ECB) announced it would offer Greek lenders an additional $US980 million in aid, giving them critical breathing room.&lt;/p&gt;&lt;p&gt;In the meantime, they signalled that they have found a way to provide Greece with the short-term loans needed to cover its most pressing debts, including a Monday payment due to the ECB.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T05:45:56Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/e/a/o/3/image.related.articleLeadwide.620x349.gieb3r.png/1437111744468.jpg" />
-  </entry>
-  <entry>
-    <title>News24.com | Migrants stranded in Athens without water, food</title>
-    <link rel="alternate" href="http://www.news24.com/World/News/Migrants-stranded-in-Athens-without-water-food-20150717" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T03:53:13Z</updated>
-    <published>2015-07-17T03:53:13Z</published>
-    <summary type="html">&lt;p&gt;Global attention has focused on Greece's brush with financial collapse over the past few weeks.&lt;/p&gt;&lt;p&gt;Greece, who has often been criticised by human rights groups for its treatment of migrants and asylum seekers, urgently needs help to cope with 1 000 refugees arriving each day, the UNHCR said.&lt;/p&gt;&lt;p&gt;More than 77 000 people have arrived in Greece by sea so far this year.&lt;/p&gt;&lt;p&gt;The Greek capital was used to arrivals of about 120 migrants daily.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T03:53:13Z</dc:date>
-    <media:content url="http://cdn.24.co.za/files/Cms/General/d/405/6b290aca2dbe4f4aa65bdc4d73ce03b3.jpg" />
-  </entry>
-  <entry>
-    <title>Greek debt crisis: Banks due to reopen on Monday</title>
-    <link rel="alternate" href="http://www.smh.com.au/business/world-business/greek-debt-crisis-banks-due-to-reopen-on-monday-20150717-gieb3r.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T03:52:11Z</updated>
-    <published>2015-07-17T03:52:11Z</published>
-    <summary type="html">&lt;p&gt;But parliament's endorsement won rare praise from European creditors and gave them a reason to lift - at least for now - the threat of economic oblivion that has hung over Greece for nearly a month.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T03:52:11Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/e/a/o/3/image.related.articleLeadwide.620x349.gieb3r.png/1437105022942.jpg" />
-  </entry>
-  <entry>
-    <title>Asia stocks mostly higher after strong earnings, Greece aid</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/us-stocks-rise-as-ebay-citi-others-report-strong-e/nmzq3/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T03:30:17Z</updated>
-    <published>2015-07-17T03:30:17Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-17T03:30:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Europe moves to restore funding to Greece after bailout vote</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/17/us-eurozone-greece-idUSKCN0PQ0GZ20150717?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T00:17:17Z</updated>
-    <published>2015-07-17T00:17:17Z</published>
-    <summary type="html">&lt;p&gt;The twin lifelines were a reward for Greek Prime Minister Alexis Tsipras after he won the backing of parliament in the early hours of Thursday for the tough reform measures demanded by creditors led by Germany.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T00:17:17Z</dc:date>
-    <media:content url="http://s3.reutersmedia.net/resources/r/?d=20150716&amp;amp;i=109682796&amp;amp;w=240&amp;amp;r=109682796-1&amp;amp;t=2" />
-  </entry>
-  <entry>
-    <title>Europe moves to restore funding to Greece after bailout vote</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/europe-moves-restore-funding-greece-001717090.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T00:17:17Z</updated>
-    <published>2015-07-17T00:17:17Z</published>
-    <summary type="html">&lt;p&gt;European finance ministers said after a conference call on Thursday morning they agreed "in principle" to start talks with Greece on the new bailout and called on Athens to adopt a second set of reforms by July 22.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T00:17:17Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/3AvRJ2IZnN3uT6PW39ZE8A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSBUS_WRAPPER_H_LIVE_NEW/2015-07-16T203318Z_1_LYNXNPEB6F15O_RTROPTP_3_EUROZONE-GREECE_original.jpg" />
-  </entry>
-  <entry>
-    <title>Europe moves to restore funding to Greece after bailout vote [Photos]</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/16/greece-licks-wounds-after-bailout-vote" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T00:10:59Z</updated>
-    <published>2015-07-17T00:10:59Z</published>
-    <summary type="html">&lt;p&gt;ATHENS - Europe moved to re-open funding to Greece's stricken economy on Thursday after the parliament in Athens approved a new bailout programme in a fractious vote that left the government without a majority.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T00:10:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: German lawmakers back Greek bailout</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27378442.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T21:54:05Z</updated>
-    <published>2015-07-16T21:54:05Z</published>
-    <summary type="html">&lt;p&gt;He expressed support for the Greek debt deal, saying it restores trust between Greece and its creditors and could help keep Greece in the common euro currency.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T21:54:05Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Yellen, Draghi upbeat despite tumult in Greece, China</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/yellen-draghi-upbeat-despite-tumult-in-greece-chin/nmz5T/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T21:17:00Z</updated>
-    <published>2015-07-16T21:17:00Z</published>
-    <summary type="html">&lt;p&gt;Yellen said this week that the Fed might reconsider a 2015 rate hike if the tumult in China or Greece threatened to spread.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T21:17:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Yellen, Draghi upbeat despite tumult in Greece, China</title>
-    <link rel="alternate" href="http://www.seattlepi.com/news/article/Yellen-Draghi-upbeat-despite-tumult-in-Greece-6389141.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T21:17:00Z</updated>
-    <published>2015-07-16T21:17:00Z</published>
-    <summary type="html">&lt;p&gt;And he did his part for Greece, too: The ECB on Thursday agreed to increase financial support for Greece's banks, which have been closed since June 29 and were in danger of collapsing entirely.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T21:17:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek banks to reopen after cash pledge from lenders</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27374224.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T20:48:06Z</updated>
-    <published>2015-07-16T20:48:06Z</published>
-    <summary type="html">&lt;p&gt;Greece on Thursday won vital pledges of support from bailout lenders needed to keep its economy from collapsing, but officials in Athens said the painful austerity measures demanded in return were likely to force an election within months.&lt;/p&gt;&lt;p&gt;And eurozone lenders pledged short-term loans so Greece can cover its debts and negotiations for a new three-year bailout worth 85 billion euros ($93 billion).&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T20:48:06Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Europe to restore Greek funds after bailout vote</title>
-    <link rel="alternate" href="http://www.rte.ie/news/2015/0716/715094-greece/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T19:27:55Z</updated>
-    <published>2015-07-16T19:27:55Z</published>
-    <summary type="html">&lt;p&gt;German Finance Minister Wolfgang Schaeuble, one of Greece's sternest critics, questioned whether Athens would ever get a third bailout, even after the parliamentary vote.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T19:27:55Z</dc:date>
-    <media:content url="ww.rte.ie//img.rasset.ie/000ade22-180.jpg" />
-  </entry>
-  <entry>
-    <title>Greek banks to reopen Monday with restrictions</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/16/latest-german-finance-minister-says-eu-rules-dont-permit-outright-cut-in-greek/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T19:10:02Z</updated>
-    <published>2015-07-16T19:10:02Z</published>
-    <summary type="html">&lt;p&gt;ATHENS, Greece - Greece's government says the country's banks will reopen Monday after being closed for three weeks but cautioned that restrictions on withdrawals would only be lifted gradually.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T19:10:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: German lawmakers back Greek bailout</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/f70471f764144b2fab526d39972d37b3/Article_2015-07-16-EU--Greece-Bailout-The%20Latest/id-891ba046383c4ba2b380280ba29b3777" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T17:49:00Z</updated>
-    <published>2015-07-16T17:49:00Z</published>
-    <summary type="html">&lt;p&gt;European Commission President Jean-Claude Juncker had earlier announced that the European Union had agreed on a short-term loan to help Greece cover its debts until mid-August.&lt;/p&gt;&lt;p&gt;He said: "These have been tough talks, but the agreement announced this evening means an impregnable ring-fence around British taxpayers' money, which will not be at risk in any way in this emergency financing for Greece."&lt;/p&gt;&lt;p&gt;Greece has been in arrears to the IMF since June 30, when it failed to make a loan repayment.&lt;/p&gt;&lt;p&gt;Jean-Claude Juncker says European finance ministers on Thursday hammered out the deal that will help Greece meet its immediate financial needs and debt obligations.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T17:49:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Stocks rise in morning trading as eBay and others report earnings gains, Greek banks get cash</title>
-    <link rel="alternate" href="http://www.startribune.com/us-stocks-rise-as-ebay-citi-others-report-strong-earnings/315820521/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T15:20:23Z</updated>
-    <published>2015-07-16T15:20:23Z</published>
-    <summary type="html">&lt;p&gt;Separately, the European Union agreed to provide a short-term loan to Greece and the European Central Bank decided to raise the amount of emergency liquidity available to the country's banks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T15:20:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Greek minister says elections in fall likely</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27378442.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T14:57:04Z</updated>
-    <published>2015-07-16T14:57:04Z</published>
-    <summary type="html">&lt;p&gt;Greece doesn't have the money to make a 4.2 billion-euro ($4.6 billion) payment to make to the European Central Bank on Monday.&lt;/p&gt;&lt;p&gt;European Central Bank President Mario Draghi said at a news conference in Frankfurt, Germany that emergency credit to Greek banks has been raised by 900 million euros ($980 million) over one week.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T14:57:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>ECB raises emergency funding to Greek banks</title>
-    <link rel="alternate" href="http://www.cnbc.com/2015/07/16/ecb-to-raise-emergency-funding-to-greek-banks.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T14:28:00Z</updated>
-    <published>2015-07-16T14:28:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-16T14:28:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>The Latest: Dutch PM's party reserves judgment on Greek deal</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/article27378442.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T12:06:04Z</updated>
-    <published>2015-07-16T12:06:04Z</published>
-    <summary type="html">&lt;p&gt;He said the four biggest Greek banks are "system-relevant," code for significant to the international financial system, and that if they fail that would have "severe effects not just for Greece itself ... but for the eurozone as a whole."&lt;/p&gt;&lt;p&gt;So it first needs a clear prospect of a bailout deal for Greece to restore the finances of the government and banks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T12:06:04Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>European Central Bank chief Draghi faces Greece questions</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article27374527.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-16T11:55:04Z</updated>
-    <published>2015-07-16T11:55:04Z</published>
-    <summary type="html">&lt;p&gt;The other big Greek issue at the meeting will likely be Draghi re-stating that the bank is willing to use all the stimulus measures at its disposal to prevent turmoil from Greece spreading to government bond markets or the economies of other countries.&lt;/p&gt;</summary>
-    <dc:date>2015-07-16T11:55:04Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
 </feed>
