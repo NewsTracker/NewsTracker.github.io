@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>NewsTracker: cannes</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.cannes.xml" />
   <subtitle>This is a news tracking demo</subtitle>
+  <entry>
+    <title>Suspect in Cannes Watch Heist Arrested in Morocco</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/suspect-cannes-watch-heist-arrested-morocco-33139169" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T18:56:24Z</updated>
+    <published>2015-08-17T18:56:24Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T18:56:24Z</dc:date>
+  </entry>
 </feed>

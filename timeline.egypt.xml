@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>A look at Egypt's sweeping new anti-terrorism law</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/a-look-at-egypts-sweeping-new-anti-terrorism-law/nnLmg/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T20:12:55Z</updated>
+    <published>2015-08-17T20:12:55Z</published>
+    <summary type="html">&lt;p&gt;The law says the use of force must be "necessary and proportionate," but that would be determined by Egypt's judiciary, which has rarely held members of the security forces accountable for reported brutality.&lt;/p&gt;&lt;p&gt;ARTICLE 50 enshrines new circuits for terrorism-related cases in Egypt's criminal and lesser courts.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T20:12:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>A look at Egypt's sweeping new anti-terrorism law</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/17/a-look-at-egypts-sweeping-new-anti-terrorism-law" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T20:12:55Z</updated>
+    <published>2015-08-17T20:12:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T20:12:55Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt president approves sweeping anti-terrorism law</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/17/egypt-president-signs-new-anti-terrorism-law-into-effect" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T19:30:31Z</updated>
+    <published>2015-08-17T19:30:31Z</published>
+    <summary type="html">&lt;p&gt;"This is because the Interior Ministry wants that, and the Interior Ministry is now ruling Egypt," he wrote on his official Facebook page.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T19:30:31Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt President Asks for Public Support After Mother's Death</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-president-asks-public-support-mothers-death-33137100" />
     <author>
@@ -115,6 +148,18 @@
     <published>2015-08-17T07:35:58Z</published>
     <summary type="html">&lt;p&gt;In this July 31, 2015 photo, Zamalek soccer fans celebrate after winning the Egyptian League at the Zamalek Sports Club in Cairo, Egypt.&lt;/p&gt;&lt;p&gt;In this July 26, 2015 photo, members of Zamalek's football club's Ultras White Knights (UWK) group, the club's hardcore fan base, attend a friend's bachelor party in Cairo, Egypt.&lt;/p&gt;&lt;p&gt;In this July 19, 2015 photo, Ultras Ahlawy, the hardcore fan base of Al-Ahly football club, watch players train at the Al - Ahly club in Cairo, Egypt.&lt;/p&gt;</summary>
     <dc:date>2015-08-17T07:35:58Z</dc:date>
+  </entry>
+  <entry>
+    <title>AP PHOTOS: Egypt's banned ultras soccer fans take to streets</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/AP-PHOTOS-Egypt-s-banned-ultras-soccer-fans-take-6448125.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T07:32:33Z</updated>
+    <published>2015-08-17T07:32:33Z</published>
+    <summary type="html">&lt;p&gt;30, 2013 photo, hardcore sports fans known as Ultras White Knights, protest in front of the High Court in downtown Cairo, Egypt.&lt;/p&gt;&lt;p&gt;2013, during a volleyball match between Zamalek and El Tayaran at the Zamalek Club, in Cairo, Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T07:32:33Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/25/37/8476646/3/920x920.jpg" />
   </entry>
   <entry>
     <title>AP PHOTOS: Egypt's banned ultras soccer fans take to streets</title>

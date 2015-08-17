@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton to appear on 'The Ellen Show'</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/politics/hillary-clinton-ellen-show-article-1.2328569" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T19:17:53Z</updated>
+    <published>2015-08-17T19:17:53Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T19:17:53Z</dc:date>
+  </entry>
+  <entry>
     <title>Obama, Hillary Clinton to cross paths at civil rights leader's soiree on Martha's Vineyard</title>
     <link rel="alternate" href="http://www.startribune.com/obama-clinton-to-cross-paths-at-martha-s-vineyard-soiree/321946951/" />
     <author>

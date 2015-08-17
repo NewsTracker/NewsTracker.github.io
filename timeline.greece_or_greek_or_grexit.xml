@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Conditions on a Greek island are so chaotic the government is housing Syrian migrants on a docked ship</title>
+    <link rel="alternate" href="http://news.nationalpost.com/news/world/conditions-on-a-greek-island-are-so-chaotic-the-government-is-housing-syrian-migrants-on-a-docked-ship" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T19:21:01Z</updated>
+    <published>2015-08-17T19:21:01Z</published>
+    <summary type="html">&lt;p&gt;Thousands of Syrian migrants on the Greek island of Kos on Sunday began boarding a ship that is to house and process them, in a bid to ease chaotic conditions onshore.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T19:21:01Z</dc:date>
+    <media:content url="http://wpmedia.news.nationalpost.com/2015/08/aptopix_greece_migrants.jpg?w=620" />
+  </entry>
+  <entry>
     <title>Merkel looks to shore up German support for Greek bailout</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/17/merkel-looks-to-shore-up-german-support-for-greek/" />
     <author>
@@ -70,6 +82,18 @@
     <summary type="html">&lt;p&gt;More than 130,000 migrants have reached Greece so far in 2015, straining the country's resources.&lt;/p&gt;</summary>
     <dc:date>2015-08-17T08:20:14Z</dc:date>
     <media:content url="http://stmedia.stimg.co/1439765763_10018621+GREECE+MIGRANTS+6.JPG?w=263" />
+  </entry>
+  <entry>
+    <title>Greek authorities begin clearing Athens park of migrants</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greek-authorities-begin-clearing-Athens-park-of-6447307.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T07:56:48Z</updated>
+    <published>2015-08-17T07:56:48Z</published>
+    <summary type="html">&lt;p&gt;A migrant with his child makes his way to board a fire brigade bus to be transferred from a park to an organized camp which has been set up by the Greek state a few miles from the centre of Athens, Sunday, Aug. 16, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T07:56:48Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/24/76/8474546/15/square_gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>Greece clears migrants' tent city in Athens park</title>
@@ -314,6 +338,18 @@
   </entry>
   <entry>
     <title>Greek government defends bailout deal ahead of vote</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greek-lawmakers-to-discuss-bailout-bill-in-6441646.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T23:30:58Z</updated>
+    <published>2015-08-13T23:30:58Z</published>
+    <summary type="html">&lt;p&gt;Delia Velculescu, who led an IMF mission to participate in technical discussions between Greek authorities and the European Commission, issued a statement Thursday after the visit had ended.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T23:30:58Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/20/74/8458018/31/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Greek government defends bailout deal ahead of vote</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article30978222.html%23storylink=rss" />
     <author>
       <name />
@@ -438,6 +474,17 @@
     <dc:date>2015-08-13T07:00:31Z</dc:date>
   </entry>
   <entry>
+    <title>Refugees locked inside Greek football stadium</title>
+    <link rel="alternate" href="http://da.feedsportal.com/c/34148/f/620660/s/48eed3fc/sc/3/l/0L0Snydailynews0N0Cnews0Cworld0Crefugees0Elocked0Egreek0Efootball0Estadium0Earticle0E10B2323619/ia1.htm" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-12T20:51:15Z</updated>
+    <published>2015-08-12T20:51:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-12T20:51:15Z</dc:date>
+  </entry>
+  <entry>
     <title>As conditions worsen, Greece promises ship to house refugees</title>
     <link rel="alternate" href="http://america.aljazeera.com/articles/2015/8/12/as-conditions-worsen-greece-promises-ship-to-house-refugees.html" />
     <author>
@@ -445,7 +492,7 @@
     </author>
     <updated>2015-08-12T17:49:00Z</updated>
     <published>2015-08-12T17:49:00Z</published>
-    <summary type="html">&lt;p&gt;Municipal officials weren't available to comment Wednesday but have long been lobbying for the refugees to be taken to mainland Greece.&lt;/p&gt;&lt;p&gt;Across the road, an elderly Greek couple handed out food to refugees perched on the wall.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Municipal officials weren't available to comment Wednesday but have long been lobbying for the refugees to be taken to mainland Greece.&lt;/p&gt;&lt;p&gt;Across the road, an elderly Greek couple handed out food to refugees perched on the wall.&lt;/p&gt;&lt;p&gt;Nearly 130,000 people have arrived since January on Greece's eastern Aegean islands from nearby Turkey - a 750 percent increase over last year.&lt;/p&gt;</summary>
     <dc:date>2015-08-12T17:49:00Z</dc:date>
     <media:content url="merica.aljazeera.com/content/ajam/articles/2013/8/18/bridge-to-nowheresyrianrefugeesingreece/_jcr_content/image.adapt.480.low.Syrian_refugees_in_greece_a.jpg" />
   </entry>
@@ -2304,29 +2351,5 @@
     <summary type="html">&lt;p&gt;Athens: Forest fires fanned by strong winds and high temperatures broke out around Athens and in other parts of southern Greece on Friday, sending residents fleeing from flames threatening their homes.&lt;/p&gt;&lt;p&gt;Forest fires are common during the summer months in Greece but memories remain vivid of the huge damage and heavy loss of life in 2007, during the most serious outbreak in decades.&lt;/p&gt;</summary>
     <dc:date>2015-07-18T01:24:06Z</dc:date>
     <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/f/7/7/j/image.related.articleLeadwide.620x349.gif7r2.png/1437182545981.jpg" />
-  </entry>
-  <entry>
-    <title>German lawmakers back Greek bailout, Tsipras sacks dissenters</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/18/german-lawmakers-back-greek-bailout-tsipras-sacks-dissenters" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T21:13:26Z</updated>
-    <published>2015-07-17T21:13:26Z</published>
-    <summary type="html">&lt;p&gt;Popular misgivings run deep in Germany, the euro zone country that has already contributed most to Greece's two bailouts since 2010, about funnelling yet more aid to Athens.&lt;/p&gt;&lt;p&gt;Greece's left-wing prime minister, Alexis Tsipras, has been forced to accept a host of austerity measures that he promised to oppose when he was elected in January, in order to keep Greece in the euro zone.&lt;/p&gt;&lt;p&gt;"If we don't have the courage to end it - Greece won't make it in the euro zone - there will be a fourth and a fifth bailout for Greece," said conservative Eurosceptic Klaus-Peter Willsch, reflecting growing popular resentment of Greece among Germans.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T21:13:26Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/germany_bailout.jpg?itok=6U7qXOHf" />
-  </entry>
-  <entry>
-    <title>Greek bailout moves ahead after Germany gives its backing</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-pm-tsipras-expected-to-reshuffle-cabinet/nm2Kw/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T19:56:06Z</updated>
-    <published>2015-07-17T19:56:06Z</published>
-    <summary type="html">&lt;p&gt;The developments, along with the Greek parliament's approval early Thursday of creditor-demanded austerity measures, contributed to a positive initial assessment from Europe's bailout fund.&lt;/p&gt;&lt;p&gt;Though the broad outlines of the Greek bailout were agreed Monday by the eurozone's 19 leaders, the ESM's decision formally kick-starts the process by which Greece begins negotiating the details.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T19:56:06Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/17/da/00/ee4d97e90d85412189007bb808a99157-31a1c5a09745464ba93109cb1eebaa92-0_1.jpg" />
   </entry>
 </feed>
