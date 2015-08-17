@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Merkel looks to shore up German support for Greek bailout</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/17/merkel-looks-to-shore-up-german-support-for-greek/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T15:33:30Z</updated>
+    <published>2015-08-17T15:33:30Z</published>
+    <summary type="html">&lt;p&gt;To counter that, Merkel's government has been talking tough on the new rescue package, insisting Greece will be supervised closely and that there will be no write-off - or "haircut" - on the loans the country owes Germany.&lt;/p&gt;&lt;p&gt;Merkel's spokesman, Steffen Seibert, said Monday that while there is room to negotiate with Greece on how it deals with its massive debt, "from the German perspective, it's a success that there's no more talk of a (debt) haircut."&lt;/p&gt;&lt;p&gt;On Sunday, Merkel said that although there is no certainty the latest bailout for Greece will succeed, she is hopeful the country can overcome its economic crisis if it sticks to the agreements forged with its creditors.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T15:33:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Merkel looks to shore up German support for Greek bailout</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/08/17/merkel-looks-to-shore-up-german-support-for-greek-bailout" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T15:33:30Z</updated>
+    <published>2015-08-17T15:33:30Z</published>
+    <summary type="html">&lt;p&gt;So far, Merkel's popularity rating has kept up, thanks in part to her hard stance during the bailout talks that forced Greek Prime Minister Alexis Tsipras to back down in his demands for easier terms.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T15:33:30Z</dc:date>
+  </entry>
+  <entry>
     <title>Greek government seen calling confidence vote</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-government-seen-calling-confidence-vote/nnLSY/" />
     <author>
@@ -292,6 +314,17 @@
   </entry>
   <entry>
     <title>Greek government defends bailout deal ahead of vote</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article30978222.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T16:16:08Z</updated>
+    <published>2015-08-13T16:16:08Z</published>
+    <summary type="html">&lt;p&gt;If needed, the loan would take care of Greece's Aug. 20 debt payment and buy more time for eurozone members to tweak the plan.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T16:16:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek government defends bailout deal ahead of vote</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-lawmakers-to-discuss-bailout-bill-in-parliam/nnJbd/" />
     <author>
       <name />
@@ -347,6 +380,17 @@
     <published>2015-08-13T10:06:08Z</published>
     <summary type="html">&lt;p&gt;The terms of the bailout were agreed earlier in the week with representatives of Greece's creditors and come after months of acrimonious wrangling and failed negotiations that have cost the Greek economy dearly.&lt;/p&gt;&lt;p&gt;After the Greek vote, the bailout deal will also need approval from several other eurozone parliaments, including Germany's, before any funds can be disbursed.&lt;/p&gt;</summary>
     <dc:date>2015-08-13T10:06:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek government defends bailout deal as it faces Syriza rebellion</title>
+    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/greek-government-defends-bailout-deal-as-it-faces-syriza-rebellion-31448787.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T09:48:18Z</updated>
+    <published>2015-08-13T09:48:18Z</published>
+    <summary type="html">&lt;p&gt;Spahn told Deutschlandfunk radio that the Greek government clearly recognises its country must change if it wants to remain in the eurozone - "a lot has been achieved".&lt;/p&gt;&lt;p&gt;Mr Spahn stressed the importance to Germany of getting a clear signal from the IMF that it will remain a part of the bailout programme and said there still needs to be discussion about details of a planned privatisation fund that will sell off Greek state-owned property.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T09:48:18Z</dc:date>
   </entry>
   <entry>
     <title>Greek lawmakers discuss bailout bill in parliament</title>
@@ -1288,7 +1332,7 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/24/d8/27/d3d7382b009f4a1ca90748d417cb0b52-7fcb1f3056a747ae925c1a038b6d80bd-0_1.jpg" />
   </entry>
   <entry>
-    <title>Security worries delay start of Greece’s new bailout talks</title>
+    <title>Security worries delay start of Greece?s new bailout talks</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/security-worries-delay-start-of-greeces-new-bailout-talks/article25659250/?cmpid=rss1" />
     <author>
       <name />
@@ -2284,63 +2328,5 @@
     <summary type="html">&lt;p&gt;The developments, along with the Greek parliament's approval early Thursday of creditor-demanded austerity measures, contributed to a positive initial assessment from Europe's bailout fund.&lt;/p&gt;&lt;p&gt;Though the broad outlines of the Greek bailout were agreed Monday by the eurozone's 19 leaders, the ESM's decision formally kick-starts the process by which Greece begins negotiating the details.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T19:56:06Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/17/da/00/ee4d97e90d85412189007bb808a99157-31a1c5a09745464ba93109cb1eebaa92-0_1.jpg" />
-  </entry>
-  <entry>
-    <title>Greek firefighters battle blazes; save 200 trapped on beach</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27473896.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T18:43:07Z</updated>
-    <published>2015-07-17T18:43:07Z</published>
-    <summary type="html">&lt;p&gt;Greek firefighters battled large fires in the south, on the outskirts of Athens and on an island near the capital Friday as flames fed by strong winds forced the evacuation of villages and summer camps.&lt;/p&gt;&lt;p&gt;In all, firefighters were battling 59 fire fronts, mainly in southern Greece and near the capital.&lt;/p&gt;&lt;p&gt;Greece's Prime Minister Alexis Tsipras, center, watches developments with officials at the Fire Control Center in Athens on Friday, July 17, 2015.&lt;/p&gt;&lt;p&gt;A wild fire burns over the town of Neapoli, southern Greece, Friday, July 17, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T18:43:07Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Mixed German messages on Greece serve a purpose</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11483049&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T17:30:24Z</updated>
-    <published>2015-07-17T17:30:24Z</published>
-    <summary type="html">&lt;p&gt;BERLIN (AP) " German government officials have appeared to send mixed messages about their desire for Greece to keep using the euro " and that's just the way they want it.&lt;/p&gt;&lt;p&gt;The approach has helped keep up the pressure on a Greek government viewed in Berlin with deep suspicion, while also keeping increasingly disgruntled conservative German lawmakers in line.&lt;/p&gt;&lt;p&gt;Even after that deal, Schaeuble continued talking about a potential "Grexit" ahead of a Greek Parliament vote Wednesday on new austerity measures and Friday's German Parliament vote to approve detailed bailout talks.&lt;/p&gt;&lt;p&gt;The tough talk appeared aimed in part at reassuring wavering lawmakers in Merkel's and Schaeuble's own conservative bloc that their leaders weren't about to go soft on Greece's radical left-led government.&lt;/p&gt;&lt;p&gt;Lawmakers voted 439-119, with 40 abstentions, to give the government a mandate for talks with Greece.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T17:30:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mixed German messages on Greece serve a purpose</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11483049&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T17:30:24Z</updated>
-    <published>2015-07-17T17:30:24Z</published>
-    <summary type="html">&lt;p&gt;Schaeuble didn't directly refer to a Greek euro exit in Friday's debate, but concluded his speech with a coded warning to Athens: if Greece does its part, he said, "we will put all our strength into making this last chance a success."&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T17:30:24Z</dc:date>
-  </entry>
-  <entry>
-    <title>Merkel wins Greek aid vote in parliament after chaos warning</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/merkel-wins-greek-aid-vote-in-parliament-after-chaos-warning-20150718-gif5rb.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T15:45:14Z</updated>
-    <published>2015-07-17T15:45:14Z</published>
-    <summary type="html">&lt;p&gt;Berlin: German lawmakers cleared the way for talks on a third Greek bailout after Chancellor Angela Merkel warned that failing to try would be reckless and sow chaos.&lt;/p&gt;&lt;p&gt;Mrs Merkel faced down her party bloc's biggest revolt over Greece yet and wielded her government majority in parliament's lower house to back the mandate on Friday.&lt;/p&gt;&lt;p&gt;With the vote, lawmakers backed talks on aid from the European Stability Mechanism, the euro area's permanent firewall fund, and a loan to keep Greece afloat during talks on the proposed three-year bailout.&lt;/p&gt;&lt;p&gt;In a sign of growing exasperation with Greece, the number of dissenters in Mrs Merkel's bloc more than doubled from the 29 who voted against extending the second Greek bailout in February.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T15:45:14Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/f/5/s/f/image.related.articleLeadwide.620x349.gif5rb.png/1437182623956.jpg" />
-  </entry>
-  <entry>
-    <title>Merkel wins Greek aid vote in parliament after chaos warning</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/merkel-wins-greek-aid-vote-in-parliament-after-chaos-warning-20150717-gif5rb" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T15:45:14Z</updated>
-    <published>2015-07-17T15:45:14Z</published>
-    <summary type="html">&lt;p&gt;"We are working to ensure that Greece remains a member of the euro because the euro is much more than a currency," Merkel told lawmakers in Berlin in a speech before the vote.&lt;/p&gt;&lt;p&gt;"A lot more is at stake" than Greece, she said, citing conflicts in Ukraine and the Middle East and Europe's refugee crisis.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T15:45:14Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/f/5/s/f/image.related.articleLeadwide.620x349.gif5rb.png/1437147797857.jpg" />
   </entry>
 </feed>

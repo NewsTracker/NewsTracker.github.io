@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.donald_trump.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Donald Trump reports for jury duty</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/donald-trump-reports-for-jury-duty/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T17:29:06Z</updated>
+    <published>2015-08-17T17:29:06Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T17:29:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Donald Trump's clueless immigration plan</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/08/17/opinions/reyes-trump-immigration/index.html?eref=rss_latest" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T16:50:18Z</updated>
+    <published>2015-08-17T16:50:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T16:50:18Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/150816193502-trump-immigration-plan-serfaty-lkl-00001509-large-169.jpg" />
+  </entry>
+  <entry>
     <title>Trump reports for New York jury duty, takes campaign break</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/from-campaign-to-court-trump-summoned-for-jury-dut/nnLTS/" />
     <author>
@@ -266,7 +289,7 @@
     <media:content url="http://edition.cnn.com/2015/08/10/politics/donald-trump-megyn-kelly-apology/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
   </entry>
   <entry>
-    <title>Donald Trump and Roger Ailes Make Up — For Now</title>
+    <title>Donald Trump and Roger Ailes Make Up ? For Now</title>
     <link rel="alternate" href="http://nymag.com/daily/intelligencer/2015/08/donald-trump-and-roger-ailes-make-up-for-now.html" />
     <author>
       <name />

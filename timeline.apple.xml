@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>'Call 911': Man whose truck fell on him says Apple's Siri made the call that saved his life</title>
+    <link rel="alternate" href="http://www.foxnews.com/us/2015/08/17/call-11-man-whose-truck-fell-on-him-says-apple-siri-made-call-that-saved-his/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T17:48:29Z</updated>
+    <published>2015-08-17T17:48:29Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T17:48:29Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fb2/feeds/International%20Business%20Times/876/493/siri.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
+    <title>This Is How Many Times Dr. Dre?s New Album Was Streamed in its First Week On Apple Music</title>
+    <link rel="alternate" href="http://time.com/4000306/dr-dre-album-apple-music/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+time%2Fentertainment+%28TIME%3A+Entertainment%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T15:11:55Z</updated>
+    <published>2015-08-17T15:11:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T15:11:55Z</dc:date>
+    <media:content url="https://timedotcom.files.wordpress.com/2015/08/gettyimages-1429670721.jpg?quality=65&amp;amp;amp;strip=color&amp;amp;amp;w=550" />
+  </entry>
+  <entry>
     <title>Apple said to show interest in automotive testing facility</title>
     <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/Apple-said-to-show-interest-in-automotive-testing-6445212.php" />
     <author>
@@ -466,7 +490,7 @@
     <media:content url="ww.smh.com.au/content/dam/images/g/i/i/r/r/5/image.related.articleLeadwide.620x349.giip2q.png/1437619462367.jpg" />
   </entry>
   <entry>
-    <title>​For many consumers, Apple Watch isn't a gotta have</title>
+    <title>?For many consumers, Apple Watch isn't a gotta have</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/for-many-consumers-apple-watch-isnt-a-gotta-have/" />
     <author>
       <name />
@@ -581,7 +605,7 @@
     <dc:date>2015-07-22T14:25:17Z</dc:date>
   </entry>
   <entry>
-    <title>Apple's $62B hit is bad…but it's not the worst</title>
+    <title>Apple's $62B hit is bad?but it's not the worst</title>
     <link rel="alternate" href="http://www.cnbc.com/2015/07/22/apples-62b-hit-is-badbut-its-not-the-worst.html" />
     <author>
       <name />

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt President Asks for Public Support After Mother's Death</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/egypt-president-asks-public-support-mothers-death-33137100" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T17:23:52Z</updated>
+    <published>2015-08-17T17:23:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T17:23:52Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt president approves sweeping anti-terrorism law</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Egypt-president-approves-sweeping-anti-terrorism-law/articleshow/48516804.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T15:29:23Z</updated>
+    <published>2015-08-17T15:29:23Z</published>
+    <summary type="html">&lt;p&gt;Mohammed Zaree, Egypt program manager at the Cairo Institute for Human Rights Studies, said the government has already been acting without restraint in its crackdown on dissent.&lt;/p&gt;&lt;p&gt;Following Morsi's ouster, a long-running insurgency in the Sinai Peninsula surged, with stepped-up attacks targeting the military there and on the mainland, while an affiliate of the Islamic State group established an Egypt branch.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T15:29:23Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48516823,width-300,resizemode-4/a-.jpg" />
+  </entry>
+  <entry>
     <title>Egypt president approves sweeping anti-terrorism law</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article31283798.html%23storylink=rss" />
     <author>
@@ -548,7 +571,7 @@
     <media:content url="http://ichef-1.bbci.co.uk/news/976/cpsprodpb/15EE/production/_84541650_84541649.jpg" />
   </entry>
   <entry>
-    <title>‘The uncertainty is just horrible': Verdict expected Thursday for Canadian journalist Fahmy’s terror trial in Egypt</title>
+    <title>?The uncertainty is just horrible': Verdict expected Thursday for Canadian journalist Fahmy?s terror trial in Egypt</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/the-uncertainty-is-just-horrible-canadian-journalist-fahmy-expecting-verdict-on-long-running-terror-trial-in-egypt-thursday" />
     <author>
       <name />
