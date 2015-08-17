@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt president approves sweeping anti-terrorism law</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article31283798.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T13:37:08Z</updated>
+    <published>2015-08-17T13:37:08Z</published>
+    <summary type="html">&lt;p&gt;Egypt has not had a parliament for over two years, and legislative authority rests with el-Sissi, who as military chief in 2013 ousted the Islamist Mohammed Morsi, the country's first freely elected president.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T13:37:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt approves new anti-terrorism laws</title>
     <link rel="alternate" href="http://www.rte.ie/news/2015/0817/721694-egypt-terrorism/" />
     <author>
@@ -105,6 +116,18 @@
     <summary type="html">&lt;p&gt;The first to form in Egypt, Ultras White Knights, emerged in 2007 to support the Zamalek team.&lt;/p&gt;&lt;p&gt;It was during Egypt's 2011 revolt that ousted longtime autocrat Hosni Mubarak that ultras first took on a political role.&lt;/p&gt;&lt;p&gt;They were considered one of the most organized movements in Egypt after the Muslim Brotherhood, which the government outlawed as a terrorist organization following the 2013 military overthrow of Islamist President Mohammed Morsi.&lt;/p&gt;&lt;p&gt;Observers have said Egypt's ultras see themselves as offering marginalized youth a chance to vent pent-up frustration through peaceful protests, as opposed to apathy or violence.&lt;/p&gt;&lt;p&gt;Here are a series of Associated Press photographs of Egypt's hardcore soccer fans known as ultras.&lt;/p&gt;</summary>
     <dc:date>2015-08-17T07:32:33Z</dc:date>
     <media:content url="http://cdn.sandiegouniontrib.com/img/photos/2015/08/17/ad2f0547dc1e57247f0f6a706700dded2_r900x493.JPEG?122770e84b36f1c039d5c4c2ca15c2d8bc4ecd52" />
+  </entry>
+  <entry>
+    <title>Egypt's Sisi approves anti-terrorism law setting up special courts</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/Egypts-Sisi-approves-anti-terrorism-law-setting-up-special-courts/articleshow/48507211.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-16T23:27:37Z</updated>
+    <published>2015-08-16T23:27:37Z</published>
+    <summary type="html">&lt;p&gt;Financing "terrorist groups" will also carry a penalty of life in prison, which in Egypt is 25 years.&lt;/p&gt;</summary>
+    <dc:date>2015-08-16T23:27:37Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48507216,width-300,resizemode-4/Abdel-fattah-al-Sisi.jpg" />
   </entry>
   <entry>
     <title>Egypt's deposed President Morsi appeals death sentence: Lawyer</title>
@@ -656,7 +679,7 @@
     </author>
     <updated>2015-07-22T14:21:00Z</updated>
     <published>2015-07-22T14:21:00Z</published>
-    <summary type="html">&lt;p&gt;CAIRO -- A former army officer who is one of Egypt's most wanted militants called on fellow Egyptians to wage holy war against President Abdel-Fattah el-Sissi, describing him as a "new pharaoh" in a new recording.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;CAIRO -- A former army officer who is one of Egypt's most wanted militants called on fellow Egyptians to wage holy war against President Abdel-Fattah el-Sissi, describing him as a "new pharaoh" in a new recording.&lt;/p&gt;&lt;p&gt;Officials say el-Ashmawi has worked closely with the Sinai-based Ansar Beit al-Maqdis militant group that pledged allegiance to the Islamic State last year and is blamed for some of Egypt's most high-profile deadly attacks.&lt;/p&gt;</summary>
     <dc:date>2015-07-22T14:21:00Z</dc:date>
   </entry>
   <entry>
@@ -691,16 +714,5 @@
     <published>2015-07-18T17:15:20Z</published>
     <summary type="html">&lt;p&gt;EL-ARISH, Egypt - Security officials in Egypt say militants have attacked two military checkpoints in North Sinai.&lt;/p&gt;</summary>
     <dc:date>2015-07-18T17:15:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Deadly Clashes Break Out At Egypt Muslim Brotherhood Protest</title>
-    <link rel="alternate" href="http://www.huffingtonpost.com/entry/egypt-clashes-muslim-brotherhood_55a8f333e4b0c5f0322d0037?" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T12:34:23Z</updated>
-    <published>2015-07-17T12:34:23Z</published>
-    <summary type="html">&lt;p&gt;Political violence has increased in Egypt, two years after Islamist President Mohammed Morsi was ousted by the military, following mass protests against his rule.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T12:34:23Z</dc:date>
   </entry>
 </feed>

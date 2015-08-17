@@ -5,6 +5,18 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Greek government seen calling confidence vote</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-government-seen-calling-confidence-vote/nnLSY/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T12:42:34Z</updated>
+    <published>2015-08-17T12:42:34Z</published>
+    <summary type="html">&lt;p&gt;Although no opinion polls have been published since the end of last week when Greece's third bailout was finalized, previous polls showed his party enjoying a wide lead over opposition parties.&lt;/p&gt;</summary>
+    <dc:date>2015-08-17T12:42:34Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/17/b3/36/d39e958f677641629294997f4c883b28-335624b529de41198c06221fe84cf849-0_2.jpg" />
+  </entry>
+  <entry>
+    <title>Greek government seen calling confidence vote</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/17/greek-government-seen-calling-confidence-vote/" />
     <author>
       <name />
@@ -2330,29 +2342,5 @@
     <summary type="html">&lt;p&gt;"We are working to ensure that Greece remains a member of the euro because the euro is much more than a currency," Merkel told lawmakers in Berlin in a speech before the vote.&lt;/p&gt;&lt;p&gt;"A lot more is at stake" than Greece, she said, citing conflicts in Ukraine and the Middle East and Europe's refugee crisis.&lt;/p&gt;</summary>
     <dc:date>2015-07-17T15:45:14Z</dc:date>
     <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/f/5/s/f/image.related.articleLeadwide.620x349.gif5rb.png/1437147797857.jpg" />
-  </entry>
-  <entry>
-    <title>Firefighters battle blazes in southern Greece, near Athens</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/firefighters-battle-large-forest-fire-in-southern-/nm2Mb/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T14:28:13Z</updated>
-    <published>2015-07-17T14:28:13Z</published>
-    <summary type="html">&lt;p&gt;Fires also broke out in Koropi, near Athens; at Malakasa, north of the capital; on the island of Evia; and in Argolida in southern Greece.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T14:28:13Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/17/1d/2f/04c0fd8dd4b841808b6cd3471bd3ad99-ca919ea1e25c4202aee541a736e6c772-0_1.jpg" />
-  </entry>
-  <entry>
-    <title>Firefighters battle blazes in southern Greece, near Athens</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/firefighters-battle-large-forest-fire-in-southern-/nm2Mb/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T11:39:55Z</updated>
-    <published>2015-07-17T11:39:55Z</published>
-    <summary type="html">&lt;p&gt;Another fire in Peloponnese, in southern Greece, is burning out of control.&lt;/p&gt;&lt;p&gt;The brush fire broke out on the outskirts of the Greek capital, burning across a hillside and blanketing parts of Athens in thick smoke.&lt;/p&gt;&lt;p&gt;Greek firefighters battled large brush and forest fires on the outskirts of Athens and in the country's southern Peloponnese region Friday that forced the evacuation of at least three villages and two summer camps.&lt;/p&gt;&lt;p&gt;In the Greek capital of Athens, a large brush fire burned across Ymittos hill.&lt;/p&gt;&lt;p&gt;Forest and brush fires are common during Greece's hot, dry summers.&lt;/p&gt;&lt;p&gt;In 2007, massive forest fires ravaged southern Greece, devastating dozens of villages and killing more than 60 people.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T11:39:55Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/17/1d/2f/04c0fd8dd4b841808b6cd3471bd3ad99-ca919ea1e25c4202aee541a736e6c772-0_1.jpg" />
   </entry>
 </feed>

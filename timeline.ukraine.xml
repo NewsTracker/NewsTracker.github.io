@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>9 dead as shelling increases in eastern Ukraine</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/17/9-dead-in-uptick-of-violence-in-eastern-ukraine" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T12:43:28Z</updated>
+    <published>2015-08-17T12:43:28Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T12:43:28Z</dc:date>
+  </entry>
+  <entry>
     <title>Civilians killed as fighting flares in eastern Ukraine</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/news/world/civilians-killed-as-fighting-flares-in-eastern-ukraine/article25984021/?cmpid=rss1" />
     <author>
@@ -353,17 +364,5 @@
     <summary type="html">&lt;p&gt;Ukraine has consistently blamed Russia, but President Petro Poroshenko's comments were his most direct to date.&lt;/p&gt;&lt;p&gt;Russia denies responsibility and in turn has pointed the finger at Ukraine, whose forces are fighting pro-Russian separatist rebels in the region of eastern Ukraine where the plane crashed to earth.&lt;/p&gt;&lt;p&gt;In rebel-held eastern Ukraine, a church service was held and residents joined a procession to a gravestone near the charred area where twisted metal and body parts came crashing down on July 17 last year.&lt;/p&gt;&lt;p&gt;Britain and Ukraine marked the anniversary with new appeals for an international tribunal to prosecute suspects, an option also favoured by Malaysia, Australia, the Netherlands and Belgium.&lt;/p&gt;</summary>
     <dc:date>2015-07-18T01:12:03Z</dc:date>
     <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/f/7/k/j/image.related.articleLeadwide.620x349.gif7ks.png/1437181815575.jpg" />
-  </entry>
-  <entry>
-    <title>Ukraine's parliament calls local elections in October, but not in rebel-held east or Crimea</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/17/ukraine-parliament-calls-local-elections-in-october-but-not-in-rebel-held-east/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-17T12:10:00Z</updated>
-    <published>2015-07-17T12:10:00Z</published>
-    <summary type="html">&lt;p&gt;KIEV, Ukraine - The Ukrainian parliament has voted to call a local election across the country in October, but not in the rebel-occupied east.&lt;/p&gt;&lt;p&gt;The Kiev government has had no control over parts of eastern Ukraine since separatist rebels began fighting government forces there in April 2014, a conflict that has since claimed more than 6,400 lives.&lt;/p&gt;&lt;p&gt;An armistice signed in February by Ukraine, Russia and the Russia-backed rebels called for local elections in eastern rebel-held areas as one of the steps to toward a comprehensive cease-fire, which has not been reached yet.&lt;/p&gt;</summary>
-    <dc:date>2015-07-17T12:10:00Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/07/17/876/493/Ukraine-1.jpg?ve=1&amp;amp;tl=1" />
   </entry>
 </feed>
