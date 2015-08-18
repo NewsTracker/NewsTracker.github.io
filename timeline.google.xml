@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google pushes Project Ara release into next year</title>
+    <link rel="alternate" href="http://da.feedsportal.com/c/669/f/9809/s/490fb893/sc/3/l/0L0Stechradar0N0Cus0Cnews0Cphone0Eand0Ecommunications0Cmobile0Ephones0Cgoogle0Epushes0Eproject0Eara0Erelease0Einto0Enext0Eyear0E130A20A250Dsrc0Frss0Gattr0Fall/ia1.htm" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-17T20:40:00Z</updated>
+    <published>2015-08-17T20:40:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-17T20:40:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Dell to sell Google Chromebook tailored for corporate users</title>
     <link rel="alternate" href="http://www.seattlepi.com/news/texas/article/Dell-to-sell-Google-Chromebook-tailored-for-6442704.php" />
     <author>
@@ -115,7 +126,7 @@
     </author>
     <updated>2015-08-11T20:37:54Z</updated>
     <published>2015-08-11T20:37:54Z</published>
-    <summary type="html">&lt;p&gt;Most corporate naming experts say Google's decision to reorganize its businesses under a new holding company called "Alphabet" is close to letter perfect.&lt;/p&gt;&lt;p&gt;Because it is part of Google's corporate structure, Alphabet is not likely to become part of the lexicon like "Googling" did; it will mainly be used on Wall Street.&lt;/p&gt;&lt;p&gt;Most naming experts agree that Google struck the right balance with Alphabet.&lt;/p&gt;&lt;p&gt;But the name Alphabet itself is simple and fits with Google's reputation as being "user friendly and elementary," says Tom Sepanski, naming and verbal identity director of branding firm Landor.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Most corporate naming experts say Google's decision to reorganize its businesses under a new holding company called "Alphabet" is close to letter perfect.&lt;/p&gt;&lt;p&gt;Because it is part of Google's corporate structure, Alphabet is not likely to become part of the lexicon like "Googling" did; it will mainly be used on Wall Street.&lt;/p&gt;&lt;p&gt;Most naming experts agree that Google struck the right balance with Alphabet.&lt;/p&gt;&lt;p&gt;But the name Alphabet itself is simple and fits with Google's reputation as being "user friendly and elementary," says Tom Sepanski, naming and verbal identity director of branding firm Landor.&lt;/p&gt;&lt;p&gt;The segmentation of Google divisions under the Alphabet banner helps the name fit too.&lt;/p&gt;</summary>
     <dc:date>2015-08-11T20:37:54Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/40/16/75/8449890/7/square_gallery_thumb.jpg" />
   </entry>
@@ -558,17 +569,5 @@
     <published>2015-07-22T19:01:53Z</published>
     <summary type="html" />
     <dc:date>2015-07-22T19:01:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Google shareholders revel in record 1-day windfall of $65.1B</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Google-gains-50B-in-value-on-day-that-may-set-a-6390981.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T00:33:19Z</updated>
-    <published>2015-07-18T00:33:19Z</published>
-    <summary type="html">&lt;p&gt;Google's market capitalization, already around $403 billion, rose some $65 billion to finish at $468.3 billion, according to S&amp;P Dow Jones Indices.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T00:33:19Z</dc:date>
-    <media:content url="http://ww2.hdnux.com/photos/37/60/55/8326013/3/square_gallery_thumb.jpg" />
   </entry>
 </feed>
