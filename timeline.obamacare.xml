@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.obamacare.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Scott Walker proposes tax credits to replace Obamacare</title>
+    <link rel="alternate" href="http://www.chicagotribune.com/news/nationworld/politics/ct-scott-walker-health-care-plan-20150818-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-18T12:22:00Z</updated>
+    <published>2015-08-18T12:22:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-18T12:22:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Obamacare: New Covered California rates increase 4 percent statewide for 2016</title>
     <link rel="alternate" href="http://www.mercurynews.com/health/ci_28544553/obamacare-new-covered-california-rates-increase-4-percent?source=rss" />
     <author>

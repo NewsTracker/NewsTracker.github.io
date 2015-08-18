@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State fighter urges fellow Turks to conquer Istanbul</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/europe/Islamic-State-fighter-urges-fellow-Turks-to-conquer-Istanbul/articleshow/48530765.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-18T13:57:44Z</updated>
+    <published>2015-08-18T13:57:44Z</published>
+    <summary type="html">&lt;p&gt;The steps followed a suicide bombing, blamed on Islamic State, in the Turkish border town of Suruc on July 20 which killed 34 people.&lt;/p&gt;&lt;p&gt;"Altogether and under the orders of Abu Bakr al Baghdadi ... let's conquer Istanbul, which the traitor Erdogan works day and night to hand over to crusaders," the man said, referring to Islamic State's leader.&lt;/p&gt;&lt;p&gt;The United States carried out its first manned air strikes against Islamic State from Turkey's southern Incirlik Air Base last week and officials have said operations will be ramped up once additional coalition forces arrive.&lt;/p&gt;&lt;p&gt;Ankara and Washington are working on plans to provide air cover for Syrian rebels and jointly sweep Islamic State fighters from a strip of land along the Turkish border in a bid to cut off one of the group's lifelines.&lt;/p&gt;</summary>
+    <dc:date>2015-08-18T13:57:44Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48530851,width-300,resizemode-4/.jpg" />
+  </entry>
+  <entry>
     <title>Pataki: Fighting Islamic State should be higher priority</title>
     <link rel="alternate" href="http://www.sfgate.com/news/politics/article/Carson-says-political-class-shouldn-t-pick-the-6447629.php" />
     <author>
@@ -1775,51 +1787,5 @@
     <published>2015-07-18T22:30:40Z</published>
     <summary type="html">&lt;p&gt;The night before the attack, Wednesday, Abdulazeez sent the text message with the link to a Hadith, or Islamic teaching, a move that the friend said was unusual.&lt;/p&gt;</summary>
     <dc:date>2015-07-18T22:30:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>Saudi Arabia says arrests 431 Islamic State suspects, thwarts bombings</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/18/us-saudi-security-idUSKCN0PS0GQ20150718?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T14:59:41Z</updated>
-    <published>2015-07-18T14:59:41Z</published>
-    <summary type="html">&lt;p&gt;DUBAI Saudi Arabia has arrested 431 people suspected of belonging to Islamic State cells and thwarted attacks on mosques, security forces and a diplomatic mission, the interior ministry said on Saturday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T14:59:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Saudi Arabia arrests more than 430 Islamic State suspects</title>
-    <link rel="alternate" href="http://www.abc.net.au/news/2015-07-19/431-islamic-state-suspects-arrested-saudi-arabia-says/6631042" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T14:29:08Z</updated>
-    <published>2015-07-18T14:29:08Z</published>
-    <summary type="html">&lt;p&gt;Saudi Arabia has arrested 431 people suspected of belonging to Islamic State (IS) militant group cells, the interior ministry says.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T14:29:08Z</dc:date>
-    <media:content url="http://www.abc.net.au/news/image/6491698-3x2-340x227.jpg" />
-  </entry>
-  <entry>
-    <title>Saudi Arabia arrests 400 suspected of links to Islamic State</title>
-    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/saudi-arabia-arrests-400-suspected-of-links-to-islamic-state/article25582715/?cmpid=rss1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T14:11:06Z</updated>
-    <published>2015-07-18T14:11:06Z</published>
-    <summary type="html">&lt;p&gt;Saudi Arabia said Saturday it broke up planned Islamic State attacks in the kingdom, announcing it has arrested over 400 people in its raids.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T14:11:06Z</dc:date>
-    <media:content url="http://static.theglobeandmail.ca/dea/news/world/article25048376.ece/ALTERNATES/w220/CAITH103_Mideast_WikiLeaks_Saudi_Cables.JPG" />
-  </entry>
-  <entry>
-    <title>Saudi Arabia says it stopped Islamic State attacks; 400 held</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/18/saudi-arabia-says-it-stopped-islamic-state-attacks-400-held/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T13:26:35Z</updated>
-    <published>2015-07-18T13:26:35Z</published>
-    <summary type="html">&lt;p&gt;Saudi Arabia branded the Islamic State group a terrorist organization last year and has joined the U.S.-led coalition targeting it in Syria and Iraq.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T13:26:35Z</dc:date>
   </entry>
 </feed>

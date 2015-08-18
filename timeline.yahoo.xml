@@ -597,7 +597,7 @@
     </author>
     <updated>2015-07-29T23:19:12Z</updated>
     <published>2015-07-29T23:19:12Z</published>
-    <summary type="html">&lt;p&gt;Yahoo's Livetext app combines traditional text messages with a silent video feed.&lt;/p&gt;&lt;p&gt;Yahoo is quite late to the world of mobile messaging, but you've got to give the company some credit: The new chat service it finally debuted on Wednesday sure is different from the rest of them.&lt;/p&gt;&lt;p&gt;"The key thing for us was to make this as simple as possible," said Adam Cahan, Yahoo's senior vice president of video, design and emerging products, in an interview.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Yahoo's Livetext app combines traditional text messages with a silent video feed.&lt;/p&gt;&lt;p&gt;Yahoo is quite late to the world of mobile messaging, but you've got to give the company some credit: The new chat service it finally debuted on Wednesday sure is different from the rest of them.&lt;/p&gt;&lt;p&gt;"The key thing for us was to make this as simple as possible," said Adam Cahan, Yahoo's senior vice president of video, design and emerging products, in an interview.&lt;/p&gt;&lt;p&gt;"It's a new way to communicate: casual text on top of video," Arjun Sethi, a senior director of product management at Yahoo and head of the Livetext project, said in an interview.&lt;/p&gt;</summary>
     <dc:date>2015-07-29T23:19:12Z</dc:date>
     <media:content url="ww.smh.com.au/content/dam/images/g/i/n/g/m/s/image.related.articleLeadwide.620x349.ginfvx.png/1438253211210.jpg" />
   </entry>
@@ -1365,17 +1365,5 @@
     <summary type="html" />
     <dc:date>2015-07-18T19:56:32Z</dc:date>
     <media:content url="http://l1.yimg.com/bt/api/res/1.2/5jsGMJrM4NsjMbyFP8DeRA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.pgatourlive.com/0db683b7019347a14323aa9800d551d3" />
-  </entry>
-  <entry>
-    <title>Wind stops play and wreaks havoc on St. Andrews (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/wind-stops-play-wreaks-havoc-st-andrews-122614731--golf.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T13:32:21Z</updated>
-    <published>2015-07-18T13:32:21Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-18T13:32:21Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/DfU57OFdyJg.tofTQ2rldA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507180219083912241" />
   </entry>
 </feed>
