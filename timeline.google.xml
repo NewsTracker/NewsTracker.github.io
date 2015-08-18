@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google innovates a new kind of Wi-Fi router in latest step towards smart homes</title>
+    <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/google-innovates-a-new-kind-of-wifi-router-in-latest-step-towards-smart-homes-20150818-gj29b5" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-18T21:39:54Z</updated>
+    <published>2015-08-18T21:39:54Z</published>
+    <summary type="html">&lt;p&gt;Google said OnHub automatically updates with new features and the latest security upgrades, just like the company's Android OS and Chrome browser.&lt;/p&gt;&lt;p&gt;The router is being manufactured by network company TP-LINK, Google said, hinting that ASUS could be the second manufacturing partner for the product.&lt;/p&gt;</summary>
+    <dc:date>2015-08-18T21:39:54Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/j/2/9/g/v/image.related.articleLeadwide.620x349.gj29b5.png/1439934298281.png" />
+  </entry>
+  <entry>
     <title>Google heads down new path with 'OnHub' wireless router</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Google-heads-down-new-path-with-OnHub-wireless-6450863.php" />
     <author>
