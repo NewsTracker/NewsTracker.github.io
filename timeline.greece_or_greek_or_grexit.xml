@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece gives German firm rights to run 14 airports</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article31370957.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-18T17:00:11Z</updated>
+    <published>2015-08-18T17:00:11Z</published>
+    <summary type="html">&lt;p&gt;Tsipras was meeting with members of his financial team Tuesday, but the government has said any announcements on political developments will be made after Thursday, when Greece must repay a debt for which it needs new loans.&lt;/p&gt;&lt;p&gt;Greece has agreed to sell to a German company the rights to operate 14 regional airports, in a wave of privatizations the government had until recently opposed but needs to make to qualify for bailout loans.&lt;/p&gt;&lt;p&gt;People wait to cross the street as an elderly woman begs for alms in the northern port city of Thessaloniki, Greece, on Tuesday, Aug. 18, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-08-18T17:00:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spanish lawmakers overwhelmingly approve 3rd Greek bailout, country to supply about 10B euros</title>
+    <link rel="alternate" href="http://www.startribune.com/spanish-lawmakers-overwhelmingly-approve-greek-bailout/322172301/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-18T15:55:15Z</updated>
+    <published>2015-08-18T15:55:15Z</published>
+    <summary type="html">&lt;p&gt;Members of the nation's lower house of parliament voted 297-20 in support of the third Greek bailout already backed by the administration of Prime Minister Mariano Rajoy.&lt;/p&gt;</summary>
+    <dc:date>2015-08-18T15:55:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Greece sells to German firm rights to run 14 airports</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article31370957.html%23storylink=rss" />
     <author>
@@ -1526,7 +1548,7 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/24/d8/27/d3d7382b009f4a1ca90748d417cb0b52-7fcb1f3056a747ae925c1a038b6d80bd-0_1.jpg" />
   </entry>
   <entry>
-    <title>Security worries delay start of Greece’s new bailout talks</title>
+    <title>Security worries delay start of Greece?s new bailout talks</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/security-worries-delay-start-of-greeces-new-bailout-talks/article25659250/?cmpid=rss1" />
     <author>
       <name />
@@ -2368,40 +2390,5 @@
     <published>2015-07-19T07:11:52Z</published>
     <summary type="html">&lt;p&gt;ATHENS, Greece (AP) - Greece's cash crisis has disrupted all aspects of daily life - death included.&lt;/p&gt;&lt;p&gt;Greek funeral homes are struggling to cope with banking restrictions that limit customers to taking out only 60 euros ($65) a day in cash.&lt;/p&gt;&lt;p&gt;Even a modest funeral service in Greece costs more than 15 times that, in a country that traditionally carries out funerals shortly after death and pays for them almost entirely in cash.&lt;/p&gt;</summary>
     <dc:date>2015-07-19T07:11:52Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek banks to reopen Monday but cash restrictions remain</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greek-banks-to-reopen-monday-but-cash-restrictions/nm22p/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T17:03:57Z</updated>
-    <published>2015-07-18T17:03:57Z</published>
-    <summary type="html">&lt;p&gt;The degree came on the same day as Greece's coalition government swore in its new, reshuffled cabinet.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T17:03:57Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/18/ec/ce/8a2f09d6dc6f4662b457297278f0875d-fd0e4bcd8cc34cc7802c13192f2bd242-0_1.jpg" />
-  </entry>
-  <entry>
-    <title>Greek banks to reopen Monday but cash restrictions remain</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11483359&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T15:55:16Z</updated>
-    <published>2015-07-18T15:55:16Z</published>
-    <summary type="html">&lt;p&gt;In a decree Saturday, the Greek government kept the daily cash withdrawal limit at 60 euros ($65) but added a weekly limit.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T15:55:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek banks to reopen Monday but cash restrictions remain</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/business/greek-banks-to-reopen-monday-but-cash-restrictions/nm22p/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-18T15:51:07Z</updated>
-    <published>2015-07-18T15:51:07Z</published>
-    <summary type="html">&lt;p&gt;Greek banks are reopening Monday after a forced 3-week closure but restrictions on cash withdrawals will remain.&lt;/p&gt;</summary>
-    <dc:date>2015-07-18T15:51:07Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/18/ec/ce/8a2f09d6dc6f4662b457297278f0875d-fd0e4bcd8cc34cc7802c13192f2bd242-0_1.jpg" />
   </entry>
 </feed>

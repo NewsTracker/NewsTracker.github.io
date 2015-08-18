@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Patriots' Tom Brady doesn't practice day before hearing (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/patriots-tom-brady-doesnt-practice-day-hearing-171528917--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-18T18:07:22Z</updated>
+    <published>2015-08-18T18:07:22Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-18T18:07:22Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/kb.KDpmD1Z1CSlHryAJgyg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508131856682089374" />
+  </entry>
+  <entry>
     <title>Labor board blocks effort to unionize college athletes (Yahoo Sports)</title>
     <link rel="alternate" href="https://sports.yahoo.com/news/board-dismisses-ruling-allow-college-athletes-unionize-161332409--spt.html" />
     <author>
@@ -602,7 +614,7 @@
     <media:content url="ww.smh.com.au/content/dam/images/g/i/n/g/m/s/image.related.articleLeadwide.620x349.ginfvx.png/1438253211210.jpg" />
   </entry>
   <entry>
-    <title>Yahoo Inc unveils Livetext messaging app that enables video calls — but mutes sound</title>
+    <title>Yahoo Inc unveils Livetext messaging app that enables video calls ? but mutes sound</title>
     <link rel="alternate" href="http://business.financialpost.com/fp-tech-desk/personal-tech/yahoo-inc-unveils-livetext-messaging-app-that-enables-video-calls-but-mutes-sound" />
     <author>
       <name />
