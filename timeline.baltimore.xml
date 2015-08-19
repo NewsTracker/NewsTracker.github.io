@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Homicide total in Baltimore matches killings in all of 2014</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article31565267.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T22:39:09Z</updated>
+    <published>2015-08-19T22:39:09Z</published>
+    <summary type="html">&lt;p&gt;With Baltimore's 211th homicide on Wednesday, the city has matched the number of killings committed all of last year.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T22:39:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Baltimore officer charged in shooting of burglary suspect</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article31563698.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T22:29:00Z</updated>
+    <published>2015-08-19T22:29:00Z</published>
+    <summary type="html">&lt;p&gt;A Baltimore police officer who authorities say shot a burglary suspect at close range after he'd been subdued is being charged with attempted first- and second-degree murder.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T22:29:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Second airship launched in test of missile defense system</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article31528361.html%23storylink=rss" />
     <author>

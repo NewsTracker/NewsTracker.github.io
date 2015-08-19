@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tunisia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Gunmen fire at cops in Tunisia massacre town</title>
+    <link rel="alternate" href="http://www.news.com.au/world/africa/tunisian-police-officer-shot-dead-in-sousse/story-fnh81gzi-1227490823280?from=public_rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T20:53:00Z</updated>
+    <published>2015-08-19T20:53:00Z</published>
+    <summary type="html">&lt;p&gt;Shooting ... a police officer has been shot dead by two assailants in Sousse, Tunisia.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T20:53:00Z</dc:date>
+    <media:content url="http://resources1.news.com.au/images/2015/08/20/1227490/825501-4bc12f4a-46ab-11e5-ac0e-632009ba126e.jpg" />
+  </entry>
+  <entry>
     <title>Last burst of summer fun for Tunisia's doomed beach hotels</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article31243376.html%23storylink=rss" />
     <author>

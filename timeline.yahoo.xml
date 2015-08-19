@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Holland returns as homer-happy Rangers beat Mariners 7-2 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/holland-returns-homer-happy-rangers-beat-mariners-7-210606459--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T22:43:31Z</updated>
+    <published>2015-08-19T22:43:31Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-19T22:43:31Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/B.BVxkr9wQRJRXKIY6B1Ag--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508191345495198654" />
+  </entry>
+  <entry>
+    <title>EIi Manning not looking to be the NFL's top paid quarterback (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/eii-manning-not-looking-nfls-top-paid-quarterback-183052951--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T19:41:27Z</updated>
+    <published>2015-08-19T19:41:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-19T19:41:27Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/Pzke.3A6rdWFAEbLjcmE7Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTMwMDtweW9mZj0yNTtxPTc1O3c9MzAw/http://media.zenfs.com/en-US/video/video.nflhighlights.com/630e5cb213de8a326a8528be6743fe13" />
+  </entry>
+  <entry>
     <title>AP source: Dolphins safety Delmas tears ACL in right knee (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/dolphins-safety-delmas-carted-off-field-leg-injury-144515225--nfl.html" />
     <author>
@@ -1329,29 +1353,5 @@
     <summary type="html" />
     <dc:date>2015-07-20T02:56:45Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/jb_SDTOVyKSDGdx5bDTwMA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTI3MztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507191913692142054" />
-  </entry>
-  <entry>
-    <title>Kyle Busch races to 3rd win of year, moves closer to Chase (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/kyle-busch-races-3rd-win-moves-closer-chase-205138442--nascar.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T21:30:29Z</updated>
-    <published>2015-07-19T21:30:29Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-19T21:30:29Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/QbUYYAF6DcFI3HjsqNlZyw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507191558575151067" />
-  </entry>
-  <entry>
-    <title>Greinke now with 43 2-3 scoreless innings, Dodgers top Nats (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/greinke-now-43-2-3-scoreless-innings-dodgers-210817534--mlb.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T21:15:40Z</updated>
-    <published>2015-07-19T21:15:40Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-19T21:15:40Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/.Dq0AOxETlqrcW__gcCo2A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507191421516800483" />
   </entry>
 </feed>

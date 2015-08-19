@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Palestinians Abducted by Gunmen in Egypt</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/palestinians-abducted-gunmen-egypt-33190504" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T22:26:27Z</updated>
+    <published>2015-08-19T22:26:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-19T22:26:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Expert with new theory on Nefertiti's tomb invited to Egypt</title>
+    <link rel="alternate" href="http://www.chron.com/news/science/article/Egypt-invites-expert-behind-new-theory-on-6452622.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T19:30:05Z</updated>
+    <published>2015-08-19T19:30:05Z</published>
+    <summary type="html">&lt;p&gt;And by finding her tomb, that could provide further insight into a period still largely obscured despite so much interest worldwide in ancient Egypt.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T19:30:05Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/40/30/03/8487123/15/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Human Rights Group Slams Egypt's New Anti-Terrorism Law</title>
     <link rel="alternate" href="http://abcnews.go.com/International/wireStory/human-rights-group-slams-egypts-anti-terrorism-law-33173475" />
     <author>
@@ -25,6 +48,17 @@
     <summary type="html" />
     <dc:date>2015-08-19T14:09:13Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/40/30/03/8487123/11/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Egypt invites expert behind Nefertiti tomb theory to Cairo</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/egypt-invites-expert-behind-nefertiti-tomb-theory-to-cairo-1.2523680" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T14:08:00Z</updated>
+    <published>2015-08-19T14:08:00Z</published>
+    <summary type="html">&lt;p&gt;DNA testing also has provided strong evidence suggesting that Tut's father likely was the Pharaoh Akhenaten, the first pharaoh to try switching Egypt to monotheism.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T14:08:00Z</dc:date>
   </entry>
   <entry>
     <title>A look at Egypt's sweeping new anti-terrorism law</title>
@@ -390,17 +424,6 @@
   </entry>
   <entry>
     <title>Egypt unveils Suez Canal extension amid nationalist fervor</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article30205767.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-08-06T15:52:26Z</updated>
-    <published>2015-08-06T15:52:26Z</published>
-    <summary type="html">&lt;p&gt;A policeman stands alert under a billboard with the photo of Egyptian President Abdel-Fattah el-Sissi at the Cairo-Ismailia desert road in Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;&lt;p&gt;French President Francois Hollande greets journalists upon his arrival to attend the inauguration ceremony of the new section of the Suez Canal in Ismailia, Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;&lt;p&gt;An Egyptian woman holds a small boat as she and other Egyptian's celebrate the new Suez Canal opening in Tahrir square in Cario, Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;</summary>
-    <dc:date>2015-08-06T15:52:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt unveils Suez Canal extension amid nationalist fervor</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article30205767.html%23storylink=rss" />
     <author>
       <name />
@@ -408,6 +431,17 @@
     <updated>2015-08-06T15:52:26Z</updated>
     <published>2015-08-06T15:52:26Z</published>
     <summary type="html">&lt;p&gt;Egypt is to unveil a major extension of the Suez Canal that el-Sissi has billed as a historic achievement that will boost the economy following years of unrest.&lt;/p&gt;&lt;p&gt;Egyptians wear Pharaonic costumes as they march in front of bulldozers which took part in digging the new section of the Suez Canal in Ismailia, Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;&lt;p&gt;Egyptian soldiers stand near decorations marking the inauguration ceremony of the new section of the Suez Canal in Ismailia, Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;&lt;p&gt;Egyptian air force planes parade with the national flag colors during the inauguration ceremony of the new section of the Suez Canal in Ismailia, Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-08-06T15:52:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>Egypt unveils Suez Canal extension amid nationalist fervor</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article30205767.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-06T15:52:26Z</updated>
+    <published>2015-08-06T15:52:26Z</published>
+    <summary type="html">&lt;p&gt;A policeman stands alert under a billboard with the photo of Egyptian President Abdel-Fattah el-Sissi at the Cairo-Ismailia desert road in Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;&lt;p&gt;French President Francois Hollande greets journalists upon his arrival to attend the inauguration ceremony of the new section of the Suez Canal in Ismailia, Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;&lt;p&gt;An Egyptian woman holds a small boat as she and other Egyptian's celebrate the new Suez Canal opening in Tahrir square in Cario, Egypt, Thursday, Aug. 6, 2015.&lt;/p&gt;</summary>
     <dc:date>2015-08-06T15:52:26Z</dc:date>
   </entry>
   <entry>
@@ -509,7 +543,7 @@
     </author>
     <updated>2015-08-03T04:38:38Z</updated>
     <published>2015-08-03T04:38:38Z</published>
-    <summary type="html">&lt;p&gt;Shoukry said no journalists have been detained in Egypt for doing their jobs, only for terrorism and other offenses, and he rejected criticism that detainees were being denied due process.&lt;/p&gt;&lt;p&gt;In advance of his trip, Kerry met in Washington with Egyptian-American Mohammed Soltan, who had been sentenced to life in prison in Egypt for financing an anti-government sit-in and spreading "false news."&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Shoukry said no journalists have been detained in Egypt for doing their jobs, only for terrorism and other offenses, and he rejected criticism that detainees were being denied due process.&lt;/p&gt;&lt;p&gt;In advance of his trip, Kerry met in Washington with Egyptian-American Mohammed Soltan, who had been sentenced to life in prison in Egypt for financing an anti-government sit-in and spreading "false news."&lt;/p&gt;&lt;p&gt;He said Egypt is committed to improving its human rights conditions but noted that all countries, even mature democracies, have imperfect rights records.&lt;/p&gt;</summary>
     <dc:date>2015-08-03T04:38:38Z</dc:date>
   </entry>
   <entry>
