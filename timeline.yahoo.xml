@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>AP source: Dolphins safety Delmas tears ACL in right knee (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/dolphins-safety-delmas-carted-off-field-leg-injury-144515225--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T17:17:38Z</updated>
+    <published>2015-08-19T17:17:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-19T17:17:38Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/TLs5dnfaslf3P5WTDwG9AQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201508190951355117815" />
+  </entry>
+  <entry>
     <title>Bills' LeSean McCoy having test on injured left hamstring (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/bills-mccoy-suffers-left-leg-injury-during-practice-233624856--nfl.html" />
     <author>
@@ -1341,17 +1353,5 @@
     <summary type="html" />
     <dc:date>2015-07-19T21:15:40Z</dc:date>
     <media:content url="http://l3.yimg.com/bt/api/res/1.2/.Dq0AOxETlqrcW__gcCo2A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507191421516800483" />
-  </entry>
-  <entry>
-    <title>Murray beats Simon to put Britain in Davis Cup semifinals (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/murray-beats-simon-put-britain-davis-cup-semifinals-154706480--ten.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T17:45:06Z</updated>
-    <published>2015-07-19T17:45:06Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-19T17:45:06Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/0T5opwTX0Vg8xJoofuppLQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507190913332088302" />
   </entry>
 </feed>

@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Human Rights Group Slams Egypt's New Anti-Terrorism Law</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/human-rights-group-slams-egypts-anti-terrorism-law-33173475" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T18:12:58Z</updated>
+    <published>2015-08-19T18:12:58Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-19T18:12:58Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt invites expert behind new theory on Nefertiti's tomb</title>
     <link rel="alternate" href="http://www.chron.com/news/science/article/Egypt-invites-expert-behind-new-theory-on-6452622.php" />
     <author>

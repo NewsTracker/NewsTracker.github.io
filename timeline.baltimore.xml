@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Second airship launched in test of missile defense system</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article31528361.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T18:38:56Z</updated>
+    <published>2015-08-19T18:38:56Z</published>
+    <summary type="html">&lt;p&gt;The U.S. military has launched the second of two helium-filled airships near Baltimore to test an East Coast missile defense system.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T18:38:56Z</dc:date>
+  </entry>
+  <entry>
     <title>Police: 3 Killed in Baltimore Shooting; No Motive Released</title>
     <link rel="alternate" href="http://abcnews.go.com/US/wireStory/police-killed-baltimore-shooting-motive-released-33081193" />
     <author>
