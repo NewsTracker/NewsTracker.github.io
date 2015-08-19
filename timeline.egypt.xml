@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt invites expert behind new theory on Nefertiti's tomb</title>
+    <link rel="alternate" href="http://www.chron.com/news/science/article/Egypt-invites-expert-behind-new-theory-on-6452622.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T14:09:13Z</updated>
+    <published>2015-08-19T14:09:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-19T14:09:13Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/40/30/03/8487123/11/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>A look at Egypt's sweeping new anti-terrorism law</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/a-look-at-egypts-sweeping-new-anti-terrorism-law/nnLmg/" />
     <author>
@@ -628,7 +640,7 @@
     <media:content url="http://ichef-1.bbci.co.uk/news/976/cpsprodpb/15EE/production/_84541650_84541649.jpg" />
   </entry>
   <entry>
-    <title>?The uncertainty is just horrible': Verdict expected Thursday for Canadian journalist Fahmy?s terror trial in Egypt</title>
+    <title>‘The uncertainty is just horrible': Verdict expected Thursday for Canadian journalist Fahmy’s terror trial in Egypt</title>
     <link rel="alternate" href="http://news.nationalpost.com/news/canada/the-uncertainty-is-just-horrible-canadian-journalist-fahmy-expecting-verdict-on-long-running-terror-trial-in-egypt-thursday" />
     <author>
       <name />
@@ -772,16 +784,5 @@
     <published>2015-07-22T11:30:20Z</published>
     <summary type="html" />
     <dc:date>2015-07-22T11:30:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt's military spokesman says 7 soldiers killed in Sinai</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27819859.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T13:11:42Z</updated>
-    <published>2015-07-19T13:11:42Z</published>
-    <summary type="html">&lt;p&gt;Egypt's military spokesman says the death toll from the Sinai Peninsula a day earlier has climbed to seven soldiers after a series of Islamic-State claimed attacks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-19T13:11:42Z</dc:date>
   </entry>
 </feed>

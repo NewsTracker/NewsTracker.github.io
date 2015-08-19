@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Fin24.com | Google launches Wi-Fi router for home use</title>
+    <link rel="alternate" href="http://www.fin24.com/Tech/News/Google-launches-Wi-Fi-router-for-home-use-20150819" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T12:34:59Z</updated>
+    <published>2015-08-19T12:34:59Z</published>
+    <summary type="html">&lt;p&gt;Washington - Google launched a Wi-Fi router on Tuesday, the latest move in the company's efforts to get ready for the connected home and draw more users to its services.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T12:34:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Google innovates a new kind of Wi-Fi router in latest step towards smart homes</title>
     <link rel="alternate" href="http://www.smh.com.au/digital-life/digital-life-news/google-innovates-a-new-kind-of-wifi-router-in-latest-step-towards-smart-homes-20150818-gj29b5" />
     <author>
@@ -186,7 +197,7 @@
     <media:content url="http://l.yimg.com/bt/api/res/1.2/kq8Pp41R8LwHS_8PJ3p3GA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-08-13T145102Z_2_LYNXNPEB7C0RW_RTROPTP_3_GOOGLE-EU_original.jpg" />
   </entry>
   <entry>
-    <title>Kristen Stewart addresses her sexuality: ?Google me, I?m not hiding?</title>
+    <title>Kristen Stewart addresses her sexuality: ‘Google me, I’m not hiding’</title>
     <link rel="alternate" href="http://www.independent.co.uk/news/people/kristen-stewart-addresses-her-sexuality-google-me-im-not-hiding-10451950.html" />
     <author>
       <name />
@@ -394,7 +405,7 @@
     <media:content url="http://l.yimg.com/bt/api/res/1.2/OU3MQWl3sKjwV.brkASkJg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-08-10T211421Z_1_LYNXNPEB790X6_RTROPTP_3_TELECOMS-MWC_original.jpg" />
   </entry>
   <entry>
-    <title>Google to be part of new holding company, ?Alphabet?</title>
+    <title>Google to be part of new holding company, ‘Alphabet’</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article30638334.html%23storylink=rss" />
     <author>
       <name />
@@ -440,7 +451,7 @@
     <media:content url="http://cdn.sandiegouniontrib.com/img/photos/2015/08/10/88185b64beb1bd237e0f6a706700246d_r900x493.JPEG?122770e84b36f1c039d5c4c2ca15c2d8bc4ecd52" />
   </entry>
   <entry>
-    <title>Google to adopt new holding structure under name ?Alphabet?</title>
+    <title>Google to adopt new holding structure under name ‘Alphabet’</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/us-business/google-to-adopt-new-holding-structure-under-name-alphabet/article25909639/?cmpid=rss1" />
     <author>
       <name />

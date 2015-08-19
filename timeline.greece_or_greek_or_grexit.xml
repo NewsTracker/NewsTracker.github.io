@@ -4,6 +4,52 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece resists efforts to renegotiate regional airports deal</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/19/greece-resists-efforts-to-renegotiate-regional/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T14:48:45Z</updated>
+    <published>2015-08-19T14:48:45Z</published>
+    <summary type="html">&lt;p&gt;ATHENS, Greece (AP) - The Greek government is resisting efforts by a state-controlled German company to renegotiate aspects of its concession to operate 14 prime Greek regional airports.&lt;/p&gt;&lt;p&gt;Greek government spokeswoman Olga Gerovassili said Wednesday that Athens wants the deal implemented as is and that Greece "cannot accept" efforts by the German firm to secure better terms.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T14:48:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>German parliament overwhelmingly approves Greek bailout</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article31496567.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T12:24:05Z</updated>
+    <published>2015-08-19T12:24:05Z</published>
+    <summary type="html">&lt;p&gt;Germany's parliament overwhelmingly approved a third bailout for Greece on Wednesday, removing a key hurdle to providing new loans to the country and keeping it from defaulting on its debts in as little as 24 hours.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T12:24:05Z</dc:date>
+  </entry>
+  <entry>
+    <title>German parliament overwhelmingly approves Greek bailout</title>
+    <link rel="alternate" href="http://finance.yahoo.com/news/german-parliament-overwhelmingly-approves-greek-101958939.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T12:22:24Z</updated>
+    <published>2015-08-19T12:22:24Z</published>
+    <summary type="html">&lt;p&gt;The approval is among the last due from parliaments across Europe, with the Dutch scheduled to vote later Wednesday, after which Greece is expected to get the first installment of its new 86 billion euro ($95 billion) loans package.&lt;/p&gt;&lt;p&gt;In the Netherlands, lawmakers interrupted their summer recess to debate the Dutch government's support for the Greek bailout.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T12:22:24Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/riBFOUOprxMSFeGvtqiQPA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_AP_HEADLINES_BUSINESS/53efd1652f338a257f0f6a70670026de_original.jpg" />
+  </entry>
+  <entry>
+    <title>German Parliament Approves Greek Bailout Deal</title>
+    <link rel="alternate" href="http://www.nytimes.com/2015/08/20/world/europe/angela-merkel-german-parliament-greek-bailout.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T12:10:32Z</updated>
+    <published>2015-08-19T12:10:32Z</published>
+    <summary type="html">&lt;p&gt;"But in view of the fact that the Greek Parliament has already passed a large part of the measures, it would be irresponsible not to use the opportunity now for a new start in Greece."&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T12:10:32Z</dc:date>
+    <media:content url="http://static01.nyt.com/images/2015/08/12/world/12Greekdebt-web/12Greekdebt-web-thumbStandard.jpg" />
+  </entry>
+  <entry>
     <title>German parliament overwhelmingly approves Greek bailout</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article31496567.html%23storylink=rss" />
     <author>
@@ -1603,7 +1649,7 @@
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/24/d8/27/d3d7382b009f4a1ca90748d417cb0b52-7fcb1f3056a747ae925c1a038b6d80bd-0_1.jpg" />
   </entry>
   <entry>
-    <title>Security worries delay start of Greece?s new bailout talks</title>
+    <title>Security worries delay start of Greece’s new bailout talks</title>
     <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/security-worries-delay-start-of-greeces-new-bailout-talks/article25659250/?cmpid=rss1" />
     <author>
       <name />
@@ -2353,51 +2399,5 @@
     <published>2015-07-19T16:54:49Z</published>
     <summary type="html">&lt;p&gt;Merkel said it would be possible to talk about changing the maturities of Greece's debt or reducing the interest Athens has to pay after the first successful review of the new bailout package to be negotiated.&lt;/p&gt;</summary>
     <dc:date>2015-07-19T16:54:49Z</dc:date>
-  </entry>
-  <entry>
-    <title>Merkel rules out 'haircut' for Greece, open to other relief</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/19/criticism-for-german-idea-that-greece-take-a-euro-timeout" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T15:53:05Z</updated>
-    <published>2015-07-19T15:53:05Z</published>
-    <summary type="html">&lt;p&gt;BERLIN (AP) - Chancellor Angela Merkel on Sunday suggested that Germany would show flexibility in negotiating how Greece deals with its massive debt, but again ruled out writing off part of the money.&lt;/p&gt;</summary>
-    <dc:date>2015-07-19T15:53:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Merkel rules out 'haircut' for Greece, open to other relief</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/criticism-for-german-idea-that-greece-take-a-euro-/nm3FH/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T15:53:05Z</updated>
-    <published>2015-07-19T15:53:05Z</published>
-    <summary type="html">&lt;p&gt;"We can talk about such things again," she said, but added such talks could only begin after details of Greece's bailout program are finalized.&lt;/p&gt;</summary>
-    <dc:date>2015-07-19T15:53:05Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/19/97/00/81358d96ca9f4e93a4fdc14c134a146b-c89b671177104905a33ad7222a6f6fbc-0_1.jpg" />
-  </entry>
-  <entry>
-    <title>Criticism for German idea that Greece take a euro 'timeout'</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article27816652.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T12:36:50Z</updated>
-    <published>2015-07-19T12:36:50Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-19T12:36:50Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Merkel rules out 'haircut' for Greece, open to other relief</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11483659&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T12:35:17Z</updated>
-    <published>2015-07-19T12:35:17Z</published>
-    <summary type="html">&lt;p&gt;BERLIN (AP) " Germany's vice chancellor is criticizing the country's finance minister for suggesting that Greece could take a five-year "timeout" from the shared euro currency to address its financial problems.&lt;/p&gt;</summary>
-    <dc:date>2015-07-19T12:35:17Z</dc:date>
   </entry>
 </feed>

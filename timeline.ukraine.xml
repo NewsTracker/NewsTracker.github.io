@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Moscow Urges Europe to Get Ukraine to Comply With Truce</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/moscow-urges-europe-ukraine-comply-truce-33177676" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T14:18:42Z</updated>
+    <published>2015-08-19T14:18:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-19T14:18:42Z</dc:date>
+  </entry>
+  <entry>
     <title>Carlsberg slashes 2015 earnings forecast as Russia, Ukraine weigh on second-quarter results</title>
     <link rel="alternate" href="http://www.startribune.com/carlsberg-slashes-2015-earnings-forecast-after-q2-decline/322253491/" />
     <author>
@@ -367,27 +378,5 @@
     <published>2015-07-22T12:51:03Z</published>
     <summary type="html">&lt;p&gt;Since hostilities broke out in eastern Ukraine in April 2014, killing more than 6,400 people, the Ukrainian government has controlled only parts of the Donetsk and Luhansk regions.&lt;/p&gt;</summary>
     <dc:date>2015-07-22T12:51:03Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ukraine rebels say their small weapons pullback is beginning</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11483661&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T12:55:17Z</updated>
-    <published>2015-07-19T12:55:17Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-19T12:55:17Z</dc:date>
-  </entry>
-  <entry>
-    <title>Ukrainian rebels claim to be pulling back smaller weapons from front line in eastern Ukraine</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/19/ukrainian-rebels-claim-to-be-pulling-back-smaller-weapons-from-front-line-in/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-19T12:51:13Z</updated>
-    <published>2015-07-19T12:51:13Z</published>
-    <summary type="html">&lt;p&gt;MOSCOW - Ukraine's separatist rebels say they have begun pulling back military vehicles with small-caliber weapons from most of the front line in their war with Ukrainian forces.&lt;/p&gt;&lt;p&gt;The rebels said tanks and armored vehicles with weapons under 100mm would be pulled back three kilometers (two miles) from most of front line in eastern Ukraine.&lt;/p&gt;</summary>
-    <dc:date>2015-07-19T12:51:13Z</dc:date>
   </entry>
 </feed>
