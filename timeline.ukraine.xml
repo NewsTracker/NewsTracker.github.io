@@ -4,6 +4,41 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Carlsberg slashes 2015 earnings forecast as Russia, Ukraine weigh on second-quarter results</title>
+    <link rel="alternate" href="http://www.startribune.com/carlsberg-slashes-2015-earnings-forecast-after-q2-decline/322253491/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T09:15:32Z</updated>
+    <published>2015-08-19T09:15:32Z</published>
+    <summary type="html">&lt;p&gt;COPENHAGEN, Denmark - Danish brewer Carlsberg has lowered its full-year earnings forecast after declining beer sales in Russia and Ukraine hurt second-quarter profits.&lt;/p&gt;&lt;p&gt;It said the beer market declined 9 percent in Russia and 17 percent in Ukraine, where Moscow is accused of supporting a separatist rebellion.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T09:15:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>Vladimir Putin dives off Crimean coast as fighting intensifies along Ukraine ceasefire line</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/vladimir-putin-dives-off-crimean-coast-as-fighting-intensifies-along-ukraine-ceasefire-line-20150818-gj28gq" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T00:16:48Z</updated>
+    <published>2015-08-19T00:16:48Z</published>
+    <summary type="html">&lt;p&gt;Firefighters extinguish a fire at a house destroyed by night-long shelling in Donetsk, eastern Ukraine, on Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T00:16:48Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/j/2/9/s/0/image.related.articleLeadwide.620x349.gj28gq.png/1439943380066.jpg" />
+  </entry>
+  <entry>
+    <title>Vladimir Putin dives off Crimean coast as fighting intensifies along Ukraine ceasefire line</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/vladimir-putin-dives-off-crimean-coast-as-fighting-intensifies-along-ukraine-ceasefire-line-20150818-gj28gq" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-19T00:16:48Z</updated>
+    <published>2015-08-19T00:16:48Z</published>
+    <summary type="html">&lt;p&gt;Moscow: Fighting between Ukraine government forces and Russian-backed rebels in eastern Ukraine has escalated sharply in recent days, with each side blaming the other for the violence.&lt;/p&gt;</summary>
+    <dc:date>2015-08-19T00:16:48Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/j/2/9/s/0/image.related.articleLeadwide.620x349.gj28gq.png/1439943380066.jpg" />
+  </entry>
+  <entry>
     <title>9 dead as shelling increases in eastern Ukraine</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/9-dead-in-uptick-of-violence-in-eastern-ukraine/nnLTX/" />
     <author>
