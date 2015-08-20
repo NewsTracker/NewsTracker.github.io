@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Arrest leads to underwater tunnel across US-Mexico border</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article31584947.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T01:59:06Z</updated>
+    <published>2015-08-20T01:59:06Z</published>
+    <summary type="html">&lt;p&gt;That led to the discovery of the 150-foot-long tunnel, which began at a house in Mexicali, Mexico, and ended under the water of the canal.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T01:59:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Arrest leads to underwater tunnel across US-Mexico border</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article31584947.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T01:59:06Z</updated>
+    <published>2015-08-20T01:59:06Z</published>
+    <summary type="html">&lt;p&gt;The arrest of a drug smuggler in scuba gear led to the discovery of a tunnel from Mexico that's partially underwater and ends in a canal.&lt;/p&gt;&lt;p&gt;The drugs were put on a trolley system on the dry Mexico side of the tunnel, and smugglers would use scuba gear to retrieve it from under the canal's water from an opening that is normally obscured by rocks.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T01:59:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Arrest Leads to Underwater Tunnel Across US-Mexico Border</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/arrest-leads-underwater-tunnel-us-mexico-border-33191916" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T01:55:13Z</updated>
+    <published>2015-08-20T01:55:13Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-20T01:55:13Z</dc:date>
+  </entry>
+  <entry>
     <title>The Latest: Officials: Still interest in Gulf of Mexico oil</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/article31508162.html%23storylink=rss" />
     <author>
@@ -1239,40 +1272,5 @@
     <summary type="html">&lt;p&gt;"We shouldn't take away from Mexico," he said.&lt;/p&gt;</summary>
     <dc:date>2015-07-20T04:07:06Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Mexico tops Costa Rica 1-0 in Gold Cup on late penalty</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/sports/article27889891.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T02:57:07Z</updated>
-    <published>2015-07-20T02:57:07Z</published>
-    <summary type="html">&lt;p&gt;The Mexico-Costa Rica matchup looked like a potential final at the start of the tournament, with Costa Rica coming off a World Cup quarterfinal appearance last year.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T02:57:07Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Mexico tops Costa Rica 1-0 in Gold Cup on late penalty</title>
-    <link rel="alternate" href="http://www.miamiherald.com/sports/article27889891.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T02:57:07Z</updated>
-    <published>2015-07-20T02:57:07Z</published>
-    <summary type="html">&lt;p&gt;Mexico won 1-0 on Sunday night in the CONCACAF Gold Cup quarterfinals on Andres Guardado's penalty kick in the final minute of extra time.&lt;/p&gt;&lt;p&gt;Angry Costa Rica fans - heavily outnumbered by Mexico's supporters in the crowd of 74,187 at MetLife Stadium - threw bottles toward the field in protest.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T02:57:07Z</dc:date>
-    <media:content url="http://www.miamiherald.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Panama, Mexico in CONCACAF Gold Cup semis</title>
-    <link rel="alternate" href="http://www.sfgate.com/sports/article/Panama-in-CONCACAF-Gold-Cup-semis-after-PKs-6393871.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T02:48:39Z</updated>
-    <published>2015-07-20T02:48:39Z</published>
-    <summary type="html">&lt;p&gt;Guardado converted to send six-time champion Mexico to the semifinals, in which it will face Panama on Wednesday night in Atlanta.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T02:48:39Z</dc:date>
   </entry>
 </feed>
