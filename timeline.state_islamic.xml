@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Bosnia trial begins for 12 men accused of fighting with Islamic State group in Syria and Iraq</title>
+    <link rel="alternate" href="http://www.startribune.com/bosnia-trial-begins-for-men-accused-of-fighting-with-is/322396381/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T13:55:07Z</updated>
+    <published>2015-08-20T13:55:07Z</published>
+    <summary type="html">&lt;p&gt;SARAJEVO, Bosnia-Herzegovina - A dozen Bosnian men have gone on trial on charges of fighting with the Islamic State group in Syria and Iraq.&lt;/p&gt;&lt;p&gt;Prosecutors allege the defendants, whose trial opened Thursday, fought with the Islamic State group in Syria and Iraq in the second half of 2013 and in 2014.&lt;/p&gt;&lt;p&gt;The indictment states they entered Syria illegally from Turkey to "participate in terrorist activities....and fight on the side of the Islamic State" group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T13:55:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Massive IS car bomb hits Cairo security building, wounds 29</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Officials-Large-bomb-explodes-in-Cairo-6454251.php" />
     <author>
@@ -174,6 +185,28 @@
     <published>2015-08-14T00:10:00Z</published>
     <summary type="html">&lt;p&gt;Although the U.S. and its coalition partners are mounting airstrikes against the Islamic State, they are relying on local forces like the Kurds, the Iraqi military and others to do the fighting on the ground.&lt;/p&gt;</summary>
     <dc:date>2015-08-14T00:10:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. believes Islamic State likely used mustard agent in Iraq attack: WSJ</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/14/us-mideast-crisis-chemicalweapons-idUSKCN0QI2GT20150814?feedType=RSS&amp;amp;feedName=wtMostRead" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T00:07:09Z</updated>
+    <published>2015-08-14T00:07:09Z</published>
+    <summary type="html">&lt;p&gt;"That makes the most sense," the Journal quoted a senior U.S. official as saying about the possibility that Islamic State obtained the mustard agent in Syria.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T00:07:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>U.S. believes Islamic State likely used mustard agent in Iraq attack: WSJ</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/14/us-mideast-crisis-chemicalweapons-idUSKCN0QI2GT20150814?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-14T00:07:09Z</updated>
+    <published>2015-08-14T00:07:09Z</published>
+    <summary type="html">&lt;p&gt;Islamic State could have obtained the mustard agent in Syria, whose government admitted to having large quantities of the blistering agent in 2013, when it agreed to give up its chemical weapons arsenal, the newspaper reported.&lt;/p&gt;</summary>
+    <dc:date>2015-08-14T00:07:09Z</dc:date>
   </entry>
   <entry>
     <title>U.S. investigating whether Islamic State used chemical weapons against Kurds</title>
@@ -1672,40 +1705,5 @@
     <summary type="html">&lt;p&gt;The PKK held Ankara responsible for Monday's attack, saying it had "supported and cultivated" Islamic State against the Kurds.&lt;/p&gt;</summary>
     <dc:date>2015-07-20T20:14:07Z</dc:date>
     <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/g/q/e/e/image.related.articleLeadwide.620x349.gigq9a.png/1437423230046.jpg" />
-  </entry>
-  <entry>
-    <title>Suspected Islamic State suicide bombing kills 28 in Turkish border town</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/20/us-turkey-blast-idUSKCN0PU0T520150720?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T14:41:45Z</updated>
-    <published>2015-07-20T14:41:45Z</published>
-    <summary type="html">&lt;p&gt;A second official also said Islamic State appeared to have been responsible and that the attack was a "retaliation for the Turkish government's efforts to fight terrorism".&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T14:41:45Z</dc:date>
-    <media:content url="http://s2.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150720&amp;amp;t=2&amp;amp;i=1065633766&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;r=LYNXNPEB6J0KD" />
-  </entry>
-  <entry>
-    <title>U.K. PM offers five-year plan to defeat Islamic extremism</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/world/u-k-pm-offers-five-year-plan-to-defeat-islamic-extremism-1.2477685" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T14:03:11Z</updated>
-    <published>2015-07-20T14:03:11Z</published>
-    <summary type="html">&lt;p&gt;LONDON -- Prime Minister David Cameron is launching a five-year plan to defeat Islamic extremism, saying it's time to counter the ideology that has attracted so many young people to the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T14:03:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Suspected IS suicide bombing kills 27 in Turkish border town</title>
-    <link rel="alternate" href="http://www.sbs.com.au/news/article/2015/07/20/suspected-suicide-bombing-kills-27-turkish-border-town" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T12:11:17Z</updated>
-    <published>2015-07-20T12:11:17Z</published>
-    <summary type="html">&lt;p&gt;"Our initial evidence shows that this was a suicide attack by Islamic State," one senior official in Ankara told Reuters.&lt;/p&gt;&lt;p&gt;Kobani was the site of one of the biggest battles against Islamic State last year.&lt;/p&gt;&lt;p&gt;Syrian Kurdish forces, known as the YPG, drove the Islamic militants back from the town with the help of U.S. air strikes, after months of fighting and siege.&lt;/p&gt;&lt;p&gt;Turkey's Kurds were enraged at the time by Ankara's refusal to intervene to stop the Islamic State siege.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T12:11:17Z</dc:date>
-    <media:content url="http://www.sbs.com.au/news/sites/sbs.com.au.news/files/styles/thumb_small/public/turkey_0.jpg?itok=5q90kxJb" />
   </entry>
 </feed>

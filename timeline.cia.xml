@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>German spy charged with treason for aiding CIA and Russia</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/20/german-spy-charged-with-treason-for-aiding-cia/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T12:53:51Z</updated>
+    <published>2015-08-20T12:53:51Z</published>
+    <summary type="html">&lt;p&gt;BERLIN (AP) - Prosecutors have charged a German spy with treason, breach of official secrecy and taking bribes for allegedly providing secret documents to both the CIA and Russia's intelligence agency.&lt;/p&gt;&lt;p&gt;In a statement Thursday, prosecutors say the man offered his services to the CIA in early 2008.&lt;/p&gt;&lt;p&gt;He allegedly received 95,000 euros ($104,900) from the CIA before his arrest in July 2014.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T12:53:51Z</dc:date>
+  </entry>
+  <entry>
     <title>AP EXCLUSIVE: Top secret Clinton emails include drone talk</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/technology/article31075266.html%23storylink=rss" />
     <author>

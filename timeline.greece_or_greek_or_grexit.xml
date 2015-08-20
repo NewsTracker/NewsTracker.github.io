@@ -4,6 +4,74 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Macedonia blocks migrants on border with Greece</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/20/macedonia-blocks-migrants-on-border-with-greece" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T14:47:14Z</updated>
+    <published>2015-08-20T14:47:14Z</published>
+    <summary type="html">&lt;p&gt;Macedonian police stepped up the security at the border with Greece apparently trying to stem recent surge of migrants who are coming from Greece.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T14:47:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>Macedonia blocks migrants on border with Greece</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/macedonia-blocks-migrants-on-border-with-greece/nnNPD/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T14:47:14Z</updated>
+    <published>2015-08-20T14:47:14Z</published>
+    <summary type="html">&lt;p&gt;A police helicopter flies over railroad tracks near the border between Greece and Macedonia, near the southern Macedonian town of Gevgelija, Thursday, Aug. 20, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T14:47:14Z</dc:date>
+    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/08/20/ad/4e/7f44469bf78c4fb09b382e31c4b1b48e-d9cfdb9d79f7461fbb8e48d57223c98f-0.jpg" />
+  </entry>
+  <entry>
+    <title>Macedonia steps up security on border with Greece</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/macedonia-steps-up-security-on-border-with-greece-1.2525487" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T14:33:54Z</updated>
+    <published>2015-08-20T14:33:54Z</published>
+    <summary type="html">&lt;p&gt;GEVGELIJA, Macedonia -- Macedonia stepped up security on its border with Greece on Thursday, blocking thousands of migrants from entering and leaving them stranded on a dusty field.&lt;/p&gt;&lt;p&gt;The measure could create a huge backlog of migrants on the Greek side of the border from which some 2,000 illegally have crossed into Macedonia daily.&lt;/p&gt;&lt;p&gt;If the Macedonians seal the border, it would disrupt the so-called Balkan corridor for migrants that originates in Turkey and goes through Greece or Bulgaria to Macedonia and Serbia.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T14:33:54Z</dc:date>
+  </entry>
+  <entry>
+    <title>Macedonia Detains Migrants From Greece at Border</title>
+    <link rel="alternate" href="http://www.nytimes.com/2015/08/21/world/europe/macedonia-detains-migrants-from-greece-at-border.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T14:25:21Z</updated>
+    <published>2015-08-20T14:25:21Z</published>
+    <summary type="html">&lt;p&gt;Macedonian police spokesman Ivo Kotevski said that both police and the army will from now control the 50-kilometer (30 mile) stretch of the border in order to stop "the massive" influx of migrants coming from Greece.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T14:25:21Z</dc:date>
+    <media:content url="http://static01.nyt.com/images/2015/08/20/world/20NIGER/20NIGER-thumbStandard.jpg" />
+  </entry>
+  <entry>
+    <title>Macedonia blocks migrants on border with Greece</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article31606790.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T14:20:08Z</updated>
+    <published>2015-08-20T14:20:08Z</published>
+    <summary type="html">&lt;p&gt;Thousands of migrants were stranded Thursday on no-man's land between Macedonia and Greece near the Macedonian town of Gevgelija, from where they planned to catch trains that would take them to the Serbian border on their way to EU-member Hungary.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T14:20:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Germany wants IMF involved in Greek bailout for reform rigour: sources</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/20/us-eurozone-greece-germany-idUSKCN0QP1HJ20150820?feedType=RSS&amp;amp;feedName=businessNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T13:47:08Z</updated>
+    <published>2015-08-20T13:47:08Z</published>
+    <summary type="html">&lt;p&gt;Without the IMF's involvement, the European Commission - which has a responsibility to represent Greece along with other European Union countries - would be left to supervise Athens' implementation of its reform measures.&lt;/p&gt;&lt;p&gt;The big catch is that while the IMF wants Athens to get debt relief, Berlin strictly opposes cutting Greek debt.&lt;/p&gt;&lt;p&gt;At the outbreak of the euro zone crisis, Schaeuble initially opposed IMF involvement in bailing out Greece before Merkel overruled him.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T13:47:08Z</dc:date>
+  </entry>
+  <entry>
     <title>Migrant in Greece says they begged for food, water, blankets</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article31601891.html%23storylink=rss" />
     <author>
@@ -2280,17 +2348,5 @@
     <published>2015-07-20T16:28:00Z</published>
     <summary type="html">&lt;p&gt;The IMF is not directly involved in Greece's request for a third bailout as its previous rescue runs until early next year.&lt;/p&gt;</summary>
     <dc:date>2015-07-20T16:28:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece pays back 2 billion euros to IMF</title>
-    <link rel="alternate" href="http://www.cnbc.com/2015/07/20/greece-starts-paying-back-the-ecb-imf.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T14:43:00Z</updated>
-    <published>2015-07-20T14:43:00Z</published>
-    <summary type="html">&lt;p&gt;Greece repaid the roughly 2 billion euros ($2.2 billion) it owed to the International Monetary (IMF) on Monday, the international body reported.&lt;/p&gt;&lt;p&gt;"I can confirm that Greece today repaid the totality of its arrears to the IMF, equivalent to SDR 1.6 billion (about EUR 2.0 billion). Greece is therefore no longer in arrears to the IMF," said Gerry Rice, director of communications at the IMF in a statement on Monday.&lt;/p&gt;&lt;p&gt;"The IMF has adopted the position that Greece needs debt relief, but somebody else should pay for that."&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T14:43:00Z</dc:date>
-    <media:content url="http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/07/20/102847608-958a32733acb031e252ed5852af4ea5620f05abb.80x60.jpg?v=1437406843" />
   </entry>
 </feed>
