@@ -9,10 +9,32 @@
     <author>
       <name />
     </author>
+    <updated>2015-08-20T21:59:27Z</updated>
+    <published>2015-08-20T21:59:27Z</published>
+    <summary type="html">&lt;p&gt;Some analysts took the reports of early elections as an indication that Greece will struggle to implement the terms of its bailout.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T21:59:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek leader resigns after rebellion over new bailout</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/greece-prime-minister-alexis-tsipras-resigns-early-elections-rebellion-bailout/" />
+    <author>
+      <name />
+    </author>
     <updated>2015-08-20T19:02:34Z</updated>
     <published>2015-08-20T19:02:34Z</published>
     <summary type="html">&lt;p&gt;In a televised address to the nation Thursday night, Tsipras defended his government's negotiating tactics and said Greece got the best deal possible for its 86 billion euro ($95 billion) bailout from other eurozone countries.&lt;/p&gt;&lt;p&gt;Tsipras had delayed a decision on whether to call new elections until after Greece received the first installment from the bailout and made a debt repayment to the European Central Bank, both of which it did Thursday.&lt;/p&gt;</summary>
     <dc:date>2015-08-20T19:02:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece PM Alexis Tsipras resigns, calls for early elections</title>
+    <link rel="alternate" href="http://www.nydailynews.com/news/world/greece-pm-alexis-tsipras-resigns-calls-early-elections-article-1.2332165" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T18:50:47Z</updated>
+    <published>2015-08-20T18:50:47Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-20T18:50:47Z</dc:date>
   </entry>
   <entry>
     <title>Greek PM Steps Down, Calls New Elections, In Wake Of Bailout Deal</title>
@@ -2336,39 +2358,5 @@
     <summary type="html">&lt;p&gt;In the meantime, Greek banks are dependent on the central bank for the cash they need to operate.&lt;/p&gt;</summary>
     <dc:date>2015-07-20T23:48:16Z</dc:date>
     <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/g/i/b/1/image.related.articleLeadwide.620x349.gigtsu.png/1437436126222.jpg" />
-  </entry>
-  <entry>
-    <title>Greek banks reopen but cash limits remain and taxes soar</title>
-    <link rel="alternate" href="http://www.miamiherald.com/news/business/international-business/article27945031.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T20:55:28Z</updated>
-    <published>2015-07-20T20:55:28Z</published>
-    <summary type="html">&lt;p&gt;Cabinet-level dissenters were replaced Friday, but even their replacements have denounced the austerity measures demanded by Greece's creditors.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T20:55:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek banks reopen but cash limits remain and taxes soar</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Greeks-will-find-banks-open-but-restrictions-6394083.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T20:28:02Z</updated>
-    <published>2015-07-20T20:28:02Z</published>
-    <summary type="html">&lt;p&gt;Greece's Finance Minister Euclid Tsakalotos arrives for the handover ceremony of the outgoing Alternate Finance Minister Nadia Valavani and the incoming Tryfon Alexiadis in Athens, Monday, July 20, 2015.&lt;/p&gt;&lt;p&gt;In response to last week's parliamentary vote backing the austerity measures, the ECB raised the amount of liquidity assistance on offer to Greek banks, paving the way for them to reopen Monday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T20:28:02Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/62/44/8333574/57/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Greek banks reopen but cash limits remain and taxes soar</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/20/greeks-will-find-banks-open-but-restrictions-still-in-place" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T20:28:02Z</updated>
-    <published>2015-07-20T20:28:02Z</published>
-    <summary type="html">&lt;p&gt;Non-payment of either would have derailed Greece's latest bailout request.&lt;/p&gt;&lt;p&gt;There are few parts of the Greek economy left untouched by the steep increase in the sales tax from 13 to 23 percent.&lt;/p&gt;&lt;p&gt;The new rates have been imposed on basic goods, from cooking oil to condoms, as well as to popular services, such as taxi rides, eating out at restaurants and ferry transport to the Greek islands.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T20:28:02Z</dc:date>
   </entry>
 </feed>

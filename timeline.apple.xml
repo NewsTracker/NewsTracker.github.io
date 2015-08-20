@@ -620,7 +620,7 @@
     </author>
     <updated>2015-07-22T20:50:08Z</updated>
     <published>2015-07-22T20:50:08Z</published>
-    <summary type="html">&lt;p&gt;"Do iPhone sales tell us a lot about the broader economy and the markets or does it tell us more about Apple? It probably tells us more about Apple," Davidson said.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;"Do iPhone sales tell us a lot about the broader economy and the markets or does it tell us more about Apple? It probably tells us more about Apple," Davidson said.&lt;/p&gt;&lt;p&gt;Apple's latest results also stirred investor concerns about a slowdown in the growth of iPhone sales.&lt;/p&gt;</summary>
     <dc:date>2015-07-22T20:50:08Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
@@ -1016,28 +1016,5 @@
     <published>2015-07-21T12:58:26Z</published>
     <summary type="html">&lt;p&gt;Tech giants such as Yahoo, Microsoft and Apple are scheduled to report results after the closing.&lt;/p&gt;</summary>
     <dc:date>2015-07-21T12:58:26Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple's iPhone still surging - and highly profitable</title>
-    <link rel="alternate" href="http://www.torontosun.com/2015/07/20/apples-iphone-still-surging---and-highly-profitable" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T22:32:01Z</updated>
-    <published>2015-07-20T22:32:01Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-20T22:32:01Z</dc:date>
-    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1297651270264_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
-  </entry>
-  <entry>
-    <title>This Is Why Apple Won't Say How Many Watches It Sold</title>
-    <link rel="alternate" href="http://www.forbes.com/sites/erikamorphy/2015/07/20/this-is-why-apple-wont-say-how-many-watches-it-sold/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T22:22:00Z</updated>
-    <published>2015-07-20T22:22:00Z</published>
-    <summary type="html">&lt;p&gt;The analysts at Stifel estimates Apple sold 3.3 million watches.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T22:22:00Z</dc:date>
   </entry>
 </feed>
