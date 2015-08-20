@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek leader resigns after rebellion over new bailout</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/greece-prime-minister-alexis-tsipras-resigns-early-elections-rebellion-bailout/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T19:02:34Z</updated>
+    <published>2015-08-20T19:02:34Z</published>
+    <summary type="html">&lt;p&gt;In a televised address to the nation Thursday night, Tsipras defended his government's negotiating tactics and said Greece got the best deal possible for its 86 billion euro ($95 billion) bailout from other eurozone countries.&lt;/p&gt;&lt;p&gt;Tsipras had delayed a decision on whether to call new elections until after Greece received the first installment from the bailout and made a debt repayment to the European Central Bank, both of which it did Thursday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T19:02:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek PM Steps Down, Calls New Elections, In Wake Of Bailout Deal</title>
+    <link rel="alternate" href="http://www.npr.org/sections/thetwo-way/2015/08/20/433206660/greek-pm-steps-down-calls-new-elections-in-wake-of-bailout-deal?utm_medium=RSS&amp;amp;utm_campaign=storiesfromnpr" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T17:44:00Z</updated>
+    <published>2015-08-20T17:44:00Z</published>
+    <summary type="html">&lt;p&gt;"The political mandate of the January 25 elections has exhausted its limits and now the Greek people have to have their say," Tsipras said.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T17:44:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek Prime Minister Tsipras Says He Is Resigning, Calling Early Elections</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/greek-prime-minister-tsipras-resigning-calling-early-elections-33208544" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T17:43:45Z</updated>
+    <published>2015-08-20T17:43:45Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-20T17:43:45Z</dc:date>
+  </entry>
+  <entry>
     <title>Macedonia blocks migrants on border with Greece</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/20/macedonia-blocks-migrants-on-border-with-greece" />
     <author>
@@ -2337,16 +2370,5 @@
     <published>2015-07-20T20:28:02Z</published>
     <summary type="html">&lt;p&gt;Non-payment of either would have derailed Greece's latest bailout request.&lt;/p&gt;&lt;p&gt;There are few parts of the Greek economy left untouched by the steep increase in the sales tax from 13 to 23 percent.&lt;/p&gt;&lt;p&gt;The new rates have been imposed on basic goods, from cooking oil to condoms, as well as to popular services, such as taxi rides, eating out at restaurants and ferry transport to the Greek islands.&lt;/p&gt;</summary>
     <dc:date>2015-07-20T20:28:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek banks reopen but cash limits remain and taxes soar</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-07-20-EU--Greece-Bailout/id-73b403d6b933469facb5930d1f930083" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T16:28:00Z</updated>
-    <published>2015-07-20T16:28:00Z</published>
-    <summary type="html">&lt;p&gt;The IMF is not directly involved in Greece's request for a third bailout as its previous rescue runs until early next year.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T16:28:00Z</dc:date>
   </entry>
 </feed>

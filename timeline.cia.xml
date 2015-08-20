@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.cia.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>German spy charged with treason for passing secrets to CIA and Russia</title>
+    <link rel="alternate" href="http://www.theguardian.com/world/2015/aug/20/german-spy-treason-cia-russia-us" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T16:00:15Z</updated>
+    <published>2015-08-20T16:00:15Z</published>
+    <summary type="html">&lt;p&gt;The 32-year-old, identified only as Markus R due to privacy rules, is accused of offering his services to the CIA in early 2008 while working for Germany's foreign intelligence agency, the BND.&lt;/p&gt;&lt;p&gt;"In return the accused received sums amounting to at least 95,000 ( 68,000) from the CIA."&lt;/p&gt;&lt;p&gt;The discovery that the CIA had allegedly been spying on its German counterpart caused anger in Berlin, adding to diplomatic tensions between Germany and the US over reports about US surveillance of Angela Merkel's mobile phone.&lt;/p&gt;&lt;p&gt;Following the arrest, the German government demanded the removal of the CIA station chief in Berlin.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T16:00:15Z</dc:date>
+  </entry>
+  <entry>
     <title>German spy charged with treason for aiding CIA and Russia</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/20/german-spy-charged-with-treason-for-aiding-cia/" />
     <author>
