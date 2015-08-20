@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Baltimore cop charged with attempted murder in shooting of subdued burglary suspect</title>
+    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/Crime/2015/08/20/22542704.html?cid=rssnewscrime" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T04:30:58Z</updated>
+    <published>2015-08-20T04:30:58Z</published>
+    <summary type="html">&lt;p&gt;Gray's death prompted near-daily protests in Baltimore, and served as a catalyst for the U.S. Department of Justice to launch an investigation into whether the department's officers routinely use excessive force and participate in illegal arrests.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T04:30:58Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://cnews.canoe.com/CNEWS/Crime/2015/08/20/RE_Baltmosby650.jpg&amp;amp;amp;size=650x366&amp;amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Homicide total in Baltimore matches killings in all of 2014</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article31565267.html%23storylink=rss" />
     <author>
