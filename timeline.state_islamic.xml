@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Massive IS car bomb hits Cairo security building, wounds 29</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Officials-Large-bomb-explodes-in-Cairo-6454251.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T10:45:37Z</updated>
+    <published>2015-08-20T10:45:37Z</published>
+    <summary type="html">&lt;p&gt;On the day it was approved by ministers, Islamic militants launched a multi-pronged attack attempting to seize a northern Sinai town, hitting the military with suicide attacks and battling soldiers for hours.&lt;/p&gt;&lt;p&gt;A huge truck bomb in January 2014 targeting Cairo's security headquarters killed four people and damaged a nearby museum dedicated to Islamic arts and history.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T10:45:37Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/31/22/8492206/15/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Minister sees regional role in 'tearing down' Islamic State propaganda online</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/minister-sees-regional-role-in-tearing-down-islamic-state-propaganda-online-20150820-gj3zgy.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T07:46:33Z</updated>
+    <published>2015-08-20T07:46:33Z</published>
+    <summary type="html">&lt;p&gt;An image of children of Indonesian jihadists taken from Islamic State social media propaganda aimed at recruiting Indonesians.&lt;/p&gt;&lt;p&gt;Jakarta: Justice Minister Michael Keenan has called for Islamic State propaganda used to groom recruits online to be torn down and replaced with an online "counter-narrative to the violent and barbaric ideology".&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T07:46:33Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/u/p/g/2/image.related.articleLeadwide.620x349.gj3zgy.png/1440056780881.jpg" />
+  </entry>
+  <entry>
     <title>Syrian media say Islamic State has beheaded antiquities scholar in ancient town of Palmyra</title>
     <link rel="alternate" href="http://www.startribune.com/is-beheads-leading-syrian-antiquities-scholar-in-palmyra/322248631/" />
     <author>
@@ -71,6 +95,18 @@
     <summary type="html">&lt;p&gt;Former New York Gov. George Pataki is telling Iowans he would make fighting the Islamic State group a higher priority of the federal government by increasing U.S. airstrikes against the violent militant group in the Middle East.&lt;/p&gt;</summary>
     <dc:date>2015-08-17T00:36:12Z</dc:date>
     <media:content url="http://ww4.hdnux.com/photos/40/25/15/8475487/3/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Uzbek Pleads Guilty To Supporting Islamic State</title>
+    <link rel="alternate" href="http://www.rferl.org/content/uzbek-pleads-guilt-supporting-islamic-state/27190080.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-15T00:11:44Z</updated>
+    <published>2015-08-15T00:11:44Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-15T00:11:44Z</dc:date>
+    <media:content url="http://www.rferl.org/content/uzbek-pleads-guilt-supporting-islamic-state/../../img/spacer.gif" />
   </entry>
   <entry>
     <title>Islamic State leader raped American hostage, US finds</title>
