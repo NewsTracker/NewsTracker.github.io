@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>New railroad crossing at Brownsville to link US, Mexico</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article31707968.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T12:34:16Z</updated>
+    <published>2015-08-21T12:34:16Z</published>
+    <summary type="html">&lt;p&gt;Ceremonies are planned Tuesday in Brownsville to mark the first new international rail crossing between the U.S. and Mexico since 1910.&lt;/p&gt;&lt;p&gt;The crossing will connect Brownsville and Matamoros, Mexico.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T12:34:16Z</dc:date>
+  </entry>
+  <entry>
     <title>At busy crossing, pedestrians need passports to enter Mexico</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article31661936.html%23storylink=rss" />
     <author>

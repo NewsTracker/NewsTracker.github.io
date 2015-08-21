@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.tsipras.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Far left splits from Tsipras as Greece heads to elections</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/8/21/far-left-splits-from-tsipras-ahead-of-elections.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T11:42:00Z</updated>
+    <published>2015-08-21T11:42:00Z</published>
+    <summary type="html">&lt;p&gt;Tsipras is hoping to strengthen his hold on power in a snap election after seven months in office in which he fought Greece's creditors for a better bailout deal but had to cave in and accept more onerous terms.&lt;/p&gt;&lt;p&gt;A deputy speaker of parliament announced the new party would be called Popular Unity and headed by former Energy Minister Panagiotis Lafazanis, who was fired by Tsipras earlier this year for refusing to back the government.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T11:42:00Z</dc:date>
+    <media:content url="merica.aljazeera.com/content/ajam/articles/2015/1/24/greece-election-efforts/_jcr_content/image.adapt.480.low.Inside_Syriza_012415.jpg" />
+  </entry>
+  <entry>
+    <title>Far left splits from Tsipras as Greece heads to elections</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/far-left-splits-from-tsipras-as-greece-heads-to-elections/article26045576/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T10:43:19Z</updated>
+    <published>2015-08-21T10:43:19Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-21T10:43:19Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/b39/report-on-business/international-business/european-business/article26045575.ece/ALTERNATES/w220/-543487245.JPG" />
+  </entry>
+  <entry>
     <title>Greece heads for early elections after Tsipras resigns</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/greece-heads-for-early-elections-after-tsipras-resigns-1.2526985" />
     <author>
@@ -82,6 +106,17 @@
     <summary type="html" />
     <dc:date>2015-08-20T19:41:54Z</dc:date>
     <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Greece's Tsipras resigns, calls snap polls</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au//breaking-news-world/syriza-rebels-in-new-party-for-greek-polls-20150821-41duq.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T18:49:11Z</updated>
+    <published>2015-08-20T18:49:11Z</published>
+    <summary type="html">&lt;p&gt;Syriza rebels had mutinied in three separate parliamentary votes tied to the bailout, effectively leaving Tsipras at the head of a minority coalition government.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T18:49:11Z</dc:date>
   </entry>
   <entry>
     <title>Greek leader Tsipras calls elections after party rebellion</title>
@@ -291,27 +326,5 @@
     <summary type="html" />
     <dc:date>2015-07-21T16:21:03Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/21/f8/4b/afca3157122346e4a7b0f4ea68bdd125-ba18324b98014a2c811a5849af7e69b9-0.jpg" />
-  </entry>
-  <entry>
-    <title>Greece's Tsipras stays popular despite hardship caused new bailout deal that he signed</title>
-    <link rel="alternate" href="http://www.startribune.com/greece-s-tsipras-stays-popular-despite-bailout-hardship/317792711/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T15:35:54Z</updated>
-    <published>2015-07-21T15:35:54Z</published>
-    <summary type="html">&lt;p&gt;Many Greeks like Tsipras' message of hope - even if his actions may be leading to a harder life.&lt;/p&gt;&lt;p&gt;Tsipras' Syriza party was elected in January on a promise to end austerity, forming a coalition with the right-wing, anti-bailout Independent Greeks party - a move that broadened his political influence.&lt;/p&gt;&lt;p&gt;As Greece's economy tanked under his leadership, Tsipras' own popularity only grew.&lt;/p&gt;&lt;p&gt;He added that Tsipras' portrayal of Greece rejecting the meddling of "foreigners" resonates among many Greeks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T15:35:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece's Tsipras stays popular despite bailout hardship</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/21/greeces-tsipras-stays-popular-despite-bailout-hardship" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T15:29:41Z</updated>
-    <published>2015-07-21T15:29:41Z</published>
-    <summary type="html">&lt;p&gt;ATHENS, Greece (AP) - Under Alexis Tsipras, Greece slid back into recession, sank deeper into debt and found itself pushed to the brink of bankruptcy.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T15:29:41Z</dc:date>
   </entry>
 </feed>

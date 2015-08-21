@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.google.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Google suffers data loss after four successive lightning strikes</title>
+    <link rel="alternate" href="http://www.foxnews.com/tech/2015/08/20/google-suffers-data-loss-after-four-successive-lightning-strikes/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T19:53:01Z</updated>
+    <published>2015-08-20T19:53:01Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-20T19:53:01Z</dc:date>
+    <media:content url="http://global.fncstatic.com/static/managed/Lightning.jpg" />
+  </entry>
+  <entry>
     <title>Fin24.com | Google launches Wi-Fi router for home use</title>
     <link rel="alternate" href="http://www.fin24.com/Tech/News/Google-launches-Wi-Fi-router-for-home-use-20150819" />
     <author>

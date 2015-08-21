@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State destroys Catholic monastery in Syria</title>
+    <link rel="alternate" href="http://www.rte.ie/news/2015/0821/722756-islamic-state/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T14:43:07Z</updated>
+    <published>2015-08-21T14:43:07Z</published>
+    <summary type="html">&lt;p&gt;"The Islamic State group yesterday used bulldozers to destroy the Mar Elian monastery in Al-Qaryatain, in Homs province," said Syrian Observatory for Human Rights director Rami Abdel Rahman.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T14:43:07Z</dc:date>
+    <media:content url="http://img.rasset.ie/000b0275-642.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State demolishes 1,500-year-old monastery with bulldozers</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/islamic-state-demolishes-1500-year-old-monastery-with-bulldozers/article26046183/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T13:25:03Z</updated>
+    <published>2015-08-21T13:25:03Z</published>
+    <summary type="html">&lt;p&gt;"Daesh continued the destruction of the monastery," said Edward, using an Arabic acronym to refer to the Islamic State group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T13:25:03Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/a24/news/world/article26046240.ece/ALTERNATES/w220/BEI111_Mideast_Syria_Islamic_State.JPG" />
+  </entry>
+  <entry>
     <title>Islamic State affiliate claims responsibility for Cairo bombing</title>
     <link rel="alternate" href="http://www.smh.com.au/world/islamic-state-affiliate-claims-responsibility-for-cairo-bombing-20150820-gj4byf" />
     <author>
@@ -1657,40 +1681,5 @@
     <summary type="html">&lt;p&gt;Officials have raised concerns that a deadly bombing in southeastern Turkey is part of a campaign of retaliation by the Islamic State group for a recent crackdown on its operations in the country.&lt;/p&gt;&lt;p&gt;The country shares a 1,250-kilometer (775-mile) border with Iraq and Syria, putting it nearby to strongholds of the self-proclaimed Islamic State.&lt;/p&gt;&lt;p&gt;He vowed to go after those behind the bombing and made clear he believes it was the Islamic State.&lt;/p&gt;&lt;p&gt;Some analysts say that because of Turkey's aggressive policies against Syrian President Bashar Assad in that country's civil war, it has allowed militants of many stripes to operate in Turkey, providing cover to the Islamic State group.&lt;/p&gt;&lt;p&gt;Social media affiliated with the Islamic State group have been conspicuously silent.&lt;/p&gt;</summary>
     <dc:date>2015-07-21T18:07:00Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/21/67/19/dbc26e0ed08c4b2381fac37d6302d5af-5a14a0c6af184358ad3499564f5499d2-0.jpg" />
-  </entry>
-  <entry>
-    <title>UK officials charge 2 men with trying to join Islamic State</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/UK-officials-charge-2-men-with-trying-to-join-6396679.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T12:36:47Z</updated>
-    <published>2015-07-21T12:36:47Z</published>
-    <summary type="html">&lt;p&gt;LONDON (AP) - British prosecutors have charged two men with trying to join the Islamic State extremist group in Syria.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T12:36:47Z</dc:date>
-  </entry>
-  <entry>
-    <title>Turkey denies turning blind eye to Islamic State as bombing stokes anger</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/turkey-denies-turning-blind-eye-to-islamic-state-as-bombing-stokes-anger-20150721-gihkhw.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T12:19:25Z</updated>
-    <published>2015-07-21T12:19:25Z</published>
-    <summary type="html">&lt;p&gt;Thousands of foreign fighters have crossed through Turkey to join Islamic State over the past few years, fuelling accusations from the government's opponents that it is turning a blind eye.&lt;/p&gt;&lt;p&gt;Authorities have carried out a string of raids in recent weeks to arrest Islamic State suspects.&lt;/p&gt;&lt;p&gt;They have also blocked more than half a dozen Islamist news websites, prompting one group claiming allegiance to Islamic State to accuse Turkey of persecuting Muslims and declare: "Muslims might retaliate."&lt;/p&gt;&lt;p&gt;The Kurdistan Workers Party (PKK) militant group, which has waged a three-decade insurgency against the Turkish state, said the AK Party bore responsibility for the bombing, accusing it of backing Islamic State against Syria's Kurds.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T12:19:25Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/g/q/e/e/image.related.thumbnail.90x60.gigq9a.png/1437461326733.jpg" />
-  </entry>
-  <entry>
-    <title>Turkey suicide bombing suspect identified</title>
-    <link rel="alternate" href="http://www.belfasttelegraph.co.uk/news/world-news/turkey-suicide-bombing-suspect-identified-31392637.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T11:36:19Z</updated>
-    <published>2015-07-21T11:36:19Z</published>
-    <summary type="html">&lt;p&gt;Ahmet Davutoglu said authorities are probing the international and domestic connections of a specific person they believe was a suicide bomber tied to the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T11:36:19Z</dc:date>
-    <media:content url="http://cdn1.belfasttelegraph.co.uk/news/world-news/article31392636.ece/f0cee/ALTERNATES/h342/PANews%20BT_P-454446be-d232-42a3-9ff9-a11526784501_I1.jpg" />
   </entry>
 </feed>

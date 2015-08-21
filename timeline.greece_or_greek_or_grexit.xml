@@ -4,6 +4,75 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>AP PHOTOS: Police, migrants clash at Greece-Macedonia border</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/world/article/AP-PHOTOS-Police-migrants-clash-at-6457514.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T14:46:14Z</updated>
+    <published>2015-08-21T14:46:14Z</published>
+    <summary type="html">&lt;p&gt;IDOMENI, Greece (AP) - Police clashed Friday with thousands of migrants stuck at the border between Greece and Macedonia, waiting to continue long journeys into European Union countries where they hope to seek asylum.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T14:46:14Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/32/53/8497906/11/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Fears over China and Greece push down US stocks for 2nd day</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article31703579.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T14:30:09Z</updated>
+    <published>2015-08-21T14:30:09Z</published>
+    <summary type="html">&lt;p&gt;Investors are also worried about more turmoil in Greece after the resignation of its prime minister.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T14:30:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>Fears Over China and Greece Push Down US Stocks for 2nd Day</title>
+    <link rel="alternate" href="http://abcnews.go.com/Business/wireStory/china-greece-concerns-push-us-stock-market-33225902" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T14:26:48Z</updated>
+    <published>2015-08-21T14:26:48Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-21T14:26:48Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greek opposition tries to form government but election looms</title>
+    <link rel="alternate" href="http://www.miamiherald.com/news/business/article31700642.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T12:55:06Z</updated>
+    <published>2015-08-21T12:55:06Z</published>
+    <summary type="html">&lt;p&gt;Jeroen Dijsselbloem, the Dutchman who heads eurozone finance ministers meetings, said he hoped the elections would not slow down Greece's reforms.&lt;/p&gt;&lt;p&gt;Funds from Greece's new three-year, 86 billion euro ($95 billion) bailout are being disbursed in batches following reviews of the country's progress on implementing reforms.&lt;/p&gt;&lt;p&gt;Conservative New Democracy party head Evangelos Meimarakis, center, leaves the presidential Palace after a meeting with Greek President in Athens, Friday Aug. 21, 2015.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T12:55:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Far left splits from Tsipras as Greece heads to elections</title>
+    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/8/21/far-left-splits-from-tsipras-ahead-of-elections.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T11:42:00Z</updated>
+    <published>2015-08-21T11:42:00Z</published>
+    <summary type="html">&lt;p&gt;Greece's president gave the conservative opposition a chance to form a new government following Tsipras's resignation on Thursday, but the country appears almost certain to be heading for its third election in as many years next month.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T11:42:00Z</dc:date>
+    <media:content url="merica.aljazeera.com/content/ajam/articles/2015/1/24/greece-election-efforts/_jcr_content/image.adapt.480.low.Inside_Syriza_012415.jpg" />
+  </entry>
+  <entry>
+    <title>Far left splits from Tsipras as Greece heads to elections</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/report-on-business/international-business/european-business/far-left-splits-from-tsipras-as-greece-heads-to-elections/article26045576/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T10:43:19Z</updated>
+    <published>2015-08-21T10:43:19Z</published>
+    <summary type="html">&lt;p&gt;Tsipras resigned on Thursday, hoping to strengthen his hold on power in snap elections after seven months in office in which he fought Greece's creditors for a better bailout deal but had to cave in.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T10:43:19Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/b39/report-on-business/international-business/european-business/article26045575.ece/ALTERNATES/w220/-543487245.JPG" />
+  </entry>
+  <entry>
     <title>Eurozone economy resilient in face of Greece, survey shows</title>
     <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/08/21/eurozone-economy-resilient-in-face-of-greece-survey-shows" />
     <author>
@@ -2300,62 +2369,5 @@
     <summary type="html" />
     <dc:date>2015-07-21T16:21:03Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/21/f8/4b/afca3157122346e4a7b0f4ea68bdd125-ba18324b98014a2c811a5849af7e69b9-0.jpg" />
-  </entry>
-  <entry>
-    <title>Greece's Tsipras stays popular despite hardship caused new bailout deal that he signed</title>
-    <link rel="alternate" href="http://www.startribune.com/greece-s-tsipras-stays-popular-despite-bailout-hardship/317792711/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T15:35:54Z</updated>
-    <published>2015-07-21T15:35:54Z</published>
-    <summary type="html">&lt;p&gt;As Greece's economy tanked under his leadership, Tsipras' own popularity only grew.&lt;/p&gt;&lt;p&gt;And that appeal has not faded despite caving into demands for more austerity last week in exchange for a bailout that kept Greece within the eurozone.&lt;/p&gt;&lt;p&gt;Elias Nikolakopoulos, a leading Greek pollster, said that although it is still early to accurately gauge the depth of Tsipras' popularity, his resilience may be partly due to Greeks seeing him fighting in their corner, doing what he can whether good or bad.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T15:35:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece's Tsipras stays popular despite bailout hardship</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/21/greeces-tsipras-stays-popular-despite-bailout-hardship" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T15:29:41Z</updated>
-    <published>2015-07-21T15:29:41Z</published>
-    <summary type="html">&lt;p&gt;ATHENS, Greece (AP) - Under Alexis Tsipras, Greece slid back into recession, sank deeper into debt and found itself pushed to the brink of bankruptcy.&lt;/p&gt;&lt;p&gt;He added that Tsipras' portrayal of Greece rejecting the meddling of "foreigners" resonates among many Greeks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T15:29:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece says new bailout talks to begin after lawmakers pass bank resolution laws Wednesday</title>
-    <link rel="alternate" href="http://www.startribune.com/greece-new-bailout-talks-to-start-after-bank-laws-passed/317785231/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T12:30:08Z</updated>
-    <published>2015-07-21T12:30:08Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-21T12:30:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece says new bailout talks to begin after lawmakers pass bank resolution laws Wednesday</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/21/greece-says-new-bailout-talks-to-begin-after-lawmakers-pass-bank-resolution/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T12:24:56Z</updated>
-    <published>2015-07-21T12:24:56Z</published>
-    <summary type="html">&lt;p&gt;Gerovasili said Greece already met other conditions outlined by creditors for bailout talks to begin when lawmakers voted through package of measures including wide-ranging sales tax hikes.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T12:24:56Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/07/21/876/493/Greece%20Bailout-1.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Sergio Markarian quits as Greece coach</title>
-    <link rel="alternate" href="http://www.miamiherald.com/sports/article27997969.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T12:01:17Z</updated>
-    <published>2015-07-21T12:01:17Z</published>
-    <summary type="html">&lt;p&gt;Sergio Markarian has quit as coach of Greece's national soccer team after a second loss to the Faeroe Islands in qualifying for next year's European Championship.&lt;/p&gt;&lt;p&gt;Romania currently leads the group with 14 points from six matches, one ahead of Northern Ireland, while Greece is last with only two points.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T12:01:17Z</dc:date>
-    <media:content url="http://ece-logger.nandomedia.com:8083/analysis-logger/Logger?rt=1&amp;amp;amp;ctxId=5151&amp;amp;amp;contextPath=3179-5151-&amp;amp;amp;pubId=7&amp;amp;amp;cat=&amp;amp;amp;meta=read-wirestory&amp;amp;amp;objId=27997969&amp;amp;amp;type=article&amp;amp;amp;title=Sergio+Markarian+quits+as+Greece+coach&amp;amp;amp;url=http%3a%2f%2fwww.miamiherald.com%2fsports%2farticle27997969.html" />
   </entry>
 </feed>
