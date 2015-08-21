@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greece's Tsipras bets on early polls to boost reform mandate</title>
+    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/08/21/greeces-tsipras-bets-on-early-polls-to-boost-reform-mandate" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T04:02:46Z</updated>
+    <published>2015-08-21T04:02:46Z</published>
+    <summary type="html">&lt;p&gt;The opposition is given little chance of uniting and forming a government, meaning that after five-plus years of a worsening financial crisis, Greece appears headed for its fifth national election in six years.&lt;/p&gt;&lt;p&gt;Greece's European creditors did not appear dismayed by Tsipras' move, which was widely expected.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T04:02:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece's Tsipras bets on early polls to boost reform mandate</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/greeces-tsipras-bets-on-early-polls-to-boost-refor/nnNq6/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T04:02:46Z</updated>
+    <published>2015-08-21T04:02:46Z</published>
+    <summary type="html">&lt;p&gt;The political uncertainty took its toll on Greece's stock market, with the Athens Stock Exchange closing 3.5 percent down on election speculation.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T04:02:46Z</dc:date>
+  </entry>
+  <entry>
     <title>Tsipras resigns, paving way for snap Greek election</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/08/21/us-eurozone-greece-resignation-idUSKCN0QP1Q820150821?feedType=RSS&amp;amp;feedName=topNews" />
     <author>
@@ -2300,17 +2322,5 @@
     <published>2015-07-21T09:02:20Z</published>
     <summary type="html" />
     <dc:date>2015-07-21T09:02:20Z</dc:date>
-  </entry>
-  <entry>
-    <title>New banking legislation before Greek parliament</title>
-    <link rel="alternate" href="http://www.rte.ie/news/business/2015/0721/716134-greece-legislation/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T06:56:20Z</updated>
-    <published>2015-07-21T06:56:20Z</published>
-    <summary type="html">&lt;p&gt;It puts into Greek law new European Union rules on propping up failed banks, decreed after the 2008 financial crisis and aimed at shielding taxpayers from the risk of having to bail out troubled lenders.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T06:56:20Z</dc:date>
-    <media:content url="ww.rte.ie//img.rasset.ie/000ae224-180.jpg" />
   </entry>
 </feed>
