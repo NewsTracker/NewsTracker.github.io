@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Teen's killing highlights crime wave in Ebola-hit Sierra Leone</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/21/us-leone-women-idUSKCN0QQ15O20150821?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T17:55:59Z</updated>
+    <published>2015-08-21T17:55:59Z</published>
+    <summary type="html">&lt;p&gt;The head of crime in the Sierra Leone Police, Morie Lengor, said the Ebola outbreak had reduced the number of police officers available to fight crime.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T17:55:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Sierra Leone awaits countdown to Ebola-free declaration</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/19/sierra-leone-awaits-countdown-to-ebola-free-declaration" />
     <author>

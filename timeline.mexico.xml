@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Mexico's First Lady Returns Mansion After Scandal Broke Out</title>
+    <link rel="alternate" href="http://abcnews.go.com/International/wireStory/mexicos-lady-returns-mansion-scandal-broke-33228837" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T18:48:03Z</updated>
+    <published>2015-08-21T18:48:03Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-21T18:48:03Z</dc:date>
+  </entry>
+  <entry>
     <title>New railroad crossing at Brownsville to link US, Mexico</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/business/article31707968.html%23storylink=rss" />
     <author>
