@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tsipras resigns, paving way for snap Greek election</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/21/us-eurozone-greece-resignation-idUSKCN0QP1Q820150821?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T01:05:34Z</updated>
+    <published>2015-08-21T01:05:34Z</published>
+    <summary type="html">&lt;p&gt;"It is crucial that Greece maintains its commitments to the euro zone," he said in a statement to Reuters.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T01:05:34Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150820&amp;amp;i=110692200&amp;amp;w=240&amp;amp;r=110692200-1&amp;amp;t=2" />
+  </entry>
+  <entry>
     <title>Greek leader resigns after rebellion over new bailout</title>
     <link rel="alternate" href="http://www.cbsnews.com/news/greece-prime-minister-alexis-tsipras-resigns-early-elections-rebellion-bailout/" />
     <author>
@@ -2300,63 +2312,5 @@
     <summary type="html">&lt;p&gt;It puts into Greek law new European Union rules on propping up failed banks, decreed after the 2008 financial crisis and aimed at shielding taxpayers from the risk of having to bail out troubled lenders.&lt;/p&gt;</summary>
     <dc:date>2015-07-21T06:56:20Z</dc:date>
     <media:content url="ww.rte.ie//img.rasset.ie/000ae224-180.jpg" />
-  </entry>
-  <entry>
-    <title>RBA keeps close eye on China and Greece</title>
-    <link rel="alternate" href="http://www.smh.com.au//breaking-news-business/rba-to-look-at-greece-china-on-rates-20150721-3zn6h.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T01:54:11Z</updated>
-    <published>2015-07-21T01:54:11Z</published>
-    <summary type="html">&lt;p&gt;The Reserve Bank will keep a close watch on China's stock markets, the Greek debt crisis and soft local business investment to see if further rate cuts are needed.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T01:54:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>RBA keeps close eye on China and Greece</title>
-    <link rel="alternate" href="http://www.smh.com.au//breaking-news-business/rba-keeps-close-eye-on-china-and-greece-20150721-3zn6h.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T01:54:11Z</updated>
-    <published>2015-07-21T01:54:11Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-21T01:54:11Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek debt crisis: Greece's banks in a battle to win back trust</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/business/world-business/greek-debt-crisis-greeces-banks-in-a-battle-to-win-back-trust-20150721-gigtsu.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T23:48:16Z</updated>
-    <published>2015-07-20T23:48:16Z</published>
-    <summary type="html">&lt;p&gt;But as the bailout negotiations resume, assuming they do, there are likely to be disagreements among eurozone members about how much help to give Greek banks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T23:48:16Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/g/i/b/1/image.related.articleLeadwide.620x349.gigtsu.png/1437436126222.jpg" />
-  </entry>
-  <entry>
-    <title>Greek debt crisis: Greece's banks in a battle to win back trust</title>
-    <link rel="alternate" href="http://www.smh.com.au/business/world-business/greek-debt-crisis-greeces-banks-in-a-battle-to-win-back-trust-20150720-gigtsu" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T23:48:16Z</updated>
-    <published>2015-07-20T23:48:16Z</published>
-    <summary type="html">&lt;p&gt;Restoring trust in the banks, so that customers will be willing to deposit their money again, is one of the most important tasks that Greek and eurozone officials will face as they try to get the economy moving again.&lt;/p&gt;&lt;p&gt;And even if Greece and its creditors can reach a new bailout deal, it might not be until next year that Greek banks are stable enough that the government can lift restrictions on movements of money abroad, analysts said.&lt;/p&gt;&lt;p&gt;Greek banks passed a similar review last year, but that was before they became collateral damage in Greece's political and economic turmoil.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T23:48:16Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/g/i/b/1/image.related.articleLeadwide.620x349.gigtsu.png/1437436126222.jpg" />
-  </entry>
-  <entry>
-    <title>Greek debt crisis: Greece's banks in a battle to win back trust</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/business/world-business/greek-debt-crisis-greeces-banks-in-a-battle-to-win-back-trust-20150720-gigtsu" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-20T23:48:16Z</updated>
-    <published>2015-07-20T23:48:16Z</published>
-    <summary type="html">&lt;p&gt;In the meantime, Greek banks are dependent on the central bank for the cash they need to operate.&lt;/p&gt;</summary>
-    <dc:date>2015-07-20T23:48:16Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/g/i/b/1/image.related.articleLeadwide.620x349.gigtsu.png/1437436126222.jpg" />
   </entry>
 </feed>

@@ -5,6 +5,30 @@
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
     <title>Tsipras resigns, paving way for snap Greek election</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/21/us-eurozone-greece-resignation-idUSKCN0QP1Q820150821?feedType=RSS&amp;amp;feedName=topNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T01:05:34Z</updated>
+    <published>2015-08-21T01:05:34Z</published>
+    <summary type="html">&lt;p&gt;Tsipras nevertheless remains popular among his supporters for trying to stand up to the foreign creditors and with the opposition in disarray, he is widely expected to return to power.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T01:05:34Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150820&amp;amp;i=110692200&amp;amp;w=240&amp;amp;r=110692200-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Tsipras resigns, paving way for snap Greek election</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/21/us-eurozone-greece-resignation-idUSKCN0QP1Q820150821?feedType=RSS&amp;amp;feedName=worldNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T01:05:34Z</updated>
+    <published>2015-08-21T01:05:34Z</published>
+    <summary type="html">&lt;p&gt;Meimarakis took aim at Tsipras.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T01:05:34Z</dc:date>
+    <media:content url="http://s1.reutersmedia.net/resources/r/?d=20150820&amp;amp;i=110692200&amp;amp;w=240&amp;amp;r=110692200-1&amp;amp;t=2" />
+  </entry>
+  <entry>
+    <title>Tsipras resigns, paving way for snap Greek election</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/greece-makes-debt-repayment-minister-110205019.html" />
     <author>
       <name />
@@ -49,6 +73,17 @@
     <published>2015-08-20T17:44:00Z</published>
     <summary type="html">&lt;p&gt;"The political mandate of the January 25 elections has exhausted its limits and now the Greek people have to have their say," Tsipras said.&lt;/p&gt;</summary>
     <dc:date>2015-08-20T17:44:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Greece&amp;#039;s Tsipras resigns, calls snap polls</title>
+    <link rel="alternate" href="http://da.feedsportal.com/c/34692/f/637303/s/4927f4f2/sc/3/l/0L0Ssbs0N0Bau0Cnews0Carticle0C20A150C0A80C210Cgreeces0Etsipras0Eresigns0Ecalls0Esnap0Epolls/ia1.htm" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T15:53:39Z</updated>
+    <published>2015-08-20T15:53:39Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-20T15:53:39Z</dc:date>
   </entry>
   <entry>
     <title>Greece&amp;#039;s Tsipras resigns, calls snap polls</title>

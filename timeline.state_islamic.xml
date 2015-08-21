@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State affiliate claims responsibility for Cairo bombing</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/islamic-state-affiliate-claims-responsibility-for-cairo-bombing-20150820-gj4byf" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T00:39:56Z</updated>
+    <published>2015-08-21T00:39:56Z</published>
+    <summary type="html">&lt;p&gt;The government of President Abdel Fattah al-Sisi has struggled with a wave of unusually brazen militant attacks this summer, including by jihadis who have pledged loyalty to Islamic State operating in Syria and Iraq.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T00:39:56Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/j/4/c/r/l/image.related.articleLeadwide.620x349.gj4byf.png/1440123269125.jpg" />
+  </entry>
+  <entry>
     <title>Pentagon chief urges Turks to 'do more' against IS</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/politics-government/article31630388.html%23storylink=rss" />
     <author>
@@ -1692,16 +1704,5 @@
     <summary type="html">&lt;p&gt;As the longtime leader at Portland's largest mosque, Masjed As-Saber, Kariye is a well-known figure in the city's Islamic community.&lt;/p&gt;</summary>
     <dc:date>2015-07-21T03:55:00Z</dc:date>
     <media:content url="merica.aljazeera.com/content/ajam/articles/2014/6/24/no-fly-list-unconstitutional/_jcr_content/image.adapt.480.low.TSA_airport_noflylist_062414.jpg" />
-  </entry>
-  <entry>
-    <title>US authorities allege Oregon imam concealed associations with radical Islamic groups</title>
-    <link rel="alternate" href="http://www.startribune.com/us-authorities-allege-oregon-imam-assisted-radicals/317658021/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T00:00:12Z</updated>
-    <published>2015-07-21T00:00:12Z</published>
-    <summary type="html">&lt;p&gt;- U.S. authorities are seeking to revoke the citizenship of an Oregon imam who they say tried to conceal past associations with radical Islamic groups.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T00:00:12Z</dc:date>
   </entry>
 </feed>

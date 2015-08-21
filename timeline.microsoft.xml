@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Microsoft files antitrust suit against InterDigital</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/08/20/22543015.html?cid=rsstechnology" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T23:44:38Z</updated>
+    <published>2015-08-20T23:44:38Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-20T23:44:38Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/08/20/microsoft650.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Microsoft files antitrust suit against InterDigital in patent feud</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/08/20/22543015.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-20T23:44:38Z</updated>
+    <published>2015-08-20T23:44:38Z</published>
+    <summary type="html">&lt;p&gt;NEW YORK - InterDigital Inc. has violated U.S. antitrust law by failing to keep its promise to fairly license its technology considered essential to mobile phone communications, Microsoft Corp said in a lawsuit on Thursday.&lt;/p&gt;&lt;p&gt;It comes as the U.S. International Trade Commission is set to rule this month on whether Microsoft smartphones should be banned from being imported into the United States for infringing two of InterDigital's patents.&lt;/p&gt;&lt;p&gt;Microsoft alleged InterDigital's "abusive licensing practices" over its standard, essential patents violate federal anti-monopoly laws.&lt;/p&gt;&lt;p&gt;InterDigital "falsely promised" to license these patents on reasonable terms so they would be accepted as industry standards but then charged exorbitant rates, Microsoft said in the complaint.&lt;/p&gt;</summary>
+    <dc:date>2015-08-20T23:44:38Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/News/2015/08/20/microsoft650.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
     <title>Microsoft offers ?Halo 5? prizes to lure e-sports players</title>
     <link rel="alternate" href="http://www.sfgate.com/business/article/Microsoft-offers-Halo-5-prizes-to-lure-6427429.php" />
     <author>
@@ -345,17 +369,5 @@
     <summary type="html" />
     <dc:date>2015-07-21T18:05:06Z</dc:date>
     <media:content url="https://s.yimg.com/lo/api/res/1.2/SBKucVPPkWqhfzSpREhMFg--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/homerun/cnet.cbs.com/e3b38a9a46a80bc1a6a977a915bf4cd6" />
-  </entry>
-  <entry>
-    <title>Miley Cyrus to host MTV Video Music Awards at Microsoft Theater on Aug. 30</title>
-    <link rel="alternate" href="http://www.startribune.com/miley-cyrus-to-host-mtv-video-music-awards/317663321/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T01:25:28Z</updated>
-    <published>2015-07-21T01:25:28Z</published>
-    <summary type="html">&lt;p&gt;The 2015 MTV Video Music Awards will air live on MTV from the Microsoft Theater in Los Angeles.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T01:25:28Z</dc:date>
-    <media:content url="http://stmedia.stimg.co/08-825489+0005FESTIVAL072015.JPG?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
   </entry>
 </feed>
