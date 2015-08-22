@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Tesla engineer joins Apple's growing team of automated car experts</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/21/us-apple-autos-idUSKCN0QQ23420150821?feedType=RSS&amp;amp;feedName=technologyNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-21T18:49:54Z</updated>
+    <published>2015-08-21T18:49:54Z</published>
+    <summary type="html">&lt;p&gt;A LinkedIn profile for Jamie Carlson shows that he has left Tesla and moved to Apple.&lt;/p&gt;&lt;p&gt;At least six others with experience developing self-driving technology and systems have joined Apple, according to their LinkedIn profiles.&lt;/p&gt;&lt;p&gt;Sources have said that Apple is developing a car and studying self-driving technology, but it is unclear if the iPhone maker is designing a vehicle that could drive itself.&lt;/p&gt;</summary>
+    <dc:date>2015-08-21T18:49:54Z</dc:date>
+  </entry>
+  <entry>
     <title>China smartphone sales fall for first time: Gartner</title>
     <link rel="alternate" href="http://finance.yahoo.com/news/apple-gains-share-global-smartphone-124950530.html" />
     <author>
@@ -866,6 +877,17 @@
     <dc:date>2015-07-22T04:05:38Z</dc:date>
   </entry>
   <entry>
+    <title>Apple's iPad sales still shrinking, as other segments grow</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article28065712.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-07-22T00:31:06Z</updated>
+    <published>2015-07-22T00:31:06Z</published>
+    <summary type="html">&lt;p&gt;Apple sold 10.9 million iPads in the last quarter, down 18 percent from a year earlier.&lt;/p&gt;</summary>
+    <dc:date>2015-07-22T00:31:06Z</dc:date>
+  </entry>
+  <entry>
     <title>Strong iPhone sales; Apple stock down with few Watch details</title>
     <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Apple-Strong-iPhone-sales-few-details-on-Watch-6397756.php" />
     <author>
@@ -888,63 +910,5 @@
     <summary type="html">&lt;p&gt;Apple sold more iPhones than the 47 million expected, on average, by analysts surveyed by FactSet.&lt;/p&gt;</summary>
     <dc:date>2015-07-21T23:41:08Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/21/af/df/2b3d1656067c4fe69cab181411fdc959-2f276d7e54324cfcbdfd9614ea1a732b-0.jpg" />
-  </entry>
-  <entry>
-    <title>Apple reports record earnings for recent quarter</title>
-    <link rel="alternate" href="http://www.mercurynews.com/business/ci_28517574/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T23:11:18Z</updated>
-    <published>2015-07-21T23:11:18Z</published>
-    <summary type="html">&lt;p&gt;"We had an amazing quarter, with iPhone revenue up 59 percent over last year, strong sales of Mac, all-time record revenue from services, driven by the App Store, and a great start for Apple Watch," Cook said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T23:11:18Z</dc:date>
-    <media:content url="http://extras.mnginteractive.com/live/media/site568/2015/0608/20150608__0609applewire%7E3_300.JPG" />
-  </entry>
-  <entry>
-    <title>Strong iPhone Sales; Apple Stock Down With Few Watch Details</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/21/apple-strong-iphone-sales-few-details-on-watch" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T21:11:28Z</updated>
-    <published>2015-07-21T21:11:28Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-21T21:11:28Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/630c4a8/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fac%2F929086c6e258bbe87c3770abddc1b9%2Fmedia%3A78fc992670734d609758cb6aa6a5e3d9EarnsApple.JPEG" />
-  </entry>
-  <entry>
-    <title>Apple earnings rise on strong iPhone sales but impact of watch remains unclear</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/business/apple-earnings-rise-on-strong-iphone-sales-but-impact-of-watch-remains-unclear-1.2480438" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T20:53:00Z</updated>
-    <published>2015-07-21T20:53:00Z</published>
-    <summary type="html">&lt;p&gt;Apple said Tuesday that it sold more than 47.5 million iPhones during the three months ending in June, or 35 per cent more than a year ago.&lt;/p&gt;&lt;p&gt;In one tantalizing clue, Apple reported $2.6 billion in revenue from the segment that includes the watch and several other products, or about $952 million more than the previous quarter, when the watch had not yet gone on sale.&lt;/p&gt;&lt;p&gt;Apple also forecast that revenue for the quarter ending in September will fall between $49 billion and $51 billion, indicating total sales could fall below Wall Street estimates of $50.8 billion.&lt;/p&gt;&lt;p&gt;For the latest quarter, Apple said revenue from all sources grew 33 per cent from last year to $49.6 billion in the April-June quarter, with the iPhone contributing $31.4 billion in sales.&lt;/p&gt;&lt;p&gt;Apple got a big boost from new markets like China, which contributed more than a quarter of the company's revenue, or $13.2 billion.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T20:53:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple third-quarter profit, revenue beat expectations</title>
-    <link rel="alternate" href="http://www.latimes.com/business/technology/la-fi-tn-apple-earnings-20150721-story.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T20:51:00Z</updated>
-    <published>2015-07-21T20:51:00Z</published>
-    <summary type="html">&lt;p&gt;Apple said its "other products" category pulled in $2.64 billion in revenue.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T20:51:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple logs Q3 beat, but Q4 sales outlook disappoints</title>
-    <link rel="alternate" href="http://finance.yahoo.com/news/apple-logs-q3-beat--but-q4-sales-outlook-disappoints--204759056.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T20:47:41Z</updated>
-    <published>2015-07-21T20:47:41Z</published>
-    <summary type="html">&lt;p&gt;Apple's sales in China more than doubled from a year earlier to $13.2 billion.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T20:47:41Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/mpOAYtDZxKU8kA0BOFEc2g--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztpbD1wbGFuZTtweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://globalfinance.zenfs.com/images/US_AHTTP_REUTERS_OLUSTECH_WRAPPER_H_LIVE_NEW/2015-06-11T155845Z_1_LYNXMPEB5A0ZI_RTROPTP_3_USA-APPLE_original.jpg" />
   </entry>
 </feed>
