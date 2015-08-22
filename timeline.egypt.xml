@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt sentences Muslim Brotherhood leader to life in prison</title>
+    <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/22/egypt-sentences-muslim-brotherhood-leader-to-life/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T12:50:21Z</updated>
+    <published>2015-08-22T12:50:21Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-22T12:50:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Gaza families call on Egypt to save abducted Palestinians</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/20/gaza-families-call-on-egypt-to-save-abducted/" />
     <author>
@@ -851,16 +862,5 @@
     <published>2015-07-22T15:49:05Z</published>
     <summary type="html" />
     <dc:date>2015-07-22T15:49:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Top militant urges holy war against Egypt's 'new pharaoh'</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/world/top-militant-urges-holy-war-against-egypt-s-new-pharaoh-1.2481544" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T14:21:00Z</updated>
-    <published>2015-07-22T14:21:00Z</published>
-    <summary type="html">&lt;p&gt;CAIRO -- A former army officer who is one of Egypt's most wanted militants called on fellow Egyptians to wage holy war against President Abdel-Fattah el-Sissi, describing him as a "new pharaoh" in a new recording.&lt;/p&gt;&lt;p&gt;Officials say el-Ashmawi has worked closely with the Sinai-based Ansar Beit al-Maqdis militant group that pledged allegiance to the Islamic State last year and is blamed for some of Egypt's most high-profile deadly attacks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-22T14:21:00Z</dc:date>
   </entry>
 </feed>

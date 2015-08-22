@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Boko Haram strengthens ties with Islamic State group</title>
+    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/boko-haram-strengthens-ties-with-islamic-state-gro/nnPWR/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T13:05:33Z</updated>
+    <published>2015-08-22T13:05:33Z</published>
+    <summary type="html">&lt;p&gt;More than 1,000 people have been killed in the insurgency since President Muhammad Buhari was elected in March and pledged to halt the 6-year-old Islamic uprising blamed for the deaths of some 20,000.&lt;/p&gt;</summary>
+    <dc:date>2015-08-22T13:05:33Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State's No. 2 Haji Mutazz reported killed by drone strike in Iraq: US</title>
     <link rel="alternate" href="http://www.smh.com.au/world/islamic-states-no-2-haji-mutazz-reported-killed-by-drone-strike-in-iraq-us-20150821-gj57pa" />
     <author>
@@ -1737,29 +1748,5 @@
     <published>2015-07-22T18:25:34Z</published>
     <summary type="html">&lt;p&gt;Jan Kubis told the U.N. Security Council Wednesday that the United Nations is very worried at reports that desperate Iraqis are turning to the militant Islamic group, which controls about a third of the country.&lt;/p&gt;</summary>
     <dc:date>2015-07-22T18:25:34Z</dc:date>
-  </entry>
-  <entry>
-    <title>Kurdish militants kill two Turkish police to avenge Islamic State bombing</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/kurdish-militants-kill-two-turkish-police-to-avenge-islamic-state-bombing-20150722-giigzg" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T14:27:35Z</updated>
-    <published>2015-07-22T14:27:35Z</published>
-    <summary type="html">&lt;p&gt;Ankara: Kurdish militants have claimed responsibility for the assassination of two Turkish police officers in what they said was retaliation for a suspected Islamic State suicide bombing that killed 32 people.&lt;/p&gt;&lt;p&gt;"He was active in a Syria-linked group supporting the Islamic State. We know that he went to Syria illegally. It was not possible to track him during his time there," the official said, speaking on condition of anonymity because of the sensitivity of the investigation.&lt;/p&gt;&lt;p&gt;Could it be that Islamic State is transforming into a functioning state?&lt;/p&gt;</summary>
-    <dc:date>2015-07-22T14:27:35Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/i/h/3/l/image.related.articleLeadwide.620x349.giigzg.png/1437575239666.jpg" />
-  </entry>
-  <entry>
-    <title>Kurdish militants kill two Turkish police to avenge Islamic State bombing</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/kurdish-militants-kill-two-turkish-police-to-avenge-islamic-state-bombing-20150722-giigzg" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T14:27:35Z</updated>
-    <published>2015-07-22T14:27:35Z</published>
-    <summary type="html">&lt;p&gt;Many of Turkey's Kurds and opposition supporters suspect President Tayyip Erdogan and the ruling AK Party of covertly backing Islamic State against Kurdish fighters in Syria, something the government has repeatedly denied.&lt;/p&gt;&lt;p&gt;Anti-government protests after Monday's bombing in Suruc erupted in several cities for a second night on Tuesday, with some of the demonstrators chanting "Murderer Islamic State, collaborator Erdogan and AKP".&lt;/p&gt;&lt;p&gt;On Tuesday, Prime Minister Ahmet Davutoglu rejected accusations that Turkey had tacitly supported Islamic State and had unwittingly opened the door to the bombing; but he said initial evidence suggested the Islamist radical group was responsible.&lt;/p&gt;</summary>
-    <dc:date>2015-07-22T14:27:35Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/i/h/3/l/image.related.articleLeadwide.620x349.giigzg.png/1437575239666.jpg" />
   </entry>
 </feed>
