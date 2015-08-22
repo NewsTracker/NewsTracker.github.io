@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Hillary Clinton's slide bolsters interest in run by Joe Biden</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/hillary-clintons-slide-bolsters-interest-in-run-by-joe-biden-20150822-gj5b18.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T10:45:18Z</updated>
+    <published>2015-08-22T10:45:18Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-22T10:45:18Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/i/z/5/n/u/image.related.articleLeadwide.620x349.gj5b18.png/1440240205976.jpg" />
+  </entry>
+  <entry>
     <title>Hillary Clinton faces fresh worries in Congress over emails</title>
     <link rel="alternate" href="http://www.miamiherald.com/news/nation-world/article31756536.html%23storylink=rss" />
     <author>
