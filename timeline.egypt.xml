@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt's antiquities ministry urges Egyptians to donate to buy ancient statue sold by museum</title>
+    <link rel="alternate" href="http://www.startribune.com/antiquities-minister-urges-egyptians-to-donate-to-buy-statue/322590751/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T18:30:19Z</updated>
+    <published>2015-08-22T18:30:19Z</published>
+    <summary type="html">&lt;p&gt;Egypt, home to a massive wealth of ancient antiquities, banned their sale in 1983.&lt;/p&gt;</summary>
+    <dc:date>2015-08-22T18:30:19Z</dc:date>
+  </entry>
+  <entry>
     <title>Egypt sentences Muslim Brotherhood leader to life in prison</title>
     <link rel="alternate" href="http://www.sandiegouniontribune.com/news/2015/aug/22/egypt-sentences-muslim-brotherhood-leader-to-life/" />
     <author>
@@ -840,27 +851,5 @@
     <published>2015-07-22T22:40:23Z</published>
     <summary type="html">&lt;p&gt;CAIRO (AP) " Egypt's Interior ministry says at least 15 civilians have drowned when a passenger boat traveling down the Nile near Cairo collided with a scow, causing the boat to capsize.&lt;/p&gt;</summary>
     <dc:date>2015-07-22T22:40:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt court sentences Mubarak-era premier to 5 years in prison in corruption case retrial</title>
-    <link rel="alternate" href="http://www.startribune.com/mubarak-era-premier-gets-5-years-in-egypt-corruption-case/318138491/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T15:50:58Z</updated>
-    <published>2015-07-22T15:50:58Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-22T15:50:58Z</dc:date>
-  </entry>
-  <entry>
-    <title>Mubarak-era premier gets 5 years in Egypt corruption case</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28264030.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T15:49:05Z</updated>
-    <published>2015-07-22T15:49:05Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-22T15:49:05Z</dc:date>
   </entry>
 </feed>

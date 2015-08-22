@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Woods shares lead with Hoge entering 3rd round at Wyndham (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/woods-shares-lead-hoge-entering-3rd-round-wyndham-072407220--golf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T08:56:33Z</updated>
+    <published>2015-08-22T08:56:33Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-22T08:56:33Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/f7MfJsn.neEDbaTLr706rg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM5MjtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201508211258467264933" />
+  </entry>
+  <entry>
     <title>Wild assistant Darryl Sydor charged with drunken driving (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/wild-assistant-darryl-sydor-charged-drunken-driving-182703765--nhl.html" />
     <author>
@@ -1210,29 +1222,5 @@
     <summary type="html" />
     <dc:date>2015-07-23T03:51:32Z</dc:date>
     <media:content url="http://l.yimg.com/bt/api/res/1.2/mZ4vy2ZNB8RedoO87DghXw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQxNztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507222218803094702" />
-  </entry>
-  <entry>
-    <title>Blatter heads to Russia for first foreign trip since crisis (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/blatter-heads-russia-first-foreign-trip-since-crisis-160938727--sow.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T18:15:49Z</updated>
-    <published>2015-07-22T18:15:49Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-22T18:15:49Z</dc:date>
-    <media:content url="http://l3.yimg.com/bt/api/res/1.2/m8QeLcqFL24XzrWAyk1PZg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507201003361973954" />
-  </entry>
-  <entry>
-    <title>Geschke wins, Froome stays safe on Stage 17 in Alps (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/geschke-wins-froome-stays-safe-stage-17-alps-161907396--spt.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T18:12:39Z</updated>
-    <published>2015-07-22T18:12:39Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-22T18:12:39Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/oq10aWnk2wAfbxSd8GwNgQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507221025375351510" />
   </entry>
 </feed>
