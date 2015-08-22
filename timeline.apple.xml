@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Did Apple make Dr. Dre apologize for beating women?</title>
+    <link rel="alternate" href="http://pagesix.com/2015/08/21/is-apple-behind-dr-dres-abuse-apology/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T01:22:41Z</updated>
+    <published>2015-08-22T01:22:41Z</published>
+    <summary type="html">&lt;p&gt;Apple said, "We believe his sincerity, and after working with him for a year and a half, we have every reason to believe that he has changed."&lt;/p&gt;</summary>
+    <dc:date>2015-08-22T01:22:41Z</dc:date>
+  </entry>
+  <entry>
     <title>Tesla engineer joins Apple's growing team of automated car experts</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/08/21/us-apple-autos-idUSKCN0QQ23420150821?feedType=RSS&amp;amp;feedName=technologyNews" />
     <author>
@@ -875,40 +886,5 @@
     <published>2015-07-22T04:05:38Z</published>
     <summary type="html">&lt;p&gt;NEW YORK - For all those who hailed the iPhone as the "Jesus Phone" in 2007, the Apple Watch's arrival has hardly been the second coming.&lt;/p&gt;&lt;p&gt;Early Apple Watch owners seem generally happy with it, but Apple's bigger worry should be those on the sidelines - even hardcore Apple fans, not to mention the rest of us - who are waiting to take the plunge.&lt;/p&gt;&lt;p&gt;Apple Watch also doesn't always provide the right information at the right time.&lt;/p&gt;</summary>
     <dc:date>2015-07-22T04:05:38Z</dc:date>
-  </entry>
-  <entry>
-    <title>Apple's iPad sales still shrinking, as other segments grow</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article28065712.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T00:31:06Z</updated>
-    <published>2015-07-22T00:31:06Z</published>
-    <summary type="html">&lt;p&gt;Apple sold 10.9 million iPads in the last quarter, down 18 percent from a year earlier.&lt;/p&gt;</summary>
-    <dc:date>2015-07-22T00:31:06Z</dc:date>
-  </entry>
-  <entry>
-    <title>Strong iPhone sales; Apple stock down with few Watch details</title>
-    <link rel="alternate" href="http://www.sfgate.com/business/technology/article/Apple-Strong-iPhone-sales-few-details-on-Watch-6397756.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T23:41:08Z</updated>
-    <published>2015-07-21T23:41:08Z</published>
-    <summary type="html">&lt;p&gt;Apple has previously said it sold 1 million iPhones in the first 74 days, or more than 10 weeks, after sales began in 2007.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T23:41:08Z</dc:date>
-    <media:content url="http://ww4.hdnux.com/photos/37/62/73/8335071/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Strong iPhone sales; Apple stock down with few Watch details</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/apple-strong-iphone-sales-few-details-on-watch/nm4Qh/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-21T23:41:08Z</updated>
-    <published>2015-07-21T23:41:08Z</published>
-    <summary type="html">&lt;p&gt;Apple sold more iPhones than the 47 million expected, on average, by analysts surveyed by FactSet.&lt;/p&gt;</summary>
-    <dc:date>2015-07-21T23:41:08Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/21/af/df/2b3d1656067c4fe69cab181411fdc959-2f276d7e54324cfcbdfd9614ea1a732b-0.jpg" />
   </entry>
 </feed>

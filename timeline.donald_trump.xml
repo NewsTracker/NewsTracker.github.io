@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.donald_trump.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Donald Trump rallies large crowd in Alabama</title>
+    <link rel="alternate" href="http://www.cbsnews.com/news/donald-trump-rallies-large-crowd-in-alabama/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T03:03:27Z</updated>
+    <published>2015-08-22T03:03:27Z</published>
+    <summary type="html">&lt;p&gt;The 40,000-seat Ladd-Peebles Stadium was about half-full when Trump began his speech.&lt;/p&gt;</summary>
+    <dc:date>2015-08-22T03:03:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>Donald Trump tells Alabama crowd: 'I'd like to have the election tomorrow'</title>
+    <link rel="alternate" href="http://www.latimes.com/nation/la-na-trump-alabama-20150821-story.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T02:27:00Z</updated>
+    <published>2015-08-22T02:27:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-22T02:27:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Donald Trump used as reason for 2 brothers beating, peeing on homeless Mexican: Cops</title>
     <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/08/21/22543230.html?cid=rssnewsworld" />
     <author>
