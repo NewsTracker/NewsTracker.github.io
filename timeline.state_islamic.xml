@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraq official says ISIS has killed up to 50 Iraqi troops in Anbar</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/iraq-official-says-isis-has-killed-up-to-50-iraqi-troops-in-anbar-1.2528847" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T19:48:00Z</updated>
+    <published>2015-08-22T19:48:00Z</published>
+    <summary type="html">&lt;p&gt;The Islamic State group controls much of the vast Anbar province, including Ramadi and the city of Fallujah.&lt;/p&gt;</summary>
+    <dc:date>2015-08-22T19:48:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Official: Islamic State ambushes, kills up to 50 Iraq troops</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11501530&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T19:20:17Z</updated>
+    <published>2015-08-22T19:20:17Z</published>
+    <summary type="html">&lt;p&gt;BAGHDAD (AP) " Islamic State militants killed up to 50 soldiers in two separate ambushes in Iraq's turbulent Anbar province west of the capital, Baghdad, a top provincial official said Saturday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-22T19:20:17Z</dc:date>
+  </entry>
+  <entry>
     <title>Boko Haram strengthens ties with Islamic State group</title>
     <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/boko-haram-strengthens-ties-with-islamic-state-gro/nnPWR/" />
     <author>
@@ -1725,17 +1747,5 @@
     <summary type="html">&lt;p&gt;ASPEN, Colorado (AP) - The Islamic State group's effort to inspire troubled Americans to violence has become more of a terror threat to the U.S. than an external attack by al-Qaida, the FBI director said Wednesday.&lt;/p&gt;&lt;p&gt;Comey has sounded the alarm about domestic radicalization before, but his remarks Wednesday signal a deepening concern among U.S. officials about the impact of the Islamic State's effort to inspire terrorist violence.&lt;/p&gt;</summary>
     <dc:date>2015-07-23T02:06:58Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/3006400/2147483647/thumbnail/300x270/quality/85/?url=%2Fcmsmedia%2F42%2Fc4%2F569a89f0451d9be3ddbcda89a9dd%2Fresizes%2F500%2F150715reportbigpic-editorial.bigpic.jpg" />
-  </entry>
-  <entry>
-    <title>Suruc suicide bomber identified as Turk with possible Islamic State ties</title>
-    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/suruc-suicide-bomber-identified-as-turk-with-possible-islamic-state-ties-20150722-giiipo" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T23:08:45Z</updated>
-    <published>2015-07-22T23:08:45Z</published>
-    <summary type="html">&lt;p&gt;"The investigation is ongoing, but we have evidence that the suspect was linked to Daesh," the official said, speaking on a condition of anonymity in line with government protocol, using an Arabic acronym for the Islamic State.&lt;/p&gt;&lt;p&gt;Kobane was recently the scene of fierce fighting between the Islamic State and Kurdish fighters, and the militants lost control of the town in January.&lt;/p&gt;</summary>
-    <dc:date>2015-07-22T23:08:45Z</dc:date>
-    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/i/i/h/3/o/image.related.articleLeadwide.620x349.giiipo.png/1437607066138.jpg" />
   </entry>
 </feed>

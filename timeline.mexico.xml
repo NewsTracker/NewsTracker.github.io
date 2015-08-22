@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>3 People Found Shot to Death in New Mexico Home</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/people-found-shot-death-mexico-home-33252029" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-22T20:47:07Z</updated>
+    <published>2015-08-22T20:47:07Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-22T20:47:07Z</dc:date>
+  </entry>
+  <entry>
     <title>Mexico says it is committed to protecting sea turtles, despite negative report from US</title>
     <link rel="alternate" href="http://www.startribune.com/mexico-says-it-is-committed-to-reducing-sea-turtle-deaths/322550651/" />
     <author>

@@ -181,7 +181,7 @@
     </author>
     <updated>2015-08-13T14:56:53Z</updated>
     <published>2015-08-13T14:56:53Z</published>
-    <summary type="html">&lt;p&gt;Google Inc has been given an extra two weeks to respond to European Union charges of abusing its market power in a dozen EU countries and stave off a possible billion-euro fine.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Google Inc has been given an extra two weeks to respond to European Union charges of abusing its market power in a dozen EU countries and stave off a possible billion-euro fine.&lt;/p&gt;&lt;p&gt;The Commission, which in April accused Google of distorting web search results to favour its shopping service, confirmed it had accepted the company's request for additional time to reply.&lt;/p&gt;</summary>
     <dc:date>2015-08-13T14:56:53Z</dc:date>
     <media:content url="http://static.theglobeandmail.ca/b7f/report-on-business/international-business/european-business/article25950935.ece/ALTERNATES/w220/JER10-ISRAEL-GOOG.JPG" />
   </entry>
@@ -254,6 +254,18 @@
     <summary type="html">&lt;p&gt;Magistrate Judge Helen Adams rejected a request Monday by Jesse Benton to quash a warrant ordering Google Inc. to turn over the contents of his Gmail account.&lt;/p&gt;</summary>
     <dc:date>2015-08-11T21:15:12Z</dc:date>
     <media:content url="http://stmedia.stimg.co/ows_143926317637350.jpg?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
+  </entry>
+  <entry>
+    <title>The ABCs of Google's new name Alphabet</title>
+    <link rel="alternate" href="http://www.seattlepi.com/business/technology/article/The-ABCs-of-Google-s-new-name-Alphabet-6438178.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-11T20:37:54Z</updated>
+    <published>2015-08-11T20:37:54Z</published>
+    <summary type="html">&lt;p&gt;The move by Google highlights how important corporate names are.&lt;/p&gt;&lt;p&gt;Google joins a long line of companies that have created quirky, confusing and sometimes hard-to-pronounce company names.&lt;/p&gt;</summary>
+    <dc:date>2015-08-11T20:37:54Z</dc:date>
+    <media:content url="http://ww3.hdnux.com/photos/40/16/75/8449890/5/gallery_thumb.jpg" />
   </entry>
   <entry>
     <title>The ABCs of Google's new name Alphabet</title>
@@ -741,17 +753,5 @@
     <summary type="html">&lt;p&gt;NEW YORK (AP) - Google's new service for organizing and backing up images blends some of the best of what Apple and Yahoo have rolled out in recent months.&lt;/p&gt;&lt;p&gt;Photo services from Google, Yahoo and Apple all store copies of those photos and video online.&lt;/p&gt;&lt;p&gt;On the other hand, Google has the best tools for searching photos.&lt;/p&gt;&lt;p&gt;Here's a look at Google Photos and how it compares with Apple's and Yahoo's offerings.&lt;/p&gt;&lt;p&gt;Photos and video on your device will automatically upload to Google's servers.&lt;/p&gt;&lt;p&gt;Google, Apple and Yahoo use computer software to tag photos to help you find them more easily.&lt;/p&gt;</summary>
     <dc:date>2015-07-23T10:52:40Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/37/66/35/8349538/3/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Google Maps Now Shows You Everywhere You've Been</title>
-    <link rel="alternate" href="https://www.yahoo.com/tech/s/google-maps-now-shows-everywhere-175301996.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-22T20:41:32Z</updated>
-    <published>2015-07-22T20:41:32Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-22T20:41:32Z</dc:date>
-    <media:content url="https://s.yimg.com/lo/api/res/1.2/Cya11DxUmPXwn2wVArHmUw--/YXBwaWQ9bWFnYXppbmVzO3c9ODAw/https://s.yimg.com/os/en-US/homerun/cnet.cbs.com/aac9b6b3781abac2064ae4c6d5f19cd0" />
   </entry>
 </feed>
