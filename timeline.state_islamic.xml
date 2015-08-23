@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Train Gunman 'Linked' To Radical Islamic Group</title>
+    <link rel="alternate" href="http://news.sky.com/story/1540222/train-suspect-linked-to-radical-islamic-group" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T02:25:14Z</updated>
+    <published>2015-08-23T02:25:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T02:25:14Z</dc:date>
+    <media:content url="http://news.sky.com/story/1540222/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+  </entry>
+  <entry>
     <title>Iraq official says ISIS has killed up to 50 Iraqi troops in Anbar</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/iraq-official-says-isis-has-killed-up-to-50-iraqi-troops-in-anbar-1.2528847" />
     <author>
@@ -1701,16 +1713,5 @@
     <summary type="html">&lt;p&gt;Suspected Islamic State militants fired at a Turkish military outpost from inside Syrian territory Thursday, killing a Turkish soldier and wounding two others, an official said.&lt;/p&gt;</summary>
     <dc:date>2015-07-23T14:55:45Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/23/ab/81/c90ffb0467ff4084bd01cb9578477b3f-947d2f779ed549d6b226b808c407cfa1-0.jpg" />
-  </entry>
-  <entry>
-    <title>Drones and ditches as Turkey tightens border after Islamic State bombing</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/23/us-mideast-crisis-turkey-idUSKCN0PX15J20150723?feedType=RSS&amp;amp;feedName=worldNews" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T10:53:16Z</updated>
-    <published>2015-07-23T10:53:16Z</published>
-    <summary type="html">&lt;p&gt;Turkey's NATO allies have long expressed concern about control of its border with Syria which in parts runs directly parallel with territory controlled by Islamic State.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T10:53:16Z</dc:date>
   </entry>
 </feed>
