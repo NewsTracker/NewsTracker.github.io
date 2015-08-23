@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Iraqi security officials say Islamic State attack in Anbar kills 17 soldiers, 6 Sunni fighters</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11501817&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T14:40:15Z</updated>
+    <published>2015-08-23T14:40:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T14:40:15Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201512/AP150317043827_140x93.jpg" />
+  </entry>
+  <entry>
     <title>Train Gunman 'Linked' To Radical Islamic Group</title>
     <link rel="alternate" href="http://news.sky.com/story/1540222/train-suspect-linked-to-radical-islamic-group" />
     <author>
@@ -1690,28 +1702,5 @@
     <published>2015-07-23T15:55:59Z</published>
     <summary type="html">&lt;p&gt;ANKARA Turkey has scrambled fighter jets to the Syrian border following clashes with Islamic State militants, a Turkish official said on Thursday.&lt;/p&gt;</summary>
     <dc:date>2015-07-23T15:55:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Official: Suspected IS militants kill Turkish soldier</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/23/official-suspected-is-militants-kill-turkish-soldier" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T14:55:45Z</updated>
-    <published>2015-07-23T14:55:45Z</published>
-    <summary type="html">&lt;p&gt;The attack has been blamed on militants linked to the Islamic State group and came amid a clamp down by Turkey on the extremist group.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T14:55:45Z</dc:date>
-  </entry>
-  <entry>
-    <title>Official: Suspected IS militants kill Turkish soldier</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/official-suspected-is-militants-kill-turkish-soldi/nm5WT/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T14:55:45Z</updated>
-    <published>2015-07-23T14:55:45Z</published>
-    <summary type="html">&lt;p&gt;Suspected Islamic State militants fired at a Turkish military outpost from inside Syrian territory Thursday, killing a Turkish soldier and wounding two others, an official said.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T14:55:45Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/23/ab/81/c90ffb0467ff4084bd01cb9578477b3f-947d2f779ed549d6b226b808c407cfa1-0.jpg" />
   </entry>
 </feed>

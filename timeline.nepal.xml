@@ -4,6 +4,39 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.nepal.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Nepal reopens Mount Everest to climbers; Japanese man to attempt scale the peak next month</title>
+    <link rel="alternate" href="http://www.startribune.com/nepal-opens-everest-to-climbers-for-1st-time-since-avalanche/322618621/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T13:50:30Z</updated>
+    <published>2015-08-23T13:50:30Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T13:50:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>Mount Everest reopens to climbers for first time since Nepal earthquake</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/world/mount-everest-reopens-to-climbers-for-first-time-since-nepal-earthquake-1.2529357" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T13:00:00Z</updated>
+    <published>2015-08-23T13:00:00Z</published>
+    <summary type="html">&lt;p&gt;"The main purpose of my climb is to spread the message that Nepal was safe for climbers and trekkers even after the earthquake," Kuriki told reporters.&lt;/p&gt;</summary>
+    <dc:date>2015-08-23T13:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <title>Nepal opens Everest to climbers for 1st time since avalanche</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11501801&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T12:55:15Z</updated>
+    <published>2015-08-23T12:55:15Z</published>
+    <summary type="html">&lt;p&gt;KATHMANDU, Nepal (AP) " Nepal has opened Mount Everest to climbers for the first time since an earthquake-triggered avalanche in April killed 19 mountaineers and ended the popular spring climbing season.&lt;/p&gt;&lt;p&gt;Nepal's tourism minister, Kripasur Sherpa, gave Kuriki his climbing permit at a ceremony in Kathmandu on Sunday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-23T12:55:15Z</dc:date>
+  </entry>
+  <entry>
     <title>News24.com | Remains of 17 missing people recovered in Nepal</title>
     <link rel="alternate" href="http://www.news24.com/World/News/Remains-of-17-missing-people-recovered-in-Nepal-20150805" />
     <author>
@@ -69,16 +102,5 @@
     <published>2015-07-26T15:42:05Z</published>
     <summary type="html">&lt;p&gt;Police have arrested 11 villagers over the murder of a 10-year-old boy in southwestern Nepal, in what authorities are calling a case of human sacrifice.&lt;/p&gt;</summary>
     <dc:date>2015-07-26T15:42:05Z</dc:date>
-  </entry>
-  <entry>
-    <title>Nepal's Mt. Annapurna trails deemed safe after April earthquake</title>
-    <link rel="alternate" href="http://www.cbc.ca/news/world/nepal-s-mt-annapurna-trails-deemed-safe-after-april-earthquake-1.3164577?cmp=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T13:37:23Z</updated>
-    <published>2015-07-23T13:37:23Z</published>
-    <summary type="html">&lt;p&gt;The most popular trekking trail in Nepal escaped damage during April's devastating earthquake and is safe for hikers to return, an assessment team said Thursday.&lt;/p&gt;&lt;p&gt;The trail around Mount Annapurna gets about 115,000 foreign trekkers, which is about 60 per cent of all hikers who travel to Nepal every year.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T13:37:23Z</dc:date>
   </entry>
 </feed>

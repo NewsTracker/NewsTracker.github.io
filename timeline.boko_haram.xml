@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.boko_haram.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>UN chief coming to Nigeria to mark bombing, abducted girls</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article31954983.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T12:14:18Z</updated>
+    <published>2015-08-23T12:14:18Z</published>
+    <summary type="html">&lt;p&gt;U.N. Secretary General Ban Ki-moon is to arrive in Nigeria Sunday to commemorate the Boko Haram bombing of his organization's headquarters and focus new attention on 219 schoolgirls held by the extremists.&lt;/p&gt;</summary>
+    <dc:date>2015-08-23T12:14:18Z</dc:date>
+  </entry>
+  <entry>
     <title>Nigerian army chief escapes Boko Haram ambush</title>
     <link rel="alternate" href="http://www.sfgate.com/news/world/article/Nigerian-army-chief-escapes-Boko-Haram-ambush-6459679.php" />
     <author>
@@ -254,17 +265,5 @@
     <summary type="html">&lt;p&gt;The attack on a popular night spot evening in the town of Maroua comes just days after other violence blamed on Boko Haram militants left at least 20 dead.&lt;/p&gt;&lt;p&gt;While there was no immediate claim of responsibility, Islamic militants from the Boko Haram group have been blamed for scores of attacks in the region this year.&lt;/p&gt;&lt;p&gt;Boko Haram, which was founded in neighbouring Nigeria, has vowed to attack Cameroon because the country has supported the Nigerian military's mission to defeat the group.&lt;/p&gt;</summary>
     <dc:date>2015-07-25T23:52:16Z</dc:date>
     <media:content url="http://cdn2.belfasttelegraph.co.uk/news/world-news/article31404299.ece/2b1ba/ALTERNATES/h342/PANews%20BT_P-bbe120ee-be68-4929-8868-424cb147f370_I1.jpg" />
-  </entry>
-  <entry>
-    <title>US aiding and abetting Boko Haram by refusing Nigeria arms, says Buhari</title>
-    <link rel="alternate" href="http://america.aljazeera.com/articles/2015/7/23/bombs-kill-29-as-nigerian-leader-says-us-hampering-fight1.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T12:30:00Z</updated>
-    <published>2015-07-23T12:30:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-23T12:30:00Z</dc:date>
-    <media:content url="merica.aljazeera.com/content/ajam/articles/2015/7/17/suicide-bombs-kill-64-in-nigeria/_jcr_content/image.adapt.480.low.Boko_Haram_052214.jpg" />
   </entry>
 </feed>

@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Egypt arrests 3 under terror law for spreading IS ideology</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11501782&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T11:40:16Z</updated>
+    <published>2015-08-23T11:40:16Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T11:40:16Z</dc:date>
+    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201512/AP150317043827_140x93.jpg" />
+  </entry>
+  <entry>
     <title>Egypt's antiquities ministry urges Egyptians to donate to buy ancient statue sold by museum</title>
     <link rel="alternate" href="http://www.startribune.com/antiquities-minister-urges-egyptians-to-donate-to-buy-statue/322590751/" />
     <author>
@@ -809,36 +821,14 @@
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
   <entry>
-    <title>Egypt death toll in boat collision on Nile River rises to 17; captain, his assistant detained</title>
-    <link rel="alternate" href="http://www.startribune.com/egypt-death-toll-rises-to-17-in-nile-collision-2-detained/318294271/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T15:35:41Z</updated>
-    <published>2015-07-23T15:35:41Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-23T15:35:41Z</dc:date>
-  </entry>
-  <entry>
-    <title>Egypt death toll rises to 17 in Nile collision; 2 detained</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11485992&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T15:35:16Z</updated>
-    <published>2015-07-23T15:35:16Z</published>
-    <summary type="html">&lt;p&gt;CAIRO (AP) " Egypt's health ministry says the death toll from a collision of two boats on the Nile the night before has risen to 17, after two more bodies were retrieved from the river.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T15:35:16Z</dc:date>
-  </entry>
-  <entry>
     <title>Egypt military says roadside bomb kills 4 troops in Sinai</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/egypt-military-says-roadside-bomb-kills-4-troops-i/nm5W3/" />
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/23/egypt-military-says-roadside-bomb-kills-4-troops-in-sinai" />
     <author>
       <name />
     </author>
-    <updated>2015-07-23T15:02:05Z</updated>
-    <published>2015-07-23T15:02:05Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-23T15:02:05Z</dc:date>
+    <updated>2015-07-23T16:12:41Z</updated>
+    <published>2015-07-23T16:12:41Z</published>
+    <summary type="html">&lt;p&gt;Egypt is battling a widening insurgency that has largely targeted troops in northern Sinai.&lt;/p&gt;</summary>
+    <dc:date>2015-07-23T16:12:41Z</dc:date>
   </entry>
 </feed>

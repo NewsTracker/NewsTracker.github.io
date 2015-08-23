@@ -1076,6 +1076,18 @@
     <media:content url="http://ww3.hdnux.com/photos/40/20/74/8458018/31/square_gallery_thumb.jpg" />
   </entry>
   <entry>
+    <title>IMF presses Europe over Greek debt relief</title>
+    <link rel="alternate" href="http://www.rte.ie/news/world/2015/0813/721042-greece/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-13T23:02:56Z</updated>
+    <published>2015-08-13T23:02:56Z</published>
+    <summary type="html">&lt;p&gt;The three had told Mr Tsipras they would "exert every required effort" to ensure the funding for Greece goes ahead, according to the Greek official.&lt;/p&gt;</summary>
+    <dc:date>2015-08-13T23:02:56Z</dc:date>
+    <media:content url="http://img.rasset.ie/0008b52e-642.jpg" />
+  </entry>
+  <entry>
     <title>Greek ruling party heads toward split before bailout vote</title>
     <link rel="alternate" href="http://www.reuters.com/article/2015/08/13/us-eurozone-greece-bailout-idUSKCN0QI0W620150813?feedType=RSS&amp;amp;feedName=wtMostRead" />
     <author>
@@ -2209,38 +2221,5 @@
     <summary type="html">&lt;p&gt;"It's over for Greece," said Pradinoudis.&lt;/p&gt;</summary>
     <dc:date>2015-07-23T16:32:38Z</dc:date>
     <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/23/ca/1f/82506264bd3140048781407a5353cd42-04b561abd18c401fbfb6cd86716b6037-0.jpg" />
-  </entry>
-  <entry>
-    <title>Greek store closures spike as austerity returns</title>
-    <link rel="alternate" href="http://www.cbsnews.com/news/greek-store-closures-spike-as-recession-austerity-return/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T13:01:53Z</updated>
-    <published>2015-07-23T13:01:53Z</published>
-    <summary type="html">&lt;p&gt;ATHENS, Greece - Running a business in Koukaki is becoming a struggle.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T13:01:53Z</dc:date>
-  </entry>
-  <entry>
-    <title>Retail nightmare: Greek store closures spike</title>
-    <link rel="alternate" href="http://www.ctvnews.ca/business/retail-nightmare-greek-store-closures-spike-1.2483357" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T12:59:45Z</updated>
-    <published>2015-07-23T12:59:45Z</published>
-    <summary type="html">&lt;p&gt;"The vast majority of Greek companies are half a step from going out of business."&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T12:59:45Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek store closures spike as recession, austerity return</title>
-    <link rel="alternate" href="http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2015-07-23-EU--Greece-Out%20of%20Business/id-88af5b485d1f4c2b91d1b81651be43c1" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T12:32:00Z</updated>
-    <published>2015-07-23T12:32:00Z</published>
-    <summary type="html">&lt;p&gt;Uncertainty over Greece's bailout and recent capital controls have led to a new spate of store closures in Greek capital.&lt;/p&gt;</summary>
-    <dc:date>2015-07-23T12:32:00Z</dc:date>
   </entry>
 </feed>
