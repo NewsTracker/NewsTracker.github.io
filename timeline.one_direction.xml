@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.one_direction.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>One Direction to split up</title>
+    <link rel="alternate" href="http://www.news.com.au/entertainment/music/one-direction-to-part-ways-in-2016/story-e6frfn29-1227495914814?from=public_rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T21:44:00Z</updated>
+    <published>2015-08-23T21:44:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T21:44:00Z</dc:date>
+    <media:content url="http://resources2.news.com.au/images/2015/08/24/1227495/914786-9cbf0506-49e0-11e5-a05e-f1249120d4d6.jpg" />
+  </entry>
+  <entry>
+    <title>Reports that One Direction are to split in March</title>
+    <link rel="alternate" href="http://www.rte.ie/ten/news/2015/0823/723108-one-direction/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T21:15:13Z</updated>
+    <published>2015-08-23T21:15:13Z</published>
+    <summary type="html">&lt;p&gt;One Direction are set to break up in March, according to a report in The Sun.&lt;/p&gt;</summary>
+    <dc:date>2015-08-23T21:15:13Z</dc:date>
+  </entry>
+  <entry>
     <title>One Direction premieres music video filmed at NASA</title>
     <link rel="alternate" href="http://www.chron.com/entertainment/music/article/One-Direction-premieres-music-video-filmed-at-NASA-6457529.php" />
     <author>

@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>With many Ebola survivors ailing, doctors evaluate situation</title>
+    <link rel="alternate" href="http://www.charlotteobserver.com/news/article31956585.html%23storylink=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T20:40:08Z</updated>
+    <published>2015-08-23T20:40:08Z</published>
+    <summary type="html">&lt;p&gt;The medical community is negotiating uncharted waters as it tries to measure the scale of this problem that comes on the tail end of the biggest Ebola outbreak in history.&lt;/p&gt;</summary>
+    <dc:date>2015-08-23T20:40:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>With many Ebola survivors ailing, doctors evaluate situation</title>
+    <link rel="alternate" href="http://www.chron.com/news/medical/article/With-many-Ebola-survivors-ailing-doctors-6460454.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T20:34:18Z</updated>
+    <published>2015-08-23T20:34:18Z</published>
+    <summary type="html">&lt;p&gt;30, 2014 file photo, a woman being discharged from the Island Clinic Ebola treatment center is sprayed with disinfectant in Monrovia, Liberia.&lt;/p&gt;</summary>
+    <dc:date>2015-08-23T20:34:18Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/40/40/63/8522967/13/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Many Ebola survivors have lingering health problems, alarming medical professionals</title>
     <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/08/23/22543744.html?cid=rssnewsworld" />
     <author>
@@ -48,6 +71,17 @@
     <summary type="html">&lt;p&gt;"If we can find out this kind of information, hopefully we can help other Ebola survivors in the future," Dr. Zan Yeong, an eye specialist involved in a study of health problems in survivors in Liberia, told The Associated Press.&lt;/p&gt;&lt;p&gt;Around half those who received post-recovery check-ups have joint pain, said Dr. Daniel Bausch, an Ebola expert and consultant for WHO.&lt;/p&gt;</summary>
     <dc:date>2015-08-23T13:48:05Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/821ac88/2147483647/crop/367x329%2B21%2B0/resize/300x270/quality/85/?url=%2Fcmsmedia%2F7b%2F92%2Fd4018c8d4ae1994da5f6f7d79a17%2Fresizes%2F500%2F150722-smartphonehand-stock.jpg" />
+  </entry>
+  <entry>
+    <title>'Emergency within an emergency': Lingering health problems plague Ebola survivors</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/health/health-headlines/emergency-within-an-emergency-lingering-health-problems-plague-ebola-survivors-1.2529364" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T13:30:00Z</updated>
+    <published>2015-08-23T13:30:00Z</published>
+    <summary type="html">&lt;p&gt;Only about 40 per cent of those infected have survived Ebola, according to WHO estimates.&lt;/p&gt;&lt;p&gt;"It's too early ... to know what the direct effect or link is to Ebola, if at all," Bausch said.&lt;/p&gt;</summary>
+    <dc:date>2015-08-23T13:30:00Z</dc:date>
   </entry>
   <entry>
     <title>With many Ebola survivors ailing, doctors evaluate situation</title>
