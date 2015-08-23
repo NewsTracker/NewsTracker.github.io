@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Logano defends Bristol victory to hold off Gibbs drivers (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/logano-defends-bristol-victory-hold-off-gibbs-drivers-024411580--nascar.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T04:34:55Z</updated>
+    <published>2015-08-23T04:34:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T04:34:55Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/FFVx1BdguVfokXTahhbY_A--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ3OTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201508222204794653299" />
+  </entry>
+  <entry>
     <title>Marte's 2-out HR in bottom of 9th lifts Pirates over Giants (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/martes-2-hr-bottom-9th-lifts-pirates-over-225506373--mlb.html" />
     <author>
@@ -1234,17 +1246,5 @@
     <published>2015-07-23T14:51:37Z</published>
     <summary type="html" />
     <dc:date>2015-07-23T14:51:37Z</dc:date>
-  </entry>
-  <entry>
-    <title>Moustakas' 3-run homer leads Royals past Pirates, 5-1 (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/moustakas-3-run-homer-leads-royals-past-pirates-030032439--mlb.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T03:51:32Z</updated>
-    <published>2015-07-23T03:51:32Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-23T03:51:32Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/mZ4vy2ZNB8RedoO87DghXw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQxNztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507222218803094702" />
   </entry>
 </feed>
