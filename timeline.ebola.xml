@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Many Ebola survivors have lingering health problems, alarming medical professionals</title>
+    <link rel="alternate" href="http://cnews.canoe.com/CNEWS/World/2015/08/23/22543744.html?cid=rssnewsworld" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T15:23:56Z</updated>
+    <published>2015-08-23T15:23:56Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T15:23:56Z</dc:date>
+  </entry>
+  <entry>
     <title>Many Ebola survivors are in pain or have vision problems, alarming medical community</title>
     <link rel="alternate" href="http://www.startribune.com/with-many-ebola-survivors-ailing-doctors-evaluate-situation/322619181/" />
     <author>

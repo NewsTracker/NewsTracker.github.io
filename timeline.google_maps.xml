@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<feed xmlns="http://www.w3.org/2005/Atom">
   <title>NewsTracker: google maps</title>
   <link rel="alternate" href="http://newstracker.github.io/timeline.google_maps.xml" />
   <subtitle>This is a news tracking demo</subtitle>
-  <entry>
-    <title>Been there, done that - it's all on Google Maps app</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&amp;amp;objectid=11485919&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-23T17:00:06Z</updated>
-    <published>2015-07-23T17:00:06Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-23T17:00:06Z</dc:date>
-    <media:content url="http://media.nzherald.co.nz/webcontent/image/jpg/201530/GettyImages-158329781_620x310.jpg" />
-  </entry>
 </feed>

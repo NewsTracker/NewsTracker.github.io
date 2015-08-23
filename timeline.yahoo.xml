@@ -4,6 +4,42 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Usain Bolt beats Justin Gatlin for gold in 100 at worlds (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/china-gets-2nd-medal-worlds-20k-walk-silver-033029301--spt.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T18:17:11Z</updated>
+    <published>2015-08-23T18:17:11Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T18:17:11Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/_bBKqK65qtXP5YrPv2lCcw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508230956358195560" />
+  </entry>
+  <entry>
+    <title>Unanimous choice: Ohio State is No. 1 in AP preseason Top 25 (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/unanimous-choice-ohio-state-no-1-ap-preseason-180223700--ncaaf.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T18:08:42Z</updated>
+    <published>2015-08-23T18:08:42Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T18:08:42Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
+  </entry>
+  <entry>
+    <title>Travers next race for Triple Crown winner American Pharoah (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/travers-next-race-triple-crown-winner-american-pharoah-164331704--rah.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-23T16:46:37Z</updated>
+    <published>2015-08-23T16:46:37Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-23T16:46:37Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/ZzXIDSuBgyLmaSiUIeYrzw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508161106400119804" />
+  </entry>
+  <entry>
     <title>Logano defends Bristol victory to hold off Gibbs drivers (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/logano-defends-bristol-victory-hold-off-gibbs-drivers-024411580--nascar.html" />
     <author>
