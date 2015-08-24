@@ -4,6 +4,29 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.greece_or_greek_or_grexit.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Greek coast guard searching for missing people after migrant boat capsizes</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/greek-coast-guard-searching-for-missing-people-after-migrant-boat-capsizes/article26069691/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T09:18:46Z</updated>
+    <published>2015-08-24T09:18:46Z</published>
+    <summary type="html">&lt;p&gt;Greece's coast guard was searching Monday for at least five people missing at sea after the dinghy they were using to enter Greece clandestinely from Turkey overturned off the coast of the eastern Aegean island of Lesbos.&lt;/p&gt;</summary>
+    <dc:date>2015-08-24T09:18:46Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/4fd/news/world/article26069690.ece/ALTERNATES/w220/-543564511.JPG" />
+  </entry>
+  <entry>
+    <title>Greece: Opposition party head returns mandate to form gov't</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11502234&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T08:20:15Z</updated>
+    <published>2015-08-24T08:20:15Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-24T08:20:15Z</dc:date>
+  </entry>
+  <entry>
     <title>Greek government spokeswoman says a Sept 20 election date is still feasible</title>
     <link rel="alternate" href="http://www.startribune.com/greece-government-aiming-for-sept-20-as-election-date/322630501/" />
     <author>
@@ -2220,51 +2243,5 @@
     <published>2015-07-24T12:45:19Z</published>
     <summary type="html">&lt;p&gt;When they get underway, the bailout talks will deal both with a new memorandum of understanding on actions Greece has to take and with the loans it should obtain in return.&lt;/p&gt;</summary>
     <dc:date>2015-07-24T12:45:19Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greek talks to begin after 'technical' issues ironed out</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11486590&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T11:35:16Z</updated>
-    <published>2015-07-24T11:35:16Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-24T11:35:16Z</dc:date>
-  </entry>
-  <entry>
-    <title>Greece to start talks with creditors for new bailout after technical issues sorted out</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/07/24/greece-to-start-talks-with-creditors-for-new-bailout-after-technical-issues/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Flatest+%28Internal+-+Latest+News+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T11:31:51Z</updated>
-    <published>2015-07-24T11:31:51Z</published>
-    <summary type="html">&lt;p&gt;Greek government spokeswoman Olga Gerovasili sought to downplay talk that security concerns are a reason why European negotiators won't now arrive in Athens until Saturday at the earliest.&lt;/p&gt;</summary>
-    <dc:date>2015-07-24T11:31:51Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/feeds/Associated%20Press/2015/07/24/876/493/58de0c8dd1fbe410VgnVCM100000d7c1a8c0____-Greece%20Bailout-1.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Greek talks to begin after 'technical' issues ironed out</title>
-    <link rel="alternate" href="http://www.foxbusiness.com/markets/2015/07/24/greece-to-start-talks-with-creditors-for-new-bailout-after-technical-issues/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxbusiness%2Fmarkets+%28Internal+-+Markets+-+Text%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T11:31:51Z</updated>
-    <published>2015-07-24T11:31:51Z</published>
-    <summary type="html">&lt;p&gt;ATHENS, Greece - High-level talks between Greece and its European creditors on a third bailout for the cash-strapped country have been delayed until logistical matters are sorted out.&lt;/p&gt;</summary>
-    <dc:date>2015-07-24T11:31:51Z</dc:date>
-    <media:content url="http://a57.foxnews.com/global.fbnstatic.com/static/managed/img/fb2/feeds/Associated%20Press/2015/07/24/876/493/58de0c8dd1fbe410VgnVCM100000d7c1a8c0____-Greece%20Bailout-1.jpg?ve=1&amp;amp;tl=1" />
-  </entry>
-  <entry>
-    <title>Laws passed, Greece to open bailout talks as recession pushes goals further</title>
-    <link rel="alternate" href="http://www.reuters.com/article/2015/07/24/us-eurozone-greece-idUSKCN0PW0GI20150724?feedType=RSS&amp;amp;feedName=wtMostRead" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T11:03:25Z</updated>
-    <published>2015-07-24T11:03:25Z</published>
-    <summary type="html">&lt;p&gt;The new IMF representative for Greece, Delia Velculescu, and officials from the Commission and the ECB are expected in Athens on Friday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-24T11:03:25Z</dc:date>
   </entry>
 </feed>
