@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Defensive lineman Mike Purcell's pick-6 highlight for 49ers (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/defensive-lineman-mike-purcells-pick-6-highlight-49ers-030401388--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T04:38:43Z</updated>
+    <published>2015-08-24T04:38:43Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-24T04:38:43Z</dc:date>
+    <media:content url="http://l.yimg.com/os/mit/ape/m/81f43c2/t.gif" />
+  </entry>
+  <entry>
     <title>IndyCar driver Justin Wilson in coma after wreck at Pocono (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/hunter-reay-wins-teammate-wilson-airlifted-track-223050664--irl.html" />
     <author>
@@ -1259,17 +1271,5 @@
     <summary type="html" />
     <dc:date>2015-07-24T17:34:59Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/BIut_.pmp8vlpzflUyzIEA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQwMztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507241114404439254" />
-  </entry>
-  <entry>
-    <title>Report: Ohio State's Miller shifting from QB to receiver (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/report-ohio-states-miller-shifting-qb-receiver-030444228--ncaaf.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T03:56:15Z</updated>
-    <published>2015-07-24T03:56:15Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-24T03:56:15Z</dc:date>
-    <media:content url="http://l.yimg.com/os/mit/media/m/base/images/transparent-649ba6f.png" />
   </entry>
 </feed>
