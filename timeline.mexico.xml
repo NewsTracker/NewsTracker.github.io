@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>First new rail link between Mexico, US in more than 100 years</title>
+    <link rel="alternate" href="http://nypost.com/2015/08/25/first-new-rail-link-between-mexico-us-in-more-than-100-years/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T22:06:06Z</updated>
+    <published>2015-08-25T22:06:06Z</published>
+    <summary type="html">&lt;p&gt;Before the new bridge opened, there were eight rail crossings between the United States and Mexico, according to US Customs and Border Protection.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T22:06:06Z</dc:date>
+  </entry>
+  <entry>
+    <title>Deforestation in Mexico butterfly reserve more than triples due to illegal logging</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/sci-tech/deforestation-in-mexico-butterfly-reserve-more-than-triples-due-to-illegal-logging-1.2532863" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T21:23:10Z</updated>
+    <published>2015-08-25T21:23:10Z</published>
+    <summary type="html">&lt;p&gt;That's the highest figure since 2009, well above the 20 acres (8 hectares) lost in 2014, according to the announcement by the World Wildlife fund and the Institute of Biology of Mexico's National Autonomous University.&lt;/p&gt;&lt;p&gt;Loss of that habitat is just one of the threats to the butterflies' amazing migration across Canada and the United States to Mexico.&lt;/p&gt;&lt;p&gt;The fact that most of last year's loss also occurred in San Felipe indicates a growing problem there, said Omar Vidal, head of the World Wildlife Fund in Mexico.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T21:23:10Z</dc:date>
+  </entry>
+  <entry>
     <title>Deforestation in Mexico butterfly reserve nearly triples</title>
     <link rel="alternate" href="http://www.chron.com/news/science/article/Deforestation-in-Mexico-butterfly-reserve-nearly-6464252.php" />
     <author>
@@ -1404,16 +1426,5 @@
     <published>2015-07-26T23:54:04Z</published>
     <summary type="html" />
     <dc:date>2015-07-26T23:54:04Z</dc:date>
-  </entry>
-  <entry>
-    <title>Rolling Jamaica, reeling Mexico meet in Gold Cup final</title>
-    <link rel="alternate" href="http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;amp;objectid=11487072&amp;amp;ref=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T21:20:16Z</updated>
-    <published>2015-07-25T21:20:16Z</published>
-    <summary type="html">&lt;p&gt;PHILADELPHIA (AP) " Mexico is the favorite to win its record-extending seventh CONCACAF Gold Cup title, and coach Miguel Herrera is answering questions about his future with the team.&lt;/p&gt;&lt;p&gt;Indeed, Mexico did outplay Costa Rica in the quarterfinals, though that game was moments from going to penalty kicks until El Tri benefited from another questionable call in the last minute of extra time.&lt;/p&gt;&lt;p&gt;The only way Mexico has been able to score during the knockout rounds is on penalty kicks.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T21:20:16Z</dc:date>
   </entry>
 </feed>

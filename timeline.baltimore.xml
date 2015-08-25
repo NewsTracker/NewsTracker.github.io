@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.baltimore.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Maryland Moves Last Inmates From Decrepit Baltimore Jail</title>
+    <link rel="alternate" href="http://abcnews.go.com/US/wireStory/maryland-moves-inmates-decrepit-baltimore-jail-33312629" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T22:05:59Z</updated>
+    <published>2015-08-25T22:05:59Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-25T22:05:59Z</dc:date>
+  </entry>
+  <entry>
     <title>Amid particularly bloody summer, Baltimore surpasses New York City in homicides for the year</title>
     <link rel="alternate" href="http://www.startribune.com/baltimore-surpasses-new-york-city-in-homicides-for-the-year/322451551/" />
     <author>

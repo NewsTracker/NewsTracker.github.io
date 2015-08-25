@@ -4,6 +4,28 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>As Islamic State militants destroy artifacts, heritage always a target across centuries of war</title>
+    <link rel="alternate" href="http://www.startribune.com/in-islamic-state-war-like-others-heritage-always-a-target/322868401/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T22:10:45Z</updated>
+    <published>2015-08-25T22:10:45Z</published>
+    <summary type="html">&lt;p&gt;In the West African nation of Mali, Islamic radicals in 2012 overran Timbuktu, the historic city of Islamic culture.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T22:10:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>In Islamic State war, like others, heritage always a target</title>
+    <link rel="alternate" href="http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;amp;objectid=11503067&amp;amp;ref=rss" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T20:55:16Z</updated>
+    <published>2015-08-25T20:55:16Z</published>
+    <summary type="html">&lt;p&gt;For decades in the 20th century, Islamic militant groups in the Middle East, including al-Qaida, put little emphasis on destroying shrines or historical sites.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T20:55:16Z</dc:date>
+  </entry>
+  <entry>
     <title>ISIS shows photos of ancient Palmyra temple destruction in Syria</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/ISIS-shows-photos-of-ancient-Palmyra-temple-destruction-in-Syria/articleshow/48670184.cms" />
     <author>
@@ -1610,20 +1632,8 @@
     </author>
     <updated>2015-07-26T01:25:54Z</updated>
     <published>2015-07-26T01:25:54Z</published>
-    <summary type="html">&lt;p&gt;Backed by the US-led coalition air strikes against Islamic State, the YPG controls as much as half of Syria's 800-kilometre border with Turkey, and Ankara is determined to prevent the Kurds creating an independent state in the north of Syria.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Backed by the US-led coalition air strikes against Islamic State, the YPG controls as much as half of Syria's 800-kilometre border with Turkey, and Ankara is determined to prevent the Kurds creating an independent state in the north of Syria.&lt;/p&gt;&lt;p&gt;The move came as Turkey abandoned its previous reluctance to join the US-led coalition against Islamic State on Friday and agreed to open up a key airbase at Incirlik for use by US warplanes to launch attacks against IS.&lt;/p&gt;&lt;p&gt;The anti-terror campaign follows the death of 32 people in the south-eastern Turkish town of Suruc - a majority Kurdish town - on Monday in a suicide attack linked to Islamic State.&lt;/p&gt;</summary>
     <dc:date>2015-07-26T01:25:54Z</dc:date>
     <media:content url="ww.smh.com.au/content/dam/images/g/i/k/9/w/s/image.related.articleLeadwide.620x349.gikm73.png/1437873942921.jpg" />
-  </entry>
-  <entry>
-    <title>Q&amp;A: Kurds fight Islamic State and endure attacks</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/world/article/Kurds-fight-the-IS-group-while-being-bombed-by-6405370.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T22:24:43Z</updated>
-    <published>2015-07-25T22:24:43Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-25T22:24:43Z</dc:date>
-    <media:content url="http://ww3.hdnux.com/photos/37/71/37/8361970/11/square_gallery_thumb.jpg" />
   </entry>
 </feed>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.apple.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Apple touchscreen patent appeal rejected</title>
+    <link rel="alternate" href="http://technology.canoe.com/News/2015/08/25/22544763.html?cid=rsstechnologynews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T22:12:23Z</updated>
+    <published>2015-08-25T22:12:23Z</published>
+    <summary type="html">&lt;p&gt;The ruling by the Federal Court of Appeals in Karlsruhe covers one of the Apple iPhone's most popular defining features, of which makers of rival Android-based phones have developed their own versions.&lt;/p&gt;&lt;p&gt;Motorola Mobility, at the time a unit of Google Inc but now owned by China's Lenovo Group Ltd., filed the original suit in a Munich court against the Apple user interface patent.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T22:12:23Z</dc:date>
+    <media:content url="http://storage.canoe.com/v1/dynamic_resize/?src=http://technology.canoe.com/Mobile/News/2015/08/24/1297740280645.jpg&amp;amp;size=104x59&amp;amp;quality=85" />
+  </entry>
+  <entry>
+    <title>Top German court rejects Apple touchscreen patent appeal</title>
+    <link rel="alternate" href="http://www.torontosun.com/2015/08/25/top-german-court-rejects-apple-touchscreen-patent-appeal" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T20:55:49Z</updated>
+    <published>2015-08-25T20:55:49Z</published>
+    <summary type="html">&lt;p&gt;Apple won that case but the ruling was later overturned by the federal patent court.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T20:55:49Z</dc:date>
+    <media:content url="http://storage.torontosun.com/v1/dynamic_resize/sws_path/suns-prod-images/1322828225923_ORIGINAL.jpg?quality=80&amp;amp;size=65x" />
+  </entry>
+  <entry>
     <title>Apple's stock cuts losses after CEO emails on China business</title>
     <link rel="alternate" href="http://www.usnews.com/news/technology/articles/2015/08/24/apples-stock-rebounds-after-ceo-comments-on-china-business" />
     <author>
