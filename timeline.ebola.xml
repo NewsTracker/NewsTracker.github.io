@@ -4,6 +4,40 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sierra Leone releases its last known Ebola patient</title>
+    <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Sierra-Leone-releases-its-last-known-Ebola-patient-6461687.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T18:46:41Z</updated>
+    <published>2015-08-24T18:46:41Z</published>
+    <summary type="html">&lt;p&gt;"Although my child died of Ebola I am very happy that I have survived today," she said upon leaving the Ebola treatment center in Mateneh village on the outskirts of Makeni, the president's hometown.&lt;/p&gt;</summary>
+    <dc:date>2015-08-24T18:46:41Z</dc:date>
+    <media:content url="http://ww1.hdnux.com/photos/40/27/75/8486768/37/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
+    <title>Sierra Leone releases its last known Ebola patient</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/24/sierra-leone-releases-its-last-known-ebola-patient" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T13:43:45Z</updated>
+    <published>2015-08-24T13:43:45Z</published>
+    <summary type="html">&lt;p&gt;President Ernest Bai Koroma presented a certificate of discharge to Adama Sankoh, 40, who contracted Ebola after her son died from the disease late last month.&lt;/p&gt;</summary>
+    <dc:date>2015-08-24T13:43:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>Sierra Leone releases its last known Ebola patient</title>
+    <link rel="alternate" href="http://www.ctvnews.ca/health/sierra-leone-releases-its-last-known-ebola-patient-1.2530201" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T13:10:00Z</updated>
+    <published>2015-08-24T13:10:00Z</published>
+    <summary type="html">&lt;p&gt;"The Ebola fight is not yet over -- go and tell members of your community that," the president said when presenting the certificate to the woman.&lt;/p&gt;&lt;p&gt;Sankoh, whose 23-year-old son contracted Ebola in the capital of Freetown before travelling to his home village, thanked everyone who provided her care during her illness.&lt;/p&gt;&lt;p&gt;But first Sierra Leone must go 42 days -- equal to two incubation periods of 21 days -- without another Ebola case in order for the World Health Organization to make such a declaration.&lt;/p&gt;</summary>
+    <dc:date>2015-08-24T13:10:00Z</dc:date>
+  </entry>
+  <entry>
     <title>With many Ebola survivors ailing, doctors evaluate situation</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/article31956585.html%23storylink=rss" />
     <author>

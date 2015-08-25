@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.hillary_clinton.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Joe Biden is everything Hillary Clinton isn't</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/08/24/opinions/setmayer-biden/index.html?eref=rss_latest" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T02:06:49Z</updated>
+    <published>2015-08-25T02:06:49Z</published>
+    <summary type="html">&lt;p&gt;Biden is everything Hillary Clinton isn't.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T02:06:49Z</dc:date>
+    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/131102193106-14-joe-biden-horizontal-large-gallery.jpg" />
+  </entry>
+  <entry>
     <title>Hillary Clinton's slide bolsters interest in run by Joe Biden</title>
     <link rel="alternate" href="http://www.smh.com.au/world/hillary-clintons-slide-bolsters-interest-in-run-by-joe-biden-20150822-gj5b18.html" />
     <author>
@@ -637,50 +649,5 @@
     <published>2015-07-25T15:25:23Z</published>
     <summary type="html" />
     <dc:date>2015-07-25T15:25:23Z</dc:date>
-  </entry>
-  <entry>
-    <title>Hillary Clinton’s latest e-mail mess</title>
-    <link rel="alternate" href="http://nypost.com/2015/07/24/hillary-clintons-latest-e-mail-mess/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T00:02:08Z</updated>
-    <published>2015-07-25T00:02:08Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-25T00:02:08Z</dc:date>
-  </entry>
-  <entry>
-    <title>Sources: Justice asked to consider probing Clinton emails</title>
-    <link rel="alternate" href="http://www.sfgate.com/news/article/Sources-Justice-asked-to-consider-probing-6403175.php" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T12:50:48Z</updated>
-    <published>2015-07-24T12:50:48Z</published>
-    <summary type="html">&lt;p&gt;WASHINGTON (AP) - Federal officials say two government inspectors general have asked the Justice Department to determine whether sensitive government information was transmitted on Hillary Rodham Clinton's personal email.&lt;/p&gt;</summary>
-    <dc:date>2015-07-24T12:50:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>Criminal probe sought into Hillary Clinton's email</title>
-    <link rel="alternate" href="http://www.cnbc.com/2015/07/23/criminal-inquiry-sought-in-hillary-clintons-use-of-email.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T12:46:00Z</updated>
-    <published>2015-07-24T12:46:00Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-24T12:46:00Z</dc:date>
-  </entry>
-  <entry>
-    <title>Report: Criminal inquiry requested over Clinton's email</title>
-    <link rel="alternate" href="http://edition.cnn.com/2015/07/24/politics/hillary-clinton-email-justice-department/index.html?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+CNN+-+Most+Recent%29" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T11:39:25Z</updated>
-    <published>2015-07-24T11:39:25Z</published>
-    <summary type="html">&lt;p&gt;New probe over Clinton email?&lt;/p&gt;</summary>
-    <dc:date>2015-07-24T11:39:25Z</dc:date>
-    <media:content url="http://i2.cdn.turner.com/cnnnext/dam/assets/140612112132-hillary-clinton-natural-topics.jpg" />
   </entry>
 </feed>

@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Ferguson judge withdraws arrest warrants before 2015</title>
+    <link rel="alternate" href="http://edition.cnn.com/2015/08/24/us/ferguson-missouri-court-changes/index.html?eref=rss_latest" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T00:28:36Z</updated>
+    <published>2015-08-25T00:28:36Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-25T00:28:36Z</dc:date>
+    <media:content url="http://edition.cnn.com/2015/08/24/us/ferguson-missouri-court-changes/data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7" />
+  </entry>
+  <entry>
+    <title>Judge overhauls troubled Ferguson, Missouri, court</title>
+    <link rel="alternate" href="http://www.reuters.com/article/2015/08/24/us-usa-ferguson-court-idUSKCN0QT29720150824?feedType=RSS&amp;amp;feedName=domesticNews" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T23:21:38Z</updated>
+    <published>2015-08-24T23:21:38Z</published>
+    <summary type="html">&lt;p&gt;The Justice Department launched its investigation into Ferguson's police department and municipal court after the Aug. 9, 2014 shooting death of 18-year-old Brown by white police officer Darren Wilson.&lt;/p&gt;</summary>
+    <dc:date>2015-08-24T23:21:38Z</dc:date>
+    <media:content url="http://s3.reutersmedia.net/resources/r/?m=02&amp;amp;d=20150824&amp;amp;t=2&amp;amp;i=1074286236&amp;amp;w=644&amp;amp;fh=&amp;amp;fw=&amp;amp;ll=&amp;amp;pl=&amp;amp;sq=&amp;amp;r=LYNXNPEB7N12Q" />
+  </entry>
+  <entry>
     <title>No arrests days after fatal shooting of girl in Ferguson</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/national/article31633649.html%23storylink=rss" />
     <author>

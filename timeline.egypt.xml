@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.egypt.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Roadside bomb kills 3, wounds 27 in Egypt's Nile Delta</title>
+    <link rel="alternate" href="http://www.foxnews.com/world/2015/08/24/roadside-bomb-kills-3-wounds-27-in-egypt-nile-delta/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T16:59:52Z</updated>
+    <published>2015-08-24T16:59:52Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-24T16:59:52Z</dc:date>
+    <media:content url="http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/feeds/Associated%20Press/2015/08/24/876/493/Mideast%20Egypt-1.jpg?ve=1&amp;amp;tl=1" />
+  </entry>
+  <entry>
     <title>Egypt stock market falls to lowest level in almost 2 years</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/news/business/national-business/article31959900.html%23storylink=rss" />
     <author>
@@ -829,29 +841,6 @@
     <published>2015-07-25T09:53:55Z</published>
     <summary type="html">&lt;p&gt;Egyptians look at the passenger boat that sunk in the river Nile in Giza, south of Cairo, Egypt, Thursday, July 23, 2015.&lt;/p&gt;&lt;p&gt;Egypt's Health Ministry says four more bodies have been retrieved from the Nile River from a boat collision earlier this week, bringing the death toll to 35 people killed.&lt;/p&gt;</summary>
     <dc:date>2015-07-25T09:53:55Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Croatian man kidnapped in Egypt; said to be energy worker</title>
-    <link rel="alternate" href="http://www.usnews.com/news/business/articles/2015/07/24/croatian-man-kidnapped-in-egypt-said-to-be-energy-worker" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T15:34:22Z</updated>
-    <published>2015-07-24T15:34:22Z</published>
-    <summary type="html">&lt;p&gt;ZAGREB, Croatia (AP) - A Croatian man has been kidnapped in Egypt by an unidentified armed group, Croatia's foreign ministry said Friday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-24T15:34:22Z</dc:date>
-  </entry>
-  <entry>
-    <title>Correction: Egypt story</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28116559.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T11:40:04Z</updated>
-    <published>2015-07-24T11:40:04Z</published>
-    <summary type="html">&lt;p&gt;One military official said el-Ashmawi was named as a suspect in the July 11 bombing outside the Italian Consulate in Cairo that killed a bystander, the first attack on a diplomatic mission in Egypt.&lt;/p&gt;</summary>
-    <dc:date>2015-07-24T11:40:04Z</dc:date>
     <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
   </entry>
 </feed>

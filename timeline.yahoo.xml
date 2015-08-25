@@ -4,6 +4,65 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.yahoo.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Wright homers in first at-bat in 4 months for Mets (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/wright-returns-mets-bats-cleanup-232306990--mlb.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T01:38:00Z</updated>
+    <published>2015-08-25T01:38:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-25T01:38:00Z</dc:date>
+    <media:content url="http://l1.yimg.com/bt/api/res/1.2/7d7M4KV5TGp__2EQZZTZuQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM0NztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201508241639599461177" />
+  </entry>
+  <entry>
+    <title>Eagles, NFL disagree over hit on Sam Bradford's knees (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/eagles-nfl-disagree-over-hit-sam-bradfords-knees-165401562--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T23:36:46Z</updated>
+    <published>2015-08-24T23:36:46Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-24T23:36:46Z</dc:date>
+    <media:content url="http://l3.yimg.com/bt/api/res/1.2/hhLY35wM5Ox9RTOd9rKanQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508221833667881541" />
+  </entry>
+  <entry>
+    <title>Packers lose WR Jordy Nelson for the season to injury (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/packers-lose-wr-jordy-nelson-season-injury-212934674--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T22:53:41Z</updated>
+    <published>2015-08-24T22:53:41Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-24T22:53:41Z</dc:date>
+    <media:content url="http://l.yimg.com/bt/api/res/1.2/EIILrCY18XgFAM9B3JKU1Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQ1MTtxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201508231618586847827" />
+  </entry>
+  <entry>
+    <title>O'Brien names Hoyer the Texans' starting quarterback (Yahoo Sports)</title>
+    <link rel="alternate" href="http://sports.yahoo.com/news/obrien-names-hoyer-texans-starting-quarterback-184942622--nfl.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T22:41:04Z</updated>
+    <published>2015-08-24T22:41:04Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-24T22:41:04Z</dc:date>
+    <media:content url="http://l2.yimg.com/bt/api/res/1.2/oOd4C_UpHcjYcK5JkBLjzQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201508241400504500913" />
+  </entry>
+  <entry>
+    <title>Third Point Settles With U.S. Over 2011 Yahoo Disclosures</title>
+    <link rel="alternate" href="http://www.nytimes.com/reuters/2015/08/24/business/24reuters-thirdpoint-yahoo-settlement.html?partner=rss&amp;amp;emc=rss&amp;amp;_r=0" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T21:28:36Z</updated>
+    <published>2015-08-24T21:28:36Z</published>
+    <summary type="html">&lt;p&gt;U.S. regulators, however, said Third Point amassed Yahoo shares in August and September 2011 with an eye toward finding a new chief executive or taking one or more board seats, including through a proxy battle if needed.&lt;/p&gt;</summary>
+    <dc:date>2015-08-24T21:28:36Z</dc:date>
+  </entry>
+  <entry>
     <title>Defensive lineman Mike Purcell's pick-6 highlight for 49ers (Yahoo Sports)</title>
     <link rel="alternate" href="http://sports.yahoo.com/news/defensive-lineman-mike-purcells-pick-6-highlight-49ers-030401388--nfl.html" />
     <author>
@@ -1223,53 +1282,5 @@
     <summary type="html" />
     <dc:date>2015-07-25T04:18:01Z</dc:date>
     <media:content url="http://l2.yimg.com/bt/api/res/1.2/NA4j.7i.gyrPCZVMsANiyQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTIxNztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507241940708551592" />
-  </entry>
-  <entry>
-    <title>ESPN says Cowherd won't be on air after Dominican comments (Yahoo Sports)</title>
-    <link rel="alternate" href="https://sports.yahoo.com/news/mlb-says-cowherd-owes-dominicans-apology-remarks-185453392--mlb.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T00:47:10Z</updated>
-    <published>2015-07-25T00:47:10Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-25T00:47:10Z</dc:date>
-    <media:content url="https://s1.yimg.com/bt/api/res/1.2/H6OUjSj2s5eDTL63TJfiFA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM0NztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507241451535060215" />
-  </entry>
-  <entry>
-    <title>Broncos DE Derek Wolfe suspended 4 games (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/broncos-derek-wolfe-suspended-4-games-184525684--nfl.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T20:06:21Z</updated>
-    <published>2015-07-24T20:06:21Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-24T20:06:21Z</dc:date>
-    <media:content url="http://l.yimg.com/bt/api/res/1.2/VLojmDU.0sy4_8dmcsTYQQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM3NztweG9mZj01MDtweW9mZj0wO3E9NzU7dz02NzA-/http://media.zenfs.com/en_us/Sports/ap/201507241420516079978" />
-  </entry>
-  <entry>
-    <title>MLB says Cowherd owes Dominicans an apology for remarks (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/mlb-says-cowherd-owes-dominicans-apology-remarks-185453392--mlb.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T19:20:07Z</updated>
-    <published>2015-07-24T19:20:07Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-24T19:20:07Z</dc:date>
-    <media:content url="http://l1.yimg.com/bt/api/res/1.2/_NMWXx2dx4N619tsA9mQCg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM0NztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507241356502179863" />
-  </entry>
-  <entry>
-    <title>WWE cuts ties with Hulk Hogan amid report that he used slurs (Yahoo Sports)</title>
-    <link rel="alternate" href="http://sports.yahoo.com/news/wwe-severs-ties-wrestling-star-hulk-hogan-144435815--spt.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-24T17:34:59Z</updated>
-    <published>2015-07-24T17:34:59Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-24T17:34:59Z</dc:date>
-    <media:content url="http://l2.yimg.com/bt/api/res/1.2/BIut_.pmp8vlpzflUyzIEA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTQwMztxPTc1O3c9MzAw/http://media.zenfs.com/en_us/Sports/ap/201507241114404439254" />
   </entry>
 </feed>
