@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ukraine.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Live Blog: Ukraine In Crisis</title>
+    <link rel="alternate" href="http://www.rferl.org/contentlive/ukraine-live-blog/27133576.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T01:21:44Z</updated>
+    <published>2015-08-25T01:21:44Z</published>
+    <summary type="html">&lt;p&gt;-- The United States will deploy F-22 fighter jets to Europe soon to support eastern European members of the NATO alliance unnerved by Russia's intervention in Ukraine.&lt;/p&gt;&lt;p&gt;"Russia's military activity in the Ukraine continues to be of great concern to us and to our European allies," James told a news conference at the Pentagon.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T01:21:44Z</dc:date>
+    <media:content url="http://www.rferl.org/contentlive/ukraine-live-blog/" />
+  </entry>
+  <entry>
     <title>Ukraine's president pledges more troops to fend off rebels</title>
     <link rel="alternate" href="http://www.ctvnews.ca/world/ukraine-s-president-pledges-more-troops-to-fend-off-rebels-1.2530318" />
     <author>

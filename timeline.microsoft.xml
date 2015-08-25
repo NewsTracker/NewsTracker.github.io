@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.microsoft.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Windows 95 Will Always Be Microsoft's Most Important OS</title>
+    <link rel="alternate" href="http://www.forbes.com/sites/ianmorris/2015/08/24/windows-95-changed-the-world/" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-24T16:42:00Z</updated>
+    <published>2015-08-24T16:42:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-24T16:42:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Microsoft files antitrust suit against InterDigital</title>
     <link rel="alternate" href="http://technology.canoe.com/News/2015/08/20/22543015.html?cid=rsstechnology" />
     <author>

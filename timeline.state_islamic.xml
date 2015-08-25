@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State executes four people in central Libyan city</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Islamic-State-executes-four-people-in-central-Libyan-city/articleshow/48664757.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T06:20:50Z</updated>
+    <published>2015-08-25T06:20:50Z</published>
+    <summary type="html">&lt;p&gt;Sirte residents, asking not to be named, said Islamic State had executed a total of four people, which all had been wearing orange jumpsuits.&lt;/p&gt;&lt;p&gt;Islamic State has executed four people in the central Libyan city of Sirte, including at least one member of a rival group whose body was put on display, according to residents and a video published on social media on Monday.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T06:20:50Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48664796,width-300,resizemode-4/Islamic-State.jpg" />
+  </entry>
+  <entry>
     <title>Islamic State claims to kill 30 for sodomy, UN meeting told</title>
     <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/24/islamic-state-claims-30-killed-for-sodomy-un-meeting-told" />
     <author>
@@ -1635,28 +1647,5 @@
     <summary type="html">&lt;p&gt;Turkish police meanwhile proceeded with a major operation against the Islamic State, the PKK and the far-left DHKP-C for a second day running.&lt;/p&gt;</summary>
     <dc:date>2015-07-25T07:59:36Z</dc:date>
     <media:content url="http://www.usnews.com/dims4/USNEWS/bea8882/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fe6%2F54793c97282fb105c93ba03c53d4aa%2Fmedia%3A2581106c34c146639cbd9627b41a7904TurkeySyriaAirstrikes.JPEG" />
-  </entry>
-  <entry>
-    <title>Turkish jets strike Kurds in Iraq, Islamic State in Syria</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/top-news/turkish-jets-hit-is-targets-in-syria-kurds-in-iraq/nm6Yk/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T06:14:07Z</updated>
-    <published>2015-07-25T06:14:07Z</published>
-    <summary type="html">&lt;p&gt;Turkish warplanes struck Islamic State group targets across the border in Syria early Friday, in a strong tactical shift for Turkey which had long been reluctant to join the U.S.-led coalition against the extremist group.&lt;/p&gt;&lt;p&gt;Turkish jets struck camps belonging to Kurdish militants in northern Iraq, authorities said Saturday, the first strike since a 2013 peace deal as Ankara also bombed Islamic State positions in Syria.&lt;/p&gt;&lt;p&gt;On Friday, three F-16 jets struck Islamic State targets that included two command centers and a gathering point near the Turkish border in Syria.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T06:14:07Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/25/14/b7/c02597fc1e114107881568a80b5ba20f-165391881c684e97a48e1e9a5f8d92cb-0.jpg" />
-  </entry>
-  <entry>
-    <title>Australian Islamic State group medic arrested on return home</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28672570.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T05:35:04Z</updated>
-    <published>2015-07-25T05:35:04Z</published>
-    <summary type="html">&lt;p&gt;He is the first Australian involved with the Islamic State known to have returned home since the Sunni fighters swept into western Iraq in June last year and declared the establishment of a caliphate, Monash University terrorism expert Greg Barton said.&lt;/p&gt;&lt;p&gt;Court documents show both charges allege that Brookman knowingly provided support to the Islamic State movement by undertaking guard duty and reconnaissance for the militants.&lt;/p&gt;&lt;p&gt;Barton said it was unclear whether Brookman was ever in al-Raqqa, although he admits to being in a town controlled by the Islamic State.&lt;/p&gt;&lt;p&gt;He said he was innocent of any crime and was forced to join Islamic State militants after being injured in an airstrike and taken to a hospital controlled by the group at al-Bab in Aleppo province.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T05:35:04Z</dc:date>
   </entry>
 </feed>
