@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ferguson.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Judge overhauls troubled court in Ferguson, Missouri</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/judge-overhauls-troubled-court-in-ferguson-missouri-20150824-gj6vrd" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T02:58:24Z</updated>
+    <published>2015-08-25T02:58:24Z</published>
+    <summary type="html">&lt;p&gt;Protesters yell at a police line shortly before shots were fired in shooting that involved a police officer in Ferguson, Missouri, this month.&lt;/p&gt;&lt;p&gt;"It is meaningful and will have a real impact on the lives of many," said St Louis-area lawyer Brendan Roediger, who has helped represent some protesters complaining of mistreatment by police and courts in Ferguson.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T02:58:24Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/j/7/2/u/v/image.related.articleLeadwide.620x349.gj6vrd.png/1440471490209.jpg" />
+  </entry>
+  <entry>
     <title>Ferguson judge withdraws arrest warrants before 2015</title>
     <link rel="alternate" href="http://edition.cnn.com/2015/08/24/us/ferguson-missouri-court-changes/index.html?eref=rss_latest" />
     <author>

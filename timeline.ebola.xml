@@ -4,6 +4,30 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.ebola.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Sierra Leone's last known Ebola patient is discharged singing and dancing</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/sierra-leones-last-known-ebola-patient-is-discharged-singing-and-dancing-20150825-gj6zn1.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T02:25:55Z</updated>
+    <published>2015-08-25T02:25:55Z</published>
+    <summary type="html">&lt;p&gt;Adama Sankoh, 35, centre, who contracted Ebola after her son died from the disease, is discharged on Monday.&lt;/p&gt;&lt;p&gt;The country has not recorded a new case since the beginning of August, but the WHO won't declare it Ebola-free until six weeks after the last patient is discharged or buried.&lt;/p&gt;&lt;p&gt;Even then, the president cautioned the crowd Monday that Sierra Leone won't be safe until Ebola has been eradicated from the region.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T02:25:55Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/j/6/z/o/i/image.related.articleLeadwide.620x349.gj6zn1.png/1440469500584.jpg" />
+  </entry>
+  <entry>
+    <title>Sierra Leone's last known Ebola patient is discharged singing and dancing</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/sierra-leones-last-known-ebola-patient-is-discharged-singing-and-dancing-20150825-gj6zn1.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T02:25:55Z</updated>
+    <published>2015-08-25T02:25:55Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-25T02:25:55Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/j/6/z/o/i/image.related.articleLeadwide.620x349.gj6zn1.png/1440469500584.jpg" />
+  </entry>
+  <entry>
     <title>Sierra Leone releases its last known Ebola patient</title>
     <link rel="alternate" href="http://www.sfgate.com/news/medical/article/Sierra-Leone-releases-its-last-known-Ebola-patient-6461687.php" />
     <author>

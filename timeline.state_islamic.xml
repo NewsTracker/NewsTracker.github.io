@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Spain, Morocco arrest suspected 'Islamic State' recruiters</title>
+    <link rel="alternate" href="http://www.dw.com/en/spain-morocco-arrest-suspected-islamic-state-recruiters/a-18670251?maca=en-rss-en-world-4025-rdf" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T08:22:00Z</updated>
+    <published>2015-08-25T08:22:00Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-25T08:22:00Z</dc:date>
+  </entry>
+  <entry>
     <title>Islamic State executes four people in central Libyan city</title>
     <link rel="alternate" href="http://timesofindia.indiatimes.com/world/rest-of-world/Islamic-State-executes-four-people-in-central-Libyan-city/articleshow/48664757.cms" />
     <author>
@@ -14,6 +25,18 @@
     <summary type="html">&lt;p&gt;Sirte residents, asking not to be named, said Islamic State had executed a total of four people, which all had been wearing orange jumpsuits.&lt;/p&gt;&lt;p&gt;Islamic State has executed four people in the central Libyan city of Sirte, including at least one member of a rival group whose body was put on display, according to residents and a video published on social media on Monday.&lt;/p&gt;</summary>
     <dc:date>2015-08-25T06:20:50Z</dc:date>
     <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48664796,width-300,resizemode-4/Islamic-State.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State suspected of using poison gas in Syria</title>
+    <link rel="alternate" href="http://www.smh.com.au/world/islamic-state-suspected-of-using-poison-gas-in-syria-20150825-gj6wvd.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T01:28:22Z</updated>
+    <published>2015-08-25T01:28:22Z</published>
+    <summary type="html">&lt;p&gt;Istanbul: Islamic State may have used chemical agents in an attack against civilians and rival insurgents in northern Syria late last week, according to local rebels and an international aid group.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T01:28:22Z</dc:date>
+    <media:content url="ww.smh.com.au/content/dam/images/g/j/6/y/b/n/image.related.articleLeadwide.620x349.gj6wvd.png/1440466057894.jpg" />
   </entry>
   <entry>
     <title>Islamic State claims to kill 30 for sodomy, UN meeting told</title>
@@ -1623,29 +1646,5 @@
     <published>2015-07-25T12:23:54Z</published>
     <summary type="html">&lt;p&gt;Lebanese security officials say Islamic extremists in the camp were likely behind the assassination Saturday.&lt;/p&gt;</summary>
     <dc:date>2015-07-25T12:23:54Z</dc:date>
-  </entry>
-  <entry>
-    <title>Turkish jets strike Kurds in Iraq, Islamic State in Syria</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28689118.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T08:05:12Z</updated>
-    <published>2015-07-25T08:05:12Z</published>
-    <summary type="html">&lt;p&gt;The strikes in Iraq targeted the Kurdistan Workers' Party, or PKK, whose affiliates have been effective in battling the Islamic State group.&lt;/p&gt;&lt;p&gt;The statement did not specify Islamic State targets that were struck in Syria in a second night of bombings, but described the airstrikes in both Syria and Iraq as being "effective."&lt;/p&gt;&lt;p&gt;Kurdish groups held the Turkish government responsible for the blast, saying it had not been aggressive in battling the Islamic State group.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T08:05:12Z</dc:date>
-    <media:content url="http://www.charlotteobserver.com/static/img/placeholder/FREE.gif" />
-  </entry>
-  <entry>
-    <title>Turkish jets strike Kurds in Iraq, Islamic State in Syria</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/25/turkish-jets-hit-is-targets-in-syria-kurds-in-iraq" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T07:59:36Z</updated>
-    <published>2015-07-25T07:59:36Z</published>
-    <summary type="html">&lt;p&gt;Turkish police meanwhile proceeded with a major operation against the Islamic State, the PKK and the far-left DHKP-C for a second day running.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T07:59:36Z</dc:date>
-    <media:content url="http://www.usnews.com/dims4/USNEWS/bea8882/2147483647/resize/652x%3E/quality/85/?url=%2Fcmsmedia%2Fe6%2F54793c97282fb105c93ba03c53d4aa%2Fmedia%3A2581106c34c146639cbd9627b41a7904TurkeySyriaAirstrikes.JPEG" />
   </entry>
 </feed>
