@@ -4,6 +4,18 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.mexico.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Deforestation in Mexico butterfly reserve nearly triples</title>
+    <link rel="alternate" href="http://www.chron.com/news/science/article/Deforestation-in-Mexico-butterfly-reserve-nearly-6464252.php" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T16:15:14Z</updated>
+    <published>2015-08-25T16:15:14Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-25T16:15:14Z</dc:date>
+    <media:content url="http://ww4.hdnux.com/photos/40/42/62/8531119/5/square_gallery_thumb.jpg" />
+  </entry>
+  <entry>
     <title>Mexico City cantina, a mariachi temple, celebrates 90th year</title>
     <link rel="alternate" href="http://www.charlotteobserver.com/entertainment/music-news-reviews/article32290011.html%23storylink=rss" />
     <author>

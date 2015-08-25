@@ -4,6 +4,53 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>ISIS shows photos of ancient Palmyra temple destruction in Syria</title>
+    <link rel="alternate" href="http://timesofindia.indiatimes.com/world/middle-east/ISIS-shows-photos-of-ancient-Palmyra-temple-destruction-in-Syria/articleshow/48670184.cms" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T12:58:29Z</updated>
+    <published>2015-08-25T12:58:29Z</published>
+    <summary type="html">&lt;p&gt;The temple was built nearly 2,000 years ago and Unesco has described it as a symbol of Syria's historical cultural diversity, which it says Islamic State is seeking to obliterate.&lt;/p&gt;&lt;p&gt;Islamic State, which holds tracts of Syria and Iraq, seized the desert city of Palmyra in May from government forces but initially left its ancient sites undamaged.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T12:58:29Z</dc:date>
+    <media:content url="http://timesofindia.indiatimes.com/thumb/msid-48670251,width-300,resizemode-4/Palmyra-Temple-I.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State propaganda photos boast of Palmyra temple’s destruction</title>
+    <link rel="alternate" href="http://www.theglobeandmail.com/news/world/islamic-state-propaganda-photos-boast-of-palmyra-temples-destruction/article26088501/?cmpid=rss1" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T12:56:31Z</updated>
+    <published>2015-08-25T12:56:31Z</published>
+    <summary type="html">&lt;p&gt;The Islamic State group released propaganda images Tuesday that purport to show militants laying explosives in and then blowing up the 2,000-year-old temple of Baalshamin in Syria's ancient caravan city of Palmyra.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T12:56:31Z</dc:date>
+    <media:content url="http://static.theglobeandmail.ca/d80/news/world/article26088493.ece/ALTERNATES/w220/web-wo-IS-palmyra25nw1" />
+  </entry>
+  <entry>
+    <title>Palmyra: Islamic State publishes images of Syria temple destruction</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/palmyra-islamic-state-publishes-images-of-syria-temple-destruction-20150825-gj7nyj.html" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T11:59:43Z</updated>
+    <published>2015-08-25T11:59:43Z</published>
+    <summary type="html">&lt;p&gt;Islamic State have released pictures purporting to show the destruction of the 2000-year-old temple of Baalshamin in Syria's ancient city of Palmyra.&lt;/p&gt;</summary>
+    <dc:date>2015-08-25T11:59:43Z</dc:date>
+    <media:content url="ww.brisbanetimes.com.au/content/dam/images/g/j/7/o/1/u/image.related.articleLeadwide.620x349.gj7nyj.png/1440504545217.jpg" />
+  </entry>
+  <entry>
+    <title>Islamic State images purport to show destroyed Syrian temple</title>
+    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/08/25/islamic-state-images-purport-to-show-destroyed-syrian-temple" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-25T11:54:27Z</updated>
+    <published>2015-08-25T11:54:27Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-25T11:54:27Z</dc:date>
+  </entry>
+  <entry>
     <title>Spain, Morocco arrest suspected 'Islamic State' recruiters</title>
     <link rel="alternate" href="http://www.dw.com/en/spain-morocco-arrest-suspected-islamic-state-recruiters/a-18670251?maca=en-rss-en-world-4025-rdf" />
     <author>
@@ -1578,73 +1625,5 @@
     <summary type="html" />
     <dc:date>2015-07-25T22:24:43Z</dc:date>
     <media:content url="http://ww3.hdnux.com/photos/37/71/37/8361970/11/square_gallery_thumb.jpg" />
-  </entry>
-  <entry>
-    <title>Embattled Kurds fight the IS group while dreaming of independence and enduring Turkish attacks</title>
-    <link rel="alternate" href="http://www.startribune.com/kurds-fight-the-is-group-while-being-bombed-by-turkey/318535361/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T18:30:31Z</updated>
-    <published>2015-07-25T18:30:31Z</published>
-    <summary type="html">&lt;p&gt;They have demonstrated a surprising resilience in their fight against Islamic State group militants in Kobani, pushing them out in January with the help of U.S.-led airstrikes.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T18:30:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>Kurds fight the IS group while being bombed by Turkey</title>
-    <link rel="alternate" href="http://www.daytondailynews.com/ap/ap/international/kurds-fight-the-is-group-while-being-bombed-by-tur/nm6hZ/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T18:25:59Z</updated>
-    <published>2015-07-25T18:25:59Z</published>
-    <summary type="html">&lt;p&gt;The Kurds of Syria and Iraq have become a major part of the war against the Islamic State group, with Kurdish populations in both countries threatened by the militants' advance.&lt;/p&gt;&lt;p&gt;Kurds accused Turkey of not doing enough to help Syrian Kurds during the battle against Islamic State militants over the Syrian Kurdish border town of Kobani, prompting violent clashes and straining the fragile peace process.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T18:25:59Z</dc:date>
-    <media:content url="http://media.cmgdigital.com/shared/lt/lt_cache/thumbnail/188/img/photos/2015/07/25/66/eb/f09876aaabfe409ba75b0aa4f92424ee-11d4339db20c456fa0a97df3de0632b8-0_1.jpg" />
-  </entry>
-  <entry>
-    <title>Kurds fight the IS group while being bombed by Turkey</title>
-    <link rel="alternate" href="http://www.usnews.com/news/world/articles/2015/07/25/kurds-fight-the-is-group-while-being-bombed-by-turkey" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T18:25:59Z</updated>
-    <published>2015-07-25T18:25:59Z</published>
-    <summary type="html">&lt;p&gt;They have been somewhat effective in limiting the expansion of the Islamic State militants across northern Iraq but there are concerns that Turkish airstrikes on the PKK could jeopardize Kurdish positions.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T18:25:59Z</dc:date>
-  </entry>
-  <entry>
-    <title>Turkish jets target Kurds in Iraq, Islamic State militants in Syria</title>
-    <link rel="alternate" href="http://www.foxnews.com/world/2015/07/25/turkish-jets-target-kurds-in-iraq-islamic-state-militants-in-syria/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T12:56:27Z</updated>
-    <published>2015-07-25T12:56:27Z</published>
-    <summary type="html">&lt;p&gt;Turkey also announced Friday that it was allowing its air bases to be used by the U.S.-led coalition forces for operations against Islamic State extremists.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T12:56:27Z</dc:date>
-  </entry>
-  <entry>
-    <title>Palestinian official assassinated in refugee camp in Lebanon, likely by Islamic extremists</title>
-    <link rel="alternate" href="http://www.startribune.com/palestinian-official-assassinated-in-refugee-camp-in-lebanon/318527261/" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T12:25:07Z</updated>
-    <published>2015-07-25T12:25:07Z</published>
-    <summary type="html" />
-    <dc:date>2015-07-25T12:25:07Z</dc:date>
-    <media:content url="http://stmedia.stimg.co/vikes+gal07241510.JPG?h=150&amp;amp;amp;w=300&amp;amp;amp;fit=crop&amp;amp;amp;bg=999&amp;amp;amp;crop=faces" />
-  </entry>
-  <entry>
-    <title>Palestinian official assassinated in refugee camp in Lebanon</title>
-    <link rel="alternate" href="http://www.charlotteobserver.com/news/nation-world/world/article28694185.html%23storylink=rss" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-25T12:23:54Z</updated>
-    <published>2015-07-25T12:23:54Z</published>
-    <summary type="html">&lt;p&gt;Lebanese security officials say Islamic extremists in the camp were likely behind the assassination Saturday.&lt;/p&gt;</summary>
-    <dc:date>2015-07-25T12:23:54Z</dc:date>
   </entry>
 </feed>
