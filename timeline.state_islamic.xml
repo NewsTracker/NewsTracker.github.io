@@ -4,6 +4,17 @@
   <link rel="alternate" href="http://newstracker.github.io/timeline.state_islamic.xml" />
   <subtitle>This is a news tracking demo</subtitle>
   <entry>
+    <title>Islamic State fight: Pentagon investigates claims of skewed intelligence</title>
+    <link rel="alternate" href="http://www.brisbanetimes.com.au/world/pentagon-investigates-claims-of-skewed-intelligence-reports-on-islamic-state-20150826-gj7tgv" />
+    <author>
+      <name />
+    </author>
+    <updated>2015-08-26T00:45:34Z</updated>
+    <published>2015-08-26T00:45:34Z</published>
+    <summary type="html" />
+    <dc:date>2015-08-26T00:45:34Z</dc:date>
+  </entry>
+  <entry>
     <title>As Islamic State militants destroy artifacts, heritage always a target across centuries of war</title>
     <link rel="alternate" href="http://www.startribune.com/in-islamic-state-war-like-others-heritage-always-a-target/322868401/" />
     <author>
@@ -1623,17 +1634,5 @@
     <published>2015-07-26T15:57:32Z</published>
     <summary type="html">&lt;p&gt;BAGHDAD - Iraqi officials in Iraq's western Anbar province say government forces have retaken Anbar University from the Islamic State militant group after hours of fierce clashes.&lt;/p&gt;&lt;p&gt;Another Anbar councilman, Faleh al-Issawi, tells The Associated Press that about two dozen Islamic State fighters were killed in the clashes.&lt;/p&gt;&lt;p&gt;The Iraqi military launched a large scale operation this month to retake Anbar province, in which most of the biggest cities are held by the Islamic State group.&lt;/p&gt;</summary>
     <dc:date>2015-07-26T15:57:32Z</dc:date>
-  </entry>
-  <entry>
-    <title>Turkey threatens more air strikes in Syria, Iraq against Islamic State, PKK</title>
-    <link rel="alternate" href="http://www.smh.com.au/world/turkey-threatens-more-air-strikes-in-syria-iraq-against-islamic-state-pkk-20150726-gikm73.html" />
-    <author>
-      <name />
-    </author>
-    <updated>2015-07-26T01:25:54Z</updated>
-    <published>2015-07-26T01:25:54Z</published>
-    <summary type="html">&lt;p&gt;Backed by the US-led coalition air strikes against Islamic State, the YPG controls as much as half of Syria's 800-kilometre border with Turkey, and Ankara is determined to prevent the Kurds creating an independent state in the north of Syria.&lt;/p&gt;&lt;p&gt;The move came as Turkey abandoned its previous reluctance to join the US-led coalition against Islamic State on Friday and agreed to open up a key airbase at Incirlik for use by US warplanes to launch attacks against IS.&lt;/p&gt;&lt;p&gt;The anti-terror campaign follows the death of 32 people in the south-eastern Turkish town of Suruc - a majority Kurdish town - on Monday in a suicide attack linked to Islamic State.&lt;/p&gt;</summary>
-    <dc:date>2015-07-26T01:25:54Z</dc:date>
-    <media:content url="ww.smh.com.au/content/dam/images/g/i/k/9/w/s/image.related.articleLeadwide.620x349.gikm73.png/1437873942921.jpg" />
   </entry>
 </feed>
